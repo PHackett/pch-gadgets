@@ -8,7 +8,7 @@
 //------------------------------------------------------------
 function GGUtils_MonthNumToString (aMonth)
 {
-    var lMonths=new Array("January", "Feburary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
+    var lMonths=new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
 
     return (lMonths[aMonth]);
 }
