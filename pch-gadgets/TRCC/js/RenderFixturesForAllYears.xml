@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+
+	<ModulePrefs
+		title="Fixtures - All years"
+		author="Paul Hackett"
+		author_email="TRCCGadgets@paulhackett.com"
+		description="For the rendering of TRCC fixure lists for all years we have data on."
+		thumbnail="http://hosting.gmodules.com/ig/gadgets/file/100034064483296056432/TRCC-Shield.png"
+		width="700"
+		height="500"
+		scrolling="true">
+	</ModulePrefs>
+
+	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
+
+	<Content type="html">
+
+		<![CDATA[
+			<style type="text/css">
+				.GadgetFixtureAltLine { background-color: lightblue;}
+				.GadgetContentHeading { font-family: "Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+										font-size: x-large;
+										color: DarkBlue;
+									  }
+			</style>
+
+			<div id="content_div"></div>
+
+			<script type="text/javascript">
+
+				var gLinkTarget="";
+
+				//--------------------------------------------------------[getTRData]-
+				// Returns the text for the "<TR>" string
+				//
+				// @param aIndex IN Line index
+				//
+				// @return Constructed <tr> line
+				//--------------------------------------------------------------------
+				function getTRData (aIndex)
+				{
+					var lRet="<tr>";
+					
+					if (!(aIndex % 2))
+					{
+						lRet = "<tr class='GadgetFixtureAltLine'>";
+					}
+
+					return (lRet);
+				}
+
+				//--------------------------------------------------------[getTRData]-
+				// Returns the text for the "<TR>" string
+				//
+				// @param aIndex IN Line index
+				//
+				// @return Constructed <tr> line
+				//--------------------------------------------------------------------
+				function makeTeamYearLink (aYear, aTeam)
+				{
+					var lRet="";
+					var lBaseURL="http://www.paulhackett.plus.com/websites/trcc/Fixtures/FixturesByYear.html";
+					
+					lRet += "<a href='" + lBaseURL + "?year=" + aYear + "+DOW=" + aTeam;
+					
+					if (0 != gLinkTarget.length)
+					{
+						lRet += "' target='" + gLinkTarget;
+					}
+					
+					lRet += "'>" + aTeam + "</a>";
+					
+					return (lRet);
+				}
+
+				//---------------------------------------------------[renderTeamLink]-
+				// Returns the text for the "<td>" string for the team
+				//
+				// @param aExists IN Does the information exist?
+				// @param aYear IN Year that this data is for
+				// @param aTeam IN "Saturday", "Sunday"
+				//
+				// @return Constructed <td> line
+				//--------------------------------------------------------------------
+				function renderTeamLink (aExists, aYear, aTeam)
+				{
+					var lRet="<td>&nbsp;</td>";
+					
+					if (aExists)
+					{
+						lRet = "<td>" + makeTeamYearLink (aYear, aTeam) + "</td>";
+					}
+					
+					return (lRet);
+				}
+
+				//-------------------------------------------------------[renderData]-
+				// Render the XML
+				//
+				// @param response IN The XML whose data we are to render as HTML
+				//--------------------------------------------------------------------
+				function renderData (response)
+				{
+					if (response == null || typeof(response) != "object" || response.firstChild == null)
+					{
+						_gel("content_div").innerHTML = "<i>Invalid data.</i>";
+						return;
+					}
+				
+					//
+					// Get the user preferences
+					//
+					var lPrefs = new _IG_Prefs();
+					
+					gLinkTarget = lPrefs.getString ("linkTarget");
+					
+					
+					var lHTML="";
+
+					//
+					// Start building HTML string that will be displayed in <div>.
+					//
+					lHTML += "<table border='0' cellpadding='5' cellspacing='0' width='100%'>";
+					
+					//
+					// Now down all the entries ...
+					//
+					var lYears = response.getElementsByTagName("TeamsInYear");
+
+					for (var i=0 ; i<lYears.length ; ++i)
+					{
+						//
+						// Get the year
+						//
+						var lYear=lYears.item(i).getAttribute ("year");
+						
+						//
+						// Now down all the teams that play in that year
+						//
+						var lHaveSaturday=false;
+						var lHaveSunday=false;
+						var lTeams = lYears.item(i).childNodes;
+						
+						for (var j=0 ; j<lTeams.length ; ++j)
+						{
+							if (lTeams.item(j).nodeName == "Team")
+							{
+								if (lTeams.item(j).firstChild.nodeValue == "Saturday")
+								{
+									lHaveSaturday = true;
+								}
+								else if (lTeams.item(j).firstChild.nodeValue == "Sunday")
+								{
+									lHaveSunday = true;
+								}
+							}
+						}
+				
+						//
+						// We can now write the line out
+						//
+						lHTML += getTRData (i);
+						
+						lHTML += "<td";
+						if (0 == i)
+						{
+							lHTML += " class='GadgetContentHeading'";
+						}
+
+						lHTML += ">" + lYear + "</td>";
+						
+						lHTML += renderTeamLink (lHaveSaturday, lYear, "Saturday");
+						lHTML += renderTeamLink (lHaveSunday, lYear, "Sunday");
+						lHTML += "</tr>";
+					}
+
+					//
+					// End the table
+					//
+					lHTML += "</table>";
+					
+					//
+					// Display HTML string in <div>
+					//
+					_gel('content_div').innerHTML = lHTML;
+				}
+				
+				//----------------------------------------------------------[display]-
+				// Load the XML & call the renderer
+				//--------------------------------------------------------------------
+				function display()
+				{
+					//
+					// XML data for TRCC fixure years
+					//
+					var url = "http://www.paulhackett.plus.com/websites/trcc/Fixtures/fixtureYearsDB.xml";
+					
+					//
+					// Get the XML - Callback to function renderData when complete
+					//
+					_IG_FetchXmlContent(url, renderData);
+				}
+
+				_IG_RegisterOnloadHandler(display);
+
+			</script>
+		]]>
+	</Content>
+</Module>
