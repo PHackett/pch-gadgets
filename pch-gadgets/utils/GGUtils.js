@@ -193,3 +193,54 @@ function GGUtils_ParseQuery ()
 
 	return (lArgs);
 }
+
+
+//------------------------------[GGUtils_spacesToUnderscores]-
+// Replace all the spaces in the supplied string with "_" chars.
+//
+// @param	aS	IN	String to modify
+// 
+// @return Modified string 
+//
+//------------------------------------------------------------
+function GGUtils_spacesToUnderscores (aS)
+{
+	return (aS.replace (/ /g, "_"));
+}
+
+
+//-----------------------------------------[GGUtils_makeHREF]-
+// Make the <a href=....> string for the given info
+// 
+// @param	aString	IN	Displayed string 
+// @param	aURL	IN	Target URL 
+// @param	aTarget	IN	window target 
+//
+// @return HTML <a href> string
+//
+//------------------------------------------------------------
+function GGUtils_makeHREF (aString, aURL, aTarget)
+{
+	var lRet="<a href=";
+	
+	lRet += "\"" + aURL + "\"";
+	
+	if (null == aTarget)
+	{
+		// Nothing else
+	}
+	else if (0 == aTarget.length)
+	{
+		// Nothing else
+	}
+	else
+	{
+		lRet += " target=\"" + aTarget + "\""; 
+	}
+	
+	lRet += ">";
+	lRet += aString;
+	lRet += "</a>"; 
+	
+	return (lRet);
+}

@@ -43,6 +43,7 @@ function GGTRCC_FixtureO (aFixtureXML)
 	this.TimeHTML = GGTRCC_FixtureO___TimeHTML;
 	this.VenueHTML = GGTRCC_FixtureO___VenueHTML;
 	this.ResultHTML = GGTRCC_FixtureO___ResultHTML;
+	this.URL = GGTRCC_FixtureO___URL;
 	
 	this.isWin = GGTRCC_FixtureO___isWin;
 	this.isLose = GGTRCC_FixtureO___isLose;
@@ -108,6 +109,11 @@ function GGTRCC_FixtureO___DateHTML()
 		lRet = GGUtils_MonthStringFromDate (this.mDate)
 			 + " "
 			 + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), true);
+	
+		if (this.mHasLink)
+		{
+			lRet = GGUtils_makeHREF (lRet, this.URL(), "");
+		}
 	}
 	
 	return (lRet);
@@ -127,6 +133,11 @@ function GGTRCC_FixtureO___OppoHTML()
 	if (null != this.mOppo)
 	{
 		lRet = this.mOppo;
+
+		if (this.mHasLink)
+		{
+			lRet = GGUtils_makeHREF (lRet, this.URL(), "");
+		}
 	}
 	
 	return (lRet);
@@ -229,6 +240,26 @@ function GGTRCC_FixtureO___ResultHTML()
 	return (lRet);
 }
 
+
+//-----------------------------[GGTRCC_FixtureO___ResultHTML]-
+// Get the result as HTML
+//
+// @return The fixture result as HTML
+//
+//------------------------------------------------------------
+function GGTRCC_FixtureO___URL()
+{
+	var lBaseURL="http://trcc.paulhackett.com/Fixtures/GenericFixture.html?";
+	
+	var lURL=lBaseURL;
+	
+	lURL += "month=" + GGUtils_MonthStringFromDate (this.mDate) + "+";
+	lURL += "date="  + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "+";
+	lURL += "year="  + this.mDate.getFullYear() + "+";
+	lURL += "oppo="  + this.mOppo;
+	
+	return (GGUtils_spacesToUnderscores(lURL));
+}
 
 function GGTRCC_FixtureO___isWin() { return (gFixtureResWin == this.mResult); }
 function GGTRCC_FixtureO___isLose() { return (gFixtureResLose == this.mResult); }
