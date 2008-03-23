@@ -167,7 +167,7 @@ function GGUtils_XMLToHTML (aXMLNode)
 //---------------------------------------[GGUtils_ParseQuery]-
 // Parse the "query" part of the URL of th ecurrent page.
 //
-//	The query is expected to be of the form "name1=value1+name2=value2"
+//	The query is expected to be of the form "name1=value1&name2=value2"
 //
 // @return Array (name, value) of parsed items. 
 //
@@ -176,7 +176,7 @@ function GGUtils_ParseQuery ()
 {
 	var lArgs = new Object();
 	var lQuery = location.search.substring (1);
-	var lPairs = lQuery.split ("+");
+	var lPairs = lQuery.split ("&");
 
 	for (var i=0 ; i<lPairs.length ; i++)
 	{
