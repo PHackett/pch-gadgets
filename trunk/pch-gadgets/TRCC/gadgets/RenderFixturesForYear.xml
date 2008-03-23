@@ -13,6 +13,11 @@
 	</ModulePrefs>
 
 	<UserPref name="linkToNewWindow" display_name="Open links in new window?" datatype="bool" default_value="true"/>
+	<UserPref name="year" display_name="For which year?" datatype="string" default_value="2008"/>
+	<UserPref name="team" display_name="Which team?" datatype="enum" default_value="Sunday">
+		<EnumValue value="Saturday" />
+		<EnumValue value="Sunday" />
+	</UserPref>
 
 	<Content type="html">
 
@@ -36,6 +41,8 @@
 			<script type="text/javascript">
 
 				var gLinkToNewWindow=false;
+				var gTeam="Sunday";
+				var gYear="2008";
 				var gNBSP="nbsp";
 	
 	
@@ -52,7 +59,7 @@
 					
 					if (!(aIndex % 2))
 					{
-					lRet = "<tr class='GadgetFixtureAltLine'>";
+						lRet = "<tr class='GadgetFixtureAltLine'>";
 					}
 		
 					return (lRet);
@@ -193,6 +200,27 @@
 					_gel('content_div').innerHTML = lHTML;
 				}
 
+				//-------------------------------------------------[processUserPrefs]-
+				// Process the user preferences
+				//--------------------------------------------------------------------
+				function processUserPrefs ()
+				{
+					var lPrefs=new _IG_Prefs();
+					
+					if (lPrefs.getBool("linkToNewWindow")==true)
+					{
+						gLinkToNewWindow = true;
+					}
+					else
+					{
+						gLinkToNewWindow = false;
+					}
+					
+					gTeam = lPrefs.getString ("team");
+					gYear = lPrefs.getString ("year");
+				}
+				
+				
 				//----------------------------------------------------------[display]-
 				// Load the XML & call the renderer
 				//--------------------------------------------------------------------
@@ -201,23 +229,11 @@
 					var lBaseURL = "http://www.paulhackett.plus.com/websites/trcc/Fixtures/";
 					
 					//
-					// Determine what year & Day Of Week
+					// Read the user prefs
 					//
-					var lYear=2007;
-					var lDOW="Sunday";
-					var lParams=GGUtils_ParseQuery();
+					processUserPrefs ();
 					
-					if (lParams.year)
-					{
-						lYear = lParams.year;
-					}
-					
-					if (lParams.DOW)
-					{
-						lDOW = lParams.DOW;
-					} 
-					
-					var lXMLURL=lBaseURL + lYear + "/" + lDOW + "_Fixtures_Data.xml";
+					var lXMLURL=lBaseURL + gYear + "/" + gTeam + "_Fixtures_Data.xml";
 					
 					//
 					// XML data for TRCC fixure years
