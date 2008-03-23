@@ -240,7 +240,7 @@
 					//
 					// Get the XML - Callback to function renderData when complete
 					//
-					_IG_FetchXmlContent(lXMLURL, renderData);
+					_IG_FetchXmlContent(gXMLSrc, renderData);
 				}
 	
 				_IG_RegisterOnloadHandler(display);
