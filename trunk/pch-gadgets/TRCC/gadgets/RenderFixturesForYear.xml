@@ -199,8 +199,23 @@
 				function display()
 				{
 					var lBaseURL = "http://www.paulhackett.plus.com/websites/trcc/Fixtures/";
+					
+					//
+					// Determine what year & Day Of Week
+					//
 					var lYear=2007;
 					var lDOW="Sunday";
+					var lParams=GGUtils_ParseQuery();
+					
+					if (lParams.year)
+					{
+						lYear = lParams.year;
+					}
+					
+					if (lParams.DOW)
+					{
+						lDOW = lParams.DOW;
+					} 
 					
 					var lXMLURL=lBaseURL + lYear + "/" + lDOW + "_Fixtures_Data.xml";
 					
