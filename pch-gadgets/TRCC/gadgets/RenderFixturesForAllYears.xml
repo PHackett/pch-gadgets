@@ -6,7 +6,7 @@
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of TRCC fixure lists for all years we have data on."
-		thumbnail="http://hosting.gmodules.com/ig/gadgets/file/100034064483296056432/TRCC-Shield.png"
+		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
 		width="700"
 		height="500"
 		scrolling="true">
