@@ -167,14 +167,20 @@
 						return;
 					}
 					
-					var lPrefs=new _IG_Prefs();
-					
-					if (lPrefs.getBool("linkToNewWindow")==true)
-					{
-						gLinkToNewWindow = true;
-					}
-					
 					var lHTML="";
+{
+	var lX=_args()["test"];
+	
+	if (typeof lX != "undefined") 
+	{
+  		lHTML += "test = " + lX;
+	}
+	else
+	{
+  		lHTML += "test = NOT PRESENT";
+	}
+	lHTML += "<br>";
+}
 					
 					//
 					// Start building HTML string that will be displayed in <div>.
