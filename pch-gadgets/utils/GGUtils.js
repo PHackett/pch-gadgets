@@ -163,3 +163,33 @@ function GGUtils_XMLToHTML (aXMLNode)
 
     return (lRet);
 }
+
+//---------------------------------------[GGUtils_ParseQuery]-
+// Parse the "query" part of the URL of th ecurrent page.
+//
+//	The query is expected to be of the form "name1=value1+name2=value2"
+//
+// @return Array (name, value) of parsed items. 
+//
+//------------------------------------------------------------
+function GGUtils_ParseQuery ()
+{
+	var lArgs = new Object();
+	var lQuery = location.search.substring (1);
+	var lPairs = lQuery.split ("+");
+
+	for (var i=0 ; i<lPairs.length ; i++)
+	{
+		var lPos = lPairs[i].indexOf ("=");
+
+		if (lPos != -1)
+		{
+			var lArgName = lPairs[i].substring (0, lPos);
+			var lArgVal  = lPairs[i].substring (lPos + 1);
+
+			lArgs[lArgName] = lArgVal;
+		}
+	}
+
+	return (lArgs);
+}
