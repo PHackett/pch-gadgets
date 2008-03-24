@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+	This file is the database showing which teams played in which years, 
+	or at least those we have scorebooks for!
+-->
+
+<YearsDB>
+
+	<TeamsInYear year="2008"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2007"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2006"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2005"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2004"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2003"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2002">                     <Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2001"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="2000"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1999"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1998"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1997"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1996"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1995"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1994"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1993"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1992"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1991"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1990">                     <Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1989"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1988"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1987"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1986"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1985"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1981"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1980"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1979"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1978"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1977"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1976"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+	<TeamsInYear year="1975"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
+</YearsDB>
