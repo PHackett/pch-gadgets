@@ -31,6 +31,7 @@
 			Include my utilities libraries
 			-->
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
 
 
 			<script type="text/javascript">
@@ -192,7 +193,7 @@
 					//
 					// XML data for TRCC fixure years
 					//
-					var url = "http://www.paulhackett.plus.com/websites/trcc/Fixtures/fixtureYearsDB.xml";
+					var url = gGGGadget_Root + "TRCC/data/fixtures/fixtureYearsDB.xml";
 					
 					//
 					// Get the XML - Callback to function renderData when complete
