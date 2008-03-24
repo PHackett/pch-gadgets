@@ -2,7 +2,7 @@
 <Module>
 
 	<ModulePrefs
-		title="Dump _args()"
+		title="GGDump _args()"
 		author="Paul Hackett"
 		author_email="TestGadgets@paulhackett.com"
 		description="So I can see whats in the _args() collection."
@@ -23,7 +23,10 @@
 				 //---------------------------------------------------[dumpCollection]-
 				// Write out the given collection
 				//
-				// @param response IN The XML whose data we are to render as HTML
+				// @param aCol 		IN The associative array to dump
+				// @param aTitle	IN Title for dump
+				//
+				// @return	HTML string of the dump
 				//--------------------------------------------------------------------
 				function dumpCollection (aCol, aTitle)
 				{
@@ -31,11 +34,9 @@
 					
 					lRet += "<h2>" + aTitle + ":" + "</h2>\n";
 					lRet += "<table width='100%' border='1' cellpadding='0' cellspacing='0'>\n";
-					
-					// var myEnum = new Enumerator (aCol);
+
 					var lCount=0;
 					
-					// for (myEnum; !myEnum.atEnd() ; myEnum.moveNext())
 					for (var lItem in aCol)
 					{
 						var lKey=lItem;
