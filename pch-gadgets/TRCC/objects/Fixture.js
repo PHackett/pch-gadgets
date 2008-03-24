@@ -20,10 +20,11 @@ var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/T
 //------------------------------------------[GGTRCC_FixtureO]-
 // Object to hold information on a single fixture
 //
-// @param aFixtureXML IN The fixture XML node
+// @param aFixtureXML 	IN 	The fixture XML node
+// @param aLinkTarget	IN	The link target
 //
 //------------------------------------------------------------
-function GGTRCC_FixtureO (aFixtureXML)
+function GGTRCC_FixtureO (aFixtureXML, aLinkTarget)
 {
 	//
 	// Initialse the members
@@ -34,6 +35,11 @@ function GGTRCC_FixtureO (aFixtureXML)
 	this.mVenue = null;
 	this.mResult = gFixtureResNP;
 	this.mHasLink = false;
+	this.mLinkTarget = aLinkTarget;
+	if (null == this.mLinkTarget)
+	{
+		this.mLinkTarget = "";
+	}
 	
 	//
 	// Set up the "methods"
@@ -112,7 +118,7 @@ function GGTRCC_FixtureO___DateHTML()
 	
 		if (this.mHasLink)
 		{
-			lRet = GGUtils_makeHREF (lRet, this.URL(), "");
+			lRet = GGUtils_makeHREF (lRet, this.URL(), this.mLinkTarget);
 		}
 	}
 	
@@ -136,7 +142,7 @@ function GGTRCC_FixtureO___OppoHTML()
 
 		if (this.mHasLink)
 		{
-			lRet = GGUtils_makeHREF (lRet, this.URL(), "");
+			lRet = GGUtils_makeHREF (lRet, this.URL(), this.mLinkTarget);
 		}
 	}
 	

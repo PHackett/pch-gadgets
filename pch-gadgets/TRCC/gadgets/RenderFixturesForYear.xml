@@ -83,7 +83,7 @@
 					//
 					// Parse the fixture
 					//
-					var lFixture = new GGTRCC_FixtureO (aFixtureXML);
+					var lFixture = new GGTRCC_FixtureO (aFixtureXML, gLinkTarget);
 					
 					//
 					// Start the <tr>
