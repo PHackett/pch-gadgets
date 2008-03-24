@@ -36,6 +36,7 @@
 			Include my utilities library
 			-->
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/Fixture.js" type="text/javascript"></script>
 
 			<script type="text/javascript">
@@ -214,6 +215,28 @@
 					gTeam = lPrefs.getString ("team");
 					gYear = lPrefs.getString ("year");
 				}
+
+
+				//-------------------------------------------------[processUserPrefs]-
+				// Process the user preferences
+				//--------------------------------------------------------------------
+				function processHostingPageURL ()
+				{
+					var lArgs=GGGadget_parseHostQuery();
+					
+					if (0 != lArgs.length)
+					{
+						if (null!= lArgs["Team"])
+						{
+							gTeam = lArgs["Team"];
+						} 
+
+						if (null != lArgs["year"])
+						{
+							gYear = lArgs["year"];
+						}
+					} 
+				}
 				
 				
 				//----------------------------------------------------------[display]-
@@ -224,9 +247,10 @@
 					var lBaseURL = "http://www.paulhackett.plus.com/websites/trcc/Fixtures/";
 					
 					//
-					// Read the user prefs
+					// Read the user prefs & hosting URL
 					//
 					processUserPrefs ();
+					processHostingPageURL();
 					
 					gXMLSrc = lBaseURL + gYear + "/" + gTeam + "_Fixtures_Data.xml";
 					
