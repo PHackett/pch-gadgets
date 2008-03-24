@@ -74,7 +74,9 @@ function GGTRCC_FixtureO (aFixtureXML, aLinkTarget)
 		this.mTime = lXMLElement[0].firstChild.nodeValue;
 	}
 	
-	if (1 == (lXMLElement = aFixtureXML.getElementsByTagName ("Venue")).length)
+	if ((1 == (lXMLElement = aFixtureXML.getElementsByTagName ("Venue")).length) &&
+		(null != lXMLElement[0]) && 
+		(null != lXMLElement[0].firstChild))
 	{
 		this.mVenue = lXMLElement[0].firstChild.nodeValue;
 	}
