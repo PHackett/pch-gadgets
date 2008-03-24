@@ -1,197 +1,168 @@
-<!-- Generated on Sun Mar 16 18:10:46 UTC 2008 -->
 <?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Mar 24 19:51:45 UTC 2008 -->
 <YearsFixtures>
 <Fixture>
-  <Date value="Sat, 3 May 2008 23:00:00 UTC"/>
-  <Opposition value="Odney"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 3 May 2008 23:00:00 UTC</Date>
+  <Opposition>Odney</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 10 May 2008 23:00:00 UTC"/>
-  <Opposition value="Penn Street"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 10 May 2008 23:00:00 UTC</Date>
+  <Opposition>Penn Street</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 17 May 2008 23:00:00 UTC"/>
-  <Opposition value="Wooburn Narcovians"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 17 May 2008 23:00:00 UTC</Date>
+  <Opposition>Wooburn Narcovians</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 24 May 2008 23:00:00 UTC"/>
-  <Opposition value="Woodley"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 24 May 2008 23:00:00 UTC</Date>
+  <Opposition>Woodley</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 31 May 2008 23:00:00 UTC"/>
-  <Opposition value="Crowthorne"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 31 May 2008 23:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 7 Jun 2008 23:00:00 UTC"/>
-  <Opposition value="Greys Green"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 7 Jun 2008 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 14 Jun 2008 23:00:00 UTC"/>
-  <Opposition value="Wokingham"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 14 Jun 2008 23:00:00 UTC</Date>
+  <Opposition>Wokingham</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 21 Jun 2008 23:00:00 UTC"/>
-  <Opposition value="TBD"/>
-  <Time value=""/>
-  <Venue value=""/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 21 Jun 2008 23:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
+  <Venue></Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 28 Jun 2008 23:00:00 UTC"/>
-  <Opposition value="Warfield"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 28 Jun 2008 23:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 5 Jul 2008 23:00:00 UTC"/>
-  <Opposition value="Harpsden"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 5 Jul 2008 23:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 12 Jul 2008 23:00:00 UTC"/>
-  <Opposition value="Woodcote"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 12 Jul 2008 23:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 19 Jul 2008 23:00:00 UTC"/>
-  <Opposition value="Moulsford"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 19 Jul 2008 23:00:00 UTC</Date>
+  <Opposition>Moulsford</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 26 Jul 2008 23:00:00 UTC"/>
-  <Opposition value="Wargrave"/>
-  <Time value="2:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 26 Jul 2008 23:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>2:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 2 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Falkland"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 2 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Falkland</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 9 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Reading Lawyers"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 9 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 16 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Checkendon"/>
-  <Time value="2:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 16 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Fri, 22 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Tour"/>
-  <Time value=""/>
-  <Venue value="Tour"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Fri, 22 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Tour</Opposition>
+  <Venue>Tour</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 23 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Tour"/>
-  <Time value=""/>
-  <Venue value="Tour"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 23 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Tour</Opposition>
+  <Venue>Tour</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sun, 24 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Tour"/>
-  <Time value=""/>
-  <Venue value="Tour"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sun, 24 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Tour</Opposition>
+  <Venue>Tour</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 30 Aug 2008 23:00:00 UTC"/>
-  <Opposition value="Binfield"/>
-  <Time value="1:30"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 30 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>1:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 6 Sep 2008 23:00:00 UTC"/>
-  <Opposition value="Emmbrook and Bearwood"/>
-  <Time value="1:30"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 6 Sep 2008 23:00:00 UTC</Date>
+  <Opposition>Emmbrook and Bearwood</Opposition>
+  <Time>1:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 13 Sep 2008 23:00:00 UTC"/>
-  <Opposition value="Lower Earley"/>
-  <Time value="1:00"/>
-  <Venue value="Home"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 13 Sep 2008 23:00:00 UTC</Date>
+  <Opposition>Lower Earley</Opposition>
+  <Time>1:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 20 Sep 2008 23:00:00 UTC"/>
-  <Opposition value="Cranbourne"/>
-  <Time value="1:00"/>
-  <Venue value="Away"/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 20 Sep 2008 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Time>1:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date value="Sat, 27 Sep 2008 23:00:00 UTC"/>
-  <Opposition value="TBD"/>
-  <Time value=""/>
-  <Venue value=""/>
-  <Result value="NotPlayed"/>
-  <HasLink value="false"/>
+  <Date>Sat, 27 Sep 2008 23:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
+  <Venue></Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 </YearsFixtures>
 
