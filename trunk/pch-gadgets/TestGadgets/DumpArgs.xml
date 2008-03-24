@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+
+	<ModulePrefs
+		title="Dump _args()"
+		author="Paul Hackett"
+		author_email="TestGadgets@paulhackett.com"
+		description="So I can see whats in the _args() collection."
+		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
+		width="700"
+		height="500"
+		scrolling="true">
+	</ModulePrefs>
+
+	<Content type="html">
+
+		<![CDATA[
+
+			<div id="content_div"></div>
+
+			<script type="text/javascript">
+
+				//---------------------------------------------------[dumpCollection]-
+				// Write out the given collection
+				//
+				// @param response IN The XML whose data we are to render as HTML
+				//--------------------------------------------------------------------
+				function dumpCollection (aCol, aTitle)
+				{
+					document.writeln ("<span class='ParaHeading'>" + aTitle + ":" + "</span>\n");
+					document.writeln ("<table width='100%' border='1' cellpadding='0' cellspacing='0'>\n");
+				
+					var myEnum = new Enumerator (aCol);
+					var lCount=0;
+				
+					for (myEnum; !myEnum.atEnd() ; myEnum.moveNext())
+					{
+						var lKey=myEnum.item();
+						var lValue=new String (aCol(lKey));
+				
+						document.writeln ("  <tr>\n");
+				
+						document.writeln ("    <td>\n");
+						document.writeln (lKey + "\n");
+						document.writeln ("    </td>\n");
+				
+						document.writeln ("    <td>\n");
+						
+						if ((null != lValue) && ("" != lValue))
+						{
+							document.writeln (lValue + "\n");
+						}
+						else
+						{
+							document.writeln ("&nbsp;\n");
+						}
+						document.writeln ("    </td>\n");
+				
+						document.writeln ("  </tr>\n");
+				
+						++lCount;
+					}
+				
+					if (0 == lCount)
+					{
+						document.writeln ("  <tr>\n");
+						document.writeln ("    <td>\n");
+						document.writeln ("     EMPTY\n");
+						document.writeln ("    </td>\n");
+						document.writeln ("  </tr>\n");
+					}
+				
+					document.writeln ("</table>\n");
+					document.writeln ("<br>\n");
+					document.writeln ("<br>\n");
+				}
+
+				//----------------------------------------------------------[display]-
+				// Load the XML & call the renderer
+				//--------------------------------------------------------------------
+				function display()
+				{
+					//
+					// Dump out the _args() collection
+					//
+					dumpCollection (_args(), "_args()");
+				}
+
+				_IG_RegisterOnloadHandler(display);
+
+			</script>
+		]]>
+	</Content>
+</Module>
