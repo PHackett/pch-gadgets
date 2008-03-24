@@ -12,7 +12,7 @@
 		scrolling="true">
 	</ModulePrefs>
 
-	<UserPref name="linkToNewWindow" display_name="Open links in new window?" datatype="bool" default_value="true"/>
+	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
 	<UserPref name="year" display_name="For which year?" datatype="string" default_value="2008"/>
 	<UserPref name="team" display_name="Which team?" datatype="enum" default_value="Sunday">
 		<EnumValue value="Saturday" />
@@ -41,7 +41,7 @@
 
 			<script type="text/javascript">
 
-				var gLinkToNewWindow=false;
+				var gLinkTarget="";
 				var gTeam="Sunday";
 				var gYear="2008";
 				var gNBSP="nbsp";
@@ -156,17 +156,9 @@
 				{
 					var lPrefs=new _IG_Prefs();
 					
-					if (lPrefs.getBool("linkToNewWindow")==true)
-					{
-						gLinkToNewWindow = true;
-					}
-					else
-					{
-						gLinkToNewWindow = false;
-					}
-					
-					gTeam = lPrefs.getString ("team");
-					gYear = lPrefs.getString ("year");
+					gTeam 		= lPrefs.getString ("team");
+					gYear 		= lPrefs.getString ("year");
+					gLinkTarget = lPrefs.getString ("linkTarget");
 				}
 
 
