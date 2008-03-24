@@ -20,7 +20,7 @@
 
 			<script type="text/javascript">
 
-				//---------------------------------------------------[dumpCollection]-
+				 //---------------------------------------------------[dumpCollection]-
 				// Write out the given collection
 				//
 				// @param response IN The XML whose data we are to render as HTML
@@ -31,21 +31,23 @@
 					
 					lRet += "<h2>" + aTitle + ":" + "</h2>\n";
 					lRet += "<table width='100%' border='1' cellpadding='0' cellspacing='0'>\n";
-				
+					
+					// var myEnum = new Enumerator (aCol);
 					var lCount=0;
-				
- 					for (var lItem in aCol)
+					
+					// for (myEnum; !myEnum.atEnd() ; myEnum.moveNext())
+					for (var lItem in aCol)
 					{
 						var lKey=lItem;
 						var lValue=new String (aCol[lKey]);
-				
-						lRet += "  <tr>\n";
-				
-						lRet += "    <td>\n";
+						
+						lRet += " <tr>\n";
+						
+						lRet += " <td>\n";
 						lRet += lKey + "\n";
-						lRet += "    </td>\n";
-				
-						lRet += "    <td>\n";
+						lRet += " </td>\n";
+						
+						lRet += " <td>\n";
 						
 						if ((null != lValue) && ("" != lValue))
 						{
@@ -55,29 +57,30 @@
 						{
 							lRet += "&nbsp;\n";
 						}
-						lRet += "    </td>\n";
-				
-						lRet += "  </tr>\n";
-				
+						
+						lRet += " </td>\n";
+						
+						lRet += " </tr>\n";
+						
 						++lCount;
 					}
-				
+					
 					if (0 == lCount)
 					{
-						lRet += "  <tr>\n";
-						lRet += "    <td>\n";
-						lRet += "     EMPTY\n";
-						lRet += "    </td>\n";
-						lRet += "  </tr>\n";
+						lRet += " <tr>\n";
+						lRet += " <td>\n";
+						lRet += " EMPTY\n";
+						lRet += " </td>\n";
+						lRet += " </tr>\n";
 					}
-				
+					
 					lRet += "</table>\n";
 					lRet += "<br>\n";
 					lRet += "<br>\n";
 					
 					return (lRet);
 				}
-
+				
 				//----------------------------------------------------------[display]-
 				// Log out _args()
 				//--------------------------------------------------------------------
@@ -87,13 +90,13 @@
 					// Dump out the _args() collection
 					//
 					var lHTML = dumpCollection (_args(), "_args()");
-
+					
 					//
 					// Display HTML string in <div>
 					//
 					_gel('content_div').innerHTML = lHTML;
 				}
-
+				
 				_IG_RegisterOnloadHandler(display);
 
 			</script>
