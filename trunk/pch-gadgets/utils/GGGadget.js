@@ -1,3 +1,10 @@
+//
+// Some statics for my Google gadgets
+//
+var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
+
+
+
 //---------------------------------------[GGUtils_getHostURL]-
 // Obtain (if possible) the URL of the page in which the 
 // gadget is embedded
