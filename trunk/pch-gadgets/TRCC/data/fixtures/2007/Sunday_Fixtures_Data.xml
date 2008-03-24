@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Mar 24 19:32:16 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sat, 28 Apr 2007 23:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 5 May 2007 23:00:00 UTC</Date>
+  <Opposition>Odney</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 12 May 2007 23:00:00 UTC</Date>
+  <Opposition>Penn Street</Opposition>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 19 May 2007 23:00:00 UTC</Date>
+  <Opposition>Wooburn Narkovians</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 26 May 2007 23:00:00 UTC</Date>
+  <Opposition>Woodley</Opposition>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 2 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 9 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 16 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Wokingham</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 23 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Falklands</Opposition>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 30 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 7 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Cookham Dean</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 14 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Venue>Home</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 21 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Moulsford</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 28 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 4 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 11 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 18 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 24 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Inkberrow</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 25 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Monmouth</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sun, 26 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>St Stephens</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 1 Sep 2007 23:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 8 Sep 2007 23:00:00 UTC</Date>
+  <Opposition>Embrook and Bearwood</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 15 Sep 2007 23:00:00 UTC</Date>
+  <Opposition>Lower Earley</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 22 Sep 2007 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 29 Sep 2007 23:00:00 UTC</Date>
+  <Opposition>Swyncombe </Opposition>
+  <Venue>Away</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+</YearsFixtures>
+

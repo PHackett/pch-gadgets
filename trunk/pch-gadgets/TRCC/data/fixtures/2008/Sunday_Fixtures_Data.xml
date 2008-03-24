@@ -1,0 +1,197 @@
+<!-- Generated on Sun Mar 16 18:10:46 UTC 2008 -->
+<?xml version="1.0" encoding="UTF-8" ?>
+<YearsFixtures>
+<Fixture>
+  <Date value="Sat, 3 May 2008 23:00:00 UTC"/>
+  <Opposition value="Odney"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 10 May 2008 23:00:00 UTC"/>
+  <Opposition value="Penn Street"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 17 May 2008 23:00:00 UTC"/>
+  <Opposition value="Wooburn Narcovians"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 24 May 2008 23:00:00 UTC"/>
+  <Opposition value="Woodley"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 31 May 2008 23:00:00 UTC"/>
+  <Opposition value="Crowthorne"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 7 Jun 2008 23:00:00 UTC"/>
+  <Opposition value="Greys Green"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 14 Jun 2008 23:00:00 UTC"/>
+  <Opposition value="Wokingham"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 21 Jun 2008 23:00:00 UTC"/>
+  <Opposition value="TBD"/>
+  <Time value=""/>
+  <Venue value=""/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 28 Jun 2008 23:00:00 UTC"/>
+  <Opposition value="Warfield"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 5 Jul 2008 23:00:00 UTC"/>
+  <Opposition value="Harpsden"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 12 Jul 2008 23:00:00 UTC"/>
+  <Opposition value="Woodcote"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 19 Jul 2008 23:00:00 UTC"/>
+  <Opposition value="Moulsford"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 26 Jul 2008 23:00:00 UTC"/>
+  <Opposition value="Wargrave"/>
+  <Time value="2:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 2 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Falkland"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 9 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Reading Lawyers"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 16 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Checkendon"/>
+  <Time value="2:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Fri, 22 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Tour"/>
+  <Time value=""/>
+  <Venue value="Tour"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 23 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Tour"/>
+  <Time value=""/>
+  <Venue value="Tour"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sun, 24 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Tour"/>
+  <Time value=""/>
+  <Venue value="Tour"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 30 Aug 2008 23:00:00 UTC"/>
+  <Opposition value="Binfield"/>
+  <Time value="1:30"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 6 Sep 2008 23:00:00 UTC"/>
+  <Opposition value="Emmbrook and Bearwood"/>
+  <Time value="1:30"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 13 Sep 2008 23:00:00 UTC"/>
+  <Opposition value="Lower Earley"/>
+  <Time value="1:00"/>
+  <Venue value="Home"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 20 Sep 2008 23:00:00 UTC"/>
+  <Opposition value="Cranbourne"/>
+  <Time value="1:00"/>
+  <Venue value="Away"/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+<Fixture>
+  <Date value="Sat, 27 Sep 2008 23:00:00 UTC"/>
+  <Opposition value="TBD"/>
+  <Time value=""/>
+  <Venue value=""/>
+  <Result value="NotPlayed"/>
+  <HasLink value="false"/>
+</Fixture>
+</YearsFixtures>
+
