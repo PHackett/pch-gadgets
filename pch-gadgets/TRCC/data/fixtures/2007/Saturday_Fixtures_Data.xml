@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Mar 24 19:41:55 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Fri, 4 May 2007 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 18 May 2007 23:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis 2</Opposition>
+  <Venue>Home</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 25 May 2007 23:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 1 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Crown Wood</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 8 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 15 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 22 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Goring 2</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 29 Jun 2007 23:00:00 UTC</Date>
+  <Opposition>Sulhampstead</Opposition>
+  <Time>1:30</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 6 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 20 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis 2</Opposition>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 27 Jul 2007 23:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 3 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Crown Wood</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 10 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 17 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 24 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Goring</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 31 Aug 2007 23:00:00 UTC</Date>
+  <Opposition>Sulhampstead</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+
