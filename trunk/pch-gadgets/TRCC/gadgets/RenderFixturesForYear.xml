@@ -33,7 +33,7 @@
 			<div id="content_div"></div>
 
 			<!--
-			Include my utilities library
+			Include my utilities libraries
 			-->
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
@@ -67,53 +67,6 @@
 		
 					return (lRet);
 				}
-
-				//--------------------------------------------------------[getTRData]-
-				// Returns the text for the "<TR>" string
-				//
-				// @param aIndex IN Line index
-				//
-				// @return Constructed <tr> line
-				//--------------------------------------------------------------------
-				function makeTeamYearLink (aYear, aTeam)
-				{
-					var lRet="";
-					var lBaseURL="http://www.paulhackett.plus.com/websites/trcc/Fixtures/FixturesByYear.html";
-					
-					lRet += "<a href='" + lBaseURL + "?year=" + aYear + "+DOW=" + aTeam;
-					
-					if (gLinkToNewWindow)
-					{
-						lRet += "' target='_blank'";
-					}
-					
-					lRet += ">" + aTeam + GGUtils_DOWNumToString(2) + "</a>";
-					
-					return (lRet);
-				}
-
-	
-				//---------------------------------------------------[renderTeamLink]-
-				// Returns the text for the "<td>" string for the team
-				//
-				// @param aExists IN Does the information exist?
-				// @param aYear IN Year that this data is for
-				// @param aTeam IN "Saturday", "Sunday"
-				//
-				// @return Constructed <td> line
-				//--------------------------------------------------------------------
-				function renderTeamLink (aExists, aYear, aTeam)
-				{
-					var lRet="<td>&nbsp;</td>";
-					
-					if (aExists)
-					{
-						lRet = "<td>" + makeTeamYearLink (aYear, aTeam) + "</td>";
-					}
-					
-					return (lRet);
-				}
-
 
 				//---------------------------------------------------[processFixture]-
 				// Process a single fixture in to HTML
