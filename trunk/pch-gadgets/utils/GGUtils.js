@@ -169,13 +169,23 @@ function GGUtils_XMLToHTML (aXMLNode)
 //
 //	The query is expected to be of the form "name1=value1&name2=value2"
 //
+//	@param	aQuery		IN		The query to be parsed. If 
+// 								 null, then the location is
+//								 used.
+//
 // @return Array (name, value) of parsed items. 
 //
 //------------------------------------------------------------
-function GGUtils_ParseQuery ()
+function GGUtils_ParseQuery (aQuery)
 {
 	var lArgs = new Object();
-	var lQuery = location.search.substring (1);
+	var lQuery = aQuery;
+	
+	if (null == lQuery)
+	{
+		lQuery = location.search.substring (1);
+	}
+	
 	var lPairs = lQuery.split ("&");
 
 	for (var i=0 ; i<lPairs.length ; i++)
