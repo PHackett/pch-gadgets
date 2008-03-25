@@ -189,7 +189,7 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
-					var lBaseURL = "http://www.paulhackett.plus.com/websites/trcc/Fixtures/";
+					var lBaseURL = gGGGadget_Root + "TRCC/data/fixtures/";
 					
 					//
 					// Read the user prefs & hosting URL
