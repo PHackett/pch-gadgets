@@ -6,7 +6,7 @@
 		author="Paul Hackett"
 		author_email="TestGadgets@paulhackett.com"
 		description="So I can see whats in the _args() collection."
-		thumbnail="http://code.google.com/p/pch-gadgets/source/browse/trunk/pch-gadgets/images/PaulHackett.jpg"
+		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/images/PaulHackett.jpg"
 		width="700"
 		height="300"
 		scrolling="true">
@@ -91,6 +91,11 @@
 					// Dump out the _args() collection
 					//
 					var lHTML = dumpCollection (_args(), "_args()");
+					
+					//
+					// Lets see the referer too
+					//
+					lHTML += "<br>document.referrer = '" + document.referrer + "'<br>";
 					
 					//
 					// Display HTML string in <div>
