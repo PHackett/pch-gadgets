@@ -48,7 +48,7 @@ function GGGadget_parseHostQuery ()
 	}
 	else
 	{
-		lArgs = GGUtils_ParseQuery (lURL(lIndex+1));
+		lArgs = GGUtils_ParseQuery (lURL.substring (lIndex+1));
 	}
 	
 	return (lArgs);
