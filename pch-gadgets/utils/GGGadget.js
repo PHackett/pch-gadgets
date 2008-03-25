@@ -14,6 +14,16 @@ var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 //------------------------------------------------------------
 function GGGadget_getHostURL ()
 {
+	//
+	// We used to look at _args()["source"] to find out
+	// what page we were embedded in. This worked for gadgets
+	// embedded in "vanilla" web pages, bit not for those that
+	// were embedded inside Google Sites. 
+	//  So, instead we use the document referer which works in
+	// both. 
+	//  When the gadget is embedded in an iGoogle page, neither
+	// technique works.
+	//
 	// var lRet=_args()["source"];
 	var lRet=document.referrer;
 	
