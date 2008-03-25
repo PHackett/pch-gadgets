@@ -14,7 +14,8 @@ var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 //------------------------------------------------------------
 function GGGadget_getHostURL ()
 {
-	var lRet=_args()["source"];
+	// var lRet=_args()["source"];
+	var lRet=document.referrer;
 	
 	if (null == lRet)
 	{
