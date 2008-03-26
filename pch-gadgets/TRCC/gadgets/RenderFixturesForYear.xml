@@ -42,9 +42,8 @@
 			<script type="text/javascript">
 
 				var gLinkTarget="";
-				var gTeam="Sunday";
-				var gYear="2008";
-				var gNBSP="nbsp";
+				var gTeam="";
+				var gYear="";
 				
 				var gXMLSrc="";
 	
@@ -149,40 +148,66 @@
 					_gel('content_div').innerHTML = lHTML;
 				}
 
-				//-------------------------------------------------[processUserPrefs]-
-				// Process the user preferences
+
+				//-------------------------------------------------[processSettings]-
+				// Determine what year & team
 				//--------------------------------------------------------------------
-				function processUserPrefs ()
+				function processSettings ()
 				{
 					var lPrefs=new _IG_Prefs();
-					
-					gTeam 		= lPrefs.getString ("team");
-					gYear 		= lPrefs.getString ("year");
-					gLinkTarget = lPrefs.getString ("linkTarget");
-				}
-
-
-				//-------------------------------------------------[processUserPrefs]-
-				// Process the user preferences
-				//--------------------------------------------------------------------
-				function processHostingPageURL ()
-				{
 					var lArgs=GGGadget_parseHostQuery();
 					
-					if (0 != lArgs.length)
+					//
+					// First the year - Any userPrefs?
+					//
+					if (null != (gYear = lPrefs.getString ("year")))
 					{
-						if (null!= lArgs["Team"])
-						{
-							gTeam = lArgs["Team"];
-						} 
-
-						if (null != lArgs["year"])
-						{
-							gYear = lArgs["year"];
-						}
+						// Year set in the userPrefs
+					}
+					
+					//
+					// How about in the hosting page query?
+					//
+					else if ((0 != lArgs.length) && (null != (gYear = lArgs["year"])))
+					{
+						// Year from the page query string
 					} 
+					else
+					{
+						//
+						// Fall back to a default year
+						//
+						gYear = "2008";
+					}
+					
+					//
+					// Now the team ...
+					//
+					if (null != (gTeam = lPrefs.getString ("team")))
+					{
+						// Team set in the userPrefs
+					}
+					
+					//
+					// How about in the hosting page query?
+					//
+					else if ((0 != lArgs.length) && (null != (gTeam = lArgs["team"])))
+					{
+						// Team from the page query string
+					} 
+					else
+					{
+						//
+						// Fall back to a default year
+						//
+						gTeam = "Sunday";
+					}
+					
+					//
+					// Lastly - Save away the "link target"
+					//
+					gLinkTarget = lPrefs.getString ("linkTarget");
 				}
-				
 				
 				//----------------------------------------------------------[display]-
 				// Load the XML & call the renderer
@@ -194,8 +219,7 @@
 					//
 					// Read the user prefs & hosting URL
 					//
-					processUserPrefs ();
-					processHostingPageURL();
+					processSettings();
 					
 					gXMLSrc = lBaseURL + gYear + "/" + gTeam + "_Fixtures_Data.xml";
 					
