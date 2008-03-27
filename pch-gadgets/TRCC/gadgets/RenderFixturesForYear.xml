@@ -13,8 +13,9 @@
 	</ModulePrefs>
 
 	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
-	<UserPref name="year" display_name="For which year?" datatype="string" default_value="2008"/>
-	<UserPref name="team" display_name="Which team?" datatype="enum" default_value="Sunday">
+	<UserPref name="year" display_name="For which year?" datatype="string" default_value=""/>
+	<UserPref name="team" display_name="Which team?" datatype="enum" default_value="">
+		<EnumValue value="" />
 		<EnumValue value="Saturday" />
 		<EnumValue value="Sunday" />
 	</UserPref>
@@ -160,7 +161,7 @@
 					//
 					// First the year - Any userPrefs?
 					//
-					if (null != (gYear = lPrefs.getString ("year")))
+					if (null != (gYear = lPrefs.getString ("year")) && (0 != gYear.length))
 					{
 						// Year set in the userPrefs
 					}
@@ -168,7 +169,7 @@
 					//
 					// How about in the hosting page query?
 					//
-					else if ((0 != lArgs.length) && (null != (gYear = lArgs["year"])))
+					else if ((0 != lArgs.length) && (null != (gYear = lArgs["year"])) && (0 != gYear.length))
 					{
 						// Year from the page query string
 					} 
@@ -183,7 +184,7 @@
 					//
 					// Now the team ...
 					//
-					if (null != (gTeam = lPrefs.getString ("team")))
+					if (null != (gTeam = lPrefs.getString ("team")) && (0 != gTeam.length))
 					{
 						// Team set in the userPrefs
 					}
@@ -191,7 +192,7 @@
 					//
 					// How about in the hosting page query?
 					//
-					else if ((0 != lArgs.length) && (null != (gTeam = lArgs["team"])))
+					else if ((0 != lArgs.length) && (null != (gTeam = lArgs["team"])) && (0 != gTeam.length))
 					{
 						// Team from the page query string
 					} 
