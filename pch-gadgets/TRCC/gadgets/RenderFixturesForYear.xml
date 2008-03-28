@@ -71,19 +71,14 @@
 				//---------------------------------------------------[processFixture]-
 				// Process a single fixture in to HTML
 				//
-				// @param aFixture IN The fixture XML we are to render as HTML
-				// @param aIndex IN The index of the fixture
+				// @param aFixture IN The fixture we are to render as HTML
+				// @param aIndex   IN The index of the fixture
 				//
 				// @return The rendered fixture data
 				//--------------------------------------------------------------------
-				function processFixture (aFixtureXML, aIndex)
+				function processFixture (aFixture, aIndex)
 				{
 					var lRet="";
-					
-					//
-					// Parse the fixture
-					//
-					var lFixture = new GGTRCC_FixtureO (aFixtureXML, gLinkTarget);
 					
 					//
 					// Start the <tr>
@@ -93,11 +88,11 @@
 					//
 					// Add in the data
 					//
-					lRet += "<td>" + lFixture.VenueHTML() + "</td>";
-					lRet += "<td>" + lFixture.DateHTML() + "</td>";
-					lRet += "<td>" + lFixture.OppoHTML() + "</td>";
-					lRet += "<td>" + lFixture.TimeHTML() + "</td>";
-					lRet += "<td>" + lFixture.ResultHTML() + "</td>";
+					lRet += "<td>" + aFixture.VenueHTML() + "</td>";
+					lRet += "<td>" + aFixture.DateHTML() + "</td>";
+					lRet += "<td>" + aFixture.OppoHTML() + "</td>";
+					lRet += "<td>" + aFixture.TimeHTML() + "</td>";
+					lRet += "<td>" + aFixture.ResultHTML() + "</td>";
 					
 					//
 					// Terminate the row
@@ -120,7 +115,14 @@
 						_gel("content_div").innerHTML = "<i>Invalid data from '" + gXMLSrc + "'</i>";
 						return;
 					}
-					
+			
+					//
+					// Read the XML into objects
+					//
+					var lFixtures=new Array();
+			
+					GGTRCC_LoadFixturesFromXML (response, lFixtures, gLinkTarget)
+			
 					var lHTML="";
 					
 					//
@@ -131,8 +133,6 @@
 					//
 					// Down all the fixtures
 					//
-					var lFixtures=response.getElementsByTagName ("Fixture");
-					
 					for (var i=0 ; i<lFixtures.length ; ++i)
 					{
 						lHTML += processFixture (lFixtures[i], i);
