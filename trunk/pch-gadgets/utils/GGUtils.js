@@ -172,21 +172,28 @@ function GGUtils_XMLToHTML (aXMLNode)
 //	@param	aQuery		IN		The query to be parsed. If 
 // 								 null, then the location is
 //								 used.
+//	@param	aDelim		IN		Delimeter
 //
 // @return Array (name, value) of parsed items. 
 //
 //------------------------------------------------------------
-function GGUtils_ParseQuery (aQuery)
+function GGUtils_ParseQuery (aQuery, aDelim)
 {
 	var lArgs = new Object();
 	var lQuery = aQuery;
+	var lDelim=aDelim;
 	
 	if (null == lQuery)
 	{
 		lQuery = location.search.substring (1);
 	}
 	
-	var lPairs = lQuery.split ("&");
+	if (null == lDelim)
+	{
+		lDelim = "&";
+	}
+	
+	var lPairs = lQuery.split (lDelim);
 
 	for (var i=0 ; i<lPairs.length ; i++)
 	{
