@@ -271,3 +271,78 @@ function GGTRCC_FixtureO___URL()
 
 function GGTRCC_FixtureO___isWin() { return (gFixtureResWin == this.mResult); }
 function GGTRCC_FixtureO___isLose() { return (gFixtureResLose == this.mResult); }
+
+
+//
+// The following are utility functions to help with the manipulation of Fixture objects
+//
+
+
+//-------------------------------[GGTRCC_LoadFixturesFromXML]-
+// Read the fixtures from the supplied XML and add then to the 
+// end of the given array.
+//
+//	@param	aXML		IN	The XML to examine
+//	@param	aOut		IN	The array of Fixture objects we are 
+// 							 to append to
+//	@param	aLinkTarget	IN	For the generation of URLs
+//
+// @return 	Number of fixtures read in, or -1 upon error 
+//
+//------------------------------------------------------------
+function GGTRCC_LoadFixturesFromXML (aXML, aOut, aLinkTarget)
+{
+	//
+	// Validate the XML
+	//
+	if ((aXML == null) || (typeof(aXML) != "object") || (aXML.firstChild == null))
+	{
+		return (-1);
+	}
+
+	//
+	// Down all the fixtures
+	//
+	var lFixtures=aXML.getElementsByTagName ("Fixture");
+	
+	for (var i=0 ; i<lFixtures.length ; ++i)
+	{
+		aOut[aOut.length] = new GGTRCC_FixtureO (lFixtures[i], aLinkTarget);
+	}
+	
+	return (lFixtures.length);
+}
+
+
+//--------------------------------[GGTRCC_SortFixturesByDate]-
+// Sorter - Sort by data
+//
+//	@param	aFixture1	IN	First fixture to compare
+//	@param	aFixture2	IN	Second fixture to compare
+//
+//	@return	aFixture1 > aFixture2 by date
+//
+//------------------------------------------------------------
+function GGTRCC_SortFixturesByDate (aFixture1, aFixture2)
+{
+	var lRet=0;
+	
+	if ((null == aFixture1.mDate) && (null == aFixture2.mDate))
+	{
+		lRet = 0;
+	}
+	else if (null == aFixture1.mDate)
+	{
+		return (-1);
+	}
+	else if (null == aFixture2.mDate)
+	{
+		return (1);
+	}
+	else
+	{
+		lRet = (aFixture1.mDate.UTC() - aFixture2.mDate.UTC());
+	}
+	
+	return (lRet);
+}
