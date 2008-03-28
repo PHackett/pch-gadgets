@@ -67,7 +67,12 @@
 				function makeTeamYearLink (aYear, aTeam)
 				{
 					var lBaseURL="http://www.paulhackett.plus.com/websites/trcc/Fixtures/FixturesByYear.html";
-					
+			
+					if (GGGadget_hostedOnSites())
+					{
+						lBaseURL = gGGGadget_SitesRoot + "FixturesForYear";
+					}		
+			
 					var lURL=lBaseURL + "?year=" + aYear + "+DOW=" + aTeam;
 					
 					return (GGUtils_makeHREF (aTeam, lURL, gLinkTarget));
