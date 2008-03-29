@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:50:44 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sat, 27 Apr 2002 23:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 4 May 2002 23:00:00 UTC</Date>
+  <Opposition>Odney</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 11 May 2002 23:00:00 UTC</Date>
+  <Opposition>Kidmore End</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 18 May 2002 23:00:00 UTC</Date>
+  <Opposition>Wooburn Narkovians</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 25 May 2002 23:00:00 UTC</Date>
+  <Opposition>Frimley</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 1 Jun 2002 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 8 Jun 2002 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 15 Jun 2002 23:00:00 UTC</Date>
+  <Opposition>Pyestock</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 22 Jun 2002 23:00:00 UTC</Date>
+  <Opposition>Sonning Common</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 29 Jun 2002 23:00:00 UTC</Date>
+  <Opposition>Oddfellows</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 6 Jul 2002 23:00:00 UTC</Date>
+  <Opposition>Cookham Dean</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 13 Jul 2002 23:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 20 Jul 2002 23:00:00 UTC</Date>
+  <Opposition>Moulsford</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 27 Jul 2002 23:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 3 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>Falkland IIIs</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 10 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>Hambleden</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 17 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>Sandhurst</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 23 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>Worthing</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 24 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>Petworth</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sun, 25 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>East Preston</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 31 Aug 2002 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 7 Sep 2002 23:00:00 UTC</Date>
+  <Opposition>Eversley</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 14 Sep 2002 23:00:00 UTC</Date>
+  <Opposition>Bledlow</Opposition>
+  <Time>1.15</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 21 Sep 2002 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Time>1.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 28 Sep 2002 23:00:00 UTC</Date>
+  <Opposition>Amersham Hill</Opposition>
+  <Time>1.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+

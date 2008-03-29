@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:47:28 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Fri, 28 Apr 2006 23:00:00 UTC</Date>
+  <Opposition>Club Day</Opposition>
+  <Time>2.00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 5 May 2006 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 12 May 2006 23:00:00 UTC</Date>
+  <Opposition>Purley</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 19 May 2006 23:00:00 UTC</Date>
+  <Opposition>Welford Park 3rds</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 26 May 2006 23:00:00 UTC</Date>
+  <Opposition>Newbury</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 2 Jun 2006 23:00:00 UTC</Date>
+  <Opposition>South East Reading</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 9 Jun 2006 23:00:00 UTC</Date>
+  <Opposition>No fixture</Opposition>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 16 Jun 2006 23:00:00 UTC</Date>
+  <Opposition>Sonning 3rds</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 23 Jun 2006 23:00:00 UTC</Date>
+  <Opposition>Purley </Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 30 Jun 2006 23:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 7 Jul 2006 23:00:00 UTC</Date>
+  <Opposition>South East Reading</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 14 Jul 2006 23:00:00 UTC</Date>
+  <Opposition>Newbury 3rds</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 21 Jul 2006 23:00:00 UTC</Date>
+  <Opposition>Twyford Comets</Opposition>
+  <Time>2:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 28 Jul 2006 23:00:00 UTC</Date>
+  <Opposition>Purley on Thames</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 4 Aug 2006 23:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 11 Aug 2006 23:00:00 UTC</Date>
+  <Opposition>South East Reading</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 18 Aug 2006 23:00:00 UTC</Date>
+  <Opposition>Sonning 3rds</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 25 Aug 2006 23:00:00 UTC</Date>
+  <Opposition>Newbury 3rds</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+

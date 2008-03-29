@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:46:40 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Fri, 27 Apr 2001 23:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence</Opposition>
+  <Time>1.00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 4 May 2001 23:00:00 UTC</Date>
+  <Opposition>Compton</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 11 May 2001 23:00:00 UTC</Date>
+  <Opposition>Swindon NALGO</Opposition>
+  <Time>2.00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 18 May 2001 23:00:00 UTC</Date>
+  <Opposition>Holyport</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 25 May 2001 23:00:00 UTC</Date>
+  <Opposition>Yateley</Opposition>
+  <Time>2.00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 1 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 8 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 15 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>2.00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 22 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 29 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Berks County Sports</Opposition>
+  <Time>2.00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 6 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Compton</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 13 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Swindon NALGO</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 20 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Holyport</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 27 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Yateley</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 3 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 10 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 17 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 24 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis</Opposition>
+  <Time>1:30</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 31 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Berks County Sports</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+

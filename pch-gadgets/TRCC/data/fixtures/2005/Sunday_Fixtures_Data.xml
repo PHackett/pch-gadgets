@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:51:05 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sat, 30 Apr 2005 23:00:00 UTC</Date>
+  <Opposition>Odney</Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 7 May 2005 23:00:00 UTC</Date>
+  <Opposition>Aston Rowant</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 14 May 2005 23:00:00 UTC</Date>
+  <Opposition>Wooburn Narkovians</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 21 May 2005 23:00:00 UTC</Date>
+  <Opposition>Frimley</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 28 May 2005 23:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 4 Jun 2005 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 11 Jun 2005 23:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 18 Jun 2005 23:00:00 UTC</Date>
+  <Opposition>Sonning Common</Opposition>
+  <Venue>Home</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 25 Jun 2005 23:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 2 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Cookham Dean</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 9 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 16 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Moulsford</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 23 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Venue>Home</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 30 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Eversley</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 6 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Hambleden</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 13 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 20 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Sandhurst</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 26 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 27 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Brockhampton</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sun, 28 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Garnons</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 3 Sep 2005 23:00:00 UTC</Date>
+  <Opposition>Bledlow</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 10 Sep 2005 23:00:00 UTC</Date>
+  <Opposition>Could not get fixture</Opposition>
+  <Time></Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 17 Sep 2005 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 24 Sep 2005 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+

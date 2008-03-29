@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:47:22 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Fri, 29 Apr 2005 23:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Venue>Home</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 6 May 2005 23:00:00 UTC</Date>
+  <Opposition>West Reading</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 27 May 2005 23:00:00 UTC</Date>
+  <Opposition>Hambleden</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 10 Jun 2005 23:00:00 UTC</Date>
+  <Opposition>Peppard</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 8 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 29 Jul 2005 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 12 Aug 2005 23:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Venue>Home</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 2 Sep 2005 23:00:00 UTC</Date>
+  <Opposition>Twyford Comets FC</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+
