@@ -77,7 +77,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 		}
 		else if (GGGadget_hostedAtHome())
 		{
-			lBaseURL = gGGGadget_HomeRoot + "Fixtures/FixturesForYear";
+			lBaseURL = gGGGadget_HomeRoot + "Fixtures/FixturesByYear";
 		}	
 
 		var lURL=lBaseURL + "?year=" + this.mYear + "+DOW=" + aTeamLabel;
