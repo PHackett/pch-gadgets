@@ -3,6 +3,7 @@
 //
 var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 var gGGGadget_SitesRoot="http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
+var gGGGadget_HomeRoot="http://trcc.paulhackett.com/";
 
 
 
@@ -78,6 +79,26 @@ function GGGadget_hostedOnSites ()
 {
 	var lRet=false;
 	var lIndex=GGGadget_getHostURL().indexOf(gGGGadget_SitesRoot);
+
+	if (0 == lIndex)
+	{
+		lRet = true;
+	}	
+	
+	return (lRet);
+}
+
+
+//--------------------------------------[GGUtils_hostedAtHome]-
+// Is the gadget being hosted on on my home computer? 
+//
+//	@return true if so, else false 
+//
+//------------------------------------------------------------
+function GGGadget_hostedAtHome ()
+{
+	var lRet=false;
+	var lIndex=GGGadget_getHostURL().indexOf(gGGGadget_HomeRoot);
 
 	if (0 == lIndex)
 	{
