@@ -21,10 +21,9 @@ var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/T
 // Object to hold information on a single fixture
 //
 // @param aFixtureXML 	IN 	The fixture XML node
-// @param aLinkTarget	IN	The link target
 //
 //------------------------------------------------------------
-function GGTRCC_FixtureO (aFixtureXML, aLinkTarget)
+function GGTRCC_FixtureO (aFixtureXML)
 {
 	//
 	// Initialse the members
@@ -35,11 +34,6 @@ function GGTRCC_FixtureO (aFixtureXML, aLinkTarget)
 	this.mVenue = null;
 	this.mResult = gFixtureResNP;
 	this.mHasLink = false;
-	this.mLinkTarget = aLinkTarget;
-	if (null == this.mLinkTarget)
-	{
-		this.mLinkTarget = "";
-	}
 	
 	//
 	// Set up the "methods"
@@ -120,7 +114,7 @@ function GGTRCC_FixtureO___DateHTML()
 	
 		if (this.mHasLink)
 		{
-			lRet = GGUtils_makeHREF (lRet, this.URL(), this.mLinkTarget);
+			lRet = GGUtils_makeHREF (lRet, this.URL());
 		}
 	}
 	
@@ -144,7 +138,7 @@ function GGTRCC_FixtureO___OppoHTML()
 
 		if (this.mHasLink)
 		{
-			lRet = GGUtils_makeHREF (lRet, this.URL(), this.mLinkTarget);
+			lRet = GGUtils_makeHREF (lRet, this.URL());
 		}
 	}
 	
@@ -285,12 +279,11 @@ function GGTRCC_FixtureO___isLose() { return (gFixtureResLose == this.mResult); 
 //	@param	aXML		IN	The XML to examine
 //	@param	aOut		IN	The array of Fixture objects we are 
 // 							 to append to
-//	@param	aLinkTarget	IN	For the generation of URLs
 //
 // @return 	Number of fixtures read in, or -1 upon error 
 //
 //------------------------------------------------------------
-function GGTRCC_LoadFixturesFromXML (aXML, aOut, aLinkTarget)
+function GGTRCC_LoadFixturesFromXML (aXML, aOut)
 {
 	//
 	// Validate the XML
@@ -307,7 +300,7 @@ function GGTRCC_LoadFixturesFromXML (aXML, aOut, aLinkTarget)
 	
 	for (var i=0 ; i<lFixtures.length ; ++i)
 	{
-		aOut[aOut.length] = new GGTRCC_FixtureO (lFixtures[i], aLinkTarget);
+		aOut[aOut.length] = new GGTRCC_FixtureO (lFixtures[i]);
 	}
 	
 	return (lFixtures.length);

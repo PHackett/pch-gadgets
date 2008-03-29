@@ -42,7 +42,6 @@
 
 			<script type="text/javascript">
 
-				var gLinkTarget="";
 				var gTeam="";
 				var gYear="";
 				
@@ -121,7 +120,7 @@
 					//
 					var lFixtures=new Array();
 			
-					GGTRCC_LoadFixturesFromXML (response, lFixtures, gLinkTarget)
+					GGTRCC_LoadFixturesFromXML (response, lFixtures)
 			
 					var lHTML="";
 					
@@ -207,7 +206,7 @@
 					//
 					// Lastly - Save away the "link target"
 					//
-					gLinkTarget = lPrefs.getString ("linkTarget");
+					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
 				}
 				
 				//----------------------------------------------------------[display]-
