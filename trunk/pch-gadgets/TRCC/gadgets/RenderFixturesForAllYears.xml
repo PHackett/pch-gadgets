@@ -56,48 +56,7 @@
 					return (lRet);
 				}
 
-				//--------------------------------------------------------[getTRData]-
-				// Returns the text for the "<TR>" string
-				//
-				// @param aIndex IN Line index
-				//
-				// @return Constructed <tr> line
-				//--------------------------------------------------------------------
-				function makeTeamYearLink (aYear, aTeam)
-				{
-					var lBaseURL="http://www.paulhackett.plus.com/websites/trcc/Fixtures/FixturesByYear.html";
 			
-					if (GGGadget_hostedOnSites())
-					{
-						lBaseURL = gGGGadget_SitesRoot + "FixturesForYear";
-					}		
-			
-					var lURL=lBaseURL + "?year=" + aYear + "+DOW=" + aTeam;
-					
-					return (GGUtils_makeHREF (aTeam, lURL));
-				}
-
-				//---------------------------------------------------[renderTeamLink]-
-				// Returns the text for the "<td>" string for the team
-				//
-				// @param aExists IN Does the information exist?
-				// @param aYear IN Year that this data is for
-				// @param aTeam IN "Saturday", "Sunday"
-				//
-				// @return Constructed <td> line
-				//--------------------------------------------------------------------
-				function renderTeamLink (aExists, aYear, aTeam)
-				{
-					var lRet="<td>&nbsp;</td>";
-					
-					if (aExists)
-					{
-						lRet = "<td>" + makeTeamYearLink (aYear, aTeam) + "</td>";
-					}
-					
-					return (lRet);
-				}
-
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -150,8 +109,9 @@
 
 						lHTML += ">" + lTeamYears[i].year() + "</td>";
 						
-						lHTML += renderTeamLink (lTeamYears[i].haveSaturday(), lTeamYears[i].year(), "Saturday");
-						lHTML += renderTeamLink (lTeamYears[i].haveSunday(), lTeamYears[i].year(), "Sunday");
+						lHTML += "<td>" + lTeamYears[i].saturdayHTML() + "<td>"; 
+						lHTML += "<td>" + lTeamYears[i].sundayHTML() + "<td>"; 
+			
 						lHTML += "</tr>";
 					}
 
