@@ -1,3 +1,9 @@
+//
+// Local "statics"
+//
+var sGGUtils___LinkTarget="";
+
+
 //---------------------------------[GGUtils_MonthNumToString]-
 // Get the month number as a string
 //
@@ -261,3 +267,12 @@ function GGUtils_makeHREF (aString, aURL, aTarget)
 	
 	return (lRet);
 }
+
+
+//-----------------------------------[GGUtils_*etLinkTarget]-
+// To hold <a href="..." target="******" string
+// 
+//	Usually expect value to be "", "_parent"or "_blank
+//------------------------------------------------------------
+function GGUtils_setLinkTarget (aLinkTarget)	{ sGGUtils___LinkTarget = aLinkTarget;	}
+function GGUtils_getLinkTarget ()				{ return (sGGUtils___LinkTarget);		}
