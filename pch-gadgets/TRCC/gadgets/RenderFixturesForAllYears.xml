@@ -37,8 +37,6 @@
 
 			<script type="text/javascript">
 
-				var gLinkTarget="";
-
 				//--------------------------------------------------------[getTRData]-
 				// Returns the text for the "<TR>" string
 				//
@@ -76,7 +74,7 @@
 			
 					var lURL=lBaseURL + "?year=" + aYear + "+DOW=" + aTeam;
 					
-					return (GGUtils_makeHREF (aTeam, lURL, gLinkTarget));
+					return (GGUtils_makeHREF (aTeam, lURL));
 				}
 
 				//---------------------------------------------------[renderTeamLink]-
@@ -118,14 +116,14 @@
 					//
 					var lPrefs = new _IG_Prefs();
 					
-					gLinkTarget = lPrefs.getString ("linkTarget");
+					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
 					
 					//
 					// Parse the data
 					//
 					var lTeamYears=new Array();
 					
-					GGTRCC_LoadTeamYearsFromXML (response, lTeamYears, gLinkTarget);
+					GGTRCC_LoadTeamYearsFromXML (response, lTeamYears);
 					
 					var lHTML="";
 
