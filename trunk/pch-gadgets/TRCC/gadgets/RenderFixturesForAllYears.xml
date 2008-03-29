@@ -32,6 +32,7 @@
 			-->
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/TeamsInYear.js" type="text/javascript"></script>
 
 
 			<script type="text/javascript">
@@ -119,6 +120,12 @@
 					
 					gLinkTarget = lPrefs.getString ("linkTarget");
 					
+					//
+					// Parse the data
+					//
+					var lTeamYears=new Array();
+					
+					GGTRCC_LoadTeamYearsFromXML (response, lTeamYears, gLinkTarget);
 					
 					var lHTML="";
 
@@ -130,37 +137,8 @@
 					//
 					// Now down all the entries ...
 					//
-					var lYears = response.getElementsByTagName("TeamsInYear");
-
-					for (var i=0 ; i<lYears.length ; ++i)
+					for (var i=0 ; i<lTeamYears.length ; ++i)
 					{
-						//
-						// Get the year
-						//
-						var lYear=lYears.item(i).getAttribute ("year");
-						
-						//
-						// Now down all the teams that play in that year
-						//
-						var lHaveSaturday=false;
-						var lHaveSunday=false;
-						var lTeams = lYears.item(i).childNodes;
-						
-						for (var j=0 ; j<lTeams.length ; ++j)
-						{
-							if (lTeams.item(j).nodeName == "Team")
-							{
-								if (lTeams.item(j).firstChild.nodeValue == "Saturday")
-								{
-									lHaveSaturday = true;
-								}
-								else if (lTeams.item(j).firstChild.nodeValue == "Sunday")
-								{
-									lHaveSunday = true;
-								}
-							}
-						}
-				
 						//
 						// We can now write the line out
 						//
@@ -172,10 +150,10 @@
 							lHTML += " class='GadgetContentHeading'";
 						}
 
-						lHTML += ">" + lYear + "</td>";
+						lHTML += ">" + lTeamYears[i].year() + "</td>";
 						
-						lHTML += renderTeamLink (lHaveSaturday, lYear, "Saturday");
-						lHTML += renderTeamLink (lHaveSunday, lYear, "Sunday");
+						lHTML += renderTeamLink (lTeamYears[i].haveSaturday(), lTeamYears[i].year(), "Saturday");
+						lHTML += renderTeamLink (lTeamYears[i].haveSunday(), lTeamYears[i].year(), "Sunday");
 						lHTML += "</tr>";
 					}
 
