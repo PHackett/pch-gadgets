@@ -80,7 +80,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 			lBaseURL = gGGGadget_HomeRoot + "Fixtures/FixturesByYear.html";
 		}	
 
-		var lURL=lBaseURL + "?year=" + this.mYear + "+DOW=" + aTeamLabel;
+		var lURL=lBaseURL + "?year=" + this.mYear + "&team=" + aTeamLabel;
 		
 		lRet = GGUtils_makeHREF (aTeamLabel, lURL);
 	}
