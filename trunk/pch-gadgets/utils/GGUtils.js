@@ -244,21 +244,28 @@ function GGUtils_spacesToUnderscores (aS)
 //------------------------------------------------------------
 function GGUtils_makeHREF (aString, aURL, aTarget)
 {
+	var lTarget=aTarget;
+	
+	if (null == lTarget)
+	{
+		lTarget = GGUtils_getLinkTarget(); 
+	}
+	
 	var lRet="<a href=";
 	
 	lRet += "\"" + aURL + "\"";
 	
-	if (null == aTarget)
+	if (null == lTarget)
 	{
 		// Nothing else
 	}
-	else if (0 == aTarget.length)
+	else if (0 == lTarget.length)
 	{
 		// Nothing else
 	}
 	else
 	{
-		lRet += " target=\"" + aTarget + "\""; 
+		lRet += " target=\"" + lTarget + "\""; 
 	}
 	
 	lRet += ">";

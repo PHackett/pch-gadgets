@@ -7,7 +7,7 @@
 // 							 played in a single yeat
 //
 //------------------------------------------------------------
-function GGTRCC_TeamYearO (aFixtureXML, aLinkTarget)
+function GGTRCC_TeamYearO (aYearXML)
 {
 	//
 	// Members
@@ -15,11 +15,6 @@ function GGTRCC_TeamYearO (aFixtureXML, aLinkTarget)
 	this.mYear = "";
 	this.mSaturday = false;
 	this.mSunday = false;
-	this.mLinkTarget = aLinkTarget;
-	if (null == this.mLinkTarget)
-	{
-		this.mLinkTarget = "";
-	}
 
 	//
 	// Methods
@@ -34,9 +29,9 @@ function GGTRCC_TeamYearO (aFixtureXML, aLinkTarget)
 	//
 	// Parse the XML
 	//
-	this.mYear = aFixtureXML.getAttribute ("year");
+	this.mYear = aYearXML.getAttribute ("year");
 	
-	var lTeams = aFixtureXML.childNodes;
+	var lTeams = aYearXML.childNodes;
 	
 	for (var j=0 ; j<lTeams.length ; ++j)
 	{
@@ -73,7 +68,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 
 		var lURL=lBaseURL + "?year=" + this.mYear + "+DOW=" + aTeamLabel;
 		
-		lRet = GGUtils_makeHREF (aTeamLabel, lURL, this.mLinkTarget);
+		lRet = GGUtils_makeHREF (aTeamLabel, lURL);
 	}
 	
 	return (lRet);
@@ -95,12 +90,11 @@ function GGTRCC_TeamYearO___sundayHTML()	{ return (this.teamHTML (this.haveSunda
 //	@param	aXML		IN	The XML to examine
 //	@param	aOut		IN	The array of TeamYear objects 
 // 							 we are to append to
-//	@param	aLinkTarget	IN	For the generation of URLs
 //
 // @return 	Number of TeamYears read in, or -1 upon error 
 //
 //------------------------------------------------------------
-function GGTRCC_LoadTeamYearsFromXML (aXML, aOut, aLinkTarget)
+function GGTRCC_LoadTeamYearsFromXML (aXML, aOut)
 {
 	//
 	// Validate the XML
@@ -117,7 +111,7 @@ function GGTRCC_LoadTeamYearsFromXML (aXML, aOut, aLinkTarget)
 	
 	for (var i=0 ; i<lYears.length ; ++i)
 	{
-		aOut[aOut.length] = new GGTRCC_TeamYearO (lYears.item(i), aLinkTarget);
+		aOut[aOut.length] = new GGTRCC_TeamYearO (lYears.item(i));
 	}
 	
 	return (lYears.length);
