@@ -53,6 +53,16 @@ function GGTRCC_TeamYearO___year ()			{ return (this.mYear);		}
 function GGTRCC_TeamYearO___haveSaturday()	{ return (this.mSaturday);	}
 function GGTRCC_TeamYearO___haveSunday()	{ return (this.mSunday);	}
 
+
+//------------------------------------------[GGTRCC_teamHTML]-
+// Return the HTML & link for this team
+//
+//	@param	aExists		IN	Does this team have a result in this year?
+//	@param	aTeamLabel	IN	The team name
+//
+// @return 	The HMTL 
+//
+//------------------------------------------------------------
 function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 {
 	var lRet="&nbsp";
