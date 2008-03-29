@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:47:15 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Fri, 23 Apr 2004 23:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 14 May 2004 23:00:00 UTC</Date>
+  <Opposition>BCS</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 25 Jun 2004 23:00:00 UTC</Date>
+  <Opposition>Theale and Tilehurst</Opposition>
+  <Time>2.00</Time>
+  <Venue>Home</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 2 Jul 2004 23:00:00 UTC</Date>
+  <Opposition>Peppard</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 23 Jul 2004 23:00:00 UTC</Date>
+  <Opposition>Crown Wood</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 30 Jul 2004 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 13 Aug 2004 23:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 3 Sep 2004 23:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Fri, 10 Sep 2004 23:00:00 UTC</Date>
+  <Opposition>Eversley IInds</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+

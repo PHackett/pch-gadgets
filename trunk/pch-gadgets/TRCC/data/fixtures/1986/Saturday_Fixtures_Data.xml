@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:44:41 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sun, 27 Apr 1986 23:00:00 UTC</Date>
+  <Opposition>Coppid Hall</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 2 May 1986 23:00:00 UTC</Date>
+  <Opposition>Wallingford</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 9 May 1986 23:00:00 UTC</Date>
+  <Opposition>Farnham Royal</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Wed, 14 May 1986 23:00:00 UTC</Date>
+  <Opposition>Tudors</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 23 May 1986 23:00:00 UTC</Date>
+  <Opposition>Uxbridge Torchbearers</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Wed, 28 May 1986 23:00:00 UTC</Date>
+  <Opposition>Hurst</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 6 Jun 1986 23:00:00 UTC</Date>
+  <Opposition>West Wycombe</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 13 Jun 1986 23:00:00 UTC</Date>
+  <Opposition>Nettlebed and Swyncombe</Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 20 Jun 1986 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 27 Jun 1986 23:00:00 UTC</Date>
+  <Opposition>Daily Mail</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 11 Jul 1986 23:00:00 UTC</Date>
+  <Opposition>Henley 2nds</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 18 Jul 1986 23:00:00 UTC</Date>
+  <Opposition>Aldermaston</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 25 Jul 1986 23:00:00 UTC</Date>
+  <Opposition>Uxbridge Torchbearers</Opposition>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 1 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>West Wycombe</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 8 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Whitchurch</Opposition>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sun, 17 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Highmoor</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 22 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Aldermaston</Opposition>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Thu, 28 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Portishead</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 29 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Abbots Leigh</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 30 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Failand and Portbury</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sun, 31 Aug 1986 23:00:00 UTC</Date>
+  <Opposition>Weston Supermare</Opposition>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 5 Sep 1986 23:00:00 UTC</Date>
+  <Opposition>Woolhampton</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 19 Sep 1986 23:00:00 UTC</Date>
+  <Opposition>White Waltham</Opposition>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 26 Sep 1986 23:00:00 UTC</Date>
+  <Opposition>Coppid Hall</Opposition>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+</YearsFixtures>
+

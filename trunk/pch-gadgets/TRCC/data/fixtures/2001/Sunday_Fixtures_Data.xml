@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:50:39 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sat, 28 Apr 2001 23:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 5 May 2001 23:00:00 UTC</Date>
+  <Opposition>Odney</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 12 May 2001 23:00:00 UTC</Date>
+  <Opposition>Oddfellows</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 19 May 2001 23:00:00 UTC</Date>
+  <Opposition>Wooburn Narkovians</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 26 May 2001 23:00:00 UTC</Date>
+  <Opposition>Cookham Dean</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 2 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 9 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 16 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Frimley</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 23 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Boyne Hill</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 30 Jun 2001 23:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 7 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 14 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Berks County Sports</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 21 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Moulsford</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 28 Jul 2001 23:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 4 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Kidmore End</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 11 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Hambledon</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 18 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>Sandhurst</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Abandonned</Result>
+</Fixture>
+<Fixture>
+  <Date>Sun, 26 Aug 2001 23:00:00 UTC</Date>
+  <Opposition>East Preston</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 1 Sep 2001 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 8 Sep 2001 23:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 15 Sep 2001 23:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 22 Sep 2001 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Time>1.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 29 Sep 2001 23:00:00 UTC</Date>
+  <Opposition>Ibis</Opposition>
+  <Time>1.00</Time>
+  <Venue>Away</Venue>
+  <Result>Rain</Result>
+</Fixture>
+</YearsFixtures>
+

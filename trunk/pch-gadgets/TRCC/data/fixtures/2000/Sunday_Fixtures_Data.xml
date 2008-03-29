@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Mar 29 18:50:34 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sat, 29 Apr 2000 23:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>1.30</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 6 May 2000 23:00:00 UTC</Date>
+  <Opposition>Odney</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 13 May 2000 23:00:00 UTC</Date>
+  <Opposition>Oddfellows</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 20 May 2000 23:00:00 UTC</Date>
+  <Opposition>Wooburn Narkovians</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 27 May 2000 23:00:00 UTC</Date>
+  <Opposition>Cookham Dean</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 3 Jun 2000 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 10 Jun 2000 23:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 17 Jun 2000 23:00:00 UTC</Date>
+  <Opposition>Boyne Hill</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 24 Jun 2000 23:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 1 Jul 2000 23:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 8 Jul 2000 23:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 15 Jul 2000 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 22 Jul 2000 23:00:00 UTC</Date>
+  <Opposition>Little Marlow</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 29 Jul 2000 23:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>2.00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 5 Aug 2000 23:00:00 UTC</Date>
+  <Opposition>Hambleden</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 12 Aug 2000 23:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>2.30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 19 Aug 2000 23:00:00 UTC</Date>
+  <Opposition>Sandhurst</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Fri, 25 Aug 2000 23:00:00 UTC</Date>
+  <Opposition>Ifield</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 26 Aug 2000 23:00:00 UTC</Date>
+  <Opposition>Preston Park</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sun, 27 Aug 2000 23:00:00 UTC</Date>
+  <Opposition>Addiscombe</Opposition>
+  <Time>2.00</Time>
+  <Venue>Tour</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 2 Sep 2000 23:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>2.30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Sat, 9 Sep 2000 23:00:00 UTC</Date>
+  <Opposition>Mapledurham</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 16 Sep 2000 23:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+<Fixture>
+  <Date>Sat, 23 Sep 2000 23:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Time>1.30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+</YearsFixtures>
+
