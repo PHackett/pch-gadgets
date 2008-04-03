@@ -113,20 +113,22 @@
   <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
-  <Date>Fri, 22 Aug 2008 23:00:00 UTC</Date>
-  <Opposition>Tour</Opposition>
-  <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
-</Fixture>
-<Fixture>
   <Date>Sat, 23 Aug 2008 23:00:00 UTC</Date>
-  <Opposition>Tour</Opposition>
+  <Opposition>Clytha Arms</Opposition>
+  <Time>2:30</Time>
   <Venue>Tour</Venue>
   <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
   <Date>Sun, 24 Aug 2008 23:00:00 UTC</Date>
-  <Opposition>Tour</Opposition>
+  <Opposition>Monmouth</Opposition>
+  <Time>1:30</Time>
+  <Venue>Tour</Venue>
+  <Result>NotPlayed</Result>
+</Fixture>
+<Fixture>
+  <Date>Mon, 25 Aug 2008 23:00:00 UTC</Date>
+  <Opposition>TBA</Opposition>
   <Venue>Tour</Venue>
   <Result>NotPlayed</Result>
 </Fixture>
