@@ -142,8 +142,6 @@
 						gYear = "2007";
 					}
 
-var gOppo="";
-
 					//
 					// Now the opposition ...
 					//
