@@ -18,7 +18,17 @@ var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/T
 
 
 //------------------------------------------[GGTRCC_FixtureO]-
-// Object to hold information on a single fixture
+// Object to hold information on a single fixture.
+//
+//	A single fixture XML will look like - 
+//
+//		<Fixture>
+//		  <Date>Fri, 9 May 1975 23:00:00 UTC</Date>
+//		  <Opposition>Berkshire College</Opposition>
+//		  <Venue>Home</Venue>
+//		  <Result>Lose</Result>
+//		  <HasLink/>
+//		</Fixture>
 //
 // @param aFixtureXML 	IN 	The fixture XML node
 //
@@ -255,9 +265,9 @@ function GGTRCC_FixtureO___URL()
 	
 	var lURL=lBaseURL;
 	
-	lURL += "month=" + GGUtils_MonthStringFromDate (this.mDate) + "+";
-	lURL += "date="  + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "+";
-	lURL += "year="  + this.mDate.getFullYear() + "+";
+	lURL += "month=" + GGUtils_MonthStringFromDate (this.mDate) + "&";
+	lURL += "date="  + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "&";
+	lURL += "year="  + this.mDate.getFullYear() + "&";
 	lURL += "oppo="  + this.mOppo;
 	
 	return (GGUtils_spacesToUnderscores(lURL));
