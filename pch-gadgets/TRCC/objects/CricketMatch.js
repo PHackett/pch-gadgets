@@ -4,9 +4,9 @@
 //	A single cricket match XML will look like - 
 //
 //
-// @param aInningsXML	IN 	The match report XML node
+// @param aCricketMatchXML	IN 	The match report XML node
 //
 //------------------------------------------------------------
-function GGTRCC_CricketMatchO (aCricketMtchXML)
+function GGTRCC_CricketMatchO (aCricketMatchXML)
 {
 }
