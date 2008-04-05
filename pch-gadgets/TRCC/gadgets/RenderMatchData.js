@@ -139,7 +139,7 @@
 						//
 						// Fall back to a default year
 						//
-						gYear = "2008";
+						gYear = "2007";
 					}
 
 var gOppo="";
