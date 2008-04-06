@@ -18,32 +18,25 @@
 //------------------------------------------------------------
 function GGTRCC_MatchReportO (aMatchReportXML)
 {
-	var lMR=aMatchReportXML;
+	this.mMatchReport = null;
+
+	//
+	// Attempto tread the CDATA section, if present
+	//	
+	var lC = aMatchReportXML.childNodes;
 	
-	var lC = lMR.childNodes;
-	
-	this.mMatchReport = "";
-	
-	for (var j=0 ; j<lC.length ; ++j)
+	for (var i=0 ; i<lC.length ; ++i)
 	{
 		//
 		// 4 is CDATA
 		//
-		if (4 == lC.item(j).nodeType)
+		if (4 == lC.item(i).nodeType)
 		{
-			this.mMatchReport += "lC.item(" + j + ").data = " + lC.item(j).data + "<br>"; 
+			this.mMatchReport = lC.item(i).data; 
+			
+			break;
 		}
-		// this.mMatchReport = lC.item(1).firstChild.nodeValue + "#";
-		// this.mMatchReport = GGUtils_XMLToHTML(lC.item(0)) + "//"; 
-		this.mMatchReport += "lC.item(" + j + ").nodeName = " + lC.item(j).nodeName + "<br>"; 
-		this.mMatchReport += "lC.item(" + j + ").nodeType = " + lC.item(j).nodeType + "<br>"; 
 	}
-	
-	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
-
-	// var lCD=aMatchReportXML.getElementsByTagName("CDATA").item(0).nodeValue;
-
-	this.mMatchReport += "<br>*" + lC.length + "*"; 
 
 	//
 	// Methods
@@ -52,8 +45,20 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 }
 
 
-
+//-------------------------------[GGTRCC_MatchReportO___HTML]-
+// Return the HTML from this object
+//
+// @return		The match report HTML
+//
+//------------------------------------------------------------
 function GGTRCC_MatchReportO___HTML()
 {
-	return (this.mMatchReport);
+	var lRet=this.mMatchReport;
+	
+	if (null == lRet)
+	{
+		lRet = "There is no match report available for this game."
+	}
+	
+	return (lRet);
 }
