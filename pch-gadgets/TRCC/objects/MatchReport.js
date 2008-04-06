@@ -22,10 +22,10 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 	
 	var lC = lMR.childNodes;
 	
-	//for (var j=0 ; j<lC.length ; ++j)
+	for (var j=0 ; j<lC.length ; ++j)
 	{
 		// this.mMatchReport = lC.item(1).firstChild.nodeValue + "#";
-		this.mMatchReport = GGUtils_XMLToHTML(lMR); 
+		this.mMatchReport = GGUtils_XMLToHTML(lC.item(j)); 
 	}
 	
 	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
