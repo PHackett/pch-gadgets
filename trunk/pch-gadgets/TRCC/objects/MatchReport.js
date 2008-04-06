@@ -18,7 +18,16 @@
 //------------------------------------------------------------
 function GGTRCC_MatchReportO (aMatchReportXML)
 {
-	this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
+	var lMR=aMatchReportXML.getElementsByTagName("MatchReport").item(0);
+	
+	var lC = lMR.childNodes;
+	
+	for (var j=0 ; j<lC.length ; ++j)
+	{
+		this.mMatchReport = lC.item(j).firstChild.nodeValue + "#";
+	}
+	
+	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
 
 
 	//
