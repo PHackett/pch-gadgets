@@ -18,5 +18,18 @@
 //------------------------------------------------------------
 function GGTRCC_MatchReportO (aMatchReportXML)
 {
-	this.mMatchReport	= null;
+	this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
+
+
+	//
+	// Methods
+	//
+	this.HTML 		= GGTRCC_MatchReportO___HTML;
+}
+
+
+
+function GGTRCC_MatchReportO___HTML()
+{
+	return (this.mMatchReport);
 }
