@@ -29,6 +29,7 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 		// this.mMatchReport = lC.item(1).firstChild.nodeValue + "#";
 		// this.mMatchReport = GGUtils_XMLToHTML(lC.item(0)) + "//"; 
 		this.mMatchReport += "lC.item(" + j + ").nodeName = " + lC.item(j).nodeName + "<br>"; 
+		this.mMatchReport += "lC.item(" + j + ").nodeType = " + lC.item(j).nodeType + "<br>"; 
 	}
 	
 	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
