@@ -26,6 +26,13 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 	
 	for (var j=0 ; j<lC.length ; ++j)
 	{
+		//
+		// 4 is CDATA
+		//
+		if (4 == lC.item(j).nodeType)
+		{
+			this.mMatchReport += "lC.item(" + j + ").data = " + lC.item(j).data + "<br>"; 
+		}
 		// this.mMatchReport = lC.item(1).firstChild.nodeValue + "#";
 		// this.mMatchReport = GGUtils_XMLToHTML(lC.item(0)) + "//"; 
 		this.mMatchReport += "lC.item(" + j + ").nodeName = " + lC.item(j).nodeName + "<br>"; 
