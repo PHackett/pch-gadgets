@@ -18,7 +18,7 @@
 //------------------------------------------------------------
 function GGTRCC_MatchReportO (aMatchReportXML)
 {
-	var lMR=aMatchReportXML.getElementsByTagName("MatchReport").item(0);
+	var lMR=aMatchReportXML;
 	
 	var lC = lMR.childNodes;
 	
