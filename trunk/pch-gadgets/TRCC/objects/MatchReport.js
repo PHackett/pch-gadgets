@@ -30,6 +30,9 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 	
 	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
 
+	var lCD=aMatchReportXML.getElementsByTagName("CDATA").item(0).nodeValue;
+
+	this.mMatchReport += lCD; 
 
 	//
 	// Methods
