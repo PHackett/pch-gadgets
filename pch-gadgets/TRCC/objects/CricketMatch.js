@@ -12,8 +12,8 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	// Extract the data from the attributes
 	//
-	this.mOppo	= aCricketMatchXML.getAttribute ("oppo");
-	this.mDate	= new Date (aCricketMatchXML.getAttribute ("date"));
+	this.mOppo	= aCricketMatchXML.getElementsByTagName("CricketMatch").item(0).getAttribute ("oppo");
+	this.mDate	= new Date (aCricketMatchXML.getElementsByTagName("CricketMatch").item(0).getAttribute ("date"));
 
 	//
 	// Methods
