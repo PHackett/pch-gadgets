@@ -9,6 +9,16 @@
 //------------------------------------------------------------
 function GGTRCC_CricketMatchO (aCricketMatchXML)
 {
+	//
+	// The members - With default values
+	//
+	this.mOppo 			= null;
+	this.mDate			= null;
+	this.mMatchReport	= null;
+	this.mInnings		= new Array;
+	this.mInnings[0]	= null;
+	this.mInnings[1]	= null;
+	
 	var lCM=aCricketMatchXML.getElementsByTagName("CricketMatch").item(0);
 	
 	//
@@ -23,12 +33,25 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	this.mMatchReport = new GGTRCC_MatchReportO (lCM.getElementsByTagName("MatchReport").item(0));
 	
 	//
+	// Get the innings information
+	//
+	var lInnings = lCM.getElementsByTagName("Innings");
+	
+	//
 	// First innings
 	//
+	if (lInnings.length > 0)
+	{
+		this.mInnings[0] = new GGTRCC_InningsO (lCM[0]);
+	}
 	
 	//
 	// Second innings
 	//
+	if (lInnings.length > 1)
+	{
+		this.mInnings[1] = new GGTRCC_InningsO (lCM[1]);
+	}
 	
 	//
 	// Methods
@@ -57,6 +80,16 @@ function GGTRCC_CricketMatchO___matchHTML()
 	lRet += "Date = " + this.date().toString() + "<br>";
 	
 	lRet += this.mMatchReport.HTML();
+	
+	if (null != this.mInnings[0])
+	{
+		lRet += this.mInnings[0].HTML();
+	}
+
+	if (null != this.mInnings[1])
+	{
+		lRet += this.mInnings[1].HTML();
+	}
 	
 	return (lRet);
 }

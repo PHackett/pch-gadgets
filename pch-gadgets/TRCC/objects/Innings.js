@@ -15,4 +15,18 @@
 //------------------------------------------------------------
 function GGTRCC_InningsO (aInningsXML)
 {
+	//
+	// Methods
+	//
+	this.HTML 		= GGTRCC_InningsO___HTML;
+}
+
+
+function GGTRCC_InningsO___HTML()
+{
+	var lRet="";
+	
+lRet = "This is an innings<br>"
+
+	return (lRet);
 }
