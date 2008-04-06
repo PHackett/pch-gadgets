@@ -25,7 +25,8 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 	for (var j=0 ; j<lC.length ; ++j)
 	{
 		// this.mMatchReport = lC.item(1).firstChild.nodeValue + "#";
-		this.mMatchReport = GGUtils_XMLToHTML(lC.item(0)) + "//"; 
+		// this.mMatchReport = GGUtils_XMLToHTML(lC.item(0)) + "//"; 
+		this.mMatchReport = lC.item(j).nodeName + "//"; 
 	}
 	
 	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
