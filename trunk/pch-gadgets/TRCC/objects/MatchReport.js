@@ -26,14 +26,14 @@ function GGTRCC_MatchReportO (aMatchReportXML)
 	{
 		// this.mMatchReport = lC.item(1).firstChild.nodeValue + "#";
 		// this.mMatchReport = GGUtils_XMLToHTML(lC.item(0)) + "//"; 
-		this.mMatchReport = lC.item(j).nodeName + "//"; 
+		this.mMatchReport = "lC.item(" + j + ").nodeName = " + lC.item(j).nodeName + "<br>"; 
 	}
 	
 	// this.mMatchReport	= aMatchReportXML.getElementsByTagName("MatchReport").item(0).nodeValue;
 
 	// var lCD=aMatchReportXML.getElementsByTagName("CDATA").item(0).nodeValue;
 
-	this.mMatchReport += "*" + lC.length + "*"; 
+	this.mMatchReport += "<br>*" + lC.length + "*"; 
 
 	//
 	// Methods
