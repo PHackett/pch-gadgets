@@ -15,10 +15,11 @@
 //------------------------------------------------------------
 function GGTRCC_InningsO (aInningsXML)
 {
-	this.mBatsmen 	= new Array();
-	this.mExtras	= null;
-	this.mFOWs 		= new Array();
-	this.mBowlers 	= new Array();
+	this.mBattingTeam	= aInningsXML.getAttribute ("batting");;
+	this.mBatsmen 		= new Array();
+	this.mExtras		= null;
+	this.mFOWs 			= new Array();
+	this.mBowlers 		= new Array();
 	
 	//
 	// Read the batting information
@@ -71,7 +72,7 @@ function GGTRCC_InningsO___HTML()
 {
 	var lRet="";
 	
-lRet = "<br>This is an innings<br>"
+lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 
 	//
 	// Batting
