@@ -87,7 +87,7 @@ function GGTRCC_BatsmanInningsO___HTML (aNum)
 //------------------------------------------------------------
 function GGTRCC_BatsmanInnings_MakeTable (aBatsmanInnings, aExtras)
 {
-	var lTotal=aExtras;
+	var lTotal=(aExtras-0);
 	var lRet="";
 
 	lRet += "<table width='100%' border='0' cellspacing='0' cellpadding='0'>\n";
