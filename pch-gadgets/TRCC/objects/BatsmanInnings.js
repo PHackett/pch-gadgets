@@ -29,7 +29,7 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	//
 	var lData = aBatsmanXML.childNodes;
 
-	for (var i=0 ; i<lDate.length ; ++i)
+	for (var i=0 ; i<lData.length ; ++i)
 	{
 		if (lData.item(i).nodeName == "HowOut")
 		{
