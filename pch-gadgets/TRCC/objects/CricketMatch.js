@@ -42,7 +42,7 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	if (lInnings.length > 0)
 	{
-		this.mInnings[0] = new GGTRCC_InningsO (lCM.item(0));
+		this.mInnings[0] = new GGTRCC_InningsO (lInnings[0]);
 	}
 	
 	//
@@ -50,7 +50,7 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	if (lInnings.length > 1)
 	{
-		this.mInnings[1] = new GGTRCC_InningsO (lCM.item(1));
+		this.mInnings[1] = new GGTRCC_InningsO (lInnings[1]);
 	}
 	
 	//
