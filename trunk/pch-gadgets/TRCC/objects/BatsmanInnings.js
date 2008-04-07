@@ -25,6 +25,29 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	this.mName	= aBatsmanXML.getAttribute ("name");
 
 	//
+	// Now the other stuff
+	//
+	var lData = aBatsmanXML.childNodes;
+
+	for (var i=0 ; i<lDate.length ; ++i)
+	{
+		if (lData.item(i).nodeName == "HowOut")
+		{
+			this.mHowOut = lData.item(i).nodeValue;
+		}
+		
+		if (lData.item(i).nodeName == "Bowler")
+		{
+			this.mBowler = lData.item(i).nodeValue;
+		}
+		
+		if (lData.item(i).nodeName == "Runs")
+		{
+			this.mRuns = lData.item(i).nodeValue;
+		}
+	}
+
+	//
 	// Methods
 	//
 	this.HTML 		= GGTRCC_BatsmanInningsO___HTML;
@@ -33,6 +56,23 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 
 function GGTRCC_BatsmanInningsO___HTML()
 {
-	return ("Batsman " + this.mName + "<br>");
+	var lRet="Batsman " + this.mName;
+	
+	if (null != this.mHowOut)
+	{
+		lRet += " H/O=" + this.mHowOut;
+	}
+	
+	if (null != this.mBowler)
+	{
+		lRet += " bwlr=" + this.mBowler;
+	}
+	
+	if (null != this.mRuns)
+	{
+		lRet += " runs=" + this.mRuns;
+	}
+	
+	return (lRet + "<br>");
 }
 
