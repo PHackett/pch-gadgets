@@ -14,10 +14,17 @@
 //------------------------------------------------------------
 function GGTRCC_BatsmanInningsO (aBatsmanXML)
 {
+	this.mIndex		= 999;
 	this.mName		= null;
 	this.mHowOut	= null;
 	this.mBowler	= null;
 	this.mRuns		= null;
+
+	//
+	// Get the always present batsman attributes
+	//
+	this.mIndex	= aBatsmanXML.getAttribute ("index");
+	this.mName	= aBatsmanXML.getAttribute ("name");
 
 	//
 	// Methods
@@ -28,6 +35,6 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 
 function GGTRCC_BatsmanInningsO___HTML()
 {
-	return ("Batsman!<br>");
+	return ("Batsman (" + this.mIndex + ") " + this.mName + "<br>");
 }
 
