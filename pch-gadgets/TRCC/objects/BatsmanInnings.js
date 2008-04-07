@@ -33,15 +33,15 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	{
 		if ("HowOut" == lData.item(i).nodeName)
 		{
-			this.mHowOut = lData.item(i).nodeName; //lData.item(i).nodeValue;
+			this.mHowOut = lData.item(i).getAttribute ("how"); //lData.item(i).nodeValue;
 		}
 		else if ("Bowler" == lData.item(i).nodeName)
 		{
-			this.mBowler = lData.item(i).nodeName; //lData.item(i).nodeValue;
+			this.mBowler = lData.item(i).getAttribute ("name"); //lData.item(i).nodeValue;
 		}
 		else if ("Runs" == lData.item(i).nodeName)
 		{
-			this.mRuns = lData.item(i).nodeName; //lData.item(i).nodeValue;
+			this.mRuns = lData.item(i).getAttribute ("value"); //lData.item(i).nodeValue;
 		}
 	}
 
