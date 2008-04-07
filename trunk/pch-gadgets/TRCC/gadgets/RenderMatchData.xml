@@ -103,6 +103,12 @@
 					//
 					// Read the XML into objects
 					//
+					var lCricketMatch = new GGTRCC_CricketMatchO (response);
+					
+					//
+					// Now render for display
+					//
+					var lHTML = lCricketMatch.matchHTML();
 					
 					//
 					// Display HTML string in <div>

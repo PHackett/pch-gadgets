@@ -16,4 +16,15 @@ function GGTRCC_BowlerSummaryO (aBowlerXML)
 	this.mMaidens	= null;
 	this.mRuns		= null;
 	this.mWickets	= null;
+
+	//
+	// Methods
+	//
+	this.HTML 		= GGTRCC_BowlerSummaryO___HTML;
+}
+
+
+function GGTRCC_BowlerSummaryO___HTML()
+{
+	return ("Bowler!<br>");
 }
