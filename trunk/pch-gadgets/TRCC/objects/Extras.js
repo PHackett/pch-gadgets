@@ -31,8 +31,12 @@ function GGTRCC_ExtrasO___HTML()
 	
 	if (null == lRet)
 	{
-		lRet = 0; 
+		lRet = ""; 
+	}
+	else
+	{
+		lRet = "Extras=" + lRet;
 	}
 	
-	return ("" + lRet);
+	return (lRet + "<br>");
 }
