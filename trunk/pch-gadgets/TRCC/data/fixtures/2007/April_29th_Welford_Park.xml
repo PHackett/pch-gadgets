@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Mon Apr 7 13:29:00 UTC+0100 2008 -->
+<!-- Generated on Mon Apr 7 14:23:00 UTC+0100 2008 -->
 <CricketMatch oppo="Welford Park" date="Sun Apr 29 00:00:00 UTC+0100 2007">
   <MatchReport>
     <![CDATA[
@@ -84,11 +84,11 @@
     <FallOfWicket Batsman="9" Score="68"/>
     <FallOfWicket Batsman="10" Score="70"/>
     <FallOfWicket Batsman="11" Score="71"/>
-    <Bowler index="1" name="Gerwyn Leigh" overs="6" maidens="1" runs="16" wickets="0"/>
-    <Bowler index="2" name="Paul Hackett" overs="6" maidens="2" runs="12" wickets="4"/>
-    <Bowler index="3" name="Steve Green" overs="6" maidens="2" runs="10" wickets="2"/>
-    <Bowler index="4" name="Tim Cooper" overs="6" maidens="1" runs="24" wickets="3"/>
-    <Bowler index="5" name="Spence Nichols" overs="0.3" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary index="1" name="Gerwyn Leigh" overs="6" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary index="2" name="Paul Hackett" overs="6" maidens="2" runs="12" wickets="4"/>
+    <BowlerSummary index="3" name="Steve Green" overs="6" maidens="2" runs="10" wickets="2"/>
+    <BowlerSummary index="4" name="Tim Cooper" overs="6" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary index="5" name="Spence Nichols" overs="0.3" maidens="0" runs="1" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman index="1" name="Peter Woodman">
@@ -114,12 +114,12 @@
     <Batsman index="11" name="Paul Hackett"/>
     <Extras value="11"/>
     <FallOfWicket Batsman="2" Score="12"/>
-    <Bowler index="1" name="N Blair" overs="5" maidens="0" runs="12" wickets="1"/>
-    <Bowler index="2" name="J Aniszweski" overs="5" maidens="1" runs="15" wickets="0"/>
-    <Bowler index="3" name="P Attwell" overs="3" maidens="1" runs="19" wickets="0"/>
-    <Bowler index="4" name="M Palani" overs="2" maidens="0" runs="4" wickets="0"/>
-    <Bowler index="5" name="M Blair" overs="1" maidens="0" runs="13" wickets="0"/>
-    <Bowler index="6" name="I Blair" overs="0.4" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary index="1" name="N Blair" overs="5" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary index="2" name="J Aniszweski" overs="5" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary index="3" name="P Attwell" overs="3" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary index="4" name="M Palani" overs="2" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary index="5" name="M Blair" overs="1" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary index="6" name="I Blair" overs="0.4" maidens="0" runs="3" wickets="0"/>
   </Innings>
 </CricketMatch>
 
