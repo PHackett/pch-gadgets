@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Mon Apr 7 14:35:40 UTC+0100 2008 -->
+<!-- Generated on Mon Apr 7 15:56:25 UTC+0100 2008 -->
 <CricketMatch oppo="Welford Park" date="Sun Apr 29 00:00:00 UTC+0100 2007">
   <MatchReport>
     <![CDATA[
@@ -20,56 +20,56 @@
     ]]>
   </MatchReport>
   <Innings batting="Welford Park">
-    <Batsman index="1" name="I Blair">
+    <Batsman name="I Blair">
       <HowOut how="Bowled"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman index="2" name="S Jeffcott">
+    <Batsman name="S Jeffcott">
       <HowOut how="Bowled"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman index="3" name="D Hancock">
+    <Batsman name="D Hancock">
       <HowOut how="Caught Keeper"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman index="4" name="I Herrington">
+    <Batsman name="I Herrington">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Green"/>
       <Runs value="17"/>
     </Batsman>
-    <Batsman index="5" name="P Attwell">
+    <Batsman name="P Attwell">
       <HowOut how="Bowled"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman index="6" name="J Braidwood">
+    <Batsman name="J Braidwood">
       <HowOut how="Bowled"/>
       <Bowler name="Tim Cooper"/>
       <Runs value="16"/>
     </Batsman>
-    <Batsman index="7" name="M Jurgens">
+    <Batsman name="M Jurgens">
       <HowOut how="Not Out"/>
       <Runs value="10"/>
     </Batsman>
-    <Batsman index="8" name="M Blair">
+    <Batsman name="M Blair">
       <HowOut how="Caught Tim Cooper"/>
       <Bowler name="Steve Green"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman index="9" name="M Palani">
+    <Batsman name="M Palani">
       <HowOut how="Bowled"/>
       <Bowler name="Tim Cooper"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman index="10" name="J Aniszweski">
+    <Batsman name="J Aniszweski">
       <HowOut how="Caught Paul Hackett"/>
       <Bowler name="Tim Cooper"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman index="11" name="N Blair">
+    <Batsman name="N Blair">
       <HowOut how="Run Out"/>
       <Runs value="0"/>
     </Batsman>
@@ -84,42 +84,42 @@
     <FallOfWicket batsman="9" score="68"/>
     <FallOfWicket batsman="10" score="70"/>
     <FallOfWicket batsman="11" score="71"/>
-    <BowlerSummary index="1" name="Gerwyn Leigh" overs="6" maidens="1" runs="16" wickets="0"/>
-    <BowlerSummary index="2" name="Paul Hackett" overs="6" maidens="2" runs="12" wickets="4"/>
-    <BowlerSummary index="3" name="Steve Green" overs="6" maidens="2" runs="10" wickets="2"/>
-    <BowlerSummary index="4" name="Tim Cooper" overs="6" maidens="1" runs="24" wickets="3"/>
-    <BowlerSummary index="5" name="Spence Nichols" overs="0.3" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="6" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="2" runs="12" wickets="4"/>
+    <BowlerSummary name="Steve Green" overs="6" maidens="2" runs="10" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="0.3" maidens="0" runs="1" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman index="1" name="Peter Woodman">
+    <Batsman name="Peter Woodman">
       <HowOut how="Not Out"/>
       <Runs value="17"/>
     </Batsman>
-    <Batsman index="2" name="George Nunn">
+    <Batsman name="George Nunn">
       <HowOut how="Caught"/>
       <Bowler name="N Blair"/>
       <Runs value="7"/>
     </Batsman>
-    <Batsman index="3" name="Nathan Eddy">
+    <Batsman name="Nathan Eddy">
       <HowOut how="Not Out"/>
       <Runs value="37"/>
     </Batsman>
-    <Batsman index="4" name="Tim Hogarth"/>
-    <Batsman index="5" name="Adam Smith"/>
-    <Batsman index="6" name="Gerwyn Leigh"/>
-    <Batsman index="7" name="Spence Nichols"/>
-    <Batsman index="8" name="Steve Green"/>
-    <Batsman index="9" name="Tim Cooper"/>
-    <Batsman index="10" name="Hugh Fort"/>
-    <Batsman index="11" name="Paul Hackett"/>
+    <Batsman name="Tim Hogarth"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Gerwyn Leigh"/>
+    <Batsman name="Spence Nichols"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Paul Hackett"/>
     <Extras value="11"/>
     <FallOfWicket batsman="2" score="12"/>
-    <BowlerSummary index="1" name="N Blair" overs="5" maidens="0" runs="12" wickets="1"/>
-    <BowlerSummary index="2" name="J Aniszweski" overs="5" maidens="1" runs="15" wickets="0"/>
-    <BowlerSummary index="3" name="P Attwell" overs="3" maidens="1" runs="19" wickets="0"/>
-    <BowlerSummary index="4" name="M Palani" overs="2" maidens="0" runs="4" wickets="0"/>
-    <BowlerSummary index="5" name="M Blair" overs="1" maidens="0" runs="13" wickets="0"/>
-    <BowlerSummary index="6" name="I Blair" overs="0.4" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="N Blair" overs="5" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="J Aniszweski" overs="5" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="P Attwell" overs="3" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="M Palani" overs="2" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="M Blair" overs="1" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="I Blair" overs="0.4" maidens="0" runs="3" wickets="0"/>
   </Innings>
 </CricketMatch>
 
