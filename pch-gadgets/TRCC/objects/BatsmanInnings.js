@@ -49,34 +49,85 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	// Methods
 	//
 	this.HTML 		= GGTRCC_BatsmanInningsO___HTML;
+	this.runs 		= GGTRCC_BatsmanInningsO___runs;
+}
+
+
+function GGTRCC_BatsmanInningsO___runs()	{ return (this.mRuns);	}
+
+
+//-----------------------------[GGTRCC_BatsmanInningsO___HTML]-
+// Render the object in HTML
+//
+//	@param		aNum	IN		Batter number
+// 	@return		The HTML
+//
+//------------------------------------------------------------
+function GGTRCC_BatsmanInningsO___HTML (aNum)
+{
+	var lRet="";
+	
+	lRet = 	"<td>" + aNum 								+ "</td>" + 
+			"<td>" + this.mName 						+ "</td>" +
+			"<td>" + GGUtils_nbspIfNull (this.mHowOut) 	+ "</td>" +
+			"<td>" + GGUtils_nbspIfNull (this.mBowler) 	+ "</td>" +
+			"<td>" + GGUtils_nbspIfNull (this.mRuns) 	+ "</td>" +
+			"<td>&nbsp;</td>";
+	
+	return (lRet + "<br>");
 }
 
 
 //-----------------------------[GGTRCC_BatsmanInningsO___HTML]-
 // Render the object in HTML
 //
-// @return		The HTML
+//	@param		aNum	IN		Batter number
+// 	@return		The HTML
 //
 //------------------------------------------------------------
-function GGTRCC_BatsmanInningsO___HTML()
+function GGTRCC_BatsmanInnings_MakeTable (aBatsmanInnings, aExtras)
 {
-	var lRet="Batsman " + this.mName;
-	
-	if (null != this.mHowOut)
-	{
-		lRet += " H/O=" + this.mHowOut;
-	}
-	
-	if (null != this.mBowler)
-	{
-		lRet += " bwlr=" + this.mBowler;
-	}
-	
-	if (null != this.mRuns)
-	{
-		lRet += " runs=" + this.mRuns;
-	}
-	
-	return (lRet + "<br>");
-}
+	var lTotal=aExtras;
+	var lRet="";
 
+	lRet += "<table width='100%' border='0' cellspacing='0' cellpadding='0'>\n";
+
+	lRet += "	<tr class=\"GadgetBatsHeader\">\n";
+	lRet += "		<th>&nbsp;</th>"	+
+			"<th align='left'>Batsman</th>"	+
+			"<th align='left'>How Out</th>"	+
+			"<th align='left'>Bowler</th>"	+
+			"<th align='right'>Runs</th>"	+
+			"<th width='" + 10 + "'>&nbsp;</th>\n";
+	lRet += "	</tr>";
+
+	//
+	// Down all the batsmen
+	//
+	for (var i=0 ; i<aBatsmanInnings.length ; ++i)
+	{
+		lRet += aBatsmanInnings[i].HTML(i+1);
+		
+		lTotal += aBatsmanInnings[i].runs();
+	}
+	
+	//
+	// Now the extras
+	//
+	lRet += "<tr>\n";
+	lRet += "<td colspan='3'>&nbsp;<td align='center' class=\"GadgetFixtureAltLine\">Extras</td>\n";
+	lRet += "<td align='right' class=\"GadgetFixtureAltLine\">" + aExtras + "</td><td class=\"GadgetFixtureAltLine\">&nbsp;</td>\n";
+	lRet += "</tr>\n";
+	
+	//
+	// Now the total
+	//
+	lRet += "<tr>\n";
+	lRet += "<td colspan='3'>&nbsp;<td align='center' class=\"GadgetFixtureAltLine\">Total</td>\n";
+	lRet += "<td align='right' class=\"GadgetFixtureAltLine\">" + lTotal + "</td><td class=\"GadgetFixtureAltLine\">&nbsp;</td>\n";
+	lRet += "</tr>\n";
+
+	lRet += "</table>";
+	
+	return (lRet);
+}
