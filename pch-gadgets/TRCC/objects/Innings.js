@@ -95,6 +95,8 @@ lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 	//
 	// Fow
 	//
+	lRet += GGTRCC_FOWO_MakeTable (this.mFOWs);
+	
 	for (var i=0 ; i<this.mFOWs.length ; ++i)
 	{
 		lRet += this.mFOWs[i].HTML();
