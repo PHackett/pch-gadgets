@@ -67,11 +67,11 @@ function GGTRCC_BatsmanInningsO___HTML (aNum)
 {
 	var lRet="";
 	
-	lRet = 	"<td>" + aNum 								+ "</td>" + 
-			"<td>" + this.mName 						+ "</td>" +
-			"<td>" + GGUtils_nbspIfNull (this.mHowOut) 	+ "</td>" +
-			"<td>" + GGUtils_nbspIfNull (this.mBowler) 	+ "</td>" +
-			"<td>" + GGUtils_nbspIfNull (this.mRuns) 	+ "</td>" +
+	lRet = 	"<td>" 					+ aNum 								+ "</td>" + 
+			"<td>" 					+ this.mName 						+ "</td>" +
+			"<td>" 					+ GGUtils_nbspIfNull (this.mHowOut) + "</td>" +
+			"<td>" 					+ GGUtils_nbspIfNull (this.mBowler) + "</td>" +
+			"<td align='right'>" 	+ GGUtils_nbspIfNull (this.mRuns) 	+ "</td>" +
 			"<td>&nbsp;</td>";
 	
 	return (lRet);
