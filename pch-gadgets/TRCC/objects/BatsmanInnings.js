@@ -106,7 +106,7 @@ function GGTRCC_BatsmanInnings_MakeTable (aBatsmanInnings, aExtras)
 	//
 	for (var i=0 ; i<aBatsmanInnings.length ; ++i)
 	{
-		lRet += aBatsmanInnings[i].HTML(i+1);
+		lRet += aBatsmanInnings[i].HTML(i+1) + "\n";
 		
 		lTotal += aBatsmanInnings[i].runs();
 	}
