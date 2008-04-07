@@ -80,6 +80,8 @@ function GGTRCC_CricketMatchO___matchHTML()
 	lRet += "Date = " + this.date().toString() + "<br>";
 	
 	lRet += this.mMatchReport.HTML();
+
+	lRet += "<br>";
 	
 	if (null != this.mInnings[0])
 	{

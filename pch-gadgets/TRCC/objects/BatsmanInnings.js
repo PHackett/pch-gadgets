@@ -18,4 +18,16 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	this.mHowOut	= null;
 	this.mBowler	= null;
 	this.mRuns		= null;
+
+	//
+	// Methods
+	//
+	this.HTML 		= GGTRCC_BatsmanInningsO___HTML;
 }
+
+
+function GGTRCC_BatsmanInningsO___HTML()
+{
+	return ("Batsman!<br>");
+}
+
