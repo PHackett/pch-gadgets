@@ -84,7 +84,7 @@ lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 	//
 	// Batting
 	//
-	GGTRCC_BatsmanInnings_MakeTable (this.mBatsmen, lExtras)
+	lRet += GGTRCC_BatsmanInnings_MakeTable (this.mBatsmen, lExtras)
 	
 	for (var i=0 ; i<this.mBatsmen.length ; ++i)
 	{
