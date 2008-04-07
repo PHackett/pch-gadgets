@@ -56,7 +56,7 @@ function GGTRCC_FOWO_MakeTable (aFOWs)
 		//
 		// Mark as many wickets as we have ...
 		//
-		for (var i=0 ; i<aFOWs.length() ; i++)
+		for (var i=0 ; i<aFOWs.length ; i++)
 		{
 			lRet += "<th align='center'>" + (i+1) + " for</th>";
 		}
@@ -64,7 +64,7 @@ function GGTRCC_FOWO_MakeTable (aFOWs)
 		//
 		// And fill the rest with blanks
 		//
-		for (var i=aFOWs.length() ; i<10 ; i++)
+		for (var i=aFOWs.length ; i<10 ; i++)
 		{
 			lRet += "<th align='center'>&nbsp</th>";
 		}
@@ -79,12 +79,12 @@ function GGTRCC_FOWO_MakeTable (aFOWs)
 		lRet += "<td align='right'>Batsman Out</td>";
 		lRet += "<td>&nbsp;</td>";
 
-		for (var i=0 ; i<aFOWs.length() ; i++)
+		for (var i=0 ; i<aFOWs.length ; i++)
 		{
 			lRet += "<td align='center'>" + aFOWs[i].batsmanNo() + "</td>";
 		}
 
-		for (var i=aFOWs.length() ; i<10 ; i++)
+		for (var i=aFOWs.length ; i<10 ; i++)
 		{
 			lRet += "<td>&nbsp</th>";
 		}
@@ -99,12 +99,12 @@ function GGTRCC_FOWO_MakeTable (aFOWs)
 		lRet += "<td align='right'>Score</td>";
 		lRet += "<td>&nbsp;</td>";
 
-		for (var i=0 ; i<aFOWs.length() ; i++)
+		for (var i=0 ; i<aFOWs.length ; i++)
 		{
 			lRet += "<td align='center'>" + aFOWs[i].score() + "</td>";
 		}
 
-		for (var i=aFOWs.length() ; i<10 ; i++)
+		for (var i=aFOWs.length ; i<10 ; i++)
 		{
 			lRet += "<td>&nbsp</th>";
 		}
