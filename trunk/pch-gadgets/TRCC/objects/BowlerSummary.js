@@ -18,6 +18,16 @@ function GGTRCC_BowlerSummaryO (aBowlerXML)
 	this.mWickets	= null;
 
 	//
+	// Get the always present bowler attributes
+	//
+	this.mIndex		= aBowlerXML.getAttribute ("index");
+	this.mName		= aBowlerXML.getAttribute ("name");
+	this.mOvers		= aBowlerXML.getAttribute ("overs");
+	this.mMaidens	= aBowlerXML.getAttribute ("maidens");
+	this.mRuns		= aBowlerXML.getAttribute ("runs");
+	this.mWickets	= aBowlerXML.getAttribute ("wickets");
+	
+	//
 	// Methods
 	//
 	this.HTML 		= GGTRCC_BowlerSummaryO___HTML;
@@ -26,5 +36,9 @@ function GGTRCC_BowlerSummaryO (aBowlerXML)
 
 function GGTRCC_BowlerSummaryO___HTML()
 {
-	return ("Bowler!<br>");
+	return ("Bowler (" + this.mIndex + ") " + this.mName + 
+			" Overs=" + this.mOvers + 
+			" Mdns=" + this.mMaidens + 
+			" Runs=" + this.mRuns + 
+			" Wkts=" + this.mWickets + "<br>");
 }
