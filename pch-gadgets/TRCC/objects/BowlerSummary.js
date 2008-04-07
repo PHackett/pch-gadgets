@@ -75,7 +75,7 @@ function GGTRCC_BowlerSummary_MakeMatchTable (aBowlerSummary)
 					"<th align='right'>Maidens</th>"	+
 					"<th align='right'>Runs</th>"		+
 					"<th align='right'>Wickets</th>"	+
-					"<th width='" + gRTrail + "'>&nbsp;</th>";
+					"<th width='" + 10 + "'>&nbsp;</th>";
 	lRet += "	</tr>\n";
 
 	//
