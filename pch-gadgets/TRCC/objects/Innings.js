@@ -71,15 +71,24 @@ function GGTRCC_InningsO (aInningsXML)
 function GGTRCC_InningsO___HTML()
 {
 	var lRet="";
+	var lExtras=0;
+	
+	if ((null != this.mExtras) && (null != this.mExtras.extras()))
+	{
+		lExtras = this.mExtras.extras()
+	}
+	
 	
 lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 
 	//
 	// Batting
 	//
+	GGTRCC_BatsmanInnings_MakeTable (this.mBatsmen, lExtras)
+	
 	for (var i=0 ; i<this.mBatsmen.length ; ++i)
 	{
-		lRet += this.mBatsmen[i].HTML();
+		lRet += this.mBatsmen[i].HTML(i);
 	}
 	
 	//
@@ -103,7 +112,7 @@ lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 	//
 	for (var i=0 ; i<this.mBowlers.length ; ++i)
 	{
-		lRet += this.mBowlers[i].HTML();
+		lRet += this.mBowlers[i].HTML(i);
 	}
 
 	return (lRet);
