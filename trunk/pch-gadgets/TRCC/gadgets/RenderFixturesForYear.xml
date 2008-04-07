@@ -23,14 +23,14 @@
 	<Content type="html">
 
 		<![CDATA[
-			<style type="text/css">
-				.GadgetFixtureAltLine { background-color: lightblue;}
-				.GadgetContentHeading { font-family: "Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
-										font-size: x-large;
-										color: DarkBlue;
-									  }
-			</style>
+			<!--
+			Global CSS 
+			-->
+			<link href="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/css/trcc.css" rel="stylesheet" type="text/css">
 
+			<!--
+			Placeholder where the generated content will be placed 
+			-->
 			<div id="content_div"></div>
 
 			<!--
