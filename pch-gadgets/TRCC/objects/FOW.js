@@ -10,6 +10,17 @@
 //------------------------------------------------------------
 function GGTRCC_FOWO (aFOWXML)
 {
-	this.mBatsmanNo	= null;
-	this.mScore		= null;
+	this.mBatsmanNo	= aFOWXML.getAttribute ("batsman");
+	this.mScore		= aFOWXML.getAttribute ("score");
+
+	//
+	// Methods
+	//
+	this.HTML 		= GGTRCC_FOWO___HTML;
+}
+
+
+function GGTRCC_FOWO___HTML()
+{
+	return ("FOW: Bats=" + this.mBatsmanNo + " score=" + this.mScore + "<br>");
 }

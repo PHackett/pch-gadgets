@@ -33,10 +33,22 @@ function GGTRCC_InningsO (aInningsXML)
 	//
 	// Extras
 	//
+	var lExtras = aInningsXML.getElementsByTagName("Extras");
+	
+	if (null != lExtras)
+	{
+		this.mExtras = new GGTRCC_ExtrasO (lExtras[0]);
+	}
 	
 	//
 	// Fall of wickets
 	//
+	var lFOWs = aInningsXML.getElementsByTagName("FallOfWicket");
+	
+	for (var i=0 ; i<lFOWs.length ; ++i)
+	{
+		this.mFOWs.push (new GGTRCC_FOWO (lFOWs[i]));
+	}
 	
 	//
 	// And the bowler information ...
@@ -67,6 +79,22 @@ lRet = "<br>This is an innings<br>"
 	for (var i=0 ; i<this.mBatsmen.length ; ++i)
 	{
 		lRet += this.mBatsmen[i].HTML();
+	}
+	
+	//
+	// Extras
+	//
+	if (null !=  this.mExtras)
+	{
+		lRet +=  this.mExtras.HTML();
+	}
+	
+	//
+	// Fow
+	//
+	for (var i=0 ; i<this.mFOWs.length ; ++i)
+	{
+		lRet += this.mFOWs[i].HTML();
 	}
 
 	//
