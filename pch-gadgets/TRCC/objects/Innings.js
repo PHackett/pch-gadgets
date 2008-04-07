@@ -86,19 +86,6 @@ lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 	//
 	lRet += GGTRCC_BatsmanInnings_MakeTable (this.mBatsmen, lExtras)
 	
-	for (var i=0 ; i<this.mBatsmen.length ; ++i)
-	{
-		lRet += this.mBatsmen[i].HTML(i);
-	}
-	
-	//
-	// Extras
-	//
-	if (null !=  this.mExtras)
-	{
-		lRet +=  this.mExtras.HTML();
-	}
-	
 	//
 	// Fow
 	//
@@ -110,6 +97,8 @@ lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 	//
 	// Bowling
 	//
+	lRet += GGTRCC_BowlerSummary_MakeMatchTable (this.mBowlers);
+	
 	for (var i=0 ; i<this.mBowlers.length ; ++i)
 	{
 		lRet += this.mBowlers[i].HTML(i);
