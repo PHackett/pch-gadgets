@@ -10,6 +10,12 @@
 	color: 			DarkBlue;
 }
 
+.GadgetBatsHeader
+{
+	background:		darkblue;
+	color:			yellow;
+}
+
 .ScorecardSm
 {
 	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
