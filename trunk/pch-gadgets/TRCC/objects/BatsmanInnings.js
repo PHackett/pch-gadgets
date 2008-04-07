@@ -74,7 +74,7 @@ function GGTRCC_BatsmanInningsO___HTML (aNum)
 			"<td>" + GGUtils_nbspIfNull (this.mRuns) 	+ "</td>" +
 			"<td>&nbsp;</td>";
 	
-	return (lRet + "<br>");
+	return (lRet);
 }
 
 
@@ -106,7 +106,9 @@ function GGTRCC_BatsmanInnings_MakeTable (aBatsmanInnings, aExtras)
 	//
 	for (var i=0 ; i<aBatsmanInnings.length ; ++i)
 	{
+		lRet += (lNum % 2) ? "<tr>" : "<tr class=\"FixtureAltLine\">";
 		lRet += aBatsmanInnings[i].HTML(i+1) + "\n";
+		lRet += "</tr>\n";
 		
 		lTotal += aBatsmanInnings[i].runs();
 	}
