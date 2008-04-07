@@ -31,19 +31,17 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 
 	for (var i=0 ; i<lData.length ; ++i)
 	{
-		if (lData.item(i).nodeName == "HowOut")
+		if ("HowOut" == lData.item(i).nodeName)
 		{
-			this.mHowOut = lData.item(i).nodeValue;
+			this.mHowOut = lData.item(i).nodeName; //lData.item(i).nodeValue;
 		}
-		
-		if (lData.item(i).nodeName == "Bowler")
+		else if ("Bowler" == lData.item(i).nodeName)
 		{
-			this.mBowler = lData.item(i).nodeValue;
+			this.mBowler = lData.item(i).nodeName; //lData.item(i).nodeValue;
 		}
-		
-		if (lData.item(i).nodeName == "Runs")
+		else if ("Runs" == lData.item(i).nodeName)
 		{
-			this.mRuns = lData.item(i).nodeValue;
+			this.mRuns = lData.item(i).nodeName; //lData.item(i).nodeValue;
 		}
 	}
 
