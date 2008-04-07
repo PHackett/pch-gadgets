@@ -68,6 +68,12 @@ function GGTRCC_InningsO (aInningsXML)
 }
 
 
+//-----------------------------------[GGTRCC_InningsO___HTML]-
+// Render the object in HTML
+//
+// 	@return		The HTML
+//
+//------------------------------------------------------------
 function GGTRCC_InningsO___HTML()
 {
 	var lRet="";
@@ -98,11 +104,6 @@ lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
 	// Bowling
 	//
 	lRet += GGTRCC_BowlerSummary_MakeMatchTable (this.mBowlers);
-	
-	for (var i=0 ; i<this.mBowlers.length ; ++i)
-	{
-		lRet += this.mBowlers[i].HTML(i);
-	}
 
 	return (lRet);
 }
