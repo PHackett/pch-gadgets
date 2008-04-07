@@ -41,7 +41,7 @@ function GGTRCC_InningsO (aInningsXML)
 	//
 	// And the bowler information ...
 	//
-	var lBowlers = aInningsXML.getElementsByTagName("Bowler");
+	var lBowlers = aInningsXML.getElementsByTagName("BowlerSummary");
 	
 	for (var i=0 ; i<lBowlers.length ; ++i)
 	{
