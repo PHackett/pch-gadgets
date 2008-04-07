@@ -15,11 +15,24 @@ function GGTRCC_ExtrasO (aExtrasXML)
 	//
 	// Methods
 	//
-	this.extras 	= GGTRCC_ExtrasO___extras;
+	this.extras = GGTRCC_ExtrasO___extras;
+	this.HTML 	= GGTRCC_ExtrasO___HTML;
 }
 
 
 function GGTRCC_ExtrasO___extras()
 {
 	return (this.mExtras);
+}
+
+function GGTRCC_ExtrasO___HTML()
+{
+	var lRet=this.extras();
+	
+	if (null == lRet)
+	{
+		lRet = 0; 
+	}
+	
+	return ("" + lRet);
 }
