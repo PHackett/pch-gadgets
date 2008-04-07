@@ -283,3 +283,22 @@ function GGUtils_makeHREF (aString, aURL, aTarget)
 //------------------------------------------------------------
 function GGUtils_setLinkTarget (aLinkTarget)	{ sGGUtils___LinkTarget = aLinkTarget;	}
 function GGUtils_getLinkTarget ()				{ return (sGGUtils___LinkTarget);		}
+
+
+//---------------------------------------[GGUtils_nbspIfNull]-
+// Ready for rendering to HTML, if the supplied value is null
+// then return "&nbsp;"
+// 
+// @return	As described
+//------------------------------------------------------------
+function GGUtils_nbspIfNull (aValue)
+{
+	var lRet=aValue;
+	
+	if (null == lRet)
+	{
+		lRet = "&nbsp;";
+	}
+	
+	return (lRet);
+}
