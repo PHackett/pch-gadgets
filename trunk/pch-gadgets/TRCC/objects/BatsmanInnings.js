@@ -106,7 +106,7 @@ function GGTRCC_BatsmanInnings_MakeTable (aBatsmanInnings, aExtras)
 	//
 	for (var i=0 ; i<aBatsmanInnings.length ; ++i)
 	{
-		lRet += (lNum % 2) ? "<tr>" : "<tr class=\"FixtureAltLine\">";
+		lRet += (i % 2) ? "<tr>" : "<tr class=\"FixtureAltLine\">";
 		lRet += aBatsmanInnings[i].HTML(i+1) + "\n";
 		lRet += "</tr>\n";
 		
