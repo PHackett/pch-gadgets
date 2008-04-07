@@ -10,6 +10,16 @@
 //------------------------------------------------------------
 function GGTRCC_ExtrasO (aExtrasXML)
 {
-	this.mBatsmanIndex	= null;
-	this.mScore			= null;
+	this.mExtras	= aExtrasXML.getAttribute ("value");
+
+	//
+	// Methods
+	//
+	this.extras 	= GGTRCC_ExtrasO___extras;
+}
+
+
+function GGTRCC_ExtrasO___extras()
+{
+	return (this.mExtras);
 }
