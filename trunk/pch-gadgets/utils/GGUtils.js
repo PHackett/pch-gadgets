@@ -75,7 +75,7 @@ function GGUtils_GetDOWStringFromDate (aDate)
 //------------------------------------------------------------
 function GGUtils_GetOrdinal (aNum)
 {
-var lRet="th";
+	var lRet="th";
 
     switch (aNum % 10)
     {
@@ -100,21 +100,21 @@ var lRet="th";
 //------------------------------------------------------------
 function GGUtils_GetNumAsOrdinalString (aNum, aHTMLSuper)
 {
-    var lRet=aNum + "";
-
-    if (aHTMLSuper)
-    {
-    lRet += "<sup>";
-    }
-
-    lRet += GGUtils_GetOrdinal (aNum);
-
-    if (aHTMLSuper)
-    {
-    lRet += "</sup>";
-    }
-
-    return (lRet);
+	var lRet=aNum + "";
+	
+	if (aHTMLSuper)
+	{
+		lRet += "<sup>";
+	}
+	
+	lRet += GGUtils_GetOrdinal (aNum);
+	
+	if (aHTMLSuper)
+	{
+		lRet += "</sup>";
+	}
+	
+	return (lRet);
 }
 
 
