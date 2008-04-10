@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Embrook and Bearwood" date="Sun Sep 9 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       A fine day with a lot of high cloud cover, but not too bad for September. 
+      <p>
+       Winning
+      the toss, Twyford put Embrook in to bat. Oh dear. The openers were some of the best we have faced
+      all season, blocking the testing balls and punishing the loose ones of which, alas, there were a
+      fair few. Only the occasional ball got past Sabir &amp; Hamilton as they pushed confidently on past
+      100. Finally, relief for the home side as Romel bowled Sabir. But he was replaced by Phipps, and the
+      onslaught continued! Twyford were relieved when tea was called and they could return to the
+      pavilion. The opposition's 247-5 looked pretty impressive! 
+      <p>
+       And things did not go
+      well when it came for Twyford's batsmen to step forward. After eight overs home side were on 17-2
+      and looking decidedly shakey! But Captain Downes, assisted by Walkland, held things together. Runs
+      were in short supply, but at least the wickets stopped falling. Walkland remained as a rock for the
+      rest of the innings, as Twyford survived to obtain a draw. 
+      <p>
+       Twyford were unprepared
+      for the strength of Embrook's batting, but fielded gamely, and Embrook were unable to take the
+      wickets they required. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Embrook and Bearwood">
+    <Batsman name="A Sabir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ibrahim Romel"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="T Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="S Phipps">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="A Milne">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Ibrahim Romel"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T McNeny">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="P Dolan">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Beor">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Sartorio"/>
+    <Batsman name="L Giles"/>
+    <Batsman name="S Lamlugh"/>
+    <Batsman name="V Herridge"/>
+    <Extras value="49"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Ibrahim Romel" overs="10" maidens="0" runs="70" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="12" maidens="0" runs="69" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="L Giles"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Giles"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Sartorio"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Sartorio"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="A Milne"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Milne"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ibrahim Romel">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="6" score="74"/>
+    <FallOfWicket batsman="7" score="83"/>
+    <BowlerSummary name="L Giles" overs="9" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="S Lamlugh" overs="8" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="M Sartorio" overs="8" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="A Milne" overs="8" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="P Dolan" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="P Beor" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

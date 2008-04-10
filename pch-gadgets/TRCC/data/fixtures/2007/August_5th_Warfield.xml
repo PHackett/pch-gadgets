@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Warfield" date="Sun Aug 5 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       The hottest day of the year - Maybe as high as 30C - A day made for cricket! 
+      <p>
+      
+      Twyford travelled to Warfield, near Bracknell, a fixture that used to be a regular one but for some
+      unknown reason fell by the wayside in the past few years. Winning the toss, the Warfield captain had
+      no alternative but to place Twyford in the field and hope that the extreme heat would abate when
+      their turn came to field. 
+      <p>
+       But the heat seemed to bring out the best in the
+      visitors. Hackett, bowling down the slope with a gentle breeze at his back, bowled 13 straight overs
+      in the hot sun, ripping through the home side's openers and giving hardly anything away. From the
+      other end, Baker also gave a sterling effort. Only Ruddle and Cooper were able to offer any
+      resistance for Warfield, but some fine fielding kept their ambitions in check too. After 42 overs in
+      that scorching field, the visitors were only too glad to return to the pavilion, very happy with the
+      state of play, 
+      <p>
+       And for Twyford, it was to prove a good day with the bat as well.
+      Woodman shook off his previous two successive ducks to begin stroking the ball with confidence and
+      style, ending on an undefeated 54. Both Bejamin and Cochrane reached their 30's, and that was all
+      that was required from the visitors - The target was reached in less than 30 overs. 
+      <p>
+     
+       So, a fine day for Twyford, lifting their spirits after a string of recent defeats. But all praise
+      to their hosts, for inviting them to their lovely ground, for being true sportsmen throughout, and
+      for a top-notch tea as well. We wont let this fixture linger for years again! 
+    ]]>
+  </MatchReport>
+  <Innings batting="Warfield">
+    <Batsman name="N Philpot">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="O Stanford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Cocayne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Newman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Jay">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Wilkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="S Ruddle">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="F Cooper">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="G Morris"/>
+    <Batsman name="D Worchester"/>
+    <Batsman name="Kaminda"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="5" score="29"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="4" score="58"/>
+    <FallOfWicket batsman="8" score="136"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="5" runs="12" wickets="5"/>
+    <BowlerSummary name="Josh Baker" overs="13" maidens="1" runs="51" wickets="1"/>
+    <BowlerSummary name="Roger Seymour" overs="8" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="R Newman"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Michael Heary"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Karl Cochrane"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="82"/>
+    <BowlerSummary name="G Morris" overs="7" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Kaminda" overs="6" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="R Newman" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="S Ruddle" overs="5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="N Philpot" overs="3.3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Jay" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

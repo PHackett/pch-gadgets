@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 20 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       Travelling far afield, the men of Twyford journeyed this week to Wooburn on a delightful early
+      summer's day. The recent rain after so many weeks of drought left all about verdant & green and the
+      track looking good. 
+      <p>
+       The home side were first in to bat, and it was soon clear that
+      the visitors were going to be in for a long afternoon in the field! Despite good bowling from the
+      openers, the batsmen powered on, giving no chances & striking with confidence. Only after the first
+      bowling change was any progress made by Twyford. Walkland bowled a superb spell, accurate & testing,
+      deservedly reaping a total of 3 wickets. But Wooburn had batting in depth. The visitors were very
+      tired when the innings ended for a total of 187 - Not a huge score from the true manner in which the
+      pitch was playing, but certainly challenging. 
+      <p>
+       Too challenging for Twyford, it
+      emerged. Not only was the home side strong with batting, but bowling too. All the batsmen struggled,
+      save Walkland (again!), returning to the pavilion with too much rapidity for the visitor's liking.
+      Twyford's final score of 123 was not humiliating, but they were soundly beaten by a strong Wooburn
+      side. 
+      <p>
+       Twyford man of the match - Rod Edney for three good catches and dealing with
+      bowling that could be described as &quot;interesting&quot; at times! 
+    ]]>
+  </MatchReport>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="M Tennant">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="D Small">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="C Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J Nelson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="G Taylor">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Lees">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Curtis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="I Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Payne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M2 Tennant">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="9.4" maidens="2" runs="36" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="0" runs="58" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="11" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="5" maidens="0" runs="26" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="T Lees"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="D Small"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Small"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Taylor"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="C Hall"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Tennant"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hall"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="I Carter"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="21"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="6" score="61"/>
+    <FallOfWicket batsman="7" score="69"/>
+    <FallOfWicket batsman="8" score="78"/>
+    <FallOfWicket batsman="5" score="107"/>
+    <FallOfWicket batsman="10" score="118"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <BowlerSummary name="T Lees" overs="8" maidens="2" runs="16" wickets="1"/>
+    <BowlerSummary name="M Payne" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="D Small" overs="2" maidens="2" runs="0" wickets="2"/>
+    <BowlerSummary name="G Taylor" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="M Tennant" overs="4" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="R Hall" overs="4.2" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="C Hall" overs="5" maidens="1" runs="28" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
