@@ -84,23 +84,25 @@ function GGTRCC_InningsO___HTML()
 		lExtras = this.mExtras.extras()
 	}
 	
-	
-lRet = "<br>This is the innings of " + this.mBattingTeam + "<br>";
+	lRet += "<span class='ScorecardSm'>Innings of " + this.mBattingTeam + "</span>";
 
 	//
 	// Batting
 	//
 	lRet += GGTRCC_BatsmanInnings_MakeTable (this.mBatsmen, lExtras)
+	lRet += "<p>";
 	
 	//
 	// Fow
 	//
 	lRet += GGTRCC_FOWO_MakeTable (this.mFOWs);
+	lRet += "<p>";
 
 	//
 	// Bowling
 	//
 	lRet += GGTRCC_BowlerSummary_MakeMatchTable (this.mBowlers);
+	lRet += "<p>";
 
 	return (lRet);
 }
