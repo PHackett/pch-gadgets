@@ -30,6 +30,13 @@
 	color:			yellow;
 }
 
+.Scorecard
+{
+	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		large;
+	color:			Crimson;
+}
+
 .ScorecardSm
 {
 	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";

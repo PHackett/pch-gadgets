@@ -101,8 +101,8 @@ function GGTRCC_CricketMatchO___matchHTML()
 	lRet += "<hr size='2'>";
 	
 	lRet += this.mMatchReport.HTML();
-
-	lRet += "<br>";
+	
+	lRet += "<p><hr><span class='Scorecard'>Scorecard</span><p>";
 	
 	if (null != this.mInnings[0])
 	{
