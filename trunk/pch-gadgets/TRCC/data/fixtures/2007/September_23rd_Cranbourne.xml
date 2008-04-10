@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 23 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       The penultimate match of the season and one of the best pitches ever seen at the New Twyford Oval
+      (apparently prepared by T Fort senior, he of 15,000 runs in 150 years with an 18 run per match
+      average) greeted the old foe of Cranbourne. The Twyford team ranged against them seemed more like a
+      Downes and Fort invitational 11, consisting of no fewer than 6 representatives of the aforesaid
+      cricketing dynasties. Thankfully for Cranbourne, there were a few players of lesser ability in the
+      Twyford side to balance the family talent pool.........and the gene pool......... 
+      <p>
+      
+      (As Hackett always mentions the prevailing meteorological conditions before each match, perhaps I
+      should too......Ed). The weather started off brightly but then became slightly foreboding, before
+      turning quickly into a major depression that threatened to engulf everyone in a tide of misery and
+      dejection. Yes, as you guessed it the cricket followed a similar (anti) climatic course.....ho ho,
+      what splendid wit! 
+      <p>
+       Things got off to a bad start by Twyford winning the toss and
+      electing to field first on what turned out to be a perfect batting pitch. Doh!! Isn't hindsight a
+      wonderful thing?! 
+      <p>
+       The Twyford opening bowlers got off to a decent start
+      restricting the openers to around 3 to 4 an over for the first 15 overs, before Beamish made 2
+      breakthroughs. However, this success brought Bat 4 to the crease who creamed his first ball for an
+      elegant 4. Bat 2 was by this time starting to play his shots. Bowling changes followed bringing the
+      old firm Downes (N) and Fort (T) to the attack and you could almost see the saliva start to drip
+      from the batsman jaws. I am sure I heard little excited panting/whooping noises as each ball was
+      bowled...........or it might have been from the bowlers, I can't be sure/.. 
+      <p>
+      
+      Anyway, Bat 1 and 4 quickly proceeded to respective 50's, both reaching their targets in the same
+      over from the Skip. No criticism whatsoever should be levelled at the bowling (seriously), the
+      batsman were like sooo totally awesome. Pretty soon they had both reached their 100's and mass
+      suicide was being contemplated by the Twyford side (a pity that none of the usual teenagers in the
+      side were playing and had brought their guns with them). 
+      <p>
+       Anyway, they slogged and
+      they slogged and we got 2 more wickets but eventually they put us out of our misery but not before
+      severe damage had been done to bowling averages.....sob........They declared at 268 for 4 and an
+      early tea was taken. Odds on a Twyford victory about 2 million to 1, odds on a Twyford batting
+      collapse 1 to 2 million on. 
+      <p>
+       We were treated to a fine, albeit scandalously cheap
+      (£15.10) Lidl tea (my Waitrose pampered guts are still a bit iffy tonight), and afterwards we spent
+      a happy 2 hours watching runs accumulate a la Geoffrey Boycott, despite Cranbourne putting on Mr
+      Dolly at one end and Mr Longhop at the other. Oh I know it is so easy to be critical, but the ball
+      was absolutely begging for it, nay gagging to be smacked to all corners of the field and beyond... 
+
+           <p>
+       Anyway it was pretty obvious that the best we could achieve was a draw needing 10 an
+      over for most of the time, but it was so nice and refreshing to see such beautiful forward defences
+      for a change against Mr Dolly in particular. Amazingly the batting collapse never came although it
+      started to wobble a tiny bit at the end. Twyford ended up at around 160 for 7. I think we were all
+      glad to get to the pub afterwards! 
+      <p>
+       Pick of the Twyford bowlers, Steve Beamish. New
+      boy Karl Bukin showed he could bowl by taking one wicket even if he couldn't field for toffee. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Cranbourne">
+    <Batsman name="D Crick">
+      <HowOut how="Not Out"/>
+      <Runs value="105"/>
+    </Batsman>
+    <Batsman name="M Kirton">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Barfield">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T Jones">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="112"/>
+    </Batsman>
+    <Batsman name="Parag">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Karl Bukin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Driscol">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rose"/>
+    <Batsman name="Mjnr Kirton"/>
+    <Batsman name="Christins"/>
+    <Batsman name="Dainty"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="4" runs="41" wickets="2"/>
+    <BowlerSummary name="Steve Walkland" overs="11" maidens="2" runs="55" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="2" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Karl Bukin" overs="4" maidens="0" runs="37" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Driscol"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Driscol"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Driscol"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crick"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Kirton"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crick"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Karl Bukin">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="101"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <FallOfWicket batsman="1" score="123"/>
+    <FallOfWicket batsman="4" score="143"/>
+    <FallOfWicket batsman="6" score="153"/>
+    <FallOfWicket batsman="5" score="156"/>
+    <FallOfWicket batsman="8" score="170"/>
+    <BowlerSummary name="Parag" overs="3" maidens="1" runs="4" wickets="0"/>
+    <BowlerSummary name="Christins" overs="4" maidens="2" runs="20" wickets="0"/>
+    <BowlerSummary name="Mjnr Kirton" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Dainty" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="T Jones" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="D Crick" overs="9" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="B Barfield" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Driscol" overs="5" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Rose" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="M Kirton" overs="4" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Crowthorne" date="Sun Jun 3 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       With what must have been the youngest side Twyford had fielded for many a year, TRCC travelled to
+      Crowthorne on the outskirts of Wokingham on what was the first proper summer Sunday of the season.
+      Blisteringly hot, and humid to boot. The ground looked a picture after all the recent rain, mown to
+      perfection by the groundsmen. 
+      <p>
+       Crowthorne won the toss, and elected to bat, a
+      decision they were soon rueing. Openers Hackett &amp; Cooper proved hard to get away and wickets
+      began to tumble! Four of the home side were back in the pavilion with the score on 20, five for 48,
+      and so it continued after the bowling change. At 78-8, it looked all over the home side. But the
+      tail, in the form of Shore and Jolanders would not go easily! A 50 stand saw Crowthorne close at 142
+      all out. Not great on what looked like a good batting track, but certainly something to bowl at. 
+  
+         <p>
+       The visitors began well with Woodman &amp; N Downes having an opening stand of 45. But
+      after that, things went pretty well all Crowthornes way. Tight bowling, sharp fielding and some
+      rather lacklustre batting saw wickets fall regularly. Things went from bad to worse, seeing the
+      final 5 wickets fall for only 20 runs. 
+      <p>
+       So Twyford were left with the feeling that
+      they had let the match slip needlessly through their fingers, but so friendly and sporting were the
+      opposition, we could not hold it against them! 
+    ]]>
+  </MatchReport>
+  <Innings batting="Crowthorne">
+    <Batsman name="A Taylor">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Stent">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N McDonage">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Sudab">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Northall">
+      <HowOut how="LBW"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="S Clarkw">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="H Stent">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="H Shore">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Jolanders">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="M Buckett">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="48"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="4" score="20"/>
+    <FallOfWicket batsman="5" score="48"/>
+    <FallOfWicket batsman="6" score="58"/>
+    <FallOfWicket batsman="7" score="64"/>
+    <FallOfWicket batsman="8" score="78"/>
+    <FallOfWicket batsman="9" score="86"/>
+    <FallOfWicket batsman="11" score="142"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="14" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="5.4" maidens="2" runs="9" wickets="4"/>
+    <BowlerSummary name="Sunil Patnaik" overs="3" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="5" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="5" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Northall"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="N McDonage"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="P Northall"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="M Buckett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Northall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Stent"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="H Stent"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sunil Patnaik">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="M Buckett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="1" score="95"/>
+    <FallOfWicket batsman="5" score="97"/>
+    <FallOfWicket batsman="6" score="98"/>
+    <FallOfWicket batsman="4" score="106"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <FallOfWicket batsman="7" score="118"/>
+    <FallOfWicket batsman="9" score="118"/>
+    <FallOfWicket batsman="11" score="118"/>
+    <BowlerSummary name="M Buckett" overs="7.2" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="N McDonage" overs="8" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="A Taylor" overs="8" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="P Northall" overs="8" maidens="3" runs="13" wickets="3"/>
+    <BowlerSummary name="H Stent" overs="6" maidens="2" runs="12" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

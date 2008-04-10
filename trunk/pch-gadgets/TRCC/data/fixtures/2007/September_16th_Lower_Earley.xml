@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 16 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       A beautiful Indian summer's day that the forecasters tell us will be the last of the year <em>(but
+      who knows?)</em> and Twyford made the short journey along the A4 to Lower Earley's ground. The pitch
+      looked excellent, with the outfield mown carefully until the barest stubble remained and the track
+      fast and level - Surely a batsman's paradise! 
+      <p>
+       Winning the toss, the home side put
+      Twyford in to bat. Initially, Twyford's run rate was supported by a plethora of extras, but soon
+      Lower Early were rewarded with the early wicket of the Captain N Downes. But with T Fort joining
+      Woodman at the crease, runs began to flow! As they grew accustomed to the wicket, which saw the
+      occasional ball lifting sharply, these two made the fielders work - Usually retrieving the ball
+      after it had raced for 4. Both batsmen eventually succumbed, but there replacements too added to the
+      home side's misery. Twyford were very happy with the final score of 227-3. 
+      <p>
+       After a
+      <em>truly</em> excellent tea (Heavy on the spicy curry) Earley began their innings. But their woes
+      continued, as bowler Hackett began with a wicket maiden. Beamish from the other end had early
+      success too - The home side soon reeling on 31-4. But all credit to Lower Earley! Did they shut up
+      shop? - No, they went for it with gusto! Nevertheless, tight bowling meant that only Aleem managed
+      to break-out for the home side with a gutsy 45. In the 31<sup>st</sup> over Hackett, back for his
+      second spell, hit the stumps of Hunt and it was all over. 
+      <p>
+       So, a fine day for
+      Twyford achieving what for them was a rare victory this year. But high praise for our hosts too who
+      looked after us so well and played the game with spirit! 
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Harwood"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Phillips"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aleen"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Joe Downes"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="43"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="115"/>
+    <FallOfWicket batsman="1" score="179"/>
+    <BowlerSummary name="A Phillips" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Hunt" overs="6" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Harwood" overs="8" maidens="2" runs="39" wickets="1"/>
+    <BowlerSummary name="S Maynard" overs="8" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Aleen" overs="8" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="D Maynard" overs="6" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+  <Innings batting="Lower Earley">
+    <Batsman name="P Muggeridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Baer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Miah">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Khan">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Aleen">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="A Phillips">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Maynard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="G Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="R Harwood">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="47"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="5" score="31"/>
+    <FallOfWicket batsman="6" score="75"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <FallOfWicket batsman="7" score="122"/>
+    <FallOfWicket batsman="9" score="148"/>
+    <FallOfWicket batsman="10" score="154"/>
+    <BowlerSummary name="Paul Hackett" overs="7.4" maidens="3" runs="22" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Josh Baker" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

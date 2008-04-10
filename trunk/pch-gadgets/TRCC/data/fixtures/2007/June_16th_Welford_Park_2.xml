@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Welford Park 2" date="Sat Jun 16 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       Regular skipper &quot;Super Slo-Mo&quot; Steve Green was unavailable for this fixture against arch
+      nemesis and league Chairman Ian &quot;Chucker&quot; Herrington so lanky Caversham Nathan Eddy took
+      charge for his first game as Captain in TRCC colours. 
+      <p>
+       Conditions looked great for
+      swing bowling and the garden, but not for much else. Eddy won the toss and inserted Herrington's men
+      (Ooo-er missus!). In a flash Welford were struggling the first two wickets would have looked good on
+      the telly. First, Cooper had Dalavori caught by Eddy at backward point, The D Smith played what he
+      thought was a perfectly good leg-glance next ball, only for Adam Smith to snaffle him down the leg
+      side. 
+      <p>
+       The rain came and went and there was also some bizarre officialdom from
+      Welford's umpire (complete with Bobby-Charlton style hair) A Topic to be revisited later in the
+      season!! 
+      <p>
+       Jurgens gave chance after chance, before succumbing to Mark Jones and a
+      one-handed Spence Nichols catch (He did well not to hit it over the Ian Woosnam lookalike!), but it
+      was Herrington again who steered Welford to what looked like a lowly 116 all out. Gerwyn finished up
+      with 4-15, Spence taking 3-9. 
+      <p>
+       After a reasonable tea (No malt loaf!) TRCC
+      stuttered from the outset. After Eddy ran himself out (clearly confused by Smith's ability to move
+      despite being a lard-arse), only Leigh offered resistance with a good 39. He still wasn't happy
+      though as TRCC slumped to 72 all out - Three runs short of a single batting point! Predictably, it
+      was Herrington who did the damage for Welford, taking 5 TRCC wickets. 
+      <p>
+       Finally, the
+      lads were able to put their finger on it - Herro' isn't annoying because he's a bad bloke -
+      Precisely the opposite - He's a thoroughly nice chap who can bat and bowl ..... And that's why we
+      hate playing him! 
+    ]]>
+  </MatchReport>
+  <Innings batting="Welford Park 2">
+    <Batsman name="M Jurgens">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Dalavori">
+      <HowOut how="Caught Nathan Eddy"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Smith">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Herrington">
+      <HowOut how="Caught Nathan Eddy"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="J Admans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="E Chaplin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Blair">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Andrews">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Piggott">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="N Blair">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="2" runs="25" wickets="0"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Mark Jones" overs="9" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="8" maidens="2" runs="15" wickets="4"/>
+    <BowlerSummary name="Spence Nichols" overs="2" maidens="0" runs="9" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Caught"/>
+      <Bowler name="N Blair"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Andrews"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="E Chaplin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="E Chaplin"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="6" score="30"/>
+    <FallOfWicket batsman="7" score="33"/>
+    <FallOfWicket batsman="8" score="39"/>
+    <FallOfWicket batsman="9" score="45"/>
+    <FallOfWicket batsman="10" score="58"/>
+    <FallOfWicket batsman="5" score="72"/>
+    <BowlerSummary name="N Blair" overs="7" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="I Herrington" overs="14" maidens="5" runs="26" wickets="5"/>
+    <BowlerSummary name="E Chaplin" overs="5" maidens="0" runs="13" wickets="2"/>
+    <BowlerSummary name="J Andrews" overs="2.5" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

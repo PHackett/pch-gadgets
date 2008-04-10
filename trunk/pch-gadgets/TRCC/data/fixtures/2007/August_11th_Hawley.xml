@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:36 UTC+0100 2008 -->
+<CricketMatch oppo="Hawley" date="Sat Aug 11 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       A bright sunny day and a rock hard pitch said &quot;Win the toss, Bat first&quot;. This was duly
+      done by Stevie G and we anticipated a 35 pointer. Ken and Gers opened the innings and set off at a
+      cracking pace of well over 6 per over with the 50 coming up in the 9th over. Some wayward bowling
+      and great shots saw the rate maintained until Gers got himself out on 38 with the score on 89. Nath
+      joined in the fun quickly seeing the ball 'very big' and launching into some boundaries. On 49 Ken
+      decided to dance out of his crease and was duly stumped, denying himself the chance of a consecutive
+      half century. 
+      <p>
+       Hogarth and Eddy then took on the scoring and saw TRCC past the 175
+      mark for max points before Hogarth found a new way of getting himself out by missing a 'little
+      tickle down the legside' and getting a plumb LBW from Rog. The remaining wickets fell fairly
+      regularly after that but not before we had all witnessed a blistering, chanceless 151 not out from
+      Nathan including 25 fours and 4 sixes, with the kind of shots most of us dream of playing. TRCC
+      declared the innings after 40 overs with the score 325 - 7. 
+      <p>
+       After a fine tea TRCC
+      took the field and could immediately put Hawley under pressure with a very attacking field. Keeping
+      he old ball, Spence opened the bowling with Stevie G and bowled very tightly to restrict the batsmen
+      to the odd single here and there. As usual the very tight fielding meant there were no easy run and
+      the scoreboard crept along at about a run per over. The new ball was duly taken by Gerwyn and Stevie
+      G upon which wickets began to fall at a regular rate with both of them picking up 3 wickets for 11
+      and 10 runs respectively. The younger members of the team, Ant Green and Karl Cochrane, were then
+      thrown the ball to clean up the tail, Ant bowled beautifully in his 2 over and really had Dickinson
+      in trouble with some tight line and length. The glory however went to Karl with 2 great balls that
+      produced stumpings for his old man. Stumped K Cochrane, Bowled K Cochrane jnr. Good show allround.
+      TRCC 35 points, Hawley 3 points. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Stumped"/>
+      <Bowler name="N Marchant"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught"/>
+      <Bowler name="N Marchant"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Not Out"/>
+      <Runs value="151"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="N Marchant"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Clack"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Marchant"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Marchant"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Karl Cochrane">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="N Marchant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Retiered Hurt"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Anthony Green">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="50"/>
+    <FallOfWicket batsman="2" score="86"/>
+    <FallOfWicket batsman="1" score="115"/>
+    <FallOfWicket batsman="4" score="189"/>
+    <FallOfWicket batsman="5" score="195"/>
+    <FallOfWicket batsman="6" score="230"/>
+    <FallOfWicket batsman="7" score="244"/>
+    <FallOfWicket batsman="8" score="244"/>
+    <BowlerSummary name="D Clack" overs="12" maidens="0" runs="68" wickets="1"/>
+    <BowlerSummary name="D Litwin" overs="9" maidens="0" runs="89" wickets="0"/>
+    <BowlerSummary name="N Marchant" overs="15" maidens="2" runs="100" wickets="6"/>
+    <BowlerSummary name="S Litwin" overs="4" maidens="0" runs="48" wickets="0"/>
+  </Innings>
+  <Innings batting="Hawley">
+    <Batsman name="M Dickinson">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="N Marchant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D McGregor">
+      <HowOut how="Caught George Nunn"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Durston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Clack">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Litwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Litwin">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Litwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Hicks">
+      <HowOut how="Stumped"/>
+      <Bowler name="Karl Cochrane"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Neal">
+      <HowOut how="Stumped"/>
+      <Bowler name="Karl Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="6" score="23"/>
+    <FallOfWicket batsman="7" score="24"/>
+    <FallOfWicket batsman="8" score="25"/>
+    <FallOfWicket batsman="9" score="46"/>
+    <FallOfWicket batsman="10" score="46"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="3" runs="2" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="2" runs="10" wickets="3"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="5" maidens="2" runs="11" wickets="3"/>
+    <BowlerSummary name="Anthony Green" overs="2" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Karl Cochrane" overs="2" maidens="0" runs="23" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

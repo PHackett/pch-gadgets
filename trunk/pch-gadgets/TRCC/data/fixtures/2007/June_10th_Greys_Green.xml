@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 10 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       On a hot & muggy day with actual &quot;exercise&quot; causing buckets of sweat to flow, Twyford
+      welcomed Greys Green to Stanlake Meadow in Twyford. Winning the toss, the visitors surprised &amp;
+      delighted the home side by opting to field first in the oppressive atmosphere. 
+      <p>
+      
+      Twyford took some time to get into their stride. Although the openers were not in any danger of
+      dismissal, runs came slowly - But they came. It took 23 overs for the first wicket to fall with the
+      score on 59, and the home side pressed on, avoiding the seemingly inevitable collapse that has
+      dogged recent games for them. Fuller &amp; Hill provided a much needed spurt of runs - TRCC
+      finishing on 157 for 6. Greys bowlers had in the main been pretty tight, but fielding was punishing
+      work that day! 
+      <p>
+       So, despite the modest total, Twyford felt pretty relaxed as they
+      took their turn in the field. And with Cooper taking two early wickets in his opening spell, their
+      confidence increased. But Greys were in the match to win! First Macleod and then Shafdat joined
+      Howell at the crease as he went on to an undefeated 84 - An excellent performance especially
+      considering the relative paucity of boundaries. But the run rate would not drop, although Greys did
+      keep up with it. The match went to the last over - The winning 4 being hit with just two balls to
+      spare. 
+      <p>
+       Disappointment then once more for Twyford. But a fine, close match with a
+      nail-biting climax and superb, sporting opposition - There was no complaining. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="M Shafdat"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Rooke"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Rooke"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Simms"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Simms"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="P Simms"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Michael Heary"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="1" score="76"/>
+    <FallOfWicket batsman="3" score="76"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="4" score="148"/>
+    <FallOfWicket batsman="6" score="151"/>
+    <BowlerSummary name="B Ahmed" overs="12" maidens="2" runs="33" wickets="0"/>
+    <BowlerSummary name="D Howell" overs="5" maidens="3" runs="6" wickets="0"/>
+    <BowlerSummary name="M Shafdat" overs="10" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="T Rooke" overs="6" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="T Reader" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="P Simms" overs="3" maidens="0" runs="14" wickets="3"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Hogart">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Macleod">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Howell">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="T Rooke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Shafdat">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="T Howse"/>
+    <Batsman name="P Simms"/>
+    <Batsman name="B Ahmed"/>
+    <Batsman name="D Larkins"/>
+    <Batsman name="T Reader"/>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <BowlerSummary name="Paul Hackett" overs="13.4" maidens="1" runs="46" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="13" maidens="3" runs="48" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Mark Jones" overs="5" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

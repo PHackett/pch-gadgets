@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Moulsford" date="Sun Jul 22 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+      I was going to write this in the style of J.K. Rowling, in order to celebrate the release of the
+      final Harry Potter book &quot;<em>The Deathly Hallows</em>&quot;. However, all I could come up with
+      was &quot;Volde-Moulsford&quot; &amp; N Healey being &quot;The Chosen One&quot; for Twyford. Both
+      spectacularly weak - So I gave up. 
+      <p>
+       So - A dry day! Who could believe it! Certainly
+      not Twyford who welcomed Moulsford to the well-drained Stanlake Meadow ground on what became a quite
+      beautiful afternoon. Moulsford were short of players, but a quick ring-round by TRCC Captain N
+      Downes soon found three eager volunteers from Twyford, keen not to get sucked in to gardening by
+      their respective spouses/parents. Moulsford opened the batting, and despite a soft wicket and some
+      accurate opening bowling were able to put on runs at a respectable rate. It was not until the change
+      of bowling that Twyford made any impact, sending the fast-scoring Clarke back to the Pavilion. Then
+      N Healey came in to his own for Twyford, taking for the first time in his career 5 wickets in an
+      innings with some lovely, deceptive bowling! Only Parkes with 33 for Moulsford was able to offer
+      resistance. The final score of 133-8 off 42 overs looked a little weak! 
+      <p>
+       But things
+      did not start well for Twyford with the usually reliable Woodman out off only the fourth ball of
+      their innings. With N Downes at the crease, stability returned to the batting, but runs were slow in
+      coming! Just before 20 overs was called, a second wicket fell, followed by a flurry of dismissals in
+      the next 6 overs leaving Twyford in deep trouble at 54-7. Despite some truly massive sixes from N
+      Downes as he tried valiantly to speed things up, the home side never recovered. Only N Downes
+      carried his bat with any flair, for a total of 60. The rest - Well, the less said the better. But
+      compliments are also due to the Moulsford attack that proved so difficult to get away - Parkes being
+      the pick of the bowling, taking 3 wickets in his 7 overs for only 11 runs. 
+      <p>
+       But the
+      author of this report did not care - After so much rain a glorious afternoon playing a glorious game
+      was reward enough! (Well, that and bowling out Ken middle stump!). 
+    ]]>
+  </MatchReport>
+  <Innings batting="Moulsford">
+    <Batsman name="J Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="G Hermon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Davey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="G Armitage">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B Parkes">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="P Gilmore">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Moss">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Stevens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Karl Cochrane"/>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <FallOfWicket batsman="1" score="66"/>
+    <FallOfWicket batsman="3" score="71"/>
+    <FallOfWicket batsman="4" score="90"/>
+    <FallOfWicket batsman="6" score="92"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="8" score="93"/>
+    <FallOfWicket batsman="9" score="124"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="5" runs="23" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="9" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Nick Healey" overs="8" maidens="1" runs="21" wickets="5"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Davey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Gilmore"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Parkes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Moss"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Parkes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Moss"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Parkes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Caught"/>
+      <Bowler name="A Moss"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="P Gilmore"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="5" score="49"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="7" score="54"/>
+    <FallOfWicket batsman="8" score="58"/>
+    <FallOfWicket batsman="9" score="87"/>
+    <FallOfWicket batsman="2" score="98"/>
+    <FallOfWicket batsman="11" score="110"/>
+    <BowlerSummary name="J Davey" overs="7" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="G Hermon" overs="7" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="B Parkes" overs="7" maidens="3" runs="11" wickets="3"/>
+    <BowlerSummary name="A Moss" overs="9" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="P Gilmore" overs="3.4" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="J Stevens" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
