@@ -111,6 +111,7 @@ function GGTRCC_CricketMatchO___matchHTML()
 
 	if (null != this.mInnings[1])
 	{
+		lRet += "<hr>";
 		lRet += this.mInnings[1].HTML();
 	}
 	
