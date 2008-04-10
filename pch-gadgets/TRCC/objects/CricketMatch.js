@@ -98,9 +98,7 @@ function GGTRCC_CricketMatchO___matchHTML()
 	var lRet="";
 	
 	lRet += "<span class='GadgetMatchReportHeader'>" + this.title() + "</span>";
-	
-	// lRet += "Opposition = " + this.oppo() + "<br>";
-	// lRet += "Date = " + this.date().toString() + "<br>";
+	lRet += "<hr size='2'>";
 	
 	lRet += this.mMatchReport.HTML();
 
