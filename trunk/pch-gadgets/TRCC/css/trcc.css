@@ -1,8 +1,15 @@
+.GadgetBody 
+{
+	margin: 0px;
+	padding: 0px;   
+	background-color: white;   
+}
+
 .GadgetMatchReportHeader
 {
 	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
 	font-size:		large;
-	color:			"Crimson";
+	color:			darkblue;
 }
 
 .GadgetFixtureAltLine
