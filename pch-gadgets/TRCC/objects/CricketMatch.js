@@ -58,12 +58,33 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	this.oppo 			= GGTRCC_CricketMatchO___oppo;
 	this.date 			= GGTRCC_CricketMatchO___date;
+	this.title 			= GGTRCC_CricketMatchO___title;
 	this.matchHTML 		= GGTRCC_CricketMatchO___matchHTML;
 }
 
 
 function GGTRCC_CricketMatchO___oppo()	{ return (this.mOppo);	}
 function GGTRCC_CricketMatchO___date()	{ return (this.mDate);	}
+
+
+//-----------------------------[GGTRCC_CricketMatchO___title]-
+// Return the match title
+//
+// @return	Match title
+//
+//------------------------------------------------------------
+function GGTRCC_CricketMatchO___title()
+{
+	var lRet="";
+	
+	lRet += "TRCC vs. " + this.oppo() + " - "; 
+	
+	lRet += GGUtils_GetNumAsOrdinalString (this.date().getDate(), false) + " ";
+	lRet += GGUtils_MonthStringFromDate (this.date()) + " ";
+	lRet += this.date().getFullYear();
+	
+	return (lRet);
+}
 
 
 //-------------------------[GGTRCC_CricketMatchO___matchHTML]-
@@ -76,8 +97,10 @@ function GGTRCC_CricketMatchO___matchHTML()
 {
 	var lRet="";
 	
-	lRet += "Opposition = " + this.oppo() + "<br>";
-	lRet += "Date = " + this.date().toString() + "<br>";
+	lRet += "<span class='GadgetMatchReportHeader'>" + this.title() + "</span>";
+	
+	// lRet += "Opposition = " + this.oppo() + "<br>";
+	// lRet += "Date = " + this.date().toString() + "<br>";
 	
 	lRet += this.mMatchReport.HTML();
 
