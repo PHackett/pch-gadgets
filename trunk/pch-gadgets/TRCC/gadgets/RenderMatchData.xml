@@ -5,7 +5,7 @@
 		title="Match data"
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
-		description="For the rendering of TRCC fixure."
+		description="For the rendering of a single TRCC match result."
 		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
 		width="700"
 		height="500"
