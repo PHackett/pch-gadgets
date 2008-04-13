@@ -47,9 +47,6 @@
 				var gTeam="";
 				var gYear="";
 				
-				var gXMLSrc="";
-	
-	
 				//--------------------------------------------------------[getTRData]-
 				// Returns the text for the "<TR>" string
 				//
@@ -113,7 +110,7 @@
 				{
 					if (response == null || typeof(response) != "object" || response.firstChild == null)
 					{
-						_gel("content_div").innerHTML = "<i>Invalid data from '" + gXMLSrc + "'</i>";
+						_gel("content_div").innerHTML = "<i>Invalid data for year '" + gYear + "' and team '" + gTeam + "'</i>";
 						return;
 					}
 			
@@ -179,19 +176,15 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
-					var lBaseURL = gGGGadget_Root + "TRCC/data/fixtures/";
-					
 					//
 					// Read the user prefs & hosting URL
 					//
 					processSettings();
 					
-					gXMLSrc = lBaseURL + gYear + "/" + gTeam + "_Fixtures_Data.xml";
-					
 					//
 					// Get the XML - Callback to function renderData when complete
 					//
-					_IG_FetchXmlContent(gXMLSrc, renderData);
+					GGTRCC_LoadTeamYearFixtureXMLByDateAndTeam (gYear, gTeam, _IG_FetchXmlContent, renderData);			
 				}
 	
 				_IG_RegisterOnloadHandler(display);
