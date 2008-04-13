@@ -161,12 +161,12 @@
 					//
 					// First the year - Any userPrefs?
 					//
-					gYear = TRCCUtils_ProcessPreferences ("year", "2008");
+					gYear = TRCCUtils_ProcessPreferences ("year", lPrefs, "2008");
 					
 					//
 					// Now the team ...
 					//
-					gTeam = TRCCUtils_ProcessPreferences ("team", "Sunday");
+					gTeam = TRCCUtils_ProcessPreferences ("team", lPrefs, "Sunday");
 					
 					//
 					// Lastly - Save away the "link target"

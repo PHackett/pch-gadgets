@@ -131,22 +131,22 @@
 					//
 					// First the year - Any userPrefs?
 					//
-					gYear = TRCCUtils_ProcessPreferences ("year", "2007");
+					gYear = TRCCUtils_ProcessPreferences ("year", lPrefs, "2007");
 					
 					//
 					// Now the opposition ...
 					//
-					gOppo = TRCCUtils_ProcessPreferences ("oppo", "Welford_Park");
+					gOppo = TRCCUtils_ProcessPreferences ("oppo", lPrefs, "Welford_Park");
 					
 					//
 					// Now the date ...
 					//
-					gDate = TRCCUtils_ProcessPreferences ("date", "29th");
+					gDate = TRCCUtils_ProcessPreferences ("date", lPrefs, "29th");
 					
 					//
 					// Now the month ...
 					//
-					gMonth = TRCCUtils_ProcessPreferences ("month", "April");
+					gMonth = TRCCUtils_ProcessPreferences ("month", lPrefs, "April");
 					
 					//
 					// Lastly - Save away the "link target"
