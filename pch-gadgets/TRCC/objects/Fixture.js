@@ -461,7 +461,7 @@ function GGTRCC_FixturesToHTML (aFixtures)
 		//
 		// Start the <tr>
 		//
-		lHTML += (aIndex % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
+		lHTML += (i % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
 		
 		//
 		// Add in the data
