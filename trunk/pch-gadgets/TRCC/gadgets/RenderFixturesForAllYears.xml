@@ -37,26 +37,6 @@
 
 			<script type="text/javascript">
 
-				//--------------------------------------------------------[getTRData]-
-				// Returns the text for the "<TR>" string
-				//
-				// @param aIndex IN Line index
-				//
-				// @return Constructed <tr> line
-				//--------------------------------------------------------------------
-				function getTRData (aIndex)
-				{
-					var lRet="<tr>";
-					
-					if (!(aIndex % 2))
-					{
-						lRet = "<tr class='GadgetFixtureAltLine'>";
-					}
-
-					return (lRet);
-				}
-
-			
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -84,42 +64,11 @@
 					
 					GGTRCC_LoadTeamYearsFromXML (response, lTeamYears);
 					
-					var lHTML="";
-
 					//
-					// Start building HTML string that will be displayed in <div>.
+					// Make the HTML
 					//
-					lHTML += "<table border='0' cellpadding='5' cellspacing='0' width='100%'>";
-					
-					//
-					// Now down all the entries ...
-					//
-					for (var i=0 ; i<lTeamYears.length ; ++i)
-					{
-						//
-						// We can now write the line out
-						//
-						lHTML += getTRData (i);
-						
-						lHTML += "<td";
-						if (0 == i)
-						{
-							lHTML += " class='GadgetContentHeading'";
-						}
-
-						lHTML += ">" + lTeamYears[i].year() + "</td>";
-						
-						lHTML += "<td>" + lTeamYears[i].saturdayHTML() + "<td>"; 
-						lHTML += "<td>" + lTeamYears[i].sundayHTML() + "<td>"; 
+					var lHTML=GGTRCC_TeamYearsToHTML (lTeamYears);
 			
-						lHTML += "</tr>";
-					}
-
-					//
-					// End the table
-					//
-					lHTML += "</table>";
-					
 					//
 					// Display HTML string in <div>
 					//
