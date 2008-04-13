@@ -5,23 +5,24 @@
 // 								 should be the same for any 
 // 								 Google "UserPrefs" & page 
 // 								 query arguments (e.g. "year").
+//	@param	aPrefObj		IN	The Google 'UserPrefs' object, 
+// 								 or null if not to be used. 
 //	@param	aFallbackValue	IN	Fallback value if the preference
 //								 cannot be determined by other 
-//								 means
+//								 means.
 //
 // @return The preference as a string
 //
 //------------------------------------------------------------
-function TRCCUtils_ProcessPreferences (aPrefName, aFallbackValue)
+function TRCCUtils_ProcessPreferences (aPrefName, aPrefObj, aFallbackValue)
 {
 	var lRet="";
-	var lPrefs=new _IG_Prefs();
 	var lArgs=GGGadget_parseHostQuery();
 	
 	//
 	// Any userPrefs?
 	//
-	if (null != (lRet = lPrefs.getString (aPrefName)) && (0 != lRet.length))
+	if ((null != aPrefObj) &&  (null != (lRet = lPrefs.getString (aPrefName)) && (0 != lRet.length)))
 	{
 		// Preference set in the userPrefs
 	}
