@@ -146,11 +146,12 @@ function GGTRCC_LoadTeamYearsFromXML (aXML, aOut)
 // Read the teams/years XML and add then call the supplied 
 // callback. 
 //
-//	@param	aCallback	IN	callback funtion. Takes one
-//							 parameter - The XML
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	callback funtion. Takes one
+//								 parameter - The XML
 //
 //------------------------------------------------------------
-function GGTRCC_LoadTeamYearsXML (aCallback)
+function GGTRCC_LoadTeamYearsXML (aXMLloaderFunc, aCallback)
 {
 	//
 	// XML data for TRCC fixure years
@@ -160,7 +161,7 @@ function GGTRCC_LoadTeamYearsXML (aCallback)
 	//
 	// Get the XML - Callback to function renderData when complete
 	//
-	_IG_FetchXmlContent(lURL, aCallback);	
+	aXMLloaderFunc (lURL, aCallback);	
 }
 
 
