@@ -131,15 +131,7 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
-					//
-					// XML data for TRCC fixure years
-					//
-					var url = gGGGadget_Root + "TRCC/data/fixtures/fixtureYearsDB.xml";
-					
-					//
-					// Get the XML - Callback to function renderData when complete
-					//
-					_IG_FetchXmlContent(url, renderData);
+					GGTRCC_LoadTeamYearsXML (renderData);
 				}
 
 				_IG_RegisterOnloadHandler(display);
