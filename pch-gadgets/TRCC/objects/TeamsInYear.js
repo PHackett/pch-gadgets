@@ -217,7 +217,7 @@ function GGTRCC_TeamYearsToHTML (aTeamTearsA)
 		//
 		// We can now write the line out
 		//
-		lHTML += (aIndex % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
+		lHTML += (i % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
 		
 		lHTML += "<td";
 		
