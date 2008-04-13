@@ -15,6 +15,7 @@ function GGTRCC_TeamYearO (aYearXML)
 	this.mYear = "";
 	this.mSaturday = false;
 	this.mSunday = false;
+	this.mYouth = false;
 
 	//
 	// Methods
@@ -22,8 +23,10 @@ function GGTRCC_TeamYearO (aYearXML)
 	this.year 			= GGTRCC_TeamYearO___year;
 	this.haveSaturday 	= GGTRCC_TeamYearO___haveSaturday;
 	this.haveSunday 	= GGTRCC_TeamYearO___haveSunday;
+	this.haveYouth	 	= GGTRCC_TeamYearO___haveYouth;
 	this.saturdayHTML 	= GGTRCC_TeamYearO___saturdayHTML;
 	this.sundayHTML 	= GGTRCC_TeamYearO___sundayHTML;
+	this.youthHTML 		= GGTRCC_TeamYearO___youthHTML;
 	this.teamHTML 		= GGTRCC_TeamYearO___teamHTML;
 	this.getTeams 		= GGTRCC_TeamYearO___getTeams;
 
@@ -46,6 +49,10 @@ function GGTRCC_TeamYearO (aYearXML)
 			{
 				this.mSunday = true;
 			}
+			else if (lTeams.item(j).firstChild.nodeValue == "Youth")
+			{
+				this.mYouth = true;
+			}
 		}
 	}
 }
@@ -53,6 +60,7 @@ function GGTRCC_TeamYearO (aYearXML)
 function GGTRCC_TeamYearO___year ()			{ return (this.mYear);		}
 function GGTRCC_TeamYearO___haveSaturday()	{ return (this.mSaturday);	}
 function GGTRCC_TeamYearO___haveSunday()	{ return (this.mSunday);	}
+function GGTRCC_TeamYearO___haveYouth()		{ return (this.mYouth);		}
 
 
 //------------------------------------------[GGTRCC_teamHTML]-
@@ -91,6 +99,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 
 function GGTRCC_TeamYearO___saturdayHTML()	{ return (this.teamHTML (this.haveSaturday(), "Saturday"));	}
 function GGTRCC_TeamYearO___sundayHTML()	{ return (this.teamHTML (this.haveSunday(), "Sunday"));		}
+function GGTRCC_TeamYearO___youthHTML()		{ return (this.teamHTML (this.haveYouth(), "Youth"));		}
 
 
 //
@@ -173,6 +182,11 @@ function GGTRCC_TeamYearO___getTeams()
 	if (this.haveSunday())
 	{
 		lTeams.push("Sunday");
+	}
+
+	if (this.haveYouth())
+	{
+		lTeams.push("Youth");
 	}
 	
 	return (lTeams);
