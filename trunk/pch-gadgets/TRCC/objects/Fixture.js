@@ -15,6 +15,40 @@ var gFixtureVenueAway="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/T
 var gFixtureVenueHome="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
 var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
 
+//
+// For the loading of multiple sets of fixture dats
+//
+var s___multiLoadContext;
+
+
+
+//--------------------------------------[___multiLoadContext]-
+// Object to hold all info required for the loading of 
+// fixtures for multiple years/teams. 
+//
+//	@param	aYear		IN		Year of interest
+//	@param	aTeams		IN		Teams of interest
+//	@param	aCallback	IN		Callback to be invoked (eventually)
+//
+//------------------------------------------------------------
+function GGTRCC_Fixture___multiLoadContext (aYear, aTeams, aCallback)
+{
+	this.mYear 		= aYear;
+	this.mTeams		= aTeams;
+	this.mCallback	= aCallback;
+	
+	this.mFixtures	= new Array(0);
+	this.mError		= "";
+	
+	this.callback	= GGTRCC_Fixture___multiLoadContext_Callback;
+}
+
+
+function GGTRCC_Fixture___multiLoadContext_Callback()
+{
+	this.mCallback (this.mFixtures, this.mError);
+}
+
 
 
 //------------------------------------------[GGTRCC_FixtureO]-
@@ -348,4 +382,57 @@ function GGTRCC_SortFixturesByDate (aFixture1, aFixture2)
 	}
 	
 	return (lRet);
+}
+
+
+//----------------------------[GGTRCC_LoadTeamYearFixtureXML]-
+// Load the XML for the fixtures for a specific year & team.
+//
+//	@param	aYear			IN	The year we want data for
+//	@param	aTeam			IN	The team we want data for
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	The callback to invoike once 
+// 								 the XML is loaded. 
+//
+//------------------------------------------------------------
+function GGTRCC_LoadTeamYearFixtureXMLByDateAndTeam (aYear, aTeam, aXMLloaderFunc, aCallback)
+{
+	//
+	// Construct the XML URL for the required data
+	//
+	var lXMLURL = gGGGadget_Root + "TRCC/data/fixtures/" + aYear + "/" + aTeam + "_Fixtures_Data.xml";
+
+	//
+	// Fetch the data
+	//
+	aXMLloaderFunc (lXMLURL, aCallback);
+}
+
+
+//----------------------------[GGTRCC_LoadTeamYearFixtureXML]-
+// Load the XML for the fixtures for a specific year & team.
+//
+//	@param	aPrefObj		IN	The Google 'UserPrefs' object, 
+// 								 or null if not to be used.
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	The callback to invoike once 
+// 								 the XML is loaded. 
+//
+//------------------------------------------------------------
+function GGTRCC_LoadTeamYearFixtureXML (aPrefsObj, aXMLloaderFunc, aCallback)
+{
+	//
+	// Determine the year we are interrested in
+	//
+	var lYear = TRCCUtils_ProcessPreferences ("year", aPrefsObj, "2008");
+	
+	//
+	// Determine the team we are interrested in
+	//
+	var lTeam = TRCCUtils_ProcessPreferences ("team", aPrefsObj, "Sunday");
+
+	//
+	// Load the data
+	//
+	GGTRCC_LoadTeamYearFixtureXMLByDateAndTeam (lYear, lTeam, aXMLloaderFunc, aCallback);
 }
