@@ -117,3 +117,68 @@ function GGTRCC_CricketMatchO___matchHTML()
 	
 	return (lRet);
 }
+
+
+//------------------------------[GGTRCC_CricketMatch_LoadXML]-
+// Load the XML for the specific match
+//
+//	@param	aYear			IN	The year we want data for
+//	@param	aOppo			IN	The opposition
+//	@param	aDate			IN	Date (e.g. "12th").
+//	@param	aMonth			IN	The month.
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	The callback to invoike once 
+// 								 the XML is loaded. 
+//
+//------------------------------------------------------------
+function GGTRCC_CricketMatch_LoadXML (aYear, aOppo, aDate, aMonth, aXMLloaderFunc, aCallback)
+{
+	//
+	// Construct the XML URL for the required data
+	//
+	var lXMLURL = gGGGadget_Root + "TRCC/data/fixtures/" + aYear + "/" + aMonth + "_" + aDate + "_" + aOppo + ".xml";
+
+	//
+	// Fetch the data
+	//
+	aXMLloaderFunc (lXMLURL, aCallback);
+}
+
+
+//------------------------------[GGTRCC_CricketMatch_LoadXML]-
+// Load the XML for the specific match
+//
+//	@param	aPrefObj		IN	The Google 'UserPrefs' object, 
+// 								 or null if not to be used.
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	The callback to invoike once 
+// 								 the XML is loaded. 
+//
+//------------------------------------------------------------
+function GGTRCC_CricketMatch_LoadXMLFromPrefs (aPrefsObj, aXMLloaderFunc, aCallback)
+{
+	//
+	// First the year - Any userPrefs?
+	//
+	var lYear = TRCCUtils_ProcessPreferences ("year", aPrefsObj, "2007");
+	
+	//
+	// Now the opposition ...
+	//
+	var lOppo = TRCCUtils_ProcessPreferences ("oppo", aPrefsObj, "Welford_Park");
+	
+	//
+	// Now the date ...
+	//
+	var lDate = TRCCUtils_ProcessPreferences ("date", aPrefsObj, "29th");
+	
+	//
+	// Now the month ...
+	//
+	var lMonth = TRCCUtils_ProcessPreferences ("month", aPrefsObj, "April");
+
+	//
+	// Load the data
+	//
+	GGTRCC_CricketMatch_LoadXML (lYear, lOppo, lDate, lMonth, aXMLloaderFunc, aCallback);
+}
