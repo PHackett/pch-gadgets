@@ -69,25 +69,6 @@
 				var gXMLSrc="";
 	
 	
-				//--------------------------------------------------------[getTRData]-
-				// Returns the text for the "<TR>" string
-				//
-				// @param aIndex IN Line index
-				//
-				// @return Constructed <tr> line
-				//--------------------------------------------------------------------
-				function getTRData (aIndex)
-				{
-					var lRet="<tr>";
-					
-					if (!(aIndex % 2))
-					{
-						lRet = "<tr class='GadgetFixtureAltLine'>";
-					}
-		
-					return (lRet);
-				}
-
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -152,6 +133,11 @@
 					// Lastly - Save away the "link target"
 					//
 					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
+					
+					//
+					// Debug only
+					//
+					gXMLSrc = gGGGadget_Root + "TRCC/data/fixtures/" + gYear + "/" + gMonth + "_" + gDate + "_" + gOppo + ".xml";
 				}
 				
 				//----------------------------------------------------------[display]-
@@ -159,19 +145,15 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
-					var lBaseURL = gGGGadget_Root + "TRCC/data/fixtures/";
-					
 					//
 					// Read the user prefs & hosting URL
 					//
 					processSettings();
 					
-					gXMLSrc = lBaseURL + gYear + "/" + gMonth + "_" + gDate + "_" + gOppo + ".xml";
-					
 					//
 					// Get the XML - Callback to function renderData when complete
 					//
-					_IG_FetchXmlContent(gXMLSrc, renderData);
+					GGTRCC_CricketMatch_LoadXML (gYear, gOppo, gDate, gMonth, _IG_FetchXmlContent, renderData);
 				}
 	
 				_IG_RegisterOnloadHandler(display);
