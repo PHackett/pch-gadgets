@@ -466,11 +466,11 @@ function GGTRCC_FixturesToHTML (aFixtures)
 		//
 		// Add in the data
 		//
-		lHTML += "<td>" + aFixture.VenueHTML() + "</td>";
-		lHTML += "<td>" + aFixture.DateHTML() + "</td>";
-		lHTML += "<td>" + aFixture.OppoHTML() + "</td>";
-		lHTML += "<td>" + aFixture.TimeHTML() + "</td>";
-		lHTML += "<td>" + aFixture.ResultHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].VenueHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].DateHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].OppoHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].TimeHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].ResultHTML() + "</td>";
 		
 		//
 		// Terminate the row
