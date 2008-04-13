@@ -436,3 +436,52 @@ function GGTRCC_LoadTeamYearFixtureXML (aPrefsObj, aXMLloaderFunc, aCallback)
 	//
 	GGTRCC_LoadTeamYearFixtureXMLByDateAndTeam (lYear, lTeam, aXMLloaderFunc, aCallback);
 }
+
+
+//------------------------------------[GGTRCC_FixturesToHTML]-
+// Render the given fixtures in HMTL
+//
+//	@param	aFixtures	IN	The fixtures. 
+//
+//	@return	The HTML
+//
+//------------------------------------------------------------
+function GGTRCC_FixturesToHTML (aFixtures)
+{
+	//
+	// Start building HTML string that will be displayed in <div>.
+	//
+	var lHTML = "<table border='0' cellpadding='5' cellspacing='0' width='100%'>";
+	
+	//
+	// Down all the fixtures
+	//
+	for (var i=0 ; i<aFixtures.length ; ++i)
+	{
+		//
+		// Start the <tr>
+		//
+		lHTML += (aIndex % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
+		
+		//
+		// Add in the data
+		//
+		lHTML += "<td>" + aFixture.VenueHTML() + "</td>";
+		lHTML += "<td>" + aFixture.DateHTML() + "</td>";
+		lHTML += "<td>" + aFixture.OppoHTML() + "</td>";
+		lHTML += "<td>" + aFixture.TimeHTML() + "</td>";
+		lHTML += "<td>" + aFixture.ResultHTML() + "</td>";
+		
+		//
+		// Terminate the row
+		//
+		lHTML += "</tr>";
+	}
+	
+	//
+	// End the table
+	//
+	lHTML += "</table>";
+	
+	return (lHTML);
+}
