@@ -47,60 +47,6 @@
 				var gTeam="";
 				var gYear="";
 				
-				//--------------------------------------------------------[getTRData]-
-				// Returns the text for the "<TR>" string
-				//
-				// @param aIndex IN Line index
-				//
-				// @return Constructed <tr> line
-				//--------------------------------------------------------------------
-				function getTRData (aIndex)
-				{
-					var lRet="<tr>";
-					
-					if (!(aIndex % 2))
-					{
-						lRet = "<tr class='GadgetFixtureAltLine'>";
-					}
-		
-					return (lRet);
-				}
-
-				//---------------------------------------------------[processFixture]-
-				// Process a single fixture in to HTML
-				//
-				// @param aFixture IN The fixture we are to render as HTML
-				// @param aIndex   IN The index of the fixture
-				//
-				// @return The rendered fixture data
-				//--------------------------------------------------------------------
-				function processFixture (aFixture, aIndex)
-				{
-					var lRet="";
-					
-					//
-					// Start the <tr>
-					//
-					lRet += getTRData (aIndex);
-					
-					//
-					// Add in the data
-					//
-					lRet += "<td>" + aFixture.VenueHTML() + "</td>";
-					lRet += "<td>" + aFixture.DateHTML() + "</td>";
-					lRet += "<td>" + aFixture.OppoHTML() + "</td>";
-					lRet += "<td>" + aFixture.TimeHTML() + "</td>";
-					lRet += "<td>" + aFixture.ResultHTML() + "</td>";
-					
-					//
-					// Terminate the row
-					//
-					lRet += "</tr>";
-					
-					return (lRet);
-				}
-
-
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -120,26 +66,11 @@
 					var lFixtures=new Array();
 			
 					GGTRCC_LoadFixturesFromXML (response, lFixtures)
-			
-					var lHTML="";
 					
 					//
-					// Start building HTML string that will be displayed in <div>.
+					// Render as HTML
 					//
-					lHTML += "<table border='0' cellpadding='5' cellspacing='0' width='100%'>";
-					
-					//
-					// Down all the fixtures
-					//
-					for (var i=0 ; i<lFixtures.length ; ++i)
-					{
-						lHTML += processFixture (lFixtures[i], i);
-					}
-					
-					//
-					// End the table
-					//
-					lHTML += "</table>";
+					var lHTML=GGTRCC_FixturesToHTML (lFixtures);
 					
 					//
 					// Display HTML string in <div>
