@@ -102,9 +102,61 @@ function GGTRCC_TeamYearO___sundayHTML()	{ return (this.teamHTML (this.haveSunda
 function GGTRCC_TeamYearO___youthHTML()		{ return (this.teamHTML (this.haveYouth(), "Youth"));		}
 
 
+//------------------------------[GGTRCC_TeamYearO___getTeams]-
+// Get an array detailing all the teams in the object 
+//
+//	@return		The array
+//
+//------------------------------------------------------------
+function GGTRCC_TeamYearO___getTeams()
+{
+	var lTeams=new Array();
+	
+	if (this.haveSaturday())
+	{
+		lTeams.push("Saturday");
+	}
+
+	if (this.haveSunday())
+	{
+		lTeams.push("Sunday");
+	}
+
+	if (this.haveYouth())
+	{
+		lTeams.push("Youth");
+	}
+	
+	return (lTeams);
+}
+
+
 //
 // The following are utility functions to help with the manipulation of TeamYears objects
 //
+
+
+//---------------------------------[GGTRCC_LoadTeamYearsXML]-
+// Read the teams/years XML and add then call the supplied 
+// callback. 
+//
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	callback funtion. Takes one
+//								 parameter - The XML
+//
+//------------------------------------------------------------
+function GGTRCC_LoadTeamYearsXML (aXMLloaderFunc, aCallback)
+{
+	//
+	// XML data for TRCC fixure years
+	//
+	var lURL = gGGGadget_Root + "TRCC/data/fixtures/fixtureYearsDB.xml";
+	
+	//
+	// Get the XML - Callback to function renderData when complete
+	//
+	aXMLloaderFunc (lURL, aCallback);	
+}
 
 
 //-----------------------------[GGTRCC_LoadTeamYearsFromXML]-
@@ -142,53 +194,51 @@ function GGTRCC_LoadTeamYearsFromXML (aXML, aOut)
 }
 
 
-//---------------------------------[GGTRCC_LoadTeamYearsXML]-
-// Read the teams/years XML and add then call the supplied 
-// callback. 
+//-----------------------------------[GGTRCC_TeamYearsToHTML]-
+// Render tha array of team/years obects in to XML 
 //
-// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
-//	@param	aCallback		IN	callback funtion. Takes one
-//								 parameter - The XML
+//	@param	aTeamTearsA	IN	The objects
 //
-//------------------------------------------------------------
-function GGTRCC_LoadTeamYearsXML (aXMLloaderFunc, aCallback)
-{
-	//
-	// XML data for TRCC fixure years
-	//
-	var lURL = gGGGadget_Root + "TRCC/data/fixtures/fixtureYearsDB.xml";
-	
-	//
-	// Get the XML - Callback to function renderData when complete
-	//
-	aXMLloaderFunc (lURL, aCallback);	
-}
-
-
-//------------------------------[GGTRCC_TeamYearO___getTeams]-
-// Get an array detailing all the teams in the object 
-//
-//	@return		The array
+// @return 	HTML string 
 //
 //------------------------------------------------------------
-function GGTRCC_TeamYearO___getTeams()
+function GGTRCC_TeamYearsToHTML (aTeamTearsA)
 {
-	var lTeams=new Array();
+	//
+	// Start building HTML string that will be displayed in <div>.
+	//
+	var lHTML = "<table border='0' cellpadding='5' cellspacing='0' width='100%'>";
 	
-	if (this.haveSaturday())
+	//
+	// Now down all the entries ...
+	//
+	for (var i=0 ; i<aTeamTearsA.length ; ++i)
 	{
-		lTeams.push("Saturday");
+		//
+		// We can now write the line out
+		//
+		lHTML += (aIndex % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
+		
+		lHTML += "<td";
+		
+		if (0 == i)
+		{
+			lHTML += " class='GadgetContentHeading'";
+		}
+
+		lHTML += ">" + aTeamTearsA[i].year() + "</td>";
+		
+		lHTML += "<td>" + aTeamTearsA[i].saturdayHTML() + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].sundayHTML() + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].youthHTML() + "<td>"; 
+
+		lHTML += "</tr>";
 	}
 
-	if (this.haveSunday())
-	{
-		lTeams.push("Sunday");
-	}
-
-	if (this.haveYouth())
-	{
-		lTeams.push("Youth");
-	}
+	//
+	// End the table
+	//
+	lHTML += "</table>";
 	
-	return (lTeams);
+	return (lHTML);
 }
