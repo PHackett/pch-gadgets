@@ -22,7 +22,7 @@ function TRCCUtils_ProcessPreferences (aPrefName, aPrefObj, aFallbackValue)
 	//
 	// Any userPrefs?
 	//
-	if ((null != aPrefObj) &&  (null != (lRet = lPrefs.getString (aPrefName)) && (0 != lRet.length)))
+	if ((null != aPrefObj) &&  (null != (lRet = aPrefObj.getString (aPrefName)) && (0 != lRet.length)))
 	{
 		// Preference set in the userPrefs
 	}
