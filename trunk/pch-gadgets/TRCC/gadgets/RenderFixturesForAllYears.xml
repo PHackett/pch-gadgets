@@ -131,7 +131,7 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
-					GGTRCC_LoadTeamYearsXML (renderData);
+					GGTRCC_LoadTeamYearsXML (_IG_FetchXmlContent, renderData);
 				}
 
 				_IG_RegisterOnloadHandler(display);
