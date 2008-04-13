@@ -94,7 +94,7 @@ function GGTRCC_FOWO_MakeTable (aFOWs)
 		//
 		// Now the line saying what the score was
 		//
-		lRet += "<tr class=\"FixtureAltLine\">";
+		lRet += "<tr class=\"GadgetFixtureAltLine\">";
 		lRet += "<td>&nbsp;</td>";
 		lRet += "<td align='right'>Score</td>";
 		lRet += "<td>&nbsp;</td>";
@@ -102,6 +102,30 @@ function GGTRCC_FOWO_MakeTable (aFOWs)
 		for (var i=0 ; i<aFOWs.length ; i++)
 		{
 			lRet += "<td align='center'>" + aFOWs[i].score() + "</td>";
+		}
+
+		for (var i=aFOWs.length ; i<10 ; i++)
+		{
+			lRet += "<td>&nbsp</th>";
+		}
+
+		lRet += "</tr>";
+
+		//
+		// Now the line giving the stand
+		//
+		lRet += "<tr class=\"GadgetFixtureAltLine\">";
+		lRet += "<td>&nbsp;</td>";
+		lRet += "<td align='right'>Stand</td>";
+		lRet += "<td>&nbsp;</td>";
+		
+		var lPrevScore=0;
+
+		for (var i=0 ; i<aFOWs.length ; i++)
+		{
+			lRet += "<td align='center'>" + (aFOWs[i].score() - lPrevScore) + "</td>";
+			
+			lPrevScore = aFOWs[i].score();
 		}
 
 		for (var i=aFOWs.length ; i<10 ; i++)
