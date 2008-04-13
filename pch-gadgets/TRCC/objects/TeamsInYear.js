@@ -25,6 +25,7 @@ function GGTRCC_TeamYearO (aYearXML)
 	this.saturdayHTML 	= GGTRCC_TeamYearO___saturdayHTML;
 	this.sundayHTML 	= GGTRCC_TeamYearO___sundayHTML;
 	this.teamHTML 		= GGTRCC_TeamYearO___teamHTML;
+	this.getTeams 		= GGTRCC_TeamYearO___getTeams;
 
 	//
 	// Parse the XML
@@ -151,4 +152,28 @@ function GGTRCC_LoadTeamYearsXML (aCallback)
 	// Get the XML - Callback to function renderData when complete
 	//
 	_IG_FetchXmlContent(lURL, aCallback);	
+}
+
+
+//------------------------------[GGTRCC_TeamYearO___getTeams]-
+// Get an array detailing all the teams in the object 
+//
+//	@return		The array
+//
+//------------------------------------------------------------
+function GGTRCC_TeamYearO___getTeams()
+{
+	var lTeams=new Array();
+	
+	if (this.haveSaturday())
+	{
+		lTeams.push("Saturday");
+	}
+
+	if (this.haveSunday())
+	{
+		lTeams.push("Sunday");
+	}
+	
+	return (lTeams);
 }
