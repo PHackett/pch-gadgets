@@ -391,7 +391,7 @@ function GGTRCC_SortFixturesByDate (aFixture1, aFixture2)
 //	@param	aYear			IN	The year we want data for
 //	@param	aTeam			IN	The team we want data for
 // 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
-//	@param	aCallback		IN	The callback to invoike once 
+//	@param	aCallback		IN	The callback to invoke once 
 // 								 the XML is loaded. 
 //
 //------------------------------------------------------------
