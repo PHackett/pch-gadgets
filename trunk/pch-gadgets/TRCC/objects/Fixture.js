@@ -378,7 +378,7 @@ function GGTRCC_SortFixturesByDate (aFixture1, aFixture2)
 	}
 	else
 	{
-		lRet = (aFixture1.mDate.UTC() - aFixture2.mDate.UTC());
+		lRet = (aFixture1.mDate.getTime() - aFixture2.mDate.getTime());
 	}
 	
 	return (lRet);
