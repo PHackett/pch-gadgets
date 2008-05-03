@@ -62,7 +62,10 @@ function sFn___XMLLoaderCB (aXML)
 		//
 		// Add it to what we already have
 		//
-		s___LoadedFixturesA = s___LoadedFixturesA.concat (lFixtures);
+		for (var i=0 ; i<lFixtures.length ; ++i)
+		{
+			s___LoadedFixturesA.push (lFixtures[i]);
+		}
 	}
 	
 	//
