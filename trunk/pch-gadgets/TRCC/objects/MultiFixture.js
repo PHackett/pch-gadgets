@@ -44,7 +44,7 @@ var s___LoadedFixturesA;
 //------------------------------------------------------------
 function sFn___XMLLoaderCB (aXML)
 {
-	if (response == null || typeof(response) != "object" || response.firstChild == null)
+	if ((aXML == null) || (typeof(aXML) != "object") || (aXML.firstChild == null))
 	{
 		//
 		// Something wrong ...
