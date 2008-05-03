@@ -65,7 +65,7 @@
 					//
 					var lFixtures=new Array();
 			
-					GGTRCC_LoadFixturesFromXML (response, lFixtures)
+					GGTRCC_LoadFixturesFromXML (response, lFixtures);
 					
 					//
 					// Render as HTML
