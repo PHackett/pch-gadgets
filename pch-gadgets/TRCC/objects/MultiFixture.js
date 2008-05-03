@@ -86,7 +86,7 @@ function sFn___LoadFromArray ()
 		//
 		// No more fixtures to load. Sort the array in to date order
 		//
-		s___FixtureTagA = s___FixtureTagA.sort(GGTRCC_SortFixturesByDate);
+		s___LoadedFixturesA = s___LoadedFixturesA.sort(GGTRCC_SortFixturesByDate);
 		
 		//
 		// Invoke the final (Original) callback
