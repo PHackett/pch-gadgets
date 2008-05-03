@@ -100,7 +100,7 @@ function sFn___LoadFromArray ()
 		//
 		// Load the XML
 		//
-		GGTRCC_LoadTeamYearFixtureXMLByDateAndTeam (lFT.year(), lFT.team, s___XMLloaderFunc, aCallback);
+		GGTRCC_LoadTeamYearFixtureXMLByDateAndTeam (lFT.year(), lFT.team, s___XMLloaderFunc, sFn___XMLLoaderCB);
 	}
 }
 
