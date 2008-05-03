@@ -61,6 +61,7 @@ alert ("aXML.firstChild = " + aXML.firstChild);
 		var lFixtures=new Array();
 	
 		GGTRCC_LoadFixturesFromXML (aXML, lFixtures);
+alert ("lFixtures.length = " + lFixtures.length);
 		
 		//
 		// Add it to what we already have
