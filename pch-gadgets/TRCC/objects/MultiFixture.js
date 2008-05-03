@@ -49,9 +49,6 @@ function sFn___XMLLoaderCB (aXML)
 		//
 		// Something wrong ...
 		//
-alert ("aXML = " + aXML);
-alert ("typeof(aXML) = " + typeof(aXML));
-alert ("aXML.firstChild = " + aXML.firstChild);
 	}
 	else
 	{
@@ -69,7 +66,6 @@ alert ("aXML.firstChild = " + aXML.firstChild);
 		{
 			s___LoadedFixturesA.push (lFixtures[i]);
 		}
-alert ("s___LoadedFixturesA.length = " + s___LoadedFixturesA.length);
 	}
 	
 	//
@@ -95,7 +91,7 @@ function sFn___LoadFromArray ()
 		//
 		// Invoke the final (Original) callback
 		//
-		s___FinalCB (s___FixtureTagA);
+		s___FinalCB (s___LoadedFixturesA);
 	}
 	else
 	{
