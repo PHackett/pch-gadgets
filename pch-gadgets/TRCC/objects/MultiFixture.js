@@ -126,7 +126,12 @@ function GGTRCC_loadMultipleFixtureLists (aFixtureTagA, aXMLloaderFunc, aCallbac
 	//
 	s___FinalCB 		= aCallback;
 	s___XMLloaderFunc 	= aXMLloaderFunc;
-	s___FixtureTagA 	= aFixtureTagA;
+	s___FixtureTagA 	= new Array();
+	
+	for (var i=0 ; i<aFixtureTagA.length ; ++i)
+	{
+		s___FixtureTagA.push (aFixtureTagA[i]);
+	}
 	
 	//
 	// Initialise the return data
