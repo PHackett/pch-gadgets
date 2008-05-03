@@ -49,6 +49,9 @@ function sFn___XMLLoaderCB (aXML)
 		//
 		// Something wrong ...
 		//
+alert ("aXML = " + aXML);
+alert ("typeof(aXML) = " + typeof(aXML));
+alert ("aXML.firstChild = " + aXML.firstChild);
 	}
 	else
 	{
