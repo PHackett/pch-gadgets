@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 6 19:26:15 UTC+0100 2008 -->
+<CricketMatch oppo="Odney" date="Sun May 4 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+       Overcast but warm (even humid), TRCC's 2008 season kicked off at long-time rivals Odney. 
+     
+      <p>
+       The toss being won, Pete Woodman (standing in for TRCC captain Nic Downes who was a few
+      minutes late) elected to bat. There were obvious 'cobwebs' in the Odney attack, with few balls being
+      on target and many extras conceded. But the cobwebs took on <em>Indiana Jones</em> proportions with
+      Twyford's batting! Runs were slow, wickets were not, often the result of some truly awful strokes
+      rather than the difficulty of the bowling. Only captain Nic Downes made double figures for the
+      visitors, who collapsed to an ignominious 68 all out. 
+      <p>
+       Odney got their turn at bat
+      before the tea interval due to the swiftness of Twyford's innings, but it was not all plain sailing
+      for the home club. Hackett was accurate, and was rewarded with two wickets, and there were too many
+      lofted shots from Odney for their comfort. But the target was just too low. After tea the home side
+      'went for it', and easily rattled off the required runs in just 15 overs. 
+      <p>
+       So -
+      Neither team 'in the zone', but Odney coming out deserved winners. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Finlay"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Dickie"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Dickie"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Neil Weir">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Akeel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Moss"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akeel"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Akeel"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Michael Heary">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Akeel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="Lovegrove"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="9" score="55"/>
+    <FallOfWicket batsman="8" score="60"/>
+    <FallOfWicket batsman="11" score="68"/>
+    <BowlerSummary name="M Finlay" overs="10" maidens="3" runs="17" wickets="1"/>
+    <BowlerSummary name="A Dickie" overs="7" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="S Moss" overs="7" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Akeel" overs="6" maidens="2" runs="8" wickets="4"/>
+    <BowlerSummary name="Lovegrove" overs="2" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Odney">
+    <Batsman name="M Lovegrove">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="O Lovegrove">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="D Bay">
+      <HowOut how="Caught Neil Weir"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Kendall">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Finlay">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="1" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
