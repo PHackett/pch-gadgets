@@ -42,6 +42,25 @@
 
 				var gNumResults="";
 				
+				//-------------------------------------------------[processSettings]-
+				// Determine what year & team
+				//--------------------------------------------------------------------
+				function processSettings ()
+				{
+					var lPrefs=new _IG_Prefs();
+			
+					//
+					// How many results to display?
+					//
+					gNumResults = TRCCUtils_ProcessPreferences ("NumResults", lPrefs, "4");
+					
+					//
+					// Lastly - Save away the "link target"
+					//
+					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
+				}
+				
+			
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -61,24 +80,6 @@
 				}
 
 
-				//-------------------------------------------------[processSettings]-
-				// Determine what year & team
-				//--------------------------------------------------------------------
-				function processSettings ()
-				{
-					var lPrefs=new _IG_Prefs();
-			
-					//
-					// First the year - Any userPrefs?
-					//
-					gNumResults = TRCCUtils_ProcessPreferences ("NumResults", lPrefs, "4");
-					
-					//
-					// Lastly - Save away the "link target"
-					//
-					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
-				}
-				
 				//------------------------------------------------[processFixturesCB]-
 				// From the fixtures, choose the latest results
 				//--------------------------------------------------------------------
@@ -150,6 +151,7 @@
 					//
 					GGTRCC_loadMultipleFixtureLists (lFixA, _IG_FetchXmlContent, processFixturesCB);
 				}
+			
 
 				//----------------------------------------------------------[display]-
 				// Load the XML & call the renderer
