@@ -14,6 +14,7 @@ var gFixtureResCancelled = "C";
 var gFixtureVenueAway="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
 var gFixtureVenueHome="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
 var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
+var gFixtureRain     ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -150,7 +151,7 @@ function GGTRCC_FixtureO___DateHTML()
 {
 	var lRet="&nbsp;";
 	
-	if (null != this.mDate)
+	if ((gFixtureResNP == this.mResult) (null != this.mDate))
 	{
 		lRet = GGUtils_MonthStringFromDate (this.mDate)
 			 + " "
@@ -264,7 +265,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResRain == this.mResult)
 	{
-		lRet = "Rain";
+		lRet = "<img src='" + gFixtureRain + "'>";
 	}
 	else if (gFixtureResAba == this.mResult)
 	{
@@ -451,7 +452,7 @@ function GGTRCC_FixturesToHTML (aFixtures)
 	//
 	// Start building HTML string that will be displayed in <div>.
 	//
-	var lHTML = "<table border='0' cellpadding='5' cellspacing='0' width='100%'>";
+	var lHTML = "<table border='0' cellpadding='2' cellspacing='0' width='100%'>";
 	
 	//
 	// Down all the fixtures
