@@ -158,7 +158,7 @@ function GGTRCC_FixtureO___DateHTML()
 {
 	var lRet="&nbsp;";
 	
-	if ((gFixtureResNP == this.mResult) (null != this.mDate))
+	if ((gFixtureResNP == this.mResult) && (null != this.mDate))
 	{
 		lRet = GGUtils_MonthStringFromDate (this.mDate)
 			 + " "
