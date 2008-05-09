@@ -33,6 +33,7 @@ var s___FinalCB;
 var s___XMLloaderFunc;
 var s___FixtureTagA;
 var s___LoadedFixturesA;
+var s___CurrentTeam;
 
 //
 // 'Static' functions
@@ -64,6 +65,8 @@ function sFn___XMLLoaderCB (aXML)
 		//
 		for (var i=0 ; i<lFixtures.length ; ++i)
 		{
+			lFixtures[i].setTeam (s___CurrentTeam);
+			
 			s___LoadedFixturesA.push (lFixtures[i]);
 		}
 	}
@@ -99,6 +102,11 @@ function sFn___LoadFromArray ()
 		// Get an item to load
 		//
 		var lFT=s___FixtureTagA.pop();
+		
+		//
+		// Save the current team
+		//
+		s___CurrentTeam = lFT.team();
 		
 		//
 		// Load the XML

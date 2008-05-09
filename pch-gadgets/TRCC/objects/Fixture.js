@@ -73,22 +73,26 @@ function GGTRCC_FixtureO (aFixtureXML)
 	//
 	// Initialse the members
 	//
-	this.mDate = null;
-	this.mOppo = null;
-	this.mTime = null;
-	this.mVenue = null;
-	this.mResult = gFixtureResNP;
+	this.mDate    = null;
+	this.mOppo    = null;
+	this.mTime    = null;
+	this.mVenue   = null;
+	this.mResult  = gFixtureResNP;
 	this.mHasLink = false;
+	this.mTeam    = null;	// Special - Added when fixtures from multiple teams are loaded at the same time
 	
 	//
 	// Set up the "methods"
 	//
-	this.DateHTML = GGTRCC_FixtureO___DateHTML;
-	this.OppoHTML = GGTRCC_FixtureO___OppoHTML;
-	this.TimeHTML = GGTRCC_FixtureO___TimeHTML;
-	this.VenueHTML = GGTRCC_FixtureO___VenueHTML;
+	this.DateHTML   = GGTRCC_FixtureO___DateHTML;
+	this.OppoHTML   = GGTRCC_FixtureO___OppoHTML;
+	this.TimeHTML   = GGTRCC_FixtureO___TimeHTML;
+	this.VenueHTML  = GGTRCC_FixtureO___VenueHTML;
 	this.ResultHTML = GGTRCC_FixtureO___ResultHTML;
-	this.URL = GGTRCC_FixtureO___URL;
+	this.TeamHTML   = GGTRCC_FixtureO___TeamHTML;
+	this.URL        = GGTRCC_FixtureO___URL;
+	this.setTeam    = GGTRCC_FixtureO___setTeam;
+	this.getTeam    = GGTRCC_FixtureO___getTeam;
 	
 	this.isWin = GGTRCC_FixtureO___isWin;
 	this.isLose = GGTRCC_FixtureO___isLose;
@@ -139,6 +143,9 @@ function GGTRCC_FixtureO (aFixtureXML)
 		this.mHasLink = true;
 	}
 }
+
+function GGTRCC_FixtureO___setTeam (aTeam)	{ this.mTeam = aTeam;	}
+function GGTRCC_FixtureO___getTeam()		{ return (this.mTeam);	}
 
 
 //-------------------------------[GGTRCC_FixtureO___DateHTML]-
@@ -282,6 +289,25 @@ function GGTRCC_FixtureO___ResultHTML()
 	else if (gFixtureResCancelled == this.mResult)
 	{
 		lRet = "Cancelled";
+	}
+	
+	return (lRet);
+}
+
+
+//-------------------------------[GGTRCC_FixtureO___TeamHTML]-
+// Get the team as HTML
+//
+// @return The fixture team (Saturdat, Sunday, Youth) as HTML
+//
+//------------------------------------------------------------
+function GGTRCC_FixtureO___TeamHTML()
+{
+	var lRet="nbsp;";
+	
+	if (null != this.getTeam())
+	{
+		lRet = this.getTeam();
 	}
 	
 	return (lRet);
@@ -468,6 +494,7 @@ function GGTRCC_FixturesToHTML (aFixtures)
 		// Add in the data
 		//
 		lHTML += "<td>" + aFixtures[i].VenueHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].TeamHTML() + "</td>";
 		lHTML += "<td>" + aFixtures[i].DateHTML() + "</td>";
 		lHTML += "<td>" + aFixtures[i].OppoHTML() + "</td>";
 		lHTML += "<td>" + aFixtures[i].TimeHTML() + "</td>";
