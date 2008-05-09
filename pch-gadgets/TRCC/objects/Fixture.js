@@ -151,25 +151,42 @@ function GGTRCC_FixtureO___getTeam()		{ return (this.mTeam);	}
 //-------------------------------[GGTRCC_FixtureO___DateHTML]-
 // Get the date as HTML
 //
+//	@param	aUSD		IN	"Use Short Date" 
+//
 // @return The fixture date as HTML
 //
 //------------------------------------------------------------
-function GGTRCC_FixtureO___DateHTML()
+function GGTRCC_FixtureO___DateHTML(aUSD)
 {
 	var lRet="&nbsp;";
+	var lUSD=false;
+	
+	if (null != aUSD)
+	{
+		lUSD = aUSD;
+	}	
 	
 	if (null != this.mDate)
 	{
-		lRet = GGUtils_MonthStringFromDate (this.mDate)
-			 + " "
-			 + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), true);
-	
+		if (lUSD)
+		{
+			lRet = GGUtils_MonthStringFromDate (this.mDate)
+				 + " "
+				 + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), true);
+		}
+		else
+		{
+			lRet = GGUtils_MonthStringFromDate (this.mDate)
+				 + " "
+				 + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), true);
+		
+		}
+		
 		if (this.mHasLink)
 		{
 			lRet = GGUtils_makeHREF (lRet, this.URL());
 		}
-	}
-	
+	}	
 	return (lRet);
 }
 
@@ -469,12 +486,20 @@ function GGTRCC_LoadTeamYearFixtureXML (aPrefsObj, aXMLloaderFunc, aCallback)
 // Render the given fixtures in HMTL
 //
 //	@param	aFixtures	IN	The fixtures. 
+//	@param	aUSD		IN	"Use Short Date" 
 //
 //	@return	The HTML
 //
 //------------------------------------------------------------
-function GGTRCC_FixturesToHTML (aFixtures)
+function GGTRCC_FixturesToHTML (aFixtures, aUSD)
 {
+	var lUSD=false;
+	
+	if (null != aUSD)
+	{
+		lUSD = aUSD;
+	}
+	
 	//
 	// Start building HTML string that will be displayed in <div>.
 	//
@@ -493,12 +518,12 @@ function GGTRCC_FixturesToHTML (aFixtures)
 		//
 		// Add in the data
 		//
-		lHTML += "<td>" + aFixtures[i].VenueHTML() + "</td>";
-		lHTML += "<td>" + aFixtures[i].TeamHTML() + "</td>";
-		lHTML += "<td>" + aFixtures[i].DateHTML() + "</td>";
-		lHTML += "<td>" + aFixtures[i].OppoHTML() + "</td>";
-		lHTML += "<td>" + aFixtures[i].TimeHTML() + "</td>";
-		lHTML += "<td>" + aFixtures[i].ResultHTML() + "</td>";
+		lHTML += "<td>" + aFixtures[i].VenueHTML()    + "</td>";
+		lHTML += "<td>" + aFixtures[i].TeamHTML()     + "</td>";
+		lHTML += "<td>" + aFixtures[i].DateHTML(lUSD) + "</td>";
+		lHTML += "<td>" + aFixtures[i].OppoHTML()     + "</td>";
+		lHTML += "<td>" + aFixtures[i].TimeHTML()     + "</td>";
+		lHTML += "<td>" + aFixtures[i].ResultHTML()   + "</td>";
 		
 		//
 		// Terminate the row

@@ -20,6 +20,22 @@ function GGUtils_MonthNumToString (aMonth)
 }
 
 
+//----------------------------[GGUtils_MonthNumToShortString]-
+// Get the month number as a string
+//
+// @param aMonth IN 0 based month number
+//
+// @return The string name for that month
+//
+//------------------------------------------------------------
+function GGUtils_MonthNumToShortString (aMonth)
+{
+    var lMonths=new Array("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+
+    return (lMonths[aMonth]);
+}
+
+
 //------------------------------[GGUtils_MonthStringFromDate]-
 // Get the month number as a string
 //
@@ -31,6 +47,20 @@ function GGUtils_MonthNumToString (aMonth)
 function GGUtils_MonthStringFromDate (aDate)
 {
     return (GGUtils_MonthNumToString (aDate.getMonth()));
+}
+
+
+//-------------------------[GGUtils_ShortMonthStringFromDate]-
+// Get the month number as a string
+//
+// @param aDate IN A javascript date object
+//
+// @return The string name for that month
+//
+//------------------------------------------------------------
+function GGUtils_ShortMonthStringFromDate (aDate)
+{
+    return (GGUtils_MonthNumToShortString (aDate.getMonth()));
 }
 
 
