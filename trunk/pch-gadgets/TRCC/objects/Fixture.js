@@ -303,7 +303,7 @@ function GGTRCC_FixtureO___ResultHTML()
 //------------------------------------------------------------
 function GGTRCC_FixtureO___TeamHTML()
 {
-	var lRet="nbsp;";
+	var lRet="&nbsp;";
 	
 	if (null != this.getTeam())
 	{
