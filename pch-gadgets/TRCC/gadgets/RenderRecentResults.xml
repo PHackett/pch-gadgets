@@ -71,7 +71,7 @@
 					//
 					// Render as HTML
 					//
-					var lHTML=GGTRCC_FixturesToHTML (aFixtures);
+					var lHTML=GGTRCC_FixturesToHTML (aFixtures, true);
 					
 					//
 					// Display HTML string in <div>
