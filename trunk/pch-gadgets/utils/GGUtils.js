@@ -125,9 +125,9 @@ function GGUtils_GetOrdinal (aNum)
 
     switch (aNum % 10)
     {
-        case (1): { if ((aNum % 100) != 11) { lRet = "st"; } }
-        case (2): { if ((aNum % 100) != 12) { lRet = "nd"; } }
-        case (3): { if ((aNum % 100) != 13) { lRet = "rd"; } }
+        case (1): { if ((aNum % 100) != 11) { lRet = "st"; break;	} }
+        case (2): { if ((aNum % 100) != 12) { lRet = "nd"; break;	} }
+        case (3): { if ((aNum % 100) != 13) { lRet = "rd"; break;	} }
     }
 
     return (lRet);
