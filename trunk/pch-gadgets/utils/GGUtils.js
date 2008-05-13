@@ -50,17 +50,19 @@ function GGUtils_MonthStringFromDate (aDate)
 }
 
 
-//-------------------------[GGUtils_ShortMonthStringFromDate]-
-// Get the month number as a string
+//-------------------------------------[GGUtils_GetShortYear]-
+// Get the year as a short string. I.e 2008 -> "08"
 //
 // @param aDate IN A javascript date object
 //
-// @return The string name for that month
+// @return The string for that year
 //
 //------------------------------------------------------------
-function GGUtils_ShortMonthStringFromDate (aDate)
+function GGUtils_GetShortYear (aDate)
 {
-    return (GGUtils_MonthNumToShortString (aDate.getMonth()));
+	var lRet = "" + aDate.getFullYear();
+	
+    return (lRet.substring(2));
 }
 
 
