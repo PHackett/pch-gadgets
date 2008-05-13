@@ -170,9 +170,11 @@ function GGTRCC_FixtureO___DateHTML(aUSD)
 	{
 		if (lUSD)
 		{
-			lRet = GGUtils_MonthStringFromDate (this.mDate)
-				 + " "
-				 + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), true);
+			lRet = GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false)
+				 + "-"
+				 + GGUtils_ShortMonthStringFromDate (this.mDate)
+				 + "-"
+				 + GGUtils_GetShortYear (this.mDate);
 		}
 		else
 		{
