@@ -11,12 +11,13 @@ var gFixtureResNP = "N";
 var gFixtureResWasNotPlayed = "U";
 var gFixtureResCancelled = "C";
 
-var gFixtureVenueAway="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
-var gFixtureVenueHome="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
-var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
-var gFixtureRain     ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
-var gFixtureWin      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
-var gFixtureLose     ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
+var gFixtureVenueAway ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
+var gFixtureVenueHome ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
+var gFixtureVenueTour ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
+var gFixtureRain      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
+var gFixtureWin       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
+var gFixtureLose      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
+var gFixtureCancelled ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -309,7 +310,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResCancelled == this.mResult)
 	{
-		lRet = "Cancelled";
+		lRet = "<img src='" + gFixtureCancelled + "'>";
 	}
 	
 	return (lRet);
