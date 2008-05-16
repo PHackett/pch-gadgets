@@ -282,7 +282,6 @@ function GGTRCC_FixtureO___ResultHTML()
 	else if (gFixtureResLose == this.mResult)
 	{
 		lRet = "<img src='" + gFixtureLose + "'>";
-		lRet = "Lose";
 	}
 	else if (gFixtureResDraw == this.mResult)
 	{
