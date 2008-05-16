@@ -4,10 +4,10 @@
 var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 var gGGGadget_SitesRoot="http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
 var gGGGadget_HomeRoot="http://trcc.paulhackett.com/";
+var gGGGadget_PlusNetRoot="http://www.paulhackett.plus.com/websites/trcc/"
 
 
-
-//---------------------------------------[GGUtils_getHostURL]-
+//--------------------------------------[GGGadget_getHostURL]-
 // Obtain (if possible) the URL of the page in which the 
 // gadget is embedded
 //
@@ -38,14 +38,14 @@ function GGGadget_getHostURL ()
 }
 
 
-//-----------------------------------[GGUtils_parseHostQuery]-
+//---------------------------------[GGGadget_parseHostQuery]-
 // Parse the query parameters from the hosting page 
 //
 //	@param	aDelim	IN	Delimiter to use in the query
 //
 // @return Associative array of items 
 //
-//------------------------------------------------------------
+//-----------------------------------------------------------
 function GGGadget_parseHostQuery (aDelim)
 {
 	var lArgs = new Object();
@@ -69,16 +69,18 @@ function GGGadget_parseHostQuery (aDelim)
 }
 
 
-//-------------------------------------[GGUtils_hostedOnSites]-
-// Is the gadget being hosted on google sites? 
+//-----------------------------------[GGGadget_hostedOnSites]-
+// Is the gadget being hosted on the given site? 
+//
+//	@param	aSite	IN		Site to test for
 //
 //	@return true if so, else false 
 //
 //------------------------------------------------------------
-function GGGadget_hostedOnSites ()
+function GGGadget_hostedOn (aSite)
 {
 	var lRet=false;
-	var lIndex=GGGadget_getHostURL().indexOf(gGGGadget_SitesRoot);
+	var lIndex=GGGadget_getHostURL().indexOf(aSite);
 
 	if (0 == lIndex)
 	{
@@ -89,7 +91,19 @@ function GGGadget_hostedOnSites ()
 }
 
 
-//--------------------------------------[GGUtils_hostedAtHome]-
+//-----------------------------------[GGGadget_hostedOnSites]-
+// Is the gadget being hosted on google sites? 
+//
+//	@return true if so, else false 
+//
+//------------------------------------------------------------
+function GGGadget_hostedOnSites ()
+{
+	return (GGGadget_hostedOn (gGGGadget_SitesRoot));
+}
+
+
+//------------------------------------[GGGadget_hostedAtHome]-
 // Is the gadget being hosted on on my home computer? 
 //
 //	@return true if so, else false 
@@ -97,13 +111,17 @@ function GGGadget_hostedOnSites ()
 //------------------------------------------------------------
 function GGGadget_hostedAtHome ()
 {
-	var lRet=false;
-	var lIndex=GGGadget_getHostURL().indexOf(gGGGadget_HomeRoot);
+	return (GGGadget_hostedOn (gGGGadget_HomeRoot));
+}
 
-	if (0 == lIndex)
-	{
-		lRet = true;
-	}	
-	
-	return (lRet);
+
+//------------------------------------[GGGadget_hostedAtHome]-
+// Is the gadget being hosted on on my home computer? 
+//
+//	@return true if so, else false 
+//
+//------------------------------------------------------------
+function GGGadget_hostedAtPlusNet ()
+{
+	return (GGGadget_hostedOn (gGGGadget_PlusNetRoot));
 }
