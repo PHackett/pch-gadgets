@@ -341,7 +341,7 @@ function GGTRCC_FixtureO___TeamHTML()
 //------------------------------------------------------------
 function GGTRCC_FixtureO___URL()
 {
-	var lBaseURL=gGGGadget_PlusNetRoot + "Fixtures/FixturesByYear.html?";
+	var lBaseURL=gGGGadget_PlusNetRoot + "Fixtures/GenericFixture.html?";
 
 	if (GGGadget_hostedOnSites())
 	{
@@ -349,7 +349,7 @@ function GGTRCC_FixtureO___URL()
 	}
 	else if (GGGadget_hostedAtHome())
 	{
-		lBaseURL = gGGGadget_HomeRoot + "Fixtures/FixturesByYear.html?";
+		lBaseURL = gGGGadget_HomeRoot + "Fixtures/GenericFixture.html?";
 	}	
 
 
