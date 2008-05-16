@@ -16,6 +16,7 @@ var gFixtureVenueHome="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/T
 var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
 var gFixtureRain     ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
 var gFixtureWin      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
+var gFixtureLose     ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -280,6 +281,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResLose == this.mResult)
 	{
+		lRet = "<img src='" + gFixtureLose + "'>";
 		lRet = "Lose";
 	}
 	else if (gFixtureResDraw == this.mResult)
