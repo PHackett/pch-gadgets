@@ -505,7 +505,14 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD)
 	//
 	// Start building HTML string that will be displayed in <div>.
 	//
-	var lHTML = "<table border='0' cellpadding='2' cellspacing='0' width='100%'>";
+	var lHTML = "<table border='0' cellpadding='2' cellspacing='0' width='100%'";
+	
+	if (aUSD)
+	{
+		lHTML += " class='GadgetSmallText'";
+	}
+	
+	lHTML += ">";
 	
 	//
 	// Down all the fixtures
