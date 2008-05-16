@@ -15,6 +15,7 @@ var gFixtureVenueAway="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/T
 var gFixtureVenueHome="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
 var gFixtureVenueTour="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
 var gFixtureRain     ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
+var gFixtureWin      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -275,7 +276,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	
 	if (gFixtureResWin == this.mResult)
 	{
-		lRet = "Win";
+		lRet = "<img src='" + gFixtureWin + "'>";
 	}
 	else if (gFixtureResLose == this.mResult)
 	{
@@ -333,7 +334,7 @@ function GGTRCC_FixtureO___TeamHTML()
 }
 
 
-//-----------------------------[GGTRCC_FixtureO___ResultHTML]-
+//------------------------------------[GGTRCC_FixtureO___URL]-
 // Get the result as HTML
 //
 // @return The fixture result as HTML
