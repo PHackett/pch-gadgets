@@ -78,7 +78,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 	
 	if (aExists)
 	{
-		var lBaseURL="http://www.paulhackett.plus.com/websites/trcc/Fixtures/FixturesByYear.html";
+		var lBaseURL=gGGGadget_PlusNetRoot + "Fixtures/FixturesByYear.html";
 
 		if (GGGadget_hostedOnSites())
 		{
