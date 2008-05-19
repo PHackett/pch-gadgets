@@ -11,13 +11,13 @@ var gFixtureResNP = "N";
 var gFixtureResWasNotPlayed = "U";
 var gFixtureResCancelled = "C";
 
-var gFixtureVenueAway ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
-var gFixtureVenueHome ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
-var gFixtureVenueTour ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
-var gFixtureRain      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
-var gFixtureWin       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
-var gFixtureLose      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
-var gFixtureCancelled ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
+var gFixtureVenueAwayImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
+var gFixtureVenueHomeImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
+var gFixtureVenueTourImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
+var gFixtureRainImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
+var gFixtureWinImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
+var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
+var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -251,15 +251,15 @@ function GGTRCC_FixtureO___VenueHTML()
 	
 	if ("Away" == this.mVenue)
 	{
-		lRet += "<img src='" + gFixtureVenueAway + "'>";
+		lRet += "<img src='" + gFixtureVenueAwayImg + "'>";
 	}
 	else if ("Home" == this.mVenue)
 	{
-		lRet += "<img src='" + gFixtureVenueHome + "'>";
+		lRet += "<img src='" + gFixtureVenueHomeImg + "'>";
 	}
 	else if ("Tour" == this.mVenue)
 	{
-		lRet += "<img src='" + gFixtureVenueTour + "'>";
+		lRet += "<img src='" + gFixtureVenueTourImg + "'>";
 	}
 
 	return (lRet);
@@ -278,11 +278,11 @@ function GGTRCC_FixtureO___ResultHTML()
 	
 	if (gFixtureResWin == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureWin + "'>";
+		lRet = "<img src='" + gFixtureWinImg + "'>";
 	}
 	else if (gFixtureResLose == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureLose + "'>";
+		lRet = "<img src='" + gFixtureLoseImg + "'>";
 	}
 	else if (gFixtureResDraw == this.mResult)
 	{
@@ -294,7 +294,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResRain == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureRain + "'>";
+		lRet = "<img src='" + gFixtureRainImg + "'>";
 	}
 	else if (gFixtureResAba == this.mResult)
 	{
@@ -310,7 +310,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResCancelled == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureCancelled + "'>";
+		lRet = "<img src='" + gFixtureCancelledImg + "'>";
 	}
 	
 	return (lRet);
