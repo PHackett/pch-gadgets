@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 19 20:27:29 UTC+0100 2008 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 18 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      Playing host for the second week running, Twyford welcomed long-time rivals Wooburn Narkovians to
+      Stanlake meadow. 
+      <p>
+       Winning the toss, Twyford put the visitors in to bat on a
+      pleasant if somewhat overcast afternoon (Turning a bit chilly later!). Things began well for
+      Twyford, with runs in short supply. Hackett's bowling especially gave nothing away. The first wicket
+      fell in the 8th over, and still runs would not come for Wooburn! But slowly, the batsman began to
+      amass a score. R Rogers, followed by R Barker both got near to 50, with Tennant & Small making
+      valuable contributions towards the end of the innings. The final score of 172 was far higher than
+      seemed possible half way through the innings! Pick of the bowlers for Twyford was C Fort, taking 4
+      in a penetrating spell of spin. 
+      <p>
+       Twyford began their turn at the crease in fine
+      style, both the openers looking good. Wooburn's bowling was challenging, forcing several
+      half-chances. But with the first wicket falling at a score or 59, and the seconds at 102, the home
+      side thought they smelled victory! But the bowling did not let up, and the run rate could not be
+      maintained. Opener Woodman, getting his second successive 50 fell in the 34th over, and then it was
+      just a matter of whether Twyford could avoid being bowled out or not! But survive they did, and the
+      game ended in a draw. 
+      <p>
+       
+    ]]>
+  </MatchReport>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="D Rogers">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="C Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Curtis">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Furlong">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Barker">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="G Taylor">
+      <HowOut how="Caught Neil Weir"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Tennant">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Small">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Hall">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Barker"/>
+    <Extras value="28"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="5" runs="24" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="5" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Josh Baker" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="9" maidens="0" runs="38" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="2" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Tennant"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="R Barker"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Tennant"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Rogers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Neil Weir">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Michael Heary">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Tennant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Hall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="3" score="102"/>
+    <FallOfWicket batsman="4" score="107"/>
+    <FallOfWicket batsman="5" score="118"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <FallOfWicket batsman="1" score="124"/>
+    <FallOfWicket batsman="8" score="124"/>
+    <FallOfWicket batsman="9" score="137"/>
+    <BowlerSummary name="R Hall" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="D Small" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="A Barker" overs="6" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="R Barker" overs="8" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="R Rogers" overs="10" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="M Tennant" overs="5" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="C Hall" overs="2" maidens="1" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
