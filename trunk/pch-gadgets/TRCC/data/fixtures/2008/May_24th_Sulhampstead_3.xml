@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 2 20:34:34 UTC+0100 2008 -->
+<CricketMatch oppo="Sulhampstead 3" date="Sat May 24 00:00:00 UTC+0100 2008">
+  <MatchReport/>  <Innings batting="Sulhampstead 3">
+    <Batsman name="Wilkinson">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="I Gibson">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Gibson">
+      <HowOut how="Caught "/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="L Abbot">
+      <HowOut how="Caught "/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Knapp">
+      <HowOut how="Caught "/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D McDonald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Graham">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="N Wilkinson">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="L Small">
+      <HowOut how="LBW"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Gibson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="52"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="5" score="135"/>
+    <FallOfWicket batsman="8" score="135"/>
+    <FallOfWicket batsman="10" score="135"/>
+    <FallOfWicket batsman="9" score="142"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Mark Jones" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="13" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="11" maidens="2" runs="57" wickets="1"/>
+    <BowlerSummary name="Nathan Eddy" overs="13" maidens="6" runs="20" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="E Gibson"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="I Gibson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="LBW"/>
+      <Bowler name="I Gibson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Gibson"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="M Gibson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="E Gibson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="E Gibson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Gibson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Gibson"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="E Gibson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="1" score="61"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="6" score="76"/>
+    <FallOfWicket batsman="7" score="76"/>
+    <FallOfWicket batsman="4" score="94"/>
+    <FallOfWicket batsman="8" score="95"/>
+    <FallOfWicket batsman="10" score="111"/>
+    <FallOfWicket batsman="9" score="122"/>
+    <BowlerSummary name="I Gibson" overs="10.3" maidens="3" runs="17" wickets="3"/>
+    <BowlerSummary name="L Small" overs="8" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="E Gibson" overs="9" maidens="2" runs="23" wickets="4"/>
+    <BowlerSummary name="M Gibson" overs="9" maidens="2" runs="36" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

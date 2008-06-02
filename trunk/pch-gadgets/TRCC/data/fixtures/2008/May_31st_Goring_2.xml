@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 2 20:34:48 UTC+0100 2008 -->
+<CricketMatch oppo="Goring 2" date="Sat May 31 00:00:00 UTC+0100 2008">
+  <MatchReport/>  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Caulfield"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="B Caulfield"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Caulfield"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Ferry"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Clarke"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="2" score="53"/>
+    <FallOfWicket batsman="4" score="107"/>
+    <FallOfWicket batsman="3" score="124"/>
+    <FallOfWicket batsman="6" score="160"/>
+    <FallOfWicket batsman="5" score="162"/>
+    <FallOfWicket batsman="7" score="165"/>
+    <FallOfWicket batsman="9" score="172"/>
+    <FallOfWicket batsman="10" score="200"/>
+    <FallOfWicket batsman="11" score="214"/>
+    <BowlerSummary name="M Clarke" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="T Mitchell" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="S Clarke" overs="7.4" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="P Clarke" overs="14" maidens="1" runs="58" wickets="5"/>
+    <BowlerSummary name="B Caulfield" overs="11" maidens="2" runs="46" wickets="3"/>
+    <BowlerSummary name="T Ferry" overs="4" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+  <Innings batting="Goring 2">
+    <Batsman name="B Caulfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="M Deeks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="S Fitchett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="P Clarke">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Clarke">
+      <HowOut how="Stumped"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Hedge">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Edwards">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Wincott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="T Mitchell">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="T Ferry">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="49"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="5" score="88"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="9" score="120"/>
+    <BowlerSummary name="Tim Cooper" overs="7" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="9" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="13" maidens="4" runs="29" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="10" maidens="2" runs="31" wickets="3"/>
+  </Innings>
+</CricketMatch>
+
