@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 9 21:36:32 UTC+0100 2008 -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 8 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      Definitely the best day of the summer so far saw Twyford journeying to long time adversaries Greys
+      Green, in that picturesque Oxfordshire village with the frighteningly (for bowlers at least) short
+      boundary!
+      <p>
+      Winning the toss, TRCC captain T Fort elected to bat. Things did not go
+      well for the visitors initially, with no runs coming and Cochrane returning to the pavilion with
+      only 8 on the board. But opener Woodman, ably assisted first by Smith and then Walkland, pushed the
+      runs along tremendously - Both Woodman and Walkland reaching 50. Hot work in the field for Greys
+      Green under the scorching sun! The final total of 189 was decent, but on that pitch were there more
+      runs available?
+      <p>
+      For their turn at bat, the hosts were presented with some decidedly
+      innaccurate bowling from the Twyford attack, with little threatening to take a wicket. But despite
+      that, runs were not in great supply and most batsmen did not seem to settle. This, combined with the
+      unusual sight of Twyford holding all the catches presented to them began to take its toll on the
+      home side. Only Rooke for Greys Green got above 20 runs, and as the overs ticked down, the visitors
+      could smell victory!
+      <p>
+      But the tail were resolute, and the bowlers could not dismiss
+      them. The game ended in a draw with the home side on 140-7.
+      <p>
+      But on such a day, with
+      hot sun, a gentle breeze, blue sky, and the promise of a well-earned pint afterwards - Well, it was
+      heaven for all involved.
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Chapell"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akhmed"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Cusden"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Chapell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chapell"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="99"/>
+    <FallOfWicket batsman="1" score="139"/>
+    <FallOfWicket batsman="5" score="147"/>
+    <FallOfWicket batsman="6" score="153"/>
+    <BowlerSummary name="Illsley" overs="7" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Akhmed" overs="11" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="Rooke" overs="7" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Cusden" overs="11" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Chapell" overs="7" maidens="0" runs="53" wickets="3"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Chapell">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Cusden">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Knight">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="T Rooke">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="A Latif">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Hoggart">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Crook">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Illsley">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="3" score="71"/>
+    <FallOfWicket batsman="4" score="91"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="5" score="139"/>
+    <FallOfWicket batsman="8" score="139"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="3" runs="24" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="2" runs="41" wickets="3"/>
+    <BowlerSummary name="Tom Downes" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="4" maidens="1" runs="6" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="4" maidens="2" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
