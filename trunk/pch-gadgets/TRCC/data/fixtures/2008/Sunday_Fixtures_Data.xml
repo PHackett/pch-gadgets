@@ -53,7 +53,8 @@
   <Opposition>Wokingham</Opposition>
   <Time>2:00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 22 Jun 2008 20:00:00 UTC</Date>
