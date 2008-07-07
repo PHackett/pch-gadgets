@@ -58,23 +58,25 @@
 </Fixture>
 <Fixture>
   <Date>Sun, 22 Jun 2008 20:00:00 UTC</Date>
-  <Opposition>TBD</Opposition>
-  <Venue></Venue>
-  <Result>NotPlayed</Result>
+  <Opposition>Bledlow Ridge</Opposition>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 29 Jun 2008 20:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
   <Time>2:00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 6 Jul 2008 20:00:00 UTC</Date>
   <Opposition>Harpsden</Opposition>
   <Time>2:00</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Abandonned</Result>
 </Fixture>
 <Fixture>
   <Date>Sun, 13 Jul 2008 20:00:00 UTC</Date>

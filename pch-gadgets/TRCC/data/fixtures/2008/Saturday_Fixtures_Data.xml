@@ -51,28 +51,32 @@
   <Opposition>Knowl Hill 1</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sat, 21 Jun 2008 20:00:00 UTC</Date>
-  <Opposition>GandL 1</Opposition>
+  <Opposition>Grouse and Label 1</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sat, 28 Jun 2008 20:00:00 UTC</Date>
-  <Opposition>Shinfield 2</Opposition>
+  <Opposition>Shinfield</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sat, 5 Jul 2008 20:00:00 UTC</Date>
   <Opposition>Purley</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sat, 12 Jul 2008 20:00:00 UTC</Date>
