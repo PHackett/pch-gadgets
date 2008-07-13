@@ -75,7 +75,7 @@ function GGTRCC_LoadSponsorsFromXML (aXML, aOut)
 	
 	for (var i=0 ; i<lSponsors.length ; ++i)
 	{
-		aOut[aOut.length] = new GGTRCC_TeamYearO (lSponsors.item(i));
+		aOut[aOut.length] = new GGTRCC_SponsorO (lSponsors.item(i));
 	}
 	
 	return (lSponsors.length);
