@@ -78,7 +78,6 @@
 					// Display HTML string in <div>
 					//
 					_gel('content_div').innerHTML = lHTML;
-					
 				}
 					
 				//----------------------------------------------------------[display]-
@@ -86,6 +85,11 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
+					//
+					// Display the 'Loading' notice
+					//
+					_gel('content_div').innerHTML = gGGGadget_LoadingHTML;
+					
 					//
 					// XML data for TRCC sponsors
 					//
