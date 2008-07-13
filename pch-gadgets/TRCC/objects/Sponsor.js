@@ -27,17 +27,17 @@ function GGTRCC_SponsorO (aSponsorXML)
 	
 	if (1 == (lXMLElement = aSponsorXML.getElementsByTagName ("Name")).length)
 	{
-		this.mName = new Date (lXMLElement[0].firstChild.nodeValue);
+		this.mName = lXMLElement[0].firstChild.nodeValue;
 	}
 
 	if (1 == (lXMLElement = aSponsorXML.getElementsByTagName ("Image")).length)
 	{
-		this.mImage = new Date (lXMLElement[0].firstChild.nodeValue);
+		this.mImage = lXMLElement[0].firstChild.nodeValue;
 	}
 
 	if (1 == (lXMLElement = aSponsorXML.getElementsByTagName ("URL")).length)
 	{
-		this.mURL = new Date (lXMLElement[0].firstChild.nodeValue);
+		this.mURL = lXMLElement[0].firstChild.nodeValue;
 	}
 }
 
