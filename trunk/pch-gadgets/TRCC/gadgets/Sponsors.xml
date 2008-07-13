@@ -58,8 +58,27 @@
 					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
 					
 					//
-					// Parse the data
+					// Parse the sponsor data
 					//
+					var lSponsors=new Array();
+					
+					GGTRCC_LoadSponsorsFromXML (response, lSponsors);
+					
+					//
+					// Render the data
+					//
+					var lHTML="";
+					
+					for (var i=0 ; i<lSponsors.length ; ++i)
+					{
+						lHTML += "Name = " + lSponsors[i].name() + ": Image = " + lSponsors[i].image() + " : URL = " + lSponsors[i].URL() + "<br>"; 
+					}
+					
+					//
+					// Display HTML string in <div>
+					//
+					_gel('content_div').innerHTML = lHTML;
+					
 				}
 					
 				//----------------------------------------------------------[display]-
@@ -70,7 +89,7 @@
 					//
 					// XML data for TRCC sponsors
 					//
-					var lURL = gGGGadget_Root + "TRCC/data/sponsors/SponsorsData.xml";
+					var lURL = gGGGadget_Root + "TRCC/data/sponsors/SponsorData.xml";
 						
 					//
 					// Get the XML - Callback to function renderData when complete
