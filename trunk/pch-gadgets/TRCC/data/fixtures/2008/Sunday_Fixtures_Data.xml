@@ -84,7 +84,8 @@
   <Opposition>Woodcote</Opposition>
   <Time>2:00</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+ <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 20 Jul 2008 20:00:00 UTC</Date>
