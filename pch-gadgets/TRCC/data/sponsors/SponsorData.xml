@@ -5,4 +5,17 @@
 		<Image>fred.jpg</Image>
 		<URL>http://www.bbc.co.uk</URL>
 	</Sponsor>	
+	
+	<Sponsor>
+		<Name>This is the 2nd name</Name>
+		<Image>pete.jpg</Image>
+		<URL>http://www.bbc.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>This is the 3rd name</Name>
+		<Image>john.jpg</Image>
+		<URL>http://www.bbc.co.uk</URL>
+	</Sponsor>	
+
 </Sponsors>
