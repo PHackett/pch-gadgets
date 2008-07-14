@@ -16,9 +16,10 @@ function GGTRCC_SponsorO (aSponsorXML)
 	//
 	// Methods
 	//
-	this.name 	= GGTRCC_SponsorO___name;
-	this.image 	= GGTRCC_SponsorO___image;
-	this.URL 	= GGTRCC_SponsorO___URL;
+	this.name 		= GGTRCC_SponsorO___name;
+	this.image 		= GGTRCC_SponsorO___image;
+	this.URL 		= GGTRCC_SponsorO___URL;
+	this.listHTML	= GGTRCC_SponsorO___listHTML;
 
 	//
 	// Parse the XML
@@ -45,6 +46,24 @@ function GGTRCC_SponsorO (aSponsorXML)
 function GGTRCC_SponsorO___name()	{ return (this.mName);		}
 function GGTRCC_SponsorO___image()	{ return (this.mImage);		}
 function GGTRCC_SponsorO___URL()	{ return (this.mURL);		}
+
+
+//--------------------------------[GGTRCC_SponsorO___listHTML]-
+// Get the HTML for this sponsors list entry
+//
+// @return 	The HTML 
+//
+//------------------------------------------------------------
+function GGTRCC_SponsorO___listHTML()
+{
+	var lRet="";
+	
+	lRet += "<span onmouseover=\"document.rollimg.src=image0.src;\">\n";
+	lRet += "   " + this.name() +"\n";
+	lRet += "</span>\n"; 
+	
+	return (lRet);
+}
 
 
 //--------------------------------[GGTRCC_LoadSponsorsFromXML]-
