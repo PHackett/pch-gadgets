@@ -34,9 +34,54 @@
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/Sponsor.js" type="text/javascript"></script>
 
+			<!--
+			Specific css
+			-->
+			<style type="text/css" media="screen">
+				#navcontainer ul
+				{
+					margin: 0;
+					padding: 0;
+					list-style-type: none;
+				}
+				
+				#navcontainer li { margin: 0 0 .2em 0; }
+				
+				#navcontainer a
+				{
+					display: block;
+					color: #FFF;
+					background-color: #036;
+					width: 9em;
+					padding: .2em .8em;
+					text-decoration: none;
+				}
+				
+				#navcontainer a:hover
+				{
+					background-color: #369;
+					color: #FFF;
+				}
+			</style>
 
 			<script type="text/javascript">
 			
+				function roll_over (aURL)
+				{
+				  document['but1'].src = aURL;
+				}
+				
+				function makeSponsorListItem (aSponsor)
+				{
+					var lRet="";
+					
+					lRet += "<li>\n";
+					lRet += "  <a href= '#' onmouseover=\"roll_over ('" + gGGGadget_Root + "TRCC/images/sponsors/" + aSponsor.image() + "')\">" + aSponsor.name() + "</a>\n";
+					lRet += "</li>\n";
+					
+					return (lRet);
+				}
+				
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -69,10 +114,18 @@
 					//
 					var lHTML="";
 					
+					lHTML += "<div id='navcontainer' style='float:left'>\n";
+					lHTML += "<ul>\n";
+					
 					for (var i=0 ; i<lSponsors.length ; ++i)
 					{
-						lHTML += lSponsors[i].listHTML(); 
+						lHTML += makeSponsorListItem (lSponsors[i]); 
 					}
+
+					lHTML += "</ul>\n";
+					lHTML += "</div>\n";
+					
+					lHTML += "<IMG SRC=\"http://tbn0.google.com/images?q=tbn:sAe57NwQdluioM:http://www.hp-lexicon.org/images/tr/fred-george2-tr.jpg\" WIDTH=\"560\" HEIGHT=\"800\" NAME=\"but1\" BORDER=\"1\">";
 					
 					//
 					// Display HTML string in <div>

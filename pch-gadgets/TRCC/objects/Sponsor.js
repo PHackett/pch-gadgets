@@ -10,17 +10,18 @@ function GGTRCC_SponsorO (aSponsorXML)
 	// Members
 	//
 	this.mName 		= "";
-	this.mImage 	= false;
-	this.mURL 		= false;
+	this.mImage 	= "";
+	this.mURL 		= "";
 
 	//
 	// Methods
 	//
-	this.name 		= GGTRCC_SponsorO___name;
-	this.image 		= GGTRCC_SponsorO___image;
-	this.imageURL 	= GGTRCC_SponsorO___imageURL;
-	this.URL 		= GGTRCC_SponsorO___URL;
-	this.listHTML	= GGTRCC_SponsorO___listHTML;
+	this.name 			= GGTRCC_SponsorO___name;
+	this.image 			= GGTRCC_SponsorO___image;
+	this.imageURL 		= GGTRCC_SponsorO___imageURL;
+	this.URL 			= GGTRCC_SponsorO___URL;
+	this.listHTML		= GGTRCC_SponsorO___listHTML;
+	this.displayHTML	= GGTRCC_SponsorO___displayHTML;
 
 	//
 	// Parse the XML
@@ -60,9 +61,37 @@ function GGTRCC_SponsorO___listHTML()
 {
 	var lRet="";
 	
-	lRet += "<span onmouseover=\"document.rollimg.src=image0.src;\">\n";
-	lRet += "   " + this.name() +"\n";
-	lRet += "</span>\n"; 
+	lRet += "<li>\n";
+	lRet += "  <a href= '#' onmouseover=\"roll_over ('" + this.imageURL() + "')\">" + this.name() + "</a>\n";
+	lRet += "</li>\n";
+	
+	return (lRet);
+}
+
+
+//-----------------------------[GGTRCC_SponsorO___displayHTML]-
+// Get the HTML for this sponsors displayed entry
+//
+// @return 	The HTML 
+//
+//------------------------------------------------------------
+function GGTRCC_SponsorO___displayHTML()
+{
+	var lRet="";
+
+	if (this.URL() != "")
+	{
+		
+	}
+	else
+	{
+		
+	}
+	
+	//
+	// Add in the image itself
+	//
+	lRet += "<img src=\"" + this.imageURL() + "\" width=\"450\" border=\"1\">";
 	
 	return (lRet);
 }
