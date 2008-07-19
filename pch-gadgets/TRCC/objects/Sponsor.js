@@ -18,6 +18,7 @@ function GGTRCC_SponsorO (aSponsorXML)
 	//
 	this.name 		= GGTRCC_SponsorO___name;
 	this.image 		= GGTRCC_SponsorO___image;
+	this.imageURL 	= GGTRCC_SponsorO___imageURL;
 	this.URL 		= GGTRCC_SponsorO___URL;
 	this.listHTML	= GGTRCC_SponsorO___listHTML;
 
@@ -43,9 +44,10 @@ function GGTRCC_SponsorO (aSponsorXML)
 }
 
 
-function GGTRCC_SponsorO___name()	{ return (this.mName);		}
-function GGTRCC_SponsorO___image()	{ return (this.mImage);		}
-function GGTRCC_SponsorO___URL()	{ return (this.mURL);		}
+function GGTRCC_SponsorO___name()		{ return (this.mName);		}
+function GGTRCC_SponsorO___image()		{ return (this.mImage);		}
+function GGTRCC_SponsorO___imageURL()	{ return (gGGGadget_Root + "TRCC/images/sponsors/" + this.image());		}
+function GGTRCC_SponsorO___URL()		{ return (this.mURL);		}
 
 
 //--------------------------------[GGTRCC_SponsorO___listHTML]-
