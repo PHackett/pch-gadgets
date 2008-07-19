@@ -71,7 +71,7 @@
 					
 					for (var i=0 ; i<lSponsors.length ; ++i)
 					{
-						lHTML += "Name = " + lSponsors[i].name() + ": Image = " + lSponsors[i].image() + " : URL = " + lSponsors[i].URL() + "<br>"; 
+						lHTML += lSponsors[i].listHTML(); 
 					}
 					
 					//

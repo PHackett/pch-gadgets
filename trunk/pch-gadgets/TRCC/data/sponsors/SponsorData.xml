@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Sponsors>
 	<Sponsor>
-		<Name>This is the name</Name>
-		<Image>fred.jpg</Image>
-		<URL>http://www.bbc.co.uk</URL>
+		<Name>Accounting Etc.</Name>
+		<Image>AccountingEtc.png</Image>
+		<URL>http://www.accounting-etc.co.uk</URL>
 	</Sponsor>	
 	
 	<Sponsor>
-		<Name>This is the 2nd name</Name>
-		<Image>pete.jpg</Image>
-		<URL>http://www.bbc.co.uk</URL>
+		<Name>Ballards</Name>
+		<Image>Ballards.png</Image>
 	</Sponsor>	
 
 	<Sponsor>
