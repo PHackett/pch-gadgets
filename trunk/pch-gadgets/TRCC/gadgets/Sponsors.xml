@@ -7,8 +7,8 @@
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of TRCC sponsors information."
 		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
-		width="800"
-		height="660"
+		width="850"
+		height="760"
 		scrolling="true">
 	</ModulePrefs>
 
@@ -62,6 +62,13 @@
 					background-color: #369;
 					color: #FFF;
 				}
+				
+				#sponsor_image_div
+				{
+					padding: .2em .8em;
+					text-align: center;
+				}
+				
 			</style>
 
 			<script type="text/javascript">
@@ -75,7 +82,29 @@
 				//--------------------------------------------------------------------
 				function ___rollOver (aImageURL, aURL)
 				{
-				  document['but1'].src = aImageURL;
+					var lHTML="";
+					
+					//
+					// Construct the HTML for the sponsor image div
+					//
+					if (aURL.length != 0)
+					{
+						lHTML += "<p align='center'><a href='" + aURL + "'>" + aURL + "</a></p>";
+					}
+					else
+					{
+						lHTML += "<p align='center'>&nbsp;</p>";
+					}
+					
+					lHTML += "<IMG style=\"float:left\" SRC=\"" + aImageURL + "\" WIDTH=\"454\" BORDER=\"1\">";
+					
+				  	// document['but1'].src = aImageURL;
+				  
+				  	//
+					// Display HTML string in <div>
+					//
+					_gel('sponsor_image_div').innerHTML = lHTML;
+				  
 				}
 				
 				//-------------------------------------------[___makeSponsorListItem]-
@@ -124,14 +153,17 @@
 					GGTRCC_LoadSponsorsFromXML (response, lSponsors);
 					
 					//
-					// Render the data
+					// Render the data.
+					// Note that as there are so many sponsors, we shall arrange them in 
+					// two lists - One on either side of the sponsor's image
 					//
 					var lHTML="";
+					var lHalfListSize=Math.round (lSponsors.length/2 + 1);
 					
 					lHTML += "<div id='navcontainer' style='float:left'>\n";
 					lHTML += "<ul>\n";
 					
-					for (var i=0 ; i<lSponsors.length ; ++i)
+					for (var i=0 ; i<lHalfListSize ; ++i)
 					{
 						lHTML += ___makeSponsorListItem (lSponsors[i]); 
 					}
@@ -139,7 +171,23 @@
 					lHTML += "</ul>\n";
 					lHTML += "</div>\n";
 					
-					lHTML += "<IMG SRC=\"" + lSponsors[0].imageURL() + "\" WIDTH=\"454\" NAME=\"but1\" BORDER=\"1\">";
+					//
+					// Image in the middle
+					//
+					// lHTML += "<IMG style=\"float:left\" SRC=\"" + lSponsors[0].imageURL() + "\" WIDTH=\"454\" NAME=\"but1\" BORDER=\"1\">";
+					lHTML += "<div style='float:left' id='sponsor_image_div'></div>";
+
+					lHTML += "<div style=\"float:left\" id='navcontainer' style='float:left'>\n";
+					lHTML += "<ul>\n";
+					
+					for (var i=lHalfListSize ; i<lSponsors.length ; ++i)
+					{
+						lHTML += ___makeSponsorListItem (lSponsors[i]); 
+					}
+
+					lHTML += "</ul>\n";
+					lHTML += "</div>\n";
+					
 					
 					//
 					// Display HTML string in <div>
