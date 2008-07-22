@@ -82,7 +82,7 @@
 
 	<Sponsor>
 		<Name>Physiocare</Name>
-		<Image>PhysioCare.png</Image>
+		<Image>PhisioCare.png</Image>
 		<URL>http://www.physiocare.co.uk</URL>
 	</Sponsor>	
 
@@ -142,11 +142,4 @@
 		<Image>Wentworth.png</Image>
 		<URL>http://www.wentworthestateagents.com/</URL>
 	</Sponsor>	
-
-	<Sponsor>
-		<Name>Wentworth Estate Agents</Name>
-		<Image>Wentworth.png</Image>
-		<URL>http://www.wentworthestateagents.com/</URL>
-	</Sponsor>	
-
 </Sponsors>
