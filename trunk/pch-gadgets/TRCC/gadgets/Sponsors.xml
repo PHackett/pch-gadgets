@@ -7,8 +7,8 @@
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of TRCC sponsors information."
 		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
-		width="700"
-		height="500"
+		width="800"
+		height="660"
 		scrolling="true">
 	</ModulePrefs>
 
@@ -66,17 +66,31 @@
 
 			<script type="text/javascript">
 			
-				function roll_over (aURL)
+				//------------------------------------------------------[___rollOver]-
+				// Rollover action for the sponsor list item
+				//
+				// @param aSponsor 	IN The GGTRCC_SponsorO object
+				//
+				//	@return		The HTML
+				//--------------------------------------------------------------------
+				function ___rollOver (aImageURL, aURL)
 				{
-				  document['but1'].src = aURL;
+				  document['but1'].src = aImageURL;
 				}
 				
-				function makeSponsorListItem (aSponsor)
+				//-------------------------------------------[___makeSponsorListItem]-
+				// Create the HTML for a single sponsor item
+				//
+				// @param aSponsor 	IN The GGTRCC_SponsorO object
+				//
+				//	@return		The HTML
+				//--------------------------------------------------------------------
+				function ___makeSponsorListItem (aSponsor)
 				{
 					var lRet="";
 					
 					lRet += "<li>\n";
-					lRet += "  <a href= '#' onmouseover=\"roll_over ('" + gGGGadget_Root + "TRCC/images/sponsors/" + aSponsor.image() + "')\">" + aSponsor.name() + "</a>\n";
+					lRet += "  <a href= '#' onmouseover=\"___rollOver ('" + aSponsor.imageURL() + "', '" + aSponsor.URL() + "')\">" + aSponsor.name() + "</a>\n";
 					lRet += "</li>\n";
 					
 					return (lRet);
@@ -119,18 +133,23 @@
 					
 					for (var i=0 ; i<lSponsors.length ; ++i)
 					{
-						lHTML += makeSponsorListItem (lSponsors[i]); 
+						lHTML += ___makeSponsorListItem (lSponsors[i]); 
 					}
 
 					lHTML += "</ul>\n";
 					lHTML += "</div>\n";
 					
-					lHTML += "<IMG SRC=\"http://tbn0.google.com/images?q=tbn:sAe57NwQdluioM:http://www.hp-lexicon.org/images/tr/fred-george2-tr.jpg\" WIDTH=\"560\" HEIGHT=\"800\" NAME=\"but1\" BORDER=\"1\">";
+					lHTML += "<IMG SRC=\"" + lSponsors[0].imageURL() + "\" WIDTH=\"454\" NAME=\"but1\" BORDER=\"1\">";
 					
 					//
 					// Display HTML string in <div>
 					//
 					_gel('content_div').innerHTML = lHTML;
+
+					//
+					// Stick the first sponsor's image in to begin with
+					//
+					___rollOver (lSponsors[0].imageURL(), lSponsors[0].URL());
 				}
 					
 				//----------------------------------------------------------[display]-
