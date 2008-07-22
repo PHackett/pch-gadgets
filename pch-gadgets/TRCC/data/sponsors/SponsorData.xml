@@ -12,9 +12,141 @@
 	</Sponsor>	
 
 	<Sponsor>
-		<Name>This is the 3rd name</Name>
-		<Image>john.jpg</Image>
-		<URL>http://www.bbc.co.uk</URL>
+		<Name>Bulldog</Name>
+		<Image>Bulldog.png</Image>
+		<URL>http://www.bulldogtwyford.com</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Century Framing</Name>
+		<Image>CenturyFraming.png</Image>
+		<URL>http://www.centurygalleries.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Chissock Woodcraft</Name>
+		<Image>ChissockWoodcraft.png</Image>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Cleaning Logistics</Name>
+		<Image>CleaningLogistics.png</Image>
+		<URL>http://www.cleaninglogistics.com</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>The Duke of Wellington</Name>
+		<Image>DukeOfWellington.png</Image>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Frostings</Name>
+		<Image>Frostings.png</Image>
+		<URL>http://www.frostings.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Haweli</Name>
+		<Image>Haweli.png</Image>
+		<URL>http://www.hawelitwyford.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>The Hermitage</Name>
+		<Image>Hermitage.png</Image>
+		<URL>http://www.twyfordbnb.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Hunters Property Services</Name>
+		<Image>Hunters.png</Image>
+		<URL>http://www.huntersproperty.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Millfield Osceola</Name>
+		<Image>MillfieldOsceola.png</Image>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Oasis Dental Care</Name>
+		<Image>Oasis.png</Image>
+		<URL>http://www.oasisdentalcare.com</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Paul Marshall Property</Name>
+		<Image>PaulMarshallProperty.png</Image>
+		<URL>http://www.paulmarshallproperty.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Physiocare</Name>
+		<Image>PhysioCare.png</Image>
+		<URL>http://www.physiocare.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Richards Gray</Name>
+		<Image>RichardsGray.png</Image>
+		<URL>http://www.richardsgray.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>The Royal Oak</Name>
+		<Image>RoyalOak.png</Image>
+		<URL>http://www.burattas.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Terri Jones Art</Name>
+		<Image>TerriJones.png</Image>
+		<URL>http://www.terrijonesart.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Thames Valley Travel</Name>
+		<Image>ThamesValleyTravel.png</Image>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Twyford Barber Shop</Name>
+		<Image>TwyfordBarberShop.png</Image>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Twyford Carpets</Name>
+		<Image>TwyfordCarpets.png</Image>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Twyford Interiors</Name>
+		<Image>TwyfordInteriors.png</Image>
+		<URL>http://www.twyford.interiors.co.uk</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Twyford Lighting</Name>
+		<Image>TwyfordLighting.png</Image>
+		<URL>http://twylight.co.uk/</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Twyford Mowers</Name>
+		<Image>TwyfordMowerServices.png</Image>
+		<URL>http://twyfordmowers.co.uk/</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Wentworth Estate Agents</Name>
+		<Image>Wentworth.png</Image>
+		<URL>http://www.wentworthestateagents.com/</URL>
+	</Sponsor>	
+
+	<Sponsor>
+		<Name>Wentworth Estate Agents</Name>
+		<Image>Wentworth.png</Image>
+		<URL>http://www.wentworthestateagents.com/</URL>
 	</Sponsor>	
 
 </Sponsors>
