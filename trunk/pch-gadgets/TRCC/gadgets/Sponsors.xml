@@ -89,17 +89,25 @@
 					//
 					if (aURL.length != 0)
 					{
-						lHTML += "<p align='center'><a href='" + aURL + "'>" + aURL + "</a></p>";
+						lHTML += "<p align='center'><a href='" + aURL + "' target='_blank'>" + aURL + "</a></p>";
 					}
 					else
 					{
 						lHTML += "<p align='center'>&nbsp;</p>";
 					}
 					
+					if (aURL.length != 0)
+					{
+						lHTML += "<a href='" + aURL + "' target='_blank'>";
+					}
+					
 					lHTML += "<IMG style=\"float:left\" SRC=\"" + aImageURL + "\" WIDTH=\"454\" BORDER=\"1\">";
 					
-				  	// document['but1'].src = aImageURL;
-				  
+					if (aURL.length != 0)
+					{
+						lHTML += "</a>";
+					}
+									  
 				  	//
 					// Display HTML string in <div>
 					//
@@ -174,7 +182,6 @@
 					//
 					// Image in the middle
 					//
-					// lHTML += "<IMG style=\"float:left\" SRC=\"" + lSponsors[0].imageURL() + "\" WIDTH=\"454\" NAME=\"but1\" BORDER=\"1\">";
 					lHTML += "<div style='float:left' id='sponsor_image_div'></div>";
 
 					lHTML += "<div style=\"float:left\" id='navcontainer' style='float:left'>\n";
@@ -188,6 +195,18 @@
 					lHTML += "</ul>\n";
 					lHTML += "</div>\n";
 					
+					//
+					// Preload the images
+					//
+					var lImages=[];
+					
+					for (var i=0 ; i<lSponsors.length ; ++i)
+					{
+						var lImg=document.createElement("img");
+						
+						lImg.src = lSponsors[i].image();
+						lImages.push(lImg);
+					}
 					
 					//
 					// Display HTML string in <div>
