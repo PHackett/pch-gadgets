@@ -99,8 +99,9 @@
   <Date>Sun, 27 Jul 2008 20:00:00 UTC</Date>
   <Opposition>Wargrave</Opposition>
   <Time>2:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+ <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 3 Aug 2008 20:00:00 UTC</Date>
