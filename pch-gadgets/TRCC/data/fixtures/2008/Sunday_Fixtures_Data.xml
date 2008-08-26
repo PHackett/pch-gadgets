@@ -132,20 +132,20 @@
   <Opposition>Clytha Arms</Opposition>
   <Time>2:30</Time>
   <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 <Fixture>
   <Date>Sun, 24 Aug 2008 20:00:00 UTC</Date>
   <Opposition>Monmouth</Opposition>
   <Time>1:30</Time>
   <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 <Fixture>
   <Date>Mon, 25 Aug 2008 20:00:00 UTC</Date>
   <Opposition>TBA</Opposition>
   <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 <Fixture>
   <Date>Sun, 31 Aug 2008 20:00:00 UTC</Date>
