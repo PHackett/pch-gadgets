@@ -153,7 +153,8 @@
   <Opposition>Shinfield 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 </YearsFixtures>
 
