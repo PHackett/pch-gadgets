@@ -140,6 +140,7 @@
   <Time>1:30</Time>
   <Venue>Tour</Venue>
   <Result>Lose</Result>
+ <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Mon, 25 Aug 2008 20:00:00 UTC</Date>
@@ -166,7 +167,8 @@
   <Opposition>Lower Earley</Opposition>
   <Time>1:00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Draw</Result>
+ <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 21 Sep 2008 20:00:00 UTC</Date>
