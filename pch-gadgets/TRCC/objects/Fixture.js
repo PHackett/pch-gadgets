@@ -115,7 +115,9 @@ function GGTRCC_FixtureO (aFixtureXML)
 		this.mOppo = lXMLElement[0].firstChild.nodeValue;
 	}
 	
-	if (1 == (lXMLElement = aFixtureXML.getElementsByTagName ("Time")).length)
+	if ((1 == (lXMLElement = aFixtureXML.getElementsByTagName ("Time")).length) &&
+		(null != lXMLElement[0]) && 
+		(null != lXMLElement[0].firstChild))
 	{
 		this.mTime = lXMLElement[0].firstChild.nodeValue;
 	}
