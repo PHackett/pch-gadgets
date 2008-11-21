@@ -78,16 +78,16 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 	
 	if (aExists)
 	{
-		var lBaseURL=gGGGadget_PlusNetRoot + "Fixtures/FixturesByYear.html";
+		var lBaseURL=GGGadget_getHostingRoot();
 
 		if (GGGadget_hostedOnSites())
 		{
-			lBaseURL = gGGGadget_SitesRoot + "FixturesForYear";
+			lBaseURL += "FixturesForYear";
 		}
-		else if (GGGadget_hostedAtHome())
+		else
 		{
-			lBaseURL = gGGGadget_HomeRoot + "Fixtures/FixturesByYear.html";
-		}	
+			lBaseURL += "Fixtures/FixturesByYear.html";
+		}
 
 		var lURL=lBaseURL + "?year=" + this.mYear + "&team=" + aTeamLabel;
 		

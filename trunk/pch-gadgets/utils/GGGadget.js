@@ -2,9 +2,12 @@
 // Some statics for my Google gadgets
 //
 var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
+
 var gGGGadget_SitesRoot="http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
 var gGGGadget_HomeRoot="http://trcc.paulhackett.com/";
 var gGGGadget_PlusNetRoot="http://www.paulhackett.plus.com/websites/trcc/";
+var gGGGadget_GoogleSVNRoot="http://twyfordweb.googlecode.com/svn/trunk/";
+
 var gGGGadget_LoadingHTML="<div class=\"loading\">Loading...</div>";
 
 
@@ -116,8 +119,20 @@ function GGGadget_hostedAtHome ()
 }
 
 
-//------------------------------------[GGGadget_hostedAtHome]-
-// Is the gadget being hosted on on my home computer? 
+//-------------------------------[GGGadget_hostedAtGoogleSVN]-
+// Is the gadget being hosted on Google under SVN?
+//
+//	@return true if so, else false 
+//
+//------------------------------------------------------------
+function GGGadget_hostedAtGoogleSVN ()
+{
+	return (GGGadget_hostedOn (gGGGadget_GoogleSVNRoot));
+}
+
+
+//---------------------------------[GGGadget_hostedAtPlusNet]-
+// Is the gadget being hosted at PlusNet (obsolete).
 //
 //	@return true if so, else false 
 //
@@ -125,4 +140,32 @@ function GGGadget_hostedAtHome ()
 function GGGadget_hostedAtPlusNet ()
 {
 	return (GGGadget_hostedOn (gGGGadget_PlusNetRoot));
+}
+
+
+//----------------------------------[GGGadget_getHostingRoot]-
+// Get the root - Where the current gadget is being 'hosted',
+// i.e. where in what page is the gadget embeded? 
+//
+//	@return The host root
+//
+//------------------------------------------------------------
+function GGGadget_getHostingRoot ()
+{
+	var lRet = gGGGadget_GoogleSVNRoot;
+	
+	if (GGGadget_hostedOnSites())
+	{
+		lRet = gGGGadget_SitesRoot;
+	}
+	else if (GGGadget_hostedAtHome())
+	{
+		lRet = gGGGadget_HomeRoot;
+	}
+	else if (GGGadget_hostedAtPlusNet())
+	{
+		lRet = gGGGadget_PlusNetRoot;
+	}
+	
+	return (lRet);
 }
