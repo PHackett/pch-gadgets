@@ -346,17 +346,16 @@ function GGTRCC_FixtureO___TeamHTML()
 //------------------------------------------------------------
 function GGTRCC_FixtureO___URL()
 {
-	var lBaseURL=gGGGadget_PlusNetRoot + "Fixtures/GenericFixture.html?";
+	var lBaseURL=GGGadget_getHostingRoot();
 
 	if (GGGadget_hostedOnSites())
 	{
-		lBaseURL = gGGGadget_SitesRoot + "FixturesForYear?";
+		lBaseURL += "FixturesForYear?";
 	}
-	else if (GGGadget_hostedAtHome())
+	else 
 	{
-		lBaseURL = gGGGadget_HomeRoot + "Fixtures/GenericFixture.html?";
+		lBaseURL += "Fixtures/GenericFixture.html?";
 	}	
-
 
 	var lURL=lBaseURL;
 	
