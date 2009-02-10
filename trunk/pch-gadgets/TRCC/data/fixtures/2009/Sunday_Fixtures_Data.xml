@@ -43,16 +43,8 @@
 
   <Fixture>
     <Date>Sun, 31 May 2009 12:00:00 UTC</Date>
-    <Opposition>Crowthorne (not confirmed)</Opposition>
+    <Opposition>Crowthorne</Opposition>
     <Time>2:00</Time>
-    <Venue>Away</Venue>
-    <Result>NotPlayed</Result>
-  </Fixture>
-
-  <Fixture>
-    <Date>Wed, 3 Jun 2009 12:00:00 UTC</Date>
-    <Opposition>Farley Hill</Opposition>
-    <Time>18:00</Time>
     <Venue>Away</Venue>
     <Result>NotPlayed</Result>
   </Fixture>
@@ -67,17 +59,9 @@
 
   <Fixture>
     <Date>Sun, 14 Jun 2009 12:00:00 UTC</Date>
-    <Opposition>Wokingham 2nds</Opposition>
+    <Opposition>Wokingham</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
-  </Fixture>
-
-  <Fixture>
-    <Date>Wed, 17 Jun 2009 12:00:00 UTC</Date>
-    <Opposition>Farley Hill</Opposition>
-    <Time>18:00</Time>
-    <Venue>Away</Venue>
     <Result>NotPlayed</Result>
   </Fixture>
 
@@ -122,14 +106,6 @@
   </Fixture>
 
   <Fixture>
-    <Date>Wed, 22 Jul 2009 12:00:00 UTC</Date>
-    <Opposition>Lower Earley</Opposition>
-    <Time>18:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
-  </Fixture>
-
-  <Fixture>
     <Date>Sun, 26 Jul 2009 12:00:00 UTC</Date>
     <Opposition>Wargrave</Opposition>
     <Time>2:00</Time>
@@ -138,26 +114,10 @@
   </Fixture>
 
   <Fixture>
-    <Date>Wed, 29 Jul 2009 12:00:00 UTC</Date>
-    <Opposition>Farley Hill</Opposition>
-    <Time>18:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
-  </Fixture>
-
-  <Fixture>
     <Date>Sun, 2 Aug 2009 12:00:00 UTC</Date>
     <Opposition>Theale and Tilehurst</Opposition>
     <Time>2:00</Time>
     <Venue>Away</Venue>
-    <Result>NotPlayed</Result>
-  </Fixture>
-
-  <Fixture>
-    <Date>Wed, 5 Aug 	 2009 12:00:00 UTC</Date>
-    <Opposition>stephen.walkland(?)</Opposition>
-    <Time>18:00</Time>
-    <Venue>Home</Venue>
     <Result>NotPlayed</Result>
   </Fixture>
 
@@ -179,7 +139,7 @@
 
   <Fixture>
     <Date>Sun, 23 Aug 2009 12:00:00 UTC</Date>
-    <Opposition>Falkland 3rds</Opposition>
+    <Opposition>Falkland</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
     <Result>NotPlayed</Result>
