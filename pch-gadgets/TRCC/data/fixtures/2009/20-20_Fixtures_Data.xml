@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Mar 24 19:51:45 UTC 2008 -->
+<YearsFixtures>
+  <Fixture>
+    <Date>Wed, 3 Jun 2009 12:00:00 UTC</Date>
+    <Opposition>Farley Hill</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 17 Jun 2009 12:00:00 UTC</Date>
+    <Opposition>Farley Hill</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 22 Jul 2009 12:00:00 UTC</Date>
+    <Opposition>Lower Earley</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 29 Jul 2009 12:00:00 UTC</Date>
+    <Opposition>Farley Hill</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 5 Aug 	 2009 12:00:00 UTC</Date>
+    <Opposition>stephen.walkland(?)</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+</YearsFixtures>
+
