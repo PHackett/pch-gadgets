@@ -12,22 +12,29 @@ function GGTRCC_TeamYearO (aYearXML)
 	//
 	// Members
 	//
-	this.mYear = "";
+	this.mYear     = "";
 	this.mSaturday = false;
-	this.mSunday = false;
-	this.mYouth = false;
+	this.mSunday   = false;
+	this.mYouth    = false;
+	this.m2020     = false;
 
 	//
 	// Methods
 	//
 	this.year 			= GGTRCC_TeamYearO___year;
+	
 	this.haveSaturday 	= GGTRCC_TeamYearO___haveSaturday;
 	this.haveSunday 	= GGTRCC_TeamYearO___haveSunday;
 	this.haveYouth	 	= GGTRCC_TeamYearO___haveYouth;
+	this.have2020	 	= GGTRCC_TeamYearO___have2020;
+	
 	this.saturdayHTML 	= GGTRCC_TeamYearO___saturdayHTML;
 	this.sundayHTML 	= GGTRCC_TeamYearO___sundayHTML;
 	this.youthHTML 		= GGTRCC_TeamYearO___youthHTML;
+	this.x2020HTML 		= GGTRCC_TeamYearO___2020HTML;
+	
 	this.teamHTML 		= GGTRCC_TeamYearO___teamHTML;
+	
 	this.getTeams 		= GGTRCC_TeamYearO___getTeams;
 
 	//
@@ -53,6 +60,10 @@ function GGTRCC_TeamYearO (aYearXML)
 			{
 				this.mYouth = true;
 			}
+			else if (lTeams.item(j).firstChild.nodeValue == "20-20")
+			{
+				this.m2020 = true;
+			}
 		}
 	}
 }
@@ -61,6 +72,7 @@ function GGTRCC_TeamYearO___year ()			{ return (this.mYear);		}
 function GGTRCC_TeamYearO___haveSaturday()	{ return (this.mSaturday);	}
 function GGTRCC_TeamYearO___haveSunday()	{ return (this.mSunday);	}
 function GGTRCC_TeamYearO___haveYouth()		{ return (this.mYouth);		}
+function GGTRCC_TeamYearO___have2020()		{ return (this.m2020);		}
 
 
 //------------------------------------------[GGTRCC_teamHTML]-
@@ -100,6 +112,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 function GGTRCC_TeamYearO___saturdayHTML()	{ return (this.teamHTML (this.haveSaturday(), "Saturday"));	}
 function GGTRCC_TeamYearO___sundayHTML()	{ return (this.teamHTML (this.haveSunday(), "Sunday"));		}
 function GGTRCC_TeamYearO___youthHTML()		{ return (this.teamHTML (this.haveYouth(), "Youth"));		}
+function GGTRCC_TeamYearO___2020HTML()		{ return (this.teamHTML (this.have2020(), "20-20"));		}
 
 
 //------------------------------[GGTRCC_TeamYearO___getTeams]-
@@ -125,6 +138,11 @@ function GGTRCC_TeamYearO___getTeams()
 	if (this.haveYouth())
 	{
 		lTeams.push("Youth");
+	}
+	
+	if (this.have2020())
+	{
+		lTeams.push("20-20");
 	}
 	
 	return (lTeams);
@@ -229,8 +247,9 @@ function GGTRCC_TeamYearsToHTML (aTeamTearsA)
 		lHTML += ">" + aTeamTearsA[i].year() + "</td>";
 		
 		lHTML += "<td>" + aTeamTearsA[i].saturdayHTML() + "<td>"; 
-		lHTML += "<td>" + aTeamTearsA[i].sundayHTML() + "<td>"; 
-		lHTML += "<td>" + aTeamTearsA[i].youthHTML() + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].sundayHTML()   + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].youthHTML()    + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].x2020HTML()    + "<td>"; 
 
 		lHTML += "</tr>";
 	}
