@@ -6,7 +6,8 @@
     <Opposition>Stonor</Opposition>
     <Time>2:00</Time>
     <Venue>Away</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Draw</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -14,7 +15,8 @@
     <Opposition>Odney</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Draw</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
