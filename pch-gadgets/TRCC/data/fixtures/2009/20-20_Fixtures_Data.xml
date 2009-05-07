@@ -18,6 +18,14 @@
   </Fixture>
 
   <Fixture>
+    <Date>Thu, 11 Jun 2009 12:00:00 UTC</Date>
+    <Opposition>Waltham</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
     <Date>Wed, 17 Jun 2009 12:00:00 UTC</Date>
     <Opposition>Farley Hill</Opposition>
     <Time>18:00</Time>
