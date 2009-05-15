@@ -46,6 +46,7 @@
 
 				var gTeam="";
 				var gYear="";
+				var gDebug="";
 				
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
@@ -70,7 +71,9 @@
 					//
 					// Render as HTML
 					//
-					var lHTML=GGTRCC_FixturesToHTML (lFixtures);
+					var lHTML=gDebug;
+			
+					lHTML += GGTRCC_FixturesToHTML (lFixtures);
 					
 					//
 					// Display HTML string in <div>
@@ -85,16 +88,35 @@
 				function processSettings ()
 				{
 					var lPrefs=new _IG_Prefs();
+					var lDummy="Dummy";
 			
 					//
 					// First the year - Any userPrefs?
 					//
-					gYear = TRCCUtils_ProcessPreferences ("year", lPrefs, "2008");
-					
-					//
-					// Now the team ...
-					//
-					gTeam = TRCCUtils_ProcessPreferences ("team", lPrefs, "Sunday");
+					gYear = TRCCUtils_ProcessPreferences ("year", lPrefs, lDummy);
+			
+					if ((lDummy == gYear) && GGGadget_hostedOnSites())
+					{
+						//
+						// Were on Google Sites, and want to determine which data we
+						// data to display from the URL
+						//
+						gYear = "2007";
+						gTeam = "Sunday";			
+						gDebug = "<b>" + GGGadget_getHostURL() + "</b><br>";
+					}
+					else 
+					{
+						if (lDummy == gYear)
+						{
+							gYear = "2008";
+						}
+			
+						//
+						// Now the team ...
+						//
+						gTeam = TRCCUtils_ProcessPreferences ("team", lPrefs, "Sunday");
+					}
 					
 					//
 					// Lastly - Save away the "link target"
