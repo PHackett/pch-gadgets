@@ -561,3 +561,60 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD)
 	
 	return (lHTML);
 }
+
+
+//----------------------------------[GGTRCC_YearFromSitesURL]-
+// Get the year from the currect Google Sites URL.
+// 
+// The sort of URL we expect is -
+// 
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday
+//
+//	@return	The year as a string
+//
+//------------------------------------------------------------
+function GGTRCC_YearFromSitesURL ()
+{
+	return (GGTRCC_ItemFromSitesURL (2));
+}
+
+
+//----------------------------------[GGTRCC_TeamFromSitesURL]-
+// Get the DOW from the currect Google Sites URL.
+// 
+// The sort of URL we expect is -
+// 
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday
+//
+//	@return	The DOW as a string
+//
+//------------------------------------------------------------
+function GGTRCC_TeamFromSitesURL ()
+{
+	return (GGTRCC_ItemFromSitesURL (1));
+}
+
+
+//----------------------------------[GGTRCC_ItemFromSitesURL]-
+// Get an item from the currect Google Sites URL.
+// 
+// The sort of URL we expect is -
+// 
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday
+//
+//	@return	The item as a string
+//
+//------------------------------------------------------------
+function GGTRCC_ItemFromSitesURL (aItem)
+{
+	var lRet="";
+	var lURL=GGGadget_getHostURL();
+	var lA=lURL.split ("/");
+	
+	if (lA.length > aItem)
+	{
+		lRet = lA[lA.length - aItem];
+	}	
+	
+	return (lRet);
+}
