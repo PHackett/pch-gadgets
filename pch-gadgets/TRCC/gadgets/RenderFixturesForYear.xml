@@ -101,8 +101,8 @@
 						// Were on Google Sites, and want to determine which data we
 						// data to display from the URL
 						//
-						gYear = "2007";
-						gTeam = "Sunday";			
+						gYear = GGTRCC_YearFromSitesURL();
+						gTeam = GGTRCC_TeamFromSitesURL();			
 						gDebug = "<b>" + GGGadget_getHostURL() + "</b><br>";
 					}
 					else 
