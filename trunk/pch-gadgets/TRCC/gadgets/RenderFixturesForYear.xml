@@ -103,7 +103,7 @@
 						//
 						gYear = GGTRCC_YearFromSitesURL();
 						gTeam = GGTRCC_TeamFromSitesURL();			
-						gDebug = "<h1>" + GGTRCC_TeamFromSitesURL() + " fixtures for the year " + GGTRCC_YearFromSitesURL() + "</h1><br><br>";
+						gDebug = "<h1>" + GGTRCC_TeamFromSitesURL() + " fixtures for the year " + GGTRCC_YearFromSitesURL() + "</h1><br>";
 					}
 					else 
 					{
