@@ -96,7 +96,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 		{
 			lURL += "fixtures/All-Fixtures";
 			lURL += "/" + this.mYear;
-			lURL += "/" + this.aTeamLabel;
+			lURL += "/" + aTeamLabel;
 		}
 		else
 		{
