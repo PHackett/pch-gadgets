@@ -33,7 +33,7 @@
     <Opposition>Wooburn Narkovians</Opposition>
     <Time>2:00</Time>
     <Venue>Away</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Rain</Result>
   </Fixture>
 
   <Fixture>
@@ -41,7 +41,7 @@
     <Opposition>Big Hammer</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
   </Fixture>
 
   <Fixture>
@@ -49,7 +49,8 @@
     <Opposition>Crowthorne</Opposition>
     <Time>2:00</Time>
     <Venue>Away</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>

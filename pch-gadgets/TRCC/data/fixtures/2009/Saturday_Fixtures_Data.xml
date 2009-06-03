@@ -15,7 +15,8 @@
   <Opposition>Goring 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -23,15 +24,17 @@
   <Opposition>Sandhurst 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 23 May 2009 20:00:00 UTC</Date>
-  <Opposition>G and L 2</Opposition>
+  <Opposition>Grouse and Label 2</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -39,7 +42,8 @@
   <Opposition>W Reading 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
