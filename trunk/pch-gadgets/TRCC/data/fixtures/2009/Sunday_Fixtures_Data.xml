@@ -42,6 +42,7 @@
     <Time>2:00</Time>
     <Venue>Home</Venue>
     <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -58,7 +59,8 @@
     <Opposition>Greys Green</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Abandonned</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
