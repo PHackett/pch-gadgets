@@ -68,7 +68,8 @@
     <Opposition>Wokingham</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Win</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
