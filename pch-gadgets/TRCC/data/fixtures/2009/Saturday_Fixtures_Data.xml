@@ -48,18 +48,19 @@
 
 <Fixture>
   <Date>Sat, 6 Jun 2009 20:00:00 UTC</Date>
-  <Opposition>Knowl Hill 1</Opposition>
+  <Opposition>Knowl Hill</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 13 Jun 2009 20:00:00 UTC</Date>
-  <Opposition>S and U 3</Opposition>
+  <Opposition>Sulhampstead 3</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -67,7 +68,8 @@
   <Opposition>Purley 3</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
