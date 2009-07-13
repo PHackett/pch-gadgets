@@ -86,7 +86,8 @@
     <Opposition>Warfield</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -94,7 +95,8 @@
     <Opposition>Harpsden</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -102,7 +104,8 @@
     <Opposition>Woodcote</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
