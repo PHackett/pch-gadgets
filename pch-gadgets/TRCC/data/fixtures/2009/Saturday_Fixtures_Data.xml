@@ -111,10 +111,11 @@
 
 <Fixture>
   <Date>Sat, 25 Jul 2009 20:00:00 UTC</Date>
-  <Opposition>G and L 2</Opposition>
+  <Opposition>Grouse and Label 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
