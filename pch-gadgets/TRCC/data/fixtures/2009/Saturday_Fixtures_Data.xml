@@ -120,10 +120,11 @@
 
 <Fixture>
   <Date>Sat, 1 Aug 2009 20:00:00 UTC</Date>
-  <Opposition>W Reading 2</Opposition>
+  <Opposition>West Reading 2</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
