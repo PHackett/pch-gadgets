@@ -149,7 +149,8 @@
     <Opposition>Eversley</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -157,15 +158,26 @@
     <Opposition>Falkland</Opposition>
     <Time>2:00</Time>
     <Venue>Home</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Draw</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
     <Date>Sun, 30 Aug 2009 12:00:00 UTC</Date>
-    <Opposition>Tour!</Opposition>
+    <Opposition>Twyford House</Opposition>
     <Time>2:00</Time>
     <Venue>Tour</Venue>
-    <Result>NotPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Mon, 31 Aug 2009 12:00:00 UTC</Date>
+    <Opposition>Old Bristolians</Opposition>
+    <Time>2:00</Time>
+    <Venue>Tour</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
