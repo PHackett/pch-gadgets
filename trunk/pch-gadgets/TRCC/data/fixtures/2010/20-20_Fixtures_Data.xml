@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Hand written on Mon Mar 24 19:51:45 UTC 2008 -->
+<YearsFixtures>
+  <Fixture>
+    <Date>Wed, 26 May 2010 12:00:00 UTC</Date>
+    <Opposition>Farley Hill</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 9 Jun 2010 12:00:00 UTC</Date>
+    <Opposition>RMC CC</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 16 Jun 2010 12:00:00 UTC</Date>
+    <Opposition>Farley Hill</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 23 Jun 2010 12:00:00 UTC</Date>
+    <Opposition>Farley Hill</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 21 Jul 2010 12:00:00 UTC</Date>
+    <Opposition>Lower Earley</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 4 Aug  2010 12:00:00 UTC</Date>
+    <Opposition>RMC CC</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+</YearsFixtures>
+
