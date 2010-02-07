@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<YearsFixtures>
+  <Fixture>
+    <Date>Sun, 9 May 2010 12:00:00 GMT</Date>
+    <Opposition>Wargrave</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 16 May 2010 12:00:00 GMT</Date>
+    <Opposition>Woodley (to be played at Twyford)</Opposition>
+    <Time>9:30</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 23 May 2010 12:00:00 GMT</Date>
+    <Opposition>Hurst</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 6 Jun 2010 12:00:00 GMT</Date>
+    <Opposition>WSL</Opposition>
+    <Time>9:30</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 13 Jun 2010 12:00:00 GMT</Date>
+    <Opposition>Hurley</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Tue, 22 Jun 2010 12:00:00 GMT</Date>
+    <Opposition>Reading</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 27 Jun 2010 12:00:00 GMT</Date>
+    <Opposition>Kidmore End</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+  
+</YearsFixtures>
