@@ -165,7 +165,8 @@
 					}
 					else
 					{
-						_IG_FetchXmlContent(GGTRCC_GetMatchDataXMLURLFromLocation(), renderData);
+						gXMLSrc = GGTRCC_GetMatchDataXMLURLFromLocation();
+						_IG_FetchXmlContent(gXMLSrc, renderData);
 					}
 				}
 	
