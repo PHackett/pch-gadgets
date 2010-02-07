@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:36 UTC+0100 2008 -->
+<CricketMatch oppo="Shinfield" date="Sat Jul 28 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       Twyford travelled to Shinfield hoping to avenge an early season defeat. 
+      <p>
+       Shinfield
+      batted first,and got off to a steady start. Proving difficult to score runs on an outfield that
+      hadn't been cut for a while due to the summer rain. Shinfield approached 50 without loss. After a
+      double bowling change, Steve Greenand Spence Nichols came on to change the game - ( wickets and a
+      run out restricted Shinfield to 95. Demoralised, Shinfield lost a man who packed his bag and went
+      home, not happy with his teammates calling and being easily run out. 
+      <p>
+       Having to
+      start their innings before tea, Twyford lost the early wicket of Roger Seymour for 1. In came Ken
+      who proceeded to knock off the runs with withGerwyn at a steady rate of 1 every 3 overs! By tea
+      Gerwyn had almost 8 runs off the 10 overs, runs being difficult to come by. Gerwyn was unfortunately
+      out after failing to score from 10 overs after tea. Ken in probably his best innings of the season,
+      and Luke Fuller then knocked the runs off for an easy victory. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Shinfield">
+    <Batsman name="T Fitz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Dear">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="T Gaylor">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Razaq">
+      <HowOut how="Caught Gerwyn Leigh"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Gorringe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Javed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Bond">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="L Heaton-Wright">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Nicol">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Akram">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="1" score="58"/>
+    <FallOfWicket batsman="4" score="69"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="6" score="73"/>
+    <FallOfWicket batsman="7" score="82"/>
+    <FallOfWicket batsman="3" score="85"/>
+    <FallOfWicket batsman="8" score="92"/>
+    <FallOfWicket batsman="9" score="95"/>
+    <FallOfWicket batsman="11" score="95"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="12" maidens="3" runs="36" wickets="5"/>
+    <BowlerSummary name="Steve Green" overs="7" maidens="2" runs="16" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught"/>
+      <Bowler name="A Razaq"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="D Roberts"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Roberts"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Javed"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Karl Cochrane"/>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="1" score="40"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <BowlerSummary name="D Roberts" overs="10" maidens="2" runs="28" wickets="2"/>
+    <BowlerSummary name="A Razaq" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="A Javed" overs="14" maidens="8" runs="10" wickets="1"/>
+    <BowlerSummary name="L Heaton-Wright" overs="9" maidens="4" runs="20" wickets="0"/>
+    <BowlerSummary name="K Akram" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="K Nicol" overs="0.3" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
