@@ -604,7 +604,7 @@ function GGTRCC_GetMatchDataXMLURLFromLocation ()
 	var lXMLURL=gGGGadget_Root + "TRCC/data/fixtures/";
 	
 	lXMLURL += GGTRCC_YearFromSitesURL() + "/";
-	lXMLURL += GGTRCC_MatchInfoFromSitesURL();
+	lXMLURL += GGTRCC_MatchInfoFromSitesURL() + ".xml";
 	
 	return (lXMLURL);
 }
