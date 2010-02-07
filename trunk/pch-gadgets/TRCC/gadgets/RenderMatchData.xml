@@ -77,9 +77,15 @@
 				//--------------------------------------------------------------------
 				function renderData (response)
 				{
-					if (response == null || typeof(response) != "object" || response.firstChild == null)
+					if (response == null)
 					{
-						_gel("content_div").innerHTML = "<i>Invalid match reult data from '" + gXMLSrc + "'</i>";
+						_gel("content_div").innerHTML = "<i>No match data available at '" + gXMLSrc + "'</i>";
+						return;
+					}
+			
+					if (typeof(response) != "object" || response.firstChild == null)
+					{
+						_gel("content_div").innerHTML = "<i>Invalid match result data from '" + gXMLSrc + "'</i>";
 						return;
 					}
 			
