@@ -359,9 +359,9 @@ function GGTRCC_FixtureO___URL()
 		lURL += "All-Fixtures/";
 		lURL += this.mDate.getFullYear() + "/";
 		lURL += this.getTeam() + "/";
-		lURL += GGUtils_MonthStringFromDate (this.mDate) + "_" +
+		lURL += GGUtils_MonthStringFromDate (this.mDate).toLowerCase() + "_" +
 				GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "_" +
-				this.mOppo;
+				this.mOppo.toLowerCase();
 	}
 	else 
 	{
