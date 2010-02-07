@@ -164,7 +164,21 @@
 					}
 					else
 					{
-						_IG_FetchXmlContent(GGTRCC_GetMatchDataXMLURLFromLocation(), renderData);
+						// _IG_FetchXmlContent(GGTRCC_GetMatchDataXMLURLFromLocation(), renderData);
+			
+								//
+								// Now render for display
+								//
+								var lHTML = "<div class='GadgetBody'>\n";
+								
+								lHTML += "Looking for XML file '" + GGTRCC_GetMatchDataXMLURLFromLocation() + "'";
+								lHTML += "\n</div>\n";
+								
+								//
+								// Display HTML string in <div>
+								//
+								_gel('content_div').innerHTML = lHTML;
+
 					}
 				}
 	
