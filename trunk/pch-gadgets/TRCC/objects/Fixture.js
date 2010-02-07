@@ -413,8 +413,11 @@ function GGTRCC_LoadFixturesFromXML (aXML, aTeam, aOut)
 	
 	for (var i=0 ; i<lFixtures.length ; ++i)
 	{
-		aOut[aOut.length] = new GGTRCC_FixtureO (lFixtures[i]);
-		aOut[aOut.length].setTeam(aTeam);
+		var lFix = new GGTRCC_FixtureO (lFixtures[i]);
+		
+		lFix.setTeam(aTeam);
+		
+		aOut[aOut.length] = lFix;
 	}
 	
 	return (lFixtures.length);
