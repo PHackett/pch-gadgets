@@ -94,7 +94,7 @@ function GGTRCC_TeamYearO___teamHTML (aExists, aTeamLabel)
 
 		if (GGGadget_hostedOnSites())
 		{
-			lURL += "fixtures/All-Fixtures";
+			lURL += "All-Fixtures";
 			lURL += "/" + this.mYear;
 			lURL += "/" + aTeamLabel;
 		}
