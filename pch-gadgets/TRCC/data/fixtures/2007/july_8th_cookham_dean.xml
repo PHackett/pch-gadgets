@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Cookham Dean" date="Sun Jul 8 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       After the incessant rain of the past few weeks, it was with great relief that Twyford were able to
+      welcome Cookham Dean to the Stanlake Meadow ground for a game of Cricket! 
+      <p>
+       The home
+      side batted first, and although the openers looked reasonably confident, the runs were not coming.
+      When the first wicket fell in the 18<sup>th</sup> over only 43 were on the board, due to a
+      combination of a sluggish wicket, good bowling, and a less than attacking effort from the batsmen!
+      Things improved a little for the home side with N Downes, Edney &amp; J Fort speeding thing up, but
+      the final score of 131 for 7 off 41 overs looked anaemic. Pick of the bowling for Cookham was
+      Farnborough, who coming in at the tail of the innings managed to take 3 wickets for only 7 runs. 
+  
+         <p>
+       But the visitors were not to find the result clear cut! Accurate bowling, especially
+      from Hackett who bowled for almost the entire innings, saw wickets tumble early. A recovery was
+      spearheaded by Evans, but then a second flurry of wickets saw Cookham in trouble on 83-7. As the 20
+      overs counted down, it was nip-and-tuck, but a fighting innings by Gay Jnr. who ended on an
+      undefeated 37 eventually saw the visitors to victory with only 8 balls remaining in the match. 
+    
+       <p>
+       Exciting stuff - Tense to the end and played with great spirit by both sides. 
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Evans"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="A Braa"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Evans"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Farnborough"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Hazell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Farnborough"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Farnborough"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="4" score="127"/>
+    <FallOfWicket batsman="7" score="129"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <BowlerSummary name="B Shaylor" overs="7" maidens="4" runs="10" wickets="0"/>
+    <BowlerSummary name="D Roberts" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="A Braa" overs="7" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="D Hazell" overs="8" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="A Evans" overs="6" maidens="3" runs="6" wickets="2"/>
+    <BowlerSummary name="J Gay Snr" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="I Leslie" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="P Farnborough" overs="2" maidens="0" runs="7" wickets="3"/>
+  </Innings>
+  <Innings batting="Cookham Dean">
+    <Batsman name="J Richardson">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Farnborough">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Gay Snr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="C Kellaway">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Braa">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Roberts">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Gay Jnr">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="I Leslie">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="B Shaylor"/>
+    <Batsman name="D Hazell"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <FallOfWicket batsman="6" score="83"/>
+    <BowlerSummary name="Paul Hackett" overs="15.4" maidens="3" runs="51" wickets="5"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="2" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
