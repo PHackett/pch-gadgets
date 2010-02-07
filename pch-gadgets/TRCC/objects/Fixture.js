@@ -346,23 +346,31 @@ function GGTRCC_FixtureO___TeamHTML()
 //------------------------------------------------------------
 function GGTRCC_FixtureO___URL()
 {
-	var lBaseURL=GGGadget_getHostingRoot();
+	var lURL=GGGadget_getHostingRoot();
 
 	if (GGGadget_hostedOnSites())
 	{
-		lBaseURL += "FixturesForYear?";
+		// lBaseURL += "FixturesForYear?";
+	
+		//
+		// When rendered on the google-stites website, the match data
+		// pages are at the following location
+		// 	
+		lURL += "fixtures/All-Fixtures/";
+		lURL += this.mDate.getFullYear() + "/";
+		lURL += this.getTeam() + "/";
+		lURL += GGUtils_MonthStringFromDate (this.mDate) + "-" +
+				this.mDate.getDate() + "-" +
+				this.mOppo;
 	}
 	else 
 	{
-		lBaseURL += "Fixtures/GenericFixture.html?";
+		lURL += "Fixtures/GenericFixture.html?";
+		lURL += "month=" + GGUtils_MonthStringFromDate (this.mDate) + "&";
+		lURL += "date="  + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "&";
+		lURL += "year="  + this.mDate.getFullYear() + "&";
+		lURL += "oppo="  + this.mOppo;
 	}	
-
-	var lURL=lBaseURL;
-	
-	lURL += "month=" + GGUtils_MonthStringFromDate (this.mDate) + "&";
-	lURL += "date="  + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "&";
-	lURL += "year="  + this.mDate.getFullYear() + "&";
-	lURL += "oppo="  + this.mOppo;
 	
 	return (GGUtils_spacesToUnderscores(lURL));
 }
