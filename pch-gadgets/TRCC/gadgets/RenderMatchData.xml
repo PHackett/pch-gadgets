@@ -146,14 +146,26 @@
 				function display()
 				{
 					//
-					// Read the user prefs & hosting URL
+					// If we are tryin to render this page on the Google Sites website, then
+					// we shall assume this is a real, pukka, 'show me' request.
+					// Otherwise - We may be running a test from elsewhere (Such as GGE)
 					//
-					processSettings();
-					
-					//
-					// Get the XML - Callback to function renderData when complete
-					//
-					GGTRCC_CricketMatch_LoadXML (gYear, gOppo, gDate, gMonth, _IG_FetchXmlContent, renderData);
+					if (!GGGadget_hostedOnSites())
+					{
+						//
+						// Read the user prefs & hosting URL
+						//
+						processSettings();
+						
+						//
+						// Get the XML - Callback to function renderData when complete
+						//
+						GGTRCC_CricketMatch_LoadXML (gYear, gOppo, gDate, gMonth, _IG_FetchXmlContent, renderData);
+					}
+					else
+					{
+						_IG_FetchXmlContent(GGTRCC_GetMatchDataXMLURLFromLocation(), renderData);
+					}
 				}
 	
 				_IG_RegisterOnloadHandler(display);
