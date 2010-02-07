@@ -171,7 +171,8 @@
 								//
 								var lHTML = "<div class='GadgetBody'>\n";
 								
-								lHTML += "Looking for XML file '" + GGTRCC_GetMatchDataXMLURLFromLocation() + "'";
+								// lHTML += "Looking for XML file '" + GGTRCC_GetMatchDataXMLURLFromLocation() + "'";
+								lHTML += "I AM Looking for XML file '" + "'";
 								lHTML += "\n</div>\n";
 								
 								//
