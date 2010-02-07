@@ -648,7 +648,7 @@ function GGTRCC_ItemFromSitesURL (aItem)
 		
 		if (lA.length > aItem)
 		{
-			lRet = lA[lA.length - aItem];
+			lRet = lA[aItem];
 		}
 	}
 	
