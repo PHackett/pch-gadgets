@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 9 17:05:35 UTC+0100 2008 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 12 00:00:00 UTC+0100 2007">
+  <MatchReport>
+    <![CDATA[
+       Sunshine once more, and the travelling side Reading Lawyers made their yearly pilgrimage to
+      Twyford. 
+      <p>
+       Winning the toss, Twyford elected to bat. At first, all seemed to be
+      going well as the runs mounted at a reasonable clip and batsmen remained at the crease. But with
+      65-1 on the board things took a darker turn for the home side. A mere five runs later, 4 more
+      batsmen had been dismissed, mostly by J Frost who had an excellent afternoon for Reading. A further
+      collapse around 90 was briefly halted by Edney, but when the innings ended the score of 124-9 looked
+      woefully short on what was by no means a bowlers wicket. 
+      <p>
+       In contrast, Reading
+      Lawyers were very comfortable at the crease. This was especially true of the opener Symonds who
+      played a superbly straight bat to any threatening deliveries, only to punish the inevitable loose
+      ones. Roundly agreed by Twyford to be probably the best bating performance they had faced all year.
+      For Twyford, only Captain N Downes showed penetration, taking 4-62. The end, a long time coming it
+      seemed to the fielders, was always predictable. 
+      <p>
+       A beautiful day on which to end
+      the week, but when 4 of the Twyford batsmen achieve the grand total of zero runs it means more time
+      in the nets is needed! 
+    ]]>
+  </MatchReport>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Frost"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Burroughs"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Frost"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="James"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Frost"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Frost"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="J Frost"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="James"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James(Jnr) Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="6" score="70"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="8" score="89"/>
+    <FallOfWicket batsman="7" score="102"/>
+    <FallOfWicket batsman="9" score="107"/>
+    <BowlerSummary name="Seymour" overs="7" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Frost" overs="8" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Burroughs" overs="9" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="J Frost" overs="14" maidens="6" runs="25" wickets="5"/>
+    <BowlerSummary name="James" overs="5" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="R Frost" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Woodsmith" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="Symonds">
+      <HowOut how="Not Out"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Woodsmith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Loosemore">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Frost">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Burroughs">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Burroughs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S James">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="5" score="101"/>
+    <FallOfWicket batsman="6" score="113"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="0" runs="62" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="1" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
