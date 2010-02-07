@@ -356,7 +356,7 @@ function GGTRCC_FixtureO___URL()
 		// When rendered on the google-stites website, the match data
 		// pages are at the following location
 		// 	
-		lURL += "fixtures/All-Fixtures/";
+		lURL += "All-Fixtures/";
 		lURL += this.mDate.getFullYear() + "/";
 		lURL += this.getTeam() + "/";
 		lURL += GGUtils_MonthStringFromDate (this.mDate) + "_" +
@@ -615,7 +615,7 @@ function GGTRCC_GetMatchDataXMLURLFromLocation ()
 // 
 // The sort of URL we expect is -
 // 
-// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/All-Fixtures/2007/Sunday
 //
 //	@return	The year as a string
 //
@@ -631,7 +631,7 @@ function GGTRCC_YearFromSitesURL ()
 // 
 // The sort of URL we expect is -
 // 
-// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/All-Fixtures/2007/Sunday
 //
 //	@return	The DOW as a string
 //
@@ -647,7 +647,7 @@ function GGTRCC_TeamFromSitesURL ()
 // 
 // The sort of URL we expect is -
 // 
-// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday/may-5-sonning
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/All-Fixtures/2007/Sunday/may-5-sonning
 //
 //	@return	The DOW as a string
 //
@@ -663,7 +663,7 @@ function GGTRCC_MatchInfoFromSitesURL ()
 // 
 // The sort of URL we expect is -
 // 
-// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/All-Fixtures/2007/Sunday
 //
 //	@return	The item as a string
 //
@@ -672,7 +672,7 @@ function GGTRCC_ItemFromSitesURL (aItem)
 {
 	var lRet="";
 	var lURL=GGGadget_getHostURL();
-	var lDataRoot=gGGGadget_SitesRoot + "fixtures/All-Fixtures/"
+	var lDataRoot=gGGGadget_SitesRoot + "All-Fixtures/"
 	
 	if (lURL.length > lDataRoot.length)
 	{
