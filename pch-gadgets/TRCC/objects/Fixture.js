@@ -514,19 +514,27 @@ function GGTRCC_LoadTeamYearFixtureXML (aPrefsObj, aXMLloaderFunc, aCallback)
 //------------------------------------[GGTRCC_FixturesToHTML]-
 // Render the given fixtures in HMTL
 //
-//	@param	aFixtures	IN	The fixtures. 
-//	@param	aUSD		IN	"Use Short Date" 
+//	@param	aFixtures		IN	The fixtures. 
+//	@param	aUSD			IN	"Use Short Date" 
+//	@param	aDisplayTeam	IN	Sould we render the team name?
 //
 //	@return	The HTML
 //
 //------------------------------------------------------------
-function GGTRCC_FixturesToHTML (aFixtures, aUSD)
+function GGTRCC_FixturesToHTML (aFixtures, aUSD, aDisplayTeam)
 {
 	var lUSD=false;
 	
 	if (null != aUSD)
 	{
 		lUSD = aUSD;
+	}
+	
+	var lDisplayTeam=true;
+	
+	if (null != aDisplayTeam)
+	{
+		lDisplayTeam = aDisplayTeam;
 	}
 	
 	//
@@ -555,7 +563,16 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD)
 		// Add in the data
 		//
 		lHTML += "<td>" + aFixtures[i].VenueHTML()    + "</td>";
-		lHTML += "<td>" + aFixtures[i].TeamHTML()     + "</td>";
+		
+		if (lDisplayTeam)
+		{
+			lHTML += "<td>" + aFixtures[i].TeamHTML()     + "</td>";
+		}
+		else
+		{
+			lHTML += "<td>&nbsp;</td>";			
+		}
+		
 		lHTML += "<td>" + aFixtures[i].DateHTML(lUSD) + "</td>";
 		lHTML += "<td>" + aFixtures[i].OppoHTML()     + "</td>";
 		lHTML += "<td>" + aFixtures[i].TimeHTML()     + "</td>";
