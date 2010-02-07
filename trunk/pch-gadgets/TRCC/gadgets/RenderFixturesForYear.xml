@@ -73,7 +73,7 @@
 					//
 					var lHTML=gDebug;
 			
-					lHTML += GGTRCC_FixturesToHTML (lFixtures);
+					lHTML += GGTRCC_FixturesToHTML (lFixtures, false, false);
 					
 					//
 					// Display HTML string in <div>
