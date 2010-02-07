@@ -605,7 +605,7 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD, aDisplayTeam)
 //------------------------------------------------------------
 function GGTRCC_YearFromSitesURL ()
 {
-	return (GGTRCC_ItemFromSitesURL (2));
+	return (GGTRCC_ItemFromSitesURL (0));
 }
 
 
@@ -639,12 +639,18 @@ function GGTRCC_ItemFromSitesURL (aItem)
 {
 	var lRet="";
 	var lURL=GGGadget_getHostURL();
-	var lA=lURL.split ("/");
+	var lDataRoot=gGGGadget_SitesRoot + "fixtures/All-Fixtures/"
 	
-	if (lA.length > aItem)
+	if (lURL.length > lDataRoot.length)
 	{
-		lRet = lA[lA.length - aItem];
-	}	
+		var lPath=lURL.substr(lDataRoot.length);
+		var lA=lPath.split ("/");
+		
+		if (lA.length > aItem)
+		{
+			lRet = lA[lA.length - aItem];
+		}
+	}
 	
 	return (lRet);
 }
