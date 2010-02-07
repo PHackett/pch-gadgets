@@ -593,6 +593,23 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD, aDisplayTeam)
 }
 
 
+//--------------------[GGTRCC_GetMatchDataXMLURLFromLocation]-
+// Return the URL for match report XML file from the URL of the
+// page that the gadget is embedded in. 
+//
+// @return The URL of the XML match data
+//------------------------------------------------------------
+function GGTRCC_GetMatchDataXMLURLFromLocation ()
+{
+	var lXMLURL=gGGGadget_Root + "TRCC/data/fixtures/";
+	
+	lXMLURL += GGTRCC_YearFromSitesURL() + "/";
+	lXMLURL += GGTRCC_MatchInfoFromSitesURL();
+	
+	return (lXMLURL);
+}
+
+
 //----------------------------------[GGTRCC_YearFromSitesURL]-
 // Get the year from the currect Google Sites URL.
 // 
@@ -622,6 +639,22 @@ function GGTRCC_YearFromSitesURL ()
 function GGTRCC_TeamFromSitesURL ()
 {
 	return (GGTRCC_ItemFromSitesURL (1));
+}
+
+
+//-----------------------------[GGTRCC_MatchInfoFromSitesURL]-
+// Get the DOW from the currect Google Sites URL.
+// 
+// The sort of URL we expect is -
+// 
+// http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/fixtures/All-Fixtures/2007/Sunday/may-5-sonning
+//
+//	@return	The DOW as a string
+//
+//------------------------------------------------------------
+function GGTRCC_MatchInfoFromSitesURL ()
+{
+	return (GGTRCC_ItemFromSitesURL (2));
 }
 
 
