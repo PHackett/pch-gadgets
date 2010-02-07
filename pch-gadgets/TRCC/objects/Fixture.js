@@ -389,13 +389,14 @@ function GGTRCC_FixtureO___isLose() { return (gFixtureResLose == this.mResult); 
 // end of the given array.
 //
 //	@param	aXML		IN	The XML to examine
+//	@param	aTeam		IN	What team is this information for? ("Saturday", "Sunday", etc)
 //	@param	aOut		IN	The array of Fixture objects we are 
 // 							 to append to
 //
 // @return 	Number of fixtures read in, or -1 upon error 
 //
 //------------------------------------------------------------
-function GGTRCC_LoadFixturesFromXML (aXML, aOut)
+function GGTRCC_LoadFixturesFromXML (aXML, aTeam, aOut)
 {
 	//
 	// Validate the XML
@@ -413,6 +414,7 @@ function GGTRCC_LoadFixturesFromXML (aXML, aOut)
 	for (var i=0 ; i<lFixtures.length ; ++i)
 	{
 		aOut[aOut.length] = new GGTRCC_FixtureO (lFixtures[i]);
+		aOut[aOut.length].setTeam(aTeam);
 	}
 	
 	return (lFixtures.length);

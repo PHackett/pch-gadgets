@@ -58,14 +58,14 @@ function sFn___XMLLoaderCB (aXML)
 		//
 		var lFixtures=new Array();
 	
-		GGTRCC_LoadFixturesFromXML (aXML, lFixtures);
+		GGTRCC_LoadFixturesFromXML (aXML, s___CurrentTeam, lFixtures);
 		
 		//
 		// Add it to what we already have
 		//
 		for (var i=0 ; i<lFixtures.length ; ++i)
 		{
-			lFixtures[i].setTeam (s___CurrentTeam);
+			lFixtures[i].setTeam (s___CurrentTeam);	// Unnecessary? Now done in GGTRCC_LoadFixturesFromXML
 			
 			s___LoadedFixturesA.push (lFixtures[i]);
 		}
