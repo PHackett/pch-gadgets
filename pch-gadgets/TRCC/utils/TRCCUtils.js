@@ -44,3 +44,25 @@ function TRCCUtils_ProcessPreferences (aPrefName, aPrefObj, aFallbackValue)
 	
 	return (lRet);
 }
+
+//------------------------------[GGTRCC_CricketMatch_LoadXML]-
+// Load the XML for the specific match
+//
+//	@param	aYear			IN	The year we want data for
+//	@param	aOppo			IN	The opposition
+//	@param	aDate			IN	Date (e.g. "12th").
+//	@param	aMonth			IN	The month.
+// 	@param	aXMLloaderFunc	IN	The funiton to load the XML. 
+//	@param	aCallback		IN	The callback to invoike once 
+// 								 the XML is loaded. 
+//
+//------------------------------------------------------------
+function TRCCUtils_GetFixtureXML (aYear, aOppo, aDate, aMonth)
+{
+	//
+	// Construct the XML URL for the required data
+	//
+	var lXMLURL = gGGGadget_Root + "TRCC/data/fixtures/" + aYear + "/" + aMonth + "_" + aDate + "_" + GGUtils_spacesToUnderscores(aOppo) + ".xml";
+
+	return (lXMLURL);
+}
