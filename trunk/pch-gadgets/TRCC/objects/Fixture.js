@@ -100,6 +100,8 @@ function GGTRCC_FixtureO (aFixtureXML)
 	this.isWin = GGTRCC_FixtureO___isWin;
 	this.isLose = GGTRCC_FixtureO___isLose;
 	
+	this.getMatchXMLURL = GGTRCC_FixtureO___getMatchXMLURL;
+	
 	//
 	// Process the items of the XML
 	//
@@ -686,4 +688,9 @@ function GGTRCC_ItemFromSitesURL (aItem)
 	}
 	
 	return (lRet);
+}
+
+function GGTRCC_FixtureO___getMatchXMLURL ()
+{
+	return (TRCCUtils_GetFixtureXML (this.mDate.getFullYear(), this.mOppo, this.mDate.getDate(), GGUtils_MonthStringFromDate (this.mDate)));
 }
