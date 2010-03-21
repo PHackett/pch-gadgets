@@ -38,10 +38,25 @@ function GGGadget_MultiLoader ()
 	//
 	// Private methods
 	//
-	this.P___performDownload	= GGGadget_MultiLoader___performDownload;
 	this.P___performFinalCB		= GGGadget_MultiLoader___performFinalCB;
 	this.P___loaderCB			= GGGadget_MultiLoader___loaderCB;
 	
+}
+
+
+function GGGadget_MultiLoader___add (aURL)
+{
+	var lItem = new GGGadget_UrlXml();
+	
+	lItem.mURL = aURL;
+	
+	this.mItems[this.mItems.length] = lItem;
+}
+
+
+function GGGadget_MultiLoader___setCB (aCB)
+{
+	this.mFinalCB = aCB;
 }
 
 
@@ -68,22 +83,6 @@ function GGGadget_MultiLoader___loaderCB (aXML)
 	this.mCurrentDownloadIndex++;
 	this.invoke();
 
-}
-
-
-function GGGadget_MultiLoader___add (aURL)
-{
-	var lItem = new GGGadget_UrlXml();
-	
-	lItem.mURL = aURL;
-	
-	this.mItems[this.mItems.length] = lItem;
-}
-
-
-function GGGadget_MultiLoader___setCB (aCB)
-{
-	this.mFinalCB = aCB;
 }
 
 
