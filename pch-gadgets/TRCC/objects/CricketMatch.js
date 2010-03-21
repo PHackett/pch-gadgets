@@ -136,7 +136,7 @@ function GGTRCC_CricketMatch_LoadXML (aYear, aOppo, aDate, aMonth, aXMLloaderFun
 	//
 	// Construct the XML URL for the required data
 	//
-	var lXMLURL = gGGGadget_Root + "TRCC/data/fixtures/" + aYear + "/" + aMonth + "_" + aDate + "_" + GGUtils_spacesToUnderscores(aOppo) + ".xml";
+	var lXMLURL = TRCCUtils_GetFixtureXML (aYear, aOppo, aDate, aMonth);
 
 	//
 	// Fetch the data
