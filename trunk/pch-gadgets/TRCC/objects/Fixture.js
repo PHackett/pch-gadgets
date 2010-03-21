@@ -692,5 +692,5 @@ function GGTRCC_ItemFromSitesURL (aItem)
 
 function GGTRCC_FixtureO___getMatchXMLURL ()
 {
-	return (TRCCUtils_GetFixtureXML (this.mDate.getFullYear(), this.mOppo, this.mDate.getDate(), GGUtils_MonthStringFromDate (this.mDate)));
+	return (TRCCUtils_GetFixtureXML (this.mDate.getFullYear(), this.mOppo, GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false), GGUtils_MonthStringFromDate (this.mDate)));
 }
