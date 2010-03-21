@@ -1,3 +1,14 @@
+//
+// Globals
+//
+var gGGGadget_MultiLoader_Object=null;
+
+function GGGadget_MultiLoader_GlobalCB(aXML)
+{
+	gGGGadget_MultiLoader_Object.P___loaderCB(aXML);
+}
+
+
 //------------------------------------------[GGGadget_UrlXml]-
 // Holds a URL and (when downloaded) the XML loaded from that URL 
 //
@@ -27,7 +38,7 @@ function GGGadget_MultiLoader ()
 	// Methods
 	//
 	this.add 			= GGGadget_MultiLoader___add;
-	this.setDB 			= GGGadget_MultiLoader___setCB;
+	this.setCB 			= GGGadget_MultiLoader___setCB;
 	this.invoke			= GGGadget_MultiLoader___invoke;
 
 	//
@@ -40,7 +51,11 @@ function GGGadget_MultiLoader ()
 	//
 	this.P___performFinalCB		= GGGadget_MultiLoader___performFinalCB;
 	this.P___loaderCB			= GGGadget_MultiLoader___loaderCB;
-	
+
+	//
+	// Point to using the global
+	//
+	gGGGadget_MultiLoader_Object = this;
 }
 
 
@@ -103,7 +118,7 @@ function GGGadget_MultiLoader___invoke()
 		//
 		// Get the XML
 		//
-		_IG_FetchXmlContent (this.mItems[this.mCurrentDownloadIndex], this.P___loaderCB);	
+		_IG_FetchXmlContent (this.mItems[this.mCurrentDownloadIndex], GGGadget_MultiLoader_GlobalCB);	
 	}
 }
 
