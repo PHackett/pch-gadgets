@@ -19,29 +19,32 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	this.mBowler	= null;
 	this.mRuns		= null;
 
-	//
-	// Get the always present batsman attributes
-	//
-	this.mName	= aBatsmanXML.getAttribute ("name");
-
-	//
-	// Now the other stuff
-	//
-	var lData = aBatsmanXML.childNodes;
-
-	for (var i=0 ; i<lData.length ; ++i)
+	if (null != aBatsmanXML)
 	{
-		if ("HowOut" == lData.item(i).nodeName)
+		//
+		// Get the always present batsman attributes
+		//
+		this.mName	= aBatsmanXML.getAttribute ("name");
+	
+		//
+		// Now the other stuff
+		//
+		var lData = aBatsmanXML.childNodes;
+	
+		for (var i=0 ; i<lData.length ; ++i)
 		{
-			this.mHowOut = lData.item(i).getAttribute ("how");
-		}
-		else if ("Bowler" == lData.item(i).nodeName)
-		{
-			this.mBowler = lData.item(i).getAttribute ("name");
-		}
-		else if ("Runs" == lData.item(i).nodeName)
-		{
-			this.mRuns = lData.item(i).getAttribute ("value");
+			if ("HowOut" == lData.item(i).nodeName)
+			{
+				this.mHowOut = lData.item(i).getAttribute ("how");
+			}
+			else if ("Bowler" == lData.item(i).nodeName)
+			{
+				this.mBowler = lData.item(i).getAttribute ("name");
+			}
+			else if ("Runs" == lData.item(i).nodeName)
+			{
+				this.mRuns = lData.item(i).getAttribute ("value");
+			}
 		}
 	}
 

@@ -9,7 +9,8 @@ function GGTRCC_BatsmanStatsCollectionO ()
 	//
 	// Methods
 	//
-	this.add = GGTRCC_BatsmanStatsCollectionO___find;
+	this.add 	= GGTRCC_BatsmanStatsCollectionO___find;
+	this.update	= GGTRCC_BatsmanStatsCollectionO___update;
 }
 
 
@@ -39,5 +40,17 @@ function GGTRCC_BatsmanStatsCollectionO___find (aName)
 	}
 
 	return (lRet);
-	
+}
+
+
+//------------------------------------------------------------
+// Update the batsman stats for the given user
+//
+// @param	aName			IN	Name of the batsman
+// @param	aBatsInningData	IN	Information from a single innings
+//
+//------------------------------------------------------------
+function GGTRCC_BatsmanStatsCollectionO___update (aName, aBatsInningData)
+{
+	this.find (aName).increment(aBatsInningData);
 }
