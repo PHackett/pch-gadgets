@@ -9,7 +9,8 @@ function GGTRCC_BowlerStatsCollectionO ()
 	//
 	// Methods
 	//
-	this.add = GGTRCC_BowlerStatsCollectionO___find;
+	this.add	= GGTRCC_BowlerStatsCollectionO___find;
+	this.update = GGTRCC_BowlerStatsCollectionO___update;
 }
 
 
@@ -39,5 +40,17 @@ function GGTRCC_BowlerStatsCollectionO___find (aName)
 	}
 
 	return (lRet);
-	
+}
+
+
+//------------------------------------------------------------
+// Update the bowler stats for the given user
+//
+// @param	aName			IN	Name of the batsman
+// @param	aBowlInningData	IN	Information from a single innings
+//
+//------------------------------------------------------------
+function GGTRCC_BowlerStatsCollectionO___update (aName, aBowlInningData)
+{
+	this.find (aName).increment(aBowlInningData);
 }
