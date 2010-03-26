@@ -118,7 +118,7 @@ function GGGadget_MultiLoader___invoke()
 		//
 		// Get the XML
 		//
-		_IG_FetchXmlContent (this.mItems[this.mCurrentDownloadIndex], GGGadget_MultiLoader_GlobalCB);	
+		_IG_FetchXmlContent (this.mItems[this.mCurrentDownloadIndex].mURL, GGGadget_MultiLoader_GlobalCB);	
 	}
 }
 
