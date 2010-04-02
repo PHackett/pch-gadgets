@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Mar 24 19:42:08 UTC 2008 -->
+<YearsFixtures>
+<Fixture>
+  <Date>Sat, 1 May 2010 20:00:00 UTC</Date>
+  <Opposition>Sandhurst</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 8 May 2010 20:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 15 May 2010 20:00:00 UTC</Date>
+  <Opposition>Catcliffe Way</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 22 May 2010 20:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 29 May 2010 20:00:00 UTC</Date>
+  <Opposition>Purley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+</YearsFixtures>
+
