@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Mon Mar 24 19:42:08 UTC 2008 -->
 <YearsFixtures>
+	
+<Fixture>
+  <Date>Sun, 18 Apr 2010 20:00:00 UTC</Date>
+  <Opposition>Big Hammer preseason</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
 <Fixture>
   <Date>Sat, 1 May 2010 20:00:00 UTC</Date>
   <Opposition>Sandhurst</Opposition>
