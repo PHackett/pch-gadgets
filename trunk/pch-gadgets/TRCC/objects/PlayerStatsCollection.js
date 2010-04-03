@@ -13,6 +13,8 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCBatting	= GGTRCC_PlayerStatsCollectionO___updateTRCCBatting
 	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling
 	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
+	
+	this.batsmanHTML		= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
 }
 
 
@@ -57,4 +59,23 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCBowling (aBowlerSummaryO)
 function GGTRCC_PlayerStatsCollectionO___updateTRCCCatches(aBowlerSummaryO)
 {
 	
+}
+
+function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
+{
+	var lHTML="";
+	
+	//
+	// Sort the play stats for by batting prowess
+	//
+	
+	//
+	// Getnerate the HTML
+	//
+	for (var i=0 ; i<this.mCollection.length ; i++)
+	{
+		lHTML += this.mCollection[i].batsmanHTML();
+	}
+	
+	return (lHTML);
 }

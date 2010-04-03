@@ -7,7 +7,7 @@
 function GGTRCC_BatsmanSummaryO (aName)
 {
 	this.mGames			= 0;
-	this.Innings		= 0;
+	this.mInnings		= 0;
 	this.mNotOuts		= 0;
 	this.mRuns			= 0;
 	this.mMaxRuns		= 0;
@@ -16,7 +16,9 @@ function GGTRCC_BatsmanSummaryO (aName)
 	this.mDucks			= 0;
 	this.mMaxRunsNotOut = false;
 	
-	this.update = GGTRCC_BatsmanSummaryO___update;
+	this.update		= GGTRCC_BatsmanSummaryO___update;
+	this.getAverage = GGTRCC_BatsmanSummaryO___getAverage;
+	this.HTML		= GGTRCC_BatsmanSummaryO___HTML;
 }
 
 
@@ -36,9 +38,9 @@ function GGTRCC_BatsmanSummaryO___update (aBatsmanInningsO)
 		var lRuns	= 0 + aBatsmanInningsO.mRuns;
 		var lNotOut	= false;
 		
-		this.Innings++;
+		this.mInnings++;
 		
-		if (aBatsmanInningsO.mHowOut == "Not Out")
+		if (aBatsmanInningsO.mHowOut == "Not Out") /// @todo Retuered hurt also counts as not out
 		{
 			this.mNotOuts++;
 			lNotOut = true;
@@ -65,4 +67,66 @@ function GGTRCC_BatsmanSummaryO___update (aBatsmanInningsO)
 			this.m50s++;
 		}
 	}
+}
+
+
+function GGTRCC_BatsmanSummaryO___HTML()
+{
+	var lHTML="";
+	
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mGames		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mInnings		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mNotOut		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mRuns		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.m100s		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.m50s			+ "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mDucks		+ "</td>";
+	
+	lHTML += "	<td align='right'>";
+	
+	if (this.mMaxRunsNotOut)
+	{
+		lHTML += this.mMaxRuns + "*";
+	}
+	else
+	{
+		lHTML += this.mMaxRuns;
+	}
+
+	lHTML += "</td>";
+	lHTML += "	<td align='right'>" + this.mBatsmanSummary.getAverage(true)				+ "</td>";
+	lHTML += "	<td>&nbsp;</td>";
+	
+	return (lHTML);
+}
+
+
+function GGTRCC_BatsmanSummaryO___getAverage()
+{
+	var lOuts = this.mInnings - this.mNotOut;
+	var lRet = 0.0;
+
+	if (lOuts > 0)
+	{
+		lRet = this.mRuns / lOuts;
+
+		if (aForHTML)
+		{
+			if (lRet != 0)
+			{
+				// 2 decimal places for HTML
+//				lRet = numToString (lRet, 2); /// @todo
+			}
+			else
+			{
+				lRet = "0.00";
+			}
+		}
+	}
+	else if (aForHTML)
+	{
+		lRet = "&nbsp;";
+	}
+	
+	return (lRet);
 }
