@@ -11,7 +11,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	// before you count for the official "stats"
 	//
 	this.mBowlngOversCutoff		= 20;
-	this.mgBattingOutsCutoff	= 7;
+	this.mBattingOutsCutoff	= 7;
 	
 	//
 	// Methods
@@ -137,10 +137,10 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 		if (this.mCollection[i].mBatsmanSummary.mInnings > 0)
 		{
 			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOut;
-			var lMadeCutoff=(lOuts < this.mgBattingOutsCutoff);
+			var lMadeCutoff=(lOuts < this.mBattingOutsCutoff);
 			
-			if (((lOuts >= gBattingOutsCutoff) && !aGetAlsoBatted)	||
-				((lOuts <  gBattingOutsCutoff) && aGetAlsoBatted))
+			if (((lOuts >= this.mBattingOutsCutoff) && !aGetAlsoBatted)	||
+				((lOuts <  this.mBattingOutsCutoff) && aGetAlsoBatted))
 			{
 				lBS[lBS.length] = this.mCollection[i];
 			}
