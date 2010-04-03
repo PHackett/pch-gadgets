@@ -142,13 +142,13 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 			var lMadeCutoff=(lOuts < this.mBattingOutsCutoff);
 			
 lBS[lBS.length] = this.mCollection[i];
-/*
+
 			if (((lOuts >= this.mBattingOutsCutoff) && !aGetAlsoBatted)	||
 				((lOuts <  this.mBattingOutsCutoff) && aGetAlsoBatted))
 			{
 				lBS[lBS.length] = this.mCollection[i];
 			}
-*/
+
 		}
 	}
 
