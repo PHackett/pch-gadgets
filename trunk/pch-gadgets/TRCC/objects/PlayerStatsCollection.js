@@ -9,7 +9,10 @@ function GGTRCC_PlayerStatsCollectionO ()
 	//
 	// Methods
 	//
-	this.add	= GGTRCC_PlayerStatsCollectionO___find;
+	this.add				= GGTRCC_PlayerStatsCollectionO___find;
+	this.updateTRCCBatting	= GGTRCC_PlayerStatsCollectionO___updateTRCCBatting
+	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling
+	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
 }
 
 
@@ -39,4 +42,19 @@ function GGTRCC_PlayerStatsCollectionO___find (aName)
 	}
 
 	return (lRet);
+}
+
+function GGTRCC_PlayerStatsCollectionO___updateTRCCBatting (aBatsmanInningsO)
+{
+	this.find (aBatsmanInningsO.mName).mBatsmanSummary.update(aBatsmanInningsO);
+}
+
+function GGTRCC_PlayerStatsCollectionO___updateTRCCBowling (aBowlerSummaryO)
+{
+	
+}
+
+function GGTRCC_PlayerStatsCollectionO___updateTRCCCatches(aBowlerSummaryO)
+{
+	
 }
