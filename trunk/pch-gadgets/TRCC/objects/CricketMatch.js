@@ -69,11 +69,11 @@ function GGTRCC_CricketMatchO___getTRCCInnings()
 {
 	var lRet=null;
 	
-	if ((null != this.mInnings[0]) && (this.oppo != this.mInnings[0].mBattingTeam))
+	if ((null != this.mInnings[0]) && (this.oppo() != this.mInnings[0].mBattingTeam))
 	{
 		lRet = this.mInnings[0];
 	}
-	else if ((null != this.mInnings[1]) && (this.oppo != this.mInnings[1].mBattingTeam))
+	else if ((null != this.mInnings[1]) && (this.oppo() != this.mInnings[1].mBattingTeam))
 	{
 		lRet = this.mInnings[1];
 	}
@@ -85,11 +85,11 @@ function GGTRCC_CricketMatchO___getOppoInnings()
 {
 	var lRet=null;
 	
-	if ((null != this.mInnings[0]) && (this.oppo == this.mInnings[0].mBattingTeam))
+	if ((null != this.mInnings[0]) && (this.oppo() == this.mInnings[0].mBattingTeam))
 	{
 		lRet = this.mInnings[0];
 	}
-	else if ((null != this.mInnings[1]) && (this.oppo == this.mInnings[1].mBattingTeam))
+	else if ((null != this.mInnings[1]) && (this.oppo() == this.mInnings[1].mBattingTeam))
 	{
 		lRet = this.mInnings[1];
 	}
