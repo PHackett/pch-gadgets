@@ -88,7 +88,7 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	var lBatSum=this.getOrderedBattingStats(true);
 
 	lHTML += "<em>lBatSum=" + lBatSum + "</em>";
-return;
+return(lHTML);
 
 	lHTML += "<table border='1'>";	
 	//
