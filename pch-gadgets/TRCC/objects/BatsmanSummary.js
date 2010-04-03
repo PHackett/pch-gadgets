@@ -74,13 +74,13 @@ function GGTRCC_BatsmanSummaryO___HTML()
 {
 	var lHTML="";
 	
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mGames		+ "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mInnings		+ "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mNotOut		+ "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mRuns		+ "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.m100s		+ "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.m50s			+ "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.mDucks		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mGames		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mInnings		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mNotOut		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mRuns		+ "</td>";
+	lHTML += "	<td align='right'>" + this.m100s		+ "</td>";
+	lHTML += "	<td align='right'>" + this.m50s			+ "</td>";
+	lHTML += "	<td align='right'>" + this.mDucks		+ "</td>";
 	
 	lHTML += "	<td align='right'>";
 	
@@ -94,7 +94,7 @@ function GGTRCC_BatsmanSummaryO___HTML()
 	}
 
 	lHTML += "</td>";
-	lHTML += "	<td align='right'>" + this.mBatsmanSummary.getAverage(true)				+ "</td>";
+	lHTML += "	<td align='right'>" + this.getAverage(true)				+ "</td>";
 	lHTML += "	<td>&nbsp;</td>";
 	
 	return (lHTML);
