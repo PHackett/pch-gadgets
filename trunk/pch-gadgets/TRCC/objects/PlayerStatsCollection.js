@@ -68,14 +68,18 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	//
 	// Sort the play stats for by batting prowess
 	//
-	
+
+	lHTML += "<table>";	
 	//
 	// Getnerate the HTML
 	//
 	for (var i=0 ; i<this.mCollection.length ; i++)
 	{
+		lHTML += "<tr>";
 		lHTML += this.mCollection[i].batsmanHTML();
+		lHTML += "</tr>";
 	}
+	lHTML += "</table>";	
 	
 	return (lHTML);
 }
