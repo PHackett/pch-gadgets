@@ -103,7 +103,7 @@ function GGTRCC_BatsmanSummaryO___HTML()
 
 function GGTRCC_BatsmanSummaryO___getAverage()
 {
-	var lOuts = this.mInnings - this.mNotOut;
+	var lOuts = this.mInnings - this.mNotOuts;
 	var lRet = 0.0;
 
 	if (lOuts > 0)
