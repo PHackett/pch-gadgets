@@ -29,7 +29,7 @@ function GGTRCC_PlayerStatsCollectionO___find (aName)
 	{
 		if (this.mCollection[i].mName == aName)
 		{
-			lRet = aArray[i];
+			lRet = this.mCollection[i];
 			break;
 		}
 	}
