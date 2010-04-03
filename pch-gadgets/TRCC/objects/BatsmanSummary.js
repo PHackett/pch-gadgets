@@ -122,7 +122,7 @@ function GGTRCC_BatsmanSummaryO___getAverage()
 	}
 	else
 	{
-		lRet = "&nbsp;";
+		lRet = "&nbsp; lOuts == 0";
 	}
 	
 	return (lRet);
