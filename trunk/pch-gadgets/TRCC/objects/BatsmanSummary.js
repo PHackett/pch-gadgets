@@ -110,23 +110,18 @@ function GGTRCC_BatsmanSummaryO___getAverage()
 	{
 		lRet = this.mRuns / lOuts;
 
-		if (aForHTML)
+		if (lRet != 0)
 		{
-			if (lRet != 0)
-			{
-				// 2 decimal places for HTML
+			// 2 decimal places for HTML
 //				lRet = numToString (lRet, 2); /// @todo
-			}
-			else
-			{
-				lRet = "0.00";
-			}
+		}
+		else
+		{
+			lRet = "0.00";
 		}
 	}
-	else if (aForHTML)
-	{
-		lRet = "&nbsp;";
-	}
+
+	lRet = "&nbsp;";
 	
 	return (lRet);
 }
