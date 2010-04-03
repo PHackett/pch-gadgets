@@ -72,7 +72,7 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	//
 	this.mCollection.sort (this.batterOrderFn);
 
-	lHTML += "<table>";	
+	lHTML += "<table border='1'>";	
 	//
 	// Getnerate the HTML
 	//
@@ -90,18 +90,18 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 
 function GGTRCC_PlayerStatsCollectionO___batterOrderFn (aA, aB)
 {
-	var lRet = aA.mBatsmanSummary.getAverage() - aB.mBatsmanSummary.getAverage();
+	var lRet = aB.mBatsmanSummary.getAverage() - aA.mBatsmanSummary.getAverage();
 
 	if ((aA.mBatsmanSummary.getAverage() == 0) && (aB.mBatsmanSummary.getAverage() == 0))
 	{
 		var lAouts=aA.mBatsmanSummary.mInnings - aA.mBatsmanSummary.mNotOuts;
 		var lBouts=aB.mBatsmanSummary.mInnings - aB.mBatsmanSummary.mNotOuts;
 
-		lRet = lAouts - lBouts;
+		lRet = lBouts - lAouts;
 
 		if (lRet == 0)
 		{
-			lRet = aA.mBatsmanSummary.mRuns - aB.mBatsmanSummary.mRuns;
+			lRet = aB.mBatsmanSummary.mRuns - aA.mBatsmanSummary.mRuns;
 		}
 	}
 
