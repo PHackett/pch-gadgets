@@ -136,10 +136,10 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 
 	for (var i=0 ; i<this.mCollection.length ; i++)
 	{
-lBS[lBS.length] = this.mCollection[i];
-/*
 		if (this.mCollection[i].mBatsmanSummary.mInnings > 0)
 		{
+lBS[lBS.length] = this.mCollection[i];
+/*
 			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOut;
 			var lMadeCutoff=(lOuts < this.mBattingOutsCutoff);
 			
@@ -148,8 +148,8 @@ lBS[lBS.length] = this.mCollection[i];
 			{
 				lBS[lBS.length] = this.mCollection[i];
 			}
-		}
 */
+		}
 	}
 
 	lBS.sort (this.batterOrderFn);
