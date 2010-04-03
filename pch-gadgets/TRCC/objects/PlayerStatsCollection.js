@@ -85,10 +85,7 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	//
 	// Sort the play stats for by batting prowess
 	//
-	var lBatSum=this.getOrderedBattingStats(true);
-
-	lHTML += "<em>lBatSum=" + lBatSum + "</em>";
-return(lHTML);
+	var lBatSum=this.getOrderedBattingStats(false);
 
 	lHTML += "<table border='1'>";	
 	//
@@ -140,7 +137,7 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 		if (this.mCollection[i].mBatsmanSummary.mInnings > 0)
 		{
 			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOuts;
-return lOuts;
+
 			if (((lOuts >= this.mBattingOutsCutoff) && !aGetAlsoBatted)	||
 				((lOuts <  this.mBattingOutsCutoff) && aGetAlsoBatted))
 			{
