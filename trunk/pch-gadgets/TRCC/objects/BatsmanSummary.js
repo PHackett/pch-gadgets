@@ -96,7 +96,6 @@ function GGTRCC_BatsmanSummaryO___HTML()
 
 	lHTML += "</td>";
 	lHTML += "	<td align='right'>" + this.getHTMLAverage()				+ "</td>";
-	lHTML += "	<td>&nbsp;</td>";
 	
 	return (lHTML);
 }

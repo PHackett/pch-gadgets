@@ -21,9 +21,12 @@ function GGTRCC_PlayerStatsO___batsmanHTML()
 	var lHTML="";
 	
 	lHTML += "	<td>&nbsp;</td>";
+
 	lHTML += "	<td align='left'>"  + this.mName						+ "</td>";
 	
 	lHTML += this.mBatsmanSummary.HTML();
+	
+	lHTML += "	<td>&nbsp;</td>";
 	
 	return (lHTML);
 }
