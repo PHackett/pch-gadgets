@@ -85,7 +85,7 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	//
 	// Sort the play stats for by batting prowess
 	//
-	var lBatSum=this.getOrderedBattingStats(false);
+	var lBatSum=this.getOrderedBattingStats(true);
 
 	lHTML += "<em>lBatSum.length=" + lBatSum.length + "</em>";
 
