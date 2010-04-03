@@ -128,7 +128,7 @@ function GGTRCC_BatsmanSummaryO___getHTMLAverage()
 		if (lAvg != 0)
 		{
 			// 2 decimal places for HTML
-			lRet = numToString (lAvg, 2);
+			lRet = GGUtils_numToString (lAvg, 2);
 		}
 		else
 		{
