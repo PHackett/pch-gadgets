@@ -16,9 +16,10 @@ function GGTRCC_BatsmanSummaryO (aName)
 	this.mDucks			= 0;
 	this.mMaxRunsNotOut = false;
 	
-	this.update		= GGTRCC_BatsmanSummaryO___update;
-	this.getAverage = GGTRCC_BatsmanSummaryO___getAverage;
-	this.HTML		= GGTRCC_BatsmanSummaryO___HTML;
+	this.update			= GGTRCC_BatsmanSummaryO___update;
+	this.getAverage		= GGTRCC_BatsmanSummaryO___getAverage;
+	this.getHTMLAverage = GGTRCC_BatsmanSummaryO___getHTMLAverage;
+	this.HTML			= GGTRCC_BatsmanSummaryO___HTML;
 }
 
 
@@ -94,7 +95,7 @@ function GGTRCC_BatsmanSummaryO___HTML()
 	}
 
 	lHTML += "</td>";
-	lHTML += "	<td align='right'>" + this.getAverage()				+ "</td>";
+	lHTML += "	<td align='right'>" + this.getHTMLAverage()				+ "</td>";
 	lHTML += "	<td>&nbsp;</td>";
 	
 	return (lHTML);
@@ -109,21 +110,31 @@ function GGTRCC_BatsmanSummaryO___getAverage()
 	if (lOuts > 0)
 	{
 		lRet = this.mRuns / lOuts;
+	}
+	
+	return (lRet);
+}
 
-		if (lRet != 0)
+
+function GGTRCC_BatsmanSummaryO___getHTMLAverage()
+{
+	var lOuts = this.mInnings - this.mNotOut;
+	var lRet = "&nbsp;";
+
+	if (lOuts > 0)
+	{
+		lAvg = this.getAverage();
+		
+		if (lAvg != 0)
 		{
 			// 2 decimal places for HTML
-			lRet = GGUtils_numToString (lRet, 2); 
+			lRet = numToString (lAvg, 2);
 		}
 		else
 		{
 			lRet = "0.00";
 		}
 	}
-	else
-	{
-		lRet = "&nbsp;";
-	}
-	
+
 	return (lRet);
 }
