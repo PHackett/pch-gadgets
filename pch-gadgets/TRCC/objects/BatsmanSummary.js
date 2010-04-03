@@ -35,7 +35,7 @@ function GGTRCC_BatsmanSummaryO___update (aBatsmanInningsO)
 	}
 	else
 	{
-		var lRuns	= 0 + aBatsmanInningsO.mRuns;
+		var lRuns	= aBatsmanInningsO.mRuns - 0;
 		var lNotOut	= false;
 		
 		this.mInnings++;
@@ -76,7 +76,7 @@ function GGTRCC_BatsmanSummaryO___HTML()
 	
 	lHTML += "	<td align='right'>" + this.mGames		+ "</td>";
 	lHTML += "	<td align='right'>" + this.mInnings		+ "</td>";
-	lHTML += "	<td align='right'>" + this.mNotOut		+ "</td>";
+	lHTML += "	<td align='right'>" + this.mNotOuts		+ "</td>";
 	lHTML += "	<td align='right'>" + this.mRuns		+ "</td>";
 	lHTML += "	<td align='right'>" + this.m100s		+ "</td>";
 	lHTML += "	<td align='right'>" + this.m50s			+ "</td>";
