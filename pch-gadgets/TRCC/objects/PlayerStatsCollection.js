@@ -10,7 +10,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	// Cutoffs - How many innings/overs do you have to have 
 	// before you count for the official "stats"
 	//
-	this.mBowlngOversCutoff		= 20;
+	this.mBowlngOversCutoff	= 20;
 	this.mBattingOutsCutoff	= 7;
 	
 	//
@@ -136,6 +136,8 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 
 	for (var i=0 ; i<this.mCollection.length ; i++)
 	{
+lBS[lBS.length] = this.mCollection[i];
+/*
 		if (this.mCollection[i].mBatsmanSummary.mInnings > 0)
 		{
 			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOut;
@@ -147,6 +149,7 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 				lBS[lBS.length] = this.mCollection[i];
 			}
 		}
+*/
 	}
 
 	lBS.sort (this.batterOrderFn);
