@@ -7,6 +7,13 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.mCollection = new Array;
 	
 	//
+	// Cutoffs - How many innings/overs do you have to have 
+	// before you count for the official "stats"
+	//
+	this.mBowlngOversCutoff		= 20;
+	this.mgBattingOutsCutoff	= 7;
+	
+	//
 	// Methods
 	//
 	this.find				= GGTRCC_PlayerStatsCollectionO___find;
@@ -14,8 +21,16 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling
 	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
 	
-	this.batsmanHTML		= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
+	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
 	
+	//
+	// Creation of HTML
+	//
+	this.batsmanHTML		= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
+
+	//
+	// Ordering functions
+	// 	
 	this.batterOrderFn		= GGTRCC_PlayerStatsCollectionO___batterOrderFn;
 }
 
@@ -70,16 +85,16 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	//
 	// Sort the play stats for by batting prowess
 	//
-	this.mCollection.sort (this.batterOrderFn);
+	var lBatSum=this.getOrderedBattingStats(false);
 
 	lHTML += "<table border='1'>";	
 	//
 	// Getnerate the HTML
 	//
-	for (var i=0 ; i<this.mCollection.length ; i++)
+	for (var i=0 ; i<lBatSum.length ; i++)
 	{
 		lHTML += "<tr>";
-		lHTML += this.mCollection[i].batsmanHTML();
+		lHTML += lBatSum[i].batsmanHTML();
 		lHTML += "</tr>";
 	}
 	lHTML += "</table>";	
@@ -106,4 +121,33 @@ function GGTRCC_PlayerStatsCollectionO___batterOrderFn (aA, aB)
 	}
 
 	return (lRet);
+}
+
+
+//------------------------------------------------------------
+// Get batter stats ordered - either the true "stats", or 
+// the "also batted"
+//------------------------------------------------------------
+function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
+{
+	var lBS=new Array();
+
+	for (var i=0 ; i<this.mCollection.length ; i++)
+	{
+		if (this.mCollection[i].mBatsmanSummary.mInnings > 0)
+		{
+			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOut;
+			var lMadeCutoff=(lOuts < this.mgBattingOutsCutoff);
+			
+			if (((lOuts >= gBattingOutsCutoff) && !aGetAlsoBatted)	||
+				((lOuts <  gBattingOutsCutoff) && aGetAlsoBatted))
+			{
+				lBS[lBS.length] = this.mCollection[i];
+			}
+		}
+	}
+
+	lBS.sort (this.batterOrderFn);
+
+	return (lBS);
 }
