@@ -15,6 +15,8 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
 	
 	this.batsmanHTML		= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
+	
+	this.batterOrderFn		= GGTRCC_PlayerStatsCollectionO___batterOrderFn;
 }
 
 
@@ -68,6 +70,7 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	//
 	// Sort the play stats for by batting prowess
 	//
+	this.mCollection.sort (this.batterOrderFn);
 
 	lHTML += "<table>";	
 	//
@@ -82,4 +85,25 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	lHTML += "</table>";	
 	
 	return (lHTML);
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___batterOrderFn (aA, aB)
+{
+	var lRet = aA.mBatsmanSummary.getAverage() - aB.mBatsmanSummary.getAverage();
+
+	if ((aA.getAverage() == 0) && (aB.getAverage() == 0))
+	{
+		var lAouts=aA.mInnings - aA.mNotOuts;
+		var lBouts=aB.mInnings - aB.mNotOuts;
+
+		lRet = lAouts - lBouts;
+
+		if (lRet == 0)
+		{
+			lRet = aA.mRuns - aB.mRuns;
+		}
+	}
+
+	return (lRet);
 }
