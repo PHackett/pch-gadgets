@@ -113,7 +113,7 @@ function GGTRCC_BatsmanSummaryO___getAverage()
 		if (lRet != 0)
 		{
 			// 2 decimal places for HTML
-//				lRet = numToString (lRet, 2); /// @todo
+			lRet = GGUtils_numToString (lRet, 2); 
 		}
 		else
 		{
