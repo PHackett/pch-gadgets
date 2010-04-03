@@ -94,7 +94,7 @@ function GGTRCC_BatsmanSummaryO___HTML()
 	}
 
 	lHTML += "</td>";
-	lHTML += "	<td align='right'> average=" + this.getAverage()				+ "= </td>";
+	lHTML += "	<td align='right'>" + this.getAverage()				+ "</td>";
 	lHTML += "	<td>&nbsp;</td>";
 	
 	return (lHTML);
@@ -122,7 +122,7 @@ function GGTRCC_BatsmanSummaryO___getAverage()
 	}
 	else
 	{
-		lRet = "&nbsp; lOuts == 0";
+		lRet = "&nbsp;";
 	}
 	
 	return (lRet);
