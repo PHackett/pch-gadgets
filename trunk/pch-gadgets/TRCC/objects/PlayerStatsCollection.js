@@ -139,7 +139,7 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 	{
 		if (this.mCollection[i].mBatsmanSummary.mInnings > 0)
 		{
-			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOutsd;
+			var lOuts=this.mCollection[i].mBatsmanSummary.mInnings - this.mCollection[i].mBatsmanSummary.mNotOuts;
 return lOuts;
 			if (((lOuts >= this.mBattingOutsCutoff) && !aGetAlsoBatted)	||
 				((lOuts <  this.mBattingOutsCutoff) && aGetAlsoBatted))
