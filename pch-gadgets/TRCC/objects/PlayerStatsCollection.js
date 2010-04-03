@@ -94,14 +94,14 @@ function GGTRCC_PlayerStatsCollectionO___batterOrderFn (aA, aB)
 
 	if ((aA.mBatsmanSummary.getAverage() == 0) && (aB.mBatsmanSummary.getAverage() == 0))
 	{
-		var lAouts=aA.mInnings - aA.mNotOuts;
-		var lBouts=aB.mInnings - aB.mNotOuts;
+		var lAouts=aA.mBatsmanSummary.mInnings - aA.mBatsmanSummary.mNotOuts;
+		var lBouts=aB.mBatsmanSummary.mInnings - aB.mBatsmanSummary.mNotOuts;
 
 		lRet = lAouts - lBouts;
 
 		if (lRet == 0)
 		{
-			lRet = aA.mRuns - aB.mRuns;
+			lRet = aA.mBatsmanSummary.mRuns - aB.mBatsmanSummary.mRuns;
 		}
 	}
 
