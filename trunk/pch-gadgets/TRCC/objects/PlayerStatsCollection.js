@@ -92,7 +92,7 @@ function GGTRCC_PlayerStatsCollectionO___batterOrderFn (aA, aB)
 {
 	var lRet = aA.mBatsmanSummary.getAverage() - aB.mBatsmanSummary.getAverage();
 
-	if ((aA.getAverage() == 0) && (aB.getAverage() == 0))
+	if ((aA.mBatsmanSummary.getAverage() == 0) && (aB.mBatsmanSummary.getAverage() == 0))
 	{
 		var lAouts=aA.mInnings - aA.mNotOuts;
 		var lBouts=aB.mInnings - aB.mNotOuts;
