@@ -120,8 +120,10 @@ function GGTRCC_BatsmanSummaryO___getAverage()
 			lRet = "0.00";
 		}
 	}
-
-	lRet = "&nbsp;";
+	else
+	{
+		lRet = "&nbsp;";
+	}
 	
 	return (lRet);
 }
