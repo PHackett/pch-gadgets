@@ -9,7 +9,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	//
 	// Methods
 	//
-	this.add				= GGTRCC_PlayerStatsCollectionO___find;
+	this.find				= GGTRCC_PlayerStatsCollectionO___find;
 	this.updateTRCCBatting	= GGTRCC_PlayerStatsCollectionO___updateTRCCBatting
 	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling
 	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
