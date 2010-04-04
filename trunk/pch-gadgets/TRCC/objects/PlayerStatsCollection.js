@@ -86,18 +86,54 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
 	// Sort the play stats for by batting prowess
 	//
 	var lBatSum=this.getOrderedBattingStats(false);
+	
+	lHTML += "<span class='StatsHeading'>Batting</span>";
+	
+	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lHTML += "	<thead>";
+	lHTML += "	<tr class=\"BatsHeader\">";
+	lHTML += "		<th>&nbsp;</th>";
 
-	lHTML += "<table border='1'>";	
+	lHTML += "		<th align='left'>Name</th>";
+	lHTML += "		<th align='right'>Games</th>";
+	lHTML += "		<th align='right'>Innings</th>";
+	lHTML += "		<th align='right'>Not Out</th>";
+	lHTML += "		<th align='right'>Runs</th>";
+	lHTML += "		<th align='right'>100s</th>";
+	lHTML += "		<th align='right'>50s</th>";
+	lHTML += "		<th align='right'>0s</th>";
+	lHTML += "		<th align='right'>High</th>";
+	lHTML += "		<th align='right'>Avg.</th>";
+
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "	</tr>";
+	lHTML += "	</thead>";
+	lHTML += "	<tbody>";
+	
 	//
 	// Getnerate the HTML
 	//
 	for (var i=0 ; i<lBatSum.length ; i++)
 	{
-		lHTML += "<tr>";
+		
+		var lDefaultTRClass="FixtureAltLine";
+
+		if (i % 2)
+		{
+			lDefaultTRClass = "FixtureNotAltLine";
+		}
+
+		lHTML += "<tr class='"							+ lDefaultTRClass	+ "' " +
+				 "onmouseout=\"this.className='"		+ lDefaultTRClass	+ "'\" " + 
+				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
+		
 		lHTML += lBatSum[i].batsmanHTML();
+		
 		lHTML += "</tr>";
 	}
-	lHTML += "</table>";	
+	
+	lHTML += "	</tbody>";
+	lHTML += "</table>";
 	
 	return (lHTML);
 }
