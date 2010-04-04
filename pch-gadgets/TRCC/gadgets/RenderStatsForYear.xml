@@ -49,6 +49,7 @@
 
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerStatsCollection.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerStats.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/BatsmanSummary.js" type="text/javascript"></script>
 
 			<script type="text/javascript">
 
@@ -84,6 +85,9 @@
 					var lFailed="";
 					var lFailedCount=0;
 			
+					//
+					// Down all the game XML data
+					//
 					for (var lMatchIndex=0 ; lMatchIndex<aMatchDataArray.length ; ++lMatchIndex)
 					{
 						if (null == aMatchDataArray[lMatchIndex].mXML)
@@ -109,7 +113,8 @@
 								//
 								for (var i=0 ; i<lIN.mBatsmen.length ; ++i)
 								{
-									var lB=lIN.mBatsmen[i];
+//lH += "<br> Processing batsman " + lIN.mBatsmen[i].mName + " in team " + lIN.mBattingTeam;
+									lPSC.updateTRCCBatting (lIN.mBatsmen[i]);
 								}
 							}
 			
@@ -136,6 +141,17 @@
 							}
 						}
 					}
+			
+					lH += "<br> Discovered " + lPSC.mCollection.length + " individual players";
+					for (var j=0 ; j<lPSC.mCollection.length ; ++j)
+					{
+						// lH += "<br>" + lPSC.mCollection[j].mName;
+					}
+			
+					//
+					// Get the batting stats HTML
+					//
+					lH += lPSC.batsmanHTML();
 			
 					if (0 != lFailed.length)
 					{
