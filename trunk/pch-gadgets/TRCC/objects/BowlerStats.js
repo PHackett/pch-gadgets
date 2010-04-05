@@ -23,6 +23,9 @@ function GGTRCC_BowlerStatsO (aName)
 	this.getAverage		= GGTRCC_BowlerStatsO___getAverage;
 	this.getHTMLAverage = GGTRCC_BowlerStatsO___getHTMLAverage;
 	this.HTML			= GGTRCC_BowlerStatsO___HTML;
+	this.getRunsPerOver	= GGTRCC_BowlerStatsO___getRunsPerOver;
+	this.getStrikeRate	= GGTRCC_BowlerStatsO___getStrikeRate;
+	
 }
 
 
@@ -85,8 +88,43 @@ function GGTRCC_BowlerStatsO___getHTMLAverage()
 
 function GGTRCC_BowlerStatsO___HTML()
 {
-	var lRet="To be implemented";
+	var lRet="";
+	
+	lRet += "<td>&nbsp;</td>";
+	lRet += "	<td align='left'>"  + this.mName							+ "</td>";
+	lRet += "	<td align='right'>" + this.mGamesPlayed						+ "</td>";
+	lRet += "	<td align='right'>" + GGUtils_numToString (this.mOvers, 1)	+ "</td>";
+	lRet += "	<td align='right'>" + this.mMaidens							+ "</td>";
+	lRet += "	<td align='right'>" + this.mRuns							+ "</td>";
+	lRet += "	<td align='right'>" + this.mWickets							+ "</td>";
+	lRet += "	<td align='right'>" + this.mFivePlus						+ "</td>";
+	lRet += "	<td align='right'>" + this.getRunsPerOver()					+ "</td>";
+	lRet += "	<td align='right'>" + this.getStrikeRate()					+ "</td>";
+	lRet += "	<td align='right'>" + this.getHTMLAverage(true)				+ "</td>";
+	lRet += "<td>&nbsp;</td>";
 	
 	
 	return (lRet);
+}
+
+
+function GGTRCC_BowlerStatsO___getRunsPerOver()
+{
+	var lRPO=(this.mRuns/TRCCUtils_OversToBalls (this.mOvers)) * 6;
+	return (GGUtils_numToString (lRPO, 2));
+}
+
+
+function GGTRCC_BowlerStatsO___getStrikeRate()
+{
+	var lRet="-";
+	
+	if (this.mWickets > 0)
+	{
+		var lRPO=(TRCCUtils_OversToBalls (this.mOvers) / this.mWickets);
+		
+		lRet = GGUtils_numToString (lRPO, 2);
+	}
+	
+	return (lRet);	
 }
