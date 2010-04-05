@@ -22,7 +22,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
 	
 	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
-	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
+	this.getOrderedBowlingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
 	
 	//
 	// Creation of HTML
