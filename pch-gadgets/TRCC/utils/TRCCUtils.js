@@ -66,3 +66,40 @@ function TRCCUtils_GetFixtureXML (aYear, aOppo, aDate, aMonth)
 
 	return (lXMLURL);
 }
+
+
+function TRCCUtils_OversAdd (aOne, aTwo)
+{
+	var lOOne = Math.round (aOne - 0.5);
+	var lOTwo = Math.round (aTwo - 0.5);
+	var lBOne = (aOne - lOOne) * 10;
+	var lBTwo = (aTwo - lOTwo) * 10;
+
+	// Sanity check
+	if ((lBOne > 5) || (lBTwo > 5))
+	{
+		lOOne = lOTwo = 0;
+		lBOne = lBTwo = 0;
+	}
+
+	var lOvrs=lOOne + lOTwo;
+	var lBwls=lBOne + lBTwo;
+
+	if (lBwls > 5.5)
+	{
+		lOvrs++;
+		lBwls -= 6;
+	}
+
+	lRet = Math.round ((lOvrs * 10) + lBwls);
+
+	return (lRet / 10);
+}
+
+function TRCCUtils_OversToBalls (aOvers)
+{
+	var lW=Math.floor (aOvers);
+	var lP=(aOvers-lW) * 10;
+
+	return ((lW * 6) + lP);
+}
