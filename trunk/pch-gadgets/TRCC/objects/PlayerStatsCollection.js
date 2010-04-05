@@ -22,11 +22,13 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
 	
 	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
+	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
 	
 	//
 	// Creation of HTML
 	//
-	this.batsmanHTML		= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
+	this.batsmanHTML	= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
+	this.bowlerHTML		= GGTRCC_PlayerStatsCollectionO___bowlerHTML;
 
 	//
 	// Ordering functions
@@ -185,5 +187,81 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 
 	lBS.sort (this.batterOrderFn);
 
+	return (lBS);
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___bowlerHTML()
+{
+	var lHTML="";
+	
+	//
+	// Sort the play stats for by batting prowess
+	//
+	var lBowlSum=this.getOrderedBowlingStats(false);
+	
+	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lHTML += "	<thead>";
+	lHTML += "	<tr class=\"BatsHeader\">";
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "		<th align='left'>Name</th>";
+	lHTML += "		<th align='right'>Games</th>";
+	lHTML += "		<th align='right'>Overs</th>";
+	lHTML += "		<th align='right'>Maidens</th>";
+	lHTML += "		<th align='right'>Runs</th>";
+	lHTML += "		<th align='right'>Wickets</th>";
+	lHTML += "		<th align='right'>5+</th>";
+	lHTML += "		<th align='right'>Runs/Over</th>";
+	lHTML += "		<th align='right'>Strike Rate</th>";
+	lHTML += "		<th align='right'>Average</th>";
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "	</tr>";
+	lHTML += "	</thead>";
+	lHTML += "	<tbody>";
+
+	//
+	// Getnerate the HTML
+	//
+	for (var i=0 ; i<lBowlSum.length ; i++)
+	{
+		
+		var lDefaultTRClass="FixtureAltLine";
+
+		if (i % 2)
+		{
+			lDefaultTRClass = "FixtureNotAltLine";
+		}
+
+		lHTML += "<tr class='"							+ lDefaultTRClass	+ "' " +
+				 "onmouseout=\"this.className='"		+ lDefaultTRClass	+ "'\" " + 
+				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
+		
+		lHTML += lBowlSum[i].bowlerHTML();
+		
+		lHTML += "</tr>";
+	}
+	
+	lHTML += "	</tbody>";
+	lHTML += "</table>";
+	
+	return (lHTML);
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats(aGetAlsoBowled)
+{
+	var lBS=new Array(0);
+	
+	for (var i=0 ; i<this.mCollection.length ; i++)
+	{
+		//
+		// @ to complete
+		//
+		if (this.mCollection[i].mBowlerStats.mGames > 0)
+		{
+			lBS[lBS.length] = this.mCollection[i];
+		}		
+	}
+	
 	return (lBS);
 }
