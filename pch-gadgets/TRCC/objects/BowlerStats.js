@@ -88,5 +88,5 @@ function GGTRCC_BowlerStatsO___HTML()
 	var lRet="To be implemented";
 	
 	
-	Return (lRet);
+	return (lRet);
 }
