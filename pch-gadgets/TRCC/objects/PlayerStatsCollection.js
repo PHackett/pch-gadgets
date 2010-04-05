@@ -70,7 +70,7 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCBatting (aBatsmanInningsO)
 
 function GGTRCC_PlayerStatsCollectionO___updateTRCCBowling (aBowlerSummaryO)
 {
-	this.find (aBatsmanInningsO.mName).mBowlerStats.update (aBowlerSummaryO);
+	this.find (aBowlerSummaryO.mName).mBowlerStats.update (aBowlerSummaryO);
 }
 
 function GGTRCC_PlayerStatsCollectionO___updateTRCCCatches(aBowlerSummaryO)
