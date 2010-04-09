@@ -81,14 +81,21 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCCatches(aBowlerSummaryO)
 	
 }
 
-function GGTRCC_PlayerStatsCollectionO___batsmanHTML()
+
+//------------------------------------------------------------
+// Render the HTML for the batsman
+//
+// @param	aGetAlsoBatted	IN	Show the "also batted" data
+//
+//------------------------------------------------------------
+function GGTRCC_PlayerStatsCollectionO___batsmanHTML (aGetAlsoBatted)
 {
 	var lHTML="";
 	
 	//
 	// Sort the play stats for by batting prowess
 	//
-	var lBatSum=this.getOrderedBattingStats(false);
+	var lBatSum=this.getOrderedBattingStats(aGetAlsoBatted);
 	
 	lHTML += "<span class='StatsHeading'>Batting</span>";
 	
@@ -192,14 +199,20 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats (aGetAlsoBatted)
 }
 
 
-function GGTRCC_PlayerStatsCollectionO___bowlerHTML()
+//------------------------------------------------------------
+// Render the HTML for the bowlers
+//
+// @param	aGetAlsoBowled	IN	Show the "also bowled" data
+//
+//------------------------------------------------------------
+function GGTRCC_PlayerStatsCollectionO___bowlerHTML (aGetAlsoBowled)
 {
 	var lHTML="";
 	
 	//
-	// Sort the play stats for by batting prowess
+	// Sort the play stats for by bowling prowess
 	//
-	var lBowlSum=this.getOrderedBowlingStats(false);
+	var lBowlSum=this.getOrderedBowlingStats(aGetAlsoBowled);
 	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lHTML += "	<thead>";
