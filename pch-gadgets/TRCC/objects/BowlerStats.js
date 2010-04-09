@@ -36,7 +36,8 @@ function GGTRCC_BowlerStatsO___update (aBowlInningsData)
 {
 	this.mGames++;
 	
-	this.mOvers 	= TRCCUtils_OversAdd (this.mOvers, parseFloat(aBowlInningsData.Overs));
+	// this.mOvers 	= TRCCUtils_OversAdd (this.mOvers, parseFloat(aBowlInningsData.Overs));
+	this.mOvers 	= parseFloat(aBowlInningsData.Overs);
 	this.mMaidens	+= (aBowlInningsData.mMaidens - 0);
 	this.mRuns		+= (aBowlInningsData.mRuns - 0);
 	this.mWickets	+= (aBowlInningsData.mWickets - 0);
