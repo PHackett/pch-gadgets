@@ -92,7 +92,7 @@ function GGTRCC_BowlerStatsO___HTML()
 	
 	lRet += "<td>&nbsp;</td>";
 	lRet += "	<td align='left'>"  + this.mName							+ "</td>";
-	lRet += "	<td align='right'>" + this.mGamesPlayed						+ "</td>";
+	lRet += "	<td align='right'>" + this.mGames							+ "</td>";
 	lRet += "	<td align='right'>" + GGUtils_numToString (this.mOvers, 1)	+ "</td>";
 	lRet += "	<td align='right'>" + this.mMaidens							+ "</td>";
 	lRet += "	<td align='right'>" + this.mRuns							+ "</td>";
