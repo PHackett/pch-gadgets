@@ -5,7 +5,7 @@
 <Fixture>
   <Date>Sun, 18 Apr 2010 20:00:00 UTC</Date>
   <Opposition>Big Hammer preseason</Opposition>
-  <Time>13:00</Time>
+  <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
   <HasLink/>
@@ -52,6 +52,105 @@
   <Opposition>Purley</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 5 Jun 2010 20:00:00 UTC</Date>
+  <Opposition>Waltham S L</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 19 Jun 2010 20:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 26 Jun 2010 20:00:00 UTC</Date>
+  <Opposition>Grouse and Label</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 03 Jul 2010 20:00:00 UTC</Date>
+  <Opposition>Sandhurst</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 10 Jul 2010 20:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 17 Jul 2010 20:00:00 UTC</Date>
+  <Opposition>Catcliffe Way</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 24 Jul 2010 20:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 31 Jul 2010 20:00:00 UTC</Date>
+  <Opposition>Purley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 07 Aug 2010 20:00:00 UTC</Date>
+  <Opposition>Waltham S L</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 21 Aug 2010 20:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 28 Aug 2010 20:00:00 UTC</Date>
+  <Opposition>Grouse and Label</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
   <Result>NotPlayed</Result>
   <HasLink/>
 </Fixture>
