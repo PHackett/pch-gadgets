@@ -90,7 +90,7 @@ function GGTRCC_BowlerStatsO___HTML()
 {
 	var lRet="";
 	
-	lRet += "<td>&nbsp;</td>";
+	lRet += "<td>X</td>";
 	lRet += "	<td align='left'>"  + this.mName							+ "</td>";
 	// lRet += "	<td align='right'>" + this.mGames							+ "</td>";
 	lRet += "	<td align='right'>" + "this.mGames"							+ "</td>";
