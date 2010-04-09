@@ -86,8 +86,7 @@ function GGTRCC_BowlerStatsO___HTML()
 {
 	var lRet="";
 	
-	// lRet += "	<td align='right'>" + this.mGames							+ "</td>";
-	lRet += "	<td align='right'>" + "this.mGames"							+ "</td>";
+	lRet += "	<td align='right'>" + this.mGames							+ "</td>";
 	lRet += "	<td align='right'>" + GGUtils_numToString (this.mOvers, 1)	+ "</td>";
 	lRet += "	<td align='right'>" + this.mMaidens							+ "</td>";
 	lRet += "	<td align='right'>" + this.mRuns							+ "</td>";
