@@ -8,7 +8,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -17,7 +16,6 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -26,7 +24,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -35,7 +32,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -44,7 +40,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -53,7 +48,6 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -62,7 +56,11 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 12 Jun 2010 20:00:00 UTC</Date>
+  <Opposition>No Fixture</Opposition>
 </Fixture>
 
 <Fixture>
@@ -71,7 +69,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -80,7 +77,6 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -89,7 +85,6 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -98,7 +93,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -107,7 +101,6 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -116,7 +109,6 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -125,7 +117,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -134,16 +125,19 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
+  <Date>Sat, 14 Aug 2010 20:00:00 UTC</Date>
+  <Opposition>No Fixture</Opposition>
+</Fixture>
+
+	<Fixture>
   <Date>Sat, 21 Aug 2010 20:00:00 UTC</Date>
   <Opposition>Shinfield</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -152,7 +146,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 </YearsFixtures>
