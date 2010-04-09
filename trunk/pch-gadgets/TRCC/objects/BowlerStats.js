@@ -41,11 +41,11 @@ function GGTRCC_BowlerStatsO___update (aBowlInningsData)
 	this.mGames++;
 	
 	this.mOvers 	= TRCCUtils_OversAdd (this.mOvers, aBowlInningsData.Overs);
-	this.mMaidens	+= aBowlInningsData.mMaidens;
-	this.mRuns		+= aBowlInningsData.mRuns;
-	this.mWickets	+= aBowlInningsData.mWickets;
+	this.mMaidens	+= (aBowlInningsData.mMaidens - 0);
+	this.mRuns		+= (aBowlInningsData.mRuns - 0);
+	this.mWickets	+= (aBowlInningsData.mWickets - 0);
 	
-	if (aBowlInningsData.mWickets >= 5)
+	if ((aBowlInningsData.mWickets - 0) >= 5)
 	{
 		this.mFivePlus++;
 	}
