@@ -200,7 +200,7 @@ function GGTRCC_PlayerStatsCollectionO___bowlerHTML()
 	//
 	var lBowlSum=this.getOrderedBowlingStats(false);
 	
-	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='1'>";
 	lHTML += "	<thead>";
 	lHTML += "	<tr class=\"BatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
