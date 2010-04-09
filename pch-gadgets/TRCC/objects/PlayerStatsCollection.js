@@ -272,13 +272,13 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats(aGetAlsoBowled)
 
 function GGTRCC_PlayerStatsCollectionO___bowlerOrderFn (aA, aB)
 {
-	var lRet = aA.GetAverage() - aB.GetAverage();
+	var lRet = aA.mBowlerStats.getAverage() - aB.mBowlerStats.getAverage();
 
-	if (aA.GetAverage() == 0)
+	if (aA.mBowlerStats.getAverage() == 0)
 	{
 		lRet = 1;
 	}
-	else if (aB.GetAverage() == 0)
+	else if (aB.mBowlerStats.getAverage() == 0)
 	{
 		lRet = -1;
 	}
