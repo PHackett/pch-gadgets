@@ -5,13 +5,9 @@
 // is the object into which the actual game data is read.
 // A bit confusing, I know ..
 //
-// @param	aName	IN	Name of the bowler
-//
 //------------------------------------------------------------
-function GGTRCC_BowlerStatsO (aName)
+function GGTRCC_BowlerStatsO ()
 {
-	this.mName			= aName;
-	
 	this.mGames			= 0;
 	this.mOvers			= 0;
 	this.mMaidens		= 0;
@@ -90,8 +86,6 @@ function GGTRCC_BowlerStatsO___HTML()
 {
 	var lRet="";
 	
-	lRet += "<td>X</td>";
-	lRet += "	<td align='left'>"  + this.mName							+ "</td>";
 	// lRet += "	<td align='right'>" + this.mGames							+ "</td>";
 	lRet += "	<td align='right'>" + "this.mGames"							+ "</td>";
 	lRet += "	<td align='right'>" + GGUtils_numToString (this.mOvers, 1)	+ "</td>";
@@ -102,8 +96,6 @@ function GGTRCC_BowlerStatsO___HTML()
 	lRet += "	<td align='right'>" + this.getRunsPerOver()					+ "</td>";
 	lRet += "	<td align='right'>" + this.getStrikeRate()					+ "</td>";
 	lRet += "	<td align='right'>" + this.getHTMLAverage(true)				+ "</td>";
-	lRet += "<td>&nbsp;</td>";
-	
 	
 	return (lRet);
 }
