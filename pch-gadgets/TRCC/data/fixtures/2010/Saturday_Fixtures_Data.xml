@@ -61,6 +61,9 @@
 <Fixture>
   <Date>Sat, 12 Jun 2010 20:00:00 UTC</Date>
   <Opposition>No Fixture</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -130,6 +133,9 @@
 <Fixture>
   <Date>Sat, 14 Aug 2010 20:00:00 UTC</Date>
   <Opposition>No Fixture</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotPlayed</Result>
 </Fixture>
 
 	<Fixture>
