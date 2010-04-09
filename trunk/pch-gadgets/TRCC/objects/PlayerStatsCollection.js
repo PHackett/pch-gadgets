@@ -10,7 +10,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	// Cutoffs - How many innings/overs do you have to have 
 	// before you count for the official "stats"
 	//
-	this.mBowlngOversCutoff	= 20;
+	this.mBowlngOversCutoff	= 20.0;
 	this.mBattingOutsCutoff	= 7;
 	
 	//
@@ -34,6 +34,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	// Ordering functions
 	// 	
 	this.batterOrderFn		= GGTRCC_PlayerStatsCollectionO___batterOrderFn;
+	this.bowlerOrderFn		= GGTRCC_PlayerStatsCollectionO___bowlerOrderFn;
 }
 
 
@@ -254,14 +255,33 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats(aGetAlsoBowled)
 	
 	for (var i=0 ; i<this.mCollection.length ; i++)
 	{
-		//
-		// @ to complete
-		//
 		if (this.mCollection[i].mBowlerStats.mGames > 0)
 		{
-			lBS[lBS.length] = this.mCollection[i];
+			if (((this.mCollection[i].mBowlerStats.mOvers <  this.mBowlngOversCutoff) && aGetAlsoBowledData)	||
+				((this.mCollection[i].mBowlerStats.mOvers >= this.mBowlngOversCutoff) && !aGetAlsoBowledData))
+			{
+				lBS[lBS.length] = this.mCollection[i];
+			}
 		}		
 	}
+
+	lBS.sort (this.bowlerOrderFn);
 	
 	return (lBS);
+}
+
+function GGTRCC_PlayerStatsCollectionO___bowlerOrderFn (aA, aB)
+{
+	var lRet = aA.GetAverage() - aB.GetAverage();
+
+	if (aA.GetAverage() == 0)
+	{
+		lRet = 1;
+	}
+	else if (aB.GetAverage() == 0)
+	{
+		lRet = -1;
+	}
+
+	return (lRet);
 }
