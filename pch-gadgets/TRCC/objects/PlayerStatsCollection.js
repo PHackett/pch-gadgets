@@ -257,8 +257,8 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats(aGetAlsoBowled)
 	{
 		if (this.mCollection[i].mBowlerStats.mGames > 0)
 		{
-			if (((this.mCollection[i].mBowlerStats.mOvers <  this.mBowlngOversCutoff) && aGetAlsoBowledData)	||
-				((this.mCollection[i].mBowlerStats.mOvers >= this.mBowlngOversCutoff) && !aGetAlsoBowledData))
+			if (((this.mCollection[i].mBowlerStats.mOvers <  this.mBowlngOversCutoff) && aGetAlsoBowled)	||
+				((this.mCollection[i].mBowlerStats.mOvers >= this.mBowlngOversCutoff) && !aGetAlsoBowled))
 			{
 				lBS[lBS.length] = this.mCollection[i];
 			}
