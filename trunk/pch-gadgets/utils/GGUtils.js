@@ -348,3 +348,24 @@ function GGUtils_nbspIfNull (aValue)
 	
 	return (lRet);
 }
+
+
+function GGUtils_stripMultipleSpaces (aS)
+{
+	return (aS.replace (/\s+/g, " "));
+}
+
+function GGUtils_trimStringLandR (aS)
+{
+	return (aS.replace(/^\s+|\s+$/g, ""));
+}
+
+function GGUtils_collapseStringSpaces (aS)
+{
+	var lRet=aS;
+	
+	lRet = GGUtils_stripMultipleSpaces (lRet);
+	lRet = GGUtils_trimStringLandR (lRet);
+	
+	return (lRet);
+} 

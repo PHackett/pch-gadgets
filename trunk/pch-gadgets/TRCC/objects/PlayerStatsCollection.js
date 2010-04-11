@@ -17,9 +17,9 @@ function GGTRCC_PlayerStatsCollectionO ()
 	// Methods
 	//
 	this.find				= GGTRCC_PlayerStatsCollectionO___find;
-	this.updateTRCCBatting	= GGTRCC_PlayerStatsCollectionO___updateTRCCBatting
-	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling
-	this.updateTRCCCatches	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatches
+	this.updateTRCCBatting	= GGTRCC_PlayerStatsCollectionO___updateTRCCBatting;
+	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling;
+	this.updateTRCCCatching	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatching;
 	
 	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
 	this.getOrderedBowlingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
@@ -76,9 +76,40 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCBowling (aBowlerSummaryO)
 	this.find (aBowlerSummaryO.mName).mBowlerStats.update (aBowlerSummaryO);
 }
 
-function GGTRCC_PlayerStatsCollectionO___updateTRCCCatches(aBowlerSummaryO)
+
+//------------------------------------------------------------
+// The incoming batsman _should_ be an oppo batter
+//------------------------------------------------------------
+function GGTRCC_PlayerStatsCollectionO___updateTRCCCatching (aBatsmanInningsO)
 {
+	var lHowOut = aBatsmanInningsO.mHowOut;
+	var lCaught="Caught ";
+	var lCandB="Caught &amp; Bowled";
 	
+	if (lHowOut.length < lCaught.length) // was the person caught?
+	{
+		// Not caught - No stats update
+	}
+	else if (0 != lHowOut.indexOf(lCaught))
+	{
+		// Not caught
+	}
+	else if (0 == lHowOut.indexOf(lCandB))
+	{
+		//
+		// Caught & bowled
+		//
+		this.find (aBatsmanInningsO.mBowler).mCatcherStats.update (true);
+	}
+	else
+	{
+		//
+		// Regular catch
+		//
+		var lCatcher=GGUtils_collapseStringSpaces (lHowOut.slice (lCaught.length));
+		
+		this.find (lCatcher).mCatcherStats.update (false);
+	}
 }
 
 
