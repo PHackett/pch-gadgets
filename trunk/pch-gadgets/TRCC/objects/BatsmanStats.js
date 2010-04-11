@@ -1,3 +1,7 @@
+//
+// This FILE IS NOT USED
+//
+
 //-----------------------------------[GGTRCC_BatsmanInningsO]-
 // Object to hold stats for a single batsman
 //
@@ -18,7 +22,7 @@ function GGTRCC_BatsmanStatsO (aName)
 // Increment the batting stats given the information from a
 // single game
 //
-// @param	aBatInningsData	IN	Data for one innings
+// @param	aBatInningsData	IN	Data for one innings (GGTRCC_BatsmanInningsO)
 //
 //------------------------------------------------------------
 function GGTRCC_BatsmanStatsO___increment (aBatInningsData)
