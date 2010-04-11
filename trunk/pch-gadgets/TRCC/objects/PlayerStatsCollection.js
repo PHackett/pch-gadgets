@@ -373,6 +373,8 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	}
 	
 	lHTML += "</table>";
+	
+	return (lHTML);
 }
 
 
