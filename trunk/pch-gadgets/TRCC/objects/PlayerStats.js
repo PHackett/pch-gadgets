@@ -14,6 +14,7 @@ function GGTRCC_PlayerStatsO (aName)
 	
 	this.batsmanHTML	= GGTRCC_PlayerStatsO___batsmanHTML;
 	this.bowlerHTML		= GGTRCC_PlayerStatsO___bowlerHTML;
+	this.catcherHTML	= GGTRCC_PlayerStatsO___catcherHTML;
 	
 }
 
@@ -42,6 +43,22 @@ function GGTRCC_PlayerStatsO___bowlerHTML()
 	lHTML += "	<td align='left'>"  + this.mName						+ "</td>";
 	
 	lHTML += this.mBowlerStats.HTML();
+	
+	lHTML += "	<td>&nbsp;</td>";
+	
+	return (lHTML);
+}
+
+
+function GGTRCC_PlayerStatsO___catcherHTML()
+{
+	var lHTML="";
+	
+	lHTML += "	<td>&nbsp;</td>";
+
+	lHTML += "	<td align='left'>"  + this.mName						+ "</td>";
+	
+	lHTML += this.mCatchererStats.HTML();
 	
 	lHTML += "	<td>&nbsp;</td>";
 	
