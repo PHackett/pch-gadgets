@@ -86,7 +86,11 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCCatching (aBatsmanInningsO)
 	var lCaught="Caught ";
 	var lCandB="Caught &amp; Bowled";
 	
-	if (lHowOut.length < lCaught.length) // was the person caught?
+	if (null == lHowOut)
+	{
+		// Batsman did not bat
+	}
+	else if (lHowOut.length < lCaught.length) // was the person caught?
 	{
 		// Not caught - No stats update
 	}
