@@ -7,10 +7,10 @@ function GGTRCC_CatcherStatsO ()
 	this.mCatches	= 0;
 	this.mCandB		= 0;
 	
-	this.increment	= GGTRCC_CatcherStatsO___increment;
+	this.update	= GGTRCC_CatcherStatsO___update;
 }
 
-function GGTRCC_CatcherStatsO___increment(aIsCaughtAndBowled)
+function GGTRCC_CatcherStatsO___update (aIsCaughtAndBowled)
 {
 	this.mCatches++;
 	
