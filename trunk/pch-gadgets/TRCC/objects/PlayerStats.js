@@ -58,7 +58,7 @@ function GGTRCC_PlayerStatsO___catcherHTML()
 
 	lHTML += "	<td align='left'>"  + this.mName						+ "</td>";
 	
-	lHTML += this.mCatchererStats.HTML();
+	lHTML += this.mCatcherStats.HTML();
 	
 	lHTML += "	<td>&nbsp;</td>";
 	
