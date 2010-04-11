@@ -338,7 +338,7 @@ function GGTRCC_PlayerStatsCollectionO___bowlerOrderFn (aA, aB)
 }
 
 
-GGTRCC_PlayerStatsCollectionO___catcherHTML ()
+function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 {
 	var lHTML="";
 
