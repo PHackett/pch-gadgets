@@ -354,6 +354,8 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "	</tr>";
 
+lHTML += "<tr> <td>1</td> <td>lCatchers.length = " + lCatchers.length + "</td> <td>3</td> <td>4</td> <td>5</td> </tr>"
+
 	for (var i=0 ; i<lCatchers.length ; i++)
 	{
 		var lDefaultTRClass="FixtureAltLine";
