@@ -21,20 +21,23 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling;
 	this.updateTRCCCatching	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatching;
 	
-	this.getOrderedBattingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
-	this.getOrderedBowlingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
+	this.getOrderedBattingStats		= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
+	this.getOrderedBowlingStats		= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
+	this.getOrderedCatchingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedCatchingStats;
 	
 	//
 	// Creation of HTML
 	//
 	this.batsmanHTML	= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
 	this.bowlerHTML		= GGTRCC_PlayerStatsCollectionO___bowlerHTML;
+	this.catcherHTML	= GGTRCC_PlayerStatsCollectionO___catcherHTML;
 
 	//
 	// Ordering functions
 	// 	
 	this.batterOrderFn		= GGTRCC_PlayerStatsCollectionO___batterOrderFn;
 	this.bowlerOrderFn		= GGTRCC_PlayerStatsCollectionO___bowlerOrderFn;
+	this.catcherOrderFn		= GGTRCC_PlayerStatsCollectionO___catcherOrderFn;
 }
 
 
@@ -332,4 +335,66 @@ function GGTRCC_PlayerStatsCollectionO___bowlerOrderFn (aA, aB)
 	}
 
 	return (lRet);
+}
+
+
+GGTRCC_PlayerStatsCollectionO___catcherHTML ()
+{
+	var lHTML="";
+
+	var lCatchers=this.getOrderedCatchingStats();
+	
+	lHTML += "<p align='center'>";
+	lHTML += "<table width='100%' border='0' cellspacing='0' cellpadding='0'>";
+	lHTML += "	<tr class=\"BatsHeader\">";
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "		<th align='left'>Name</th>";
+	lHTML += "		<th align='right'>Total Catches</th>";
+	lHTML += "		<th align='right'>Caught & Bowled</th>";
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "	</tr>";
+
+	for (var i=0 ; i<lCatchers.length ; i++)
+	{
+		var lDefaultTRClass="FixtureAltLine";
+
+		if (i % 2)
+		{
+			lDefaultTRClass = "FixtureNotAltLine";
+		}
+
+		lHTML += "<tr class='"						+ lDefaultTRClass	+ "' " 		+
+				 "onmouseout=\"this.className='"	+ lDefaultTRClass	+ "'\" " 	+ 
+				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
+
+			lCatchers[i].catcherHTML();
+			
+		lHTML += "</tr>";
+	}
+	
+	lHTML += "</table>";
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___getOrderedCatchingStats()
+{
+	var lBS=new Array(0);
+	
+	for (var i=0 ; i<this.mCollection.length ; i++)
+	{
+		if (this.mCollection[i].mCatcherStats.mCatches > 0)
+		{
+			lBS[lBS.length] = this.mCollection[i];
+		}		
+	}
+
+	lBS.sort (this.catcherOrderFn);
+	
+	return (lBS);
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___catcherOrderFn (aA, aB)
+{
+	return (aB.mCatcherStats.mCatches - aA.mCatcherStats.mCatches);
 }
