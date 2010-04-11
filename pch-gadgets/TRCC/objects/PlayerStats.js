@@ -10,7 +10,7 @@ function GGTRCC_PlayerStatsO (aName)
 
 	this.mBatsmanSummary 	= new GGTRCC_BatsmanSummaryO();
 	this.mBowlerStats 		= new GGTRCC_BowlerStatsO ();
-	// this.mCatcherSummary	= new GGTRCC_CatcherStatsO();
+	this.mCatcherStats		= new GGTRCC_CatcherStatsO();
 	
 	this.batsmanHTML	= GGTRCC_PlayerStatsO___batsmanHTML;
 	this.bowlerHTML		= GGTRCC_PlayerStatsO___bowlerHTML;
