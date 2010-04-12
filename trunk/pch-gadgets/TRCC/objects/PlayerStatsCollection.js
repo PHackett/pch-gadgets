@@ -87,7 +87,7 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCCatching (aBatsmanInningsO)
 {
 	var lHowOut = aBatsmanInningsO.mHowOut;
 	var lCaught="Caught ";
-	var lCandB="Caught &amp; Bowled";
+	var lCandB="Caught & Bowled";
 	
 	if (null == lHowOut)
 	{
