@@ -35,6 +35,12 @@
 	color:			yellow;
 }
 
+.GadgetTableMouseOver
+{
+	color:			crimson;
+	background-color:	yellow;
+}
+
 .Scorecard
 {
 	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
