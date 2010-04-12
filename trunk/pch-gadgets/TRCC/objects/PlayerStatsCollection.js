@@ -369,7 +369,7 @@ lHTML += "<tr> <td>1</td> <td>lCatchers.length = " + lCatchers.length + "</td> <
 				 "onmouseout=\"this.className='"	+ lDefaultTRClass	+ "'\" " 	+ 
 				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
 
-			lCatchers[i].catcherHTML();
+		lHTML += lCatchers[i].catcherHTML();
 			
 		lHTML += "</tr>";
 	}
