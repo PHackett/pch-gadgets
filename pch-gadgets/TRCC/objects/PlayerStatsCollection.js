@@ -365,7 +365,7 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 
 		lHTML += "<tr class='"						+ lDefaultTRClass	+ "' " 		+
 				 "onmouseout=\"this.className='"	+ lDefaultTRClass	+ "'\" " 	+ 
-				 "onmouseover=\"this.className='"	+ "GadgetTableMouseOverGadgetTableMouseOver"	+ "'\">";
+				 "onmouseover=\"this.className='"	+ "GadgetTableMouseOver"	+ "'\">";
 
 		lHTML += lCatchers[i].catcherHTML();
 			
