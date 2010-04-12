@@ -139,7 +139,7 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML (aGetAlsoBatted)
 	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lHTML += "	<thead>";
-	lHTML += "	<tr class=\"BatsHeader\">";
+	lHTML += "	<tr class=\"GadgetBatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 
 	lHTML += "		<th align='left'>Name</th>";
@@ -164,16 +164,16 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML (aGetAlsoBatted)
 	for (var i=0 ; i<lBatSum.length ; i++)
 	{
 		
-		var lDefaultTRClass="FixtureAltLine";
+		var lDefaultTRClass="GadgetFixtureAltLine";
 
 		if (i % 2)
 		{
-			lDefaultTRClass = "FixtureNotAltLine";
+			lDefaultTRClass = "GadgetFixtureNotAltLine";
 		}
 
 		lHTML += "<tr class='"							+ lDefaultTRClass	+ "' " +
 				 "onmouseout=\"this.className='"		+ lDefaultTRClass	+ "'\" " + 
-				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
+				 "onmouseover=\"this.className='"	+ "GadgetTableMouseOver"	+ "'\">";
 		
 		lHTML += lBatSum[i].batsmanHTML();
 		
@@ -254,7 +254,7 @@ function GGTRCC_PlayerStatsCollectionO___bowlerHTML (aGetAlsoBowled)
 	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lHTML += "	<thead>";
-	lHTML += "	<tr class=\"BatsHeader\">";
+	lHTML += "	<tr class=\"GadgetBatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "		<th align='left'>Name</th>";
 	lHTML += "		<th align='right'>Games</th>";
@@ -277,16 +277,16 @@ function GGTRCC_PlayerStatsCollectionO___bowlerHTML (aGetAlsoBowled)
 	for (var i=0 ; i<lBowlSum.length ; i++)
 	{
 		
-		var lDefaultTRClass="FixtureAltLine";
+		var lDefaultTRClass="GadgetFixtureAltLine";
 
 		if (i % 2)
 		{
-			lDefaultTRClass = "FixtureNotAltLine";
+			lDefaultTRClass = "GadgetFixtureNotAltLine";
 		}
 
 		lHTML += "<tr class='"							+ lDefaultTRClass	+ "' " +
 				 "onmouseout=\"this.className='"		+ lDefaultTRClass	+ "'\" " + 
-				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
+				 "onmouseover=\"this.className='"	+ "GadgetTableMouseOver"	+ "'\">";
 		
 		lHTML += lBowlSum[i].bowlerHTML();
 		
