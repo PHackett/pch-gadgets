@@ -346,7 +346,7 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	
 	lHTML += "<p align='center'>";
 	lHTML += "<table width='100%' border='0' cellspacing='0' cellpadding='0'>";
-	lHTML += "	<tr class=\"BatsHeader\">";
+	lHTML += "	<tr class=\"GadgetBatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "		<th align='left'>Name</th>";
 	lHTML += "		<th align='right'>Total Catches</th>";
@@ -356,16 +356,16 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 
 	for (var i=0 ; i<lCatchers.length ; i++)
 	{
-		var lDefaultTRClass="FixtureAltLine";
+		var lDefaultTRClass="GadgetFixtureAltLine";
 
 		if (i % 2)
 		{
-			lDefaultTRClass = "FixtureNotAltLine";
+			lDefaultTRClass = "GadgetFixtureNotAltLine";
 		}
 
 		lHTML += "<tr class='"						+ lDefaultTRClass	+ "' " 		+
 				 "onmouseout=\"this.className='"	+ lDefaultTRClass	+ "'\" " 	+ 
-				 "onmouseover=\"this.className='"	+ "TableMouseOver"	+ "'\">";
+				 "onmouseover=\"this.className='"	+ "GadgetTableMouseOverGadgetTableMouseOver"	+ "'\">";
 
 		lHTML += lCatchers[i].catcherHTML();
 			
