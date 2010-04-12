@@ -345,7 +345,7 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	var lCatchers=this.getOrderedCatchingStats();
 	
 	lHTML += "<p align='center'>";
-	lHTML += "<table width='100%' border='1' cellspacing='0' cellpadding='0'>";
+	lHTML += "<table width='100%' border='0' cellspacing='0' cellpadding='0'>";
 	lHTML += "	<tr class=\"BatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "		<th align='left'>Name</th>";
@@ -353,8 +353,6 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	lHTML += "		<th align='right'>Caught & Bowled</th>";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "	</tr>";
-
-lHTML += "<tr> <td>1</td> <td>lCatchers.length = " + lCatchers.length + "</td> <td>3</td> <td>4</td> <td>5</td> </tr>"
 
 	for (var i=0 ; i<lCatchers.length ; i++)
 	{
