@@ -135,8 +135,6 @@ function GGTRCC_PlayerStatsCollectionO___batsmanHTML (aGetAlsoBatted)
 	//
 	var lBatSum=this.getOrderedBattingStats(aGetAlsoBatted);
 	
-	lHTML += "<span class='StatsHeading'>Batting</span>";
-	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lHTML += "	<thead>";
 	lHTML += "	<tr class=\"GadgetBatsHeader\">";
