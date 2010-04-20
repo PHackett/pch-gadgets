@@ -156,7 +156,9 @@
 						// Get the batting stats HTML
 						//
 						lH += lPSC.batsmanHTML(false);
+						lH += lPSC.batsmanHTML(true);
 						lH += lPSC.bowlerHTML(false);
+						lH += lPSC.bowlerHTML(true);
 						lH += lPSC.catcherHTML();
 					}
 			
