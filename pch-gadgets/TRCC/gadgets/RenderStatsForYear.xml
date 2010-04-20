@@ -2,10 +2,10 @@
 <Module>
 
 	<ModulePrefs
-		title="Recent Results"
+		title="Statistics for year"
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
-		description="For the rendering statistics for one year."
+		description="For the rendering of batting, bowling &amp; catching statistics for one year."
 		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
 		width="700"
 		height="500"
@@ -77,13 +77,18 @@
 				}
 				
 			
-				//------------------------------------------------[processFixturesCB]-
-				// From the fixtures, choose the latest results
+				//--------------------------------------------------------------------
+				// Turn all the fixture information inrto stats HTML
+				//
+				// @param aMatchDataArray  Array of GGGadget_UrlXml objects, the mXML
+				//                          member of which is the XML from the URL 
+				//                          of the member mURL.
+				//                         The XML is a serialised GGTRCC_CricketMatchO
 				//--------------------------------------------------------------------
 				function MatchDataCB (aMatchDataArray)
 				{
 					var lPSC = new GGTRCC_PlayerStatsCollectionO;
-					var lH="<h1>Array size = " + aMatchDataArray.length + "</h1>";
+					var lH="";
 					var lFailed="";
 					var lFailedCount=0;
 			
@@ -100,7 +105,7 @@
 						else
 						{
 							//
-							// Parse XML to game object
+							// Parse XML to a CricketMatch object
 							//
 							var lCM = new GGTRCC_CricketMatchO (aMatchDataArray[lMatchIndex].mXML);
 							var lIN;
@@ -155,10 +160,27 @@
 						//
 						// Get the batting stats HTML
 						//
+						lH += "<span class='GadgetStatsHeading'>Batting</span>";
 						lH += lPSC.batsmanHTML(false);
+			
+						lH += "<br><hr class='GadgetStatsHeading'>";
+					
+						lH += "<span class='GadgetStatsHeading'>Also batted</span>";
 						lH += lPSC.batsmanHTML(true);
+			
+						lH += "<br><hr class='GadgetStatsHeading'>";
+			
+						lH += "<span class='GadgetStatsHeading'>Bowling</span>";
 						lH += lPSC.bowlerHTML(false);
+			
+						lH += "<br><hr class='GadgetStatsHeading'>";
+			
+						lH += "<span class='GadgetStatsHeading'>Also bowled</span>";
 						lH += lPSC.bowlerHTML(true);
+			
+						lH += "<br><hr class='GadgetStatsHeading'>";
+			
+						lH += "<span class='GadgetStatsHeading'>Catches</span>";
 						lH += lPSC.catcherHTML();
 					}
 			
@@ -168,7 +190,7 @@
 					}
 					else
 					{
-						lH += "<br>All games loaded successfully";
+						lH += "<br>Data derived from " + aMatchDataArray.length + " games - All loaded successfully";
 					}
 			
 					_gel('content_div').innerHTML = lH;
@@ -221,6 +243,9 @@
 					//
 					var lTeamYears=new Array();
 					
+					//
+					// From the XML, extract the data as objects
+					//
 					GGTRCC_LoadTeamYearsFromXML (response, lTeamYears);
 			
 					//
@@ -245,23 +270,27 @@
 								lFixA.push (lF);
 							}
 	
+							//
+							// Youth games do not count towards stats
+							//
+							/*
 							if (lTeamYears[i].haveYouth())
 							{
-								//
-								// Youth games do not count towards stats
-								//
-								// var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "Youth");
-								// lFixA.push (lF);
+								var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "Youth");
+								lFixA.push (lF);
 							}
+							*/
 			
+							//
+							// 20-20 games do not count towards stats
+							//
+							/*
 							if (lTeamYears[i].have2020())
 							{
-								//
-								// 20-20 games do not count towards stats
-								//
-								// var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "20-20");
-								// lFixA.push (lF);
+								var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "20-20");
+								lFixA.push (lF);
 							}
+							*/
 			
 							//
 							// We are done ...
