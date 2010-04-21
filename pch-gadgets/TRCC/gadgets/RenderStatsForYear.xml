@@ -188,7 +188,7 @@
 					{
 						lH += "<br>" + lFailed;
 					}
-					else
+					else if (0 != aMatchDataArray.length)
 					{
 						lH += "<br>Data derived from " + aMatchDataArray.length + " games - All loaded successfully";
 					}
