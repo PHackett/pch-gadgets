@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:02 UTC+0100 2010 -->
+<CricketMatch oppo="Burnham" date="Sat Aug 7 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Burnham">
+    <Batsman name="M McKinnon">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Lewis">
+      <HowOut how="Caught Terry Harman"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Matthew">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Barnes">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Dearlove">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Grout">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="N Butler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="R Allen">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Small">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="B Danbrowski"/>
+    <Batsman name="D Binks"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="7" score="103"/>
+    <FallOfWicket batsman="8" score="109"/>
+    <BowlerSummary name="Martin Grugeon" overs="17" maidens="2" runs="74" wickets="5"/>
+    <BowlerSummary name="Jim Bryant" overs="14" maidens="2" runs="67" wickets="2"/>
+    <BowlerSummary name="Ray Cox" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Danbrowski"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Small"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="B Danbrowski"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="D Binks"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Danbrowski"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Danbrowski"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Caught"/>
+      <Bowler name="D Binks"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Binks"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Wood">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="B Dearlove"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="5" score="26"/>
+    <FallOfWicket batsman="6" score="26"/>
+    <FallOfWicket batsman="7" score="26"/>
+    <FallOfWicket batsman="8" score="37"/>
+    <FallOfWicket batsman="4" score="38"/>
+    <FallOfWicket batsman="10" score="67"/>
+    <BowlerSummary name="B Danbrowski" overs="4" maidens="3" runs="12" wickets="4"/>
+    <BowlerSummary name="B Small" overs="2" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="D Binks" overs="9" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="R Allen" overs="6" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="B Dearlove" overs="1.3" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

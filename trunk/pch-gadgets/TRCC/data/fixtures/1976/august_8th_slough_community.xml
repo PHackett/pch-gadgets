@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:00 UTC+0100 2010 -->
+<CricketMatch oppo="Slough Community" date="Sun Aug 8 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Duprey"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Duprey"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Whitrod"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Francis"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Francis"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Francis"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Julien"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="Francis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Francis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="LBW"/>
+      <Bowler name="Julien"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="56"/>
+    <FallOfWicket batsman="3" score="99"/>
+    <FallOfWicket batsman="4" score="116"/>
+    <FallOfWicket batsman="7" score="117"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="8" score="129"/>
+    <FallOfWicket batsman="9" score="129"/>
+    <FallOfWicket batsman="6" score="134"/>
+    <FallOfWicket batsman="10" score="139"/>
+    <BowlerSummary name="Humber" overs="7" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Duprey" overs="9" maidens="3" runs="24" wickets="2"/>
+    <BowlerSummary name="Whitrod" overs="6" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Francis" overs="9" maidens="1" runs="31" wickets="5"/>
+    <BowlerSummary name="Julien" overs="4.3" maidens="3" runs="7" wickets="2"/>
+  </Innings>
+  <Innings batting="Slough Community">
+    <Batsman name="H Darroue">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Tillyer">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="R Francis">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Julien">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="R Duprey">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="7" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Paul Woodford" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="1.1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

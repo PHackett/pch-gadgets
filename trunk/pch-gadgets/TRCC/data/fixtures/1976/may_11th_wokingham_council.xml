@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:01 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham Council" date="Tue May 11 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rees"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Auton"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Prior"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Auton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Prior"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Caught"/>
+      <Bowler name="Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="2" score="48"/>
+    <FallOfWicket batsman="6" score="54"/>
+    <FallOfWicket batsman="7" score="64"/>
+    <FallOfWicket batsman="9" score="64"/>
+    <FallOfWicket batsman="10" score="65"/>
+    <FallOfWicket batsman="11" score="69"/>
+    <BowlerSummary name="Rees" overs="10" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="Prior" overs="7" maidens="3" runs="23" wickets="6"/>
+    <BowlerSummary name="Auton" overs="3" maidens="0" runs="19" wickets="2"/>
+  </Innings>
+  <Innings batting="Wokingham Council">
+    <Batsman name="P Frost">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Turner">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Grayson">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="D Jorr">
+      <HowOut how="Caught Graham Tibbett"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Dale">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Chris Telfer" overs="4" maidens="1" runs="16" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="3" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="0.1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

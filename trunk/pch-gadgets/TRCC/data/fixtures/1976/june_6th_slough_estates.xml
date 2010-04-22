@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:00 UTC+0100 2010 -->
+<CricketMatch oppo="Slough Estates" date="Sun Jun 6 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Tomlinson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="J Moules"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Edwards"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Dave Searby">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Moules"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="J Moules"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Moules"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Edwards"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Edwards"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Moules"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Roger Willoughby">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="2" score="92"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="3" score="118"/>
+    <FallOfWicket batsman="6" score="121"/>
+    <FallOfWicket batsman="7" score="134"/>
+    <FallOfWicket batsman="5" score="137"/>
+    <FallOfWicket batsman="9" score="148"/>
+    <FallOfWicket batsman="10" score="159"/>
+    <BowlerSummary name="J Moules" overs="21" maidens="1" runs="71" wickets="5"/>
+    <BowlerSummary name="R Tomlinson" overs="5" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="W Winstanley" overs="9" maidens="1" runs="47" wickets="0"/>
+    <BowlerSummary name="A Edwards" overs="7" maidens="1" runs="26" wickets="3"/>
+  </Innings>
+  <Innings batting="Slough Estates">
+    <Batsman name="J Moules">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="W Winstanley">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ambrose">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Roger Willoughby"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="R Tomlinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Willoughby"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="P Wood">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steel">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Cawte">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Bratchell">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Edwards"/>
+    <Batsman name="Walsh"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="4" score="87"/>
+    <FallOfWicket batsman="5" score="100"/>
+    <FallOfWicket batsman="6" score="100"/>
+    <FallOfWicket batsman="8" score="105"/>
+    <BowlerSummary name="Chris Telfer" overs="5" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Dave Searby" overs="12" maidens="2" runs="38" wickets="4"/>
+    <BowlerSummary name="Roger Willoughby" overs="10" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Paul Woodford" overs="7" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="2" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

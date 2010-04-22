@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:03 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Sep 18 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale">
+    <Batsman name="Ellis">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hopper">
+      <HowOut how="Caught Terry Harman"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Goswell">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Johnson">
+      <HowOut how="Caught Stan Coates"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Barefoot">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Reeves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hayter">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ainnetts">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Newman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Yon">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Dawkins"/>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="2" score="67"/>
+    <FallOfWicket batsman="4" score="71"/>
+    <FallOfWicket batsman="5" score="71"/>
+    <FallOfWicket batsman="6" score="76"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="3" score="107"/>
+    <FallOfWicket batsman="9" score="118"/>
+    <BowlerSummary name="Jim Bryant" overs="10" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="4" runs="16" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="9" maidens="0" runs="24" wickets="3"/>
+    <BowlerSummary name="Andy Scott" overs="6" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="15" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Yon"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Yon"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="Ellis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="Ellis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="Ellis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="2" score="44"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="7" score="54"/>
+    <FallOfWicket batsman="6" score="54"/>
+    <FallOfWicket batsman="8" score="54"/>
+    <FallOfWicket batsman="9" score="56"/>
+    <FallOfWicket batsman="11" score="63"/>
+    <BowlerSummary name="Dawkins" overs="10" maidens="3" runs="14" wickets="2"/>
+    <BowlerSummary name="Newman" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Yon" overs="11" maidens="5" runs="13" wickets="5"/>
+    <BowlerSummary name="Ellis" overs="4.3" maidens="2" runs="4" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

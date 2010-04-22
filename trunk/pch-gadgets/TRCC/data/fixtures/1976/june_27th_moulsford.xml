@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:00 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun Jun 27 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Moulsford">
+    <Batsman name="Timmins">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Newman">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bonner">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Parkes"/>
+    <Batsman name="Slade">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tilling">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bracey"/>
+    <Batsman name="Clarke"/>
+    <Batsman name="Coates"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="4" score="115"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <BowlerSummary name="Chris Telfer" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Dave Searby" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="4" runs="22" wickets="1"/>
+    <BowlerSummary name="Paul Woodford" overs="6" maidens="0" runs="27" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Timmins"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Bowled"/>
+      <Bowler name="2"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Dave Searby">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="George West"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="Chris Telfer"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="98"/>
+    <FallOfWicket batsman="2" score="121"/>
+    <BowlerSummary name="1" overs="7.2" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="2" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Newman" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Timmins" overs="6" maidens="0" runs="28" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

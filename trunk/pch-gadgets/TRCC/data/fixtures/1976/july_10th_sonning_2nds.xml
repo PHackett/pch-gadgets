@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:02 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning 2nds" date="Sat Jul 10 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning 2nds">
+    <Batsman name="Bandey">
+      <HowOut how="Caught Sean Hawthorne"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Lehain">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Choules">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Freeman">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hines">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Morrell">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Carr">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Talbot">
+      <HowOut how="Caught E Gray"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="A Carr">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Faulkener">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="3" score="21"/>
+    <FallOfWicket batsman="1" score="47"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="7" score="66"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <FallOfWicket batsman="6" score="79"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <FallOfWicket batsman="10" score="116"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="4" runs="9" wickets="2"/>
+    <BowlerSummary name="Jim Bryant" overs="8" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="8" maidens="1" runs="33" wickets="4"/>
+    <BowlerSummary name="Ray Cox" overs="2" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="Paul Woodford" overs="3" maidens="1" runs="14" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Not Out"/>
+      <Runs value="89"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Caught"/>
+      <Bowler name="Faulkener"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="LBW"/>
+      <Bowler name="Talbot"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Faulkener"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Smith"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Dave Harris"/>
+    <Batsman name="George West"/>
+    <Batsman name="Mick Houlton"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <FallOfWicket batsman="6" score="113"/>
+    <BowlerSummary name="Talbot" overs="5" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Faulkener" overs="8" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Lehain" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Smith" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Carr" overs="2.2" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

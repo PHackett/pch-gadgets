@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:01 UTC+0100 2010 -->
+<CricketMatch oppo="Newbury" date="Sun Aug 22 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Newbury">
+    <Batsman name="Holloway">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bhathena">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Wilcock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wyatt">
+      <HowOut how="Not Out"/>
+      <Runs value="107"/>
+    </Batsman>
+    <Batsman name="Herdman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Wood">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Finch">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bull">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Coster">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Larkcom"/>
+    <Batsman name="Hobbs"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="3" score="4"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="6" score="121"/>
+    <FallOfWicket batsman="7" score="134"/>
+    <FallOfWicket batsman="8" score="172"/>
+    <FallOfWicket batsman="9" score="180"/>
+    <BowlerSummary name="Tom Fort" overs="12.4" maidens="2" runs="38" wickets="7"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="0" runs="68" wickets="1"/>
+    <BowlerSummary name="Paul Appaloosa" overs="7" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3.4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Stumped"/>
+      <Bowler name="Herdman"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hobbs"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Bowled"/>
+      <Bowler name="Larkcom"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herdman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="LBW"/>
+      <Bowler name="Finch"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herdman"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herdman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herdman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="6" score="48"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <FallOfWicket batsman="7" score="102"/>
+    <FallOfWicket batsman="9" score="103"/>
+    <BowlerSummary name="Larkcom" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Hobbs" overs="6" maidens="2" runs="21" wickets="1"/>
+    <BowlerSummary name="Herdman" overs="10.1" maidens="3" runs="29" wickets="5"/>
+    <BowlerSummary name="Finch" overs="7" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Wilcock" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:02 UTC+0100 2010 -->
+<CricketMatch oppo="Littlewick Green" date="Sat Jun 26 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="LBW"/>
+      <Bowler name="Field"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Richardson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Run Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Arnold"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richardson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="LBW"/>
+      <Bowler name="Arnold"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Field"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="Field"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Field"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="4" score="92"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="1" score="96"/>
+    <FallOfWicket batsman="8" score="105"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <FallOfWicket batsman="9" score="109"/>
+    <FallOfWicket batsman="11" score="113"/>
+    <BowlerSummary name="Field" overs="9.1" maidens="2" runs="34" wickets="4"/>
+    <BowlerSummary name="Galitzine" overs="6" maidens="2" runs="8" wickets="0"/>
+    <BowlerSummary name="Arnold" overs="11" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Richardson" overs="8" maidens="1" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Littlewick Green">
+    <Batsman name="C Hurley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="T Wardle">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Arnold">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="K Ellis">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="D Burley">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="4" runs="22" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="7" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Dave Harris" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="6" maidens="1" runs="18" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

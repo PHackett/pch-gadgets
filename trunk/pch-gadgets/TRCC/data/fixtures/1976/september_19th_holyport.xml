@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:01 UTC+0100 2010 -->
+<CricketMatch oppo="Holyport" date="Sun Sep 19 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Kirby"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Stumped"/>
+      <Bowler name="Kirby"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bush"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kirby"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kirby"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Kirby"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gales"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Stumped"/>
+      <Bowler name="Gales"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Wood">
+      <HowOut how="Caught"/>
+      <Bowler name="Gales"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="4" score="8"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="7" score="57"/>
+    <FallOfWicket batsman="9" score="63"/>
+    <FallOfWicket batsman="8" score="78"/>
+    <FallOfWicket batsman="10" score="79"/>
+    <BowlerSummary name="Kirby" overs="9" maidens="1" runs="45" wickets="5"/>
+    <BowlerSummary name="Bush" overs="7" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Gales" overs="3.4" maidens="1" runs="45" wickets="3"/>
+    <BowlerSummary name="Stanmore" overs="2" maidens="1" runs="1" wickets="0"/>
+  </Innings>
+  <Innings batting="Holyport">
+    <Batsman name="Price">
+      <HowOut how="Caught J Telfer"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stanmore">
+      <HowOut how="LBW"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rouls">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Gough">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hanif">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dell"/>
+    <Batsman name="Gales"/>
+    <Batsman name="Bush"/>
+    <Batsman name="Kirby"/>
+    <Batsman name="Dearling"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="2" score="35"/>
+    <FallOfWicket batsman="3" score="51"/>
+    <FallOfWicket batsman="5" score="51"/>
+    <BowlerSummary name="J Telfer" overs="8" maidens="4" runs="10" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="6.3" maidens="2" runs="31" wickets="3"/>
+    <BowlerSummary name="Paul Woodford" overs="3" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

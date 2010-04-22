@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:02 UTC+0100 2010 -->
+<CricketMatch oppo="Farnham Common" date="Sat Jun 12 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="A Woodland"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Woodland"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Woodland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Welford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="G Welford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="A Woodland"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Welford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="6" score="52"/>
+    <FallOfWicket batsman="7" score="54"/>
+    <FallOfWicket batsman="8" score="60"/>
+    <FallOfWicket batsman="9" score="71"/>
+    <FallOfWicket batsman="10" score="78"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <BowlerSummary name="C Woodland" overs="8" maidens="2" runs="19" wickets="3"/>
+    <BowlerSummary name="A Knight" overs="5" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="A Woodland" overs="9.2" maidens="1" runs="20" wickets="4"/>
+    <BowlerSummary name="G Welford" overs="7" maidens="3" runs="18" wickets="3"/>
+  </Innings>
+  <Innings batting="Farnham Common">
+    <Batsman name="A Woodland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Grigg">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="K Nickless">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Gazior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Woodland">
+      <HowOut how="Caught Terry Harman"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Twigg">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="G Yates">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Welford">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="L Goodwin">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lockley"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="27"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="6" score="54"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <FallOfWicket batsman="8" score="76"/>
+    <BowlerSummary name="Jim Bryant" overs="8.1" maidens="3" runs="19" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="7" maidens="3" runs="11" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="14" maidens="3" runs="40" wickets="4"/>
+    <BowlerSummary name="Andy Scott" overs="6" maidens="3" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
