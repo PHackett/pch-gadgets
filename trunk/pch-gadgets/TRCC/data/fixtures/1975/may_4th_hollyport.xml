@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:00 UTC+0100 2010 -->
+<CricketMatch oppo="Hollyport" date="Sun May 4 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="LBW"/>
+      <Bowler name="A Richardson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="A Richardson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="A Kirby"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Richardson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Kirby"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="A Richardson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Kirby"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="LBW"/>
+      <Bowler name="A Kirby"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Willoughby">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Richardson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Taplin">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Richardson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="5" score="24"/>
+    <FallOfWicket batsman="4" score="28"/>
+    <FallOfWicket batsman="7" score="29"/>
+    <FallOfWicket batsman="8" score="29"/>
+    <FallOfWicket batsman="6" score="37"/>
+    <FallOfWicket batsman="9" score="38"/>
+    <FallOfWicket batsman="11" score="42"/>
+    <BowlerSummary name="A Kirby" overs="14" maidens="5" runs="17" wickets="4"/>
+    <BowlerSummary name="A Richardson" overs="13.4" maidens="4" runs="24" wickets="6"/>
+  </Innings>
+  <Innings batting="Hollyport">
+    <Batsman name="P Price">
+      <HowOut how="Caught A Seymour"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Kirby">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A William">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="D Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="J Telfer" overs="6" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Roger Willoughby" overs="1" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="Roger Taplin" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

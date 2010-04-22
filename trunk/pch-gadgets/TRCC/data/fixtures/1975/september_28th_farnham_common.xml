@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:02 UTC+0100 2010 -->
+<CricketMatch oppo="Farnham Common" date="Sun Sep 28 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Groves"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Caught"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Keith Goswell">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Woodland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Woodland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort"/>
+    <Batsman name="Hugh Davies"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="4" score="134"/>
+    <FallOfWicket batsman="3" score="175"/>
+    <FallOfWicket batsman="5" score="177"/>
+    <FallOfWicket batsman="7" score="183"/>
+    <FallOfWicket batsman="8" score="187"/>
+    <BowlerSummary name="C Woodland" overs="11" maidens="2" runs="44" wickets="4"/>
+    <BowlerSummary name="A Groves" overs="18" maidens="2" runs="87" wickets="1"/>
+    <BowlerSummary name="M Wilson" overs="13" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="R Woodland" overs="2" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Farnham Common">
+    <Batsman name="A North">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Grigg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Groves">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Woodland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Wilson">
+      <HowOut how="Caught Keith Goswell"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Roberts">
+      <HowOut how="Caught Keith Goswell"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="I Gasior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="T Wade">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C Woodland">
+      <HowOut how="Caught Chris Telfer"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Nickless">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="3" score="5"/>
+    <FallOfWicket batsman="4" score="12"/>
+    <FallOfWicket batsman="5" score="19"/>
+    <FallOfWicket batsman="6" score="23"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="7" score="36"/>
+    <FallOfWicket batsman="9" score="55"/>
+    <FallOfWicket batsman="10" score="57"/>
+    <FallOfWicket batsman="8" score="59"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Chris Telfer" overs="9" maidens="4" runs="8" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="7" runs="8" wickets="4"/>
+    <BowlerSummary name="Matthew Fort" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Paul Woodford" overs="3" maidens="2" runs="9" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

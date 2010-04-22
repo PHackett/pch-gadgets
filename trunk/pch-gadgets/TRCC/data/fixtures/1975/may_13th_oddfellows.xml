@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:02 UTC+0100 2010 -->
+<CricketMatch oppo="Oddfellows" date="Tue May 13 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="A Fullbrook"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Englefield"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="R Fullbrook"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Roger Taplin">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="M Holly"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="J Telfer"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="5" score="111"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <BowlerSummary name="M Holly" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Englefield" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Smith" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="A Fullbrook" overs="4" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="R Fullbrook" overs="2" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Oddfellows">
+    <Batsman name="B Hoffler">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="N Thatcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Wilkinson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Fullbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Fullbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Bargent">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Englefield">
+      <HowOut how="Caught J Telfer"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Bright">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Holly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="K Mathews">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="6" score="18"/>
+    <FallOfWicket batsman="7" score="18"/>
+    <FallOfWicket batsman="8" score="19"/>
+    <FallOfWicket batsman="10" score="20"/>
+    <FallOfWicket batsman="9" score="23"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="9" wickets="4"/>
+    <BowlerSummary name="J Telfer" overs="2" maidens="0" runs="6" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="2" maidens="0" runs="2" wickets="1"/>
+    <BowlerSummary name="Brian Adams" overs="1.5" maidens="1" runs="3" wickets="2"/>
+    <BowlerSummary name="Roger Taplin" overs="1" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

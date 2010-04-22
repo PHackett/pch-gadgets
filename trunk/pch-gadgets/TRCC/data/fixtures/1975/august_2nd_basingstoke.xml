@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:03 UTC+0100 2010 -->
+<CricketMatch oppo="Basingstoke" date="Sat Aug 2 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="I Parfitt"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Catlar"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="P Cooper"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Catlar"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="K Catlar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Church"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Church"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Church"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="Church"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="3" score="94"/>
+    <FallOfWicket batsman="4" score="103"/>
+    <FallOfWicket batsman="5" score="105"/>
+    <FallOfWicket batsman="6" score="169"/>
+    <FallOfWicket batsman="2" score="169"/>
+    <FallOfWicket batsman="8" score="178"/>
+    <FallOfWicket batsman="7" score="188"/>
+    <FallOfWicket batsman="9" score="189"/>
+    <BowlerSummary name="Church" overs="8" maidens="0" runs="35" wickets="4"/>
+    <BowlerSummary name="I Parfitt" overs="8" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="C Leadbeater" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="M Smith" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="K Catlar" overs="10" maidens="1" runs="40" wickets="3"/>
+    <BowlerSummary name="P Cooper" overs="7" maidens="0" runs="38" wickets="1"/>
+  </Innings>
+  <Innings batting="Basingstoke">
+    <Batsman name="K Catlar">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Pyne">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Peach">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="P Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Jones">
+      <HowOut how="Caught E Gray"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Brooks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Bailey">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="C Leadbeater">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="I Parfitt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Church">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="5" score="74"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <FallOfWicket batsman="9" score="110"/>
+    <FallOfWicket batsman="10" score="114"/>
+    <FallOfWicket batsman="7" score="116"/>
+    <BowlerSummary name="Martin Grugeon" overs="7" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="Jim Bryant" overs="7.2" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="8" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Stan Coates" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="7" maidens="2" runs="24" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

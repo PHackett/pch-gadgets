@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:00 UTC+0100 2010 -->
+<CricketMatch oppo="Knowle Hill" date="Sun May 18 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Knowle Hill">
+    <Batsman name="P Stone">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="T Wickenden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Hopgood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="M Coates">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Hatch">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="G Wiggins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Farmqui">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Watson">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Denton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Wigley">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Mobey"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="84"/>
+    <FallOfWicket batsman="4" score="85"/>
+    <FallOfWicket batsman="1" score="103"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="7" score="117"/>
+    <FallOfWicket batsman="6" score="118"/>
+    <FallOfWicket batsman="9" score="124"/>
+    <BowlerSummary name="Tom Fort" overs="14" maidens="2" runs="38" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="12" maidens="1" runs="46" wickets="4"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Roger Willoughby" overs="4" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="G Wiggins"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="A Farmqui"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="T Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="A Farmqui"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Farmqui"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roger Willoughby">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="LBW"/>
+      <Bowler name="A Farmqui"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Davies"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="6" score="35"/>
+    <FallOfWicket batsman="7" score="43"/>
+    <FallOfWicket batsman="8" score="76"/>
+    <FallOfWicket batsman="9" score="76"/>
+    <BowlerSummary name="A Farmqui" overs="15" maidens="4" runs="32" wickets="4"/>
+    <BowlerSummary name="G Wiggins" overs="14" maidens="6" runs="20" wickets="1"/>
+    <BowlerSummary name="M Coates" overs="6" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="R Denton" overs="4" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="A Hatch" overs="3" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
