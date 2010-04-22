@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:01 UTC+0100 2010 -->
+<CricketMatch oppo="Uxbridge Torchbearers" date="Sat May 22 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Swallow"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clark"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sims"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Swallow"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Campbell"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Graham Tibbett"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="3" score="96"/>
+    <FallOfWicket batsman="5" score="142"/>
+    <FallOfWicket batsman="4" score="168"/>
+    <FallOfWicket batsman="7" score="196"/>
+    <BowlerSummary name="Roberts" overs="17" maidens="3" runs="55" wickets="0"/>
+    <BowlerSummary name="Clark" overs="5" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Swallow" overs="11" maidens="1" runs="50" wickets="2"/>
+    <BowlerSummary name="Campbell" overs="7" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="Sims" overs="7" maidens="0" runs="46" wickets="1"/>
+  </Innings>
+  <Innings batting="Uxbridge Torchbearers">
+    <Batsman name="Hamson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamblin">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Swallow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Appleton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="San">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lownsborough">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Campbell">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Holloway">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sims">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="6"/>
+    <FallOfWicket batsman="4" score="12"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="6" score="24"/>
+    <FallOfWicket batsman="5" score="26"/>
+    <FallOfWicket batsman="7" score="52"/>
+    <FallOfWicket batsman="9" score="53"/>
+    <FallOfWicket batsman="8" score="53"/>
+    <FallOfWicket batsman="11" score="70"/>
+    <BowlerSummary name="Jim Bryant" overs="3" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="6" maidens="5" runs="4" wickets="4"/>
+    <BowlerSummary name="Mick Houlton" overs="8.2" maidens="0" runs="29" wickets="4"/>
+    <BowlerSummary name="Ray Cox" overs="4" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Dave Harris" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="Graham Tibbett" overs="2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:00 UTC+0100 2010 -->
+<CricketMatch oppo="Tottenham Enterprise" date="Sun Jul 18 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Hart"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Terry Hawthorne">
+      <HowOut how="Caught"/>
+      <Bowler name="Hart"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Caught"/>
+      <Bowler name="Hoare"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="LBW"/>
+      <Bowler name="Hoare"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Gooch"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Hoare"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Wood"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="2" score="48"/>
+    <FallOfWicket batsman="3" score="77"/>
+    <FallOfWicket batsman="5" score="105"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <FallOfWicket batsman="7" score="152"/>
+    <BowlerSummary name="Hoare" overs="18" maidens="2" runs="72" wickets="3"/>
+    <BowlerSummary name="Hart" overs="8" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Gooch" overs="10" maidens="0" runs="58" wickets="1"/>
+  </Innings>
+  <Innings batting="Tottenham Enterprise">
+    <Batsman name="P Ward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="H Gooch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Hoare">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="W Hart">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Driscoll">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="James Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="W Colly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Skeggs">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Dawson">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Dawson">
+      <HowOut how="LBW"/>
+      <Bowler name="James Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="K Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="2" score="56"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="6" score="76"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="7" score="78"/>
+    <FallOfWicket batsman="9" score="84"/>
+    <FallOfWicket batsman="10" score="96"/>
+    <BowlerSummary name="Jim Bryant" overs="16" maidens="4" runs="35" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="11" maidens="4" runs="22" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="5" maidens="1" runs="10" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

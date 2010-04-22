@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:46:57 UTC+0100 2010 -->
+<CricketMatch oppo="Ibis" date="Sun Apr 25 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ibis">
+    <Batsman name="Johnston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Llewendon">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="King">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Spice">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="White">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sunerton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Baker">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hammond">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Stevens">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A White">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Watkins">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="5" score="23"/>
+    <FallOfWicket batsman="4" score="28"/>
+    <FallOfWicket batsman="6" score="29"/>
+    <FallOfWicket batsman="7" score="31"/>
+    <FallOfWicket batsman="9" score="46"/>
+    <FallOfWicket batsman="10" score="76"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="4" runs="13" wickets="1"/>
+    <BowlerSummary name="Chris Telfer" overs="13" maidens="7" runs="19" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="15" maidens="3" runs="39" wickets="3"/>
+    <BowlerSummary name="Matthew Fort" overs="5" maidens="2" runs="11" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="White"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Watkins"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="White"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="White"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Baker"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="Johnston"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort"/>
+    <Batsman name="Graham Tibbett"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="7" score="53"/>
+    <BowlerSummary name="White" overs="16" maidens="8" runs="22" wickets="3"/>
+    <BowlerSummary name="Watkins" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="King" overs="6" maidens="5" runs="1" wickets="0"/>
+    <BowlerSummary name="Baker" overs="3" maidens="2" runs="4" wickets="1"/>
+    <BowlerSummary name="Sunerton" overs="2" maidens="2" runs="0" wickets="0"/>
+    <BowlerSummary name="Johnston" overs="3" maidens="3" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

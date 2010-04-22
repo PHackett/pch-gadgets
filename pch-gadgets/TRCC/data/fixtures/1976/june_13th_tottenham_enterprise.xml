@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:00 UTC+0100 2010 -->
+<CricketMatch oppo="Tottenham Enterprise" date="Sun Jun 13 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="Hart"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Caught"/>
+      <Bowler name="Miller"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hart"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hart"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Driscoll"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hart"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Batsman name="Roger Willoughby"/>
+    <Batsman name="J Telfer"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="79"/>
+    <FallOfWicket batsman="2" score="87"/>
+    <FallOfWicket batsman="3" score="173"/>
+    <FallOfWicket batsman="5" score="181"/>
+    <FallOfWicket batsman="6" score="199"/>
+    <FallOfWicket batsman="4" score="202"/>
+    <BowlerSummary name="Hoare" overs="6" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Hart" overs="11" maidens="0" runs="69" wickets="4"/>
+    <BowlerSummary name="Miller" overs="5" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Dawson" overs="2" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Driscoll" overs="3" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Tottenham Enterprise">
+    <Batsman name="Ward">
+      <HowOut how="Caught Stan Coates"/>
+      <Bowler name="Roger Willoughby"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Miller">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hands">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tibbett">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Driscoll">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Hart">
+      <HowOut how="Caught Chris Telfer"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hoare">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Culley">
+      <HowOut how="Stumped"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Dawson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nicholls">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Dawson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="9"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="6" score="16"/>
+    <FallOfWicket batsman="7" score="16"/>
+    <FallOfWicket batsman="8" score="17"/>
+    <FallOfWicket batsman="9" score="55"/>
+    <FallOfWicket batsman="10" score="57"/>
+    <BowlerSummary name="Chris Telfer" overs="10" maidens="7" runs="5" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="3" runs="14" wickets="1"/>
+    <BowlerSummary name="Roger Willoughby" overs="6" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Matthew Fort" overs="4" maidens="1" runs="13" wickets="3"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Paul Woodford" overs="3" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

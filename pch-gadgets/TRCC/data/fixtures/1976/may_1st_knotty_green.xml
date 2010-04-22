@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:01 UTC+0100 2010 -->
+<CricketMatch oppo="Knotty Green" date="Sat May 1 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Knotty Green">
+    <Batsman name="P Greenwood">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Graham">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Homer">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Lean">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Baldwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="K Barber">
+      <HowOut how="Caught Sean Hawthorne"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="O Olivier">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Murray-Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Lloyd">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Bennett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="4" score="17"/>
+    <FallOfWicket batsman="5" score="34"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="7" score="43"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="9" score="78"/>
+    <BowlerSummary name="Mick Houlton" overs="10" maidens="3" runs="26" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="4" runs="26" wickets="4"/>
+    <BowlerSummary name="Ray Cox" overs="6" maidens="2" runs="8" wickets="2"/>
+    <BowlerSummary name="Dave Harris" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="4" maidens="3" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="J Murray-Clark"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="D Baldwin"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="J Murray-Clark"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Baldwin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="D Baldwin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="LBW"/>
+      <Bowler name="J Murray-Clark"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="Sean Hawthorne"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="50"/>
+    <FallOfWicket batsman="2" score="52"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="7" score="65"/>
+    <BowlerSummary name="J Murray-Clark" overs="15" maidens="4" runs="29" wickets="3"/>
+    <BowlerSummary name="O Olivier" overs="4" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="D Baldwin" overs="10.2" maidens="1" runs="37" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

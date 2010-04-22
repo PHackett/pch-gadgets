@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:46:59 UTC+0100 2010 -->
+<CricketMatch oppo="Holyport" date="Sun May 2 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="P Kirby"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Kirby"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Kirby"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stanmore"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Kirby"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="A Kirby"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas"/>
+    <Batsman name="Chris Telfer"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="4" score="102"/>
+    <FallOfWicket batsman="3" score="110"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="7" score="138"/>
+    <BowlerSummary name="A Richardson" overs="9" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="A Kirby" overs="15" maidens="6" runs="28" wickets="2"/>
+    <BowlerSummary name="Stanmore" overs="10" maidens="3" runs="34" wickets="1"/>
+    <BowlerSummary name="P Kirby" overs="10" maidens="1" runs="38" wickets="3"/>
+  </Innings>
+  <Innings batting="Holyport">
+    <Batsman name="P Price">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="A Spooner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hanif">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="P Kirby">
+      <HowOut how="Caught Chris Telfer"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Stanmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Mainwaring">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Bush">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Gigg">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Kirby">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Richardson"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="2" score="105"/>
+    <FallOfWicket batsman="5" score="110"/>
+    <FallOfWicket batsman="6" score="112"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="9" score="140"/>
+    <BowlerSummary name="J Telfer" overs="11" maidens="3" runs="30" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="12.3" maidens="3" runs="35" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="13" maidens="3" runs="37" wickets="5"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

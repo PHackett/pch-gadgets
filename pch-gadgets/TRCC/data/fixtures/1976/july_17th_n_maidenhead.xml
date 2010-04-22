@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:02 UTC+0100 2010 -->
+<CricketMatch oppo="N Maidenhead" date="Sat Jul 17 00:00:00 UTC+0100 1976">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="N Maidenhead">
+    <Batsman name="G Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Creffield">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="R Bush">
+      <HowOut how="LBW"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Dye">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="K Norcutt">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Hopkins">
+      <HowOut how="Caught Terry Harman"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="G Church">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Goyal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Axford">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Shabbir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Deane">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="7" score="132"/>
+    <FallOfWicket batsman="8" score="136"/>
+    <FallOfWicket batsman="6" score="136"/>
+    <FallOfWicket batsman="10" score="138"/>
+    <BowlerSummary name="Jim Bryant" overs="11" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="Paul Appaloosa" overs="10" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="9" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="3" maidens="0" runs="6" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="G Church"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Shabbir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Church"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Church"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Caught"/>
+      <Bowler name="G Church"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="B Hopkins"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="B Hopkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Caught"/>
+      <Bowler name="B Hopkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Caught"/>
+      <Bowler name="G Church"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="1" score="73"/>
+    <FallOfWicket batsman="6" score="73"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="7" score="82"/>
+    <FallOfWicket batsman="9" score="82"/>
+    <FallOfWicket batsman="10" score="84"/>
+    <FallOfWicket batsman="11" score="93"/>
+    <BowlerSummary name="G Stewart" overs="6" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Shabbir" overs="5" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="G Church" overs="11.4" maidens="6" runs="17" wickets="5"/>
+    <BowlerSummary name="R Bush" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="B Hopkins" overs="6" maidens="0" runs="18" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

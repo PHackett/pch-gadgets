@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:47:02 UTC+0100 2010 -->
+<CricketMatch oppo="Sperry" date="Tue May 25 00:00:00 UTC+0100 1976">
+  <MatchReport>
+    <![CDATA[
+      Bracknell Evening Cup.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="C Holliday"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Holliday"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Phillips"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="C Holliday"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="C Holliday"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Holliday"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Telfer"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="8" score="50"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="9" score="61"/>
+    <BowlerSummary name="J Phillips" overs="8" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="C Holliday" overs="7.5" maidens="0" runs="34" wickets="5"/>
+  </Innings>
+  <Innings batting="Sperry">
+    <Batsman name="D Gilham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Phillips">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Thorpe">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="N Stone">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Lowe">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Howells">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Holliday">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Eassom">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Clements">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Allerton">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Holding">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="5" score="14"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="6" score="16"/>
+    <FallOfWicket batsman="9" score="29"/>
+    <FallOfWicket batsman="7" score="44"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="3" runs="18" wickets="2"/>
+    <BowlerSummary name="Jim Bryant" overs="5" maidens="0" runs="11" wickets="5"/>
+    <BowlerSummary name="Mick Houlton" overs="3.5" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
