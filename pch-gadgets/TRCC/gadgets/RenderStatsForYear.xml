@@ -311,10 +311,24 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
+					// If we are trying to render this page on the Google Sites website, then
+					// we shall assume this is a real, pukka, 'show me' request.
+					// Otherwise - We may be running a test from elsewhere (Such as GGE)
 					//
-					// Read the user prefs & hosting URL
-					//
-					processSettings();
+					if (!GGGadget_hostedOnSites())
+					{
+						//
+						// Read the user prefs & hosting URL
+						//
+						processSettings();
+					}
+					else
+					{
+						//
+						// On Google sites - Get the year from the URL
+						//
+						gYear = GGTRCC_YearFromSitesURL();
+					}
 
 					//
 					// Load the fixtures for the given year
