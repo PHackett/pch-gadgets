@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:01 UTC+0100 2010 -->
+<CricketMatch oppo="Slough Estates" date="Sun Jun 8 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Moules"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Caught"/>
+      <Bowler name="Brown"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="Moules"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moules"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Moules"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="Moules"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Stumped"/>
+      <Bowler name="Moules"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moules"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="6" score="22"/>
+    <FallOfWicket batsman="7" score="28"/>
+    <FallOfWicket batsman="8" score="28"/>
+    <FallOfWicket batsman="9" score="30"/>
+    <FallOfWicket batsman="10" score="31"/>
+    <BowlerSummary name="Moules" overs="11.5" maidens="4" runs="13" wickets="7"/>
+    <BowlerSummary name="Brown" overs="11" maidens="5" runs="17" wickets="3"/>
+  </Innings>
+  <Innings batting="Slough Estates">
+    <Batsman name="Norcutt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Winstanley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Brown">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Moules">
+      <HowOut how="Caught Chris Telfer"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Tomlinson">
+      <HowOut how="Caught A Seymour"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Ambrose">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="5" score="22"/>
+    <FallOfWicket batsman="6" score="24"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="14" wickets="3"/>
+    <BowlerSummary name="J Telfer" overs="1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="2" runs="9" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:01 UTC+0100 2010 -->
+<CricketMatch oppo="Tottenham Enterprise" date="Sun Jul 20 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Tottenham Enterprise">
+    <Batsman name="Major">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="H Gooch">
+      <HowOut how="Caught T Taylor"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Skeggs">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hogg">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Driscoll">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dawson">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ball">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ingram">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="T Taylor"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="W Dawson">
+      <HowOut how="Caught Roger Willoughby"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="6" score="37"/>
+    <FallOfWicket batsman="5" score="43"/>
+    <FallOfWicket batsman="8" score="48"/>
+    <FallOfWicket batsman="9" score="67"/>
+    <FallOfWicket batsman="7" score="71"/>
+    <FallOfWicket batsman="10" score="93"/>
+    <BowlerSummary name="Tom Fort" overs="12" maidens="2" runs="30" wickets="5"/>
+    <BowlerSummary name="Chris Telfer" overs="10.1" maidens="2" runs="21" wickets="3"/>
+    <BowlerSummary name="Martin Grugeon" overs="6" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="T Taylor" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Roger Willoughby" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Gooch"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Roger Willoughby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Driscoll"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Gooch"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tim Glover"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Barry Thomas"/>
+    <Batsman name="J Telfer"/>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <BowlerSummary name="Hogg" overs="6" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Driscoll" overs="6" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="Ball" overs="1" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="H Gooch" overs="3.4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Miller" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Ward" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:01 UTC+0100 2010 -->
+<CricketMatch oppo="Hatchend Parkfields" date="Sun May 25 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilby"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Carleton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Carleton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Carleton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mapura"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilby"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Roger Willoughby">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilby"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="Carleton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="LBW"/>
+      <Bowler name="Wilby"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="40"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="5" score="60"/>
+    <FallOfWicket batsman="6" score="65"/>
+    <FallOfWicket batsman="7" score="72"/>
+    <FallOfWicket batsman="9" score="99"/>
+    <FallOfWicket batsman="10" score="100"/>
+    <FallOfWicket batsman="11" score="104"/>
+    <BowlerSummary name="Saunders" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Harrison" overs="1" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Carleton" overs="10" maidens="4" runs="19" wickets="4"/>
+    <BowlerSummary name="Wilby" overs="15" maidens="2" runs="25" wickets="4"/>
+    <BowlerSummary name="Mapura" overs="4" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Frazer" overs="3" maidens="1" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Hatchend Parkfields">
+    <Batsman name="Parsonage">
+      <HowOut how="Caught Tim Glover"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Saunders">
+      <HowOut how="Run Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Dumphries">
+      <HowOut how="Caught Stan Coates"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lobo">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harrison">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Wilby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Crook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mapura">
+      <HowOut how="LBW"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Carleton">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Frazer">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="4" score="61"/>
+    <FallOfWicket batsman="5" score="66"/>
+    <FallOfWicket batsman="6" score="73"/>
+    <FallOfWicket batsman="1" score="94"/>
+    <FallOfWicket batsman="8" score="98"/>
+    <FallOfWicket batsman="9" score="101"/>
+    <FallOfWicket batsman="7" score="101"/>
+    <FallOfWicket batsman="10" score="104"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="4" runs="6" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="6" runs="27" wickets="1"/>
+    <BowlerSummary name="Roger Willoughby" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Brian Adams" overs="12" maidens="1" runs="30" wickets="7"/>
+  </Innings>
+</CricketMatch>
+

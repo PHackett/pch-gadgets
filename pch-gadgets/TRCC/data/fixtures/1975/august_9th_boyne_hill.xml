@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:03 UTC+0100 2010 -->
+<CricketMatch oppo="Boyne Hill" date="Sat Aug 9 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richards"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Jewell"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Stumped"/>
+      <Bowler name="Jewell"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Jewell"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Hinchcliffe"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="E Gray"/>
+    <Batsman name="Theo Gray"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="80"/>
+    <FallOfWicket batsman="1" score="103"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="4" score="111"/>
+    <FallOfWicket batsman="5" score="112"/>
+    <FallOfWicket batsman="7" score="163"/>
+    <FallOfWicket batsman="8" score="204"/>
+    <BowlerSummary name="Lawrence" overs="11" maidens="1" runs="61" wickets="0"/>
+    <BowlerSummary name="Wheeler" overs="8" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Jewell" overs="14" maidens="2" runs="52" wickets="3"/>
+    <BowlerSummary name="Richards" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Hinchcliffe" overs="1.3" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Boyne Hill">
+    <Batsman name="Hinchcliffe">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Penfold">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Dunnings">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J Young">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="L Runkel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Wheeler">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="J Jewell">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Richards">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Woodford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Drake">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Mick Houlton" overs="20.2" maidens="2" runs="63" wickets="8"/>
+    <BowlerSummary name="Brian Adams" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Dave Harris" overs="9" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Paul Woodford" overs="7" maidens="1" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

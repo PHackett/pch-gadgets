@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:03 UTC+0100 2010 -->
+<CricketMatch oppo="Uxbridge Torchbearers" date="Sat Jul 26 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sugden"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anderson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="Sugden"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Roberts"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Caught"/>
+      <Bowler name="Sims"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="W Gray">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anderson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="Sims"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sims"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Anderson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="4" score="70"/>
+    <FallOfWicket batsman="1" score="102"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <FallOfWicket batsman="8" score="149"/>
+    <FallOfWicket batsman="9" score="154"/>
+    <FallOfWicket batsman="10" score="156"/>
+    <BowlerSummary name="Anderson" overs="13" maidens="2" runs="30" wickets="3"/>
+    <BowlerSummary name="Roberts" overs="14" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Sugden" overs="8" maidens="1" runs="51" wickets="2"/>
+    <BowlerSummary name="Sims" overs="6" maidens="0" runs="32" wickets="3"/>
+  </Innings>
+  <Innings batting="Uxbridge Torchbearers">
+    <Batsman name="Swallow">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Hamson">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Caught E Gray"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sugden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Caught E Gray"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Saw">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Lownsborough">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Holloway">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="W Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bugbee">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Gray"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sims">
+      <HowOut how="Stumped"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="6" score="70"/>
+    <FallOfWicket batsman="7" score="82"/>
+    <FallOfWicket batsman="8" score="82"/>
+    <FallOfWicket batsman="9" score="82"/>
+    <FallOfWicket batsman="10" score="98"/>
+    <FallOfWicket batsman="11" score="98"/>
+    <BowlerSummary name="Jim Bryant" overs="5" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Ray Cox" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="8" maidens="0" runs="30" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="W Gray" overs="3" maidens="2" runs="6" wickets="4"/>
+    <BowlerSummary name="Stan Coates" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

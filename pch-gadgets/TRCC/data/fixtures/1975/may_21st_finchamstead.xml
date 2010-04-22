@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:02 UTC+0100 2010 -->
+<CricketMatch oppo="Finchamstead" date="Wed May 21 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Finchamstead">
+    <Batsman name="R Gilks">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="G Brigg">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Evans">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="D Robins">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Reynolds">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Stockham">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C Bowley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dunn"/>
+    <Batsman name="V Bickers"/>
+    <Batsman name="C Maynard"/>
+    <Batsman name="P Maynard"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="3" score="93"/>
+    <FallOfWicket batsman="4" score="100"/>
+    <FallOfWicket batsman="5" score="100"/>
+    <FallOfWicket batsman="7" score="119"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="0" runs="33" wickets="4"/>
+    <BowlerSummary name="Andy Scott" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="2" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="V Bickers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dunn"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dunn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Reynolds"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="M Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="M Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Stumped"/>
+      <Bowler name="D Stockham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="6" score="26"/>
+    <FallOfWicket batsman="7" score="27"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="9" score="33"/>
+    <FallOfWicket batsman="8" score="37"/>
+    <FallOfWicket batsman="11" score="41"/>
+    <BowlerSummary name="V Bickers" overs="4" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="R Dunn" overs="4" maidens="0" runs="11" wickets="2"/>
+    <BowlerSummary name="C Maynard" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="M Reynolds" overs="3.5" maidens="1" runs="8" wickets="5"/>
+    <BowlerSummary name="D Stockham" overs="1" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:02 UTC+0100 2010 -->
+<CricketMatch oppo="Berkshire College" date="Sat May 10 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Berkshire College">
+    <Batsman name="R Hiles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="P Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="S Sherborne">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Merrick">
+      <HowOut how="Caught Paul Woodford"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="K Perry">
+      <HowOut how="Caught Terry Hawthorne"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="G Beynon">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="C Knowles">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="England"/>
+    <Batsman name="P Bacon"/>
+    <Extras value="0"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <BowlerSummary name="Brian Adams" overs="6" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Jim Bryant" overs="13" maidens="2" runs="25" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="8" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="14" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="Roger Taplin" overs="3" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="England"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="P Bacon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="P Bacon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="England"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Bacon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="E Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="England"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Taplin">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Perry"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Perry"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hiles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Terry Hawthorne">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hiles"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="5" score="9"/>
+    <FallOfWicket batsman="6" score="15"/>
+    <FallOfWicket batsman="7" score="27"/>
+    <FallOfWicket batsman="8" score="46"/>
+    <FallOfWicket batsman="9" score="63"/>
+    <FallOfWicket batsman="10" score="63"/>
+    <FallOfWicket batsman="11" score="81"/>
+    <BowlerSummary name="England" overs="9" maidens="4" runs="12" wickets="3"/>
+    <BowlerSummary name="P Bacon" overs="6" maidens="5" runs="4" wickets="3"/>
+    <BowlerSummary name="S Sherborne" overs="6" maidens="3" runs="10" wickets="0"/>
+    <BowlerSummary name="J Merrick" overs="6" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="K Perry" overs="6" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="R Hiles" overs="5.1" maidens="0" runs="20" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

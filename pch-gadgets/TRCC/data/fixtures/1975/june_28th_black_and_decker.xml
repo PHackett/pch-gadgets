@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 22 19:26:03 UTC+0100 2010 -->
+<CricketMatch oppo="Black and Decker" date="Sat Jun 28 00:00:00 UTC+0100 1975">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="McCann"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Morgan"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Wise"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Terry Harman">
+      <HowOut how="Bowled"/>
+      <Bowler name="McCann"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Wise"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Morgan"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Caught"/>
+      <Bowler name="Hamilton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Andy Scott"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="5" score="47"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="3" score="130"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <FallOfWicket batsman="9" score="191"/>
+    <BowlerSummary name="McCann" overs="10" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Hamilton" overs="10" maidens="0" runs="60" wickets="1"/>
+    <BowlerSummary name="Morgan" overs="5" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Wise" overs="5" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Wisden" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Strachen" overs="5" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Black and Decker">
+    <Batsman name="Standen">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Jim Bryant"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Wilson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="McCann">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Run Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Bersley">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamilton">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wisden">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Strachen">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Denis">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rhodes">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Barry Thomas"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="Jim Bryant" overs="4" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="4" maidens="2" runs="3" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="7" maidens="0" runs="12" wickets="4"/>
+    <BowlerSummary name="J Telfer" overs="5" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="Stan Coates" overs="3" maidens="2" runs="1" wickets="0"/>
+    <BowlerSummary name="Barry Thomas" overs="2" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
