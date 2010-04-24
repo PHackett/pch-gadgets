@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:52 UTC+0100 2010 -->
+<CricketMatch oppo="Cippenham" date="Sun Jul 22 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Bryant"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Davies"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="LBW"/>
+      <Bowler name="Bryant"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bryant"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Bose">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bryant"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Davies"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Davies"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Davies"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George Capel">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Richard Knight"/>
+    <Extras value="29"/>
+    <BowlerSummary name="Bryan" overs="7" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Bryant" overs="19" maidens="2" runs="103" wickets="4"/>
+    <BowlerSummary name="C Davies" overs="16" maidens="3" runs="30" wickets="3"/>
+    <BowlerSummary name="S Davies" overs="4" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Cippenham">
+    <Batsman name="A Bryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="K Haines">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="F Iqbal">
+      <HowOut how="Caught C Bose"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Sidmu">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Bryant">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="C Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="S Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="G Sidmu">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Haines"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Nic Downes" overs="17" maidens="5" runs="71" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="4" runs="19" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Chris Bose" overs="2" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Graham Kemp" overs="3" maidens="1" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

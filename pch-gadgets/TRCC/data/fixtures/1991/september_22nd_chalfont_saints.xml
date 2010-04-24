@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Sep 22 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="M Little">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="S Whitey">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="G Harrison">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Whitwham">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Everitt">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="David Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Z Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="H Bell">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="I Manley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Crawley">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Jackson"/>
+    <Extras value="7"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="2" runs="24" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="4" runs="41" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="G Harrison"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Manley"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Z Khan" overs="5" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="G Harrison" overs="15" maidens="2" runs="48" wickets="1"/>
+    <BowlerSummary name="H Bell" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="M Everitt" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="S Whitey" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="G Crawley" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="I Manley" overs="1" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="?" overs="0.4" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

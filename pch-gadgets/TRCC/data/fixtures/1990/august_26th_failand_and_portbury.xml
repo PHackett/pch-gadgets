@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:53 UTC+0100 2010 -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Aug 26 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="K Greenidge">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Bachelor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Hurford">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="I Bullock">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="David Downes"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="A Trineman">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="K Jacobs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="S Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="95"/>
+    </Batsman>
+    <Batsman name="P Bachelor">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="R Humphries">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Dungey">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Bowen">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Stewart Wren" overs="14" maidens="2" runs="39" wickets="4"/>
+    <BowlerSummary name="Rich Lawrance" overs="9" maidens="0" runs="56" wickets="2"/>
+    <BowlerSummary name="Chris Bose" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="1" runs="57" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="1" runs="55" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="N Bowen"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Jacobs"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Hurford"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Bullock"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Bose">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Extras value="2"/>
+    <BowlerSummary name="N Bowen" overs="11" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="K Jacobs" overs="10" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="P Dungey" overs="10" maidens="0" runs="83" wickets="4"/>
+    <BowlerSummary name="B Hurford" overs="8" maidens="0" runs="71" wickets="1"/>
+    <BowlerSummary name="I Bullock" overs="1" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

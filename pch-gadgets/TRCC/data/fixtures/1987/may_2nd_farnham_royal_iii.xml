@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:04 UTC+0100 2010 -->
+<CricketMatch oppo="Farnham Royal III" date="Sat May 2 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stone"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stone"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="S Gauntley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Gauntley"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="S Gauntley"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stone"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shave"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Unknown Benham"/>
+    <Extras value="12"/>
+    <BowlerSummary name="J Stone" overs="14" maidens="4" runs="23" wickets="3"/>
+    <BowlerSummary name="S Gauntley" overs="12" maidens="3" runs="37" wickets="3"/>
+    <BowlerSummary name="Bryan" overs="7" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Ben" overs="6" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="Shave" overs="6" maidens="2" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Farnham Royal III">
+    <Batsman name="P Ayres">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lacey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Catchpole">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nicholas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Lord">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Ryan">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Shave">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Gauntley">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="3" runs="22" wickets="2"/>
+    <BowlerSummary name="Ian Helmore" overs="8" maidens="2" runs="22" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Andrew Hay" overs="2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Unknown Benham" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

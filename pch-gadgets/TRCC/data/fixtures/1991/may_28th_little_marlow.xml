@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:39 UTC+0100 2010 -->
+<CricketMatch oppo="Little Marlow" date="Tue May 28 00:00:00 UTC+0100 1991">
+  <MatchReport>
+    <![CDATA[
+      This was a Julian Cup match played on a Tuesday
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="G Falk"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="G Falk"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="G Falk"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Falk"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Tedham"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Thomas"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Thomas"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="J Thomas"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="M Smith" overs="8" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="G Falk" overs="8" maidens="0" runs="32" wickets="4"/>
+    <BowlerSummary name="R Tedham" overs="4" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="J Thomas" overs="4" maidens="0" runs="22" wickets="3"/>
+  </Innings>
+  <Innings batting="Little Marlow">
+    <Batsman name="G Field">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Falk">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Stoolman">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Large">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Adnitt">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Young">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Tedham">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="2" runs="37" wickets="4"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="3" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

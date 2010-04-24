@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Aug 25 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="A Triniman">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Batchelor">
+      <HowOut how="Caught A Wilkinson"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Cox">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Wilkinson">
+      <HowOut how="Run Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="P Batchelor">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Hudd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bullock">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Crokie">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacobs">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Bachelor">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Dungey">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="14" maidens="3" runs="43" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="14" maidens="6" runs="26" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="1" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Dungey"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="J Batchelor"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="J Batchelor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Paul Howells"/>
+    <Extras value="2"/>
+    <BowlerSummary name="Bullock" overs="4" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="Dungey" overs="9" maidens="2" runs="43" wickets="1"/>
+    <BowlerSummary name="J Batchelor" overs="13.3" maidens="2" runs="52" wickets="2"/>
+    <BowlerSummary name="Jacobs" overs="8" maidens="2" runs="23" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Mapledurham" date="Sat Sep 7 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mapledurham">
+    <Batsman name="T Ferreira">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="I McSiderdey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="G Orpwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M King">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Percy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Parsodson">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Banks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Turnbull">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Girdler">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Osborne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="6" runs="26" wickets="1"/>
+    <BowlerSummary name="Chris Sellers" overs="15" maidens="7" runs="17" wickets="7"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2.2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="S Banks"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="David Downes"/>
+    <Extras value="7"/>
+    <BowlerSummary name="S Banks" overs="7" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="P Girdler" overs="7" maidens="2" runs="28" wickets="0"/>
+    <BowlerSummary name="G Orpwood" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="T Ferreira" overs="1.5" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

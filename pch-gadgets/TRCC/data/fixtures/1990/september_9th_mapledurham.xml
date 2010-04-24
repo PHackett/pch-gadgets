@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:53 UTC+0100 2010 -->
+<CricketMatch oppo="Mapledurham" date="Sun Sep 9 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mapledurham">
+    <Batsman name="J Hodges">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="M Barraclough">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="T Harrington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="A Marshall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Shildrick">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Z Syed">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Cannell">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Wilson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Carr"/>
+    <Batsman name="P Parrott"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="6" runs="32" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="17" maidens="4" runs="48" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="55" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="4" maidens="0" runs="34" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="I Wilson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Wilson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Wilson"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Wilson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="J Carr"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="B Clark"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Carr"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Carr"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="I Wilson" overs="8" maidens="2" runs="14" wickets="4"/>
+    <BowlerSummary name="P Parrott" overs="8" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="B Clark" overs="10" maidens="1" runs="48" wickets="1"/>
+    <BowlerSummary name="J Carr" overs="9.1" maidens="0" runs="28" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

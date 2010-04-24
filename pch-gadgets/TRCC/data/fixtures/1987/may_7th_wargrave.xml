@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:02 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Thu May 7 00:00:00 UTC+0100 1987">
+  <MatchReport>
+    <![CDATA[
+      Cup game
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="T Stone"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Stone"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hermani"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Woods"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Hermani"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="19"/>
+    <BowlerSummary name="T Stone" overs="4" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="J Hermani" overs="4" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="M Woods" overs="4" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="P Norris" overs="4" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="A Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Lawson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="C Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Martin">
+      <HowOut how="Run Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="T Stone">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Hermani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Purcell">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Steve Abraham" overs="4" maidens="0" runs="15" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="3.5" maidens="0" runs="21" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

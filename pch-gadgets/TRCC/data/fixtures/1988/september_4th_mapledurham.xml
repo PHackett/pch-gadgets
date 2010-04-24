@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:20 UTC+0100 2010 -->
+<CricketMatch oppo="Mapledurham" date="Sun Sep 4 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mapledurham">
+    <Batsman name="Parsonon">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hadges">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Osborne">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Baraclough">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Percy">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Carr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Wilson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Scott"/>
+    <Batsman name="Parrott"/>
+    <Extras value="9"/>
+    <BowlerSummary name="David Downes" overs="15" maidens="4" runs="31" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="13" maidens="4" runs="46" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="3" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Clark"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Scott"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Carr"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="B Clark"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Carr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Clark"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Clark"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Ian Johnston">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Carr"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="B Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="J Scott" overs="6" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="P Parrott" overs="7" maidens="3" runs="13" wickets="0"/>
+    <BowlerSummary name="I Wilson" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="J Carr" overs="13" maidens="3" runs="43" wickets="3"/>
+    <BowlerSummary name="B Clark" overs="9" maidens="0" runs="40" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

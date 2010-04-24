@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:22 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sat Sep 24 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Reynolds"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Caught"/>
+      <Bowler name="Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robinson"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="Robinson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jilks"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Reynolds" overs="10" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Brown" overs="8" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Jilks" overs="11" maidens="4" runs="21" wickets="1"/>
+    <BowlerSummary name="Robinson" overs="9" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="Ward" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Coppid Hall">
+    <Batsman name="M Muston">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Blay">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Brown">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Barker">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="F Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Ward">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Gilkes">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Wassell">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="F Sporle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Reynolds">
+      <HowOut how="Caught Chris Sellers"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Robinson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="4" runs="3" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="9.5" maidens="3" runs="15" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="3" runs="3" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

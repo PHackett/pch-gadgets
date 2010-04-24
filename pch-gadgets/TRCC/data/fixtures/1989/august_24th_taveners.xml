@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:37 UTC+0100 2010 -->
+<CricketMatch oppo="Taveners" date="Thu Aug 24 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Taveners">
+    <Batsman name="P Jackson">
+      <HowOut how="Caught P Howells"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="S Payne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="S White">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="R Boulton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Pound">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Niven"/>
+    <Batsman name="L Davis"/>
+    <Batsman name="N Amos"/>
+    <Batsman name="F Vowles"/>
+    <Batsman name="A Hill"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Stewart Wren" overs="11.4" maidens="3" runs="29" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="15" maidens="1" runs="48" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="8" maidens="0" runs="57" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="7" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="Andy Wilkinson" overs="3" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="N Amos"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="L Davis"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="L Davis"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="L Davis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="N Amos"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="N Amos"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Hill"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Run Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Hill"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Hill"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="A Niven" overs="8" maidens="3" runs="21" wickets="0"/>
+    <BowlerSummary name="L Davis" overs="9" maidens="4" runs="13" wickets="3"/>
+    <BowlerSummary name="N Amos" overs="10.3" maidens="2" runs="35" wickets="3"/>
+    <BowlerSummary name="F Vowles" overs="5" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="A Hill" overs="4" maidens="0" runs="26" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

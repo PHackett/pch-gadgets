@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:19 UTC+0100 2010 -->
+<CricketMatch oppo="Bracknell Cup Match" date="Wed Jun 15 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Blackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Blackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Blackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Rees">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Major"/>
+    <Batsman name="Rich Lawrance"/>
+    <Extras value="21"/>
+    <BowlerSummary name="Blackett" overs="10" maidens="3" runs="12" wickets="3"/>
+    <BowlerSummary name="Taylor" overs="10" maidens="0" runs="31" wickets="3"/>
+  </Innings>
+  <Innings batting="Bracknell Cup Match">
+    <Batsman name="Henly">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Strong">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Dave Major" overs="3" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="1" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="2" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Rich Lawrance" overs="0.2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

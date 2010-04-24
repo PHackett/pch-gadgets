@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:01 UTC+0100 2010 -->
+<CricketMatch oppo="Bedfont" date="Sat Jun 8 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bedfont">
+    <Batsman name="B Wisley">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Rafi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="M Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Gould">
+      <HowOut how="Run Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="N Ninerton">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Fitz">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Briston">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Downing">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Rafi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Meridifh">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Heikes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="David Downes" overs="18" maidens="6" runs="35" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="12" maidens="7" runs="17" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="4" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Jack Hollidge" overs="6" maidens="1" runs="15" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heikes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Gould"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Edwards"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Run Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught"/>
+      <Bowler name="Heikes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Heikes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Heikes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="S Gould" overs="14" maidens="7" runs="21" wickets="2"/>
+    <BowlerSummary name="M Edwards" overs="12" maidens="5" runs="19" wickets="1"/>
+    <BowlerSummary name="Heikes" overs="5" maidens="0" runs="21" wickets="4"/>
+    <BowlerSummary name="? Navem ?" overs="4" maidens="1" runs="4" wickets="0"/>
+    <BowlerSummary name="R Rafi" overs="4" maidens="1" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

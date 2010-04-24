@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:51 UTC+0100 2010 -->
+<CricketMatch oppo="Little Marlow" date="Sun May 13 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Tedham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Meadan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tedham"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kyle"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Kyle"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Angus"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jamie Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Taylor"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Meadan"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="32"/>
+    <BowlerSummary name="Tedham" overs="9" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="Meadan" overs="8.3" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Kyle" overs="7" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Angus" overs="6" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Taylor" overs="4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Glennister" overs="2" maidens="1" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Little Marlow">
+    <Batsman name="G Firmer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="R Hopkins">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="J Evans">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Glennister">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Kyle">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Angus">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Taylor">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="L Meadan">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Tedham">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Flood">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="4" runs="25" wickets="4"/>
+    <BowlerSummary name="James Fort" overs="1.4" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

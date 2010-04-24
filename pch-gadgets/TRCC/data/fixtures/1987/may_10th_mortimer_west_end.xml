@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:02 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer West End" date="Sun May 10 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Anthony"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="M Overton"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Paull"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="A Anthony"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Anthony"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Anthony"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Anthony"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Caught"/>
+      <Bowler name="Paull"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Canning">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Anthony"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Overton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="M Overton" overs="8.3" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="A Anthony" overs="19" maidens="4" runs="35" wickets="6"/>
+    <BowlerSummary name="G Watts" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Paull" overs="7" maidens="2" runs="19" wickets="2"/>
+  </Innings>
+  <Innings batting="Mortimer West End">
+    <Batsman name="Grantham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Anthony">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="P Donnelly">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Seymour">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Overton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Watts">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Belcher">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="K Belcher">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Paull">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="K Loader">
+      <HowOut how="Caught Steve Canning"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Graham">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="5" runs="19" wickets="4"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Chris Sellers" overs="11" maidens="4" runs="15" wickets="5"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="Steve Canning" overs="3" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

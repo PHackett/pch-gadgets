@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:19 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Aug 21 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Lount"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Stevenson"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="R Lount"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Dave Major"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="9"/>
+    <BowlerSummary name="B Hobbs" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="J Franks" overs="11" maidens="5" runs="44" wickets="0"/>
+    <BowlerSummary name="T Stevenson" overs="7" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="R Harrison" overs="8" maidens="1" runs="38" wickets="0"/>
+    <BowlerSummary name="R Lount" overs="7" maidens="0" runs="29" wickets="2"/>
+  </Innings>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="B Whitby">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Hobbs">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Collins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="D Whitway">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="T Stevenson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Franks">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="N Bannister">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="B Welch">
+      <HowOut how="Caught Dave Major"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Lount">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Harrison">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Banes">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="David Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="David Downes" overs="18.4" maidens="6" runs="45" wickets="7"/>
+    <BowlerSummary name="Dave Major" overs="7" maidens="4" runs="14" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="1" runs="54" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

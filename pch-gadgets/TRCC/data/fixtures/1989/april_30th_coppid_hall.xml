@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:34 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sun Apr 30 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Watson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Watson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Megnorth"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Bradshaw"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bradshaw"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Megnorth"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Bradshaw"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Bradshaw"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Megnorth"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Bradshaw" overs="17" maidens="7" runs="26" wickets="4"/>
+    <BowlerSummary name="Watson" overs="9" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Robins" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Megnorth" overs="13" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="Readon" overs="2" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Coppid Hall">
+    <Batsman name="C Cudjoe">
+      <HowOut how="Caught V Bradley"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Megnorth">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Watson">
+      <HowOut how="Run Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="M Megnorth">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B Lythcoe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Stainrod">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Bradshore">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="R Minchin">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D OReardon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Robins">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="3" runs="18" wickets="4"/>
+    <BowlerSummary name="Noel Downes" overs="4" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

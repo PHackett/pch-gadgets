@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:02 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham" date="Wed Jun 3 00:00:00 UTC+0100 1987">
+  <MatchReport>
+    <![CDATA[
+       This was an evening cup game. It saw debuts for Andy Wilkinson and Vince Bradley. Andy Wilkinson
+      achieved the remarkable feat of taking two wickets from his first two balls for Twyford!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Duncan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Elwood"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Duncan"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Elwood"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Carr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Marchington"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Marchington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="N Carr"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="A Marchington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Carr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="N Duncan" overs="4" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="M Elwood" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="A Marchington" overs="3" maidens="0" runs="10" wickets="3"/>
+    <BowlerSummary name="N Carr" overs="2" maidens="0" runs="8" wickets="3"/>
+  </Innings>
+  <Innings batting="Wokingham">
+    <Batsman name="M Bale">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Day">
+      <HowOut how="Caught Andrew Hay"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="R Bute">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Renals">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Keelty">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Davis">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="6" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="2" maidens="0" runs="13" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

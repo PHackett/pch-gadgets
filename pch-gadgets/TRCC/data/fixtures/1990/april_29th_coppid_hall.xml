@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:50 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sun Apr 29 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrews"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Stumped"/>
+      <Bowler name="Malony"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bradshaw"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Cudjoe"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Peter Newnham"/>
+    <Batsman name="Jamie Evans"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Andrews" overs="9" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Minchen" overs="8" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Bradshaw" overs="15" maidens="6" runs="47" wickets="1"/>
+    <BowlerSummary name="Neganaught" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Malony" overs="6" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Cudjoe" overs="3" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Coppid Hall">
+    <Batsman name="D Malony">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="M Neganaught">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C Cudjoe">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="R Minchen">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="H Bradshaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Andrews">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Harris">
+      <HowOut how="Caught P Newnham"/>
+      <Bowler name="James Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Hancock">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="4" runs="26" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="3.3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="8" maidens="1" runs="54" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

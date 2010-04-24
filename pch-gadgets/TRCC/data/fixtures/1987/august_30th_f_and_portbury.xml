@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="F and Portbury" date="Sun Aug 30 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="F and Portbury">
+    <Batsman name="Shepperd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Batchelor">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Bowen">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sullivan">
+      <HowOut how="Run Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Jacobs">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S">
+      <HowOut how="LBW"/>
+      <Bowler name="James Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Garland">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Proctor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Bowen">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="3" score="48"/>
+    <FallOfWicket batsman="4" score="73"/>
+    <FallOfWicket batsman="5" score="89"/>
+    <FallOfWicket batsman="6" score="114"/>
+    <FallOfWicket batsman="7" score="116"/>
+    <FallOfWicket batsman="8" score="132"/>
+    <FallOfWicket batsman="2" score="156"/>
+    <FallOfWicket batsman="10" score="171"/>
+    <FallOfWicket batsman="11" score="174"/>
+    <BowlerSummary name="David Downes" overs="15" maidens="0" runs="59" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="17" maidens="4" runs="42" wickets="4"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="27" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Run Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sullivan"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="Batchelor"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="80"/>
+    <FallOfWicket batsman="4" score="170"/>
+    <BowlerSummary name="Sullivan" overs="12" maidens="2" runs="61" wickets="1"/>
+    <BowlerSummary name="Garland" overs="9" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="Jacobs" overs="9.3" maidens="2" runs="33" wickets="0"/>
+    <BowlerSummary name="Batchelor" overs="5" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="S Batchelor" overs="2" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

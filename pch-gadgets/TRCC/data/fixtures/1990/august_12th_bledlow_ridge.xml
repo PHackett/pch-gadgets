@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:52 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Aug 12 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dryden"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Paul Howells"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Chris Bose"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="23"/>
+    <BowlerSummary name="R Dryden" overs="13" maidens="1" runs="53" wickets="1"/>
+    <BowlerSummary name="Keeping" overs="7" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Martin" overs="5" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Ford" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Ryan" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="A Dryden" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="A Grey" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="M Middleton">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="L Conllins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Ford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Boydleslie">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Bose"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="S Ryan">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="I Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Bose"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Grey">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Chris Bose"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="R Dryden">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="J Keeping">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Dryden"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="1" runs="66" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="7" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Chris Bose" overs="5" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="2" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

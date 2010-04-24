@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="Portishead" date="Fri Aug 28 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="John Howells">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dennis"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="Dennis"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Randle"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="King"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="24"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="3" score="119"/>
+    <FallOfWicket batsman="5" score="155"/>
+    <FallOfWicket batsman="4" score="183"/>
+    <BowlerSummary name="King" overs="15" maidens="4" runs="54" wickets="1"/>
+    <BowlerSummary name="Randle" overs="12" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="D Walsh" overs="8" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Dennis" overs="10" maidens="1" runs="46" wickets="2"/>
+  </Innings>
+  <Innings batting="Portishead">
+    <Batsman name="Knowlden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Saunders">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="James Fort"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="Baldock">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="James Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Younge">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="127"/>
+    <FallOfWicket batsman="3" score="140"/>
+    <FallOfWicket batsman="2" score="163"/>
+    <BowlerSummary name="Chris Sellers" overs="9" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="8" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="12" maidens="0" runs="67" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4.5" maidens="1" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

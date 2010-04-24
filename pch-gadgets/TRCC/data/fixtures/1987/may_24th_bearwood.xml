@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:02 UTC+0100 2010 -->
+<CricketMatch oppo="Bearwood" date="Sun May 24 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hunt"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Smith"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Banning"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Sean Reid">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="Andrew Hay"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="3" score="157"/>
+    <FallOfWicket batsman="5" score="188"/>
+    <BowlerSummary name="Hunt" overs="13" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="Smith" overs="15" maidens="1" runs="62" wickets="1"/>
+    <BowlerSummary name="Sullivan" overs="6" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="West" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Banning" overs="8" maidens="0" runs="34" wickets="1"/>
+  </Innings>
+  <Innings batting="Bearwood">
+    <Batsman name="W Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Banning">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sullivan">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Barrett">
+      <HowOut how="Run Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Kendal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="West">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bateman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Banning">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Andrew Hay"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="4" score="18"/>
+    <FallOfWicket batsman="5" score="42"/>
+    <FallOfWicket batsman="7" score="49"/>
+    <FallOfWicket batsman="6" score="60"/>
+    <FallOfWicket batsman="9" score="76"/>
+    <FallOfWicket batsman="10" score="76"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="2" runs="20" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="1" runs="44" wickets="3"/>
+    <BowlerSummary name="Andrew Hay" overs="2.3" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

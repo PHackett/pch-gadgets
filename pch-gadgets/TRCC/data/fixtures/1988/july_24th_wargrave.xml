@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:19 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 24 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Hemani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Ducket"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hemani"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dave Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ducket"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="Ducket"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Dave Major"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="6"/>
+    <BowlerSummary name="M Woods" overs="9" maidens="5" runs="8" wickets="0"/>
+    <BowlerSummary name="Hemani" overs="18" maidens="4" runs="32" wickets="2"/>
+    <BowlerSummary name="Ducket" overs="14" maidens="0" runs="64" wickets="3"/>
+    <BowlerSummary name="R Gurton" overs="5" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="G Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Gurton">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Purcell">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="D Fennemore">
+      <HowOut how="Caught Dave Major"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Stutter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Homer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Hemani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Ducket">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Owen">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Hemani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Dave Major" overs="12.5" maidens="6" runs="19" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="6" runs="24" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

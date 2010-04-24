@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:06 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sat Sep 26 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Coppid Hall">
+    <Batsman name="C Blay">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Barker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Ward">
+      <HowOut how="Caught Simon Kelly"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Lang">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P McCovery">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="S Robinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Laverick">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Tucknott">
+      <HowOut how="Caught Simon Kelly"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Lindley">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="6" score="52"/>
+    <FallOfWicket batsman="7" score="63"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="9" score="75"/>
+    <FallOfWicket batsman="8" score="75"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="5" runs="17" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="3" runs="11" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="11" maidens="4" runs="24" wickets="3"/>
+    <BowlerSummary name="Andy Wilkinson" overs="7" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="0.5" maidens="0" runs="1" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Simon Kelly"/>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Extras value="0"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <BowlerSummary name="S Brown" overs="7" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="P Tucknott" overs="7" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="C Blay" overs="2" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="M Ward" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="S Lang" overs="2.3" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

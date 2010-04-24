@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:18 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jun 12 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="Taylor">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Purcell">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Norton">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Woods">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Fennemore">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Owen">
+      <HowOut how="Caught John Kirk"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Duckett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Major"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hermani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stutter">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alston"/>
+    <Extras value="15"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="Dave Major" overs="10" maidens="2" runs="33" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="15" maidens="4" runs="35" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="10" maidens="1" runs="33" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hermani"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="Norris"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Norris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Hermani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hermani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Norris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Norris"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Norris"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dave Major">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Caught"/>
+      <Bowler name="Alston"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Norris" overs="11" maidens="1" runs="21" wickets="5"/>
+    <BowlerSummary name="Hermani" overs="4" maidens="1" runs="10" wickets="3"/>
+    <BowlerSummary name="Alston" overs="8.4" maidens="5" runs="21" wickets="1"/>
+    <BowlerSummary name="Owen" overs="2" maidens="1" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

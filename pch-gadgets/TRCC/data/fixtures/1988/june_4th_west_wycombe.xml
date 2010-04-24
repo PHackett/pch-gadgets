@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="West Wycombe" date="Sat Jun 4 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="West Wycombe">
+    <Batsman name="T Crowe">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="T Sharkey">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Harris">
+      <HowOut how="LBW"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="G Higgins">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Prowse">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Cartledge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Whitlow">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Evans">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Stacey">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Storey">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Castle"/>
+    <Extras value="2"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Andy Wilkinson" overs="11" maidens="3" runs="24" wickets="2"/>
+    <BowlerSummary name="Theo Gray" overs="9" maidens="3" runs="9" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="11" maidens="4" runs="13" wickets="3"/>
+    <BowlerSummary name="Andy Scott" overs="5.1" maidens="2" runs="4" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="G Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="G Higgins"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="G Evans" overs="5" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="T Sharkey" overs="11" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="G Higgins" overs="9" maidens="2" runs="21" wickets="1"/>
+    <BowlerSummary name="T Crowe" overs="2" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

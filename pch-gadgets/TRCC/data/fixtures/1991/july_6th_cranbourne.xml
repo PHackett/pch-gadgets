@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:01 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jul 6 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="Buckland">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thorpe">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Crick">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Mattingley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mackrell">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pople">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Powell">
+      <HowOut how="Caught Rich Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="5" runs="16" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="2" runs="8" wickets="0"/>
+    <BowlerSummary name="Jack Hollidge" overs="7" maidens="2" runs="7" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="8.1" maidens="2" runs="18" wickets="3"/>
+    <BowlerSummary name="Chris Sellers" overs="5" maidens="2" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Powell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="B Powell" overs="6" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Crick" overs="6" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Thorpe" overs="3.5" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="Aldermaston" date="Sat Jun 25 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Oram"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="B Moore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="B Moore"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="D Joliffe"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="D Joliffe"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Caught"/>
+      <Bowler name="D Joliffe"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Woodley"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="B Woodley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Caught"/>
+      <Bowler name="D Joliffe"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Caught"/>
+      <Bowler name="D Joliffe"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="B Moore" overs="8" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="K Oram" overs="9" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="D Joliffe" overs="10.1" maidens="2" runs="17" wickets="5"/>
+    <BowlerSummary name="B Woodley" overs="9" maidens="0" runs="26" wickets="2"/>
+  </Innings>
+  <Innings batting="Aldermaston">
+    <Batsman name="N Hogg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Moore">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="DP Joliffe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="K Oram">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="G Whitehouse">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="DF Joliffe">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Braine">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Woodley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G James">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Andy Wilkinson" overs="4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="22" maidens="8" runs="31" wickets="3"/>
+    <BowlerSummary name="Theo Gray" overs="7" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="5" runs="23" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Aug 11 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="D Bird">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R Dryden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="A Hodge">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="T Twitchin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="B Keeping">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="T Keeping">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Bird">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Spencer">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="I Horne">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="E Horne"/>
+    <Extras value="22"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="2" runs="34" wickets="1"/>
+    <BowlerSummary name="Chris Sellers" overs="8" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="2" runs="6" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="S Bird"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="D Bird"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Run Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="E Horne"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="E Horne"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Bird"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Bird"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Bird"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Bird"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="D Bird"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="S Bird" overs="9" maidens="2" runs="25" wickets="3"/>
+    <BowlerSummary name="I Horne" overs="6" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="R Dryden" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="B Keeping" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="D Bird" overs="8.2" maidens="2" runs="19" wickets="4"/>
+    <BowlerSummary name="E Horne" overs="5" maidens="0" runs="29" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

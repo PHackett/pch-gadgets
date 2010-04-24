@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:53 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Sep 23 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="J Sewell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="H Bell">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Whitway">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rashid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Everitt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Bose"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Rodley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ormerod">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Bose"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Lester">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Zaffa">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barnes">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="2" runs="37" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Chris Bose" overs="5" maidens="0" runs="32" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Ormerod"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Ormerod"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Ormerod"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Sewell"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Bose">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Sewell"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="Whitway"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="24"/>
+    <BowlerSummary name="Lester" overs="4" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Zaffa" overs="6" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="H Bell" overs="9" maidens="2" runs="20" wickets="0"/>
+    <BowlerSummary name="Ormerod" overs="8" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Barnes" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="J Sewell" overs="7" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Whitway" overs="3" maidens="0" runs="23" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

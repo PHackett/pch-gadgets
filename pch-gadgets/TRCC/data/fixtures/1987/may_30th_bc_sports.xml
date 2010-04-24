@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:04 UTC+0100 2010 -->
+<CricketMatch oppo="BC Sports" date="Sat May 30 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="Agg"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Agg"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Agg"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="B Other"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="C Other"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Other"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Stumped"/>
+      <Bowler name="B Other"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <FallOfWicket batsman="6" score="117"/>
+    <FallOfWicket batsman="7" score="140"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <BowlerSummary name="Agg" overs="15" maidens="2" runs="33" wickets="3"/>
+    <BowlerSummary name="A Other" overs="9" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="B Other" overs="12" maidens="0" runs="58" wickets="3"/>
+    <BowlerSummary name="C Other" overs="2" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="BC Sports">
+    <Batsman name="E Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Shelmerdine">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Horner">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <BowlerSummary name="Chris Sellers" overs="7" maidens="4" runs="7" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="6.3" maidens="4" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

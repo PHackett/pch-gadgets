@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Taveners" date="Thu Aug 22 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Amoss"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Amoss"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Pearce"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Webster"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Howells" overs="10" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Amoss" overs="9" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Pearce" overs="7" maidens="1" runs="43" wickets="1"/>
+    <BowlerSummary name="Webster" overs="6" maidens="0" runs="27" wickets="1"/>
+  </Innings>
+  <Innings batting="Taveners">
+    <Batsman name="Jackson">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Russ">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gregg">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S White">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="M Downd">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Webster">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Amoss">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="I Pearce">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Coates"/>
+    <Extras value="12"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="4" runs="31" wickets="5"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="2" runs="35" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:39 UTC+0100 2010 -->
+<CricketMatch oppo="Old Botley" date="Sun Jun 2 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Beaupierre"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Glasgow"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Coplin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Beaupierre"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Beaupierre"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Beaupierre" overs="11" maidens="4" runs="38" wickets="3"/>
+    <BowlerSummary name="Coffey" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Mills" overs="9" maidens="2" runs="21" wickets="0"/>
+    <BowlerSummary name="Glasgow" overs="12" maidens="5" runs="35" wickets="1"/>
+    <BowlerSummary name="Coplin" overs="7" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Old Botley">
+    <Batsman name="P Mills">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="A Coplin">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="B Beaupierre">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Cyprien">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Block">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="R Murray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Glasgow">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R Simmons">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Coffey">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Richardson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Warren"/>
+    <Extras value="4"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="15" maidens="4" runs="36" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="2" runs="41" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

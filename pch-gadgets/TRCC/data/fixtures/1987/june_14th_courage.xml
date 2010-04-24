@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<CricketMatch oppo="Courage" date="Sun Jun 14 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Courage">
+    <Batsman name="D Prior">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="B Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="P Bunch">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="David Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="A Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Cole">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Bunch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Honey">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Price">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kupiec">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Hunt">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="2" runs="16" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="5" runs="37" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="5" maidens="2" runs="11" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="3" runs="14" wickets="5"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Price"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Prior"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Price"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Prior"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <BowlerSummary name="C Price" overs="14" maidens="4" runs="27" wickets="2"/>
+    <BowlerSummary name="A Prior" overs="14" maidens="6" runs="17" wickets="3"/>
+    <BowlerSummary name="Kupiec" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="P Bunch" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="D Bunch" overs="3" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="B Prior" overs="2" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

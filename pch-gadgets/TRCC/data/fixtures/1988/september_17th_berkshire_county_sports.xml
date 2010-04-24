@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:22 UTC+0100 2010 -->
+<CricketMatch oppo="Berkshire County Sports" date="Sat Sep 17 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Berkshire County Sports">
+    <Batsman name="S Raymond">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="R Woodmansee">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Neville">
+      <HowOut how="Run Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="S Rudman">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Newell-Price">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="S Cole">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="10" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Price"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Golder"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rudman"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rudman"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rudman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Neville"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rudman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Quint Knowleson"/>
+    <Extras value="9"/>
+    <BowlerSummary name="Golder" overs="6" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="C Neville" overs="8" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="A Taylor" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Greeves" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Price" overs="6" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="R Woodmansee" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Rudman" overs="4" maidens="1" runs="6" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

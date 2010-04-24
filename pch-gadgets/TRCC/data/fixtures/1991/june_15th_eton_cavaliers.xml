@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:01 UTC+0100 2010 -->
+<CricketMatch oppo="Eton Cavaliers" date="Sat Jun 15 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tapp"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Pitcher"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tapp"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Colin Nicol">
+      <HowOut how="LBW"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Extras value="5"/>
+    <BowlerSummary name="A Pitcher" overs="13" maidens="2" runs="48" wickets="3"/>
+    <BowlerSummary name="Lawrance" overs="7" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Tapp" overs="16" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="D Pitcher" overs="8" maidens="2" runs="34" wickets="1"/>
+    <BowlerSummary name="Jay" overs="3" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Eton Cavaliers">
+    <Batsman name="Tapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hughes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Feeney">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jay">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Carter">
+      <HowOut how="Caught Rich Lawrance"/>
+      <Bowler name="James Fort"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Pitcher">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Pitcher">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Huggins">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Pitcher">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Steve Abraham" overs="13" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="4" runs="8" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="5" runs="17" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="6" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="2" maidens="1" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

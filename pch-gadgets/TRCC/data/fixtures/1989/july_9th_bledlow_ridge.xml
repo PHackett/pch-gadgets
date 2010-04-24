@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:37 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Jul 9 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Sayer"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Tripp">
+      <HowOut how="Caught"/>
+      <Bowler name="W Potts"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="E Horne"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tombs"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Grimwade"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Extras value="9"/>
+    <BowlerSummary name="Tombs" overs="16" maidens="1" runs="59" wickets="1"/>
+    <BowlerSummary name="Sayer" overs="7" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="E Horne" overs="12" maidens="0" runs="57" wickets="1"/>
+    <BowlerSummary name="W Potts" overs="4" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Ryan" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="R Dryden">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="B Potts">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Tombs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="C Lillywhite">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="S Ryan">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Knapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="I Walker">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P Walker">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="I Brown">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Sayer">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Horne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="David Downes" overs="7.2" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Steve Tripp" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="39" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

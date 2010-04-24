@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:19 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer West End" date="Sun Aug 14 00:00:00 UTC+0100 1988">
+  <MatchReport>
+    <![CDATA[
+      Match scorecard for this game is mainly blank, hence the strange names & all LBW
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Steve Tripp">
+      <HowOut how="LBW"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="LBW"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="LBW"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jim Cooper">
+      <HowOut how="LBW"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Vince Bradley"/>
+    <Extras value="15"/>
+    <BowlerSummary name="A Unknown" overs="0" maidens="0" runs="0" wickets="0"/>
+  </Innings>
+  <Innings batting="Mortimer West End">
+    <Batsman name="A Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="B Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="E Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="F Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="H Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="I Unknown">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Unknown">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="K Unknown">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="3" runs="32" wickets="5"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="Steve Tripp" overs="6" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="2" runs="5" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

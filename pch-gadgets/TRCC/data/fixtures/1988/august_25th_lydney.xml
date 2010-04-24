@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:19 UTC+0100 2010 -->
+<CricketMatch oppo="Lydney" date="Thu Aug 25 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Lydney">
+    <Batsman name="P Mitchell">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="A Slee">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Clitheroe">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Kear">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Douglas">
+      <HowOut how="Caught Simon Kelly"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Howells">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Morris">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Henderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Stone">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Park"/>
+    <Extras value="12"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="4" runs="26" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="1" runs="40" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="53" wickets="6"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="S Stone"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="C Henderson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Stone"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="S Stone"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Stone"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Stone"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Simon Kelly">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Park"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Park"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Park"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Park"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="S Stone" overs="22" maidens="4" runs="76" wickets="5"/>
+    <BowlerSummary name="C Henderson" overs="7" maidens="3" runs="8" wickets="1"/>
+    <BowlerSummary name="P Morris" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="N Thomas" overs="6" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="R Park" overs="6.4" maidens="1" runs="22" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

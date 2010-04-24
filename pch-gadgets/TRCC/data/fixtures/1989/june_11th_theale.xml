@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:36 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sun Jun 11 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clements"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hayter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clements"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Bradley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clements"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Clements"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Simon Holt"/>
+    <Extras value="15"/>
+    <BowlerSummary name="Hayter" overs="10" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Healy" overs="9" maidens="4" runs="11" wickets="0"/>
+    <BowlerSummary name="Bradley" overs="12" maidens="0" runs="61" wickets="1"/>
+    <BowlerSummary name="Messer" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Clements" overs="9" maidens="2" runs="28" wickets="4"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="M Hayter">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Purdy">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Pickford">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="H Messer">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Ferguson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Clements">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Palfrey">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Healy">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Bradley">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Healy">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="David Downes" overs="11.2" maidens="3" runs="39" wickets="6"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="1" runs="16" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="2" runs="3" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Simon Holt" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

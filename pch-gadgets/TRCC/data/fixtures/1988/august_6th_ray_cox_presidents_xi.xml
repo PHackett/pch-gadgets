@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="Ray Cox Presidents XI" date="Sat Aug 6 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="North"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Goodhall"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Goodhall"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Rees">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Andy King"/>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="3"/>
+    <BowlerSummary name="Ian Helmore" overs="14" maidens="2" runs="48" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="7" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="North" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Goodhall" overs="6" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Telfer" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Cox" overs="2" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Ray Cox Presidents XI">
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught S Rees"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Germany">
+      <HowOut how="Caught Andy King"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J North">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="G Goodhall">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Parker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Cox">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Rich Lawrance" overs="6" maidens="2" runs="7" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="3" runs="11" wickets="1"/>
+    <BowlerSummary name="Chris Sellers" overs="8" maidens="3" runs="11" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="8.3" maidens="1" runs="16" wickets="6"/>
+    <BowlerSummary name="Andy King" overs="4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

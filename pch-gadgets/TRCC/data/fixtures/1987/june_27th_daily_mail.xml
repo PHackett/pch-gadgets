@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:04 UTC+0100 2010 -->
+<CricketMatch oppo="Daily Mail" date="Sat Jun 27 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Sellers">
+      <HowOut how="Caught"/>
+      <Bowler name="Lynas"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Lynas"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hewit"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Williams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Russel"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="Hewit"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Williams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Andrew Hay"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="6" score="97"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="3" score="120"/>
+    <BowlerSummary name="Williams" overs="14" maidens="5" runs="19" wickets="2"/>
+    <BowlerSummary name="Lynas" overs="10" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Russel" overs="10" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="Edwards" overs="6" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Hewit" overs="3" maidens="0" runs="14" wickets="2"/>
+  </Innings>
+  <Innings batting="Daily Mail">
+    <Batsman name="B Scovell">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Greaves">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="I Walker">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Derbyshire">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Hewit">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Lynas">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Williams">
+      <HowOut how="Caught Andrew Hay"/>
+      <Bowler name="Peter Kelly"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Russel">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Andrew Hay"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="B Edwards">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="C Boffrey">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Bates">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="3" score="1"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="4" score="17"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="6" score="27"/>
+    <FallOfWicket batsman="8" score="35"/>
+    <FallOfWicket batsman="7" score="49"/>
+    <FallOfWicket batsman="10" score="69"/>
+    <BowlerSummary name="Chris Sellers" overs="9" maidens="2" runs="12" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="5" runs="7" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="3" runs="1" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="7" maidens="4" runs="9" wickets="1"/>
+    <BowlerSummary name="Bill Hatch" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Peter Kelly" overs="2" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="2" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

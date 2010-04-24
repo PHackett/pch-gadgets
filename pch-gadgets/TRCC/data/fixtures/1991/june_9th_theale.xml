@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:39 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sun Jun 9 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale">
+    <Batsman name="Hayter">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="David Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Desbois">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Webster">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Messer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="M Emmett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Osborne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Hicks">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="I Wilkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Gill">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Davies">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="4" runs="29" wickets="2"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="6" runs="33" wickets="4"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Emmett"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="H Messer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Hayter"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="12"/>
+    <BowlerSummary name="H Messer" overs="5" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Hayter" overs="11" maidens="3" runs="32" wickets="1"/>
+    <BowlerSummary name="M Emmett" overs="7" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="A Gill" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="R Webster" overs="0.4" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

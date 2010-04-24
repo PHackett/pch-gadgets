@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:04 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jul 4 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="Horth">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="B Elton">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Farrow">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Blackhall">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="G Elton">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Crick">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simpson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Cullen">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="7" score="130"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <FallOfWicket batsman="8" score="140"/>
+    <BowlerSummary name="Chris Sellers" overs="23" maidens="5" runs="46" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="3" runs="32" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Andy Wilkinson" overs="2" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Crick"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Powell"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Crick"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="B Elton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Crick"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Crick"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Elton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="98"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <FallOfWicket batsman="9" score="142"/>
+    <FallOfWicket batsman="10" score="142"/>
+    <BowlerSummary name="Powell" overs="9" maidens="4" runs="25" wickets="2"/>
+    <BowlerSummary name="Crick" overs="19" maidens="3" runs="53" wickets="4"/>
+    <BowlerSummary name="Farrow" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="B Elton" overs="7" maidens="0" runs="27" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
