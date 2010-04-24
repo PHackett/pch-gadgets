@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:49 UTC+0100 2010 -->
+<CricketMatch oppo="Readingensians" date="Sat Jul 23 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Readingensians">
+    <Batsman name="Russell">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Evans">
+      <HowOut how="LBW"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="P Kingston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Cartwright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="W Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Wellstead">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Petto">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Messer">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Mabe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Cockin">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Graham Tibbett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kennealy">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="5" score="82"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="2" score="99"/>
+    <FallOfWicket batsman="7" score="103"/>
+    <FallOfWicket batsman="9" score="124"/>
+    <FallOfWicket batsman="10" score="139"/>
+    <BowlerSummary name="Mick Houlton" overs="14" maidens="2" runs="48" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="7" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Dave Harris" overs="5" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Graham Tibbett" overs="1" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="Mabe"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Cockin"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mabe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Mabe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mabe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Caught"/>
+      <Bowler name="Kennealy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kennealy"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Cockin"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andy Norris"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="3" score="12"/>
+    <FallOfWicket batsman="4" score="12"/>
+    <FallOfWicket batsman="5" score="12"/>
+    <FallOfWicket batsman="6" score="13"/>
+    <FallOfWicket batsman="7" score="22"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="8" score="58"/>
+    <BowlerSummary name="Kennealy" overs="15" maidens="6" runs="33" wickets="2"/>
+    <BowlerSummary name="Mabe" overs="20" maidens="9" runs="20" wickets="4"/>
+    <BowlerSummary name="Cockin" overs="4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Petto" overs="2" maidens="2" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

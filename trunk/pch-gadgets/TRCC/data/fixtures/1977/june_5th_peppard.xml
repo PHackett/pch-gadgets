@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:45 UTC+0100 2010 -->
+<CricketMatch oppo="Peppard" date="Sun Jun 5 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Harris"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harris"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Ward"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Evans"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Paul Howells"/>
+    <Batsman name="J Telfer"/>
+    <Batsman name="George West"/>
+    <Batsman name="Chris Telfer"/>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="92"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="1" score="128"/>
+    <FallOfWicket batsman="4" score="162"/>
+    <BowlerSummary name="A Evans" overs="13" maidens="1" runs="45" wickets="1"/>
+    <BowlerSummary name="Dickins" overs="10.5" maidens="1" runs="47" wickets="0"/>
+    <BowlerSummary name="Harris" overs="12" maidens="2" runs="48" wickets="2"/>
+    <BowlerSummary name="Ward" overs="10" maidens="0" runs="38" wickets="1"/>
+  </Innings>
+  <Innings batting="Peppard">
+    <Batsman name="M Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="G Wise">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Hayden">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Townsin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Evans">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="I Dickins">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="James Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Harris">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="J Hermon">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="K Biggs">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Hayden"/>
+    <Batsman name="C Ward"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="60"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <FallOfWicket batsman="1" score="125"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="3" runs="43" wickets="2"/>
+    <BowlerSummary name="J Telfer" overs="9" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Matthew Fort" overs="5" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="7" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="Chris Telfer" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

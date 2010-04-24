@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:46 UTC+0100 2010 -->
+<CricketMatch oppo="Farnham 2nds" date="Sun Jul 10 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Evans"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Evans"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Armitage"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Heggarty">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Martin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Martin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="48"/>
+    <FallOfWicket batsman="2" score="90"/>
+    <FallOfWicket batsman="4" score="97"/>
+    <FallOfWicket batsman="5" score="105"/>
+    <FallOfWicket batsman="6" score="105"/>
+    <FallOfWicket batsman="7" score="117"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="10" score="118"/>
+    <FallOfWicket batsman="11" score="135"/>
+    <BowlerSummary name="Evans" overs="14" maidens="1" runs="65" wickets="4"/>
+    <BowlerSummary name="Armitage" overs="9" maidens="4" runs="22" wickets="1"/>
+    <BowlerSummary name="Randall" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Martin" overs="7.3" maidens="1" runs="20" wickets="5"/>
+  </Innings>
+  <Innings batting="Farnham 2nds">
+    <Batsman name="Shelbourne">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gardner">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stearn">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jenner">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gasior">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Armitage">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Randall">
+      <HowOut how="LBW"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Moriss">
+      <HowOut how="Caught Steve Taylor"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Yates">
+      <HowOut how="Caught Tim Glover"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Gordon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="12"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="5" score="26"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="9" score="67"/>
+    <FallOfWicket batsman="10" score="77"/>
+    <FallOfWicket batsman="8" score="121"/>
+    <BowlerSummary name="Martin Grugeon" overs="15" maidens="3" runs="39" wickets="5"/>
+    <BowlerSummary name="J Telfer" overs="15" maidens="4" runs="52" wickets="4"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="1.4" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

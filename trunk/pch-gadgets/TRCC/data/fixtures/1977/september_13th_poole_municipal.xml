@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:50 UTC+0100 2010 -->
+<CricketMatch oppo="Poole Municipal" date="Tue Sep 13 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="King"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hughes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="King"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="King"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="King"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="Hughes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="George West"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="130"/>
+    <FallOfWicket batsman="3" score="135"/>
+    <FallOfWicket batsman="4" score="152"/>
+    <FallOfWicket batsman="1" score="157"/>
+    <FallOfWicket batsman="5" score="160"/>
+    <FallOfWicket batsman="6" score="168"/>
+    <BowlerSummary name="King" overs="13" maidens="2" runs="45" wickets="4"/>
+    <BowlerSummary name="Hughes" overs="16" maidens="2" runs="54" wickets="2"/>
+    <BowlerSummary name="Neville" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="N Hughes" overs="8" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Hannan" overs="2" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Poole Municipal">
+    <Batsman name="Doick">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Caught J Telfer"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hannan">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Gallop">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neville">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="N Hughes">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A King">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D King">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Medler"/>
+    <Batsman name="D Hughes"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="2" score="91"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="5" score="111"/>
+    <FallOfWicket batsman="6" score="120"/>
+    <FallOfWicket batsman="4" score="144"/>
+    <FallOfWicket batsman="7" score="146"/>
+    <FallOfWicket batsman="9" score="160"/>
+    <FallOfWicket batsman="8" score="160"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="2" runs="33" wickets="1"/>
+    <BowlerSummary name="J Telfer" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="14" maidens="2" runs="63" wickets="5"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="1" runs="28" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:48 UTC+0100 2010 -->
+<CricketMatch oppo="Littlewick Green" date="Sat Jul 2 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Field"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="R Field"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Field"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="R Field"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="4"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="R Field"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="R Field"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="LBW"/>
+      <Bowler name="R Field"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="4"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andy Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Field"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="6"/>
+    <FallOfWicket batsman="4" score="14"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <FallOfWicket batsman="8" score="67"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <FallOfWicket batsman="9" score="75"/>
+    <FallOfWicket batsman="10" score="75"/>
+    <BowlerSummary name="R Field" overs="14.2" maidens="5" runs="29" wickets="8"/>
+    <BowlerSummary name="2" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="3" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="4" overs="6" maidens="2" runs="11" wickets="2"/>
+  </Innings>
+  <Innings batting="Littlewick Green">
+    <Batsman name="Elsam">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Hurley">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Martin Grugeon" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="2" runs="1" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="3" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Barry Thomas" overs="1" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Andy Norris" overs="1" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="G Fulcher" overs="0.2" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

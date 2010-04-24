@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:48 UTC+0100 2010 -->
+<CricketMatch oppo="Bracknell A" date="Wed Jun 22 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Harman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="McCann"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Harman"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="McCann"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="7" score="47"/>
+    <FallOfWicket batsman="8" score="55"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="9" score="70"/>
+    <FallOfWicket batsman="11" score="70"/>
+    <BowlerSummary name="Harman" overs="10" maidens="1" runs="34" wickets="6"/>
+    <BowlerSummary name="McCann" overs="9" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+  <Innings batting="Bracknell A">
+    <Batsman name="P Marlow">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="P Boyd">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Phillips">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Tattersdill">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Andrews">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Granger">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Hoptroff">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Ainger">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Harman"/>
+    <Batsman name="McCann"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="3" score="5"/>
+    <FallOfWicket batsman="4" score="25"/>
+    <FallOfWicket batsman="5" score="41"/>
+    <FallOfWicket batsman="6" score="44"/>
+    <FallOfWicket batsman="7" score="46"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="3.4" maidens="1" runs="13" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

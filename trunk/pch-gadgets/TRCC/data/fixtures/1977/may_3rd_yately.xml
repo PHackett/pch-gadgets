@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:47 UTC+0100 2010 -->
+<CricketMatch oppo="Yately" date="Tue May 3 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saunders"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saunders"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saunders"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Stumped"/>
+      <Bowler name="Gill"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Townsend"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Townsend"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Townsend"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="Gill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Seabrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="5"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="5" score="43"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="8" score="46"/>
+    <FallOfWicket batsman="9" score="47"/>
+    <FallOfWicket batsman="10" score="47"/>
+    <FallOfWicket batsman="11" score="47"/>
+    <BowlerSummary name="Hanks" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Saunders" overs="4" maidens="1" runs="5" wickets="3"/>
+    <BowlerSummary name="Townsend" overs="3" maidens="0" runs="14" wickets="3"/>
+    <BowlerSummary name="Gill" overs="3" maidens="0" runs="6" wickets="4"/>
+  </Innings>
+  <Innings batting="Yately">
+    <Batsman name="Andrews">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Denston">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Gill">
+      <HowOut how="LBW"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Mansell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Barnard">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Townsend">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Asseratti">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="7" score="44"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="2" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="2" maidens="0" runs="18" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
