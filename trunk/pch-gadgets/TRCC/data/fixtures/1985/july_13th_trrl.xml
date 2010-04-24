@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="TRRL" date="Sat Jul 13 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="TRRL">
+    <Batsman name="G Ford">
+      <HowOut how="Caught John Grinter"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Mcarthy">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="M Taylor">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Dobson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="B Langfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Visay">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Lake">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Owens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R McCormack">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="G Duncan">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="35"/>
+    <FallOfWicket batsman="2" score="103"/>
+    <BowlerSummary name="Andy Scott" overs="13" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="4" runs="8" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="10" maidens="1" runs="48" wickets="3"/>
+    <BowlerSummary name="Bill Hatch" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="10" maidens="1" runs="39" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Run Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Langfield"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Stumped"/>
+      <Bowler name="Duncan"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught"/>
+      <Bowler name="Langfield"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="James"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="John Grinter"/>
+    <Batsman name="Simon Kelly"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="4" score="86"/>
+    <FallOfWicket batsman="5" score="130"/>
+    <FallOfWicket batsman="6" score="134"/>
+    <FallOfWicket batsman="1" score="134"/>
+    <FallOfWicket batsman="7" score="156"/>
+    <BowlerSummary name="James" overs="12" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Langfield" overs="14" maidens="3" runs="46" wickets="2"/>
+    <BowlerSummary name="Duncan" overs="6" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Owens" overs="5" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Dobson" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="West Wycombe" date="Sat Aug 3 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Evans"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="A Hewett"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="A Hewett"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Stumped"/>
+      <Bowler name="Lynch"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Simon Kelly"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="3" score="73"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="1" score="153"/>
+    <BowlerSummary name="G Evans" overs="12" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="A Hewett" overs="19" maidens="3" runs="48" wickets="2"/>
+    <BowlerSummary name="Lynch" overs="9" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Beddie" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="West Wycombe">
+    <Batsman name="P Thompson">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Hewett">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Crowe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="M Gerrard">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="R Campbell">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Whitlow">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="3" score="115"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="4" runs="34" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="3" runs="34" wickets="1"/>
+    <BowlerSummary name="Bill Hatch" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="7" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Steve Dunn" overs="2" maidens="2" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

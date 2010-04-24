@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="Uxbridge Torchbearers" date="Sat May 25 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Andy Abrahams">
+      <HowOut how="Caught"/>
+      <Bowler name="Gould"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Moere"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Moere"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wrightson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Wrightson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="2" score="80"/>
+    <FallOfWicket batsman="6" score="82"/>
+    <FallOfWicket batsman="7" score="82"/>
+    <FallOfWicket batsman="8" score="123"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="9" score="127"/>
+    <BowlerSummary name="Moere" overs="24" maidens="4" runs="46" wickets="5"/>
+    <BowlerSummary name="Gould" overs="8" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Lownsebrough" overs="10" maidens="2" runs="31" wickets="0"/>
+    <BowlerSummary name="Wrightson" overs="6" maidens="0" runs="22" wickets="2"/>
+  </Innings>
+  <Innings batting="Uxbridge Torchbearers">
+    <Batsman name="Sims">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Shears">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Lownsebrough">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Swallow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Gould">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wrightson">
+      <HowOut how="LBW"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Garner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Reid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sharples">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Moere">
+      <HowOut how="Caught Bill Hatch"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="5" score="42"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="8" score="58"/>
+    <FallOfWicket batsman="9" score="58"/>
+    <FallOfWicket batsman="10" score="66"/>
+    <FallOfWicket batsman="11" score="66"/>
+    <BowlerSummary name="Chris Sellers" overs="14" maidens="4" runs="22" wickets="3"/>
+    <BowlerSummary name="Andy Abrahams" overs="9" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="2" runs="8" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="5.5" maidens="2" runs="5" wickets="4"/>
+    <BowlerSummary name="Andy Scott" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

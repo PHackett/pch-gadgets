@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="Warren Row" date="Sat Jun 8 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Macdermott"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Wood"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Wood"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="N Downes"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Run Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Wood"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="P Peet"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Peet"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="4" score="104"/>
+    <FallOfWicket batsman="7" score="136"/>
+    <FallOfWicket batsman="8" score="149"/>
+    <FallOfWicket batsman="9" score="149"/>
+    <BowlerSummary name="A Wood" overs="12" maidens="4" runs="12" wickets="3"/>
+    <BowlerSummary name="P Peet" overs="12" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="Hunt" overs="11" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Macdermott" overs="7" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="N Downes" overs="5" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Warren Row">
+    <Batsman name="R Gwilliam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="C Coe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Macdermott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Webb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Peter Kelly"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="P Peet">
+      <HowOut how="Caught Bill Hatch"/>
+      <Bowler name="Peter Kelly"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="N Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Wood">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="5" score="41"/>
+    <FallOfWicket batsman="7" score="65"/>
+    <FallOfWicket batsman="6" score="74"/>
+    <BowlerSummary name="Chris Sellers" overs="13" maidens="7" runs="20" wickets="3"/>
+    <BowlerSummary name="Andy Scott" overs="8" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="4" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="Peter Kelly" overs="5" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Bill Hatch" overs="2" maidens="2" runs="0" wickets="0"/>
+    <BowlerSummary name="John Grinter" overs="2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

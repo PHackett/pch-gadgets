@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jul 6 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Elton"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barfield"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="Pople"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="John Grinter"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="61"/>
+    <FallOfWicket batsman="1" score="123"/>
+    <FallOfWicket batsman="3" score="163"/>
+    <FallOfWicket batsman="5" score="191"/>
+    <FallOfWicket batsman="6" score="194"/>
+    <BowlerSummary name="Thorpe" overs="16" maidens="5" runs="32" wickets="2"/>
+    <BowlerSummary name="Pople" overs="10.5" maidens="1" runs="50" wickets="1"/>
+    <BowlerSummary name="Barfield" overs="12" maidens="1" runs="57" wickets="1"/>
+    <BowlerSummary name="Greig" overs="3" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Elton" overs="4" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Cranbourne">
+    <Batsman name="Blackhall">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barfield">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Moores">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Thorpe">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="B Elton">
+      <HowOut how="Run Out"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="C Elton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nicholls">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Horth">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pamphilon">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pople">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Greig">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="2" score="66"/>
+    <FallOfWicket batsman="4" score="114"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="5" score="173"/>
+    <FallOfWicket batsman="8" score="173"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <FallOfWicket batsman="9" score="178"/>
+    <BowlerSummary name="Chris Sellers" overs="16" maidens="1" runs="52" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="1" runs="42" wickets="2"/>
+    <BowlerSummary name="Steve Dunn" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="6" maidens="2" runs="10" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:33 UTC+0100 2010 -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Sep 1 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="LBW"/>
+      <Bowler name="Herford"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="A Reid"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Batchelor"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Morrison">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="43"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <FallOfWicket batsman="3" score="160"/>
+    <FallOfWicket batsman="8" score="176"/>
+    <BowlerSummary name="C Gibbens" overs="6" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="A Reid" overs="10" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Herford" overs="9" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Jacobs" overs="10" maidens="2" runs="40" wickets="5"/>
+    <BowlerSummary name="P Batchelor" overs="5" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="T Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Searle">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="R Greenridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="P Batchelor">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="R Herford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="K Jacobs">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Frapwell">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="C Gibbens">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Scanlon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Reid">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Batchelor"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <FallOfWicket batsman="6" score="113"/>
+    <FallOfWicket batsman="4" score="160"/>
+    <FallOfWicket batsman="8" score="171"/>
+    <FallOfWicket batsman="9" score="171"/>
+    <BowlerSummary name="Chris Sellers" overs="11" maidens="1" runs="44" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="13" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="17" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="44" wickets="1"/>
+    <BowlerSummary name="Steve Dunn" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

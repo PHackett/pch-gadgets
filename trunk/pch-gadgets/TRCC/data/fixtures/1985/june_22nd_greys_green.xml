@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sat Jun 22 00:00:00 UTC+0100 1985">
+  <MatchReport>
+    <![CDATA[
+      Continuous rain throughout.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Greys Green">
+    <Batsman name="A Howse">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Wooley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Larkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Chesterson">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Eycott">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Crook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Foxton">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Higgins">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Richardson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="5" score="45"/>
+    <FallOfWicket batsman="4" score="50"/>
+    <FallOfWicket batsman="7" score="50"/>
+    <FallOfWicket batsman="6" score="51"/>
+    <FallOfWicket batsman="8" score="51"/>
+    <FallOfWicket batsman="10" score="51"/>
+    <FallOfWicket batsman="9" score="51"/>
+    <BowlerSummary name="Chris Sellers" overs="15" maidens="4" runs="16" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="3" runs="12" wickets="3"/>
+    <BowlerSummary name="Theo Gray" overs="3.4" maidens="2" runs="2" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham 3rds" date="Sun Jul 14 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wokingham 3rds">
+    <Batsman name="G Garrod">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Coombes">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Matthews">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Searby">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="M Pope">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Ingle">
+      <HowOut how="Caught Matthew Fort"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Renals">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="4" runs="21" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Paul Howells" overs="1" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="Matthew Fort" overs="3" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Cox"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Coombes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Cox"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="P Cox"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="P Cox"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Cox"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ingle"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Cox"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="D Searby"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="6" score="52"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="9" score="71"/>
+    <FallOfWicket batsman="8" score="76"/>
+    <BowlerSummary name="P Cox" overs="19" maidens="9" runs="24" wickets="6"/>
+    <BowlerSummary name="R Coombes" overs="8" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="R Ingle" overs="8" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="D Searby" overs="2" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
