@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="John Hampden" date="Sun Aug 17 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Shrimpton"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Waite"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Lawrence"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Lawrence"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Lawrence"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="LBW"/>
+      <Bowler name="M Lawrence"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Shrimpton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="G Pymm"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Shrimpton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Pymm"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="5" score="107"/>
+    <FallOfWicket batsman="3" score="128"/>
+    <FallOfWicket batsman="6" score="132"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <FallOfWicket batsman="8" score="145"/>
+    <FallOfWicket batsman="9" score="145"/>
+    <FallOfWicket batsman="10" score="145"/>
+    <BowlerSummary name="Dunn" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="I Waite" overs="13" maidens="3" runs="33" wickets="1"/>
+    <BowlerSummary name="N Shrimpton" overs="7" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="G Pymm" overs="6" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="M Lawrence" overs="8" maidens="0" runs="27" wickets="4"/>
+  </Innings>
+  <Innings batting="John Hampden">
+    <Batsman name="M Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Westover">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="N Shrimpton">
+      <HowOut how="LBW"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Pymm">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="I Waite">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="N Birkett">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Gartton">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Benby">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Johnston">
+      <HowOut how="Caught John Kirk"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="2"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="6" score="44"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="8" score="47"/>
+    <FallOfWicket batsman="7" score="47"/>
+    <FallOfWicket batsman="9" score="47"/>
+    <FallOfWicket batsman="11" score="53"/>
+    <BowlerSummary name="Dave Williams" overs="13" maidens="3" runs="20" wickets="5"/>
+    <BowlerSummary name="Matthew Fort" overs="5" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="11" maidens="4" runs="10" wickets="5"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

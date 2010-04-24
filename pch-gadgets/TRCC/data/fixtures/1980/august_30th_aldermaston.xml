@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:13 UTC+0100 2010 -->
+<CricketMatch oppo="Aldermaston" date="Sat Aug 30 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="B David"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="J Deal"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Woodley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="5" score="55"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="7" score="58"/>
+    <FallOfWicket batsman="9" score="68"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <FallOfWicket batsman="11" score="104"/>
+    <BowlerSummary name="L Woodley" overs="21.4" maidens="6" runs="34" wickets="8"/>
+    <BowlerSummary name="B David" overs="8" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="J Deal" overs="13" maidens="2" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="Aldermaston">
+    <Batsman name="N Hogg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Braine">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Woodley">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="L Woodley">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="J Deal">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Moore">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G David">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="B David">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Woodley">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E David">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="6" score="32"/>
+    <FallOfWicket batsman="7" score="46"/>
+    <FallOfWicket batsman="8" score="80"/>
+    <FallOfWicket batsman="9" score="82"/>
+    <FallOfWicket batsman="10" score="83"/>
+    <FallOfWicket batsman="5" score="84"/>
+    <BowlerSummary name="Stewart Wren" overs="15" maidens="6" runs="31" wickets="3"/>
+    <BowlerSummary name="Mick Houlton" overs="17" maidens="2" runs="39" wickets="5"/>
+    <BowlerSummary name="Alan Brooklyn" overs="1" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="2" maidens="1" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

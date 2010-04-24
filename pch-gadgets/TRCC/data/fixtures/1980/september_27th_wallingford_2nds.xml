@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:13 UTC+0100 2010 -->
+<CricketMatch oppo="Wallingford 2nds" date="Sat Sep 27 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wallingford 2nds">
+    <Batsman name="E Saunders">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Ikin">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Chappell">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Axton">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="R Sessions">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Sheldon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="T Camping">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="A Brannan">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Abery">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Hughes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="6" score="69"/>
+    <FallOfWicket batsman="8" score="75"/>
+    <FallOfWicket batsman="9" score="110"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <BowlerSummary name="Mick Houlton" overs="20" maidens="3" runs="66" wickets="4"/>
+    <BowlerSummary name="Dave Parry" overs="7" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Brian Adams" overs="10" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="1" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="2" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="LBW"/>
+      <Bowler name="J Axton"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Axton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Chappell"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Chappell"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Run Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Abery"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Ikin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Chappell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="4" score="69"/>
+    <FallOfWicket batsman="5" score="88"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="6" score="103"/>
+    <FallOfWicket batsman="7" score="111"/>
+    <FallOfWicket batsman="8" score="120"/>
+    <BowlerSummary name="P Abery" overs="15" maidens="5" runs="37" wickets="1"/>
+    <BowlerSummary name="J Axton" overs="7" maidens="3" runs="14" wickets="2"/>
+    <BowlerSummary name="B Chappell" overs="13" maidens="2" runs="44" wickets="3"/>
+    <BowlerSummary name="R Sessions" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="G Ikin" overs="1" maidens="0" runs="4" wickets="1"/>
+    <BowlerSummary name="E Saunders" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

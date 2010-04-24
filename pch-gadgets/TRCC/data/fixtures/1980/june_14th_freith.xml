@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:12 UTC+0100 2010 -->
+<CricketMatch oppo="Freith" date="Sat Jun 14 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Freith">
+    <Batsman name="Stokes">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Land">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Creighton">
+      <HowOut how="Caught John Kirk"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Stevens">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Thorne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Garland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kempster">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Clint">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mason">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Thorne"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <FallOfWicket batsman="6" score="119"/>
+    <FallOfWicket batsman="1" score="119"/>
+    <FallOfWicket batsman="7" score="147"/>
+    <FallOfWicket batsman="9" score="151"/>
+    <BowlerSummary name="Mick Houlton" overs="20" maidens="4" runs="64" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="2" runs="47" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="1" runs="34" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="LBW"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Garland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Smith"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="John Kirk"/>
+    <Batsman name="Dave Parry"/>
+    <Batsman name="D Power"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="1" score="79"/>
+    <FallOfWicket batsman="3" score="95"/>
+    <FallOfWicket batsman="4" score="95"/>
+    <FallOfWicket batsman="5" score="136"/>
+    <BowlerSummary name="M Thorne" overs="14" maidens="3" runs="42" wickets="2"/>
+    <BowlerSummary name="Smith" overs="10" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="N Thorne" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Garland" overs="5" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Kempster" overs="4.3" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

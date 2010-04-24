@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:13 UTC+0100 2010 -->
+<CricketMatch oppo="Flex Bourton" date="Sun Sep 7 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Flex Bourton">
+    <Batsman name="K Veal">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Deverill">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Harrington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Johnston">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Britton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="C Kitchen">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Arkell">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Deverill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Cole">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Parker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Mayled">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="61"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="6" score="78"/>
+    <FallOfWicket batsman="8" score="84"/>
+    <FallOfWicket batsman="7" score="84"/>
+    <FallOfWicket batsman="9" score="89"/>
+    <FallOfWicket batsman="10" score="89"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="3" runs="35" wickets="2"/>
+    <BowlerSummary name="Dave Williams" overs="12" maidens="8" runs="6" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="12" maidens="6" runs="13" wickets="4"/>
+    <BowlerSummary name="Stewart Wren" overs="6.1" maidens="2" runs="15" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Deverill"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Deverill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Cole"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Deverill"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="S Deverill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="R Arkell"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="C Cole"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Deverill"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Clark"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="5" score="24"/>
+    <FallOfWicket batsman="1" score="45"/>
+    <FallOfWicket batsman="7" score="50"/>
+    <FallOfWicket batsman="8" score="71"/>
+    <FallOfWicket batsman="6" score="83"/>
+    <BowlerSummary name="S Deverill" overs="20" maidens="8" runs="36" wickets="5"/>
+    <BowlerSummary name="C Cole" overs="19" maidens="9" runs="24" wickets="2"/>
+    <BowlerSummary name="R Arkell" overs="5" maidens="3" runs="2" wickets="1"/>
+    <BowlerSummary name="T Mayled" overs="4.5" maidens="2" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

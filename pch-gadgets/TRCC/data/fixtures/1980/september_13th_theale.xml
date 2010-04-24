@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:13 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Sep 13 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gray"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Healy"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Newman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Healy"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="X"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Gray"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="7" score="60"/>
+    <FallOfWicket batsman="8" score="61"/>
+    <FallOfWicket batsman="6" score="73"/>
+    <FallOfWicket batsman="10" score="79"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <BowlerSummary name="Gray" overs="8" maidens="3" runs="12" wickets="2"/>
+    <BowlerSummary name="Dawkins" overs="9" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Newman" overs="11" maidens="3" runs="21" wickets="4"/>
+    <BowlerSummary name="Healy" overs="8" maidens="2" runs="18" wickets="2"/>
+    <BowlerSummary name="X" overs="0.1" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="W Ellis">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="P Hopper">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="K Goswell">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R McDonald">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="James Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Slade">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="1" score="63"/>
+    <FallOfWicket batsman="4" score="70"/>
+    <BowlerSummary name="Mick Houlton" overs="12" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="6" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Dave Harris" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Dave Parry" overs="3.4" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:12 UTC+0100 2010 -->
+<CricketMatch oppo="Knowl Hill" date="Thu Jun 5 00:00:00 UTC+0100 1980">
+  <MatchReport>
+    <![CDATA[
+      Evening Post Cup.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Knowl Hill">
+    <Batsman name="Wakefield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Clarke">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stephenson">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Hopgood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hatch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vaughan"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Dave Williams" overs="4" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Coates"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught"/>
+      <Bowler name="Vaughan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Coates"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaughan"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaughan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaughan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Clarke"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Vaughan" overs="4" maidens="0" runs="17" wickets="4"/>
+    <BowlerSummary name="Clarke" overs="4" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Coates" overs="4" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Stephenson" overs="4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:11 UTC+0100 2010 -->
+<CricketMatch oppo="Rotherwick" date="Sun Aug 24 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="OKelly"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hall"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hall"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="OKelly"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Sawyer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sawyer"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Donaldson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Sawyer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sawyer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="4" score="8"/>
+    <FallOfWicket batsman="5" score="28"/>
+    <FallOfWicket batsman="6" score="31"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="8" score="41"/>
+    <FallOfWicket batsman="9" score="56"/>
+    <FallOfWicket batsman="10" score="58"/>
+    <FallOfWicket batsman="11" score="60"/>
+    <BowlerSummary name="OKelly" overs="7" maidens="4" runs="10" wickets="2"/>
+    <BowlerSummary name="Hall" overs="11" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Sawyer" overs="6.2" maidens="1" runs="13" wickets="4"/>
+    <BowlerSummary name="Donaldson" overs="2" maidens="1" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Rotherwick">
+    <Batsman name="A OKelly">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="T Flay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Holbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Hall">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Smee">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Dancer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Terry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="K OKelly">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Lewis">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="6" score="43"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <FallOfWicket batsman="7" score="58"/>
+    <BowlerSummary name="Martin Grugeon" overs="11" maidens="2" runs="33" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="10.2" maidens="4" runs="25" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

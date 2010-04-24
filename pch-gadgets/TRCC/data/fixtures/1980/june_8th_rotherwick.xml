@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="Rotherwick" date="Sun Jun 8 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Rotherwick">
+    <Batsman name="Flay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="OKelly">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Holbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Terry">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Smee">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Gains">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Pearce">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Lloyd">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Grove">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Miles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sawyer">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <FallOfWicket batsman="1" score="103"/>
+    <FallOfWicket batsman="5" score="134"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <FallOfWicket batsman="7" score="129"/>
+    <FallOfWicket batsman="9" score="135"/>
+    <FallOfWicket batsman="10" score="148"/>
+    <BowlerSummary name="Martin Grugeon" overs="12" maidens="3" runs="28" wickets="4"/>
+    <BowlerSummary name="Chris Telfer" overs="6" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Dave Williams" overs="7" maidens="0" runs="28" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Gains"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gains"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gains"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Grove"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="Gains"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Grove"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Caught"/>
+      <Bowler name="Grove"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gains"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sawyer"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="Sawyer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="10"/>
+    <FallOfWicket batsman="6" score="16"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="8" score="16"/>
+    <FallOfWicket batsman="7" score="40"/>
+    <FallOfWicket batsman="9" score="51"/>
+    <FallOfWicket batsman="10" score="55"/>
+    <BowlerSummary name="Gains" overs="9" maidens="3" runs="22" wickets="5"/>
+    <BowlerSummary name="Grove" overs="12" maidens="4" runs="13" wickets="3"/>
+    <BowlerSummary name="Sawyer" overs="4" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
