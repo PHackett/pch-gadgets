@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="White Waltham" date="Sat Sep 20 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="White Waltham">
+    <Batsman name="S Hodges">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="P Hormer">
+      <HowOut how="Caught Chris Sellers"/>
+      <Bowler name="Peter Kelly"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="D Clegg">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Verrinder">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="M Metcalfe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Dale">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Shrimpton">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="J Morris"/>
+    <Batsman name="D Mead"/>
+    <Batsman name="W Isack"/>
+    <Batsman name="D Ambrose"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="98"/>
+    <FallOfWicket batsman="3" score="107"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="4" score="152"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Chris Seller" overs="11" maidens="3" runs="36" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="13" maidens="1" runs="51" wickets="1"/>
+    <BowlerSummary name="Peter Kelly" overs="2" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="8" maidens="1" runs="45" wickets="3"/>
+    <BowlerSummary name="Dave Parry" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Verrinder"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Verrinder"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Metcalfe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Verrinder"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="John Grinter"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Dave Parry"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="3" score="60"/>
+    <FallOfWicket batsman="2" score="155"/>
+    <FallOfWicket batsman="5" score="156"/>
+    <FallOfWicket batsman="6" score="169"/>
+    <BowlerSummary name="W Isack" overs="7" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="D Ambrose" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="G Dale" overs="11" maidens="3" runs="40" wickets="0"/>
+    <BowlerSummary name="A Verrinder" overs="7" maidens="2" runs="18" wickets="3"/>
+    <BowlerSummary name="J Morris" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="M Metcalfe" overs="6" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

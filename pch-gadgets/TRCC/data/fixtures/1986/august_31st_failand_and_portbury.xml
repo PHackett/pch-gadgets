@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Aug 31 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="L Prendergast">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="K Jacobs">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="S Cass">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="R Hurford">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="K Greenidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Down">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Reed">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Groves">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Bowen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Garland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Bowen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="90"/>
+    <FallOfWicket batsman="2" score="132"/>
+    <FallOfWicket batsman="4" score="159"/>
+    <FallOfWicket batsman="5" score="159"/>
+    <FallOfWicket batsman="6" score="165"/>
+    <FallOfWicket batsman="7" score="165"/>
+    <FallOfWicket batsman="8" score="167"/>
+    <FallOfWicket batsman="9" score="170"/>
+    <FallOfWicket batsman="10" score="173"/>
+    <FallOfWicket batsman="11" score="176"/>
+    <BowlerSummary name="Chris Sellers" overs="13.5" maidens="2" runs="53" wickets="6"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="2" runs="49" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="1" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="1" runs="36" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Groves"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Garland"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Hurford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="S Down"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Down"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Down"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Down"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hurford"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hurford"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hurford"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="6" score="66"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="7" score="85"/>
+    <FallOfWicket batsman="9" score="106"/>
+    <FallOfWicket batsman="8" score="109"/>
+    <FallOfWicket batsman="11" score="113"/>
+    <BowlerSummary name="R Hurford" overs="11" maidens="4" runs="14" wickets="4"/>
+    <BowlerSummary name="J Garland" overs="9" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="S Down" overs="7" maidens="0" runs="27" wickets="4"/>
+    <BowlerSummary name="R Groves" overs="6" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="G Bowen" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

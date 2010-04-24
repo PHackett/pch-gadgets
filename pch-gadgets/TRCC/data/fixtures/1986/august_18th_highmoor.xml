@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Highmoor" date="Mon Aug 18 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lovelock"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Caught"/>
+      <Bowler name="Lovelock"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Holly"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Long"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Coleman"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Long"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Long"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="7" score="94"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="11" score="118"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <BowlerSummary name="Holly" overs="8" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Lovelock" overs="12" maidens="6" runs="29" wickets="2"/>
+    <BowlerSummary name="Coleman" overs="13.5" maidens="2" runs="28" wickets="4"/>
+    <BowlerSummary name="Long" overs="9" maidens="0" runs="21" wickets="3"/>
+  </Innings>
+  <Innings batting="Highmoor">
+    <Batsman name="J Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Holly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Coleman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="D Lovelock">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="D White">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="3" score="60"/>
+    <BowlerSummary name="Chris Sellers" overs="14" maidens="2" runs="41" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Steve Dunn" overs="3" maidens="1" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

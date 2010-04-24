@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Whitchurch" date="Sat Aug 9 00:00:00 UTC+0100 1986">
+  <MatchReport>
+    <![CDATA[
+      Opposition had only 9 men.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mackenzie"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Mackenzie"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mackenzie"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Scanlon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wakely"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Elsen"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scanlon"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Bill Hatch"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="5" score="48"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <BowlerSummary name="Scanlon" overs="16" maidens="1" runs="62" wickets="2"/>
+    <BowlerSummary name="Mackenzie" overs="14" maidens="1" runs="45" wickets="3"/>
+    <BowlerSummary name="Wakely" overs="5" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Elsen" overs="6" maidens="0" runs="34" wickets="1"/>
+  </Innings>
+  <Innings batting="Whitchurch">
+    <Batsman name="Duff">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Horne">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Wakely">
+      <HowOut how="Caught John Grinter"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Houldey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Farmer">
+      <HowOut how="Caught John Grinter"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Scanlon">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Brennan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="C Mackenzie">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Elsen">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="4" score="35"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <BowlerSummary name="Chris Sellers" overs="9.3" maidens="2" runs="26" wickets="8"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Bill Hatch" overs="4" maidens="3" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

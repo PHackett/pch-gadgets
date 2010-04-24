@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Nettlebed and Swyncombe" date="Sat Jun 14 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Nettlebed and Swyncombe">
+    <Batsman name="S Vines">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="P Levenett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="R Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="M Vines">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Brakspear">
+      <HowOut how="Caught Chris Sellers"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Vickery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="S Cleave">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Memeux"/>
+    <Batsman name="D Challis"/>
+    <Batsman name="M Ackerman"/>
+    <Batsman name="C Goodall"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="1" score="117"/>
+    <FallOfWicket batsman="4" score="147"/>
+    <FallOfWicket batsman="5" score="156"/>
+    <FallOfWicket batsman="6" score="178"/>
+    <BowlerSummary name="Chris Sellers" overs="16" maidens="2" runs="51" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="18" maidens="0" runs="71" wickets="3"/>
+    <BowlerSummary name="Bill Hatch" overs="7" maidens="0" runs="28" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brakspear"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ackerman"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brakspear"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ackerman"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Caught"/>
+      <Bowler name="R Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ackerman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Bill Hatch"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="1" score="93"/>
+    <FallOfWicket batsman="4" score="135"/>
+    <FallOfWicket batsman="5" score="165"/>
+    <FallOfWicket batsman="6" score="165"/>
+    <FallOfWicket batsman="7" score="177"/>
+    <FallOfWicket batsman="8" score="177"/>
+    <BowlerSummary name="M Vines" overs="9" maidens="2" runs="32" wickets="0"/>
+    <BowlerSummary name="D Challis" overs="6" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="R Ackerman" overs="14" maidens="0" runs="54" wickets="5"/>
+    <BowlerSummary name="A Brakspear" overs="11" maidens="0" runs="41" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

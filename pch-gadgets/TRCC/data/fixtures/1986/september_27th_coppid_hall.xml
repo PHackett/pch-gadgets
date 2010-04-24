@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sat Sep 27 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Coppid Hall">
+    <Batsman name="Walker">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barker">
+      <HowOut how="Caught Mike(Jnr) Taylor"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tyler">
+      <HowOut how="Stumped"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Blay">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Cornell">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Brown">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tucknott">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="McCoubrey">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Laverick">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Sporle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Muston">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="91"/>
+    <FallOfWicket batsman="5" score="100"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="8" score="143"/>
+    <FallOfWicket batsman="9" score="158"/>
+    <FallOfWicket batsman="10" score="173"/>
+    <BowlerSummary name="Chris Sellers" overs="9" maidens="3" runs="38" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="12" maidens="2" runs="34" wickets="4"/>
+    <BowlerSummary name="Dave Parry" overs="12" maidens="0" runs="66" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Tucknott"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Andy Abrahams"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Dave Parry"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="3" score="128"/>
+    <BowlerSummary name="Brown" overs="14.5" maidens="2" runs="59" wickets="0"/>
+    <BowlerSummary name="Tyler" overs="13" maidens="3" runs="42" wickets="0"/>
+    <BowlerSummary name="Tucknott" overs="7" maidens="2" runs="37" wickets="1"/>
+    <BowlerSummary name="McCoubrey" overs="3" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

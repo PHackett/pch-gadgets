@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Uxbridge Torchbearers" date="Sat May 24 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gould"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gould"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moere"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Caught"/>
+      <Bowler name="Moere"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Katherveloo"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Caught"/>
+      <Bowler name="Dalziel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="3" score="4"/>
+    <FallOfWicket batsman="4" score="6"/>
+    <FallOfWicket batsman="5" score="7"/>
+    <FallOfWicket batsman="6" score="15"/>
+    <FallOfWicket batsman="7" score="31"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="9" score="63"/>
+    <FallOfWicket batsman="10" score="64"/>
+    <BowlerSummary name="Moere" overs="18" maidens="8" runs="18" wickets="5"/>
+    <BowlerSummary name="Gould" overs="10" maidens="2" runs="13" wickets="2"/>
+    <BowlerSummary name="Dalziel" overs="8" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="Lounsborough" overs="6" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="Katherveloo" overs="5" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Uxbridge Torchbearers">
+    <Batsman name="Jenkins">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Gould">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Lounsborough">
+      <HowOut how="LBW"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Swallow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dalziel">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sharples">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="60"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <BowlerSummary name="Chris Sellers" overs="15" maidens="6" runs="14" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="11" maidens="5" runs="19" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="10" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="Bill Hatch" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Dave Parry" overs="3" maidens="0" runs="6" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

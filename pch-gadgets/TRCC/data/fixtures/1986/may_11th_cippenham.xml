@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:21 UTC+0100 2010 -->
+<CricketMatch oppo="Cippenham" date="Sun May 11 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Carter"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Bradley"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="L Simon"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Darroux"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="G Darroux"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="T Carter"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="John Morrison">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Dave Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="5" score="105"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="6" score="121"/>
+    <BowlerSummary name="T Carter" overs="12" maidens="5" runs="28" wickets="2"/>
+    <BowlerSummary name="M Bradley" overs="1" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="G Darroux" overs="13" maidens="6" runs="24" wickets="2"/>
+    <BowlerSummary name="L Simon" overs="10" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="A Bryan" overs="2" maidens="1" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Cippenham">
+    <Batsman name="B Sidhu">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Inman">
+      <HowOut how="Caught Dave Jackson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Bocking">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="M Bradley">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Simon">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="G Darroux">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="T Carter">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Butler">
+      <HowOut how="Caught Dave Jackson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="K Haines">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Bryan">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Davis">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="4" score="27"/>
+    <FallOfWicket batsman="5" score="69"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="7" score="110"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <BowlerSummary name="Stewart Wren" overs="19" maidens="7" runs="30" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="19" maidens="0" runs="85" wickets="7"/>
+  </Innings>
+</CricketMatch>
+

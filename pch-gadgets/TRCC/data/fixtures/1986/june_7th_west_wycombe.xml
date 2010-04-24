@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="West Wycombe" date="Sat Jun 7 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="West Wycombe">
+    <Batsman name="A Howell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Thompson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gerrard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Thorne">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Carteledge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Storey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Lynch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Whitlow">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Wilkinson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Harvey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Chris Sellers" overs="20" maidens="8" runs="28" wickets="4"/>
+    <BowlerSummary name="Dave Parry" overs="9" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Bill Hatch" overs="15" maidens="2" runs="34" wickets="3"/>
+    <BowlerSummary name="Andy Scott" overs="6" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="1" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="A Howell"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Storey"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lynch"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lynch"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="70"/>
+    <FallOfWicket batsman="1" score="90"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="6" score="99"/>
+    <BowlerSummary name="Lynch" overs="9" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Harvey" overs="6" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="A Howell" overs="8" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Storey" overs="6" maidens="1" runs="30" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

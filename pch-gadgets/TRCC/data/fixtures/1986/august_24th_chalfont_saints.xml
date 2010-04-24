@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:22 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Aug 24 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Lester"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="N Bell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="R Roberts"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Roberts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="J Sewell"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dave Jackson"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="5" score="88"/>
+    <FallOfWicket batsman="6" score="141"/>
+    <BowlerSummary name="N Bell" overs="7" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="R Roberts" overs="14" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="H Bell" overs="8" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Lester" overs="5" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="J Sewell" overs="13" maidens="0" runs="55" wickets="1"/>
+  </Innings>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="J Sewell">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Shuttle">
+      <HowOut how="Caught John Howells"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="N Bell">
+      <HowOut how="Caught John Howells"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="G Lester">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Bell">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="B Welch">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Whitby">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Martin">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Hollaway">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Roberts">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Hobbs">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="6" score="57"/>
+    <FallOfWicket batsman="7" score="59"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="9" score="88"/>
+    <FallOfWicket batsman="10" score="88"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="34" wickets="5"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="2" runs="27" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="1" runs="10" wickets="4"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

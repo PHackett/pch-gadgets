@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:22 UTC+0100 2010 -->
+<CricketMatch oppo="Cippenham" date="Sun Aug 17 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Davies"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bryant"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Bryant"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Simon"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Davies"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Davies"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Simon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Hughes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Simon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="6" score="70"/>
+    <FallOfWicket batsman="4" score="112"/>
+    <FallOfWicket batsman="7" score="112"/>
+    <FallOfWicket batsman="8" score="114"/>
+    <FallOfWicket batsman="9" score="125"/>
+    <FallOfWicket batsman="11" score="127"/>
+    <BowlerSummary name="Bryant" overs="11" maidens="3" runs="34" wickets="2"/>
+    <BowlerSummary name="Davies" overs="15" maidens="4" runs="30" wickets="3"/>
+    <BowlerSummary name="Bocking" overs="7" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Simon" overs="5.2" maidens="0" runs="12" wickets="3"/>
+    <BowlerSummary name="P Hughes" overs="4" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Cippenham">
+    <Batsman name="M Bradley">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="L Morris">
+      <HowOut how="Caught Bill Hatch"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P Hughes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="D Bryant">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="K Haines">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="S Bradley">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="L Simon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="B Sidhu">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Davies">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Bocking">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="2" score="65"/>
+    <FallOfWicket batsman="4" score="90"/>
+    <FallOfWicket batsman="3" score="97"/>
+    <FallOfWicket batsman="6" score="103"/>
+    <FallOfWicket batsman="7" score="120"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="9" score="124"/>
+    <BowlerSummary name="Stewart Wren" overs="12.3" maidens="5" runs="37" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="3" runs="31" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Bill Hatch" overs="5" maidens="2" runs="31" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

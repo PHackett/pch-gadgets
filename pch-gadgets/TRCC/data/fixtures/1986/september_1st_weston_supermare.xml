@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Weston Supermare" date="Mon Sep 1 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Rendell"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Rendell"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="A Belcher"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="M Moore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Rendell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="3" score="161"/>
+    <FallOfWicket batsman="6" score="167"/>
+    <FallOfWicket batsman="7" score="174"/>
+    <FallOfWicket batsman="8" score="174"/>
+    <BowlerSummary name="Brown" overs="7" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="P Rendell" overs="12" maidens="3" runs="38" wickets="3"/>
+    <BowlerSummary name="A Belcher" overs="10" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="M Fletcher" overs="7" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="M Moore" overs="9" maidens="0" runs="42" wickets="1"/>
+  </Innings>
+  <Innings batting="Weston Supermare">
+    <Batsman name="M Brown">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="A Smart">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Rihan">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="R Tunner">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="P Rendell">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="3" score="139"/>
+    <FallOfWicket batsman="1" score="144"/>
+    <BowlerSummary name="Chris Sellers" overs="6" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Peter Kelly" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5.3" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

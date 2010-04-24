@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="West Wycombe" date="Sat Aug 2 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="T Harris"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Harris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Harris"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Sharkey"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave Parry"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Peter Lake"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <BowlerSummary name="T Sharkey" overs="17" maidens="6" runs="41" wickets="1"/>
+    <BowlerSummary name="T Harris" overs="15" maidens="2" runs="41" wickets="3"/>
+    <BowlerSummary name="V Lynch" overs="8" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="B Wilkinson" overs="6" maidens="0" runs="37" wickets="0"/>
+  </Innings>
+  <Innings batting="West Wycombe">
+    <Batsman name="R Thompson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Crowe">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="T Prowse">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Harris">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Gerrard">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="K Harper">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="J Whitlow">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Sharkey">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="V Lynch">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="B Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="4" score="33"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="5" score="47"/>
+    <FallOfWicket batsman="6" score="82"/>
+    <FallOfWicket batsman="8" score="90"/>
+    <FallOfWicket batsman="9" score="94"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <BowlerSummary name="Andy Scott" overs="11" maidens="5" runs="28" wickets="4"/>
+    <BowlerSummary name="Dave Parry" overs="9" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Bill Hatch" overs="2" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
