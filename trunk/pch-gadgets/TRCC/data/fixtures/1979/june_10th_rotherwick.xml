@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:51 UTC+0100 2010 -->
+<CricketMatch oppo="Rotherwick" date="Sun Jun 10 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="M Grove"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Grove"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="M Grove"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="M Grove"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Mace"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="D Pierce"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="LBW"/>
+      <Bowler name="D Pierce"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="5" score="31"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="7" score="46"/>
+    <FallOfWicket batsman="9" score="64"/>
+    <FallOfWicket batsman="10" score="64"/>
+    <FallOfWicket batsman="8" score="85"/>
+    <BowlerSummary name="P Grove" overs="17" maidens="10" runs="13" wickets="2"/>
+    <BowlerSummary name="M Grove" overs="18" maidens="5" runs="40" wickets="4"/>
+    <BowlerSummary name="P Sawyer" overs="6" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="D Pierce" overs="4" maidens="1" runs="16" wickets="2"/>
+    <BowlerSummary name="D Mace" overs="0.4" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Rotherwick">
+    <Batsman name="T Flay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="D Holbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K OKelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Grove">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Mace">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Grove">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="D Pearce">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Lloyd">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Baker">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="5.3" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="10" maidens="2" runs="25" wickets="4"/>
+    <BowlerSummary name="Brian Adams" overs="5" maidens="1" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

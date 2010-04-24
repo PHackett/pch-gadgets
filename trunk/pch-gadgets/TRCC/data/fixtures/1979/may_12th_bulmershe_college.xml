@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Bulmershe College" date="Sat May 12 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bulmershe College">
+    <Batsman name="K Head">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="G Cowlishaw">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Potter">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Willis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Stayt">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Chapman">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Cullington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Headland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Morrish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="28"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="6" score="53"/>
+    <FallOfWicket batsman="7" score="68"/>
+    <FallOfWicket batsman="8" score="75"/>
+    <FallOfWicket batsman="9" score="77"/>
+    <FallOfWicket batsman="1" score="89"/>
+    <FallOfWicket batsman="11" score="91"/>
+    <BowlerSummary name="Mick Houlton" overs="21" maidens="2" runs="47" wickets="5"/>
+    <BowlerSummary name="Andy Scott" overs="9" maidens="2" runs="16" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="2" runs="10" wickets="4"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="G Cowlishaw"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="S Willis"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Cowlishaw"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="G Cowlishaw"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Willis"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="G Cowlishaw"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="G Fulcher"/>
+    <Batsman name="Andy Norris"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="5" score="54"/>
+    <FallOfWicket batsman="6" score="57"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <BowlerSummary name="J Headland" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="G Cowlishaw" overs="18" maidens="4" runs="33" wickets="4"/>
+    <BowlerSummary name="S Willis" overs="14" maidens="5" runs="22" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

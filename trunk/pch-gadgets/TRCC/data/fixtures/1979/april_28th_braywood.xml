@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Braywood" date="Sat Apr 28 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Braywood">
+    <Batsman name="D Bellworthy">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Shurley">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Barker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Fogg">
+      <HowOut how="Ct"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Hayward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Daniels">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Rolls">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Elliot">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Fogg">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Fogg">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="7" score="21"/>
+    <FallOfWicket batsman="8" score="21"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="10" score="46"/>
+    <FallOfWicket batsman="11" score="47"/>
+    <BowlerSummary name="Martin Grugeon" overs="7" maidens="2" runs="17" wickets="5"/>
+    <BowlerSummary name="Mick Houlton" overs="14.3" maidens="4" runs="18" wickets="3"/>
+    <BowlerSummary name="Andy Scott" overs="7" maidens="3" runs="8" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Dennis"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Elliot"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="J Elliot"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Elliot"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="G Daniels"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Barker"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="Steve Clark"/>
+    <Batsman name="Sean Hawthorne"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="2" score="33"/>
+    <FallOfWicket batsman="4" score="33"/>
+    <FallOfWicket batsman="5" score="38"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <BowlerSummary name="D Hayward" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="L Dennis" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="J Elliot" overs="7.4" maidens="5" runs="8" wickets="3"/>
+    <BowlerSummary name="G Daniels" overs="5" maidens="2" runs="5" wickets="1"/>
+    <BowlerSummary name="A Barker" overs="3" maidens="2" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

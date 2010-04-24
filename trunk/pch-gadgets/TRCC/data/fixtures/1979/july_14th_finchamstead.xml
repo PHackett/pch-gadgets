@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:54 UTC+0100 2010 -->
+<CricketMatch oppo="Finchamstead" date="Sat Jul 14 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Finchamstead">
+    <Batsman name="P Maynard">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="D Morris">
+      <HowOut how="Caught Eddie Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="I Hook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="C Maynard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Phillips">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="L Sluman">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kingston"/>
+    <Batsman name="Cox"/>
+    <Batsman name="Brown"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="65"/>
+    <FallOfWicket batsman="3" score="146"/>
+    <FallOfWicket batsman="4" score="163"/>
+    <FallOfWicket batsman="5" score="168"/>
+    <BowlerSummary name="Mick Houlton" overs="20" maidens="1" runs="75" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="11" maidens="0" runs="53" wickets="2"/>
+    <BowlerSummary name="Andy Scott" overs="5" maidens="1" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="L Sluman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="L Sluman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Sluman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cox"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="L Sluman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Cox"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cox"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Cox"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="Cox"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="2" score="33"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="7" score="50"/>
+    <FallOfWicket batsman="8" score="50"/>
+    <FallOfWicket batsman="9" score="54"/>
+    <FallOfWicket batsman="6" score="58"/>
+    <FallOfWicket batsman="10" score="58"/>
+    <BowlerSummary name="Kingston" overs="6" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="L Sluman" overs="7" maidens="4" runs="12" wickets="4"/>
+    <BowlerSummary name="Cox" overs="6.4" maidens="1" runs="10" wickets="5"/>
+    <BowlerSummary name="Brown" overs="4" maidens="2" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

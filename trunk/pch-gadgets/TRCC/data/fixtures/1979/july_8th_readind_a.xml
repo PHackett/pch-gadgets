@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:52 UTC+0100 2010 -->
+<CricketMatch oppo="Readind A" date="Sun Jul 8 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Readind A">
+    <Batsman name="I Bell">
+      <HowOut how="Stumped"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="D Winship">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="T Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="W Simons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Reeks">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Hodges">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Turner">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Bosley">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Nicholls">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Sams">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="W Stoute">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="5" score="54"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="6" score="57"/>
+    <FallOfWicket batsman="7" score="78"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <FallOfWicket batsman="11" score="110"/>
+    <BowlerSummary name="Martin Grugeon" overs="9.1" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="Chris Telfer" overs="9" maidens="3" runs="25" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Matthew Fort" overs="15" maidens="6" runs="36" wickets="7"/>
+    <BowlerSummary name="Tim Glover" overs="4" maidens="1" runs="12" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="1"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="W Stoute"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="W Stoute"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="W Stoute"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Bowled"/>
+      <Bowler name="3"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="3"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tim Glover"/>
+    <Batsman name="Chris Telfer"/>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="6" score="63"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <BowlerSummary name="1" overs="9" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="W Stoute" overs="12" maidens="4" runs="26" wickets="3"/>
+    <BowlerSummary name="3" overs="7.4" maidens="1" runs="40" wickets="2"/>
+    <BowlerSummary name="4" overs="4" maidens="1" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

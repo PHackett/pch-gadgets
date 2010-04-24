@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:52 UTC+0100 2010 -->
+<CricketMatch oppo="Farnham Park" date="Sun Aug 12 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Hills"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Court"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Mitchell"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="Hills"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Berger">
+      <HowOut how="Caught"/>
+      <Bowler name="Achmed"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="Court"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hills"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Hills"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Hills"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="5" score="45"/>
+    <FallOfWicket batsman="3" score="99"/>
+    <FallOfWicket batsman="7" score="134"/>
+    <FallOfWicket batsman="8" score="134"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <FallOfWicket batsman="9" score="136"/>
+    <FallOfWicket batsman="10" score="138"/>
+    <BowlerSummary name="Hills" overs="13.2" maidens="4" runs="32" wickets="5"/>
+    <BowlerSummary name="Court" overs="11" maidens="2" runs="33" wickets="2"/>
+    <BowlerSummary name="Darroue" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Achmed" overs="6" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Mitchell" overs="3" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Farnham Park">
+    <Batsman name="W Ammad">
+      <HowOut how="Caught Tim Glover"/>
+      <Bowler name="S Berger"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Ammad">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="L Darroue">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="K Mitchell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Mitchell">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="D Luke">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Rebello">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Petts">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="5" score="121"/>
+    <FallOfWicket batsman="6" score="126"/>
+    <FallOfWicket batsman="8" score="132"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="4" runs="37" wickets="2"/>
+    <BowlerSummary name="S Berger" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8.3" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="J Telfer" overs="2" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

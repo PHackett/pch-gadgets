@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:54 UTC+0100 2010 -->
+<CricketMatch oppo="Twyford" date="Mon Aug 27 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Searby"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="R Frost"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Steve Clark"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="6" score="85"/>
+    <FallOfWicket batsman="7" score="135"/>
+    <FallOfWicket batsman="4" score="141"/>
+    <BowlerSummary name="Dave Searby" overs="15" maidens="2" runs="44" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="12" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="R Frost" overs="8" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="I Jones" overs="2.2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="I Davies" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="5" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="N Selwyn">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="I Davies">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Dave Searby">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="I Jones"/>
+    <Batsman name="J Heggarty"/>
+    <Batsman name="Steve Taylor"/>
+    <Batsman name="R Frost"/>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="5" score="111"/>
+    <BowlerSummary name="Martin Grugeon" overs="11" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="13.3" maidens="2" runs="40" wickets="0"/>
+    <BowlerSummary name="George West" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Peter Kelly" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Ray Cox" overs="2" maidens="0" runs="11" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

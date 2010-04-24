@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Eversley" date="Mon May 14 00:00:00 UTC+0100 1979">
+  <MatchReport>
+    <![CDATA[
+      Evening Cup.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Eversley">
+    <Batsman name="Lang">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Faulkner">
+      <HowOut how="Not Out"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Hobbs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Naylor">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hutton"/>
+    <Batsman name="Peacock"/>
+    <Batsman name="Teasdale"/>
+    <Batsman name="Hardy"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="69"/>
+    <FallOfWicket batsman="3" score="117"/>
+    <FallOfWicket batsman="4" score="121"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="Chris Telfer" overs="4" maidens="0" runs="58" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Naylor"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Naylor"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hutton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Peacock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Peacock"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Teasdale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="45"/>
+    <FallOfWicket batsman="7" score="53"/>
+    <FallOfWicket batsman="8" score="59"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <BowlerSummary name="Fox" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Naylor" overs="4" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="Hutton" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Peacock" overs="3" maidens="1" runs="8" wickets="2"/>
+    <BowlerSummary name="Teasdale" overs="2" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Hardy" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

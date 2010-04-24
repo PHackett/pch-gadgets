@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:54 UTC+0100 2010 -->
+<CricketMatch oppo="Waverly" date="Sat Jul 28 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Waverly">
+    <Batsman name="G Warren">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="N Charmicheal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Bowler">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Dexter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="D Emery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Harland">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Graham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Bailey">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Spriggs">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Hunt">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Goodall">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="1" score="54"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="4" score="90"/>
+    <FallOfWicket batsman="7" score="91"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <FallOfWicket batsman="10" score="119"/>
+    <BowlerSummary name="Mick Houlton" overs="19" maidens="3" runs="55" wickets="4"/>
+    <BowlerSummary name="Andy Scott" overs="9" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="11" maidens="3" runs="30" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="A Bailey"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="Dave Harris"/>
+    <Batsman name="George West"/>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Barry Thomas"/>
+    <Batsman name="Andy Norris"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="54"/>
+    <BowlerSummary name="A Dexter" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="D Emery" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="P Bowler" overs="8" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="A Bailey" overs="9" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="M Graham" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="G Warren" overs="0.2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

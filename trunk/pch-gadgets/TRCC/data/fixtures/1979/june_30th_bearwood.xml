@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:54 UTC+0100 2010 -->
+<CricketMatch oppo="Bearwood" date="Sat Jun 30 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bearwood">
+    <Batsman name="Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Warwick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tattersdill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="J Carne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Jenkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Deeves">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Greenwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Carne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Philpin">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Blackall">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="4" score="27"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="7" score="66"/>
+    <FallOfWicket batsman="6" score="66"/>
+    <FallOfWicket batsman="9" score="66"/>
+    <FallOfWicket batsman="10" score="77"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <BowlerSummary name="Martin Grugeon" overs="17" maidens="7" runs="33" wickets="6"/>
+    <BowlerSummary name="Andy Scott" overs="9" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="7" maidens="3" runs="19" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="1"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="J Carne"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Carne"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Tattersdill"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Tattersdill"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Warwick"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Warwick"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andy Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="5" score="23"/>
+    <FallOfWicket batsman="6" score="31"/>
+    <FallOfWicket batsman="7" score="47"/>
+    <FallOfWicket batsman="8" score="50"/>
+    <FallOfWicket batsman="9" score="69"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="10" score="77"/>
+    <BowlerSummary name="1" overs="12" maidens="5" runs="27" wickets="4"/>
+    <BowlerSummary name="J Carne" overs="11" maidens="4" runs="14" wickets="2"/>
+    <BowlerSummary name="Tattersdill" overs="8" maidens="1" runs="16" wickets="2"/>
+    <BowlerSummary name="Warwick" overs="3" maidens="1" runs="4" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

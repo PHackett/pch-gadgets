@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:52 UTC+0100 2010 -->
+<CricketMatch oppo="Englefield" date="Sun Jul 22 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Hartley"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Hartley"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Hartley"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Stumped"/>
+      <Bowler name="D Hartley"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="D Hartley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Turvey"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="D Hartley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="D Hartley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Berger">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="D Hartley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="3" score="100"/>
+    <FallOfWicket batsman="4" score="103"/>
+    <FallOfWicket batsman="6" score="104"/>
+    <FallOfWicket batsman="5" score="126"/>
+    <FallOfWicket batsman="8" score="147"/>
+    <FallOfWicket batsman="9" score="148"/>
+    <FallOfWicket batsman="7" score="159"/>
+    <FallOfWicket batsman="11" score="164"/>
+    <BowlerSummary name="R Hartley" overs="8" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Newman" overs="15" maidens="3" runs="52" wickets="1"/>
+    <BowlerSummary name="D Hartley" overs="11.5" maidens="1" runs="44" wickets="6"/>
+    <BowlerSummary name="Turvey" overs="4" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Englefield">
+    <Batsman name="A Longdon">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="S Berger"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Fuller">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="James Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="R Hartley">
+      <HowOut how="Caught George West"/>
+      <Bowler name="James Fort"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="P Nash">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="James Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Webster">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Turvey">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="James Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="E Newman">
+      <HowOut how="Caught Chris Telfer"/>
+      <Bowler name="James Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T Sales">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="D Hartley">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="James Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Tegg">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Hartley">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="2" score="80"/>
+    <FallOfWicket batsman="5" score="100"/>
+    <FallOfWicket batsman="7" score="104"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <FallOfWicket batsman="9" score="127"/>
+    <FallOfWicket batsman="10" score="133"/>
+    <BowlerSummary name="J Telfer" overs="10" maidens="4" runs="18" wickets="0"/>
+    <BowlerSummary name="S Berger" overs="5" maidens="3" runs="18" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="14" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="12" maidens="1" runs="45" wickets="8"/>
+  </Innings>
+</CricketMatch>
+
