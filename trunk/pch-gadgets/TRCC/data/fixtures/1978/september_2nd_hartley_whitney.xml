@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="Hartley Whitney" date="Sat Sep 2 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hartley Whitney">
+    <Batsman name="Cadman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wrinch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Bell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dargue">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Greaves">
+      <HowOut how="Not Out"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Stanley">
+      <HowOut how="Caught Ian Cockerell"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Godley">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Thompson">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Lynch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Turk">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="6"/>
+    <FallOfWicket batsman="4" score="9"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <FallOfWicket batsman="9" score="128"/>
+    <FallOfWicket batsman="10" score="131"/>
+    <FallOfWicket batsman="11" score="175"/>
+    <BowlerSummary name="Mick Houlton" overs="22" maidens="2" runs="94" wickets="5"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Andy Scott" overs="13.1" maidens="1" runs="38" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stanley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Carter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="Lynch"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Thompson"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Dargue"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Lynch"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lynch"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Cockerell"/>
+    <Batsman name="Sean Hawthorne"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="5" score="77"/>
+    <FallOfWicket batsman="3" score="81"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <BowlerSummary name="Stanley" overs="14" maidens="4" runs="26" wickets="1"/>
+    <BowlerSummary name="Carter" overs="7" maidens="4" runs="15" wickets="1"/>
+    <BowlerSummary name="Thompson" overs="13" maidens="3" runs="19" wickets="1"/>
+    <BowlerSummary name="Dargue" overs="6" maidens="4" runs="5" wickets="1"/>
+    <BowlerSummary name="Lynch" overs="8" maidens="2" runs="13" wickets="3"/>
+    <BowlerSummary name="Cadman" overs="2" maidens="2" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

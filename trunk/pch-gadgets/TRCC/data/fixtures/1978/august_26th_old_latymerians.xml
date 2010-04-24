@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="Old Latymerians" date="Sat Aug 26 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Fraser-Mitchell"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Piggott"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="H Mortimer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="H Mortimer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Caught"/>
+      <Bowler name="Fraser-Mitchell"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Berger">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fraser-Mitchell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="Piggott"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Mortimer"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ian Cockerell">
+      <HowOut how="Caught"/>
+      <Bowler name="Piggott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="H Mortimer"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Andy Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="6" score="47"/>
+    <FallOfWicket batsman="2" score="79"/>
+    <FallOfWicket batsman="7" score="106"/>
+    <FallOfWicket batsman="9" score="118"/>
+    <FallOfWicket batsman="10" score="138"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <BowlerSummary name="Fraser-Mitchell" overs="10" maidens="1" runs="42" wickets="3"/>
+    <BowlerSummary name="H Mortimer" overs="12.2" maidens="3" runs="27" wickets="4"/>
+    <BowlerSummary name="Piggott" overs="14" maidens="4" runs="25" wickets="3"/>
+    <BowlerSummary name="Moss" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Hamilton" overs="6" maidens="1" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Old Latymerians">
+    <Batsman name="Childs">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Turen">
+      <HowOut how="Caught Ian Cockerell"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Canbray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Gurton">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Bearman">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="H Mortimer">
+      <HowOut how="Caught Ian Cockerell"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Lavers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Piggott">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Moss">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Fraser-Mitchell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="7" score="84"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="8" score="117"/>
+    <FallOfWicket batsman="10" score="131"/>
+    <BowlerSummary name="Andy Scott" overs="9" maidens="2" runs="41" wickets="1"/>
+    <BowlerSummary name="Paul Appaloosa" overs="15" maidens="7" runs="35" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="16" maidens="3" runs="40" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

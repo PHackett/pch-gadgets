@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="South Harrow" date="Sat Jul 22 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="South Harrow">
+    <Batsman name="Reeder">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Cruse">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Heslam">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Debenham">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="P Chatterger">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paddy Chatterger">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Millar">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pearce">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="57"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <FallOfWicket batsman="7" score="77"/>
+    <FallOfWicket batsman="5" score="112"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="11" score="121"/>
+    <BowlerSummary name="Andy Scott" overs="16" maidens="2" runs="48" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="19" maidens="5" runs="58" wickets="5"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3.4" maidens="1" runs="6" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Debenham"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Debenham"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Dave Harris"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="George West"/>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Barry Thomas"/>
+    <Batsman name="G Fulcher"/>
+    <Extras value="0"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="2" score="57"/>
+    <BowlerSummary name="Debenham" overs="14" maidens="5" runs="27" wickets="2"/>
+    <BowlerSummary name="Millar" overs="14.4" maidens="2" runs="43" wickets="0"/>
+    <BowlerSummary name="Paddy Chatterger" overs="7" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="Green" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

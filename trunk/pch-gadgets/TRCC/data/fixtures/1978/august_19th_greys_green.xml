@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sat Aug 19 00:00:00 UTC+0100 1978">
+  <MatchReport>
+    <![CDATA[
+       There appear to have been 12 players per side in this game! For TRCC, the 12 player was Mr. Brace
+      who was bowled by Woolley for 0. For Greays Green, the 12<sup>th</sup> player was Mr. Jones, who was
+      bowled for 0 by Alan Brooklyn 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Greys Green">
+    <Batsman name="Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Larkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="House">
+      <HowOut how="Caught A Brace"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thetford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Eycott">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Richardson">
+      <HowOut how="LBW"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Woolley">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="B Larkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hunt">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Precious">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="9"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="5" score="19"/>
+    <FallOfWicket batsman="6" score="32"/>
+    <FallOfWicket batsman="7" score="72"/>
+    <FallOfWicket batsman="9" score="72"/>
+    <FallOfWicket batsman="10" score="87"/>
+    <FallOfWicket batsman="11" score="105"/>
+    <BowlerSummary name="Alan Brooklyn" overs="10.2" maidens="3" runs="21" wickets="5"/>
+    <BowlerSummary name="Paul Appaloosa" overs="11" maidens="2" runs="31" wickets="4"/>
+    <BowlerSummary name="Theo Gray" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Stan Coates" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="G Fulcher" overs="4" maidens="0" runs="16" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Brown"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brown"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="Woolley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andy Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Cockerell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Brace">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="5" score="39"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="7" score="57"/>
+    <FallOfWicket batsman="4" score="57"/>
+    <FallOfWicket batsman="9" score="69"/>
+    <FallOfWicket batsman="10" score="77"/>
+    <FallOfWicket batsman="11" score="77"/>
+    <BowlerSummary name="Woolley" overs="18.5" maidens="4" runs="49" wickets="8"/>
+    <BowlerSummary name="A Brown" overs="14" maidens="5" runs="16" wickets="2"/>
+    <BowlerSummary name="Thetford" overs="4" maidens="1" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

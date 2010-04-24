@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="Opposition" date="Sat Jun 24 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Stumped"/>
+      <Bowler name="5"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="4"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="3"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="5"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="6"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="5"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Norris"/>
+    <Batsman name="Steve Clark"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="61"/>
+    <FallOfWicket batsman="1" score="97"/>
+    <FallOfWicket batsman="3" score="97"/>
+    <FallOfWicket batsman="5" score="109"/>
+    <FallOfWicket batsman="4" score="110"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="6" score="120"/>
+    <BowlerSummary name="1" overs="9" maidens="2" runs="21" wickets="0"/>
+    <BowlerSummary name="2" overs="7" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="3" overs="8" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="4" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="5" overs="7" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="6" overs="4" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Opposition">
+    <Batsman name="Dennis">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="I Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hester">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Cusden">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chesterton">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Sherrington">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="4" runs="26" wickets="3"/>
+    <BowlerSummary name="Andy Scott" overs="7" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="11" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Andy Norris" overs="2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:00 UTC+0100 2010 -->
+<CricketMatch oppo="Hanwell" date="Sun May 14 00:00:00 UTC+0100 1978">
+  <MatchReport>
+    <![CDATA[
+      The true date for this game is unknown.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Hanwell">
+    <Batsman name="Somorara">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Swan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Matheson">
+      <HowOut how="Caught Stan Coates"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Engleton">
+      <HowOut how="Caught Sean Hawthorne"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stocks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tinai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="White">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stevenson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="9">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="10">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="11"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="6" score="40"/>
+    <FallOfWicket batsman="5" score="41"/>
+    <FallOfWicket batsman="8" score="44"/>
+    <FallOfWicket batsman="7" score="52"/>
+    <FallOfWicket batsman="10" score="52"/>
+    <BowlerSummary name="Martin Grugeon" overs="5" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="9.4" maidens="4" runs="14" wickets="6"/>
+    <BowlerSummary name="Stan Coates" overs="5" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Ray Cox" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Somorara"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Terry Hawthorne">
+      <HowOut how="LBW"/>
+      <Bowler name="10"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Somorara"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="10"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="4" score="29"/>
+    <BowlerSummary name="10" overs="10.5" maidens="3" runs="25" wickets="2"/>
+    <BowlerSummary name="Somorara" overs="7" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="3" overs="3" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

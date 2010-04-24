@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="Unknown" date="Sat Aug 5 00:00:00 UTC+0100 1978">
+  <MatchReport>
+    <![CDATA[
+      The true date for this game was not recorded
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Boreham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Caught"/>
+      <Bowler name="Boreham"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dunn"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dunn"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dunn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ian Cockerell">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="1" score="79"/>
+    <FallOfWicket batsman="6" score="110"/>
+    <FallOfWicket batsman="7" score="111"/>
+    <FallOfWicket batsman="8" score="116"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <FallOfWicket batsman="5" score="118"/>
+    <FallOfWicket batsman="10" score="118"/>
+    <BowlerSummary name="Boreham" overs="14" maidens="2" runs="53" wickets="2"/>
+    <BowlerSummary name="Dunn" overs="9" maidens="2" runs="13" wickets="3"/>
+    <BowlerSummary name="Gretton" overs="2" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Walker" overs="10.5" maidens="0" runs="42" wickets="3"/>
+  </Innings>
+  <Innings batting="Unknown">
+    <Batsman name="Knowles">
+      <HowOut how="Not Out"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Mikurendwa">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Redrup">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Galley">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sherry">
+      <HowOut how="Caught Ian Cockerell"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Pymm">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gretton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Boreham">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dunn"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="35"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="4" score="57"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="7" score="116"/>
+    <FallOfWicket batsman="8" score="119"/>
+    <FallOfWicket batsman="9" score="119"/>
+    <BowlerSummary name="J Telfer" overs="14" maidens="2" runs="40" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="3" runs="36" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Paul Woodford" overs="6" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

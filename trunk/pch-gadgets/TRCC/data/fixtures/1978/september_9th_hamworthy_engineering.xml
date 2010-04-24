@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="Hamworthy Engineering" date="Sat Sep 9 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hamworthy Engineering">
+    <Batsman name="Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Wood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Hickling">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neville">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hanham">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Thomas">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Talbot">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Offer">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Cure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hewson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="43"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="6" score="66"/>
+    <FallOfWicket batsman="7" score="79"/>
+    <FallOfWicket batsman="8" score="91"/>
+    <FallOfWicket batsman="9" score="119"/>
+    <FallOfWicket batsman="10" score="126"/>
+    <BowlerSummary name="Martin Grugeon" overs="7" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="16" maidens="1" runs="59" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="13.3" maidens="1" runs="42" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Cure"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Offer"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Harfield"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harfield"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Harfield"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hewson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Stumped"/>
+      <Bowler name="Harfield"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ray Cox"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="72"/>
+    <FallOfWicket batsman="5" score="90"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="7" score="130"/>
+    <BowlerSummary name="Neville" overs="11" maidens="6" runs="27" wickets="0"/>
+    <BowlerSummary name="Cure" overs="5" maidens="2" runs="7" wickets="1"/>
+    <BowlerSummary name="Offer" overs="8" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Hewson" overs="7" maidens="2" runs="12" wickets="1"/>
+    <BowlerSummary name="Harfield" overs="9" maidens="1" runs="28" wickets="4"/>
+    <BowlerSummary name="Powell" overs="3" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
