@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:52 UTC+0100 2010 -->
+<CricketMatch oppo="Rotherwick" date="Sun Aug 23 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Rotherwick">
+    <Batsman name="D Holbrooke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="T Flay">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Huntley">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A OKelly">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="A Terry">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="R Smee">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C Dancer"/>
+    <Batsman name="S Baker"/>
+    <Batsman name="D Lloyd"/>
+    <Batsman name="J McCallum"/>
+    <Batsman name="P Sawyer"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="119"/>
+    <FallOfWicket batsman="1" score="139"/>
+    <BowlerSummary name="Martin Grugeon" overs="15" maidens="2" runs="43" wickets="1"/>
+    <BowlerSummary name="Neil Smith" overs="13" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Tim Glover" overs="6" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Paul Lewis" overs="5" maidens="0" runs="12" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="J McCallum"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught"/>
+      <Bowler name="R Smee"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Sawyer"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Sawyer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Woodman"/>
+    <Batsman name="Tim Glover"/>
+    <Batsman name="Steve Clark"/>
+    <Batsman name="John Kirk"/>
+    <Batsman name="Neil Smith"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="2" score="133"/>
+    <FallOfWicket batsman="4" score="139"/>
+    <FallOfWicket batsman="3" score="153"/>
+    <BowlerSummary name="A OKelly" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="J McCallum" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="P Sawyer" overs="11.3" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="C Dancer" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="D Holbrooke" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="R Smee" overs="4" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:54 UTC+0100 2010 -->
+<CricketMatch oppo="Readingensians" date="Sat Aug 1 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Readingensians">
+    <Batsman name="R Wonter-Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="A Wellsteed">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="T Cartwright">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="G Lebreton">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="D Figg">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Scott">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Russell">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="I Gaskell">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="H Sadler"/>
+    <Batsman name="W Morgan"/>
+    <Batsman name="G Wellsteed"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Brian Adams" overs="11" maidens="1" runs="53" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="17" maidens="5" runs="41" wickets="4"/>
+    <BowlerSummary name="Dave Parry" overs="11" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="1" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Wonter-Smith"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="A Wellsteed"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="R Wonter-Smith"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Wellsteed"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Wonter-Smith"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Dave Parry"/>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Peter Turton"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="78"/>
+    <FallOfWicket batsman="3" score="93"/>
+    <FallOfWicket batsman="5" score="121"/>
+    <FallOfWicket batsman="4" score="127"/>
+    <BowlerSummary name="H Sadler" overs="7" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="A Wellsteed" overs="18" maidens="7" runs="63" wickets="2"/>
+    <BowlerSummary name="W Morgan" overs="6" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="R Wonter-Smith" overs="9" maidens="0" runs="48" wickets="3"/>
+    <BowlerSummary name="I Gaskell" overs="3" maidens="1" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

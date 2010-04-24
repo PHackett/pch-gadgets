@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:52 UTC+0100 2010 -->
+<CricketMatch oppo="Twyford Saturday" date="Mon Aug 31 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught"/>
+      <Bowler name="Baker"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="Jones"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="LBW"/>
+      <Bowler name="Jones"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="James Fort"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Caught"/>
+      <Bowler name="I Davis"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="I Davis"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Davis"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="James Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Lambert"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Caught"/>
+      <Bowler name="C Lambert"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="1" score="73"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="6" score="132"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <FallOfWicket batsman="9" score="171"/>
+    <FallOfWicket batsman="11" score="171"/>
+    <BowlerSummary name="D Searby" overs="9" maidens="1" runs="38" wickets="0"/>
+    <BowlerSummary name="Jones" overs="8" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="M Fort" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Baker" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="I Davis" overs="7" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="C Lambert" overs="1" maidens="0" runs="3" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford Saturday">
+    <Batsman name="D Searby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="LBW"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Fort">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="M Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Holgate">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="I Davis">
+      <HowOut how="Caught John Kirk"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Lambert">
+      <HowOut how="LBW"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Baker">
+      <HowOut how="Caught Paul Lewis"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="5" score="66"/>
+    <FallOfWicket batsman="6" score="141"/>
+    <FallOfWicket batsman="3" score="148"/>
+    <FallOfWicket batsman="9" score="151"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <FallOfWicket batsman="10" score="155"/>
+    <FallOfWicket batsman="7" score="162"/>
+    <BowlerSummary name="James Hayward" overs="13" maidens="0" runs="48" wickets="4"/>
+    <BowlerSummary name="Brian Adams" overs="15" maidens="3" runs="49" wickets="4"/>
+    <BowlerSummary name="Paul Lewis" overs="8" maidens="2" runs="28" wickets="2"/>
+    <BowlerSummary name="George West" overs="4" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

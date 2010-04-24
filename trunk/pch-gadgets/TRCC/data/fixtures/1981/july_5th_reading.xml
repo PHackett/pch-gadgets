@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:51 UTC+0100 2010 -->
+<CricketMatch oppo="Reading" date="Sun Jul 5 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="King"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Flower"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="King"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="King"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="King"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="King"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="King"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walder"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Neil Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Hill"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="1" score="55"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="3" score="77"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="7" score="78"/>
+    <FallOfWicket batsman="8" score="85"/>
+    <FallOfWicket batsman="9" score="142"/>
+    <BowlerSummary name="Flower" overs="9" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="King" overs="19" maidens="8" runs="35" wickets="6"/>
+    <BowlerSummary name="W Stout" overs="12" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="West" overs="3" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading">
+    <Batsman name="A Walder">
+      <HowOut how="Not Out"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="J Clarke">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="M Ransden">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R West">
+      <HowOut how="Caught John Howells"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Flower">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Castell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="89"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="2" runs="46" wickets="1"/>
+    <BowlerSummary name="Neil Smith" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="13" maidens="1" runs="53" wickets="2"/>
+    <BowlerSummary name="James Hayward" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Steve Clark" overs="0.3" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

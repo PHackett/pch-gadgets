@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:53 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont St Peter" date="Sun Sep 20 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Clarke"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Coles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Little"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Caught"/>
+      <Bowler name="R Clarke"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Coles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Coles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="G Harrison"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Coles"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Little"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <FallOfWicket batsman="3" score="102"/>
+    <FallOfWicket batsman="9" score="105"/>
+    <BowlerSummary name="J Coles" overs="15" maidens="5" runs="31" wickets="4"/>
+    <BowlerSummary name="R Clarke" overs="10" maidens="3" runs="22" wickets="2"/>
+    <BowlerSummary name="M Everitt" overs="6" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="G Harrison" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="M Little" overs="4" maidens="1" runs="7" wickets="2"/>
+  </Innings>
+  <Innings batting="Chalfont St Peter">
+    <Batsman name="S Whitby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Rodway">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Little">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Overlord">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Everitt">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Sewell">
+      <HowOut how="LBW"/>
+      <Bowler name="John Kirk"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Coles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="G Harrison">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="W Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="56"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="6" score="44"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="3" runs="22" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="16" maidens="7" runs="22" wickets="4"/>
+    <BowlerSummary name="Eddie Kelly" overs="2" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="John Kirk" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

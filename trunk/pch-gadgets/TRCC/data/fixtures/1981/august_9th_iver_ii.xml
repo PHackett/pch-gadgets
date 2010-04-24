@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:52 UTC+0100 2010 -->
+<CricketMatch oppo="Iver II" date="Sun Aug 9 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Iver II">
+    <Batsman name="A Mock">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Biggs">
+      <HowOut how="Caught Paul Lewis"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Spinks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Weston">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R McDonald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Self">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="B Fryatt">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="D Carnell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Mason">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="C Biggs">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="4" score="12"/>
+    <FallOfWicket batsman="3" score="12"/>
+    <FallOfWicket batsman="5" score="14"/>
+    <FallOfWicket batsman="6" score="23"/>
+    <FallOfWicket batsman="8" score="24"/>
+    <FallOfWicket batsman="9" score="32"/>
+    <FallOfWicket batsman="7" score="102"/>
+    <BowlerSummary name="Stewart Wren" overs="13" maidens="6" runs="18" wickets="3"/>
+    <BowlerSummary name="Martin Grugeon" overs="12" maidens="3" runs="26" wickets="5"/>
+    <BowlerSummary name="George West" overs="6" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="John Kirk" overs="3" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="B Fryatt"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Mock"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="M Self"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Caught"/>
+      <Bowler name="B Fryatt"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Self"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="A Mock"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="James Hayward"/>
+    <Batsman name="John Howells"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="44"/>
+    <FallOfWicket batsman="3" score="59"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="7" score="89"/>
+    <BowlerSummary name="B Fryatt" overs="16.2" maidens="2" runs="35" wickets="2"/>
+    <BowlerSummary name="A Mock" overs="13" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="M Self" overs="3" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

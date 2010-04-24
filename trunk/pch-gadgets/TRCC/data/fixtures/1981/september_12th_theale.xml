@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:54 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Sep 12 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Dawkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Williams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Williams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Bedding"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Williams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="James Hayward"/>
+    <Batsman name="Dave Parry"/>
+    <Batsman name="Nigel Tout"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="4"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="6" score="17"/>
+    <FallOfWicket batsman="5" score="52"/>
+    <BowlerSummary name="C Dawkins" overs="11" maidens="6" runs="9" wickets="1"/>
+    <BowlerSummary name="R Williams" overs="10" maidens="7" runs="8" wickets="3"/>
+    <BowlerSummary name="A Bedding" overs="11" maidens="2" runs="40" wickets="1"/>
+    <BowlerSummary name="R Hay" overs="10" maidens="1" runs="54" wickets="0"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="E Ellis">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="P Hopper">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="R Goswell">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="B Barefoot">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Slade">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R Hay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="N Newton">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Lloyd">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Bedding">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Dawkins">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Williams"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="35"/>
+    <FallOfWicket batsman="4" score="35"/>
+    <FallOfWicket batsman="1" score="73"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="7" score="119"/>
+    <BowlerSummary name="James Hayward" overs="10" maidens="1" runs="41" wickets="3"/>
+    <BowlerSummary name="Brian Adams" overs="14" maidens="2" runs="53" wickets="5"/>
+    <BowlerSummary name="G Fulcher" overs="2" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
