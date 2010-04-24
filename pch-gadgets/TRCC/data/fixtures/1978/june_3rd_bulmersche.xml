@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="Bulmersche" date="Sat Jun 3 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bulmersche">
+    <Batsman name="Cowlinshaw">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Head">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Cullington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Stayte">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Willis">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Wormhall">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Dye"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="2" score="63"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="4" score="148"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="15" maidens="1" runs="40" wickets="2"/>
+    <BowlerSummary name="Paul Appaloosa" overs="12" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Dave Harris" overs="5" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="G Fulcher" overs="3" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="2"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="2"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Caught"/>
+      <Bowler name="3"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught"/>
+      <Bowler name="4"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="4"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="4"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="4"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="5" score="29"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="8" score="53"/>
+    <FallOfWicket batsman="7" score="59"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <FallOfWicket batsman="10" score="79"/>
+    <BowlerSummary name="1" overs="9" maidens="4" runs="14" wickets="2"/>
+    <BowlerSummary name="2" overs="9" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="3" overs="5" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="4" overs="4.3" maidens="1" runs="10" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

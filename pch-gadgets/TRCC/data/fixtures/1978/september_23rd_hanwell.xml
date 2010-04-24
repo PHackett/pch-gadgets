@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="Hanwell" date="Sat Sep 23 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Jones"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="Son"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Son"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Son"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Jones"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="1" score="94"/>
+    <FallOfWicket batsman="4" score="105"/>
+    <FallOfWicket batsman="5" score="138"/>
+    <FallOfWicket batsman="3" score="150"/>
+    <FallOfWicket batsman="6" score="152"/>
+    <FallOfWicket batsman="7" score="156"/>
+    <BowlerSummary name="Hissey" overs="7" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Jones" overs="21" maidens="7" runs="50" wickets="4"/>
+    <BowlerSummary name="Collins" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Son" overs="11" maidens="0" runs="35" wickets="3"/>
+  </Innings>
+  <Innings batting="Hanwell">
+    <Batsman name="Tiney">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hissey">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Collins">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Baldwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Son">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Quilter">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Caught Paul Appaloosa"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Bulsara">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Niles">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Baldwin">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Higgins">
+      <HowOut how="Caught Paul Appaloosa"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="5" score="45"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="7" score="77"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <FallOfWicket batsman="9" score="88"/>
+    <FallOfWicket batsman="10" score="88"/>
+    <FallOfWicket batsman="11" score="89"/>
+    <BowlerSummary name="Andy Scott" overs="11" maidens="6" runs="9" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="20.4" maidens="5" runs="47" wickets="6"/>
+    <BowlerSummary name="Paul Appaloosa" overs="6" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="1" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

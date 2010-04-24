@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="BCS" date="Sat Sep 30 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="BCS">
+    <Batsman name="Barker">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Hudson">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Wood">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Collett">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Carter">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Haslam">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Neville">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Brogden">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Garbett">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rush">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="6" score="78"/>
+    <FallOfWicket batsman="8" score="735"/>
+    <FallOfWicket batsman="9" score="136"/>
+    <BowlerSummary name="Andy Scott" overs="14.4" maidens="2" runs="43" wickets="3"/>
+    <BowlerSummary name="Mick Houlton" overs="19" maidens="4" runs="72" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Brogden"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Garbett"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Garbett"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Garbett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Garbett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Rush"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="G Fulcher"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Clark"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="2" score="85"/>
+    <FallOfWicket batsman="4" score="104"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="3" score="143"/>
+    <BowlerSummary name="Neville" overs="9" maidens="2" runs="35" wickets="0"/>
+    <BowlerSummary name="Brogden" overs="9" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Rush" overs="12" maidens="4" runs="27" wickets="1"/>
+    <BowlerSummary name="Garbett" overs="11.4" maidens="2" runs="40" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

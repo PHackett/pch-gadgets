@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:06 UTC+0100 2010 -->
+<CricketMatch oppo="Rotherwick" date="Sat Aug 26 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Avery"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="OKelly"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Pearce"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Pearce"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="P Grove"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Berger">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="2" score="138"/>
+    <FallOfWicket batsman="6" score="182"/>
+    <FallOfWicket batsman="7" score="185"/>
+    <FallOfWicket batsman="9" score="186"/>
+    <FallOfWicket batsman="8" score="189"/>
+    <FallOfWicket batsman="11" score="193"/>
+    <BowlerSummary name="P Grove" overs="11.3" maidens="0" runs="38" wickets="5"/>
+    <BowlerSummary name="OKelly" overs="2" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="M Grove" overs="12" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Pearce" overs="9" maidens="0" runs="48" wickets="2"/>
+    <BowlerSummary name="Lillyman" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Avery" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Rotherwick">
+    <Batsman name="OKelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lillyman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="P Grove">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Holbrook">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Grove">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Mace">
+      <HowOut how="Caught S Berger"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="D Pearce">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="C Avery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T Patel">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Miles">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Poulet">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <FallOfWicket batsman="2" score="439"/>
+    <FallOfWicket batsman="6" score="482"/>
+    <FallOfWicket batsman="5" score="186"/>
+    <FallOfWicket batsman="8" score="188"/>
+    <FallOfWicket batsman="9" score="195"/>
+    <FallOfWicket batsman="7" score="200"/>
+    <BowlerSummary name="Martin Grugeon" overs="16" maidens="5" runs="54" wickets="7"/>
+    <BowlerSummary name="S Berger" overs="8" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="8" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="7" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

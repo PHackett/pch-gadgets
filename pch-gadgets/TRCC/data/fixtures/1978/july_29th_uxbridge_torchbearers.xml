@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="Uxbridge Torchbearers" date="Sat Jul 29 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Uxbridge Torchbearers">
+    <Batsman name="Hamblin">
+      <HowOut how="Caught Paul Appaloosa"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="San">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Lownsborough">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Swallow">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ensch">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sugden">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hartley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Moth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sims">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="7" score="46"/>
+    <FallOfWicket batsman="8" score="47"/>
+    <FallOfWicket batsman="9" score="47"/>
+    <FallOfWicket batsman="10" score="49"/>
+    <FallOfWicket batsman="6" score="63"/>
+    <BowlerSummary name="Andy Scott" overs="5" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="17" maidens="9" runs="19" wickets="7"/>
+    <BowlerSummary name="Paul Appaloosa" overs="12" maidens="6" runs="23" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Hartley"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Hartley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="LBW"/>
+      <Bowler name="Sugden"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Sugden"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Caught"/>
+      <Bowler name="Sugden"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="G Fulcher"/>
+    <Batsman name="Steve Clark"/>
+    <Batsman name="George West"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="4" score="48"/>
+    <FallOfWicket batsman="3" score="59"/>
+    <FallOfWicket batsman="6" score="59"/>
+    <BowlerSummary name="Hartley" overs="8" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Moore" overs="8" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Lownsborough" overs="5" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Sugden" overs="4" maidens="1" runs="10" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

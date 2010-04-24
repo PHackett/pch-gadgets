@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sat Jul 15 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="V Moss"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="LBW"/>
+      <Bowler name="R Moss"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="V Moss"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Run Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="V Moss"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="V Moss"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Caught"/>
+      <Bowler name="V Moss"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Moss"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Moss"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="69"/>
+    <FallOfWicket batsman="2" score="78"/>
+    <FallOfWicket batsman="3" score="93"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <FallOfWicket batsman="7" score="144"/>
+    <FallOfWicket batsman="8" score="157"/>
+    <FallOfWicket batsman="4" score="162"/>
+    <FallOfWicket batsman="9" score="162"/>
+    <FallOfWicket batsman="10" score="166"/>
+    <BowlerSummary name="R Moss" overs="16.2" maidens="2" runs="58" wickets="3"/>
+    <BowlerSummary name="L Moody" overs="6" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="V Moss" overs="17" maidens="1" runs="54" wickets="5"/>
+    <BowlerSummary name="P Still" overs="3" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="Handon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hazell">
+      <HowOut how="Caught Paul Appaloosa"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hesselberger">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Still">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="V Moss">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Farrell">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Desai">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Halel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="L Moody">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Moss">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="6" score="16"/>
+    <FallOfWicket batsman="7" score="57"/>
+    <FallOfWicket batsman="8" score="66"/>
+    <FallOfWicket batsman="9" score="75"/>
+    <FallOfWicket batsman="10" score="75"/>
+    <FallOfWicket batsman="11" score="86"/>
+    <BowlerSummary name="Andy Scott" overs="9" maidens="5" runs="8" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="11" maidens="3" runs="38" wickets="3"/>
+    <BowlerSummary name="Paul Appaloosa" overs="7" maidens="2" runs="23" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="1" runs="10" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

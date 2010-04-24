@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="Wallingford" date="Sat May 13 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wallingford">
+    <Batsman name="E Saunders">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Houder">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Seares">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Delaney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Edwards">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Frewin">
+      <HowOut how="LBW"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Axton">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Axton">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Brannan">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="B Axton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="D Howes"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="4" score="12"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="5" score="18"/>
+    <FallOfWicket batsman="6" score="32"/>
+    <FallOfWicket batsman="8" score="33"/>
+    <FallOfWicket batsman="7" score="50"/>
+    <FallOfWicket batsman="10" score="87"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="1" runs="17" wickets="4"/>
+    <BowlerSummary name="Andy Scott" overs="13" maidens="5" runs="26" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="2" runs="3" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="14" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Dave Harris" overs="7" maidens="3" runs="4" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="D Howes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Houder"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Run Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Axton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Axton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="B Axton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West"/>
+    <Batsman name="Barry Thomas"/>
+    <Batsman name="Andy Taylor"/>
+    <Batsman name="Ray Cox"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="2" score="70"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <BowlerSummary name="D Howes" overs="6" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="C Axton" overs="10" maidens="3" runs="16" wickets="0"/>
+    <BowlerSummary name="B Axton" overs="10" maidens="2" runs="25" wickets="3"/>
+    <BowlerSummary name="T Houder" overs="4" maidens="1" runs="16" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

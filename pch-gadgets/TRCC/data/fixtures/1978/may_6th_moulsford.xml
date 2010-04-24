@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:04 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sat May 6 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="A Newman"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Drew"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Ken Nicholson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Newman"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="D Service">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Newman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Newman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="D Parks"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Clark"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="6" score="72"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="4" score="106"/>
+    <FallOfWicket batsman="8" score="112"/>
+    <BowlerSummary name="A Newman" overs="21" maidens="5" runs="52" wickets="4"/>
+    <BowlerSummary name="D Parks" overs="9" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Drew" overs="11" maidens="2" runs="32" wickets="3"/>
+  </Innings>
+  <Innings batting="Moulsford">
+    <Batsman name="HF Hockley">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Bonner">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="R Jarman">
+      <HowOut how="Caught Ken Nicholson"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="B Parks">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="D Slade">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Nicholson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Newman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Nicholson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Drew">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Crook">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Ken Nicholson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Suckling">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Parks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Allen">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="5" score="52"/>
+    <FallOfWicket batsman="6" score="52"/>
+    <FallOfWicket batsman="7" score="53"/>
+    <FallOfWicket batsman="8" score="61"/>
+    <FallOfWicket batsman="9" score="70"/>
+    <FallOfWicket batsman="10" score="70"/>
+    <BowlerSummary name="Martin Grugeon" overs="4" maidens="4" runs="0" wickets="0"/>
+    <BowlerSummary name="Ken Nicholson" overs="15" maidens="6" runs="11" wickets="3"/>
+    <BowlerSummary name="D Service" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="4.5" maidens="0" runs="4" wickets="3"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Tim Glover" overs="8" maidens="0" runs="28" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

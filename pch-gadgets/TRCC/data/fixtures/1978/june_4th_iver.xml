@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:03 UTC+0100 2010 -->
+<CricketMatch oppo="Iver" date="Sun Jun 4 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Fryatt"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="Fryatt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Hodges"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="J Heggarty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hughes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hodges"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Greaves"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Greaves"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tim Glover"/>
+    <Batsman name="M Telfer"/>
+    <Batsman name="M Houghton"/>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="3" score="132"/>
+    <FallOfWicket batsman="6" score="153"/>
+    <FallOfWicket batsman="8" score="173"/>
+    <BowlerSummary name="Greaves" overs="13.1" maidens="2" runs="58" wickets="2"/>
+    <BowlerSummary name="Fryatt" overs="13" maidens="3" runs="24" wickets="2"/>
+    <BowlerSummary name="W Hughes" overs="6" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Hodges" overs="9" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="N Hughes" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Iver">
+    <Batsman name="W Hughes">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Whitehead">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Pryor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Carmell">
+      <HowOut how="LBW"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Greaves">
+      <HowOut how="Caught J Heggarty"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hodges">
+      <HowOut how="Caught J Heggarty"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mountney">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="N Hughes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Blake">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fryatt">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fisher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="85"/>
+    <FallOfWicket batsman="3" score="92"/>
+    <FallOfWicket batsman="1" score="94"/>
+    <FallOfWicket batsman="4" score="114"/>
+    <FallOfWicket batsman="6" score="119"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="8" score="129"/>
+    <FallOfWicket batsman="9" score="129"/>
+    <FallOfWicket batsman="10" score="130"/>
+    <FallOfWicket batsman="11" score="145"/>
+    <BowlerSummary name="J Telfer" overs="2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="J Heggarty" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="11" maidens="0" runs="39" wickets="5"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="M Houghton" overs="3" maidens="1" runs="3" wickets="0"/>
+    <BowlerSummary name="Tim Glover" overs="7" maidens="0" runs="41" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

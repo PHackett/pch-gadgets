@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:03 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jun 18 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Frost"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Frost"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Paul Woodford">
+      <HowOut how="Caught"/>
+      <Bowler name="R Frost"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="M Lowery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Telfer">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="M Lowery"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="2" score="68"/>
+    <FallOfWicket batsman="4" score="83"/>
+    <FallOfWicket batsman="5" score="109"/>
+    <FallOfWicket batsman="6" score="131"/>
+    <FallOfWicket batsman="8" score="132"/>
+    <FallOfWicket batsman="7" score="133"/>
+    <FallOfWicket batsman="9" score="133"/>
+    <FallOfWicket batsman="10" score="138"/>
+    <BowlerSummary name="M Seymour" overs="14" maidens="3" runs="28" wickets="3"/>
+    <BowlerSummary name="M Lowery" overs="12" maidens="4" runs="35" wickets="2"/>
+    <BowlerSummary name="C Seddon" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="R Frost" overs="7" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="P Seymour" overs="5" maidens="1" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="M Seymour">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Frost">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Auburn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lowery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hassey-Chase">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="C Seddon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Toms">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="4" score="17"/>
+    <FallOfWicket batsman="5" score="19"/>
+    <FallOfWicket batsman="6" score="32"/>
+    <FallOfWicket batsman="3" score="81"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <FallOfWicket batsman="9" score="105"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="7" runs="26" wickets="6"/>
+    <BowlerSummary name="Chris Telfer" overs="9" maidens="3" runs="16" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="3" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Steve Clark" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:05 UTC+0100 2010 -->
+<CricketMatch oppo="John Hampden" date="Mon May 29 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="John Hampden">
+    <Batsman name="Howson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Knowles">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pymm">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Cartledge">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="Steve Clark"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Waite">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Galley"/>
+    <Batsman name="Wagge"/>
+    <Batsman name="Tomlins"/>
+    <Batsman name="Gretton"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="5" score="89"/>
+    <FallOfWicket batsman="2" score="110"/>
+    <BowlerSummary name="Martin Grugeon" overs="17" maidens="2" runs="42" wickets="2"/>
+    <BowlerSummary name="Mick Houlton" overs="9" maidens="2" runs="21" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="3" runs="31" wickets="1"/>
+    <BowlerSummary name="Stan Coates" overs="5" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Steve Clark" overs="3" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wagge"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Wagge"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tomlins"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="2" score="99"/>
+    <FallOfWicket batsman="5" score="136"/>
+    <BowlerSummary name="Waite" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Gretton" overs="6" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Galley" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Cartledge" overs="10" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Wagge" overs="6" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Tomlins" overs="2.4" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

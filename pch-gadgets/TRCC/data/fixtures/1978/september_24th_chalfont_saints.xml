@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:17:04 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Sep 24 00:00:00 UTC+0100 1978">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="Dalrumple">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lincoln">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="S Berger"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Everitt">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="S Berger"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Little">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Larkin">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Crowe">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Ridley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Davies">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Shuttle">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ormerod">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gurney"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Tom Fort" overs="23" maidens="4" runs="70" wickets="2"/>
+    <BowlerSummary name="S Berger" overs="13" maidens="2" runs="38" wickets="2"/>
+    <BowlerSummary name="Tim Glover" overs="10" maidens="0" runs="58" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Little"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Gurney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Gurney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Gurney"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Stumped"/>
+      <Bowler name="Little"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gurney"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Little"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Cockerell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gurney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="Everitt"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Berger">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ormerod"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="4" score="18"/>
+    <FallOfWicket batsman="5" score="18"/>
+    <FallOfWicket batsman="6" score="18"/>
+    <FallOfWicket batsman="8" score="22"/>
+    <FallOfWicket batsman="7" score="33"/>
+    <FallOfWicket batsman="9" score="56"/>
+    <FallOfWicket batsman="11" score="58"/>
+    <BowlerSummary name="Gurney" overs="9" maidens="2" runs="18" wickets="5"/>
+    <BowlerSummary name="Little" overs="9" maidens="3" runs="21" wickets="3"/>
+    <BowlerSummary name="Ormerod" overs="4" maidens="1" runs="4" wickets="1"/>
+    <BowlerSummary name="Everitt" overs="3" maidens="3" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
