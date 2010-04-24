@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:37 UTC+0100 2010 -->
+<CricketMatch oppo="Chesham Bois" date="Sat Sep 19 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chesham Bois">
+    <Batsman name="P Humphrey">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Lathwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Ralli">
+      <HowOut how="Caught Simon Woodward"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="R Garner">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Hearn">
+      <HowOut how="Run Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="R Wood">
+      <HowOut how="Caught Robin Reynolds"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Cozwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M George">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="R Beeson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Wright"/>
+    <Batsman name="R Hearn"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Barry Potier" overs="14" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="12" maidens="3" runs="33" wickets="2"/>
+    <BowlerSummary name="Ian Helmore" overs="12" maidens="2" runs="36" wickets="3"/>
+    <BowlerSummary name="James Hollidge" overs="7" maidens="0" runs="38" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Wood"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Wood"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="D Wright"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Simon Woodward">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Wright"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Lathwell"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="D Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Cozwell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Beeson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="R Wood" overs="10" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="M Hearn" overs="7" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="D Wright" overs="8" maidens="3" runs="15" wickets="3"/>
+    <BowlerSummary name="A Lathwell" overs="5" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="D Cozwell" overs="1" maidens="1" runs="0" wickets="1"/>
+    <BowlerSummary name="R Beeson" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

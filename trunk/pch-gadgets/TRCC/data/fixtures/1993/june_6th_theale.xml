@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:49 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sun Jun 6 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="H Bolter"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fiz"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="LBW"/>
+      <Bowler name="J Bolter"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="H Bolter"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="27"/>
+    <BowlerSummary name="E Thakurdis" overs="10" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="H Messer" overs="7" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Fiz" overs="6" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="H Bolter" overs="10" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Brodie" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="J Bolter" overs="6" maidens="0" runs="35" wickets="1"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="H Messer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Stein">
+      <HowOut how="l"/>
+      <Bowler name="David Downes"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="J Bolter">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="E Thakurdis">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Carter">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Gulzor">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="1" runs="71" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="12.3" maidens="2" runs="40" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="10" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

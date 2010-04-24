@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun Sep 27 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="R Devarkonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Carson">
+      <HowOut how="Caught Alistair Ridgley"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="I Goddard">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="T Boad">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="S Ennis">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="R Carson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="L Herber">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P Spence"/>
+    <Batsman name="T Chippendale"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="1" runs="60" wickets="3"/>
+    <BowlerSummary name="Adam Smith" overs="13" maidens="2" runs="45" wickets="2"/>
+    <BowlerSummary name="Nigel Leach" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="56" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="28" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Spence"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="LBW"/>
+      <Bowler name="C Spence"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Spence"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="S Ennis"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Ennis"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Ennis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alistair Ridgley">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Ennis"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Chris Fort"/>
+    <Extras value="38"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="1" score="88"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <FallOfWicket batsman="4" score="127"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <FallOfWicket batsman="6" score="183"/>
+    <BowlerSummary name="C Spence" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="T Chippendale" overs="10" maidens="1" runs="56" wickets="0"/>
+    <BowlerSummary name="I Goddard" overs="10" maidens="2" runs="31" wickets="0"/>
+    <BowlerSummary name="P Spence" overs="10" maidens="2" runs="43" wickets="2"/>
+    <BowlerSummary name="S Ennis" overs="5.5" maidens="0" runs="31" wickets="4"/>
+    <BowlerSummary name="T Boad" overs="2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

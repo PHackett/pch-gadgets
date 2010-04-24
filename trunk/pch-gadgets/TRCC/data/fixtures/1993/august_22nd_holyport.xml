@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:50 UTC+0100 2010 -->
+<CricketMatch oppo="Holyport" date="Sun Aug 22 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Holyport">
+    <Batsman name="P Price">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="A McComas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="T Hayes">
+      <HowOut how="Run Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="K Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="13" maidens="2" runs="48" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="1" runs="43" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="A Harley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="A Butt"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Harley"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="A Osinski"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Butt"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="11"/>
+    <BowlerSummary name="A Harley" overs="13" maidens="3" runs="39" wickets="1"/>
+    <BowlerSummary name="A Osinski" overs="11" maidens="1" runs="55" wickets="1"/>
+    <BowlerSummary name="A Butt" overs="9" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="P Harley" overs="7" maidens="0" runs="35" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

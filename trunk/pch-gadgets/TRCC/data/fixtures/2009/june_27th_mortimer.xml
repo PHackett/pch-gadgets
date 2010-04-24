@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:03 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer" date="Sat Jun 27 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mortimer">
+    <Batsman name="P Dear">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="T Fitz">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Rizwan">
+      <HowOut how="LBW"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Ilyas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="112"/>
+    </Batsman>
+    <Batsman name="S Ahmed">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Akram">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Z Akram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="A Javed">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Z Ahmed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="I Ishmaq">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Nicol">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="40"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="3" score="51"/>
+    <FallOfWicket batsman="1" score="106"/>
+    <FallOfWicket batsman="5" score="114"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="4" score="274"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="5" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="9.5" maidens="1" runs="65" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="2" runs="43" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="5" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Raja Singh" overs="4" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="5" maidens="0" runs="59" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Z Akram"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Javed"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Rizwan"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Z Akram"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Ahmed"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Akram"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="I Ishmaq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="52"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="3" score="64"/>
+    <FallOfWicket batsman="5" score="110"/>
+    <FallOfWicket batsman="7" score="186"/>
+    <FallOfWicket batsman="8" score="230"/>
+    <BowlerSummary name="Z Ahmed" overs="14" maidens="0" runs="80" wickets="1"/>
+    <BowlerSummary name="A Javed" overs="10" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Z Akram" overs="11" maidens="2" runs="17" wickets="3"/>
+    <BowlerSummary name="M Rizwan" overs="5" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="I Ishmaq" overs="8" maidens="1" runs="56" wickets="1"/>
+    <BowlerSummary name="M Ilyas" overs="4" maidens="1" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="OddFellows" date="Sun Jun 30 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       What a great Sunday. Most of the Twyford side met in their local, the Duke of Wellington, for a
+      hearty cooked breakfast and the soccer World Cup Final. To accommodate this the cricket started at
+      3.00pm and did not finish until 8.30. 
+      <p>
+       Playing up at Gallowstree Common Twyford
+      inserted the opposition on a lively track. Opener Fungai started to crack the ball all round the
+      ground and the fielders quickly became difficult to spot on the very large, very quick, bone dry
+      outfield. While Fungai raced to a hard hit hundred containing 16 fours the Twyford bowling was on
+      top of the rest of the batting and gradually applied the brakes to the scoring rate. All of the
+      bowlers did a really good job and by the mid point of the innings the fielders too were now back in
+      evidence and much sharper. Oddfellows posted 169, probably 30-40 short of what had once looked
+      likely. 
+      <p>
+       In reply Woodman and Hall set off at more than 5 an over and gave the
+      Twyford innings a great start. The late finish and inclement weather meant that the second half of
+      the innings was played out in stygian gloom and Fungai brought on to try and get a much needed
+      breakthrough bowled with fire and brimstone. Woodman fell with the opening partnership 2 short of a
+      hundred. The following batsmen had a very uncomfortable time but Hall playing masterfully, saw the
+      side home finishing unbeaten on 98. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="OddFellows">
+    <Batsman name="Fungai">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="T Emans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Burns">
+      <HowOut how="Ct Hugh Fort"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Chapman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Spires">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Deacon">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Palmer">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Flynn">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Stewart Wren" overs="11" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Ct Palmer"/>
+      <Bowler name="Fungai"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Not Out"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fungai"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Dave Benjamin"/>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Kilford" overs="10.3" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Palmer" overs="7" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Emans" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Spires" overs="5" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Fungai" overs="9" maidens="2" runs="32" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

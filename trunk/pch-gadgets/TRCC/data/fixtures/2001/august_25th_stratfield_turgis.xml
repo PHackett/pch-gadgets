@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:48 UTC+0100 2010 -->
+<CricketMatch oppo="Stratfield Turgis" date="Sat Aug 25 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       In the battle to avoid relegation from Division 1 Twyford roared to victory over fellow relegation
+      prospects Stratfield Turgis. It was a must win game for Twyford ,as Stratfield had won the previous
+      week with all other games being abandoned due to the rain, and when Startfield won the toss they
+      surprised everyone by batting first. 
+      <p>
+       Jackson (4-34) immediately got off to a great
+      start by bowling Headford with his third ball and it wasn't long before Richardson was also bowled
+      with the score 21 off 5 overs. At this point the skipper D. Spence (16) cam to the wicket and gave
+      Clarke (52) some much needed support. Clarke was hitting the ball very cleanly and powerfully and
+      despatched any misdirected delivery with ease as they put on 55 for the third wicket until the
+      skipper was also bowled by Jackson. Shortly after Clarke pulled a hamstring while attempting a
+      suicidal run to the arm of Hobson. Although the throw missed the wicket the extra stretch from
+      Clarke did the damage and a runner was called for. His batting was not as free after this incident
+      and led to him being caught behind by Kemp shortly after. 
+      <p>
+       The middle order managed
+      to add a few runs with Sandland getting 34 while at the other end Downes chipped in with two wickets
+      which left Stratfield in trouble. Hobson was introduced into the attack and bowled his off spinners
+      creating a few chances that went begging. He did break through in his fifth over when he had
+      Sandland caught at point by Bradley and then bowled Jones three balls later. This only left S.
+      Spence (28*) who managed to pick up some runs without taking any chances. The innings closed with a
+      good piece of fielding from Nic Downes to run out Norford and an over from Jackson which failed to
+      get the last wicket. Stratfield closed their innings on 169 from the 45 overs allowed. 
+      <p>
+  
+          In reply Twyford opened with Connor (52*) and Nic Downes (3). Connor played well throughout his
+      innings and provided the backbone of the innings which again allowed the batsmen at the other end to
+      play their shots and keep the score ticking along. Hobson (41) played some classy shots to pierce
+      the field and put on 90 for the second wicket. He fell to a soft dismissal when a lazy defensive
+      stroke saw the ball carry on toward the stumps and dislodge a single bail. With the score on 106
+      Downes came to the wicket and played a typical cameo innings of 20, including a classic 6 over mid
+      off. Trying to repeat the feat he was clean bowled and Jackson strode to the wicket with all the
+      Stratfield guys enquiring about the previous weeks innings of 150*. Jackson was more defensive this
+      week and only managed to hit two sixes in his 23*. Connor found the gaps for the singles while
+      Jackson smashed the loose deliveries to take the score past the target to 172, giving Twyford 28
+      points and leaving Stratfield with only 5. This means that it all goes down to the last game to see
+      who will be relegated to Division 2 next year.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Stratfield Turgis">
+    <Batsman name="A Headford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Clarke">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="J Richardson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Spence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Sandland">
+      <HowOut how="Caught J Bradley"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="A Sandland">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Pratt">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Spence">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="L Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Norford">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Strudley">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="32"/>
+    <BowlerSummary name="Andrew Jackson" overs="14" maidens="2" runs="34" wickets="4"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="2" runs="42" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="33" wickets="2"/>
+    <BowlerSummary name="P Lee" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Richard Hobson" overs="7" maidens="0" runs="23" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Spence"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Clarke"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Spence"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Extras value="33"/>
+    <BowlerSummary name="D Spence" overs="12" maidens="2" runs="59" wickets="2"/>
+    <BowlerSummary name="L Jones" overs="5" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="C Strudley" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="S Spence" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="S Clarke" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="A Sandland" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

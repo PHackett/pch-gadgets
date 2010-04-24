@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:03 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer" date="Sat Aug 29 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Rizwan"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="Javed"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rizwan"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rizwan"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ilyas"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ilyas"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Ilyas"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ilyas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Zaheer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="6" score="75"/>
+    <FallOfWicket batsman="7" score="81"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="9" score="81"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <FallOfWicket batsman="11" score="103"/>
+    <BowlerSummary name="Javed" overs="10" maidens="3" runs="15" wickets="1"/>
+    <BowlerSummary name="Rizwan" overs="12" maidens="5" runs="30" wickets="3"/>
+    <BowlerSummary name="Ilyas" overs="8" maidens="2" runs="22" wickets="4"/>
+    <BowlerSummary name="Zaheer" overs="5.2" maidens="1" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Mortimer">
+    <Batsman name="P Dear">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="T Fitz-Dezorgher">
+      <HowOut how="LBW"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="R Grover">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="2" score="87"/>
+    <BowlerSummary name="Raja Singh" overs="5" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="3.4" maidens="2" runs="8" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="3" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

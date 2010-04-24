@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:05 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 24 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="F Herbert"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="F Herbert"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="F Herbert"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="G King"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="G King"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Head"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="13"/>
+    <BowlerSummary name="P Norris" overs="12" maidens="5" runs="32" wickets="0"/>
+    <BowlerSummary name="M Whittaker" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="F Herbert" overs="14" maidens="4" runs="47" wickets="3"/>
+    <BowlerSummary name="G King" overs="10" maidens="2" runs="43" wickets="2"/>
+    <BowlerSummary name="Owen" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="A Homer">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="A Whittaker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="D Woodmonse">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Dickenson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="D Owen">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="38" wickets="1"/>
+    <BowlerSummary name="Steve Head" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="1" runs="22" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

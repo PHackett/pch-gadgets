@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jul 8 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Not one of Twyford's better performances. Put in on a soft pitch Twyford managed only 138 from 44
+      overs. Roger Seymour with one his more valuable contributions of the season to date, top scored with
+      29. There were no ducks as everyone made a contribution and with the help of Extras,18, Twyford at
+      least had something to bowl at. Frost senior from the visitors deserves a mention for some very good
+      slow bowling and the evergreen Seymour for his miserley opening spell. 
+      <p>
+       Twyford
+      made just the sort of start they needed if they were going to defend a small total. Hackett bowled
+      an opening spell of 9 overs, 5 maidens and took 2 wickets for 4 runs. At the other end Abraham's
+      figures 8-4-1-14. The Lawyers were 21 for 4 in 18 overs but at this point their Captain, Scott came
+      to the crease at no.6. He proceed to smash Twyford all over the place and finished 94 not out ,
+      scoring nearly three quarters of his sides runs. He was dropped a couple times off of very difficult
+      chances but they proved decisive as he was the only batsmen who mastered the bowling all afternoon.
+      Downes paid a heavy price, 5 overs for 60 and Hackett bought back to stem the flow bowled 2 further
+      overs at a cost of 32 runs. 
+      <p>
+       MoM R Scott (Reading Lawyers) 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Ct"/>
+      <Bowler name="Seymour"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Frost Snr"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clemence"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Ct"/>
+      <Bowler name="Clemence"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Frost Snr"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Ct"/>
+      <Bowler name="Frost Snr"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Ct"/>
+      <Bowler name="?"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Ct"/>
+      <Bowler name="Seymour"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Seymour" overs="10" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="Baker" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Frost" overs="8" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Frost Snr" overs="15" maidens="5" runs="38" wickets="4"/>
+    <BowlerSummary name="Clemence" overs="8" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="Woodsmith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Lynch">
+      <HowOut how="Ct"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="N Conner">
+      <HowOut how="Ct P Woodman"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S James">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="RP Frost">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Baker"/>
+    <Batsman name="Clements"/>
+    <Batsman name="R Frost"/>
+    <Batsman name="Seymour"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="5" runs="36" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="4" runs="14" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="60" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

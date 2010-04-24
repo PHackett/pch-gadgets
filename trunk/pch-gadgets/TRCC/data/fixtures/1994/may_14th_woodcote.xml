@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sat May 14 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="C Anderson">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="R Loveday">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="I Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="S Donnelly">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="3" score="90"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="9" maidens="1" runs="34" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Neil Prior"/>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

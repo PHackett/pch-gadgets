@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:49 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 25 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Moss"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="P Moss"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Purcell"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="D Moss"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Purcell"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="LBW"/>
+      <Bowler name="D Moss"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="12"/>
+    <BowlerSummary name="P Norris" overs="7" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="P Moss" overs="15" maidens="2" runs="61" wickets="2"/>
+    <BowlerSummary name="F Herbert" overs="4" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="D Purcell" overs="10" maidens="2" runs="31" wickets="2"/>
+    <BowlerSummary name="D Moss" overs="6" maidens="0" runs="36" wickets="2"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="M Woods">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Moss">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="D Purcell">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="P Watkins">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Moss">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="C Herbert">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Hemani">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Owen">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="F Herbert">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="1"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="4" runs="17" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="4" runs="58" wickets="4"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Robin Reynolds" overs="2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

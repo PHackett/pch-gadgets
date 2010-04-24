@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:34 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 19 00:00:00 UTC+0100 2004">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rezco"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Quinsley"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Castle"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tanton"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="Crick"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Neil Barber">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="4" score="106"/>
+    <FallOfWicket batsman="3" score="122"/>
+    <FallOfWicket batsman="5" score="140"/>
+    <BowlerSummary name="Crick" overs="6" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="Quinsley" overs="7" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Rezco" overs="6" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Barfield" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Tanton" overs="6" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Castle" overs="5" maidens="0" runs="29" wickets="1"/>
+  </Innings>
+  <Innings batting="Cranbourne">
+    <Batsman name="J Ball">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="S Warley">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="D MacKensie">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="M Deacon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Rezco">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Castle">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="5" score="122"/>
+    <FallOfWicket batsman="6" score="132"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="7" maidens="0" runs="34" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 30 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="Grantham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Woods">
+      <HowOut how="Run Out"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Homer">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Clancey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Purcell">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Whitaker">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Moss">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sharma"/>
+    <Batsman name="Norris"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Peter Dawson" overs="9" maidens="0" runs="64" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="6" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="0" runs="74" wickets="3"/>
+    <BowlerSummary name="Rich Lawrance" overs="3" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Sharma"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Norris"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Norris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Moss"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Norris"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clancey"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Norris" overs="14" maidens="6" runs="26" wickets="3"/>
+    <BowlerSummary name="Sharma" overs="7" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Walker" overs="9" maidens="2" runs="22" wickets="3"/>
+    <BowlerSummary name="Moss" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Clancey" overs="2" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

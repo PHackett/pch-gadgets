@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Falkland" date="Sun Aug 23 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      On a scorching summer's day, Twyford lost the toss and were made to bowl by Falkland IIIs. Twyford
+      struggled to dismiss the openers until a breakthrough came from one of Twyford's three youth
+      players. Angus Weir went on to take four wickets, while debutant Leicester dismissed the other
+      Falkland opener after he made a quick half century. Leicester went on to take one more, while
+      opening bowlers Tom Downes and Cooper were brought back on at the end to clean up the tail, taking
+      two wickets each.
+      <p>
+      Twyford were left chasing 190, and got off to a bad start with
+      opener Woodman being dismissed for just two, however Leach and Nic Downes put on 69 for the second
+      wicket until Leach was dismissed for 23. Downes went on to score an excellent 66 in good time,
+      however when he went with 16 overs remaining, Twyford's hopes of winning faded, and it became a
+      battle to save a draw. Wickets tumbled, and Falkland were left with six and a half overs to get the
+      final wicket, however a heroic last stand between Tom Downes and Neil Weir steered Twyford home for
+      a draw. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Falkland">
+    <Batsman name="Rv Guille">
+      <HowOut how="Caught Tim Cooper"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Ri Guille">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kieran Leicester"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="R Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Fox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Horn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kieran Leicester"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="L Pencock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Seth">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="N Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Horn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Horn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="P Guille">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Tim Cooper" overs="11" maidens="2" runs="45" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="8" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="Angus Weir" overs="10" maidens="1" runs="49" wickets="4"/>
+    <BowlerSummary name="Joe Downes" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Kieran Leicester" overs="6" maidens="3" runs="17" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="L Pencock"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Caught"/>
+      <Bowler name="Seth"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Horn"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Horn"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seth"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Neil Weir">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Roberts"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Kieran Leicester">
+      <HowOut how="Caught"/>
+      <Bowler name="N Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="N Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Roberts"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="72"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="3" score="110"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="7" score="126"/>
+    <FallOfWicket batsman="8" score="126"/>
+    <FallOfWicket batsman="9" score="126"/>
+    <FallOfWicket batsman="10" score="130"/>
+    <BowlerSummary name="D Horn" overs="10" maidens="2" runs="38" wickets="0"/>
+    <BowlerSummary name="L Pencock" overs="10" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Seth" overs="10" maidens="4" runs="33" wickets="2"/>
+    <BowlerSummary name="R Horn" overs="4" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="N Roberts" overs="6" maidens="4" runs="5" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

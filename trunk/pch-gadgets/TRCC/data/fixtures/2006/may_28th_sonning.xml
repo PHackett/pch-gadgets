@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:58 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun May 28 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       A wet bank holiday weekend was generous enough to allow a full game of cricket, Twyford travelling
+      to local rivals Sonning. 
+      <p>
+       Winning the toss, Sonning placed Twyford in to bat. Early
+      overs saw runs added at a reasonable rate with little penetration from the bowlers. Nevertheless,
+      Martin was out in the 6<sup>th</sup> over, a second wicket falling in the 17<sup>th</sup> with only
+      45 on the board. But then opener Woodman and number 4 Cochrane turned on the tap! 122 runs were
+      added in the next 17 overs before Cochrane was unlucky to play-on for 86. Woodman continued his
+      excellent form this season to end on 62. Twyford were quite happy with the final score of 192. 
+    
+       <p>
+       However, with the first ball from Hackett being dispatched to the boundary by Sohail for
+      4, Twyford were quick to fall to earth. Sonning raced away, Sohail dispatching boundaries so quickly
+      that when his teammates cheered from the pavilion for his 50, the scoreboard showed only 45! Twyford
+      had no answer - 112 runs were on the board before the first wicket fell in the 19<sup>th</sup> over,
+      180 when the second wicket fell. Sonning romped home to victory in only 29.5 overs. 
+      <p>
+     
+       A hard loss for Twyford, but at least we got to play a game! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sohail"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Caught"/>
+      <Bowler name="P Wilding"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jackson"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sohail"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Baker"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Greg Orton">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sohail"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="4" score="171"/>
+    <FallOfWicket batsman="1" score="178"/>
+    <FallOfWicket batsman="6" score="185"/>
+    <FallOfWicket batsman="7" score="186"/>
+    <BowlerSummary name="D Medhurst" overs="6" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="P Wilding" overs="8" maidens="3" runs="16" wickets="1"/>
+    <BowlerSummary name="Jackson" overs="7" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Johnson" overs="5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="A Sohail" overs="7" maidens="0" runs="28" wickets="3"/>
+    <BowlerSummary name="Banning" overs="3" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Baker" overs="4" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+  <Innings batting="Sonning">
+    <Batsman name="A Sohail">
+      <HowOut how="Caught Seth Martin"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="132"/>
+    </Batsman>
+    <Batsman name="T Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Robbins">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="An Other">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="112"/>
+    <FallOfWicket batsman="1" score="176"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="1" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="Greg Orton" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="2.5" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Seth Martin" overs="1" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

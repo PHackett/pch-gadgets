@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:31 UTC+0100 2010 -->
+<CricketMatch oppo="Kiwis" date="Sun Aug 18 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Holland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pimputkar"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Holland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Collins"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Caught"/>
+      <Bowler name="Pimputkar"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pimputkar"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="Collins"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Collins"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Stumped"/>
+      <Bowler name="Pimputkar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Collins"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="M Holland" overs="15" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="P Ball" overs="8" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Pimputkar" overs="11" maidens="0" runs="33" wickets="4"/>
+    <BowlerSummary name="Collins" overs="6" maidens="0" runs="10" wickets="4"/>
+    <BowlerSummary name="Andrews" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Kiwis">
+    <Batsman name="A Roberts">
+      <HowOut how="Caught G Neall"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="I Boddington">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Ball">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="David Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="S Ball">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Foster">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Shelmerdine">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Pimputkar">
+      <HowOut how="Caught G Neall"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Collins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Holland">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andrews">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Andrews">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="David Downes" overs="15" maidens="6" runs="26" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="11" maidens="4" runs="16" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4.4" maidens="0" runs="12" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

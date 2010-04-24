@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Harpsden" date="Sun Jul 5 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      Captain Hugh Fort of Twyford once again lost the toss and on a hot sticky day Twyford were
+      surprisingly put into bat. Against good opening bowling, both batsmen looked to be getting their eye
+      in, however, Woodman, poised on 99 club 50s, was dismissed off of Stevens' first ball by an
+      excellent catch in the slips. Benjamin followed soon after, but not before hitting Hodgkiss straight
+      down the ground for three boundaries. Leech and Nic Downes both got good starts, scoring in the 20s,
+      however Downes ran himself out after hitting a ball straight back to the bowler and calling a run,
+      and Leech, looking to push the score on, could only find the safe hands of the fielder at point who
+      made another good catch. Hugh Fort and Smith then added a few more much-needed runs, but Fort was
+      dismissed by a good stumping at the third time of asking, having already had a catch dropped and an
+      easy run out opportunity missed. Smith was out caught behind the next ball, so it was left to Chris
+      Fort and Theron to get as many as they could, but both were caught out. Twyford finished with 139,
+      but knew it would probably be at least 50 too few.
+      <p>
+      The Harpsden batsmen came out all
+      guns blazing, scoring 37 off of the first 3 overs, until Tom Downes dismissed Cary through a good
+      catch by Leech. This seemed to slow the scoring down, but the opening bowlers could not find another
+      breakthrough, so captain Hugh decided to change to an all spin attack, bringing on Chris Fort and
+      Nic Downes. Fort got a wicket in his opening over, thanks to a fantastic catch by Tom Downes, who
+      had to turn and sprint after an edged sweep shot to take a catch over his shoulder and out of the
+      sun. Sweet and Norton however found the spin to their liking, and with Harpsden six runs from their
+      target, captain Fort brought on Ledbetter to break the partnership. In his one over, Ledbetter took
+      one wicket for just three runs thank to a sharp stumping from keeper Smith, but next over, declaring
+      that he was 'basically resigning the match', captain Hugh brought himself on to bowl, and had his
+      first ball promptly dismissed for four, thus giving Harpsden the match.
+      <p>
+      It had taken
+      Harpsden just 17 overs and one ball to achieve a score which took Twyford 40 overs, and Twyford will
+      need to improve all areas of their game if they are to beat Woodcote next Sunday.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Stevens"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thompson"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Caught"/>
+      <Bowler name="Birkett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Hodgkiss"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Thompson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hodgkiss"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Caught"/>
+      <Bowler name="Thompson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes"/>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="3" score="86"/>
+    <FallOfWicket batsman="4" score="95"/>
+    <FallOfWicket batsman="6" score="114"/>
+    <FallOfWicket batsman="5" score="114"/>
+    <FallOfWicket batsman="8" score="137"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <BowlerSummary name="T Ham" overs="6" maidens="3" runs="5" wickets="0"/>
+    <BowlerSummary name="Hodgkiss" overs="10" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Stevens" overs="6" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="Thompson" overs="13" maidens="1" runs="45" wickets="3"/>
+    <BowlerSummary name="Mitchell" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Birkett" overs="4" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Harpsden">
+    <Batsman name="A Bryan">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="M Cary">
+      <HowOut how="Caught Nigel Leach"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="N Sweet">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="A Norton">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Leadbetter"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="W Stevens">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Tim Cooper" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Tom Leadbetter" overs="1" maidens="0" runs="3" wickets="1"/>
+    <BowlerSummary name="Hugh Fort" overs="0.1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

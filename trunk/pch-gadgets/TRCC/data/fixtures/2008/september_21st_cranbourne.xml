@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 21 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      Second weekend in a row of beautiful sunshine &amp; blue skies - and TRCC made the long journey to
+      Cranbourne near Windsor Castle. Due to a cock-up, only 10 of the visitors were playing (and 2 of
+      missed the opening overs) on what was to prove a true wicket and a fast outfield. 
+      <p>
+     
+      Cranbourne elected to bat, and were presented with a rather below-par attack from Twyford. The
+      batsmen were able to make a fast start, losing only one wicket before the 50 was up. It was looking
+      like a very long afternoon in the field for TRCC, but the change to the slow bowlers T Fort and N
+      Downes reined in the batsman. The final score of 200-9 was better that Twyford expected, or perhaps
+      deserved! For Cranbourne, there were many fine contributions to the total, but Patel stood out with
+      a great 61. 
+      <p>
+      After Tea, the visitors were soon in trouble. An excellent in-swinging
+      yorker (<em>So the batman said!</em>) from Zabi saw Cochrane dismissed in the second over, and he
+      was soon followed by the other opener and the number 4. After 9 overs the score was 3-3 and there
+      were worries that Twyford may be on course to break an old and unwanted club record for the lowest
+      score posted. But salvation came, once more, in the form of T Fort and N Downes, who with support
+      from J Downes and Edney moved the visitors out of the &quot;humiliation&quot; zone. Nevertheless
+      ,the result was never in any doubt. Zabi came back on for his second spell, and soon claimed 3
+      wickets to complete Cranbourne's victory.
+      <p>
+      So, another sobering defeat for Twyford,
+      but still a highly enjoyable game in the closing days of the season.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="R Allerston">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Mm Kirton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Patel">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="D Dainty">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nilpesh">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Sillis">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Razor">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Zabi">
+      <HowOut how="b"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Kirton">
+      <HowOut how="Ct"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Barfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Castle">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="22" wickets="3"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="28" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zabi"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="Castle"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Barfield"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Castle"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barfield"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="N Patel"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zabi"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zabi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zabi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="4" score="3"/>
+    <FallOfWicket batsman="5" score="48"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="6" score="82"/>
+    <FallOfWicket batsman="8" score="90"/>
+    <FallOfWicket batsman="9" score="97"/>
+    <FallOfWicket batsman="10" score="97"/>
+    <BowlerSummary name="Castle" overs="8" maidens="6" runs="5" wickets="2"/>
+    <BowlerSummary name="Zabi" overs="7.2" maidens="4" runs="13" wickets="4"/>
+    <BowlerSummary name="Barfield" overs="6" maidens="2" runs="33" wickets="2"/>
+    <BowlerSummary name="M Kirton" overs="4" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="N Patel" overs="3" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Mm Kirton" overs="5" maidens="1" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

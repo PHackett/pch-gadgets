@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Sep 2 00:00:00 UTC+0100 2001">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="M Richards">
+      <HowOut how="Caught R Seymour"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Robins">
+      <HowOut how="Caught C Evans"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Banning">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="S Ahmad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="E Handworker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Phillips">
+      <HowOut how="Caught R Seymour"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A McArthur">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="E Robbins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Sexgod">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="N Forrest">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="W Thing">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="7" runs="32" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="12.3" maidens="3" runs="25" wickets="6"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="8" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="3" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="G Sexgod"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Forrest"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Forrest"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="G Sexgod"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Richards"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="W Thing" overs="8" maidens="3" runs="13" wickets="0"/>
+    <BowlerSummary name="N Forrest" overs="10" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="G Sexgod" overs="10" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="S Banning" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="M Richards" overs="3" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

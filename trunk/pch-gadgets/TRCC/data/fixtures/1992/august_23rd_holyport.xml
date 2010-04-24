@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:35 UTC+0100 2010 -->
+<CricketMatch oppo="Holyport" date="Sun Aug 23 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Harley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Harley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Harley"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Harley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Harley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Harley"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Butt"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Harley" overs="15" maidens="4" runs="26" wickets="9"/>
+    <BowlerSummary name="Woolmer" overs="11" maidens="4" runs="15" wickets="0"/>
+    <BowlerSummary name="A Butt" overs="3.2" maidens="3" runs="1" wickets="1"/>
+  </Innings>
+  <Innings batting="Holyport">
+    <Batsman name="P Price">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Kim Knight"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="K Davies">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Kim Knight"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Jones">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Howard Burton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Price">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Howard Burton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C House">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Butt">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="2" runs="5" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="2" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Kim Knight" overs="2" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Howard Burton" overs="1.4" maidens="0" runs="6" wickets="2"/>
+    <BowlerSummary name="Peter Woodman" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

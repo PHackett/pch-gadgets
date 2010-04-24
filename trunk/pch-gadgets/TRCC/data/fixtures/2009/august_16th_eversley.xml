@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Eversley" date="Sun Aug 16 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Breen"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Bowled"/>
+      <Bowler name="Breen"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Spooner"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Alistair Ridgley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Last"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spooner"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gallagher"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Clements">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gallagher"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Gallagher"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="2" score="53"/>
+    <FallOfWicket batsman="3" score="76"/>
+    <FallOfWicket batsman="2" score="108"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="6" score="118"/>
+    <FallOfWicket batsman="7" score="120"/>
+    <FallOfWicket batsman="8" score="174"/>
+    <FallOfWicket batsman="9" score="182"/>
+    <FallOfWicket batsman="11" score="182"/>
+    <BowlerSummary name="Elcox" overs="7" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Beck" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Breen" overs="3" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Whittle" overs="4" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Last" overs="4" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Gallagher" overs="11" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Spooner" overs="6" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Jones" overs="4.3" maidens="0" runs="12" wickets="2"/>
+  </Innings>
+  <Innings batting="Eversley">
+    <Batsman name="S Breen">
+      <HowOut how="Not Out"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="M Spooner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="C Last">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="A Martin">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="77"/>
+    <FallOfWicket batsman="3" score="164"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Nigel Leach" overs="6" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Tim Cooper" overs="5" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5.1" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Tom Clements" overs="3" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

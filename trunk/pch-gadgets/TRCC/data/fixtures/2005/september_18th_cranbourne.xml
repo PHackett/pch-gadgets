@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 18 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       For their penultimate match of the season Twyford travelled to Cranbourne, under the shadow of
+      Windsor castle. The day was overcast with a hint of drizzle, and winning the toss Cranbourne
+      inserted Twyford to bat. 
+      <p>
+       That decision was soon vindicated as the Cranbourne
+      bowlers made the ball swing violently from both ends. Without much delay Twyford were reeling at
+      40-4 with runs coming very slowly. But Captain N Downes held things together, and while seeing many
+      other batsmen come and go made a fine 52 before falling to Rezko. The tail also provided valuable
+      runs for the final total of 143 - Not a fabulous total but certainly something to give the Twyford
+      bowlers an opportunity. Rezko provided the pick of the home side's bowling taking 5-40 off 9 overs.
+      
+      <p>
+       Twyford's openers kept the runs to a premium but without much penetration - The
+      first wicket did not fall until the 13<sup>th</sup> over. Still the bowlers kept things tight while
+      the runs mounted inexorably until Green was rewarded with 2 wickets in successive balls. Keeping the
+      pressure up, the game began to swing Twyford's way with the home side reduced to 59-5. But then
+      Cranbourne dug in as Spencer &amp; Driscol pushed the score on before Hackett returning for his
+      second spell dismissed them both in successive wicket maidens - Including a caught &amp; bowled
+      judged by his team-mates as the catch of the season. 110-7, then 110-8 victory seemed in the hands
+      of the visitor's! But resolute batting from the home side was a match to the relentless attack - No
+      more wickets were to fall (However a missed catch in the failing light could have made all the
+      difference). 
+      <p>
+       Honours shared then, in a match that swung from one side to the other
+      as many times as the recent Tests between England &amp; Australia, the end result being a fair
+      reflection of the performances and the sporting spirit in which the game was played. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Church"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Church"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Rezko"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spencer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Church"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Stumped"/>
+      <Bowler name="Rezko"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Caught"/>
+      <Bowler name="Rezko"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="Rezko"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="McHugh"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Rezko"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="3" score="95"/>
+    <FallOfWicket batsman="7" score="95"/>
+    <FallOfWicket batsman="6" score="100"/>
+    <FallOfWicket batsman="8" score="135"/>
+    <FallOfWicket batsman="9" score="139"/>
+    <FallOfWicket batsman="11" score="143"/>
+    <BowlerSummary name="Spencer" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Church" overs="9" maidens="3" runs="18" wickets="3"/>
+    <BowlerSummary name="James" overs="7" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Tanton" overs="7" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Rezko" overs="9" maidens="2" runs="40" wickets="5"/>
+    <BowlerSummary name="Driscol" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="McHugh" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+  <Innings batting="Cranbourne">
+    <Batsman name="R Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Watson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="McHugh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Rezko">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Spencer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="S Driscol">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="P Tanton">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D McLean">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Church">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A James"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="3" score="51"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="7" score="110"/>
+    <FallOfWicket batsman="9" score="110"/>
+    <BowlerSummary name="Paul Hackett" overs="15" maidens="5" runs="32" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="12" maidens="2" runs="52" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="7" maidens="2" runs="20" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

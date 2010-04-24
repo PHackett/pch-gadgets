@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:50 UTC+0100 2010 -->
+<CricketMatch oppo="Long Ashton" date="Mon Aug 30 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Long Ashton">
+    <Batsman name="P Wilson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="S Hutchinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="G Welcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Preir">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Lambert">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Sullivan">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="C Roden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="L Bryant">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="P Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Sullivan">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Lambert">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="0" runs="51" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="14" maidens="0" runs="81" wickets="4"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="6" maidens="0" runs="47" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Lambert"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="J Lambert"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Lambert"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="J Sullivan"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Bryant"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="P Wilson"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Hutchinson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hutchinson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Wilson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hutchinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="J Sullivan" overs="9" maidens="3" runs="27" wickets="1"/>
+    <BowlerSummary name="J Lambert" overs="11" maidens="4" runs="23" wickets="3"/>
+    <BowlerSummary name="L Bryant" overs="6" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="G Welcher" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="S Hutchinson" overs="3.2" maidens="0" runs="10" wickets="3"/>
+    <BowlerSummary name="P Wilson" overs="3" maidens="0" runs="15" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="West Reading" date="Sun Jul 23 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       After much ado - First the planned opposition of Moulsford cried off and then the first conference
+      replacement did the same, Twyford were happy to welcome West Reading to their ground at Stanlake
+      Meadow. 
+      <p>
+       Winning the toss Twyford elected to bowl, and captain Nic Downes' decision
+      was soon vindicated. Despite some lacklustre, not to say poor bowling, West Reading were soon at
+      47-5. This was almost entirely down to Nick Healey who took 3 excellent catches early in the
+      innings, finishing with four in total. This excellent fielding, combined with some loose shots put
+      Twyford well on top. Later order batsman helped drive the score to respectability, but the final
+      total of 139 looked too low for what was a pretty good batting track. 
+      <p>
+       But Twyford
+      never like to make things simple! Scoring at a very slow pace, the home side managed only 46 when
+      the 4<sup>th</sup> wicket fell. But when Hill Joined Woodman at the crease, things started to settle
+      down. A stand of 56, followed by another of 41 with Fuller saw Twyford comfortably home. Woodman,
+      continuing his remarkable year, carried his bat through the innings for an unbeaten 51. West Reading
+      used a remarkable 8 bowlers in the innings! All bowled tidily, giving few runs away. The strong
+      suspicion was that should these two sides play again it will not be so easy for Twyford! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="West Reading">
+    <Batsman name="M Shakeel">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Asghar">
+      <HowOut how="Caught Nick Healey"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Iqbal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Shewar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="I Ahmed">
+      <HowOut how="Caught Nick Healey"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="I Zaman">
+      <HowOut how="Caught Nick Healey"/>
+      <Bowler name="Peter Hill"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="T Mahmood">
+      <HowOut how="Caught Greg Orton"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Ahmed">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Haffeez">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="N Sikander">
+      <HowOut how="Caught Nick Healey"/>
+      <Bowler name="Greg Orton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="47"/>
+    <FallOfWicket batsman="6" score="63"/>
+    <FallOfWicket batsman="7" score="89"/>
+    <FallOfWicket batsman="8" score="101"/>
+    <FallOfWicket batsman="10" score="139"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="41" wickets="3"/>
+    <BowlerSummary name="Tim Cooper" overs="7" maidens="0" runs="24" wickets="3"/>
+    <BowlerSummary name="Peter Hill" overs="5" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Alistair Benson" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Nick Healey" overs="2" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="Greg Orton" overs="1" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Haffeez"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Greg Orton">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Ahmed"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Ahmed"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Zaman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="LBW"/>
+      <Bowler name="M Shakeel"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="6" score="99"/>
+    <BowlerSummary name="N Sikander" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Haffeez" overs="4" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="A Ahmed" overs="9" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Shewar" overs="6.2" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="M Shakeel" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="I Ahmed" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="I Zaman" overs="3" maidens="1" runs="5" wickets="1"/>
+    <BowlerSummary name="T Mahmood" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

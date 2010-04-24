@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:34 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Sep 26 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       For the closing game of the season, Twyford played host to local rivals Sonning on what was a
+      gloriously sunny autumn day - So different from what some have erroneously referred to as
+      &quot;summer&quot;. 
+      <p>
+       Placed in the field, the Twyford opening bowlers tested the
+      batsmen with good line and length. However, this did not distract Sonning's Aslam who responded with
+      powerful, attacking shots, playing across the line with great confidence and a good eye. But at the
+      other end of the crease things were going Twyford's way. Beamish, much improved over the season,
+      gave the batsmen no room for error, and was rewarded by 4 wickets in quick succession. When Aslam
+      was trapped LBW by Hackett in the 15<sup>th</sup> over, the visitors were in trouble at 49-5. From
+      then on Sonning were tied down with runs coming very slowly - Another 15 overs saw only 25 runs
+      added but with 2 more wickets falling. The tail was finally finished off in the 36<sup>th</sup> over
+      with only 90 scored. 
+      <p>
+       But Twyford's batsmen were also to find the going hard, with
+      Sonning's openers bowling almost no loose balls. Grout's 3<sup>rd</sup> over saw two batsmen
+      returning to the pavilion in successive deliveries, and the batting side began to wonder if 90 was
+      going to beyond them! But steady if unexciting batting steadied the ship. It took many overs, but
+      with useful knocks from Hall and Dunsford, and with Woodman carrying his bat through the innings,
+      victory was Twyford's. 
+      <p>
+       Another season over - Where did the time go to? Twyford
+      were overjoyed to record a rare victory, but for both teams the weather made you glad to be out
+      playing cricket! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="A Driver">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Aslam">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="P Phillips">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Handworker">
+      <HowOut how="Caught Tom Hall"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Grout">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ahmad">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="R Johnson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Boshier">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="H McCann">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Medhurst">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="W Thing">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="49"/>
+    <FallOfWicket batsman="2" score="49"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="8" score="68"/>
+    <FallOfWicket batsman="9" score="87"/>
+    <FallOfWicket batsman="10" score="90"/>
+    <FallOfWicket batsman="11" score="90"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="11" maidens="5" runs="13" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="9.5" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="7" maidens="3" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="H Grout"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Grout"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="R Johnson"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="LBW"/>
+      <Bowler name="S Aslam"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Ken Cochrane"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="48"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <BowlerSummary name="H Grout" overs="8" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="W Thing" overs="8" maidens="4" runs="11" wickets="0"/>
+    <BowlerSummary name="H McCann" overs="10" maidens="4" runs="13" wickets="0"/>
+    <BowlerSummary name="R Johnson" overs="5" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="D Medhurst" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="S Aslam" overs="4" maidens="1" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

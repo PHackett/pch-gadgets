@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 10 00:00:00 UTC+0100 2008">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="Wood-Smith">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="J Frost">
+      <HowOut how="Not Out"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="D Loosemore">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="A Cobb">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="144"/>
+    <FallOfWicket batsman="3" score="200"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="9" maidens="1" runs="48" wickets="0"/>
+    <BowlerSummary name="Josh Baker" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Nathan Eddy" overs="7" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="56" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="1" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Dave Benjamin"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Joe Downes"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Tom Downes"/>
+    <Extras value="6"/>
+    <BowlerSummary name="Seymour" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="McGill" overs="4" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

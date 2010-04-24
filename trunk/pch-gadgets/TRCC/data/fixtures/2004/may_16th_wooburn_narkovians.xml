@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:32 UTC+0100 2010 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 16 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       Bright sunshine once more after two consecutive weekends affected by rain saw Wooburn Narkovians
+      visit Twyford last Sunday. 
+      <p>
+       Winning the toss, Wooburn wisely elected to bat in hot
+      and humid conditions that made fielding quite a chore. The opening pair of Seuek and White made hay
+      thanks to poor opening spells from Hackett and Beamish, hitting runs at almost six per over for the
+      first eight overs. Things only started to improve for Twyford once Downes (Capt.) and Evans were
+      brought on, slowly stemming the flood of runs. Seuek passed 50 before being stumped, with many other
+      Narkovians contributing good scores. In a fine spell, Downes ended up taking 5 wickets, and Hackett
+      and Beamish partially redeemed themselves in their second spells. But the Wooburn total of 201 for 9
+      looked an imposing target. 
+      <p>
+       Wooburn began in the field with some fine, tight
+      bowling from Sturgess, J Morris and White, making runs very hard to come by for the Twyford openers.
+      The pressure paid off in the 8<sup>th</sup> over when Seymour was LBW for 9. After an exuberant
+      flourish of boundaries, Benson soon followed back to the pavilion. Woodman and Hall then had the
+      only stand of significance for Twyford, but when Woodman fell with the score on only 62 the weak
+      tail was exposed! The young Briggs was the bowler who cleaned up, his fine accuracy with the spin
+      dismissing 5 Twyford players while conceding only 14 runs. 
+      <p>
+       A well deserved victory
+      for Wooburn against an under-par Twyford. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="P Seuek">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="C Hall">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Saurdes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="D Rogers">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Joe Martin">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="B Sturgess">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Morris">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Briggs">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="85"/>
+    <FallOfWicket batsman="3" score="85"/>
+    <FallOfWicket batsman="1" score="92"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="6" score="129"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="8" score="195"/>
+    <FallOfWicket batsman="10" score="197"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="5" runs="28" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="2" runs="51" wickets="5"/>
+    <BowlerSummary name="Alistair Benson" overs="2" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="8" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Neil Barber" overs="3" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="J White"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="J Morris"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Morris"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Rogers"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Briggs"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Briggs"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Briggs"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Neil Barber">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Rogers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="J Briggs"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Briggs"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="1" score="62"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="6" score="79"/>
+    <FallOfWicket batsman="4" score="83"/>
+    <FallOfWicket batsman="8" score="87"/>
+    <FallOfWicket batsman="7" score="87"/>
+    <FallOfWicket batsman="10" score="87"/>
+    <FallOfWicket batsman="11" score="87"/>
+    <BowlerSummary name="B Sturgess" overs="5" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="J Morris" overs="8" maidens="2" runs="36" wickets="2"/>
+    <BowlerSummary name="J White" overs="6" maidens="4" runs="8" wickets="1"/>
+    <BowlerSummary name="R Rogers" overs="8" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="J Briggs" overs="6.1" maidens="1" runs="14" wickets="5"/>
+    <BowlerSummary name="A Morris" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

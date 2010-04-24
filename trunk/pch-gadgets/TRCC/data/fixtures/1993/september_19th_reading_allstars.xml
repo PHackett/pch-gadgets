@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:50 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Allstars" date="Sun Sep 19 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Sajid"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Imran"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="?"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Keith Kerr"/>
+    <Batsman name="Neil Prior"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="21"/>
+    <BowlerSummary name="Asam" overs="7" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Amer" overs="6" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Imran" overs="13" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Sajid" overs="7" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Talat" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Shalaz" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="LeftArmer" overs="3" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading Allstars">
+    <Batsman name="Riaz">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Shatti">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Imran">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Saqib">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nasir">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Neil Prior"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Talat">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Shazad">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tahir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Younis">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Asam">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Amer"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Robin Reynolds" overs="10" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="14" maidens="0" runs="86" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="5" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="Neil Prior" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Keith Kerr" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

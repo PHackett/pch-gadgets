@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:58 UTC+0100 2010 -->
+<CricketMatch oppo="Harlington" date="Sun Jul 2 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       On a scorchingly hot afternoon, Twyford entertained Harlington at home, lost the toss and were sent
+      out to field. The visitors' opener, Saleem, batted throughout the innings to make 57 not out, well
+      supported by Ali, with 53, and Khan, who made 49. Harlington totalled 208, the outstanding bowling
+      performance coming from Walkland, who displayed astounding stamina to keep going at one end for an
+      hour-and-a-half to take 2-46 in 12 overs. 
+      <p>
+       Twyford's reply got off to a steady
+      start, Woodman continuing in a remarkable vein of form to make 48, and Cochrane contributing a
+      vigorous 43. Walkland followed up his bowling with some fine shots and fleet-footed running. But in
+      the end Twyford fell four runs short, Walkland being bowled in the last over of the match by Kamran,
+      who took 4-34. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Harlington">
+    <Batsman name="Saleem">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Nareem">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="B Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kamran">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Puppy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nadeem"/>
+    <Extras value="34"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="12" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="Nick Healey" overs="5" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="13" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="A Ali"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Puppy"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khan"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Ali"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kamran"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kamran"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khan"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kamran"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kamran"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="49"/>
+    <BowlerSummary name="Kamran" overs="11" maidens="2" runs="34" wickets="4"/>
+    <BowlerSummary name="Puppy" overs="8" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="Nadeem" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="A Ali" overs="7" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Khan" overs="7" maidens="0" runs="79" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

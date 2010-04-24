@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:03 UTC+0100 2010 -->
+<CricketMatch oppo="Sulhampstead 3" date="Sat Aug 15 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Bradfield"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="T Bradfield"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="A Davies"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Davies"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="A Davies"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Davies"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Steve Green"/>
+    <Extras value="31"/>
+    <FallOfWicket batsman="1" score="130"/>
+    <FallOfWicket batsman="2" score="143"/>
+    <FallOfWicket batsman="3" score="173"/>
+    <FallOfWicket batsman="5" score="181"/>
+    <FallOfWicket batsman="6" score="202"/>
+    <FallOfWicket batsman="4" score="222"/>
+    <FallOfWicket batsman="8" score="222"/>
+    <BowlerSummary name="Myren Gericke" overs="11" maidens="0" runs="65" wickets="0"/>
+    <BowlerSummary name="R Lattimore" overs="6" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="T Bradfield" overs="7" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="M Lattimore" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="J Shields" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="A Davies" overs="7" maidens="0" runs="34" wickets="4"/>
+  </Innings>
+  <Innings batting="Sulhampstead 3">
+    <Batsman name="D Lattimore">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="A Davies">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Shields">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Knapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Myren Gericke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michael Gericke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="L Abbott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Bell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Bradfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Lattimore">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="R Lattimore">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="18"/>
+    <FallOfWicket batsman="5" score="18"/>
+    <FallOfWicket batsman="6" score="47"/>
+    <FallOfWicket batsman="1" score="92"/>
+    <FallOfWicket batsman="7" score="92"/>
+    <FallOfWicket batsman="9" score="101"/>
+    <FallOfWicket batsman="8" score="104"/>
+    <FallOfWicket batsman="10" score="126"/>
+    <BowlerSummary name="Steve Green" overs="11" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="9" maidens="2" runs="14" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="15" maidens="4" runs="48" wickets="4"/>
+    <BowlerSummary name="Ken Cochrane" overs="6.4" maidens="4" runs="4" wickets="2"/>
+    <BowlerSummary name="Jim Quartermain" overs="4" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

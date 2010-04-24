@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Farley Hill" date="Sat Jun 16 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Heavy showers overnight did not deter Twyford from playing a full game and recording their first
+      victory since their promotion to the first division of the Berkshire Cricket League. It did deter
+      their opponents, Farley Hill, as three of their side had assumed the game to be off and had not made
+      the effort to contact their captain. 
+      <p>
+       The pitch itself had been partially covered
+      and proved to present a very true bounce while the outfield was surprisingly quick, considering the
+      conditions. After getting little return from the previous five games Twyford won the toss and
+      elected to field hoping to use the conditions to their advantage. Downes and Jackson opened the
+      bowling and bowled 43 of the 45 overs delivered. It was a testiment to their determination as well
+      as their footwear, as for most of the innings light drizzle was affecting the run ups and foot
+      marks. 
+      <p>
+       Farley Hill made slow progress initially due to some accurate bowling with
+      the new ball until Bendall (28) started to score heavily from anything pitched up. He was well
+      worked out by the captain and was caught soon after at deep point by an eagle eyed Henry who spotted
+      the ball quite late. Guard (31) continued to hold the innings together until a sharp reaction catch
+      from Theron, at mid-wicket, took him out of the game. From then on Downes dominated with the ball
+      and took wickets regularly as Farley Hill plodded along at 3 an over. With their team weakened,
+      Farley Hill tried not to take chances and got bogged down until Roper (32) made the most of his
+      short stay at the wicket. Farley Hill limped to 136 for 6 from the 45 overs alloted to them, with
+      Downes taking all six wickets for just 67 runs. He was ably support by Jackson, who came off of a
+      shortened run to bowl 20 overs for 54 runs. 
+      <p>
+       Twyford were very keen to get a win
+      under their belt before the rains came and rushed through tea to get back on the field quickly. The
+      new opening pair of Connor (35) and Henry (41) were very positive and combined some clean hitting
+      with sharp running to take Twyford to 69 before Connor produced a top edge which was well caught.
+      This seemed to create some interest from the Farley Hill side who had complained about the wet
+      conditions for their slow bowlers, which had been the same when Downes was charging in from 20
+      yards! Their 8 players were all rejuvenated when Hobson came to wicket and carried on the good work
+      with some fine shots. After coming in with the score on 69 in the 10th over he took command of the
+      bowling and struck the ball all round the ground, putting on 49 with Henry (41) in 6 overs, before
+      he was bowled charging the slow bowling of Guard. The scoring rate carried on with the intoduction
+      of Kemp (4*) as Hobson dispatched the next four balls for four showing a liking to the full pitched
+      bowling. This left Kemp to take the glory and hit the winning runs off the first ball of the 17th
+      over giving Twyford 26 badly needed points.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="S Bendall">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="David Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="P Guard">
+      <HowOut how="Caught B Theron"/>
+      <Bowler name="David Downes"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="T Courtney">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Miles">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Roper">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="S Stacey">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="David Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="D Sellars">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="V Cheung">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="David Downes" overs="23" maidens="5" runs="67" wickets="6"/>
+    <BowlerSummary name="Andrew Jackson" overs="20" maidens="1" runs="54" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="2" maidens="1" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="P Guard"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Guard"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="S Bendall" overs="5" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="C Roper" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="P Guard" overs="5.1" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="D Sellars" overs="4" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

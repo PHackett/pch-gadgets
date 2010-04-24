@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:59 UTC+0100 2010 -->
+<CricketMatch oppo="Stonor" date="Sun Apr 26 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      Definitely the prettiest place we have ever played - A delight. See <a
+      href='http://www.stonorcricketclub.com/'>http://www.stonorcricketclub.com/</a>
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Stonor">
+    <Batsman name="D Austin">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Collings">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="D Nicholson">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="J Mayo">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="T Downing">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="D Fennell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Covatt"/>
+    <Batsman name="T Marshall"/>
+    <Batsman name="A Pennell"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="110"/>
+    <FallOfWicket batsman="3" score="144"/>
+    <FallOfWicket batsman="5" score="170"/>
+    <FallOfWicket batsman="4" score="221"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="0" runs="38" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="D Fennell"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pennell"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Mayo"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pennell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Marshall"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Fennell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="LBW"/>
+      <Bowler name="D Fennell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Nicholson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pennell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="3" score="73"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="6" score="78"/>
+    <FallOfWicket batsman="8" score="81"/>
+    <FallOfWicket batsman="7" score="86"/>
+    <FallOfWicket batsman="10" score="98"/>
+    <BowlerSummary name="T Marshall" overs="8" maidens="4" runs="8" wickets="1"/>
+    <BowlerSummary name="A Pennell" overs="10" maidens="3" runs="27" wickets="3"/>
+    <BowlerSummary name="D Fennell" overs="10" maidens="2" runs="39" wickets="3"/>
+    <BowlerSummary name="J Powell" overs="3" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="J Mayo" overs="3" maidens="1" runs="8" wickets="1"/>
+    <BowlerSummary name="D Nicholson" overs="2" maidens="1" runs="1" wickets="1"/>
+    <BowlerSummary name="S Collings" overs="3" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="D Austin" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

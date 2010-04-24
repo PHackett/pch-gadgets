@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:45 UTC+0100 2010 -->
+<CricketMatch oppo="Berkshire County Sports" date="Sat Aug 2 08:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Berkshire County Sports">
+    <Batsman name="G Legg">
+      <HowOut how="Caught D Taylor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="S Campbell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Watts">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Banga">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B Norman">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="P Drain">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Barnes">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Draper">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Phipps">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Chard">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Plunckett">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="9" maidens="3" runs="24" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="15" maidens="6" runs="36" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="5" runs="30" wickets="6"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="J Banga"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Watts"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="J Banga"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="J Banga"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="J Banga"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="LBW"/>
+      <Bowler name="A Watts"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Caught"/>
+      <Bowler name="J Banga"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="A Watts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Watts"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="A Watts" overs="14" maidens="3" runs="36" wickets="4"/>
+    <BowlerSummary name="A Phipps" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="J Banga" overs="10.4" maidens="0" runs="35" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

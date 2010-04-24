@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Yateley" date="Sat May 26 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       In a well-contested game on Saturday, in perfect conditions, Twyford narrowly lost out at the end
+      of a game full of twists and turns. After having lost the toss and being put into bat by the young
+      Yateley side Twyford looked to have got of to a solid start before Kemp offered his wicket to extra
+      cover with the score on 16. Luckily Connor (60) and Hobson (45) had found their form and were able
+      to score steadily against some excellent bowling particularly from Massey (2-58). After a
+      partnership of 87, and with 15 overs left Hobson was caught trying to sweep. The wickets of Henry
+      (16) and Jackson (5) followed on quickly and then Downes marched to the wicket. He combined some
+      frantic swishes of the bat with some hefty blows, including four sixes. Downes (45*) was ably
+      supported by Connor, who provided the backbone of the innings with some classy shots. The innings
+      came to a close on 194 which although not a huge total on the dry and hard pitch was at least
+      something to bowl at. 
+      <p>
+       Yateley's reply was ferocious in nature. Massey (65), a
+      well-known local player, punished even the good balls but always looked to take the arial route.
+      After a couple of costly dropped catches he finally holed out to Edney of the bowling of Potier, a
+      just reward for some excellent bowling. With the score on 91 and with only 104 needed from 27 overs
+      Twyford had a chance to get back into the game. Wickets fell to both Downes and Jackson and kept the
+      visitors scoring slowly and feeling the pressure. The Yateley side were reolute and even the late
+      wickets from Hobson (2-18) never looked like being enough and Yateley eventually hit the winning
+      runs in the 43rd over.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Massey"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Mant"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="Mace"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mace"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Massey"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Lipo" overs="9" maidens="3" runs="43" wickets="0"/>
+    <BowlerSummary name="Mant" overs="5" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Barrat" overs="8" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="S Massey" overs="16" maidens="1" runs="58" wickets="2"/>
+    <BowlerSummary name="Mace" overs="7" maidens="0" runs="43" wickets="2"/>
+  </Innings>
+  <Innings batting="Yateley">
+    <Batsman name="S Massey">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="K Denston">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="David Downes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="S Fishley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Mace">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="T Lawrence">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="P Denston">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Lipo">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="Andrew Jackson" overs="10" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="8.4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Richard Hobson" overs="5" maidens="0" runs="18" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

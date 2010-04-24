@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Hambleden" date="Sun Aug 7 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       After the excitement of the morning's test match at Edgbaston, the teams arrived at worn out, but
+      keen to try and emulate their England heroes! 
+      <p>
+       Unfortunately, due a mix-up, both
+      teams arrived at their own grounds, both convinced that they were to be the hosts for the day.
+      Eventually, an expeditionary force was dispatched and contact established. The toss of a coin
+      determined that the match was to be held at Hambledon, and Twyford decamped. 
+      <p>
+      
+      Hambleden looked glorious on a beautiful summer's day. Due to the delayed start, the captains agreed
+      to a 30 over game, with Twyford starting in the field. The home team began well keeping up the pace
+      of 4 per over. Twyford's bowling helped this, with many extras and less than accurate line &amp;
+      length. Not until the 16<sup>th</sup> over were the visitors rewarded with the wicket of Miller,
+      falling to Smith's first ball. But the bowling tightened and the run rate did not improve as the
+      innings progressed. Good fielding, including an excellent run-out of high scorer Arnold for 48 meant
+      that the final total of 128 was far less than Twyford had feared earlier in the match, in fact well
+      within reach! 
+      <p>
+       But if the visitor's thought that this was going to be plain
+      sailing, they were quickly disabused of this notion. Accurate, tight bowling taking full advantage
+      of the square's slope kept the visitors at only 3 per over for the first 20 overs, and saw the 3
+      batsmen returned to the pavilion. 69 to win in 10 overs - Surely a mountain to climb! 
+      <p>
+   
+         Step forward Ken Cochrane. In an extraordinary display of aggressive batting, when all seemed
+      lost for Twyford, Ken produced the innings of his career. Sixes and fours flew from his bat
+      resulting in the impossible - A win for the visitors with 9 balls remaining. 70 runs came from only
+      51 balls, leaving Ken on 64 not out - His highest score the club. 
+      <p>
+       But we should
+      not forget the sporting attitude of the hosts, who were determined to give all members of their team
+      a good go in the game when they could have switched back to the less expensive bowlers. 
+      <p>
+ 
+           A fine day, demonstrating excellent sportsmanship from all those involved. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Hambleden">
+    <Batsman name="A Miller">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="N Arnold">
+      <HowOut how="Run Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="P Rosier">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M French">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Hyner">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Bridges">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Ottaway">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Hollis">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Bradfield">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Evans"/>
+    <Batsman name="S Walker"/>
+    <Extras value="38"/>
+    <FallOfWicket batsman="1" score="66"/>
+    <FallOfWicket batsman="3" score="88"/>
+    <FallOfWicket batsman="2" score="107"/>
+    <FallOfWicket batsman="4" score="109"/>
+    <FallOfWicket batsman="5" score="114"/>
+    <FallOfWicket batsman="6" score="117"/>
+    <FallOfWicket batsman="7" score="120"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="19" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="8" maidens="2" runs="18" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="S Walker"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Bradfield"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Caught"/>
+      <Bowler name="S Walker"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="42"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <BowlerSummary name="S Bradfield" overs="5" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="T Evans" overs="8" maidens="3" runs="15" wickets="0"/>
+    <BowlerSummary name="S Walker" overs="7.3" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="M Hollis" overs="6" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="G Bridges" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:31 UTC+0100 2010 -->
+<CricketMatch oppo="Ventnor" date="Sat Aug 24 00:00:00 UTC+0100 1996">
+  <MatchReport>
+    <![CDATA[
+      There is no report for this game. (Note - The Oppo bowling is a bit wayward
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fleming"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Sketchley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fleming"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="J Pinder">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herridge"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Herridge"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Herridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Bolton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gibbs"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unknown"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Sketchley" overs="6" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="M White" overs="8" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Gibbs" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="F Smith" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Skagell" overs="8" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Herridge" overs="6" maidens="0" runs="35" wickets="3"/>
+  </Innings>
+  <Innings batting="Ventnor">
+    <Batsman name="Kershaw">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Selby">
+      <HowOut how="Run Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Wheeler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Fleming">
+      <HowOut how="Caught R Seymour"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Herridge">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sladdell">
+      <HowOut how="Caught J Pinder"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Sketchley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M White">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="M Bolton" overs="8" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Rich Lawrance" overs="5" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="J Pinder" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="2" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

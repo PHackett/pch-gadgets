@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:42 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun May 25 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Warren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Collins"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Collins"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Warren"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Lawrence Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Huges"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Foster"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="David Downes"/>
+    <Extras value="26"/>
+    <BowlerSummary name="Foster" overs="14" maidens="4" runs="29" wickets="1"/>
+    <BowlerSummary name="Warren" overs="9" maidens="3" runs="17" wickets="2"/>
+    <BowlerSummary name="Domini" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Collins" overs="11" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="Huges" overs="8" maidens="2" runs="39" wickets="1"/>
+  </Innings>
+  <Innings batting="Binfield">
+    <Batsman name="T Usher">
+      <HowOut how="LBW"/>
+      <Bowler name="James Fort"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="T Spiller">
+      <HowOut how="Caught L Neall"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Watt">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Whittingham">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="R Huges">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Warren">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Kingstone">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Lawrence Neall"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Collins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lawrence Neall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Foster">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Domini">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="22" wickets="2"/>
+    <BowlerSummary name="Lawrence Neall" overs="4" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="Rod Edney" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

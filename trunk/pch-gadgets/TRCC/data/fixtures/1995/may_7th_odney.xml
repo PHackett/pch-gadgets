@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:16 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 7 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Odney">
+    <Batsman name="Steel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Charles">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stokes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="French">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="R Dickie">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Dickie">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="J Charles">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Herzog">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Finch">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Stewart Wren" overs="11" maidens="4" runs="18" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="13" maidens="3" runs="33" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="1" runs="35" wickets="3"/>
+    <BowlerSummary name="James Hollidge" overs="7" maidens="1" runs="41" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="89"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="M Dickie" overs="6" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="A Finch" overs="11" maidens="2" runs="36" wickets="0"/>
+    <BowlerSummary name="Walker" overs="7" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="? Walker" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Stokes" overs="2.3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Morgan" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

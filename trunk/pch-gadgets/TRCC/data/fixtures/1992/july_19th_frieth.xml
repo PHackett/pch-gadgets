@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:35 UTC+0100 2010 -->
+<CricketMatch oppo="Frieth" date="Sun Jul 19 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="A Mahmood"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="R Ray"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Mahmood"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="A Mahmood"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Mahmood"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Mahmood"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Extras value="14"/>
+    <BowlerSummary name="A MacLeod" overs="6" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="R Ray" overs="12" maidens="1" runs="51" wickets="1"/>
+    <BowlerSummary name="K Smith" overs="18" maidens="3" runs="41" wickets="2"/>
+    <BowlerSummary name="A Mahmood" overs="11" maidens="2" runs="37" wickets="5"/>
+  </Innings>
+  <Innings batting="Frieth">
+    <Batsman name="A Mahmood">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="K Smith">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="R Ray">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Clifford">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Darnborough">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Stokes">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="G Coulter">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Emmerson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Tysack">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="2" runs="31" wickets="4"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="2" runs="37" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="2" runs="36" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

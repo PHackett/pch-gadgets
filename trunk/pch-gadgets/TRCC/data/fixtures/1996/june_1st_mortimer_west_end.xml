@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:32 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer West End" date="Sat Jun 1 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vickers"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Watts"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Vickers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="Scott"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Stumped"/>
+      <Bowler name="Scott"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vickers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Siddell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vickers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Vickers" overs="17" maidens="8" runs="28" wickets="4"/>
+    <BowlerSummary name="Allwood" overs="8" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Watts" overs="7" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Serancke" overs="5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Honour" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Scott" overs="7" maidens="0" runs="22" wickets="3"/>
+  </Innings>
+  <Innings batting="Mortimer West End">
+    <Batsman name="Serancke">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Patel">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Belcher">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dawes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Honour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Vickers">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Allwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Watts">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Belcher">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ryves">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="7" score="47"/>
+    <FallOfWicket batsman="1" score="67"/>
+    <FallOfWicket batsman="9" score="68"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <FallOfWicket batsman="11" score="99"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="12" maidens="5" runs="32" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="30" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="5" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Paul Siddell" overs="6.4" maidens="1" runs="15" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

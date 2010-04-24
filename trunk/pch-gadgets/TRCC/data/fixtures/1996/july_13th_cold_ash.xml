@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:33 UTC+0100 2010 -->
+<CricketMatch oppo="Cold Ash" date="Sat Jul 13 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cold Ash">
+    <Batsman name="A How">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D How">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="C Gwynn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Cook">
+      <HowOut how="Caught Mike(Jnr) Taylor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="M Lloyd-Davies">
+      <HowOut how="Caught John Hamilton"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P How">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="j Mills">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="N Woods">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="12" maidens="2" runs="36" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="11.1" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Paul Siddell" overs="12" maidens="6" runs="11" wickets="4"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="2" runs="35" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="P Burrows"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cook"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Burrows"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cook"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Cook"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Siddell"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="David Downes"/>
+    <Extras value="11"/>
+    <BowlerSummary name="T Cook" overs="15.5" maidens="3" runs="51" wickets="3"/>
+    <BowlerSummary name="P Burrows" overs="7" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="D How" overs="7" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

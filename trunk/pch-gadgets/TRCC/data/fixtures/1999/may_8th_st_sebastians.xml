@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:05 UTC+0100 2010 -->
+<CricketMatch oppo="St Sebastians" date="Sat May 8 08:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="St Sebastians">
+    <Batsman name="S Harmsworth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Clacey">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Humpreys">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Coster">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Stevens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Woodward">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Murray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="V Herridge">
+      <HowOut how="Caught J Moore"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Fry">
+      <HowOut how="Caught A Jackson"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Herridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Q Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Andrew Jackson" overs="9.2" maidens="2" runs="17" wickets="7"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="4" runs="15" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="A Herridge"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Siddell">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="R Humpreys"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="A Herridge" overs="7" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="S Harmsworth" overs="6" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="R Humpreys" overs="2" maidens="2" runs="0" wickets="1"/>
+    <BowlerSummary name="K Clacey" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
+<CricketMatch oppo="West Reading" date="Sat May 7 00:00:00 UTC+0100 2005">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sidiq"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sidiq"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Rafiq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Sidiq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sidiq"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Hawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razzaq"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Afzaal"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sidiq"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ishfaq"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="39"/>
+    <FallOfWicket batsman="6" score="43"/>
+    <FallOfWicket batsman="7" score="48"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <BowlerSummary name="K Rafiq" overs="14" maidens="2" runs="38" wickets="1"/>
+    <BowlerSummary name="S Sidiq" overs="9" maidens="1" runs="28" wickets="5"/>
+    <BowlerSummary name="Razzaq" overs="6" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Zaman" overs="4" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Afzaal" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Ishfaq" overs="3" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+  <Innings batting="West Reading">
+    <Batsman name="Shakeed">
+      <HowOut how="Not Out"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Ishfaq">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seth Martin"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Waziz">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Steve Green" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="6" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Seth Martin" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="0.2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

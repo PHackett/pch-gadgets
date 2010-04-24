@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:48 UTC+0100 2010 -->
+<CricketMatch oppo="Farley Hill" date="Sat Aug 18 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford travelled to Farley Hill on Saturday and were treated to an exhibition of strokeplay by the
+      beligerant Andy Jackson that hasn't been seen since........well, since the last time he did it at
+      Theale, when he scored 173*. This could have been better as there were still 3 overs left in the
+      innings but the plan was to bowl the minimum 20 overs in the second innings to bring about a result
+      before the rain settled the game. The innings started slowly as Hall (12) and Hobson (27) opened the
+      innings with instructions to last long enough for the rest of the team to arrive! The bowling was
+      very tight on the most green wicket seen all "summer" and the openers Shaw and Vernon yeilded only
+      30 runs from 12 overs when Hall chipped to mid-wicket and was caught. Connor (38) then came to the
+      crease and again provided the support needed to build a big score. 
+      <p>
+       With half the
+      game gone and the score only 63, Hobson was bowled trying to launch a ball into the trees and this
+      brought Jackson the destroyer to the crease. 13 scoring shots later he was on fifty. The farley hill
+      boys just did not know where to bowl! Pitched up went for four or six over the top and short bowling
+      went over square leg in the same way. With woods all the way round and with short boundaries the
+      Farley Hill boys explained the they were good at finding balls in the bracken and boasted that they
+      only lost 3 balls a year. Well Jacko re-wrote that script by clearing some of the tallest trees
+      which happened to be 30 yards into the woods! Some shots were as if they were fired from a cannon
+      and Jim Fort was kept busy dishing out the spares while Noel became the ball boy. 
+      <p>
+      
+      Jacko carried on launching the leather and passed 100 and surged on to 146 before becomming bored.
+      With 13 sixes he beat last years effort at Theale and the 14 fours didn't give the fielders too much
+      time to move either. Connor played the support role and they put on 171 in the 17 overs they were
+      together, until Connor was run out going for a short single. Azza scooped his first ball for one and
+      Dave Downes then declared on 248 with the rain stopping for tea. 
+      <p>
+       The plan after
+      tea was to bowl the 20 overs at least to constitute a game and take the majority of points to secure
+      their place in division 1. The weather had something else to say and by the time the second innings
+      was started the pitch had become the outfield and sawdust only managed to delay the inevitable for 7
+      overs, which still gave Jacko time to take the only wicket. The pitch then became impossible to bat
+      on and Jim Fort removed the bails to signal the end, which the captains confirmed shortly after.
+      Twyford host Stratfield Turgis next week in a must win game that sees the two probable relegation
+      prospects battle it out for survival.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="Shaw"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shaw"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Hugh Connor">
+      <HowOut how="Run Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="146"/>
+    </Batsman>
+    <Batsman name="A Mahmood">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Vernon" overs="16" maidens="1" runs="71" wickets="0"/>
+    <BowlerSummary name="Shaw" overs="19" maidens="4" runs="95" wickets="2"/>
+    <BowlerSummary name="Clacey" overs="5" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="Watts" overs="2" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Farley Hill">
+    <Batsman name="B Buckland">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Clacey">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Courtney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Andrew Jackson" overs="4" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="3" maidens="1" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

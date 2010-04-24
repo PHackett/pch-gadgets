@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:50 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont St Peters" date="Sun Aug 15 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Bishop"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Machin"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Keith Kerr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heath"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heath"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heath"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Heath"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Machin"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Machin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Machin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="Bishop"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rob Yeaden">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Heath" overs="15" maidens="6" runs="49" wickets="4"/>
+    <BowlerSummary name="Bishop" overs="10" maidens="4" runs="23" wickets="2"/>
+    <BowlerSummary name="Machin" overs="8" maidens="1" runs="35" wickets="4"/>
+    <BowlerSummary name="Nelson" overs="4" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Chalfont St Peters">
+    <Batsman name="G Mander">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Whitwham">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Keith Kerr"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="K Mander">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Thornton">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Glen">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Everett">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="David Downes" overs="10.1" maidens="4" runs="30" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="54" wickets="3"/>
+    <BowlerSummary name="Keith Kerr" overs="6" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

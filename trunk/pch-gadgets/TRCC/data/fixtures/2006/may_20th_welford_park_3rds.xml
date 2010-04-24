@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="Welford Park 3rds" date="Sat May 20 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       The day started badly and didn't get much better. Down to ten men, with a weakened side, and having
+      to forfeit the toss due to having got lost on the way to Welford, pretty much summed it up. 
+     
+      <p>
+       Once the rain stopped we got under way with a slightly reduced overs game (42 overs). The
+      wind was howling straight across the wicket, which was very green, quite hard but with a spongy top
+      (sounds like a cake!). The 2 opening bowlers quickly created havoc removing Hogarth for one with a
+      fine nick to the keeper, then following up next ball with Hancock getting one that came in from 6
+      inches outside off to take the bails off. 
+      <p>
+       Wickets continued to tumble with Alex
+      Burke also falling without troubling the scorers. Chris Smith, debuting for TRCC played some
+      handsome shots and added some solidity with Josh baker before they both fell short of double
+      figures, Baker being the unlucky party in a run-out with Jim Fort. 
+      <p>
+       Beamish was
+      another to fall for nought to a wildly inswinging ball before Green and Cooper took advantage of
+      some bowling changes to give the scoreboard a semblance of respectability. All out for 70, we missed
+      out on a batting point and hold the dubious honour of having the highest and lowest batting totals
+      in Div 6 this season. 
+      <p>
+       Welford Park Innings 
+      <p>
+       A total of 70, with
+      60 odd overs to get them in, was not much to defend but Beamish and Cooper immediately bowled good
+      line and length to put the pressure on the opening batsmen. An early wicket saw Beamish take the
+      offstump from xxx before a period of consolidation saw the scoreboard steadily tick over. 
+     
+      <p>
+       Chris Smith came on to bowl and after a couple of looseners found a good line. Wickets in
+      Consecutive balls set up a potential multiple-jug-buying hatrick but this was not to be and Welford
+      batted out the remaining runs scoring a win by 7 wickets with TRCC gaining a solitary point. The
+      good thing about this division is that we play each team 3 times so there is plenty of time for
+      revenge!!. Next time lads, we'll murder 'em. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sargent"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sargent"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Joe Hancock">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sargent"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Thornton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Thornton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Blair"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Blair"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Caught"/>
+      <Bowler name="M Munro"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="5" score="19"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="7" score="38"/>
+    <FallOfWicket batsman="8" score="38"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="9" score="70"/>
+    <BowlerSummary name="G Thornton" overs="5" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="S Sargent" overs="5" maidens="0" runs="14" wickets="3"/>
+    <BowlerSummary name="T Tempest" overs="6" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="N Blair" overs="6" maidens="3" runs="10" wickets="2"/>
+    <BowlerSummary name="A Ramadoss" overs="2" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="M Munro" overs="2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Welford Park 3rds">
+    <Batsman name="B Myers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="I Blair">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Smith"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Jurgens">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="J Westbrook">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Pemberton">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="42"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="3" runs="8" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="4" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Chris Smith" overs="5" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

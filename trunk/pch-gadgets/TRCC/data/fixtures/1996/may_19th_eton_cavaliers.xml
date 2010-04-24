@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:30 UTC+0100 2010 -->
+<CricketMatch oppo="Eton Cavaliers" date="Sun May 19 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="D Pitcher"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="D Pitcher"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Pitcher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Pitcher"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="L Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="W Pitcher" overs="16" maidens="2" runs="26" wickets="6"/>
+    <BowlerSummary name="D Pitcher" overs="15" maidens="6" runs="16" wickets="4"/>
+  </Innings>
+  <Innings batting="Eton Cavaliers">
+    <Batsman name="D Benjamin">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Huggins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="I Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="C Fearey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Reeder">
+      <HowOut how="n"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Peter Dawson" overs="9" maidens="3" runs="28" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="1" maidens="0" runs="1" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="0.3" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

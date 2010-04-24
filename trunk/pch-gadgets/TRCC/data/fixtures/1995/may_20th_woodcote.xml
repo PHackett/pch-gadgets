@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:18 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sat May 20 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ayres">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peates">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Waters">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hunt">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Powell">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hayter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="3"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="6" score="21"/>
+    <FallOfWicket batsman="7" score="23"/>
+    <FallOfWicket batsman="9" score="28"/>
+    <FallOfWicket batsman="10" score="41"/>
+    <FallOfWicket batsman="8" score="43"/>
+    <BowlerSummary name="Chris Taylor" overs="10" maidens="3" runs="14" wickets="5"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="6" runs="10" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="3.2" maidens="1" runs="6" wickets="1"/>
+    <BowlerSummary name="M May" overs="3" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Mike Choules"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Chris Taylor"/>
+    <Batsman name="Tim Sharp"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="David Reeves"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="7"/>
+    <BowlerSummary name="Roberts" overs="4" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Hayter" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Powell" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

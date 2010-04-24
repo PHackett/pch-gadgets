@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Hornsey" date="Sat Jun 18 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Peters"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="Pyrah"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pyrah"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Bruce"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="McLaren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Peters"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Bruce"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught"/>
+      <Bowler name="Bruce"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Taylor"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="5" score="72"/>
+    <FallOfWicket batsman="6" score="165"/>
+    <FallOfWicket batsman="7" score="170"/>
+    <FallOfWicket batsman="8" score="170"/>
+    <FallOfWicket batsman="9" score="170"/>
+    <FallOfWicket batsman="4" score="171"/>
+    <BowlerSummary name="Pyrah" overs="16" maidens="3" runs="36" wickets="2"/>
+    <BowlerSummary name="Peters" overs="11" maidens="3" runs="34" wickets="2"/>
+    <BowlerSummary name="McLaren" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Dear" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Allen" overs="6" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Bruce" overs="3" maidens="0" runs="8" wickets="3"/>
+  </Innings>
+  <Innings batting="Hornsey">
+    <Batsman name="G Allen">
+      <HowOut how="Caught Rich Lawrance"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Emmerson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ramesh">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Bruce">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Hathaway">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="McLaren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dear">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chapman">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peters">
+      <HowOut how="Caught David Taylor"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pyrah">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="6" score="90"/>
+    <FallOfWicket batsman="1" score="96"/>
+    <FallOfWicket batsman="7" score="110"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <BowlerSummary name="Chris Taylor" overs="9" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Mark Lawrence" overs="9" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="8.4" maidens="0" runs="22" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

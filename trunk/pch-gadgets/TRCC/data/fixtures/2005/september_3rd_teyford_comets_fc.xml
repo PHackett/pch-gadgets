@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
+<CricketMatch oppo="Teyford Comets FC" date="Sat Sep 3 00:00:00 UTC+0100 2005">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Howard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Howard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Worth"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Starks"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Worth"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="A Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Edgington"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Worth"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Edgington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="P Bell" overs="4" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="D Howard" overs="4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Dormer" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Starks" overs="4" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Schubert" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="A Green" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Rickets" overs="1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Worth" overs="2" maidens="0" runs="8" wickets="3"/>
+    <BowlerSummary name="Edgington" overs="1" maidens="0" runs="2" wickets="2"/>
+  </Innings>
+  <Innings batting="Teyford Comets FC">
+    <Batsman name="Guy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dominic">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Sam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michal">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Phil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Steve">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gary">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Keith">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Carl">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="2" runs="14" wickets="4"/>
+    <BowlerSummary name="Steve Walkland" overs="4" maidens="0" runs="15" wickets="3"/>
+    <BowlerSummary name="Drew Evans" overs="3" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="A Burke" overs="3" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="4" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Josh Baker" overs="2" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="4" maidens="0" runs="12" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

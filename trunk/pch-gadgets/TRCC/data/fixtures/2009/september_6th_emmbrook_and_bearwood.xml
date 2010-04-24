@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="Emmbrook and Bearwood" date="Sun Sep 6 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      On fine Sept afternoon Emmbrook won the toss and elected to bat. Their innings started with
+      excellent running between the wickets and although none of the batsmen looked very comfortable the
+      score fairly raced along. At 91-2 after 20 overs they had a solid platform and while Chris Fort took
+      3 wickets in the middle of the innings a robust half century from Amit saw the visitors to 204 at
+      tea. The ball raced over a dry outfield and the fielders, several of whom appeared to be lame in
+      either one or both legs, were made to chase hard.
+      <p>
+      Twyford's response was good to
+      start with and they were also placed at 91 runs from the first 20 overs but had lost 4 batsmen. With
+      only Nic Downes (27) and Tom Fort (42) making useful contributions the middle order and tail
+      collapsed pretty quickly, the innings left with not a leg to stand on! A total of 121 after being 84
+      for 3 was a dismal end to the game. One noteworthy quirk was that all 10 Twyford dismissals were
+      clean bowled, the bowling was not threatening and its only virtue was its straightness, a virtue far
+      too great for Twyford's hapless wielders of the willow.
+      <p>
+      Despite being thoroughly
+      outplayed on paper the opposition looked a good match in terms of talent but Twyford short on
+      confidence were no match for Emmbrook on the day. At the end of the evening as the last Twyford
+      players sloped out of the pub there were at least 4 of the opposition still left drinking, a sorry
+      end indeed.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Emmbrook and Bearwood">
+    <Batsman name="J Davies">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="I Bowen">
+      <HowOut how="Bowled"/>
+      <Bowler name="O Wade"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="L Steele">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="M Dozier">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="T McNealy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Amit">
+      <HowOut how="Not Out"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="D Fullager">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nigel Leach"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="L Dozier">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Sartorio"/>
+    <Batsman name="J Lamplugh"/>
+    <Batsman name="J Jefferies"/>
+    <Extras value="28"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Olly Wade" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="9" maidens="0" runs="59" wickets="3"/>
+    <BowlerSummary name="Nigel Leach" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="1" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Lamplugh"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Sartorio"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Jefferies"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Lamplugh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Olly Wade">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Lamplugh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Lamplugh"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Lamplugh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Steele"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Steele"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Jefferies"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="1" score="37"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="5" score="84"/>
+    <FallOfWicket batsman="6" score="94"/>
+    <FallOfWicket batsman="7" score="94"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <FallOfWicket batsman="3" score="115"/>
+    <FallOfWicket batsman="10" score="115"/>
+    <FallOfWicket batsman="9" score="121"/>
+    <BowlerSummary name="J Lamplugh" overs="11" maidens="4" runs="23" wickets="5"/>
+    <BowlerSummary name="J Jefferies" overs="6" maidens="2" runs="23" wickets="2"/>
+    <BowlerSummary name="M Sartorio" overs="4" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="L Dozier" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="L Steele" overs="2" maidens="0" runs="8" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

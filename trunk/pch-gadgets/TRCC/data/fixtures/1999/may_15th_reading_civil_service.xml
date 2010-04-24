@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:05 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Civil Service" date="Sat May 15 08:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Choudray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Choudray"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Ct"/>
+      <Bowler name="Raman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abass"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Ct"/>
+      <Bowler name="Abass"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Camfield"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abass"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Camfield"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Ct"/>
+      <Bowler name="Camfield"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Choudray" overs="8" maidens="3" runs="7" wickets="2"/>
+    <BowlerSummary name="Raman" overs="7" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="Camfield" overs="8.4" maidens="1" runs="13" wickets="3"/>
+    <BowlerSummary name="Abass" overs="8" maidens="1" runs="14" wickets="3"/>
+  </Innings>
+  <Innings batting="Reading Civil Service">
+    <Batsman name="K Payne">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jamel">
+      <HowOut how="Caught B Theron"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="K Denton">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="S Mistry">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="H Robinson">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Andrew Jackson" overs="8" maidens="4" runs="11" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="4" runs="8" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="John Moore" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Brandon Theron" overs="0.2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

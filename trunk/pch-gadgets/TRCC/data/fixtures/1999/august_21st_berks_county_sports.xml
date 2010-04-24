@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:06 UTC+0100 2010 -->
+<CricketMatch oppo="Berks County Sports" date="Sat Aug 21 08:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Goodenough"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Mike Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Goodenough"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Caught"/>
+      <Bowler name="Hudson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Hudson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Barnes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Goodenough"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barnes"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barnes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drain"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Goodenough" overs="17" maidens="3" runs="50" wickets="3"/>
+    <BowlerSummary name="Watts" overs="4" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Hudson" overs="7" maidens="3" runs="22" wickets="2"/>
+    <BowlerSummary name="Norman" overs="6" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Barnes" overs="5" maidens="1" runs="21" wickets="3"/>
+    <BowlerSummary name="Drain" overs="5" maidens="0" runs="56" wickets="1"/>
+  </Innings>
+  <Innings batting="Berks County Sports">
+    <Batsman name="Norman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Campbell">
+      <HowOut how="Caught A Jackson"/>
+      <Bowler name="John Moore"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Watts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Drain">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barnes">
+      <HowOut how="Caught A Jackson"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Goodenough">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Plunckett">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="West">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Martin">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hudson">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="John Moore" overs="8" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Mike Taylor" overs="5" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="2" runs="9" wickets="3"/>
+    <BowlerSummary name="Robin Reynolds" overs="7" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="Andrew Jackson" overs="7" maidens="3" runs="18" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="7.3" maidens="0" runs="44" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

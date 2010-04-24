@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Bedfont 62" date="Sat Jun 5 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bedfont 62">
+    <Batsman name="M Osbon">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="108"/>
+    </Batsman>
+    <Batsman name="B Wigley">
+      <HowOut how="Caught I Helmore"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Poole ">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Rafi">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gould">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="P Fitzpatrick">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Rafi">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="David Downes" overs="12.5" maidens="1" runs="22" wickets="6"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="4" runs="12" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="11" maidens="3" runs="28" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Ian Helmore" overs="7" maidens="0" runs="45" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Rafi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Osbon"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Whatling"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="Whatling"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="I Coppell"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="11"/>
+    <BowlerSummary name="S Rafi" overs="12" maidens="5" runs="15" wickets="1"/>
+    <BowlerSummary name="S Gould" overs="10" maidens="4" runs="33" wickets="0"/>
+    <BowlerSummary name="Whatling" overs="4" maidens="1" runs="12" wickets="2"/>
+    <BowlerSummary name="M Osbon" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="B Wigley" overs="2" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Cane" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Dowling" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

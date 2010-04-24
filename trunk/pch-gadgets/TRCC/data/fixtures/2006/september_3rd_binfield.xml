@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun Sep 3 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       <span class="ScorecardSm">Extraordinary game .... that I missed!</span> 
+      <p>
+       Until I
+      get the full report, have a look <a
+      href="http://www.getreading.co.uk/news/2003/2003738/2_bowlers_6_balls_and_2_hattricks">here</a> 
+   
+        <p>
+       In case things vanish from that website, here is a copy. Copyright acknowledged
+      appropriately ... 
+      <p>
+       2 bowlers, 6 balls and 2 hat-tricks Cricketers in Twyford are
+      investigating whether their players have performed a cricketing first with two hat-tricks by two
+      bowlers in the same game. 
+      <p>
+       The extraordinary feat happened in an away fixture
+      against Binfield, during which paceman Tim Cooper and veteran spinner Tom Fort both got three
+      batsmen out in three consecutive balls. 
+      <p>
+       Twyford and Ruscombe Cricket Club has a
+      large number of players who have been playing village cricket for more than 25 years and no-one can
+      recall ever seeing a double hat-trick before. 
+      <p>
+       Mr Cooper, who is in his first full
+      season for the club, ripped through Binfield's top order batsmen, taking the wickets of both openers
+      and the number four batsmen. 
+      <p>
+       Wicket-keeper Adam Smith described the three balls as
+      "a terrible shot, a good catch and a good old-fashioned straight ball". 
+      <p>
+       After
+      taking his third wicket, Mr Cooper was heard to say: "I don't really care what happens now. 
+     
+      <p>
+       "I've taken a hat-trick." 
+      <p>
+       Mr Fort, who has scored more than 10,000 runs
+      for the club and is in his 33rd season, took the tail-end of the batting order apart. 
+      <p>
+   
+         He said: "I'm thrilled. I've taken one hat-trick before but that was when I was a quick bowler
+      more than 30 years ago when I got the figures of six wickets for one run, but wickets were more
+      helpful back then. 
+      <p>
+       "I didn't think it would happen again. When I got two in a row
+      I just concentrated on bowling a straight ball and the batsmen missed it. 
+      <p>
+       "I've
+      seen batsmen running seven in one go, one-handed catches on the boundary, dreadful umpiring
+      decisions, comical run-outs and people being sick in the bushes while fielding, but I've never seen
+      anything like this and doubt I will again." 
+      <p>
+       The club is now set to consult Wisden
+      Cricket Monthly magazine to try to find out if a double hat-trick has ever been done before. 
+     
+      <p>
+       Twyford won the match comfortably with five wickets to spare, with batsman Ken Cochrane
+      smashing 75 not out, as the club comfortably reached the target of 121. 
+      <p>
+       The club
+      is always looking for new talent. For more information visit the website www.twyfordcc.org.uk. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="M Ashcroft">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="M Larson">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Marshall">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Boyd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Exington">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="I Goodard">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="S Larson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="B Sykes">
+      <HowOut how="Caught Peter Hill"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Humphrey">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Jeffrey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Mitchell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="2" score="52"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="8" score="120"/>
+    <FallOfWicket batsman="9" score="120"/>
+    <FallOfWicket batsman="10" score="120"/>
+    <FallOfWicket batsman="11" score="120"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="13" maidens="1" runs="51" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="1" runs="23" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Sykes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="P Exington"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goodard"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goodard"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goodard"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Peter Hill"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="6" score="79"/>
+    <BowlerSummary name="B Sykes" overs="8" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="P Exington" overs="7" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="R Mitchell" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="I Goodard" overs="6" maidens="2" runs="10" wickets="3"/>
+    <BowlerSummary name="M Humphrey" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="M Larson" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

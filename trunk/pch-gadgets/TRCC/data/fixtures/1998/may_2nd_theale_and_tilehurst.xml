@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:55 UTC+0100 2010 -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sat May 2 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="J Codd">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="E Choules">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Hussain">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="C Cutting">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Pyke">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Cumming">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="M Mason">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Puri">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Healey">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Pazir">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="David Downes" overs="18" maidens="9" runs="29" wickets="5"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="3" runs="10" wickets="3"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Brandon Theron" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="5" maidens="2" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Healey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Pazir"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="LBW"/>
+      <Bowler name="M Mason"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="M Mason"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="D Pazir"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Mason"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="LBW"/>
+      <Bowler name="C Cutting"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Cutting"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="C Cutting"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="LBW"/>
+      <Bowler name="D Pazir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="D Pazir" overs="15.5" maidens="9" runs="14" wickets="3"/>
+    <BowlerSummary name="D Healey" overs="7" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="M Mason" overs="7" maidens="4" runs="7" wickets="3"/>
+    <BowlerSummary name="C Cutting" overs="2" maidens="2" runs="0" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

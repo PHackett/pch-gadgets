@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 13 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="Outram"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Seymour"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seymour"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Frost"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Burroughs"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Burroughs"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Johnson">
+      <HowOut how="Caught"/>
+      <Bowler name="R Frost"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Greg Orton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seymour"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="5" score="82"/>
+    <FallOfWicket batsman="6" score="109"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <FallOfWicket batsman="8" score="125"/>
+    <FallOfWicket batsman="4" score="164"/>
+    <FallOfWicket batsman="9" score="165"/>
+    <FallOfWicket batsman="11" score="165"/>
+    <BowlerSummary name="Seymour" overs="12" maidens="0" runs="36" wickets="5"/>
+    <BowlerSummary name="Frost" overs="9" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Outram" overs="7" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="R Frost" overs="9" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="Burroughs" overs="4" maidens="0" runs="17" wickets="2"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="M Seymour">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Frost">
+      <HowOut how="Not Out"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="Lusemore">
+      <HowOut how="Caught Nick Healey"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="W Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="6" runs="6" wickets="1"/>
+    <BowlerSummary name="Tom Johnson" overs="7" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Nick Healey" overs="6" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="4" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Alex Burke" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Greg Orton" overs="1.5" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

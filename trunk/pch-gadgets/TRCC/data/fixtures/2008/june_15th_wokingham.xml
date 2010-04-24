@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:33 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham" date="Sun Jun 15 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+       A beautiful summers day - with a bit of a chill in the breeze! - greeted visitors Wokingham to
+      Twyford &amp; Ruscombe's home ground. Winning the toss, Wokingham put Twyford in to bat. 
+      <p>
+
+            This turned out to be a wise decision, and kept the game nice and short! Twyford's batting was
+      lamentable! Only Captain N Downes reached a reasonable score 0f 33, and only one other reached
+      double figures. The last six batsmen had &quot;0&quot; after their names. 
+      <p>
+       It was
+      sure to be over quickly ... but not that quickly! Wokingham shuffled their normal order, but with
+      openers Hackett and Cooper proving accurate, they were soon on the back foot at 7-3, then 22-4 and
+      30-5. Light at the end of the tunnel for Twyford? 
+      <p>
+       <em>No</em>. 
+      <p>
+      
+      Anderson came to the crease and saw every ball clearly. It was soon all over. 
+      <p>
+       So,
+      another poor batting performance from Twyford. But still a pleasant afternoon for all those
+      involved, and at the pub nice and early! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="N Simmonds"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Healey"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Healey"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="B Stabler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="B Stabler"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Healey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Stabler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Caught"/>
+      <Bowler name="L Stabler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Burke">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Pilgrim"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="2" score="56"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="7" score="58"/>
+    <FallOfWicket batsman="8" score="64"/>
+    <FallOfWicket batsman="5" score="66"/>
+    <FallOfWicket batsman="9" score="69"/>
+    <FallOfWicket batsman="11" score="69"/>
+    <BowlerSummary name="Finucant" overs="7" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="N Simmonds" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Healey" overs="5" maidens="1" runs="10" wickets="3"/>
+    <BowlerSummary name="B Stabler" overs="7" maidens="3" runs="12" wickets="2"/>
+    <BowlerSummary name="L Stabler" overs="2" maidens="0" runs="9" wickets="2"/>
+    <BowlerSummary name="B Pilgrim" overs="0.2" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Wokingham">
+    <Batsman name="P Hirst">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Pilgrim">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Atkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Healey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Simmonds">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Anderson">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="D Finucant">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="4" score="7"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="5" score="30"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="3" runs="27" wickets="4"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Mark Jones" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:00 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 28 00:00:00 UTC+0100 2002">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="I Boddington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="H Singh">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="C Lunn">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="N Robinson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="L Taylor">
+      <HowOut how="Stumped"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Coombes">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Fender">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="E Lunn">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="37"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="3" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Drew Evans" overs="3" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Roger Seymour" overs="5" maidens="0" runs="23" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Fender"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Norris"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="K Clark"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="S Walker"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Richard Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Lunn"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Boddington"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Boddington"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Boddington"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="S Fender" overs="6" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="P Norris" overs="7" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="S Walker" overs="6" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="C Lunn" overs="7" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="N Robinson" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="I Boddington" overs="5" maidens="0" runs="10" wickets="3"/>
+    <BowlerSummary name="K Clark" overs="2" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

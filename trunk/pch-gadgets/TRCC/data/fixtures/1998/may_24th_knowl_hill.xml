@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:53 UTC+0100 2010 -->
+<CricketMatch oppo="Knowl Hill" date="Sun May 24 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Duffy"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Gray"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Gray" overs="12" maidens="1" runs="43" wickets="1"/>
+    <BowlerSummary name="Harrison" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Gillet" overs="5" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Duffy" overs="13" maidens="0" runs="67" wickets="1"/>
+    <BowlerSummary name="Smith" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Darvell" overs="2" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Knowl Hill">
+    <Batsman name="J Cousins">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="W Darvell">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Pyle">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="K Ellis">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="L Duffy">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Bland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="I Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Gillet">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Harrison">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="E Tinald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="2" runs="38" wickets="4"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Roger Seymour" overs="5" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="5.3" maidens="0" runs="24" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

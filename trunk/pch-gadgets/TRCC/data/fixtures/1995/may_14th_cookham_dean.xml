@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:16 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sun May 14 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cookham Dean">
+    <Batsman name="L Slater">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="P Douch">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="C Thomas">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="R Stares">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Fox">
+      <HowOut how="Caught P Dawson"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Henwood">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="2" runs="39" wickets="0"/>
+    <BowlerSummary name="Peter Dawson" overs="5" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="3" maidens="0" runs="27" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Palmer"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Palmer"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Thomas"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Curola"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Curola"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="C Thomas"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Thomas"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Thomas"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Palmer" overs="10" maidens="1" runs="53" wickets="2"/>
+    <BowlerSummary name="Curola" overs="10" maidens="2" runs="23" wickets="2"/>
+    <BowlerSummary name="Gibley" overs="3" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="C Thomas" overs="10" maidens="0" runs="66" wickets="4"/>
+    <BowlerSummary name="P Douch" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Stares" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="D Henwood" overs="2" maidens="1" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

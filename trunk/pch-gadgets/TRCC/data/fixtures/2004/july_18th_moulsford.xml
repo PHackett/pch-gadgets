@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun Jul 18 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       A heavy, overcast sky - grey but not threatening rain - greeted Moulsford as they arrived at
+      Stanlake Meadow recreation field to take on the hosts Twyford. Winning the toss, the home side
+      elected to bat. 
+      <p>
+       From the outset, the home side was in deep trouble. The opening
+      attack of White and Spackman was accurate, testing the batsmen on every ball. This, combined with
+      some lamentable strokes from Twyford soon had the home side reeling at 6 for 4 wickets after only 4
+      overs. It looked like we were going to get to the pub nice and early that afternoon! But with Downes
+      joining Woodman at the crease the descent into total ignominy was halted. Both played fine innings,
+      their final stand of 100 before Downes was bowled saving Twyford from total humiliation. But the
+      excellent bowling, especially from Spackman who ended with 17 for 5 off 13 overs, meant that
+      Moulsford only required 128 to win, a seemingly straightforward target. 
+      <p>
+       Moulsford
+      began well, but for their innings too, it was to be the bowlers who were to dominate. In his
+      3<sup>rd</sup> over Hackett struck twice, and then Benson dismissed A White in the next over.
+      Moulsford recovered from these early shocks, taking the score on to 63 by the 16<sup>th</sup> over,
+      firmly back in the driving seat. Then the Captain Downes struck, taking 2 wickets in <em>his</em>
+      3<sup>rd</sup> over, and the pressure mounted once more on Moulsford! Good fielding kept runs at a
+      premium, while Hackett and Downes relentlessly kept up an accurate attack. But Moulsford were by no
+      means out of it, and with 8 overs remaining needed only 35 runs for victory with 4 wickets in hand.
+      Then Downes had Singh stumped after a determined 23, and Moulsford's tail finally collapsed - The
+      last three wickets falling for just 4 runs. Hackett ended with the fine figures of 15 overs, 7
+      maidens, 18 for 3, while Downes had his best figures since 2001 taking 6 wickets for 41 runs. 
+     
+      <p>
+       An exciting game whose result was in doubt right to the end, and a spirited performance
+      from Twyford! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Spackman"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Spackman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N White"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Spackman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Spackman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Spackman"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="3"/>
+    <FallOfWicket batsman="4" score="6"/>
+    <FallOfWicket batsman="5" score="6"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <FallOfWicket batsman="1" score="125"/>
+    <BowlerSummary name="N White" overs="6" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="T Spackman" overs="13" maidens="5" runs="17" wickets="5"/>
+    <BowlerSummary name="J Clark" overs="6" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Singh" overs="10" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="J Davy" overs="8" maidens="2" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Moulsford">
+    <Batsman name="A White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Moss">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Rothwell">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="J Davy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Parkes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="N White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Singh">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="T Spackman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Moss">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Bellis">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <FallOfWicket batsman="7" score="68"/>
+    <FallOfWicket batsman="8" score="98"/>
+    <FallOfWicket batsman="9" score="100"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="10" score="102"/>
+    <BowlerSummary name="Paul Hackett" overs="15" maidens="7" runs="18" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="6" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11.1" maidens="1" runs="41" wickets="6"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:30 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jul 7 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="C Lynch">
+      <HowOut how="Caught L Ryan"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="M Symons">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="S Clements">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Richards">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Burrows">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Eatwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Frost">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Baker">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Peter Dawson" overs="19" maidens="8" runs="51" wickets="3"/>
+    <BowlerSummary name="David Taylor" overs="13" maidens="2" runs="40" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="3" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="b"/>
+      <Bowler name="Seymour"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Frost"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woods-Smith"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woods-Smith"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Greg Neall"/>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="David Taylor"/>
+    <Extras value="7"/>
+    <BowlerSummary name="Seymour" overs="14" maidens="5" runs="45" wickets="1"/>
+    <BowlerSummary name="Woods-Smith" overs="10" maidens="4" runs="14" wickets="2"/>
+    <BowlerSummary name="R Frost" overs="9" maidens="3" runs="36" wickets="1"/>
+    <BowlerSummary name="W Baker" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Eatwell" overs="3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

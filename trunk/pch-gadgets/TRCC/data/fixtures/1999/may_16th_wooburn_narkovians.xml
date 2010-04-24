@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:04 UTC+0100 2010 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 16 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tennant"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hale"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Caught"/>
+      <Bowler name="Klosterman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Klosterman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barker"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="Barker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Barker" overs="10.3" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Tennant" overs="10" maidens="2" runs="12" wickets="1"/>
+    <BowlerSummary name="Rogers" overs="13" maidens="3" runs="59" wickets="4"/>
+    <BowlerSummary name="Hale" overs="7" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Klosterman" overs="5" maidens="0" runs="20" wickets="2"/>
+  </Innings>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="Saunders">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rogers">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barker">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Sutherland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Selleck">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mason">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Tennant">
+      <HowOut how="Not Out"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Butcher">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Klosterman">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="4" runs="24" wickets="2"/>
+    <BowlerSummary name="Graham Woodhouse" overs="11" maidens="1" runs="31" wickets="4"/>
+    <BowlerSummary name="Alex Neall" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

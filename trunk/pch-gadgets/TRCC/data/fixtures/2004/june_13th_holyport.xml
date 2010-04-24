@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Holyport" date="Sun Jun 13 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       On the hottest day of the year so far, Twyford played host to Holyport at Stanlake Meadow. Winning
+      the toss, Twyford captain Nic Downes elected to bat. 
+      <p>
+       A less auspicious start would
+      scarce have been possible, with Woodman clean bowled off the first ball of the innings. The opening
+      bowlers Barney and Head kept the pressure up and by the end of the 8<sup>th</sup> over Twyford were
+      reeling at 19 for 3. But relief for the batting side came with Dunsford and Cochrane put together an
+      inspired and exciting partnership of 77, lifting Twyford out of the doldrums. And so the form
+      continued throughout the rest of the batting order, with all contributing runs. However, Holyport
+      were bowling tightly, keeping runs at a premium. The final total of 168 for 8 looked too small with
+      the fast outfield parched after the recent weather. 
+      <p>
+       And so it was to prove.
+      Holyport's openers Dunn and Davies spent the first two overs getting ready, and then unleashed a
+      barrage of boundaries. Punishing anything overpitched or slightly off line, they scored at almost 6
+      an over for the first 15 overs, the frantic progress slowed only when the very much in-form Davies
+      was caught on the boundary for 60. Dunn was dismissed the following over, but the writing was on the
+      wall. Under the bright sun Twyford's bowlers were unable to apply sufficient pressure, and the
+      winning runs came in the 30<sup>th</sup> over. 
+      <p>
+       A well deserved win for Holyport,
+      though Twyford should not be too discouraged by their performance. 
+      <p>
+       Of course,
+      worse was to follow down the public house afterwards, with the England football team unable to
+      emulate the success of their cricketing counterparts! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Head"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="Barney"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Griffith"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Varney"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="Bushell"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Fowler"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="LBW"/>
+      <Bowler name="Head"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="4" score="97"/>
+    <FallOfWicket batsman="7" score="133"/>
+    <FallOfWicket batsman="6" score="138"/>
+    <FallOfWicket batsman="9" score="168"/>
+    <BowlerSummary name="Barney" overs="6" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Head" overs="8" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Griffith" overs="9" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="S Varney" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Bushell" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Fowler" overs="4" maidens="1" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Holyport">
+    <Batsman name="J Dunn">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="P Davies">
+      <HowOut how="Caught Tom Hall"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="M Francis">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="C Cocks">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Fowler">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="88"/>
+    <FallOfWicket batsman="1" score="90"/>
+    <FallOfWicket batsman="4" score="133"/>
+    <BowlerSummary name="Paul Hackett" overs="8.1" maidens="2" runs="46" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="2" runs="38" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Compton" date="Sat Jul 7 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford again missed most of the bad weather and, in the eyes of the Berkshire Cricket League,
+      completed a game against Compton which had to be abandoned due to poor light and the speed of the
+      Twyford pace bowlers. 
+      <p>
+       Losing the toss again Twyford were put into bat in damp
+      conditions although the covered pitch played very well. Twyford soon got into their swing and the
+      runs came at 4 an over mainly from the bat of Downes (22) before being caught. Hobson (63*) then
+      came to the wicket and again played a solid innings quite different from the week before. Once
+      Helomore (17) depart, after some fine hooked boundaries, Jackson (101) strode to the wicket and
+      dominated the innings from then on. Boundaries flowed, as did the rain, and Jackson was at his most
+      punishing best with fours and sixes being easy to come by. Hobson at the other end kept the score
+      ticking and gave Jackson the strike at every opportunity. Rain played it's part and had the players
+      running to the pavilion on more than one occasion but the showers were short and did little to spice
+      up the pitch. Their partnership of 135 was the highest so far this year and Jackson contributed 101
+      of them in the 18 overs they were together. When Jackson holed out shortly after his century Henry
+      (23) carried on the scoring and took Twyford to 246 of 41 overs before the declaration. 
+      <p>
+ 
+           With the day getting darker by the minute Twyford opened with slow bowling to get the minimum
+      20 overs in to constitue a game. This worked well and they soon removed the openers Ahmed (0) and
+      Yahia (22) with two good catches. With the score on 96 for 2 from 24 overs the skipper looked to
+      bring back the unnerving pace of Jackson which brought the two batsmen and the umpires together.
+      With still 90 minutes of play left and two bowlers capable of getting the ball to head height on a
+      bouncy pitch the decision was made to leave the field and settle for the draw, giving Twyford 16
+      well earned points.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Yahia"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Yahia"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Caught"/>
+      <Bowler name="D Winchcombe"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="R Perry"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="J Bradley">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="D Winchcombe" overs="15" maidens="2" runs="75" wickets="1"/>
+    <BowlerSummary name="S Yahia" overs="12" maidens="2" runs="76" wickets="2"/>
+    <BowlerSummary name="R Perry" overs="7" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="D Walton" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="A Bridgeman" overs="1" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="J Cook" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Compton">
+    <Batsman name="N Ahmed">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Yahia">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="R Perry">
+      <HowOut how="Not Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="D Winchcombe">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Noel Downes" overs="11" maidens="4" runs="34" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="2" runs="25" wickets="1"/>
+    <BowlerSummary name="Andrew Jackson" overs="5" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Brandon Theron" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

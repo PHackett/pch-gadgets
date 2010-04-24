@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:43 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 27 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="J Moss">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="A Homer">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Chandler">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="M Taylor"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="P Black">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Beales">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="B Russell">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="F Herbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Taylor"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="G King">
+      <HowOut how="Caught R Seymour"/>
+      <Bowler name="M Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Lynch">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="M Taylor" overs="16" maidens="7" runs="39" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="14" maidens="3" runs="55" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="12" wickets="3"/>
+    <BowlerSummary name="Rod Edney" overs="6" maidens="0" runs="42" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="G King"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="G King"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Beales"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Beales"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="A Homer"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="C Beales"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="A Homer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="G King" overs="8" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="P Black" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="C Beales" overs="11" maidens="1" runs="33" wickets="3"/>
+    <BowlerSummary name="B Russell" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="F Herbert" overs="7" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="A Homer" overs="3" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

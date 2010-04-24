@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Yateley" date="Sun Aug 17 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      Last-minute replacement Yateley paid a visit to Stanlake Meadow on an overcast, and towards the end
+      chilly afternoon in Twyford.
+      <p>
+      <del>Twyford won the toss, and elected to field.
+      Looking back, that was the highlight of the game for the home team.</del> The visitors won the toss,
+      and elected to bat. Yateley, considerably younger (someone calculated that the combined ages of
+      their four youngest players was still less that that of Twyford's oldest!), and let's face it more
+      talented, they swept the none-too penetrating bowling aside with ease. Openers Dow and Wood were
+      hardly bothered once, amassing fine totals with speed and style. Twyford could only wait for their
+      mistakes (and pray for rain!). But their dismissals did not slow the run rate. The final total of
+      241 was pretty good for that afternoon, but unassailable? Maybe not!
+      <p>
+      Well, yes -
+      unassailable. 
+      <p>
+      Yateley's bowling was almost as good as their batting. Only T Fort
+      put up any resistance for the home side, but the tail started early that afternoon, and the home
+      side collapsed to 85 all out.
+      <p>
+      So, a sobering day for Twyford. But we were slightly
+      buoyed when we discovered that Yateley had at least 4 county-level colts in their side, and this
+      salvaged a little of the bruised egos.
+      <p>
+      Me, I'm off for some fishcakes (Yum Yum!).
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Yateley">
+    <Batsman name="J Dow">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="T Wood">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="108"/>
+    </Batsman>
+    <Batsman name="J Muir">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="J Wood">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="J Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Vincent">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="155"/>
+    <FallOfWicket batsman="3" score="185"/>
+    <FallOfWicket batsman="1" score="218"/>
+    <FallOfWicket batsman="4" score="235"/>
+    <BowlerSummary name="Steve Beamish" overs="11" maidens="1" runs="53" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Tim Cooper" overs="5" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="6" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="40" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="C James"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="C James"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="H Bartlett"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Wood"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="LBW"/>
+      <Bowler name="J Wood"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Burke">
+      <HowOut how="LBW"/>
+      <Bowler name="H Bartlett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Bartlett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="C James"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Caught"/>
+      <Bowler name="C James"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Davis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="6" score="67"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="7" score="70"/>
+    <FallOfWicket batsman="8" score="77"/>
+    <FallOfWicket batsman="9" score="85"/>
+    <FallOfWicket batsman="10" score="85"/>
+    <BowlerSummary name="C James" overs="6.1" maidens="1" runs="9" wickets="4"/>
+    <BowlerSummary name="H Bartlett" overs="10" maidens="5" runs="10" wickets="3"/>
+    <BowlerSummary name="A Davis" overs="6" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="A Muir" overs="5" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="D Vincent" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Howells" overs="3" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="J Wood" overs="4" maidens="2" runs="3" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

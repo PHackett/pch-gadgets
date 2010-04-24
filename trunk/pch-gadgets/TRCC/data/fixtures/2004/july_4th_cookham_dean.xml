@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sun Jul 4 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       A dull, grey, threatening sky greeted the visitors Twyford as they arrived at Cookham Dean. Sure
+      enough, a fine drizzle began to fall, necessitating a delay of half an hour before play could begin.
+      
+      <p>
+       Twyford were put in to bat, and it was expected that the wet conditions would help
+      the bowlers. But this was not to be the case as Twyford raced away, the ball flying to the boundary
+      despite the wet grass. A breakthrough for Cookham Dean came in the 6<sup>th</sup> over when Benson
+      was bowled by Knowles-Leak. However, that was to be the last bit of good news for the home side for
+      some considerable time. As the weather improved and the outfield dried, runs came thick and fast
+      from Woodman and Wren, keeping up a run rate of 6 per over for the first 24 overs. Wren finally fell
+      after a fine innings of 75, but with Downes and H Fort in their turns joining Woodman at the crease,
+      the runs kept mounting. The innings came to a close with Twyford declaring as Woodman reached the
+      century - his first for almost two years - a fine batting display. 
+      <p>
+       Cookham Dean
+      faced the daunting target of 227 to win, and Twyford were feeling the game was theirs for the
+      taking. But, the batsman had other ideas! Twyford's bowlers were unable to make much of an impact,
+      being loose on line and length, and Cookham Dean made hay while the sun shone! Ramsbottom scored a
+      fine 51, but was topped by Bridges with an aggressive 73. As the overs counted down the seemingly
+      safe Twyford total began to look highly vulnerable. The drizzle returned, with the final nail-biting
+      over leaving the home team needing but 3 runs to win. But Hackett finally found his line and length,
+      and with two run-outs Cookham Dean ended up 2 runs shy of victory. 
+      <p>
+       A lucky escape
+      from the weather, a taught finish, and a fair result - What more do you want from a game of Sunday
+      cricket? 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Knowles-Leek"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gay Snr"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Knowles-Leek"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Paul Dunsford"/>
+    <Batsman name="David Naude"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="3" score="158"/>
+    <FallOfWicket batsman="4" score="193"/>
+    <BowlerSummary name="Knowles-Leek" overs="8" maidens="0" runs="57" wickets="2"/>
+    <BowlerSummary name="M Marudas" overs="8" maidens="2" runs="33" wickets="0"/>
+    <BowlerSummary name="Evans" overs="7.2" maidens="2" runs="25" wickets="0"/>
+    <BowlerSummary name="Gay" overs="4" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Kellaway" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Gay Snr" overs="3" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Allard" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Cookham Dean">
+    <Batsman name="G Allard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="N Ramsbottom">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="C Kellaway">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="R Bridges">
+      <HowOut how="Run Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="R Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="M Marudas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Gay Snr">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="T Cairns">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="14" maidens="0" runs="63" wickets="2"/>
+    <BowlerSummary name="Alistair Benson" overs="7" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="2" runs="36" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="7" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

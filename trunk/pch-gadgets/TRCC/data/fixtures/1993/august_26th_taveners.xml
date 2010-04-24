@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:50 UTC+0100 2010 -->
+<CricketMatch oppo="Taveners" date="Thu Aug 26 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Taveners">
+    <Batsman name="A Jackson">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="166"/>
+    </Batsman>
+    <Batsman name="S Mann">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="I Pearce">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J May">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="J Pitman">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="P Jackson">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Webster">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Hansher">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Evans"/>
+    <Batsman name="W Hulme"/>
+    <Batsman name="S Coates"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="0" runs="62" wickets="1"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="1" runs="48" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="15" maidens="0" runs="78" wickets="4"/>
+    <BowlerSummary name="John Hamilton" overs="6" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="46" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Jackson"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="W Hulme"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Jackson"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="I Pearce"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hansher"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Jackson"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="A Jackson"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Webster"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="W Hulme" overs="10" maidens="2" runs="39" wickets="1"/>
+    <BowlerSummary name="P Evans" overs="8" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="I Pearce" overs="7" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="P Jackson" overs="6" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="A Jackson" overs="5" maidens="1" runs="32" wickets="3"/>
+    <BowlerSummary name="S Hansher" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="A Webster" overs="2" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

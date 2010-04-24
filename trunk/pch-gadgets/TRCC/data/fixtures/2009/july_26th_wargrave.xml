@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 26 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      Playing away for the first time in over a month, Twyford made the short journey to local rivals
+      Wargrave, on a really rather unpleasent day - cloudy, windy and with the threat of rain.
+      <p>
+ 
+          The home side won the toss, and put Twyford in the field. Opening batsman Lanch made his plans
+      plain for all, with a heartily struck 4 off the first ball, only to be outdone 3 balls later by an
+      off-stump yorker - so not a good start for the home side. And continued accurate bowling brought
+      further delight for the visitors in only the 5th over, when Wargrave were reduced to 16-2. But Jeary
+      and Dunster had the measure of the bowling, and both reached splendid 50s before Dunster was
+      dismissed off the bowling of A Weir, playing in his first senior match for TRCC. Twyford's fielding
+      was by turns excellent - a difficult skyer held by C Fort, and lamentable - an absolute dolly
+      dropped by the same C Fort! But they managed to keep a lid on Wargrave. The final total of 188-9 was
+      not bad in this 40 over game, but by no means unreachable.
+      <p>
+      Twyford's response did
+      not begin well - a wicket maiden from J Clark saw Woodman returning to the pavilion with a duck. But
+      N Downes and T Fort took the attack to Wargrave, and sped off at well over the run rate. But the
+      partnership was broken in the 13th over when N Downes was given out to a controversial LBW decision.
+      T Fort kept soldiering on, supported by Weir and H Fort, until he too was out for 62 to a misjudged
+      full toss. From then on, Twyford could only muster limited resistance to Wargrave. The end came with
+      3 overs left to play, the visitors still 34 runs short.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="F Lanch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Jeary">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="V Grentham">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Dunster">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="T Tabrah">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="E Granthom">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Woods">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="O Washinton">
+      <HowOut how="Caught Tim Cooper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Owen">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="4" score="121"/>
+    <FallOfWicket batsman="2" score="158"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <FallOfWicket batsman="7" score="179"/>
+    <FallOfWicket batsman="8" score="179"/>
+    <FallOfWicket batsman="5" score="182"/>
+    <FallOfWicket batsman="9" score="188"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="0" runs="24" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="8" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="J Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="V Grentham"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Clark"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="LBW"/>
+      <Bowler name="V Grentham"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Owen"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Clark"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Clark"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="LBW"/>
+      <Bowler name="K Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Woods"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="LBW"/>
+      <Bowler name="A Woods"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="4" score="83"/>
+    <FallOfWicket batsman="5" score="106"/>
+    <FallOfWicket batsman="3" score="131"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <FallOfWicket batsman="8" score="139"/>
+    <FallOfWicket batsman="6" score="142"/>
+    <FallOfWicket batsman="9" score="145"/>
+    <FallOfWicket batsman="10" score="155"/>
+    <BowlerSummary name="J Clark" overs="7" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="P Dunster" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="V Grentham" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="A Woods" overs="7.4" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="D Owen" overs="8" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="K Clark" overs="2" maidens="1" runs="6" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Frimley" date="Sun May 23 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       Once again at home, Twyford played host to Frimley on a very pleasant Sunday afternoon. 
+      <p>
+
+            Winning the toss, Frimley put Twyford into bat. Tight bowling from Scott and Taylor kept the
+      runs to a minimum, and the pressure paid off in only the fifth over when Russell was caught off
+      Scott. Fort joined Woodman at the crease, and together they put on 62 runs, but at a slow pace -
+      When Fort was out in the 24<sup>th</sup> over only 68 runs were on the board. Runs continued to be
+      hard to get, but wickets less so. Soon Twyford were on the ropes at 102 for 8. Evans put up the only
+      resistance with a well-played 19, but the final total of 138 seemed far too small. All praise to a
+      tight bowling performance from Frimley. 
+      <p>
+       But Twyford were not about to throw in the
+      towel just yet! Fine opening spells from Hackett and Cochrane kept runs down, and always threatened
+      a breakthrough. That came in the 7<sup>th</sup> over with Hackett bowling Durham. The other opener
+      Dickinson soon joined him in the pavilion, unluckily bowled by an unplayable ball from Cochrane.
+      Twyford's relentless attack continued with D and N Downes giving nothing away to Frimley, wickets
+      falling but no runs for the visitors. It was all over in the 31<sup>st</sup> over with Frimley
+      having scored just 61 runs. 4 wickets to N Downes, but the remarkable figures of 9 overs, 7 maidens,
+      4 runs for 4 wickets for D Downes. 
+      <p>
+       Twyford very happy to record their first
+      victory of the season! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilde-Smith"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="David Russell">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Scott"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Sehmi"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="Wilde-Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lyon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Crabtree"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilde-Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Crabtree"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="Durham"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cornell"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="5" score="83"/>
+    <FallOfWicket batsman="1" score="83"/>
+    <FallOfWicket batsman="7" score="83"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <FallOfWicket batsman="10" score="121"/>
+    <FallOfWicket batsman="9" score="138"/>
+    <BowlerSummary name="Scott" overs="8" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Taylor" overs="6" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Sehmi" overs="7" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Wilde-Smith" overs="10" maidens="4" runs="19" wickets="3"/>
+    <BowlerSummary name="Lyon" overs="6" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Crabtree" overs="5" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Cornell" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Durham" overs="1.1" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Frimley">
+    <Batsman name="Dickinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Durham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hardwich">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stuart">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Lyon">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Crabtree">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sehmi">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Wilde-Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Cornell">
+      <HowOut how="Caught Chris Evans"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="6" score="35"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="8" score="47"/>
+    <FallOfWicket batsman="9" score="56"/>
+    <FallOfWicket batsman="7" score="60"/>
+    <FallOfWicket batsman="11" score="60"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="5" runs="12" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="6" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="7" runs="4" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="4.4" maidens="0" runs="14" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

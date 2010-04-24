@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:58 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun May 14 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       Binfield won the toss and put Twyford into bat. Modest bowling picked off the new and rather rusty
+      players, Hancock and Orton. The innings had been given impetus however by Cochrane who middled
+      everything until his eyes lit up at a short one but it kept low and went well under his big swish.
+      This brought Fuller in to join Woodman and they took full toll of the bowling, a lush outfield being
+      no inconvenience at all. Woodman made an excellent 50 and Fuller excelling with a maiden half
+      century for the club, going on to make a hard hit 85. At one stage however the crowd gasped as
+      Fuller was seen to be out sprinted by Healey as the pair chased quick runs before tea!! Twyford made
+      an imposing 231. 
+      <p>
+       Beamish and Walkland put Twyford firmly in control with the ball
+      and were soon among the wickets. Binfield were quickly looking out of the game so Downes came on and
+      encouraged the batsmen to play some shots. He was well supported by the successful Healey at the
+      other end. Good fielding from Twyford just made Binfield's position even more helpless and there
+      were some good catches taken, none better than Woodman's at first slip to dismiss Jeffrey off a
+      quicker ball from Downes, he thrust out a left hand as the ball flashed past the edge of the keepers
+      gloves and the ball miraculously stuck to great whoops of delight from bowler and fielder. There was
+      nothing that the hard hitting middle order and tail of Binfield's batting line up could do to wrest
+      the prize from Twyford's grasp. 
+      <p>
+       While the aforementioned Hancock and Orton might
+      have been a little rusty with their batsmanship they were to prove their worth later in the pub
+      where they were the stalwarts of the TRCC quiz team. Another resounding victory and a £27 drinking
+      voucher to boot. (Hancock & Orton, hmm, has a sort of old time musical hall ring about it, reminding
+      one of the likes of Flanders & Swann and Flannagan & Allen - they'll be singing in the showers
+      next!) 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="James"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Joe Hancock">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="James"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Butt"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Greg Orton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mitchell"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="James"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="James"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="1" score="169"/>
+    <FallOfWicket batsman="6" score="190"/>
+    <FallOfWicket batsman="5" score="222"/>
+    <BowlerSummary name="James" overs="14" maidens="2" runs="74" wickets="4"/>
+    <BowlerSummary name="Butt" overs="8" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Humphrey" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Mitchell" overs="7" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Jeffrey" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Sykes" overs="7" maidens="0" runs="28" wickets="0"/>
+  </Innings>
+  <Innings batting="Binfield">
+    <Batsman name="T Usher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Ashcroft">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="S Ennis">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Brodrich">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Edgington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="M Jeffrey">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Humphrey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="R Mitchell">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M James">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Sykes">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Butt">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="5" score="45"/>
+    <FallOfWicket batsman="6" score="87"/>
+    <FallOfWicket batsman="7" score="103"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="9" score="115"/>
+    <FallOfWicket batsman="11" score="116"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="10.2" maidens="0" runs="56" wickets="2"/>
+    <BowlerSummary name="Nick Healey" overs="5" maidens="1" runs="16" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

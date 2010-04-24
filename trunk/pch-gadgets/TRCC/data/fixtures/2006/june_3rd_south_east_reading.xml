@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="South East Reading" date="Sat Jun 3 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       On what looked like a cracking batting track, the ball dominated the bat. TRCC won the toss and
+      after much deliberation SERCC we put into bat. Beamish and Smith opened the bowling and immediately
+      put the SERCC batsmen under pressure with aggressive line and length bowling. The first over brought
+      much drama with 2 boundaries, a dislocated finger and a wicket, the prized Choudry going for 8. The
+      next partnership was shortlived adding only 3 runs before Ali was caught well by Alex Neall in the
+      slips off the bowling of Smith. 
+      <p>
+       Zaheer Abbas and A D Ali then put on a stand of 67
+      with some fine hitting. A change in the bowling saw Hogarth come on at the road end and Abbas was
+      trapped Plumb LWB hitting across the line. The next over saw Pacha run out after some cool fielding
+      from Leigh. A D Ali was then trapped LBW by Hogarth on 46. 
+      <p>
+       Beamish then came back
+      into the attack replacing Smith at the electric fence end. Kahn was out bizarrely hooking a wide leg
+      side delivery onto his stumps. Some powerful hitting from Ashraf saw the score race along to 140
+      before Leigh came onto bowl and took the last 3 wickets for 1 run and SERCC all out for 143.
+      Beamish's last spell was 6-4-2-2, a stunning demonstration of fast bowling. 
+      <p>
+       Downes
+      and Seymour opened the batting for Twyford against some aggressive and very rapid bowling from
+      Choudry and Abbas. Scoring was hard and the first 7 overs only brought 11 runs. Seymour was first
+      out for 2 to an inswinger from Choudry. Alex Neall then went for a duck, playing all around a
+      straight one from Choudry. Leigh was next in and again went without troubling the scorers playing
+      across and another straight delivery. 
+      <p>
+       Hogarth came in to join Downes, who had been
+      watching the mayhem ensue, and the scoring came freely for a while with several boundaries coming
+      along and some good running. It did'nt last long with Hogarth going caught behind on 11. George
+      “Blue” Nunn was next in and showed great technique in a stand of 40 before he was bowled playing
+      around a quick delivery from AD Ali. 
+      <p>
+       This was the last real resistance save for a
+      few very well struck boundaries from Downes who then went caught behind on 49 to end TRCC's hope of
+      a shock win over the div leaders. All in all, a poor batting performance saw 6 ducks and only 3
+      double figure scores. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="South East Reading">
+    <Batsman name="R Choudry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A D Ali">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Z Ali">
+      <HowOut how="Caught Alex Neall"/>
+      <Bowler name="Chris Smith"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Z Abbas">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="E Pacha">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Shhafi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Kahn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Ashraf">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="M Shaukat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Z Hussain">
+      <HowOut how="Caught George Nunn"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Ali">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="2" score="114"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="8" score="140"/>
+    <FallOfWicket batsman="6" score="140"/>
+    <FallOfWicket batsman="10" score="141"/>
+    <FallOfWicket batsman="9" score="142"/>
+    <BowlerSummary name="Steve Beamish" overs="13" maidens="4" runs="36" wickets="3"/>
+    <BowlerSummary name="Chris Smith" overs="11" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="8" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="3" maidens="1" runs="1" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Abbas"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Choudry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Choudry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Choudry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Abbas"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="A D Ali"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Z Abbas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="A D Ali"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Z Abbas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="A D Ali"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="5" score="43"/>
+    <FallOfWicket batsman="6" score="83"/>
+    <FallOfWicket batsman="7" score="84"/>
+    <FallOfWicket batsman="8" score="85"/>
+    <FallOfWicket batsman="9" score="88"/>
+    <FallOfWicket batsman="1" score="96"/>
+    <FallOfWicket batsman="11" score="97"/>
+    <BowlerSummary name="R Choudry" overs="11" maidens="5" runs="31" wickets="3"/>
+    <BowlerSummary name="Z Abbas" overs="13" maidens="3" runs="23" wickets="4"/>
+    <BowlerSummary name="M Shaukat" overs="6" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="Z Hussain" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="A D Ali" overs="3.2" maidens="1" runs="7" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Jordans Village" date="Sat Jun 26 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Jordans Village">
+    <Batsman name="A Miller">
+      <HowOut how="Caught I Helmore"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Pembroke">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="I Roberts">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Sonney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Bingle">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Loveday">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Piercy">
+      <HowOut how="Caught I Helmore"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Haywood">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="O Butler">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Coding">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Redpath">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="8" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="4" runs="7" wickets="2"/>
+    <BowlerSummary name="James Hollidge" overs="4.3" maidens="2" runs="11" wickets="4"/>
+    <BowlerSummary name="Rod Edney" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Tim Hanton"/>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="1"/>
+    <BowlerSummary name="T Bingle" overs="8" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="I Roberts" overs="7" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="T Sonney" overs="2.5" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="M Pembroke" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

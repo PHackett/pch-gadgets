@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:19 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jun 24 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorp"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="LBW"/>
+      <Bowler name="Powell"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Mike Choules">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorp"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Thorp"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Thorp"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barfield"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="Glue"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="5" score="94"/>
+    <FallOfWicket batsman="7" score="124"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="9" score="151"/>
+    <FallOfWicket batsman="10" score="152"/>
+    <BowlerSummary name="Powell" overs="14" maidens="1" runs="43" wickets="2"/>
+    <BowlerSummary name="Thorp" overs="13" maidens="2" runs="44" wickets="4"/>
+    <BowlerSummary name="Glue" overs="6" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Ampleford" overs="4" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Barfield" overs="6" maidens="1" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Cranbourne">
+    <Batsman name="Buckland">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Spreadborough">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Moores">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Thorp">
+      <HowOut how="Caught Chris Taylor"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ampleford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barfield">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Townsend">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Glue">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Chris Taylor" overs="11" maidens="5" runs="8" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="10" maidens="5" runs="14" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Graham Kemp" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="0" runs="15" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

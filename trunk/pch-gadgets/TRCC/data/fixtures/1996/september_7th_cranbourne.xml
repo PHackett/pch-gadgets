@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:33 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Sep 7 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="B Barfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B McHugh">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="T Thorpe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Dolan">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B Blackall">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="A James">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="I Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Cullen">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Pople">
+      <HowOut how="Stumped"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="73"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <FallOfWicket batsman="6" score="126"/>
+    <FallOfWicket batsman="9" score="128"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <FallOfWicket batsman="11" score="144"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="12" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="Rich Lawrance" overs="5" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="7" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="Rod Edney" overs="5" maidens="3" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Powell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="B Powell"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crick"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="B Powell"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="T Thorpe"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Run Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Thorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="6" score="99"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <FallOfWicket batsman="7" score="113"/>
+    <BowlerSummary name="D Crick" overs="10" maidens="3" runs="24" wickets="1"/>
+    <BowlerSummary name="B Powell" overs="9" maidens="4" runs="15" wickets="3"/>
+    <BowlerSummary name="B Barfield" overs="10" maidens="1" runs="44" wickets="1"/>
+    <BowlerSummary name="T Thorpe" overs="10" maidens="1" runs="33" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

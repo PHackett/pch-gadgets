@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:35 UTC+0100 2010 -->
+<CricketMatch oppo="BCS" date="Sun Aug 9 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Harvey"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Marshall"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Legg"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roberts"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="Roberts"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jameson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jameson"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Jameson" overs="9" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Harvey" overs="9" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Legg" overs="5" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Roberts" overs="13" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="Marshall" overs="8" maidens="1" runs="40" wickets="1"/>
+  </Innings>
+  <Innings batting="BCS">
+    <Batsman name="P Nesbitt">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Roberts">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="I Jameson">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="G Legg">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="M Blagg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Finnigan">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Marshall">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="N Harvey">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="8" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="2" runs="25" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

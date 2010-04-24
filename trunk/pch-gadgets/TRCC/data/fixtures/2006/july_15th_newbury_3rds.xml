@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="Newbury 3rds" date="Sat Jul 15 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Mulley"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Mulley"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Antmann"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Murphy"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chris Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Antmann"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Steve Green"/>
+    <Extras value="39"/>
+    <FallOfWicket batsman="2" score="72"/>
+    <FallOfWicket batsman="3" score="79"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="4" score="152"/>
+    <FallOfWicket batsman="7" score="180"/>
+    <FallOfWicket batsman="8" score="218"/>
+    <BowlerSummary name="R Nicholls" overs="13" maidens="2" runs="40" wickets="0"/>
+    <BowlerSummary name="M Digweed" overs="8" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="D Peacock" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="J Mulley" overs="6" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="C Murphy" overs="7" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="J Antmann" overs="7" maidens="0" runs="33" wickets="2"/>
+  </Innings>
+  <Innings batting="Newbury 3rds">
+    <Batsman name="C Murphy">
+      <HowOut how="Caught Alex Neall"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Gregory">
+      <HowOut how="Caught Alex Neall"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Antmann">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="R Nicholls">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Johnston">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Chris Smith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Pevite">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Digweed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Peacock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Digweed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Mulley">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="C Mulley">
+      <HowOut how="Caught Steve Green"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="0" runs="37" wickets="4"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="8" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="Chris Smith" overs="4" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Josh Baker" overs="3.3" maidens="1" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

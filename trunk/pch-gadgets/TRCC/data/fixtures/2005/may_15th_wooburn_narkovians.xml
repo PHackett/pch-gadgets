@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:46 UTC+0100 2010 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 15 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       <ul> <li> Limited bowling oportunities for Twyford with Wooburn taking full advantage and scoring a
+      big total. </li> <li> Matt Morris on his comeback unable to repeat his analysis 7 for 20 against
+      Boyne Hillbut manfully kept one end for nearly the whole innings. </li> <li> Batting collapsed for
+      Twyford, salvaged by Jim Fort with a quick 40 and N Downes with 50, coming in at number 10. <li>
+      First Sunday appearence for Twyford of Adam Smith who Showed great promise with his fielding. </li>
+      </li> </ul> 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="P Cooper">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="D Jordan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="LBW"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="A Johnson">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="J Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Taylor">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Small">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Sharma">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="T Lees">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Seagar"/>
+    <Batsman name="M Briggs"/>
+    <Extras value="8"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="0" runs="66" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="12" maidens="1" runs="39" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="14" maidens="0" runs="70" wickets="4"/>
+    <BowlerSummary name="Alistair Benson" overs="8" maidens="0" runs="44" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Morris"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="T Lees"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Morris"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Sharma"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="J Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Morris"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="p Cooper"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="29"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="6" score="41"/>
+    <FallOfWicket batsman="7" score="102"/>
+    <FallOfWicket batsman="4" score="108"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="10" score="190"/>
+    <FallOfWicket batsman="9" score="200"/>
+    <BowlerSummary name="M Seagar" overs="6" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="T Lees" overs="8" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="J Morris" overs="12.2" maidens="2" runs="49" wickets="5"/>
+    <BowlerSummary name="M Briggs" overs="5" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="M Sharma" overs="5" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="A Johnson" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="P Cooper" overs="3" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

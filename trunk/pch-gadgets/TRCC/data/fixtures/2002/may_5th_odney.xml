@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:57 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 5 00:00:00 UTC+0100 2002">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charles"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Weight"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Nunn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="Dickie"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rolland"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Herzog"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Stumped"/>
+      <Bowler name="Herzog"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="LBW"/>
+      <Bowler name="Herzog"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Weight" overs="7" maidens="3" runs="8" wickets="1"/>
+    <BowlerSummary name="Rolland" overs="12" maidens="3" runs="15" wickets="1"/>
+    <BowlerSummary name="Charles" overs="11" maidens="2" runs="27" wickets="1"/>
+    <BowlerSummary name="Nunn" overs="8" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Dickie" overs="8" maidens="0" runs="45" wickets="3"/>
+    <BowlerSummary name="Herzog" overs="2.2" maidens="0" runs="2" wickets="3"/>
+  </Innings>
+  <Innings batting="Odney">
+    <Batsman name="J Sones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Dickie">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="C Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="T Austin">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="M Francis">
+      <HowOut how="Caught C Evans"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Finlay">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Charles">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Dickie">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Weight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Herzog">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Rolland">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="3" runs="16" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="14" maidens="3" runs="33" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="2" runs="12" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="8" maidens="2" runs="24" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

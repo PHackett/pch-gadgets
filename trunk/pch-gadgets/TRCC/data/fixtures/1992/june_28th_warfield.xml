@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:35 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sun Jun 28 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="T Emery">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="T Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Doig">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="M Hills">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="K Gregory">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="J Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Lewis">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Thompson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M White">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Tyler">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="3" runs="30" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="3" runs="39" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="13" maidens="4" runs="29" wickets="5"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Morris"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="A Doig"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="David Downes"/>
+    <Extras value="7"/>
+    <BowlerSummary name="K Gregory" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="M White" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="G Morris" overs="6" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="T Emery" overs="9.2" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="A Doig" overs="4" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

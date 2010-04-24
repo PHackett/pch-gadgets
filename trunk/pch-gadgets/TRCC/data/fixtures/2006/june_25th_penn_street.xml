@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:58 UTC+0100 2010 -->
+<CricketMatch oppo="Penn Street" date="Sun Jun 25 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       Let down by their scheduled opposition (Falklands - <b><em>Two years running now</em></b>) Twyford
+      used the Conference to arrange a new match away at Penn Street - A delightful village between High
+      Wycombe &amp; Amersham with not one but <em>three</em> cricket pitches within about 500 meters of
+      eachother, all (apparently) opposite Pubs! The game was arranged to begin at 10:00am because there
+      was some sort of association football (soccer) match on in the afternoon the many players wished to
+      observe. 
+      <p>
+       Twyford won the toss and elected to field. This was probably the correct
+      decision, but with the short, dry outfield and what turned out to be a true wicket meant that it was
+      going to feel like a long time in the field for the visitors! Opening line and length was not all it
+      could have been, and Penn St. made hay. But as time progressed Twyford managed to rein in the
+      scoring rate, and succeeded in sending the openers back to the pavilion. But then Collinson came to
+      the crease. Never looking particularly troubled by the attack he dispatched the ball to the boundary
+      so often that Twyford had no answer. Good fielding from the visitors did not matter - He found the
+      gaps. Ably supported by Lofty who scored 65, Collinson ended on a huge 152 not out - An excellent
+      performance. 
+      <p>
+       Nevertheless, Twyford may have been lacking in bowling, but 10 of the
+      side has performed well with the bat this season, and the large total was perhaps not completely
+      beyond their reach. And indeed Woodman &amp; Benjamin started well, many boundaries flying and the
+      required run-rate being achieved. Benjamin had to leave the field for a while when he top-edged a
+      ball onto his forward (Nasty cut - No permanent damage). Indeed it was not until the 16<sup>th</sup>
+      over when the first wicket fell - Woodman continuing his excellent season with another 50. But
+      Twyford could not maintain. Disappointed batsmen returned regularly to the pavilion (Well, actually
+      the garden of the Pub opposite - So at least they could drown their sorrows), unhappy that with such
+      a lovely batting track they had not scored more. Only Hill - Playing his fist game in 8 years, and
+      Walkland with his first (And very aggressive!) 50 for the club shone. The well deserved victory
+      belonged to Penn Street. 
+      <p>
+       A fine time was has by all, and it was agreed that these
+      two teams who met by accident through the Cricket Club Conference should repeat the fixture in the
+      following years. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Penn Street">
+    <Batsman name="P Jupp">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="E Ketteringham">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="N Collinson">
+      <HowOut how="Not Out"/>
+      <Runs value="152"/>
+    </Batsman>
+    <Batsman name="P Lofty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="M Ribaude">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C Herriot"/>
+    <Batsman name="J Mendy"/>
+    <Batsman name="J Davis"/>
+    <Batsman name="A Ribaude"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="2" score="61"/>
+    <FallOfWicket batsman="4" score="189"/>
+    <BowlerSummary name="Paul Hackett" overs="14" maidens="3" runs="72" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="1" runs="57" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Roger Seymour" overs="6" maidens="0" runs="65" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="A Ribaude"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Ribaude"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Ribaude"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="P Lofty"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Ribaude"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="M Ribaude"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Ribaude"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="33"/>
+    <FallOfWicket batsman="3" score="85"/>
+    <FallOfWicket batsman="1" score="89"/>
+    <FallOfWicket batsman="4" score="119"/>
+    <FallOfWicket batsman="5" score="122"/>
+    <FallOfWicket batsman="2" score="150"/>
+    <FallOfWicket batsman="6" score="151"/>
+    <FallOfWicket batsman="8" score="159"/>
+    <FallOfWicket batsman="9" score="169"/>
+    <FallOfWicket batsman="10" score="169"/>
+    <FallOfWicket batsman="7" score="223"/>
+    <BowlerSummary name="J Davis" overs="6" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="J Mendy" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="A Ribaude" overs="8" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="C Herriot" overs="10" maidens="1" runs="40" wickets="3"/>
+    <BowlerSummary name="M Ribaude" overs="5" maidens="0" runs="38" wickets="4"/>
+    <BowlerSummary name="P Lofty" overs="2.3" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

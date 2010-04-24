@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:31 UTC+0100 2010 -->
+<CricketMatch oppo="Harrow On TheHill" date="Sun Sep 22 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Harrow On TheHill">
+    <Batsman name="A Shah">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Patel">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="David Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="T Read">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Fisher">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Callway">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Graham">
+      <HowOut how="Not Out"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="O Ledgard">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Ayling">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Klewin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="3" runs="28" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="3" runs="25" wickets="2"/>
+    <BowlerSummary name="James Hollidge" overs="13" maidens="2" runs="67" wickets="3"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="1" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Graham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="D Klewin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="D Klewin"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Ayling"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Klewin"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Klewin"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="D Klewin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Smith"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="O Ledgard"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Hollidge">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="D Graham" overs="4" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="T Read" overs="4" maidens="1" runs="4" wickets="0"/>
+    <BowlerSummary name="J Ayling" overs="4" maidens="3" runs="4" wickets="1"/>
+    <BowlerSummary name="D Klewin" overs="7" maidens="0" runs="24" wickets="5"/>
+    <BowlerSummary name="M Smith" overs="9" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="O Ledgard" overs="5" maidens="2" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

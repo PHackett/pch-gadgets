@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:32 UTC+0100 2010 -->
+<CricketMatch oppo="Frieth" date="Sat Apr 27 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Frieth">
+    <Batsman name="D Cannon">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Scarbrow">
+      <HowOut how="Caught Paul Siddell"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="P Howell">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="N Jeavons">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Towey">
+      <HowOut how="LBW"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Barnes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Dawson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Hutchinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Pocock">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="F Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="16" maidens="4" runs="36" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="2" runs="28" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Paul Siddell" overs="6" maidens="1" runs="8" wickets="2"/>
+    <BowlerSummary name="David Taylor" overs="0.2" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Howell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Barnes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Extras value="1"/>
+    <BowlerSummary name="P Howell" overs="8" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="A Barnes" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="S Hutchinson" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="D Cannon" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="C Pocock" overs="4" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

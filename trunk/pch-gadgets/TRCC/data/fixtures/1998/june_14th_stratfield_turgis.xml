@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:53 UTC+0100 2010 -->
+<CricketMatch oppo="Stratfield Turgis" date="Sun Jun 14 00:00:00 UTC+0100 1998">
+  <MatchReport>
+    <![CDATA[
+      Abandoned due to rain
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Graham Woodhouse"/>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Greg Neall"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Brandon Theron"/>
+    <Batsman name="Alex Neall"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="0"/>
+    <BowlerSummary name="Knighton" overs="4.1" maidens="2" runs="7" wickets="0"/>
+    <BowlerSummary name="Toman" overs="4" maidens="1" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Stratfield Turgis">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

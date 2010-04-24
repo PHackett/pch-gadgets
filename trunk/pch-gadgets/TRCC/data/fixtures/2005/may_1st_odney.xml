@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:45 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 1 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       And so it begins ... 
+      <p>
+       Beyond the wildest hopes of the participants given the
+      gloomy weather forecasts to be had in the preceding few days, a beautiful day greeted the teams as
+      Twyford played host to Odney in the opening game of the 2005 season. 
+      <p>
+       Upon winning
+      the toss Twyford elected to bat, putting off, if only for a couple of hours, the time when the
+      winter-atrophied muscles of the home side were to be tested. A great start was made by Cochrane,
+      despite a nasty groin strain severely limiting his movement. The 50 was soon up, helped by some
+      lacklustre bowling from Odney. But with a change of bowlers, came a change of fortune. The
+      15<sup>th</sup> over saw two wickets fall and runs become rare. Knight, with grim determination,
+      helped the runs along, and later Dunsford added a valuable 13. Dickie excelled for Odney with only
+      13 runs scored from 11 overs, taking three wickets on the way. 
+      <p>
+       On a wicket moist
+      and spongy after the previous night's thunderstorms, the final total of 130 for 8 certainly gave
+      Twyford something to bowl at. 
+      <p>
+       And certainly things started in Twyford's favour.
+      Runs were at a premium and, despite a few dropped catches, wickets were falling. By the end of the
+      21<sup>st</sup> over Odney were in trouble at 42-4. But the batsmen dug deep, and would not submit.
+      There was never much chance of an Odney win, but the held out resolutely against Twyford for a well
+      deserved draw. 
+      <p>
+       All in all, a very pleasant start to what we hope will be a fine
+      season! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rolland"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nunn"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rolland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="1" score="60"/>
+    <FallOfWicket batsman="5" score="71"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="7" score="119"/>
+    <FallOfWicket batsman="4" score="128"/>
+    <FallOfWicket batsman="8" score="129"/>
+    <BowlerSummary name="Rolland" overs="12" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Sinclair" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Nunn" overs="8" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Dardenne" overs="10" maidens="2" runs="35" wickets="0"/>
+    <BowlerSummary name="Dickie" overs="11" maidens="6" runs="13" wickets="3"/>
+    <BowlerSummary name="Smith" overs="5" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Odney">
+    <Batsman name="J Sones">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="S Dardenne">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Dardenne">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="A Finlay">
+      <HowOut how="Caught Jas Lally"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Nunn">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Lovegrove">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Rolland">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Dickie">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="P Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Lovegrove"/>
+    <Batsman name="M Finlay"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="3" runs="26" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="2" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="4" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

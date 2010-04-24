@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:03 UTC+0100 2010 -->
+<CricketMatch oppo="Purley 3" date="Sat Aug 22 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Purley 3">
+    <Batsman name="P Rackley">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="G Kamath">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Pai">
+      <HowOut how="Run Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="J Hinds">
+      <HowOut how="LBW"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="S Dyer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="K Reach">
+      <HowOut how="Caught Gerwyn Leigh"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Purser">
+      <HowOut how="Caught Gerwyn Leigh"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="J Purser">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="P Mattingley">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Carter">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Murphy"/>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="4" score="120"/>
+    <FallOfWicket batsman="3" score="151"/>
+    <FallOfWicket batsman="5" score="153"/>
+    <FallOfWicket batsman="6" score="165"/>
+    <FallOfWicket batsman="7" score="201"/>
+    <FallOfWicket batsman="8" score="201"/>
+    <BowlerSummary name="Jim Quartermain" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="10" maidens="3" runs="39" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="7" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="12" maidens="3" runs="50" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="12" maidens="1" runs="51" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Kamath"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="LBW"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught"/>
+      <Bowler name="B Carter"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="B Carter"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="LBW"/>
+      <Bowler name="N Pai"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Jonathan Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Mattingley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Spence Nichols"/>
+    <Batsman name="Tim Cooper"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="4" score="105"/>
+    <FallOfWicket batsman="2" score="135"/>
+    <FallOfWicket batsman="5" score="142"/>
+    <FallOfWicket batsman="6" score="189"/>
+    <FallOfWicket batsman="8" score="195"/>
+    <BowlerSummary name="P Mattingley" overs="10" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="G Kamath" overs="8" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="B Carter" overs="7" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="J Purser" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Murphy" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="J Hinds" overs="5" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="N Pai" overs="3.4" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

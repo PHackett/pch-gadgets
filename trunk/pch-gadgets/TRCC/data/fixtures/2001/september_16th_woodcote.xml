@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Sep 16 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+      The keeper was one of Woodcote's players who did it for us
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="C Anderban">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="P Roberts">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="D Ravenhill">
+      <HowOut how="Caught S Beamish"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="M Lloyd">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gore">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="James Fort"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="A Waters">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Moses">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Fuller"/>
+    <Batsman name="A Silver"/>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="17" maidens="3" runs="71" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="4" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="5" maidens="0" runs="44" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="D Ravenhill"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Lloyd"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="D Ravenhill"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="P Roberts"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Silver"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Silver"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="G Moses" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="M Lloyd" overs="6" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="D Ravenhill" overs="6" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="A Waters" overs="6" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="A Silver" overs="6" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="S Gore" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="P Roberts" overs="3" maidens="1" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

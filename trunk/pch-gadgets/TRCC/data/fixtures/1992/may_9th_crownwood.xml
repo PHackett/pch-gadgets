@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:36 UTC+0100 2010 -->
+<CricketMatch oppo="Crownwood" date="Sat May 9 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="R Godbowl"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Fuller"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Nye"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Nye"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sanderson"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Rob Lambden">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="R Nye"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Hampton ">
+      <HowOut how="Caught"/>
+      <Bowler name="Sanderson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="11"/>
+    <BowlerSummary name="K Fuller" overs="13" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="R Godbowl" overs="9" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="R Nye" overs="9" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="Sanderson" overs="4" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Berry" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Crownwood">
+    <Batsman name="R Godbowl">
+      <HowOut how="Caught J Hollidge"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="K Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Cartledge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Caught S Abraham"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Knibs">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Brightman">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Sanderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Lindsey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Nye">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wakeling ">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Berry"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Barry Potier" overs="11" maidens="5" runs="15" wickets="5"/>
+    <BowlerSummary name="Steve Abraham" overs="3" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="4" runs="31" wickets="3"/>
+    <BowlerSummary name="James Hollidge" overs="7" maidens="1" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

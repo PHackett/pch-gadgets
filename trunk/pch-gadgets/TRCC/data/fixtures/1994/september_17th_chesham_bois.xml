@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:07 UTC+0100 2010 -->
+<CricketMatch oppo="Chesham Bois" date="Sat Sep 17 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chesham Bois">
+    <Batsman name="M Windett">
+      <HowOut how="Not Out"/>
+      <Runs value="136"/>
+    </Batsman>
+    <Batsman name="J OBrien">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="P Ashwell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Garner">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="R Bresson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Clifford">
+      <HowOut how="Caught Mark Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jed OBrien"/>
+    <Batsman name="J Dickinson"/>
+    <Batsman name="Jnr Windett"/>
+    <Batsman name="D Colwell"/>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="103"/>
+    <FallOfWicket batsman="3" score="108"/>
+    <FallOfWicket batsman="4" score="199"/>
+    <FallOfWicket batsman="5" score="225"/>
+    <FallOfWicket batsman="6" score="255"/>
+    <BowlerSummary name="Chris Taylor" overs="10" maidens="2" runs="52" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="3" runs="45" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="8" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="119"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Run Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Colwell"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="5" score="24"/>
+    <FallOfWicket batsman="6" score="143"/>
+    <FallOfWicket batsman="7" score="210"/>
+    <BowlerSummary name="P Clifford" overs="16" maidens="2" runs="44" wickets="4"/>
+    <BowlerSummary name="D Colwell" overs="14" maidens="3" runs="48" wickets="1"/>
+    <BowlerSummary name="M Windett" overs="6" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="P Ashwell" overs="8" maidens="0" runs="56" wickets="0"/>
+    <BowlerSummary name="R Garner" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

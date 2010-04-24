@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 30 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="S Jeffrey"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="L Rimmer"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="J Rimmer"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Jeffrey"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Thomas"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="H Thomas"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Greg Orton">
+      <HowOut how="Caught"/>
+      <Bowler name="H Thomas"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Thomas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Smith"/>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="121"/>
+    <FallOfWicket batsman="1" score="124"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <FallOfWicket batsman="5" score="159"/>
+    <FallOfWicket batsman="8" score="159"/>
+    <FallOfWicket batsman="7" score="165"/>
+    <BowlerSummary name="J Rimmer" overs="7" maidens="4" runs="6" wickets="1"/>
+    <BowlerSummary name="L Rimmer" overs="7" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="H Thomas" overs="10" maidens="1" runs="50" wickets="4"/>
+    <BowlerSummary name="J Clarke" overs="4" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="S Jeffrey" overs="6" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="N Robinson" overs="6" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="M Woods">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="A Woods">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Lunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="J Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Jeffrey">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Robinson">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="M Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Rimmer"/>
+    <Batsman name="L Rimmer"/>
+    <Batsman name="K Clarke"/>
+    <Batsman name="H Thomas"/>
+    <Extras value="11"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="1" runs="68" wickets="2"/>
+    <BowlerSummary name="Chris Smith" overs="8" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="1" runs="42" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="5.3" maidens="0" runs="40" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

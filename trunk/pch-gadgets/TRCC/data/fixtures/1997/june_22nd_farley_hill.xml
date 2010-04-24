@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:42 UTC+0100 2010 -->
+<CricketMatch oppo="Farley Hill" date="Sun Jun 22 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Munroe"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wagstaffe"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Shaw"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="Wagstaffe"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Shaw"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wagstaffe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Shaw"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="Wagstaffe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Shaw"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Rylatt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Munroe" overs="7" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Clacey" overs="14" maidens="4" runs="32" wickets="0"/>
+    <BowlerSummary name="Wagstaffe" overs="15" maidens="3" runs="36" wickets="4"/>
+    <BowlerSummary name="Shaw" overs="10.2" maidens="4" runs="18" wickets="4"/>
+    <BowlerSummary name="Rylatt" overs="3" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Farley Hill">
+    <Batsman name="Bendall">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Salter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="McCathy">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Devlin">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Asley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Clacey">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Rylatt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="L Wagstaffe">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Wagstaffe">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Munroe"/>
+    <Extras value="7"/>
+    <BowlerSummary name="David Downes" overs="16" maidens="2" runs="38" wickets="4"/>
+    <BowlerSummary name="Matt Morris" overs="11" maidens="2" runs="57" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

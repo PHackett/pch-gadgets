@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Hawley" date="Sun Jun 4 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stevens"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Adams"/>
+      <Runs value="127"/>
+    </Batsman>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="S McNab"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="John Moore"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Rawlins" overs="9" maidens="3" runs="29" wickets="0"/>
+    <BowlerSummary name="Sinclair" overs="3" maidens="2" runs="2" wickets="0"/>
+    <BowlerSummary name="Stevens" overs="7" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Hargreaves" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Clay" overs="4" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Scott" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Taylor" overs="4" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="J Adams" overs="3" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Hawley">
+    <Batsman name="D Clay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Adams">
+      <HowOut how="Caught J Moore"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="B Lucas">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Sinclair">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Taylor">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="T Hargreaves">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="S Amy">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Stevens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Rawlins">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="John Moore" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="32" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="3" maidens="2" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

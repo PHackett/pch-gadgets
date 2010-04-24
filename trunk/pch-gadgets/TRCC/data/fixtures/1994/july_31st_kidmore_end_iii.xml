@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:05 UTC+0100 2010 -->
+<CricketMatch oppo="Kidmore End III" date="Sun Jul 31 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="128"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Beagley"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Jez Henry"/>
+    <Batsman name="Kim Knight"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Jack Hollidge"/>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="David Downes"/>
+    <Extras value="26"/>
+    <BowlerSummary name="New" overs="6" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Hullock" overs="6" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Beddow" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Curzon" overs="5" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Beagley" overs="4" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Nathan" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Hawkins" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Kidmore End III">
+    <Batsman name="P Nathan">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="David Downes"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="N Beagley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Curzon">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Hullock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="E Hawkins">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Butler">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="T Hawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="J Patey">
+      <HowOut how="Caught James Hollidge"/>
+      <Bowler name="James Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D New">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Beddow">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Sheldon">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="16" maidens="7" runs="41" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="7" maidens="2" runs="11" wickets="2"/>
+    <BowlerSummary name="James Hollidge" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="1.2" maidens="1" runs="0" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

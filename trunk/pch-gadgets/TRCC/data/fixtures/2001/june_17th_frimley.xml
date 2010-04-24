@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:45 UTC+0100 2010 -->
+<CricketMatch oppo="Frimley" date="Sun Jun 17 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       A new fixture for Twyford was played at Frimley's spare ground in the middle of Camberley. A well
+      maintained council ground surrounded by mature trees in a pleasant leafy suburb. Frimley were put
+      into bat by Twyford and made a good start. A small boundary and an excellent outfield helped keep
+      their score ticking along. Twyford were unlucky as, on a wicket made very damp by torrential rain
+      the day before, they had to endure many miss-timed strokes, looping through the field and missing
+      waiting hands. However generally good fielding and an attacking spell by spinning skipper Nic
+      Downes, at the close of the innings kept the score to a manageable 185 for 7 off of 47 overs.
+      <P></P> Nic Downes kept a steady hand on the wheel as he played anchor in parternships with Woodman
+      and then Wren. With the score at 83 for 2 and 10 minutes before the start of the 20 overs Twyford
+      were well placed. The dismissal of the skipper at this point proved costly as wickets started to
+      fall regularly. Although never quite out of the game things slipped a little further away with every
+      wicket until the side were dismissed with some 3 overs still to go. A theme this season is Twyford's
+      inability to establish middle order partnerships and only when this is turned around are the side
+      likley to start winning on a regular basis. The big plus of the day was a good new fixture
+      established with both sides looking forward to meeting again next year. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Frimley">
+    <Batsman name="P Lion">
+      <HowOut how="Ct S Beamish"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Berridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Hebditch">
+      <HowOut how="Ct S Wren"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dimsdale">
+      <HowOut how="Ct R Seymour"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Regan">
+      <HowOut how="St P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Allen">
+      <HowOut how="Ct S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Cornell">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dunford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Durham">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="2" runs="37" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="10" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="12" maidens="1" runs="48" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="29" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Ct"/>
+      <Bowler name="Allen"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Ct"/>
+      <Bowler name="A Lion"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="A Lion"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Ct"/>
+      <Bowler name="A Lion"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Ct"/>
+      <Bowler name="Wildsmith"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Ct"/>
+      <Bowler name="Durham"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct"/>
+      <Bowler name="Wildsmith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Ct"/>
+      <Bowler name="Dunford"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Stumped"/>
+      <Bowler name="Wildsmith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Dunford" overs="9" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Allen" overs="7" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Regan" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="A Lion" overs="8" maidens="4" runs="16" wickets="3"/>
+    <BowlerSummary name="Durham" overs="7" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Wildsmith" overs="4" maidens="0" runs="15" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

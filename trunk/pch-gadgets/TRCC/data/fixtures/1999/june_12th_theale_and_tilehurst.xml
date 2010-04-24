@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:06 UTC+0100 2010 -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sat Jun 12 08:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="D Codd">
+      <HowOut how="Caught"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="E Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Hussain">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="M Pyke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="E Choules">
+      <HowOut how="Caught"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="C Cutting">
+      <HowOut how="Caught"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Cumming">
+      <HowOut how="Ct"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Iqbal">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Jenkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Pendleton">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Pazir">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Andrew Jackson" overs="10.2" maidens="2" runs="42" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="3" runs="35" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Graham Woodhouse" overs="8" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="6" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Ct"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Ct"/>
+      <Bowler name="D Pazir"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct"/>
+      <Bowler name="D Pazir"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Ct"/>
+      <Bowler name="D Pazir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="M Iqbal" overs="19" maidens="8" runs="37" wickets="3"/>
+    <BowlerSummary name="R Pendleton" overs="11" maidens="4" runs="28" wickets="0"/>
+    <BowlerSummary name="D Pazir" overs="9" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="D Cumming" overs="6" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

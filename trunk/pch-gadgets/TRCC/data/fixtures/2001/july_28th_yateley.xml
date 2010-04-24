@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:48 UTC+0100 2010 -->
+<CricketMatch oppo="Yateley" date="Sat Jul 28 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       A glorious day turned into a nightmare as Twyford fell to a convincing loss to Yateley and slipped
+      into the relegationo zone in division 1. The going was tough from the start as wickets fell early to
+      the accurate bowling of Barratt. Only Connor (36) and Kemp (34*) troubled the scorers in a poor
+      total which saw Twyford only manage 123 from their 45 overs! 
+      <p>
+       In reply Yateley
+      again got off to a quick start as Massey emulated the home game and scored 61 runs very quickly.
+      Once he was out they looked a different side but only chasing 123 it was a foregone conclusion. The
+      only worry was whether they would attain 125 and pick up an extra batting point. With the score on
+      123 the innings stalled and a diving stop by Hobson denied the extra point as Downes, bored by the
+      proceedings, bowled a wide to end the game.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="S Massey"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="LBW"/>
+      <Bowler name="Barratt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barratt"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="Barratt"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="S Massey"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mant"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Massey"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Lipo" overs="7" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Barratt" overs="8" maidens="5" runs="4" wickets="3"/>
+    <BowlerSummary name="S Massey" overs="16" maidens="3" runs="51" wickets="3"/>
+    <BowlerSummary name="Mant" overs="14" maidens="2" runs="33" wickets="1"/>
+  </Innings>
+  <Innings batting="Yateley">
+    <Batsman name="S Massey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="K Denton">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Hutton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Sanmeterio">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Brandon Theron" overs="5" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="6" maidens="1" runs="50" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="2" runs="19" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

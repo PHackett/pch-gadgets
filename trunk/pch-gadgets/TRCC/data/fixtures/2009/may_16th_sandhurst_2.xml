@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="Sandhurst 2" date="Sat May 16 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Clapham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="M Clapham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught"/>
+      <Bowler name="R Stone"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="M Clapham"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Malla"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Stone"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Malla"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="S Malla"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Coxwell"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="S Malla"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="6" score="87"/>
+    <FallOfWicket batsman="7" score="133"/>
+    <FallOfWicket batsman="8" score="133"/>
+    <FallOfWicket batsman="5" score="142"/>
+    <FallOfWicket batsman="10" score="142"/>
+    <FallOfWicket batsman="9" score="164"/>
+    <BowlerSummary name="S Coxwell" overs="13" maidens="6" runs="36" wickets="1"/>
+    <BowlerSummary name="M Clapham" overs="12" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="R Stone" overs="7" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="C Hall" overs="1" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="A Clapham" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="S Malla" overs="6" maidens="0" runs="14" wickets="4"/>
+  </Innings>
+  <Innings batting="Sandhurst 2">
+    <Batsman name="A Birch">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="N Birt">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Speakman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Clapham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Stone">
+      <HowOut how="Stumped"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Honey">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="J Moss">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Hall">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Malla">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Clapham">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Coxwell">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="36"/>
+    <BowlerSummary name="Steve Beamish" overs="6.5" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="12" maidens="1" runs="27" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="15" maidens="2" runs="50" wickets="4"/>
+    <BowlerSummary name="Raja Singh" overs="11" maidens="3" runs="26" wickets="2"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="1.1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

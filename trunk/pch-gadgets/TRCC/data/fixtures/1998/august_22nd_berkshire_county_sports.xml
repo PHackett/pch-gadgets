@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:56 UTC+0100 2010 -->
+<CricketMatch oppo="Berkshire County Sports" date="Sat Aug 22 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Berkshire County Sports">
+    <Batsman name="G Legg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="M Chappell">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Watts">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Drain">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Brown"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="B Norman">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="R Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Harrison">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="D Borrow">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Plunckett">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="G Jewell">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Brown"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Ronayne Churchill-Brown" overs="15.2" maidens="9" runs="32" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="1" runs="53" wickets="4"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="0" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Caught"/>
+      <Bowler name="A Harrison"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Jewell"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ronayne Churchill-Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Jewell"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="A Watts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Jewell"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Jewell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Watts"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="DNB"/>
+    <Extras value="1"/>
+    <BowlerSummary name="A Harrison" overs="8" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="G Jewell" overs="14.1" maidens="4" runs="20" wickets="4"/>
+    <BowlerSummary name="A Watts" overs="7" maidens="2" runs="18" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

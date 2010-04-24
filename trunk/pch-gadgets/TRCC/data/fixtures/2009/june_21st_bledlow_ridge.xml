@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Jun 21 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      Bledlow Ridge, and the name suggests, is an exposed place, where if the weather has a mind to, a
+      fierce wind can tear across the pitch. But no such dramatics this weekend - It started out a bit
+      cloudy but continued to improve through the afternoon, to end in a glorious, cloud-free evening. A
+      long hike for the men of Twyford, but worth it!
+      <p>
+      After winning the toss, TRCC captain
+      H Fort elected to field first, but Twyford's bowling was, shall we say, &quot;un-even&quot;. Hackett
+      was tight in his opening spell of 7 overs, giving up just 14 runs, while 58 was made in the same
+      time from the other end! Bledlow's openers continued to make hay, both Bailey &amp; N Hale scoring
+      fine, untroubled 50s. Twyford could find no answer to the onslaught. Nevertheless, the fielding was
+      definitely up to scratch, preventing a complete deluge of runs, and the change of bowling brought
+      some relief for the visitors. But then Wood came to the crease, seemingly believing he was playing a
+      20-20 match, striking the ball all around the ground and reaching his 50 off very few deliveries.
+      When the home side declared on 247-6, it was a weary and somewhat disheartened Twyford team that
+      returned to the dressing rooms. But the pitch was playing well, and the short-cut outfield, sloping
+      away gently in all directions, promised runs for those who would take them. Could Twyford avoid
+      their customary batting collapse?
+      <p>
+      Things began well, with many a boundary flowing
+      from the bat, but Benjamin was dismissed in the 5th over, caught smartly behind. However new batsman
+      Baker, following the example of the experienced opener Woodman (another 50! How many is that now?),
+      put on an excellent performance, recording his highest total for the club to date before being
+      bowled on 45. Smith continued the fine batting form, as did both C &amp H Fort later - What looked
+      like one of the weaker batting line-ups for the visitors was showing a lot more backbone than was
+      anticipated! 
+      <p>
+      Bledlow did a fine job of mixing up the bowling, with 8 of the side
+      getting a turn, but the end began to look inevitable - a Draw. And so it was, but such a beautiful
+      location, such friendly and sporting opponents (and such a fine tea!), and a beautiful mid-summer's
+      day - No one was disappointed. in the least.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="I Baily">
+      <HowOut how="Bowled"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="N Hale">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="D Strange">
+      <HowOut how="Caught Josh Baker"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Wood">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="D Wood">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="I Murdoch">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Hale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Mauner">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Grose"/>
+    <Batsman name="J Stevens"/>
+    <Extras value="36"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="1" runs="35" wickets="2"/>
+    <BowlerSummary name="Josh Baker" overs="11" maidens="2" runs="65" wickets="1"/>
+    <BowlerSummary name="Brandon Theron" overs="3" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="8" maidens="0" runs="56" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="I Murdoch"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Hale"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="N Hale"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Murdoch"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Paul Hackett"/>
+    <Batsman name="Joe Leadbetter"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="1" score="142"/>
+    <FallOfWicket batsman="4" score="190"/>
+    <FallOfWicket batsman="5" score="205"/>
+    <FallOfWicket batsman="6" score="217"/>
+    <BowlerSummary name="I Murdoch" overs="8" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="G Grose" overs="5" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="D Mauner" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="J Hale" overs="5" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="J Stevens" overs="4" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="I Baily" overs="7" maidens="1" runs="42" wickets="0"/>
+    <BowlerSummary name="B Wood" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="N Hale" overs="4" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

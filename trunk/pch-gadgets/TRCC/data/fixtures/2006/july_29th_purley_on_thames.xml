@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="Purley on Thames" date="Sat Jul 29 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Purley on Thames">
+    <Batsman name="B Glossop">
+      <HowOut how="LBW"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Whittaker">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Buck">
+      <HowOut how="Caught Chris Smith"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Ahmed">
+      <HowOut how="Caught Gerwyn Leigh"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Lincoln">
+      <HowOut how="Caught Chris Smith"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="C Rackley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="P Lincoln">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Patel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Harwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Lincoln">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Carter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Chris Smith" overs="6" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="7" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="12" maidens="3" runs="35" wickets="1"/>
+    <BowlerSummary name="Nathan Eddy" overs="13.1" maidens="4" runs="26" wickets="7"/>
+    <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Patel"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Patel"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Patel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ahmed"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Chris Smith"/>
+    <Extras value="30"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="43"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="3" score="53"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <BowlerSummary name="D Lincoln" overs="7.5" maidens="2" runs="33" wickets="0"/>
+    <BowlerSummary name="J Harwood" overs="10" maidens="2" runs="32" wickets="0"/>
+    <BowlerSummary name="Ahmed" overs="6" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="B Patel" overs="6" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="B Carter" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="P0 Lincoln" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

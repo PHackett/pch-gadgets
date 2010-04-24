@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:18 UTC+0100 2010 -->
+<CricketMatch oppo="Brading" date="Mon Aug 28 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="A Woodhouse"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="R Binson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Cox"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paflin"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Paflin"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Tillbrook"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Tillbrook"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Siddell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Attlee"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Hailes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Mitchel"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="A Woodhouse" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="R Binson" overs="8" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="R Tillbrook" overs="5" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Paflin" overs="6" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="D Tillbrook" overs="4" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="R Cox" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="I Hailes" overs="2" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="M(Jnr) Mitchel" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="M(Snr) Mitchel" overs="1" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="D Attlee" overs="1" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+  <Innings batting="Brading">
+    <Batsman name="A Paflin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Tillbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Atrill">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Tillbrook">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="I Hailes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Cox">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Woodhouse">
+      <HowOut how="Not Out"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="R Binson">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M(Snr) Mitchel">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="D Barsdell">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M(Jnr) Mitchel"/>
+    <Extras value="8"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Paul Siddell" overs="7.5" maidens="4" runs="15" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="1" runs="46" wickets="3"/>
+    <BowlerSummary name="Rod Edney" overs="6" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

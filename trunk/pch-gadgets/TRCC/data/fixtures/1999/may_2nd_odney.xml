@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:03 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 2 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Stumped"/>
+      <Bowler name="Charles"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rhodes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chapman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Weight"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charles"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Weight"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="Charles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Weight"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Chris Fort"/>
+    <Extras value="12"/>
+    <BowlerSummary name="C Nunn" overs="9" maidens="4" runs="17" wickets="0"/>
+    <BowlerSummary name="R Weight" overs="9" maidens="0" runs="30" wickets="3"/>
+    <BowlerSummary name="Chapman" overs="8" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Rhodes" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Herzoog" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Charles" overs="7" maidens="1" runs="23" wickets="3"/>
+  </Innings>
+  <Innings batting="Odney">
+    <Batsman name="J Sones">
+      <HowOut how="Caught D Taylor"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Walker">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Dickie">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Nunn">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Herzoog">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Faulkner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="G Charles">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Chapman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Hayward">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Weight">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Rhodes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="3" runs="14" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="2" runs="5" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="2" runs="9" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="3" runs="6" wickets="4"/>
+    <BowlerSummary name="David Taylor" overs="2.2" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

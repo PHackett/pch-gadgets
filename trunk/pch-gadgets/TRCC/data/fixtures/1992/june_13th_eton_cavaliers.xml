@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:36 UTC+0100 2010 -->
+<CricketMatch oppo="Eton Cavaliers" date="Sat Jun 13 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Eton Cavaliers">
+    <Batsman name="T Hayles">
+      <HowOut how="Caught J Hollidge"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Benjamin">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Feeney">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Ansell">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Pitcher">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Jay">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="K Rhodes">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="M Tapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="R Weeks">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="K Reeves">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Ken Cochrane" overs="12" maidens="2" runs="34" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="2" runs="15" wickets="4"/>
+    <BowlerSummary name="James Hollidge" overs="8" maidens="0" runs="58" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="3.4" maidens="0" runs="31" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Tapp"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="A Lawrence"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Pitcher"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Whitaker">
+      <HowOut how="Caught"/>
+      <Bowler name="A Lawrence"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="17"/>
+    <BowlerSummary name="A Lawrence" overs="12" maidens="4" runs="19" wickets="2"/>
+    <BowlerSummary name="A Pitcher" overs="17" maidens="2" runs="39" wickets="4"/>
+    <BowlerSummary name="M Tapp" overs="9" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Jay" overs="2" maidens="1" runs="2" wickets="0"/>
+    <BowlerSummary name="T Hayles" overs="2" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

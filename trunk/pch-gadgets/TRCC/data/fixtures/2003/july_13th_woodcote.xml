@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 13 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       The most glorious summer's day of the year saw Woodcote escaping the Steam Rally to Vist Twyford.
+      Winning the toss, Twyford wisely put Woodcote in the field, on a day where the heat was sure to be a
+      factor. 
+      <p>
+       A solid start by Twyford was cut short by J Warsfold leaving the batting
+      side on 34-2. But a fine innings of 86 by Tom Hall with good support by Tom Fort and Rod Edney
+      powered Twyford on to a total of 202 by the end of the innings. This despite a fine spell by
+      Anderson late in the innings, taking 3-12 of only 3 overs. 
+      <p>
+       In reply, Woodcote came
+      under pressure early, and after 9 overs were 35-3, with Hackett proving effective in a tight opening
+      spell. When the stand of 31 between Devenish and Gore was broken with the score on 63, wickets
+      started falling regularly. Worth especial mention for his bowling was S Walkland, playing his first
+      game for Twyford who finished with figures of 4-2-6-2. Woodcote were all out for 91
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="J Versfold"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Versfold"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Aldridge"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Anderson"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Anderson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="C Anderson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="95"/>
+    <FallOfWicket batsman="5" score="159"/>
+    <FallOfWicket batsman="6" score="163"/>
+    <FallOfWicket batsman="7" score="179"/>
+    <FallOfWicket batsman="4" score="183"/>
+    <BowlerSummary name="P Deveinish" overs="10" maidens="4" runs="25" wickets="0"/>
+    <BowlerSummary name="J Versfold" overs="13" maidens="2" runs="52" wickets="2"/>
+    <BowlerSummary name="B Tindell" overs="8" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="I Ayres" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="C Anderson" overs="3" maidens="0" runs="12" wickets="3"/>
+    <BowlerSummary name="J Aldridge" overs="4" maidens="0" runs="36" wickets="1"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="C Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="I Ayres">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Alloway">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Deveinish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Gore">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Higley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T OSullivan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Warsfold">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Tindell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="6" score="72"/>
+    <FallOfWicket batsman="8" score="77"/>
+    <FallOfWicket batsman="7" score="84"/>
+    <FallOfWicket batsman="9" score="91"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="15" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="4" maidens="2" runs="6" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="3" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Drew Evans" overs="1.2" maidens="0" runs="7" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:35 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sun Jul 12 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Huggens"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Skilleter"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Paul Howells"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Skilleter" overs="13" maidens="1" runs="49" wickets="1"/>
+    <BowlerSummary name="Dunn" overs="6" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Larkins" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Cusden" overs="6" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Huggens" overs="8" maidens="0" runs="63" wickets="1"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="F Dorkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Cusden">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Dunn">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="D Blundy">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Howse">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Larkins">
+      <HowOut how="Caught P Hackett"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Skilleter">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Huggens">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A McLaren">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Eycott">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="4" runs="13" wickets="7"/>
+    <BowlerSummary name="Paul Hackett" overs="0.3" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

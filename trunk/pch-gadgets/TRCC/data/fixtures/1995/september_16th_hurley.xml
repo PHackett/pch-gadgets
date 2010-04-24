@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:20 UTC+0100 2010 -->
+<CricketMatch oppo="Hurley" date="Sat Sep 16 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hurley">
+    <Batsman name="R Woodage">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Dawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Dawkins">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="David Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="D Atkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Greene">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Cole">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="M Taylor">
+      <HowOut how="LBW"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Forrest">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Pollitt">
+      <HowOut how="Caught David Taylor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Meade">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Forrest">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="4" score="17"/>
+    <FallOfWicket batsman="5" score="17"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="6" score="76"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="8" score="91"/>
+    <FallOfWicket batsman="9" score="104"/>
+    <FallOfWicket batsman="10" score="119"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="8" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="17.5" maidens="5" runs="50" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="4" runs="23" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Forrest"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Andy Wilkinson"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Tim Sharp"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="David Downes"/>
+    <Extras value="0"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <BowlerSummary name="I Dawkins" overs="5" maidens="2" runs="3" wickets="0"/>
+    <BowlerSummary name="R Woodage" overs="4" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="D Forrest" overs="0.1" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

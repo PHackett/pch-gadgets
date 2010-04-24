@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:00 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 7 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      The rain held off...<br><br>... and then it didn't.
+      <p>
+      Quote of the day -
+      &quot;<em>Leaping down the wicket like a D-day veteran!</em>&quot;
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Higgins">
+      <HowOut how="Caught"/>
+      <Bowler name="Ahmed"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Debney"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Crook"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="Rocky"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Crook"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Fairhead"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught"/>
+      <Bowler name="Crook"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Clements">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rocky"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Rocky"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="5" score="106"/>
+    <FallOfWicket batsman="8" score="107"/>
+    <FallOfWicket batsman="9" score="129"/>
+    <FallOfWicket batsman="7" score="144"/>
+    <FallOfWicket batsman="10" score="144"/>
+    <BowlerSummary name="Ahmed" overs="7" maidens="2" runs="10" wickets="2"/>
+    <BowlerSummary name="Debney" overs="4" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Rooke" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Larkins" overs="7" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Crook" overs="5" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="Rocky" overs="5.2" maidens="1" runs="21" wickets="3"/>
+    <BowlerSummary name="Fairhead" overs="4" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="Dennis">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Holyroyd">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Josh Baker" overs="4" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

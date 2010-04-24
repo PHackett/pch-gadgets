@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:52 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Sep 4 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="M Buckland">
+      <HowOut how="Stumped"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="M Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="113"/>
+    </Batsman>
+    <Batsman name="Darnell">
+      <HowOut how="Stumped"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Thorpe">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="John Hamilton" overs="7" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Chris Taylor" overs="10" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Jack Hollidge" overs="7" maidens="0" runs="59" wickets="2"/>
+    <BowlerSummary name="James Hollidge" overs="6" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught "/>
+      <Bowler name="Powell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="Pople"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="James Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pople"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rob Yeaden"/>
+    <Batsman name="Chris Taylor"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Jack Hollidge"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Crick" overs="6" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="Powell" overs="7" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Pople" overs="8" maidens="2" runs="40" wickets="2"/>
+    <BowlerSummary name="Barfield" overs="7" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Ampleford" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Thorpe" overs="3" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

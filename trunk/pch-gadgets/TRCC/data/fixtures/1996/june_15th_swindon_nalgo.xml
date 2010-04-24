@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:32 UTC+0100 2010 -->
+<CricketMatch oppo="Swindon NALGO" date="Sat Jun 15 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Swindon NALGO">
+    <Batsman name="Steele-Davis">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Storr">
+      <HowOut how="Caught John Hamilton"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="N Ginger">
+      <HowOut how="Not Out"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Griffith">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Demaio">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Walsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Wiggins"/>
+    <Batsman name="Khan"/>
+    <Batsman name="Lineham"/>
+    <Extras value="29"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="36" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="16" maidens="2" runs="70" wickets="4"/>
+    <BowlerSummary name="Peter Dawson" overs="8" maidens="0" runs="46" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="N Ginger"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Khan"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Wiggins"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Stumped"/>
+      <Bowler name="Walsh"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="LBW"/>
+      <Bowler name="Khan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="LBW"/>
+      <Bowler name="Walker"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Wiggins"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Caught"/>
+      <Bowler name="Lineham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="2" score="87"/>
+    <FallOfWicket batsman="6" score="115"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="8" score="134"/>
+    <BowlerSummary name="Wiggins" overs="13" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="N Ginger" overs="11" maidens="4" runs="28" wickets="1"/>
+    <BowlerSummary name="Walsh" overs="8" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Khan" overs="6" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Walker" overs="4" maidens="1" runs="8" wickets="1"/>
+    <BowlerSummary name="Lineham" overs="3" maidens="1" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

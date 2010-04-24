@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:33 UTC+0100 2010 -->
+<CricketMatch oppo="Swindon NALGO" date="Sat Aug 17 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Khan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="S Khan"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Khan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="S Khan"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Ginger"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ginger"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="S Khan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Khan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Reeves">
+      <HowOut how="Caught"/>
+      <Bowler name="S Khan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="6" score="70"/>
+    <FallOfWicket batsman="7" score="79"/>
+    <FallOfWicket batsman="9" score="83"/>
+    <FallOfWicket batsman="10" score="101"/>
+    <BowlerSummary name="Wiggins" overs="14" maidens="5" runs="15" wickets="0"/>
+    <BowlerSummary name="S Khan" overs="14" maidens="6" runs="26" wickets="7"/>
+    <BowlerSummary name="Feney" overs="9" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Ginger" overs="10" maidens="3" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Swindon NALGO">
+    <Batsman name="S Khan">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="N Ginger">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Steele-Davis">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Griffith">
+      <HowOut how="Caught John Hamilton"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="P Penfold">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Walker">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Steele-Davis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M JAMES">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="I Khan">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Wiggins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Feney">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="5" score="39"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="7" score="46"/>
+    <FallOfWicket batsman="9" score="56"/>
+    <FallOfWicket batsman="10" score="75"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="3" runs="35" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="13" maidens="2" runs="35" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

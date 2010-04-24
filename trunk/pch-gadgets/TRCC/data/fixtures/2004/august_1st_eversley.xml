@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Eversley" date="Sun Aug 1 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       On probably the hottest day of the year so far, and certainly the most humid, Twyford travelled to
+      the charming ground at Eversley, Hampshire. 
+      <p>
+       Twyford were delighted when, upon
+      losing the toss they were put into bat. The weather promised an exhausting time in the field, and
+      the tinder dry outfield many runs. But Eversley knew what they were doing, and by only the
+      7<sup>th</sup> over, both Twyford's openers were back in the pavilion with a mere 13 runs on the
+      scoreboard. T Fort and Benson then led a recovery, pushing on the score and the run rate back
+      towards respectability. Eversley fought back, and were rewarded as Angus took 3 wickets in 3 overs,
+      putting Twyford on the back foot. Lower order runs came from H Fort and R Edney, but the final total
+      of 176 for 8 looked woefully small on such a pitch. 
+      <p>
+       But Twyford's bowlers rose to
+      the occasion. Opening spells from Hackett &amp; Dawson saw few loose balls - a dearth of runs but
+      plenty of wickets! By the end of the 11<sup>th</sup> over Eversley were reeling at 30-4. And worse
+      was to follow for the home team with the change of bowlers. After 21 overs the score stood at 78-8,
+      and Twyford smelt victory! 
+      <p>
+       But then the Eversley tail dug in. Never near the
+      required run rate, they would not go quietly, though they were helped by 3 fairly simple dropped
+      catches off the bowling of Morris in 3 successive overs. For 11 overs there was no breakthrough, and
+      only 7 overs of the match remained when the opener Dawson was brought back on to take the final two
+      wickets (One a superb slip catch by T Fort). In the excessive heat, it felt like a well-earned
+      victory to Twyford! 
+      <p>
+       All Twyford's bowlers did well, but special mention should be
+      made of P Dawson, playing in his first match for 5 years taking 4-22, and of P Hackett who took his
+      250<sup>th</sup> wicket for Twyford in this match. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Martin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="D Martin"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Angus"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught"/>
+      <Bowler name="M Angus"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Angus"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="T Lynch"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="S Jones"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Caught"/>
+      <Bowler name="I Heard"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="37"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="86"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="4" score="102"/>
+    <FallOfWicket batsman="7" score="118"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="6" score="149"/>
+    <BowlerSummary name="J Collen" overs="6" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="D Martin" overs="5" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="J Lewis" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="M Angus" overs="8" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="S Jones" overs="5" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="T Lynch" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="I Heard" overs="3" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Eversley">
+    <Batsman name="P Gallagher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Maclaverty">
+      <HowOut how="LBW"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Collen">
+      <HowOut how="Caught Peter Dawson"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="L Macavley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Heard">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Lewis">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Angus">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Lynch">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="5" score="29"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="7" score="41"/>
+    <FallOfWicket batsman="8" score="72"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="9" score="120"/>
+    <FallOfWicket batsman="11" score="124"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Peter Dawson" overs="8.2" maidens="2" runs="22" wickets="4"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="8" maidens="0" runs="43" wickets="3"/>
+    <BowlerSummary name="Matt Morris" overs="5" maidens="1" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

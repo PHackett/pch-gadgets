@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 19 00:00:00 UTC+0100 2002">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Barker"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Sturgis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Radford"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Radford"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <BowlerSummary name="R Barker" overs="10" maidens="5" runs="24" wickets="1"/>
+    <BowlerSummary name="B Sturgis" overs="5" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="D Small" overs="6" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Mellon" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Radford" overs="13" maidens="2" runs="35" wickets="2"/>
+    <BowlerSummary name="R Rogers" overs="8" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="G Jafarwi" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="D Rogers">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Small">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Dale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Barmer">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="S Radford">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Easter">
+      <HowOut how="Caught T Hall"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Rogers">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Sturgis">
+      <HowOut how="Caught T Hall"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Jafarwi">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Mellon">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="36" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="2" runs="15" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="2" runs="27" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="8" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

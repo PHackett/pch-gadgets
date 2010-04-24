@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 14 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      <b><em>All hail the Sun god! Bask in his beauty and majesty!</em></b>
+      <p>
+      After what
+      seemed like miserable grey skies forever, the afternoon was <em>glorious</em>, and TRCC were happy
+      to host Lower Earley at the Stanlake Meadow ground.
+      <p>
+      Winning the toss, the home side
+      decided to bat on what was a true, but very damp wicket from which the ball never 'came on to the
+      bat'. Lower Earley's openers were straight and true - One swinging it out, the other swinging it in,
+      much to the confusion of the batsmen. Runs were in very short supply with that attack, 16 runs off
+      the first 16 overs for the loss of two wickets. But Cochrane decided to attack! On a wicket that was
+      anything but a batsman paradise he had to hit and run hard to reach his first 50 of the season, ably
+      supported by A Smith with a fighting 37. The final total of 132-5 was much more that Twyford had had
+      reason to hope for half way through the innings, and with the slow wicket and very slow outfield it
+      did not look too bad ...
+      <p>
+      But after tea Lower Earley set off at a brisk pace (well,
+      brisk for the circumstances, and far faster than Twyford). Aided by some <em>very</em> poor catching
+      from the home side they reached 45 before the first wicket fell. However, with the change of bowlers
+      TRCC began to apply more pressure, and the catches started to stick! What was at first a very low
+      required run rate began to creep up and the wickets carried on falling. Cochrane - this time with
+      the ball - had success, and as the 20 overs counted down the result was too close to call - With 2
+      overs remaining the opposition was on 119-9. In the end, it honours were shared as they game ended
+      in a tight draw.
+      <p>
+      A fine game then, with a great opposition. But mainly it felt so
+      good to see blue sky and the Sun once more ...
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Doughty"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Hunt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Doughty"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Doughty"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hunt"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="4" score="104"/>
+    <FallOfWicket batsman="5" score="121"/>
+    <FallOfWicket batsman="3" score="121"/>
+    <BowlerSummary name="Doughty" overs="15" maidens="5" runs="33" wickets="3"/>
+    <BowlerSummary name="Hunt" overs="10" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="Harwood" overs="4" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Sharma" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Karamay" overs="6" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Ellans" overs="3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Lower Earley">
+    <Batsman name="Gomes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Baer">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Khan">
+      <HowOut how="Caught Tim Cooper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Williams">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sharma">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Karamay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hunt">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ellans">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Doughty">
+      <HowOut how="Stumped"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Harwood">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Maynard">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="45"/>
+    <FallOfWicket batsman="3" score="59"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="8" score="109"/>
+    <FallOfWicket batsman="7" score="118"/>
+    <FallOfWicket batsman="9" score="125"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="7" maidens="1" runs="21" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="17" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

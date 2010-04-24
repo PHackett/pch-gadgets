@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:48 UTC+0100 2010 -->
+<CricketMatch oppo="Hawley" date="Sat Aug 4 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford won the toss and fielded in this crunch meeting between two sides desperate to survive in
+      division 1. With the pitch very green and soft and clouds in the sky the impression was that batting
+      would be tough and an early breakthrough could set the tone of the game. Jackson made the early
+      breakthrough by bowling Hargreaves in the first over with the score on nought but from then on
+      things were much tougher with Gentle and Freakes punishing each bad ball. The bowling was poor, with
+      the exception of Jackson, who was not given any support but still managed to take 3 wickets. 
+     
+      <p>
+       The remaining bowling was dispatched to all parts and the field became very defensive in
+      an attempt to reduce the run rate to less than 6 an over. A couple of missed chances proved costly
+      but then the savour turned out to be the weather which called a halt to the game shortly before tea.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Hawley">
+    <Batsman name="Hargreaves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gentle">
+      <HowOut how="Caught T Hall"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Freakes">
+      <HowOut how="Not Out"/>
+      <Runs value="112"/>
+    </Batsman>
+    <Batsman name="Steyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Clay">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Andrew Jackson" overs="18" maidens="3" runs="79" wickets="3"/>
+    <BowlerSummary name="Alex Neall" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Richard Hobson" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

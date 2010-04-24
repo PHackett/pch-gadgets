@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:53 UTC+0100 2010 -->
+<CricketMatch oppo="Pinkneys Green" date="Sun Jun 7 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Pinkneys Green">
+    <Batsman name="A Knapper">
+      <HowOut how="Bowled B Theron"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="K Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Ferguson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Coulling">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Newport">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Craythorne">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="M Ashcroft">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lawrence Neall"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="M Davey">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Elliot">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="L Anderson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Rusfed">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="4" runs="42" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="1" runs="55" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Brandon Theron" overs="5" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Lawrence Neall" overs="4" maidens="0" runs="23" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Cox"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="D Craythorne"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Craythorne"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Craythorne"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Craythorne"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Newport"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Knapper"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="R Ferguson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Lawrence Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Knapper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="L Anderson" overs="8" maidens="3" runs="17" wickets="0"/>
+    <BowlerSummary name="P Rusfed" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="M Elliot" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="D Craythorne" overs="12" maidens="1" runs="31" wickets="4"/>
+    <BowlerSummary name="K Cox" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="M Newport" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="R Ferguson" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="A Knapper" overs="2" maidens="0" runs="4" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

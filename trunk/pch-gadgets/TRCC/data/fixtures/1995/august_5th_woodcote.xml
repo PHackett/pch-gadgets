@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:19 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sat Aug 5 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roberts"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Browning"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Choules">
+      <HowOut how="Run Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="LBW"/>
+      <Bowler name="Browning"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Roberts"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Waters"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="A Waters"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Waters"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Waters"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="4" score="35"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="5" score="112"/>
+    <FallOfWicket batsman="6" score="128"/>
+    <FallOfWicket batsman="8" score="135"/>
+    <FallOfWicket batsman="7" score="158"/>
+    <FallOfWicket batsman="10" score="158"/>
+    <FallOfWicket batsman="11" score="162"/>
+    <BowlerSummary name="Browning" overs="11.3" maidens="2" runs="36" wickets="2"/>
+    <BowlerSummary name="Roberts" overs="12" maidens="4" runs="30" wickets="2"/>
+    <BowlerSummary name="Bowdery" overs="8" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="G Hermitage" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="A Waters" overs="7" maidens="1" runs="20" wickets="4"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="Donnelly">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="S Peates">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="G Hermitage">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="D Ravenhill">
+      <HowOut how="Caught Mike Choules"/>
+      <Bowler name="David Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Waters">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Barry Potier" overs="11" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="Peter Dawson" overs="5.5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="4" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Graham Kemp" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

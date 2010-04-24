@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="Harpsden" date="Sun Jul 14 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       A new fixture saw Twyford playing at the beautiful Harpsden ground just outside Henley. On one of
+      the best Sundays of the summer the place was a picture. Twyford lost the toss and were invited to
+      bowl. A very low yet even wicket was difficult to score on and Hackett and Abraham soon had the home
+      side reeling at 26 for 5. The introduction of spin gave Harpsden freedom to play some shots and
+      their score started to mount. Evans however bowled very well and the leggy finished with career best
+      figures of 4 for 23. 
+      <p>
+       Twyford chasing a modest target of 117 made a terrible start
+      loosing their first two wickets for just one run and it looked as though they were about to struggle
+      much as Harpsden had done. An aggressive and very authoritative 42 from Wren put the game firmly
+      Twyford's way. Seymour and Hall then finished things off with some more robust strokes for what in
+      the end was a comfortable victory. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Harpsden">
+    <Batsman name="Butler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stormont">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Sweet">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Michel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandip">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rig-Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Jai">
+      <HowOut how="Ct Seymour"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Birkett">
+      <HowOut how="Ct Hall"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Shiva">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Bright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Whiting">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="3" runs="8" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="10" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="6.5" maidens="0" runs="23" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sandip"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="c Sandip"/>
+      <Bowler name="Birkett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sandip"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Ct Sweet"/>
+      <Bowler name="Bright"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Alex Neall"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="8"/>
+    <BowlerSummary name="Birkett" overs="7" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Sandip" overs="5.2" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Shiva" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Bright" overs="5" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Sweet" overs="5" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

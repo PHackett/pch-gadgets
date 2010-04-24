@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:05 UTC+0100 2010 -->
+<CricketMatch oppo="Island Bakeries" date="Fri Aug 26 00:00:00 UTC+0100 1994">
+  <MatchReport>
+    <![CDATA[
+      This was a Limited Overs match, that apparently should not be included in the averages (But is!).
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Island Bakeries">
+    <Batsman name="R Webb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M McCreanor">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="R Mew">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="S Winter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="T Cook">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="T Brook">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Morgan">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Tolley"/>
+    <Batsman name="G Smith"/>
+    <Batsman name="B Cook"/>
+    <Batsman name="D Richards"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Robin Reynolds" overs="4" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="4" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="1" maidens="0" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Jez Henry">
+      <HowOut how="LBW"/>
+      <Bowler name="T Cook"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Tolley"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Tolley"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Tolley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Noel Downes"/>
+    <Extras value="15"/>
+    <BowlerSummary name="S Richards" overs="5" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="T Cook" overs="5" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="T Brook" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="R Webb" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="R Tolley" overs="5" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="G Smith" overs="5" maidens="0" runs="40" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

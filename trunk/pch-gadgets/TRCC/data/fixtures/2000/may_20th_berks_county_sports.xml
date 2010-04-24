@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:36 UTC+0100 2010 -->
+<CricketMatch oppo="Berks County Sports" date="Sat May 20 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="Wood"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="LBW"/>
+      <Bowler name="A Watts"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Watts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="Wood"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hudson"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hudson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Wood"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rob James">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="A Watts" overs="7" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="B Norman" overs="10" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="A Phipps" overs="7" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Wood" overs="10.1" maidens="1" runs="52" wickets="3"/>
+    <BowlerSummary name="Hudson" overs="7" maidens="2" runs="14" wickets="2"/>
+  </Innings>
+  <Innings batting="Berks County Sports">
+    <Batsman name="S Campbell">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="M Barnes">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="Rob James"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Watts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rob James"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B(jnr) Norman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="P Drian">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="H Khela">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Punkett">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="A Phipps">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Hudson">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B(snr) Norman">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Wood">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="David Downes" overs="14.2" maidens="4" runs="27" wickets="3"/>
+    <BowlerSummary name="Rob James" overs="7" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="11" maidens="3" runs="32" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="6" wickets="2"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Richard Hobson" overs="3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

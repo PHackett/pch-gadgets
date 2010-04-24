@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:04 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sun May 8 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Collins"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Nunn"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Eckett"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Collins"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Gilby"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Collins"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Collins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Ash" overs="7" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Palmer" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="C Nunn" overs="11" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Eckett" overs="10" maidens="2" runs="33" wickets="1"/>
+    <BowlerSummary name="Collins" overs="9" maidens="1" runs="29" wickets="4"/>
+    <BowlerSummary name="Henwood" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="J Gilby" overs="3" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Cookham Dean">
+    <Batsman name="L Slater">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Rickman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Mellor">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="P Douch">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Collins">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Gilby">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Henwood">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="J Palmer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Eckett"/>
+    <Batsman name="F Ash"/>
+    <Extras value="2"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="2" runs="54" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="4" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="22" wickets="4"/>
+    <BowlerSummary name="Mark Lawrence" overs="3" maidens="1" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

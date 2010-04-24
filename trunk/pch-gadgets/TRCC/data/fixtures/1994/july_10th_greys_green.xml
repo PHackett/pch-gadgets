@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:04 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sun Jul 10 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="D Skilliter"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Harper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="9"/>
+    <BowlerSummary name="Skilliter" overs="13" maidens="3" runs="56" wickets="0"/>
+    <BowlerSummary name="Harper" overs="12" maidens="1" runs="57" wickets="1"/>
+    <BowlerSummary name="D Skilliter" overs="7" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="T Howes" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Muirhead" overs="3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="T Howes">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Muirhead">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="M Skilliter">
+      <HowOut how="Run Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="R Pains">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Riaply">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Hunt">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Nic Downes" overs="20" maidens="3" runs="79" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="5" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

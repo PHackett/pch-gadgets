@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:34 UTC+0100 2010 -->
+<CricketMatch oppo="Pinewood" date="Sun May 24 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="G Richardson"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Run Out"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Head"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Frankland"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Frankland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="N Hawkes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <BowlerSummary name="C Duffnell" overs="9" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="G Richardson" overs="10" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="S Head" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="A Frankland" overs="8" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="N Hawkes" overs="1.1" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Pinewood">
+    <Batsman name="N Hawkes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="I Willoughby">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="C Duffnell">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="J Henry">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="I Davies">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Richardson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Frankland">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Head">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M O'Donovan">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="2" runs="23" wickets="2"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="2" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

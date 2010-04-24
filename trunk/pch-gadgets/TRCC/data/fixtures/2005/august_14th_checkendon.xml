@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Checkendon" date="Sun Aug 14 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       Overcast and threatening, the weather did not bode well as Twyford travelled to the south
+      Oxfordshire village of Checkendon. Indeed, there were two short breaks for rain, but not enough to
+      cause more than a dampening of the pitch. 
+      <p>
+       Winning the toss, Checkendon were placed
+      in to bat and were soon feeling the effect of Twyford's opening attack. Hackett, accurate from the
+      off soon had two wickets to his credit, and Abraham only improved as his spell went on. After 16
+      overs Checkendon were reeling on 35-4, and worse was to follow for the home side. Falling to 42-7,
+      it looked all over, and Twyford prepared for a walk-over. 
+      <p>
+       However the Checkendon
+      tail wagged with a vengeance! Shepherd, Randall and Trotter pushed the score on, mastering the
+      bowling attack. The final score of 111 all out at least looked respectable for the home side. 
+     
+      <p>
+       But still, Twyford thought that this figure would be easily within their reach. Indeed,
+      though scoring slowly there appeared to be no problem for the batsmen. But cricket is a fickle
+      mistress indeed! Brakespear led the assault, breezing through the openers with unwavering line and
+      length. Twyford could not believe it - They slumped to 37-6, and then 59-7. Only T Fort showed
+      batting class, with a score of 33 bringing Twyford to the brink of victory at 105-9. Holding steady,
+      the last wicket pair passed Checkendon's total bringing an unprecedented eighth straight victory to
+      Twyford. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Checkendon">
+    <Batsman name="C Stubbs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="D Manning">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Holland">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Baron">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Maddock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Day">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Shepherd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="J Randall">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Trotter">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A Brakespear">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="6" score="41"/>
+    <FallOfWicket batsman="7" score="42"/>
+    <FallOfWicket batsman="8" score="83"/>
+    <FallOfWicket batsman="9" score="93"/>
+    <FallOfWicket batsman="11" score="111"/>
+    <BowlerSummary name="Paul Hackett" overs="8.5" maidens="2" runs="13" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="5" runs="23" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="3" runs="41" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="7" maidens="1" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brakespear"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Brakespear"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="B Shepherd"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brakespear"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Brakespear"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Baron"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Brakespear"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="I Harris"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="7" score="37"/>
+    <FallOfWicket batsman="6" score="59"/>
+    <FallOfWicket batsman="9" score="95"/>
+    <FallOfWicket batsman="8" score="105"/>
+    <BowlerSummary name="A Brakespear" overs="10" maidens="3" runs="17" wickets="5"/>
+    <BowlerSummary name="B Shepherd" overs="7" maidens="2" runs="21" wickets="1"/>
+    <BowlerSummary name="A Baron" overs="7" maidens="3" runs="8" wickets="1"/>
+    <BowlerSummary name="I Harris" overs="10.3" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="J Day" overs="5" maidens="1" runs="27" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

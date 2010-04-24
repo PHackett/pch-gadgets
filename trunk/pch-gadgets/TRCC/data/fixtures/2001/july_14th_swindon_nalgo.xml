@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Swindon NALGO" date="Sat Jul 14 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+      Match abandonned due to rain
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Swindon NALGO">
+    <Batsman name="Sett">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="R Petel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="D Legge">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="S Maggs">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Mudassur">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Rahman">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Rahman">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Kaan">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Beale"/>
+    <Batsman name="J Chahal"/>
+    <Batsman name="J Wiggin"/>
+    <Extras value="17"/>
+    <BowlerSummary name="Andrew Jackson" overs="17" maidens="2" runs="76" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="3" runs="47" wickets="3"/>
+    <BowlerSummary name="Richard Hobson" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Brandon Theron" overs="60" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="40" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="J Wiggin" overs="3" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="M Beale" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

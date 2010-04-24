@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Aug 31 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       The summer may be waning, but another fine sunny day greeted Twyford as they travelled to Sonning
+      for a local derby. Winning the toss, Sonning chose to bat, a wise decision with the home side
+      scoring runs at a prolific rate on a true pitch and an outfield like glass. Both Baker and Banning
+      passed the 50 mark with ease, helped by some very friendly bowling from Twyford, but also with some
+      glorious strokes. The only bright spot for Twyford was a fine spell by C Evans, who ended with
+      figures of 3-19. An exhausting time in the field for the visitors ended with Sonning scoring 263 for
+      9 
+      <p>
+       But the pitch conditions were also to Twyford's liking, and although scoring at
+      a slower rate than Sonning steady progress was made. Woodman was the only batsman to pass 50 for
+      Twyford, but support from T Fort, J Fort and Hall saw the visitors passing the 200 mark as well. For
+      Sonning, Sohail has the best figures of 2-11 off only 2 overs. 
+      <p>
+       A total of just shy
+      of 500, this was definitely a day for the batsmen! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="A Sohail">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R Skeil">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="S Banning">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="P Shumake">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="W Marms">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="A MacArthur">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ahmad">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Collier">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="G Wilton">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="P Wilding"/>
+    <Extras value="24"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="1" runs="59" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="0" runs="69" wickets="2"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="0" runs="71" wickets="0"/>
+    <BowlerSummary name="Drew Evans" overs="5" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="3.4" maidens="0" runs="19" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Skeil"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collier"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Skeil"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="S Banning"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="A Sohail"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Barber">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sohail"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="G Wilton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Wilton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="3" score="109"/>
+    <FallOfWicket batsman="1" score="138"/>
+    <FallOfWicket batsman="5" score="145"/>
+    <FallOfWicket batsman="6" score="158"/>
+    <FallOfWicket batsman="4" score="161"/>
+    <FallOfWicket batsman="8" score="216"/>
+    <FallOfWicket batsman="9" score="223"/>
+    <BowlerSummary name="S Collier" overs="8" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="G Wilton" overs="14" maidens="0" runs="71" wickets="2"/>
+    <BowlerSummary name="Ahmad" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="W Marms" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="R Skeil" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="P Shumake" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="A Sohail" overs="2" maidens="0" runs="11" wickets="2"/>
+    <BowlerSummary name="S Banning" overs="5" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

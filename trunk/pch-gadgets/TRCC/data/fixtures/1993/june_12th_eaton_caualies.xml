@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Eaton Caualies" date="Sat Jun 12 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Eaton Caualies">
+    <Batsman name="D Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Tapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="C Feeney">
+      <HowOut how="Caught A Wilkinson"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Pitcher ">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Hinton">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Sturley">
+      <HowOut how="Stumped R lawrance"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="K Weekes">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jay">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Pitcher">
+      <HowOut how="Stumped R Lawrance"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Howard">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="3" runs="11" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="James Hollidge" overs="8.5" maidens="3" runs="16" wickets="5"/>
+    <BowlerSummary name="Mark Lawrence" overs="6" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="W Pitcher"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Tim Hanton"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Andy Wilkinson"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="James Hollidge"/>
+    <Extras value="3"/>
+    <BowlerSummary name="A Pitcher" overs="8" maidens="3" runs="19" wickets="1"/>
+    <BowlerSummary name="Jay" overs="6" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="M Tapp" overs="8.2" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="A Howard" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

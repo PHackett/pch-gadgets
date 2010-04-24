@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jul 2 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="M Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Buckland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Thorpe">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="James Fort"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="B McHugh">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Honeyman">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Ampuford">
+      <HowOut how="Caught Neil Prior"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Manson">
+      <HowOut how="Caught Neil Prior"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Cullen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Stott">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Newton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Chris Taylor" overs="14" maidens="7" runs="32" wickets="4"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="5" runs="3" wickets="0"/>
+    <BowlerSummary name="David Taylor" overs="4" maidens="2" runs="7" wickets="0"/>
+    <BowlerSummary name="Ian Helmore" overs="4" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Neil Prior" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3.1" maidens="0" runs="10" wickets="5"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="D Crick"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crick"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="D Crick"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Crick"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crick"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Neil Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crick"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="7" score="95"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <BowlerSummary name="D Crick" overs="20.3" maidens="4" runs="43" wickets="6"/>
+    <BowlerSummary name="T Thorpe" overs="13" maidens="5" runs="25" wickets="0"/>
+    <BowlerSummary name="C Stott" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="J Honeyman" overs="4" maidens="1" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

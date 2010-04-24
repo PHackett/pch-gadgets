@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:38 UTC+0100 2010 -->
+<CricketMatch oppo="Shinfield" date="Sat Jun 28 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      In true Paul Hackett opening stylee, a hot sunny day greeted the visiting Twyford team to the
+      Shinfield rec.
+      <p>
+      Early caution (not normally exhibited when he's batting) was shown by
+      one Twyford player when parking his personalised number-plated DelBoy van some distance from the
+      small boundary adjacent to the pitch. Needless to say this caution was unnecessary for him certainly
+      and for most of the Twyford batting line-up, as we shall soon see.
+      <p>
+      Twyford chose to
+      field first and openers Beamish and Walkland soon had the home side struggling at 31 for 3, with
+      some tight and straight bowling - yes, the LBW down the leg side was completely plumb - Umpire Jim
+      said so.....
+      <p>
+      Then (allegedly) strolled to the crease a County player no less, who
+      smashed his first ball for 4 runs and looked for all the world like he was going to score a century.
+      However, fate was not on his side that day. Oh no. The next ball fizzed into the pitch, took an edge
+      and arrowed fast and low into the Twyford slip cordon. Would anyone see it, let alone stop it?
+      Cometh the hour, Kenneth the man, where probably the best slip catch you are ever likely to see (in
+      our team anyway) was taken by our Ken, with consummate skill, one handedly, falling to one
+      side.....possibly in an attempt to get out of the way. Fantastic!!
+      <p>
+      Shinfield were
+      visibly rattled, but rallied and by the end had crawled to 176 all out, with solid contributions
+      from Ahmed and Ali, both of whom were eventually removed with accurate bowling from Green senior.
+      Not a bad score, but would it be enough for the Twyford batting order?
+      <p>
+      Off to a bad
+      start, one with 1 wicket down for 1 run on the board. They had some useful (and quick) bowlers for
+      sure, with the ball moving around a lot. However, Saint Nathan of Eddy came riding to Twyford's
+      rescue once again (as he does on most Saturday's in fact....) and bludgeoned the bowling all round
+      the ground. It was a sight to behold, though with wickets falling at the other end in typical
+      Twyfordian fashion (the loud shout of 'GAME ON' from the oppo rang round the ground at the fall of
+      the 4th wicket) the thought that if Saint N of E got out we might still lose was foremost in most
+      minds.
+      <p>
+      However, stout defending at one end (especially by the Hogster - who had to
+      sadly retire hurt and by George 'Nurdle' Nunn) accompanied with stout bludgeoning at the other by
+      Nathan brought Twyford CC (well Nathan CC actually) home and dry, with a 6 to reach his hundred and
+      to simultaneously win the game (the flash git). I think he got to 50 with a 6 too! A comfortable win
+      in the end....a team effort of course...
+      <p>
+      Man of the match...........ummm.....a hard
+      one. I'll think about it.
+      <p>
+      So a good victory in the end against a side that could
+      (and probably) should have done better against us. But, hey who cares! 30 odd points to the good!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Shinfield">
+    <Batsman name="Dear">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Aust">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Murray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Fitzdesorgher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Khan">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ahmed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Cassie">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Terry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nicol">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <FallOfWicket batsman="6" score="152"/>
+    <FallOfWicket batsman="8" score="158"/>
+    <FallOfWicket batsman="9" score="172"/>
+    <FallOfWicket batsman="10" score="176"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="13.1" maidens="2" runs="47" wickets="4"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="5" maidens="3" runs="11" wickets="2"/>
+    <BowlerSummary name="Nathan Eddy" overs="6" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Murray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Not Out"/>
+      <Runs value="105"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="Murray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="44"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="5" score="87"/>
+    <BowlerSummary name="Murray" overs="11" maidens="1" runs="55" wickets="2"/>
+    <BowlerSummary name="Khan" overs="4" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Ali" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Roberts" overs="3.3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Ahmed" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Cassie" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

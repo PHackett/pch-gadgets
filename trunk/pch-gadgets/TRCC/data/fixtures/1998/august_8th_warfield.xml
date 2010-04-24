@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:56 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sat Aug 8 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="M Howse"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="M Howse"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="G Morris"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="G Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="M Howse" overs="14" maidens="5" runs="38" wickets="2"/>
+    <BowlerSummary name="G Morris" overs="11" maidens="0" runs="59" wickets="2"/>
+    <BowlerSummary name="Ruddle" overs="5" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Spratt" overs="3" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Powers" overs="4" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="A Doig">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Howse">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Barratt">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Browning">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Moulder">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Graham Kemp"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Spratt">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Kemp"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Ruddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Kemp"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Doig">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Powers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="DNB"/>
+    <Extras value="1"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="4" runs="7" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="Rod Edney" overs="5" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="Graham Kemp" overs="3" maidens="0" runs="14" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

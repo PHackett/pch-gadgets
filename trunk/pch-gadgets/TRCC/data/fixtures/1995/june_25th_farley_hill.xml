@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Farley Hill" date="Sun Jun 25 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="M Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="S Bendall">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Blake">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Powell">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Salter">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Roper">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Pauley">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Holmes">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Robertson"/>
+    <Batsman name="Nobel"/>
+    <Batsman name="J Wagstaff"/>
+    <Extras value="19"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="5" runs="29" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="10" maidens="3" runs="41" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="2" runs="11" wickets="0"/>
+    <BowlerSummary name="Peter Dawson" overs="9" maidens="0" runs="43" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="34" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Bendall"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Roper"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Powell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Powell"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roper"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Roper"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Peter Dawson"/>
+    <Extras value="18"/>
+    <BowlerSummary name="S Bendall" overs="11" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="Powell" overs="13" maidens="3" runs="29" wickets="3"/>
+    <BowlerSummary name="Roper" overs="10" maidens="0" runs="60" wickets="3"/>
+    <BowlerSummary name="J Wagstaff" overs="7" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

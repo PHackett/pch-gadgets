@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:07 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sat Aug 20 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="Anderson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="Heale">
+      <HowOut how="Caught Robin Reynolds"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ayres">
+      <HowOut how="LBW"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Loveday">
+      <HowOut how="Caught Neil Prior"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught Robin Reynolds"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hayter">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Peates"/>
+    <Batsman name="Canty"/>
+    <Batsman name="Hunt"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="81"/>
+    <FallOfWicket batsman="2" score="88"/>
+    <FallOfWicket batsman="4" score="103"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="6" score="134"/>
+    <FallOfWicket batsman="7" score="147"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="16" maidens="4" runs="49" wickets="3"/>
+    <BowlerSummary name="Peter Dawson" overs="12" maidens="0" runs="67" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walker"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Walker"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Heale"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Heale"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Neil Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heale"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="LBW"/>
+      <Bowler name="Roberts"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="5" score="89"/>
+    <FallOfWicket batsman="7" score="92"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <FallOfWicket batsman="10" score="160"/>
+    <FallOfWicket batsman="11" score="165"/>
+    <BowlerSummary name="Roberts" overs="7.5" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Smith" overs="10" maidens="0" runs="46" wickets="4"/>
+    <BowlerSummary name="Walker" overs="7" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Heale" overs="8" maidens="1" runs="33" wickets="3"/>
+    <BowlerSummary name="Hayter" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

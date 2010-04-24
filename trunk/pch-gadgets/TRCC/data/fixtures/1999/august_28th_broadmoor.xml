@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:06 UTC+0100 2010 -->
+<CricketMatch oppo="Broadmoor" date="Sat Aug 28 08:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Broadmoor">
+    <Batsman name="T Charles">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="P Daniels">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S John">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="V Clarke">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="H Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="R James ">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Gopi">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Graham">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="1" runs="57" wickets="1"/>
+    <BowlerSummary name="John Moore" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="13.2" maidens="0" runs="40" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="37" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="J Chandler"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Charles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Robinson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="H Roberts"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="V Clarke"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Roberts"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Charles"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="LBW"/>
+      <Bowler name="T Charles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Cooper">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="None None"/>
+    <Extras value="18"/>
+    <BowlerSummary name="J Chandler" overs="9.5" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="T Charles" overs="10" maidens="3" runs="19" wickets="3"/>
+    <BowlerSummary name="W Robinson" overs="7" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="H Roberts" overs="12" maidens="1" runs="46" wickets="2"/>
+    <BowlerSummary name="V Clarke" overs="4" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

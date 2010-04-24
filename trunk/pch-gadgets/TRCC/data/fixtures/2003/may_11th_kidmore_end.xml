@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Kidmore End" date="Sun May 11 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       Played at Bishopswood Sports Ground. Match abandoned as a draw.<br><br> Twyford's lacklustre start
+      to the season continued against Kidmore End on Sunday when only the rain saved them from a third
+      successive defeat. Dropped catches again cost Twyford dear, with several easy chances going begging
+      as Kidmore End strolled to 233 for 4 in their forty overs, with Nawaz and Kiana leading the way.
+      Twyford started brightly, with Stewart Wren in fine form. But any hope of reaching the target
+      disappeared when he was out, and Twyford finished very much second-best.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Kidmore End">
+    <Batsman name="W Hoskins">
+      <HowOut how="Caught Chris Evans"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="C Pigden">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="K Mannering">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Z Nawaz">
+      <HowOut how="Not Out"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Y Kiana">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="J Patey">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="1" score="78"/>
+    <FallOfWicket batsman="3" score="83"/>
+    <FallOfWicket batsman="5" score="217"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="2" runs="31" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="2" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="R New"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Nawaz"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R New"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khawer"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="G Butler"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Chambers"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <FallOfWicket batsman="4" score="109"/>
+    <BowlerSummary name="M Nawaz" overs="5" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="S Payne" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="J Patey" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="R New" overs="7" maidens="3" runs="21" wickets="2"/>
+    <BowlerSummary name="G Butler" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Khawer" overs="3" maidens="2" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="Knowl Hill" date="Sat Jun 6 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="N Harrison"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="M Crawcour"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="M Crawcour"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Crawcour"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="4" score="62"/>
+    <FallOfWicket batsman="1" score="67"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <FallOfWicket batsman="6" score="154"/>
+    <BowlerSummary name="N Harrison" overs="11" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="M Crawcour" overs="11" maidens="2" runs="31" wickets="3"/>
+    <BowlerSummary name="L Duffy" overs="15" maidens="3" runs="32" wickets="3"/>
+    <BowlerSummary name="A Brookman" overs="8" maidens="1" runs="41" wickets="1"/>
+  </Innings>
+  <Innings batting="Knowl Hill">
+    <Batsman name="J Cousins">
+      <HowOut how="Not Out"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="J McDermott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Harris">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Crawcour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="L Duffy">
+      <HowOut how="Run Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="D Brookman">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="4" score="94"/>
+    <FallOfWicket batsman="5" score="148"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="9" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="14" maidens="3" runs="29" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="5" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="10.1" maidens="3" runs="40" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

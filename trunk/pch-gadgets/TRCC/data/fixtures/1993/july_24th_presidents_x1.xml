@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Presidents X1" date="Sat Jul 24 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Presidents X1">
+    <Batsman name="J Fort">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="John Hamilton"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="S Wren">
+      <HowOut how="Stumped"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="T Fort">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="P Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="K Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J North">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Robin Reynolds" overs="7" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="John Hamilton" overs="8" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="8" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="2" runs="38" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="1" runs="29" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="D Taylor"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="S Wren"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="S Wren"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Taylor"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught"/>
+      <Bowler name="T Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Taylor"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught "/>
+      <Bowler name="T Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="LBW"/>
+      <Bowler name="C Taylor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="C Taylor" overs="11.4" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="S Wren" overs="10" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="D Taylor" overs="10" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="T Fort" overs="7" maidens="0" runs="40" wickets="2"/>
+    <BowlerSummary name="J Fort" overs="4" maidens="0" runs="19" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

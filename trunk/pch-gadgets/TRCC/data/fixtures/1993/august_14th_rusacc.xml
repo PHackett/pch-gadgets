@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:52 UTC+0100 2010 -->
+<CricketMatch oppo="Rusacc" date="Sat Aug 14 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Gilheaney"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cutler"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gilheaney"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="30"/>
+    <BowlerSummary name="Cutler" overs="11" maidens="2" runs="39" wickets="1"/>
+    <BowlerSummary name="Gilheaney" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Chappa" overs="11" maidens="2" runs="44" wickets="0"/>
+    <BowlerSummary name="Saeld" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Lakin" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Loader" overs="1" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="H Chaz" overs="1" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Rusacc">
+    <Batsman name="Gilheaney">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Eagle">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Grimes">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Loader">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Lakin">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tahir">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Hoddinotty">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Fox">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Saeed">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Cutler">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chappa"/>
+    <Extras value="14"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="4" runs="22" wickets="4"/>
+    <BowlerSummary name="Jack Hollidge" overs="11" maidens="3" runs="51" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="James Hollidge" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="5" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

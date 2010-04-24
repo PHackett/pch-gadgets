@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:55 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer West End" date="Sat Jul 11 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Prenitce"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="LBW"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="D Vickers" overs="12" maidens="1" runs="72" wickets="3"/>
+    <BowlerSummary name="M Prenitce" overs="13" maidens="1" runs="51" wickets="1"/>
+    <BowlerSummary name="G Watts " overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Mortimer West End">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

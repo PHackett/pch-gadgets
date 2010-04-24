@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Jul 16 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="A Driver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Forrest">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="M Richards">
+      <HowOut how="LBW"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="S Banning">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="P King">
+      <HowOut how="Caught G Neall"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Wilton">
+      <HowOut how="LBW"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Wilding">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="G Robins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="E Robins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Phillips">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Thorpe">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Andrew Jackson" overs="8" maidens="4" runs="13" wickets="2"/>
+    <BowlerSummary name="Alex Neall" overs="5" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="Roger Seymour" overs="12.3" maidens="2" runs="61" wickets="4"/>
+    <BowlerSummary name="Chris Evans" overs="1" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="13" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="A Driver"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="G Robins"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="LBW"/>
+      <Bowler name="P King"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="A Driver"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Driver"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Wilton"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="A Driver"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Wilton"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="P Wilding" overs="4" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="G Robins" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="G Wilton" overs="9.2" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="P King" overs="4" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="S Banning" overs="2" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="A Driver" overs="7" maidens="0" runs="38" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

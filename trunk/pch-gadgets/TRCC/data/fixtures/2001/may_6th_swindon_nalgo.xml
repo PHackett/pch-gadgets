@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Swindon NALGO" date="Sun May 6 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford started their league season with a very poor performance against a strong Swindon NALGO
+      side eager to do well since joining the league this year. Twyford put out a particularly weak side
+      and were reliant on winning the toss, which didn't go their way, on a soft wicket that would always
+      favour the side batting second. Put into bat Twyford's frailties were exposed straight away when
+      stand-in opener, Potier, was bowled in the 3rd over. Kemp (2) followed shortly after and a small
+      stand between Connor (16) and Hobson (14) looked as though things were on the up until Hobson left a
+      ball that came back and bowled him. From then on the innings collapsed with with only Downes (17)
+      supporting Connor, until a tight single was refused which left Connor stranded. The tight bowling
+      and efficient fielding was a credit to the Swindon side and their reward came when Twyford finally
+      holed out on 85 leaving only thoughts about the score in the FA Cup Final. <P></P> After a 2-1
+      score, in favour of the reds, Twyford resumed play determined to score some points and make the
+      going difficult for the opposition. The pitch and outfield had dried further in the blazing sun and
+      boundaries were easier to come by. Some tight bowling by Potier with the score on 28 led to the
+      batsmen chancing a run to the arm of Hobson only to take the long walk and give Twyford a glimmer of
+      hope. A glimmer was all it was though as Zaffer (40*) and Sett (29*) punished anything loose and did
+      not give any chances for Twyford to get back into the game. The end came swiftly, with the winning
+      run being a flat six over square leg. <P></P> Swindon NALGO look to be on the promotion trail and
+      few would bet against them being one of the strongest sides in the league. Twyford look to next week
+      knowing that a full strength side is a necessity, should they want to book a place in this division
+      next year. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Saeed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Saeed"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Beale"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="LBW"/>
+      <Bowler name="J Chahal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Ct S. Sett"/>
+      <Bowler name="T Khan"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Fox">
+      <HowOut how="Ct G Laughton"/>
+      <Bowler name="S Sett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Sett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Mahmood">
+      <HowOut how="Ct D Legge"/>
+      <Bowler name="S Sett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="M Saeed" overs="7" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="J Chahal" overs="10" maidens="3" runs="18" wickets="1"/>
+    <BowlerSummary name="M Beale" overs="5" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="S Sett" overs="7.1" maidens="0" runs="28" wickets="4"/>
+    <BowlerSummary name="T Khan" overs="6" maidens="3" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Swindon NALGO">
+    <Batsman name="S Zaffer">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="R Patel">
+      <HowOut how="Run Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Sett">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="A Mahmood" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Brandon Theron" overs="3" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="G Fox" overs="1" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

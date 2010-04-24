@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:05 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Aug 14 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="105"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="Jack Hollidge"/>
+    <Extras value="22"/>
+    <BowlerSummary name="Bishop" overs="10" maidens="0" runs="59" wickets="0"/>
+    <BowlerSummary name="Gill" overs="11" maidens="0" runs="73" wickets="1"/>
+    <BowlerSummary name="Heath" overs="6" maidens="1" runs="43" wickets="0"/>
+    <BowlerSummary name="McKinder" overs="5" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="Glenn">
+      <HowOut how="LBW"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rand">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kalb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Everitt">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Heath">
+      <HowOut how="LBW"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Watson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gill">
+      <HowOut how="Stumped"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Bishop">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Coop">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="McKinder">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Nelson">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="14" maidens="5" runs="35" wickets="5"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="Peter Dawson" overs="2.5" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

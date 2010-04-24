@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sat Jun 9 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford lost out in their run chase on saturday falling short of the finish with only 21 runs left.
+      After winning the toss the home side were put in to bat on a hard wicket with some bounce that gave
+      the bowlers a spring in their step. Unfortunately the initial chance again went begging and Kendrick
+      (67) was dropped from his third ball. While proving costly in terms of the final total it also cost
+      Twyford an opener as Helmore was unable to move his thumb sufficiently to bat. Kendrick made Twyford
+      pay with some big hits and was the major contributor in their innings of 187. Good running was the
+      key to the innings and many runs were scored when it seemed suicidal to do so. The bowling of Noel
+      Downes (2-43) was worthy of mention and certainly helped the Twyford side keep the score below the
+      200 mark which gave the batsmen an excellent chance to win the game. 
+      <p>
+       Twyford
+      started their innning with good hope which were quickly re-thought when Hobson was caught behind
+      from his second ball with the score only on one. This brought Jackson to the wicket who continued
+      his good form to form a solid partnership with Connor. They both scored runs quickly from the
+      bowling offered and moved Twyford into a position that they could win the game from. With 86 from
+      16, and the game slipping away from Binfield, Boad was introduced to the bowling attack and this
+      marked the chance in Twyford's fortunes. In Boad's second over Jackson (45) was caught in front,
+      playing back to a quicker delivery, after putting on 85 with Connor (40). Henry then came to the
+      wicket and was out caught trying to hit over the top from his fourth ball. Another small
+      partnership, of 36, then formed between Downes (23) and Connor before the cumberson Goddard took a
+      one handed speccy at backward point to save four runs and also send Connor back to the pavilion.
+      Azza (18) took chanceswhen he came in and at was a bonus when he came off with a couple of
+      boundaries before being stumped. 
+      <p>
+       At 129 for 5 off 29 overs the Binfield side were
+      definately in charge and the Twyford side were in the back foot. Neale (0) then fell, again to Boad,
+      which brought Potier (10) and Downes (14) together. They were the last hope and brought Twyford to
+      162 for 7 from 38 overs which was within striking distance. Unfortunately the opening bowler
+      returned and removed Potier, along with Twyford's chances. Three wickets fell in three overs for
+      just four runs to leave Twyford on 166 all out and gave the Binfield side the win.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="T Kendrick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="T Boad">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="C Canty">
+      <HowOut how="Caught A Mahmood"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="I Goddard">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="M Ennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R Warren">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Andrew Jackson" overs="13" maidens="3" runs="42" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="9" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="Richard Hobson" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="1" runs="43" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="I Foster"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="T Duxbury"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="LBW"/>
+      <Bowler name="T Boad"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="T Boad"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="T Boad"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Mahmood">
+      <HowOut how="Stumped"/>
+      <Bowler name="T Boad"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Boad"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Boad"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Warren"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="T Duxbury" overs="5" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="R Warren" overs="10.3" maidens="3" runs="36" wickets="2"/>
+    <BowlerSummary name="I Foster" overs="12" maidens="1" runs="54" wickets="1"/>
+    <BowlerSummary name="T Boad" overs="13" maidens="0" runs="39" wickets="6"/>
+  </Innings>
+</CricketMatch>
+

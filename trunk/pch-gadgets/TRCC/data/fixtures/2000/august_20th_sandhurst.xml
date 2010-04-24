@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:35 UTC+0100 2010 -->
+<CricketMatch oppo="Sandhurst" date="Sun Aug 20 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sandhurst">
+    <Batsman name="M Dickinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Moore"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="M Pharo">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="M Edwards">
+      <HowOut how="Caught S Abraham"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="E Tapper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Watson">
+      <HowOut how="Caught S Abraham"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Robinson">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C Whiteoak">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="K Speakman">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="John Moore" overs="10" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="0" runs="61" wickets="3"/>
+    <BowlerSummary name="Tim Hogarth" overs="7" maidens="1" runs="31" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Smith"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="P Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Pharo"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="K Speakman"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Smith"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="M Pharo"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="John Moore"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="17"/>
+    <BowlerSummary name="P Smith" overs="13" maidens="2" runs="51" wickets="3"/>
+    <BowlerSummary name="K Speakman" overs="10" maidens="3" runs="27" wickets="1"/>
+    <BowlerSummary name="C Watson" overs="3" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="M Pharo" overs="7" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="A Birch" overs="2.4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

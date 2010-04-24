@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:35 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Sep 17 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Benson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Silver"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michal"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Silver"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Benson" overs="10" maidens="2" runs="33" wickets="1"/>
+    <BowlerSummary name="Silver" overs="19" maidens="0" runs="61" wickets="2"/>
+    <BowlerSummary name="Michal" overs="9.3" maidens="1" runs="41" wickets="5"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="C Andecon">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="P Roberts">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Topham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Baldwin">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Caught C Evans"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Michal">
+      <HowOut how="Not Out"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="T Benson">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Paul Hackett" overs="14.1" maidens="3" runs="53" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="6" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="8" maidens="1" runs="42" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="0" runs="37" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

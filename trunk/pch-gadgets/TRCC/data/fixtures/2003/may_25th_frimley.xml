@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Frimley" date="Sun May 25 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       <b>Hall Ton see's Twyford Home</b><br> Asked to bowl, Twyford produced a team effort in the field.
+      Only Summerland who rode his luck taking the aerial route and then Smith with a very good and hard
+      hit 68 were able to break the Twyford shackles. All bowled well but Nic and Dave Downes in tandem
+      had key spells when Smith looked as though he might take the game away from Twyford. Hackett
+      returned to sew things up and it needed a few healthy snicks from the tail to help Frimley post a
+      total of 164.<br> Twyford in reply struggled early on as Scott got the ball to move away from the
+      bat. At 28 for 3 with key batsmen out things looked good for Frimley but a partnership of 55 from
+      Hall and Edney then steadied the ship. With the rest of the middle order providing support Hall kept
+      playing his shots, looking particularly impressive on the drive square of the wicket, and he moved
+      to his maiden hundred for Twyford with the winning boundary.<br> A great game, played in excellent
+      spirit and lovely surroundings.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Frimley">
+    <Batsman name="Maynard">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Summerland">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Hardwidge">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Wildsmith">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Middleton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dimsdale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="C Summ">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Summ">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="David Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="N Summ">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="3" runs="41" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="3" runs="24" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="43" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Not Out"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wildsmith"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Dimsdale"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dimsdale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Scott"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="5" score="83"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="7" score="116"/>
+    <FallOfWicket batsman="8" score="153"/>
+    <BowlerSummary name="Scott" overs="11" maidens="2" runs="37" wickets="4"/>
+    <BowlerSummary name="Middleton" overs="8" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Wildsmith" overs="8.4" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Summerland" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Dimsdale" overs="5" maidens="0" runs="36" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

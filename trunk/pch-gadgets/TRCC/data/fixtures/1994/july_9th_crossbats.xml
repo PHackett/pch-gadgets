@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Crossbats" date="Sat Jul 9 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clayton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="Davies"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Glover"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="Clayton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clayton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Punnett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Limmer"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="LBW"/>
+      <Bowler name="Limmer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Limmer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="8" score="92"/>
+    <FallOfWicket batsman="9" score="104"/>
+    <FallOfWicket batsman="3" score="104"/>
+    <FallOfWicket batsman="11" score="109"/>
+    <BowlerSummary name="Harris" overs="4" maidens="2" runs="7" wickets="0"/>
+    <BowlerSummary name="Davies" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Clayton" overs="6" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="Punnett" overs="6" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Limmer" overs="3.3" maidens="0" runs="14" wickets="3"/>
+    <BowlerSummary name="Glover" overs="2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Crossbats">
+    <Batsman name="A Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fletcher">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Treadway">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rowe">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Gladstone">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Glover">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Chris Taylor" overs="8" maidens="4" runs="30" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="10.3" maidens="5" runs="21" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="David Taylor" overs="3" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

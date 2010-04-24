@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:43 UTC+0100 2010 -->
+<CricketMatch oppo="Crowthorne" date="Sun Aug 31 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Hill"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Giddings"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Hill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Long"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Hill"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Hill"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Long"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Long"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="An Other"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Hill" overs="11" maidens="4" runs="12" wickets="4"/>
+    <BowlerSummary name="Gilbert" overs="6" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Giddings" overs="10" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Long" overs="8" maidens="2" runs="24" wickets="3"/>
+    <BowlerSummary name="An Other" overs="3" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Crowthorne">
+    <Batsman name="A Brown">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Elrick">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Jharyi">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="A Chatters">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="R Attenson">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Alex Neall" overs="7" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sun Jul 6 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       On a hot and humid afternoon, Twyford were put into bat and soon feeling the heat at 22-3. For the
+      second week in a row in-form batsman Stewart Wren pulled Twyford back into the game, this time with
+      a spirited 86 before falling with the score on 132. The rest of Twyford's batting, with the
+      exception of David Downes, were taken apart cheaply. Maraidas did most of the damage during an
+      impressive spell, ending up with excellent figures of 6-30 
+      <p>
+       However, what looked
+      like a simple task for Cookham Dean was made difficult by tight opening spells from Hackett and
+      Green, and excellent ground fielding by Twyford. When the 20 overs countdown was reached, the
+      visitors still needed 95 runs to win having only scored at 2.5 runs per over up to that point. But B
+      Millar and Bowman stepped up a gear, and with the aid of some woeful dropped catches from Twyford
+      were able to steer Cookham Dean home with 4 overs to spare.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maraidas"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Maraidas"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught"/>
+      <Bowler name="Maraidas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bridges"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hazell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maraidas"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Neil Barber">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hazell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maraidas"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="Maraidas"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="5" score="94"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="3" score="132"/>
+    <FallOfWicket batsman="8" score="133"/>
+    <FallOfWicket batsman="7" score="133"/>
+    <FallOfWicket batsman="9" score="137"/>
+    <FallOfWicket batsman="11" score="145"/>
+    <BowlerSummary name="Taylor" overs="9" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="Bowman" overs="4" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Maraidas" overs="7" maidens="1" runs="30" wickets="6"/>
+    <BowlerSummary name="Rosenthal" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Hazell" overs="10" maidens="3" runs="32" wickets="2"/>
+    <BowlerSummary name="Bridges" overs="4" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Cookham Dean">
+    <Batsman name="Ramsbottom">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="B Millar">
+      <HowOut how="Stumped"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Rosenthal">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bowman">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Maraidas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Millar">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="46"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="2" score="115"/>
+    <FallOfWicket batsman="5" score="130"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="3" runs="24" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="7" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5.1" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Drew Evans" overs="3" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

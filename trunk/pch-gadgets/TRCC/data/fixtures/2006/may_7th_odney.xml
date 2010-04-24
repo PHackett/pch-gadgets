@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:56 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 7 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       Another year, another season... 
+      <p>
+       TRCC travelled to the delightful ground of Odney,
+      in the grounds of John Lewis's management center. Trees, flowers and all that looking delightful! 
+ 
+          <p>
+       Losing the toss (A very bad loss, considering the <em>excellence</em> of the teas
+      provided at this venue) Twyford were placed into bat. A verdant outfield looked as though boundaries
+      were going to be hard to come by and so it proved, with the initial run-rate being agonizingly slow.
+      This picked up a little after the first change of bowling but when the first wicket fell in the
+      19<sup>th</sup> over, only 30 runs were on the board. However for the third wicket stand, opener
+      Woodman came in to his own! Ably assisted by Smith, this pair added 99 runs, the vast majority from
+      Woodman who carried his bat for a final total of 109 not out. An excellent performance for the first
+      game of the season. 
+      <p>
+       The final total of 174-4 off 52 overs, while not huge, seemed
+      pretty good given the green outfield. 
+      <p>
+       After tea (which the Twyford opening bowlers
+      could only gaze at!), Odney came out looking confident and purposeful. Tight bowling (considering
+      this was the first game of the season) kept the runs down, but never really penetrated. Griffiths
+      carried his bat in some style for most of the innings before being bowled for 63, and was supported
+      well by M Dickie. Others were held back by good bowling and the long grass. 
+      <p>
+      
+      Twyford's total was never really threatened, but dismissing 10 batsmen was not on the cards either -
+      The match ened in a well-fought draw. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="109"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="M Turner"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="L Garber"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Nunn"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Nunn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Greg Orton"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="51"/>
+    <FallOfWicket batsman="4" score="150"/>
+    <FallOfWicket batsman="5" score="166"/>
+    <BowlerSummary name="M Finlay" overs="10" maidens="3" runs="34" wickets="0"/>
+    <BowlerSummary name="C Nunn" overs="10" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="C Griffith" overs="6" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="M Turner" overs="11" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="L Garber" overs="10" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="G Charles" overs="6" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Odney">
+    <Batsman name="C Griffith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="J Skinburk">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Nunn">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Dickie">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="G Charles">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Herzog">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Finlay">
+      <HowOut how="Caught Josh Baker"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="W Finlay">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Turner"/>
+    <Batsman name="M Finlay"/>
+    <Batsman name="L Garber"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="1" score="136"/>
+    <FallOfWicket batsman="7" score="142"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="13" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="Adam Smith" overs="11" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Josh Baker" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Greg Orton" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

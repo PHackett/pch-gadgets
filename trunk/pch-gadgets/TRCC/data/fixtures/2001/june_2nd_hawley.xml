@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Hawley" date="Sat Jun 2 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Some fine individual performances earned Twyford a winning draw, and some well deserved points to
+      kick-start their season. After losing the toss and being out into bat by the Hawley side, who beat
+      Holyport last week, Connor (31) and Helmore (5) put on 25 for the first wicket. After Helmore was
+      caught pushing the ball into the covers, Hobson arrived and was quickly sent back having nicked the
+      ball to the wicket keeper off the surprising pace of Khaki. This brought Jez Henry (65) to the
+      wicket who punished the poor bowling with some superb shots and put on 62 with Connor and 71 with
+      Jackson (47). Jackson's innings in particular punished a number of dropped catches with some brutal
+      shots, including two sixes. 
+      <p>
+       With 5 overs left and with the score on 167 it looked
+      as though Twyford would be able to post a score around the 200 mark and put some serious pressure on
+      the Hawley side. Much like the England side though things didn't go to plan. Three quick wickets for
+      Sinclair saw Jackson, Theron (0) and Fort (0)sent back to the pavilion while the opener Khaki
+      returned to remove Henry and a suicidal run saw Greg Neall a few yards short. Only 19 runs were
+      scored and 5 wickets were lost in those crucial final overs which left the Twyford side wondering if
+      186 would be enough. 
+      <p>
+       Missing a couple of bowlers Twyford started the second
+      innings looking to keep things tight and make runs hard to come by. The Bowling of Potier was very
+      accurate and he rattled off 15 overs for only 29 runs. At the other end the fast, attacking bowling
+      of Jackson was a revelation and he ripped through the top order with only Hargreaves (30) showing
+      any resistance. With the score 53 for 4 off 22 overs, Hobson replaced Jackson in a effort to open
+      the game up and gained a breakthrough in his 3rd over when he trapped Johnston leg before. 
+     
+      <p>
+       The Hawley middle order played very well and, with time at the crease, built some useful
+      partnerships with Gentle (40) and Khaki (28*). Picking up their runs at a leisurely pace they were
+      always falling behind the run rate and needed 98 from the final 15. With Jackson being re-introduced
+      it looked a tall order and the field became more attacking as each over passed. Jackson was able to
+      pick up his fifth wicket and finished on 5-45. Hobson flighted the ball higher and higher towards
+      the end and prised a couple of chances that went begging and also tempted Gentle into playing a rash
+      shot which he missed and was bowled. Hawley concentrated on getting an extra batting point, which
+      they acheived in the final over and settled for the draw. 
+      <p>
+       Twyford take heart from
+      this display with some excellent fielding from all involved, most notably Greg Neall who's fielding
+      at point was an example to everyone else.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Hargreaves"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="T Clay"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="J Khaki"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="J Khaki"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sinclair"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Caught"/>
+      <Bowler name="A Sinclair"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sinclair"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="J Khaki" overs="15" maidens="5" runs="25" wickets="2"/>
+    <BowlerSummary name="T Clay" overs="9" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="C Adams" overs="9" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="T Hargreaves" overs="9" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="A Sinclair" overs="4" maidens="0" runs="26" wickets="3"/>
+  </Innings>
+  <Innings batting="Hawley">
+    <Batsman name="G Bendall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Hargreaves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="G Freakes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="C Adams">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Clay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Johnston">
+      <HowOut how="LBW"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="a Gentle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="J Khaki">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="T Clay">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <BowlerSummary name="Andrew Jackson" overs="18" maidens="5" runs="45" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="15" maidens="7" runs="29" wickets="0"/>
+    <BowlerSummary name="Richard Hobson" overs="12" maidens="1" runs="57" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

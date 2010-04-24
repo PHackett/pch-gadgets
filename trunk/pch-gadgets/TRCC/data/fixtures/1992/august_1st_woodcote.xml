@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:37 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sat Aug 1 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jenkins"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jenkins"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Hayter"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jenkins"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hayter"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jenkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="19"/>
+    <BowlerSummary name="Roberts" overs="6" maidens="3" runs="23" wickets="0"/>
+    <BowlerSummary name="Jenkins" overs="17" maidens="2" runs="45" wickets="4"/>
+    <BowlerSummary name="S Hayter" overs="11" maidens="1" runs="47" wickets="2"/>
+    <BowlerSummary name="B Hayter" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Waters" overs="4" maidens="1" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="Donnelly">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ayres">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Waters">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Robson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Hayter">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Jenkins">
+      <HowOut how="Stumped "/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Peates">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Hayter">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Hayter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="4" runs="18" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="2" runs="19" wickets="5"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Mark Lawrence" overs="7" maidens="1" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:05 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 25 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="P Norris">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Bharma">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="S Walker">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Ronchetti">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Auld">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Dormer"/>
+    <Batsman name="Herbert"/>
+    <Batsman name="Owen"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="John Moore" overs="4" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Graham Woodhouse" overs="8" maidens="0" runs="51" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="S Walker"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Owen"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herbert"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Caught"/>
+      <Bowler name="Herbert"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Owen"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Walker"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="LBW"/>
+      <Bowler name="Bharma"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bharma"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Auld" overs="8" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Ronchetti" overs="7" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Dormer" overs="8" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Owen" overs="5" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="Herbert" overs="6" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="S Walker" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Bharma" overs="2" maidens="0" runs="6" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

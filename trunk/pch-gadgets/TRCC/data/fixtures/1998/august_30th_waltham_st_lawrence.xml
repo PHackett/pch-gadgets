@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:54 UTC+0100 2010 -->
+<CricketMatch oppo="Waltham St Lawrence" date="Sun Aug 30 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Gearing"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="I Crowe"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Gearing"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Stumped"/>
+      <Bowler name="Ward"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Ward"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Green"/>
+    <Batsman name="Alex Neall"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="22"/>
+    <BowlerSummary name="P Gearing" overs="12" maidens="7" runs="16" wickets="2"/>
+    <BowlerSummary name="I Crowe" overs="9" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="R Gearing" overs="7" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Grundy" overs="9" maidens="1" runs="51" wickets="0"/>
+    <BowlerSummary name="P Crowe" overs="3" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Ward" overs="4" maidens="0" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Waltham St Lawrence">
+    <Batsman name="R Gearing">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Crowe">
+      <HowOut how="Caught G Woodhouse"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Christodoulor">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Green"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="P Gearing">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="R Green"/>
+      <Runs value="107"/>
+    </Batsman>
+    <Batsman name="J England">
+      <HowOut how="Caught R Green"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Gearing">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="3" runs="36" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="1" runs="44" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="1" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="R Green" overs="2" maidens="0" runs="8" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

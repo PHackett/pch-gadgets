@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Boyne Hill" date="Sun Jun 18 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kapur"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Kapur"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Kapur"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="J Clark"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="J Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="ORoberts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Clark"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="ORoberts"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="John Moore"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="45"/>
+    <BowlerSummary name="ORoberts" overs="7.5" maidens="5" runs="20" wickets="2"/>
+    <BowlerSummary name="Salmon" overs="9" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Osborne" overs="5" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Kapur" overs="8" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="S Clark" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="J Clark" overs="8" maidens="0" runs="33" wickets="3"/>
+  </Innings>
+  <Innings batting="Boyne Hill">
+    <Batsman name="Osborne">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="John Moore"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Hinchliffe">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Clark">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="C Ward">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="A Broadhurst">
+      <HowOut how="Caught R Seymour"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Bradshaw">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C Reading">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Kapur">
+      <HowOut how="Caught J Moore"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="ORoberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Salmon">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="0" runs="51" wickets="3"/>
+    <BowlerSummary name="John Moore" overs="9" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="3" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="9.5" maidens="0" runs="36" wickets="4"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

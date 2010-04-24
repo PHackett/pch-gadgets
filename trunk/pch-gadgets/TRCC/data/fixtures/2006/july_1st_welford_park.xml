@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="Welford Park" date="Sat Jul 1 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       With Englands world cup quarter final at 4pm the teams took the option to start the match at 10am.
+      Losing the toss, TRCC were put into bat with Hogarth and Leigh opeing. Hogarth went on 8 after a
+      couple of boundaries then Leigh and Nunn added some steel with a stand of 63. With Herrington, the
+      league chairmen on to bowl the runs came more slowly. Leigh and Nunn were both trapped LBW, Jones
+      and Lally hit some lusty boundaries but the wickets kept falling at regular intervals leaving TRCC
+      all out on 156, a good 40 or 50 short of a competitive total on a flat track. 
+      <p>
+      
+      Welford got of to a good start before losing 2 quick wickets for 22 runs with Jones taking his first
+      twyford wickets thanks to a juggled “its mine, no its yours” catch by Lally and Burke in the slips.
+      This only brought Herrington to the wicket, the chief tormentor with the ball proved to be as
+      comfortable with the bat hitting Jones out of the attack with a string of fours. Beamish continued
+      to hold one end up bowling 8 overs for 8 runs but ended wicketless. Cooper came into the attack and
+      2 more wickets fell to leave Welford on 80 for 4. Jurgens then came in and and saw the game home
+      with Herrington, to record a comfortable 6 wicket win and pull away for TRCC in the league. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Thornton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="LBW"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="LBW"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="I Blair"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Matt Partington">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Blair"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Blair"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Herrington"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Khan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="3" score="74"/>
+    <FallOfWicket batsman="2" score="97"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="4" score="120"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="10" score="150"/>
+    <FallOfWicket batsman="9" score="156"/>
+    <BowlerSummary name="G Thornton" overs="6" maidens="2" runs="25" wickets="1"/>
+    <BowlerSummary name="S Leiss" overs="7" maidens="5" runs="4" wickets="0"/>
+    <BowlerSummary name="N Blair" overs="7" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="I Herrington" overs="13" maidens="2" runs="39" wickets="5"/>
+    <BowlerSummary name="I Blair" overs="6" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="W Khan" overs="1" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Welford Park">
+    <Batsman name="I Blair">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="W Khan">
+      <HowOut how="Ct"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Westbrook">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="I Herrington">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="S Jeffcott">
+      <HowOut how="Caught George Nunn"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Jurgens">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="1" score="60"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="4" runs="8" wickets="0"/>
+    <BowlerSummary name="Mark Jones" overs="5" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Josh Baker" overs="3.2" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

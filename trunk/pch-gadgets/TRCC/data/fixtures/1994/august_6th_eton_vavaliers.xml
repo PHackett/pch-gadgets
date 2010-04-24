@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:07 UTC+0100 2010 -->
+<CricketMatch oppo="Eton Vavaliers" date="Sat Aug 6 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seale"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seale"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seale"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Ian Boyd"/>
+    <Batsman name="Jack Hollidge"/>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <FallOfWicket batsman="1" score="62"/>
+    <FallOfWicket batsman="3" score="154"/>
+    <FallOfWicket batsman="5" score="157"/>
+    <BowlerSummary name="A Pitcher" overs="4" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Seale" overs="15" maidens="1" runs="59" wickets="3"/>
+    <BowlerSummary name="Jay" overs="11" maidens="2" runs="37" wickets="0"/>
+    <BowlerSummary name="Tapp" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="W Pitcher" overs="4" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Eton Vavaliers">
+    <Batsman name="D Benjamin">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="D Pitcher">
+      <HowOut how="Caught Mark Lawrence"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="C Feeney">
+      <HowOut how="Run Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Pitcher">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="W Pitcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Tapp">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jay">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Hinton">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="89"/>
+    <FallOfWicket batsman="1" score="99"/>
+    <FallOfWicket batsman="4" score="153"/>
+    <FallOfWicket batsman="3" score="158"/>
+    <FallOfWicket batsman="5" score="162"/>
+    <FallOfWicket batsman="7" score="163"/>
+    <BowlerSummary name="Jack Hollidge" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Peter Dawson" overs="6" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="3" runs="37" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="4" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

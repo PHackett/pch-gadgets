@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:34 UTC+0100 2010 -->
+<CricketMatch oppo="Crown Wood" date="Sat Jul 24 00:00:00 UTC+0100 2004">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="R King"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="David Russell">
+      <HowOut how="Bowled"/>
+      <Bowler name="R King"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A King"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="R King"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Cartlidge"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="A King"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="R King"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="A King"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="A King"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Caught"/>
+      <Bowler name="A King"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="48"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="3" score="125"/>
+    <FallOfWicket batsman="5" score="147"/>
+    <FallOfWicket batsman="6" score="147"/>
+    <BowlerSummary name="A Fowles" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="R King" overs="11" maidens="1" runs="46" wickets="4"/>
+    <BowlerSummary name="M Dickson" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Swnge" overs="5" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="J Whalley" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="A King" overs="9" maidens="1" runs="37" wickets="5"/>
+    <BowlerSummary name="J Cartlidge" overs="5" maidens="2" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Crown Wood">
+    <Batsman name="J Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D McQuitty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Binks">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Whalley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Swnge">
+      <HowOut how="Caught David Russell"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="C Allright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Dixon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Cartlidge">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="R King">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A King">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Fowles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="7" score="38"/>
+    <FallOfWicket batsman="5" score="88"/>
+    <FallOfWicket batsman="9" score="104"/>
+    <FallOfWicket batsman="10" score="142"/>
+    <FallOfWicket batsman="11" score="143"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="3" runs="26" wickets="5"/>
+    <BowlerSummary name="Steve Green" overs="9.3" maidens="4" runs="26" wickets="3"/>
+    <BowlerSummary name="Alex Neall" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="7" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning 3rds" date="Sat Jun 17 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       A hot day brought a spicy encounter between the two local rivals on a hard and dry stanlake pitch.
+      Sonning won the toss and decided to bat first. They got off to a racing start with 27 off the first
+      4 overs as the ball raced to the boundary. Beamish and Jones bowled fast and got some help from the
+      pitch but struggled to put the batsmen under pressure. Baker was first to go LBW soon to be followed
+      by Denyer who lost his leg stump also to Beamish. 
+      <p>
+       A change of bowling saw Gerwyn
+      Leigh come on to replace Beamish and the game soon swung in Twyfords favour. A stunning display of
+      line and variation in length saw the wickets tumble with figures of 7 for 12 off 5 overs. Leigh's
+      fifth wicket celebrations were slightly spoiled when the outgoing batsmen threw his bat and toys out
+      of his pram disputing his LBW decision. Boo hoo. Sonnings innings closed on 78, which never looked
+      like it would be enough. 
+      <p>
+       Twyfords reply started at a good pace with Eddy hitting 3
+      successive fours off Wilding before Hogarth got a tough LBW decision to go on 2. Smith, Eddy and
+      Neall followed shortly after to leave TRCC on 30 for 4. George Nunn came in and helped restore order
+      to innings ably assisted by Jas Lally who moved the scoreboard along nicely with some sweetly struck
+      boundaries. More quick wickets fell before Leigh and Nunn saw Twyford home with 3 wickets to spare.
+      A good win but we did make it hard for ourselves!. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Sonning 3rds">
+    <Batsman name="T Baker">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Driver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="K Denyer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Sharif">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="K Brant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Forrest">
+      <HowOut how="LBW"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Pownall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Medhurst">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Sanderson">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Tariq">
+      <HowOut how="Caught Steve Green"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Wilding">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Mark Jones" overs="6" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="5.2" maidens="2" runs="12" wickets="7"/>
+    <BowlerSummary name="Steve Green" overs="5" maidens="1" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Medhurst"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="P Wilding"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Medhurst"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="LBW"/>
+      <Bowler name="P Wilding"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Baker"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Matt Partington">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Baker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="A Tariq"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Steve Green"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="6" score="61"/>
+    <FallOfWicket batsman="7" score="61"/>
+    <FallOfWicket batsman="8" score="74"/>
+    <BowlerSummary name="D Medhurst" overs="7" maidens="3" runs="27" wickets="2"/>
+    <BowlerSummary name="P Wilding" overs="7" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="T Baker" overs="5" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="T Sharif" overs="2" maidens="2" runs="0" wickets="0"/>
+    <BowlerSummary name="A Tariq" overs="2.2" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:36 UTC+0100 2010 -->
+<CricketMatch oppo="Finchamstead" date="Sat May 16 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Finchamstead">
+    <Batsman name="M Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Squires">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="R Harrison">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="N Harding">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Osler">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="J Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Kendall">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Squires">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="F Skinner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Maynard">
+      <HowOut how="Caught I Helmore"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Massey">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="5" runs="20" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="9" maidens="3" runs="38" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="17" maidens="4" runs="43" wickets="1"/>
+    <BowlerSummary name="James Hollidge" overs="11" maidens="3" runs="32" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Kendall"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Massey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="D Massey"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="J Evans"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Evans"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="F Skinner"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="10"/>
+    <BowlerSummary name="R Squires" overs="9" maidens="3" runs="16" wickets="0"/>
+    <BowlerSummary name="D Massey" overs="17" maidens="6" runs="27" wickets="2"/>
+    <BowlerSummary name="M Kendall" overs="7" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="F Skinner" overs="7" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="J Evans" overs="6" maidens="2" runs="19" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

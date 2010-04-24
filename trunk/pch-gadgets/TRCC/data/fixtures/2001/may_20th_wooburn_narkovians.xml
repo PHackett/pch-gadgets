@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:45 UTC+0100 2010 -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 20 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Slow steady batting from Twyford posted only a modest score. Wren lead the way with 36 and most of
+      the rest of the order chipped in with useful runs. The score looked to be about 30 short. <P></P>
+      Wooburn made a good start and looked well set at 101 for 5 with batting to come and plenty of overs
+      in hand . However some tight bowling in the middle of the innings by Downes and Morris created
+      pressure. There was a run out and Abraham, bought back into the attack blew the tail away. A
+      tremendous victory that had looked unlikley until the final 6 overs was made all the sweeter by the
+      beauty of the setting and late evening sunshine. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Tennant"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="Barker"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Ct"/>
+      <Bowler name="Rogers"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Ct"/>
+      <Bowler name="Rogers"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clark"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Ct"/>
+      <Bowler name="Rogers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rogers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Ct"/>
+      <Bowler name="Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Barker" overs="8" maidens="4" runs="9" wickets="1"/>
+    <BowlerSummary name="Small" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Tennant" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Hale" overs="6" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="R Rogers" overs="11" maidens="3" runs="30" wickets="6"/>
+    <BowlerSummary name="Clark" overs="9.3" maidens="2" runs="30" wickets="2"/>
+  </Innings>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="D Rogers">
+      <HowOut how="Ct Wren"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Curtis">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Tennant">
+      <HowOut how="Ct P Hackett"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="B Sturgess">
+      <HowOut how="Ct R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Barker">
+      <HowOut how="Ct M Stewart"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Cannon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Small">
+      <HowOut how="Run Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="R Chance">
+      <HowOut how="Stumped"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Hale">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="13.2" maidens="2" runs="29" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="3" runs="34" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="8" maidens="2" runs="23" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

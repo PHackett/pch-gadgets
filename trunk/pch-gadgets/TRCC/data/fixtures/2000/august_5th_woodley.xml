@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:36 UTC+0100 2010 -->
+<CricketMatch oppo="Woodley" date="Sat Aug 5 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="A Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="A Khan"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Sagheer"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="LBW"/>
+      <Bowler name="A Khan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="I Jubb"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Jubb"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="I Jubb"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="I Jubb"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Jubb"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rob James">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="A Khan" overs="12" maidens="0" runs="72" wickets="3"/>
+    <BowlerSummary name="S Parmar" overs="8" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="M Sagheer" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="R Dyer" overs="7" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="I Jubb" overs="6.5" maidens="0" runs="25" wickets="5"/>
+  </Innings>
+  <Innings batting="Woodley">
+    <Batsman name="I Jubb">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="M Sagheer">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="A Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="T Bucknall">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Bunch">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Perara">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="K Chandry">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="R Dyer">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Bennett">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Hewitt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Andrew Jackson" overs="16.2" maidens="0" runs="66" wickets="4"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="3" runs="56" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="2" runs="28" wickets="3"/>
+    <BowlerSummary name="Alex Neall" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

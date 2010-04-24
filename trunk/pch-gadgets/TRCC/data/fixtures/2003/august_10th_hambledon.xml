@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Hambledon" date="Sun Aug 10 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       <b>Twyford Coast on Hottest Day</b> 
+      <p>
+       Hambledon turned up with 8 men and when
+      skipper Hollis won the toss he immediately chose to bat. His own form, scoring a patient 91, and
+      some help from the Twyford bowlers, made light of Hambledon's reduced numbers. Twyford conceeded 39
+      extras including a tidal wave of 25 wides! Steve Abraham was a notable exception bowling an 8 over
+      spell in the worst of the heat for 7 runs with only 1 leg bye as an extra. The pitch played like a
+      sandy beach with regular low bounce making it very difficult to take wickets and only 3 fell in the
+      innings. 
+      <p>
+       A bone dry outfield shimmered in the heat and a target of 151 was never
+      going to test the home side. Woodman found his favourite paddle shot and lapped his way to a first
+      50 of the season, Seymour at the other end dropped anchor and dug himself him in so deep that there
+      was no getting him out! When Woodman was dismissed with the score on 70 the Twyford lighthouse , the
+      6 foot 7 inch, Wren brought his towering form to the crease. He raced, like a jet ski across the
+      horizon leaving all in his wake, to his 5th consecutive half century finishing on 64 not out, this
+      from an unbeaten 2nd wicket partnership of 85. Seymour who finished on 35 and the large crowd of
+      families, friends and daytrippers who had been brought out by the hot weather just sat on deck
+      chairs, ate ice creams and marvelled
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Hambledon">
+    <Batsman name="Arnold">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hollis">
+      <HowOut how="Not Out"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="Bracknell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Patrick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Barber"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Bridges">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Bridges"/>
+    <Batsman name="Evans"/>
+    <Batsman name="Bradford"/>
+    <Extras value="39"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="3" score="128"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="6" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="4" runs="7" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Neil Barber" overs="7" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="1" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Arnold"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Ken Cochrane"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Neil Barber"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <BowlerSummary name="Evans" overs="11" maidens="4" runs="25" wickets="0"/>
+    <BowlerSummary name="Arnold" overs="14" maidens="0" runs="63" wickets="1"/>
+    <BowlerSummary name="Hollis" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="G Bridges" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Patrick" overs="1.4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

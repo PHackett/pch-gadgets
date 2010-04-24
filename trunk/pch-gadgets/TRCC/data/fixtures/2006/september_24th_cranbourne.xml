@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 24 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       Ah.... Here we are again, and to paraphrase Mr. Gilmore &quot;<em>Shorter of breath, and one season
+      closer to death....</em>&quot; 
+      <p>
+       But leave the gloomy philosophising for another
+      time - This was a glorious day to end the season on. Bright sunshine and warm temperatures this late
+      in the year are a certain bonus, and Cranbourne, under the watchful eye or her majesty the Quoon
+      from Windsor Castle, making a delightful setting. Woodman won the toss (Downes <em>late...</em>) and
+      inserted the oppo in to bat. The Twyford openers Beamish &amp; Hackett vindicated that decision with
+      only 40 runs scored and 2 wickets taken in the first 20 overs. But with the change of bowling, the
+      tide also changed. Thorpe was excellent reaching an undefeated 102 as a couple of dropped catches
+      let Cranbourne off the hook. The final score of 197 was far more than had been anticipated half way
+      through their innings! 
+      <p>
+       Twyford got off to a fast start, with Woodman leading the
+      way. But apart from Peter, the only other significant contribution was to come from Downes, the
+      others folding on what was a very reasonable batting track. Not to take anything away from the home
+      side who fielded 7 bowlers, each of whom performed well. 
+      <p>
+       The death knell for
+      Twford fell on the penultimate ball of the game when Thorpe dismissed H Fort with a lovely ball.
+      Another season was over, but such a pleasant game, showing once more that Cricket is surely the
+      pinacle of human achievement &amp; civilisation, who could be downhearted? 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Dainty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Thorpe">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="Razer">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Posner">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Twitchen">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Robinson">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Leach"/>
+    <Batsman name="B Barfield"/>
+    <Batsman name="Driscoll"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Steve Beamish" overs="18" maidens="0" runs="79" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="4" runs="14" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="65" wickets="2"/>
+    <BowlerSummary name="Nick Healey" overs="4" maidens="0" runs="32" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Posner"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Driscoll"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Driscoll"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="4" score="50"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="101"/>
+    <FallOfWicket batsman="7" score="112"/>
+    <FallOfWicket batsman="1" score="135"/>
+    <FallOfWicket batsman="8" score="136"/>
+    <FallOfWicket batsman="10" score="151"/>
+    <FallOfWicket batsman="9" score="151"/>
+    <BowlerSummary name="Razer" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="B Barfield" overs="12" maidens="3" runs="23" wickets="4"/>
+    <BowlerSummary name="Robinson" overs="5" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Posner" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Driscoll" overs="5" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Jones" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Thorpe" overs="3.5" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
