@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Denham" date="Sat May 4 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Denham">
+    <Batsman name="P Ashworth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Ross">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="K Knowles">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="G Hales">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Haled">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Dodd">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Bull">
+      <HowOut how="Caught Jamie Evans"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Smith">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="T Payne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Vaughan">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="David Downes" overs="15" maidens="12" runs="7" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="13" maidens="2" runs="38" wickets="4"/>
+    <BowlerSummary name="Mark Lawrence" overs="4" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="3.5" maidens="1" runs="3" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="S Bull"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Peter Kelly"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Jamie Evans"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="David Downes"/>
+    <Extras value="7"/>
+    <BowlerSummary name="G Hales" overs="9" maidens="3" runs="17" wickets="0"/>
+    <BowlerSummary name="S Bull" overs="6" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="B Smith" overs="7" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="R Vaughan" overs="6" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="D Haled" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

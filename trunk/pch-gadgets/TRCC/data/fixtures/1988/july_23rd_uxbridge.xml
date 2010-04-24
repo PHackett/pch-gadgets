@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="Uxbridge" date="Sat Jul 23 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lowsborough"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Lowsborough"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Harper"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Wrightson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clegg"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Andy King"/>
+    <Batsman name="Steve Hill"/>
+    <Batsman name="Theo Gray"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Harper" overs="18" maidens="6" runs="42" wickets="1"/>
+    <BowlerSummary name="Lowsborough" overs="11" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Wrightson" overs="11" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Clegg" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Jenkins" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Uxbridge">
+    <Batsman name="Scott">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Jenkins">
+      <HowOut how="Caught Rich Lawrance"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lowsborough">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Adnett">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Harper">
+      <HowOut how="Run Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Swallow">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Johns">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wrightson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="6" runs="14" wickets="0"/>
+    <BowlerSummary name="Chris Sellers" overs="11" maidens="4" runs="19" wickets="2"/>
+    <BowlerSummary name="Theo Gray" overs="5" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="Rich Lawrance" overs="3" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="2" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="Steve Dunn" overs="6" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

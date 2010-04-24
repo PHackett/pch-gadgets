@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:01 UTC+0100 2010 -->
+<CricketMatch oppo="Shinfield" date="Sat Jul 20 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Eanes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Fenwick"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="J Fenwick"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alfie Rahman">
+      <HowOut how="Caught"/>
+      <Bowler name="G Eanes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Paul Lilley">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Fenwick"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Webb"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Eanes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Webb"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Fenwick"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="G Eanes" overs="20" maidens="3" runs="49" wickets="3"/>
+    <BowlerSummary name="J Fenwick" overs="23" maidens="5" runs="41" wickets="4"/>
+    <BowlerSummary name="S Webb" overs="3" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Shinfield">
+    <Batsman name="M Eastwood">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Mace">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Tubb">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Roberts">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="S Webb">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="K Hawkins">
+      <HowOut how="Caught Howard Burton"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P King">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Sass">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Sargent">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Fenwick">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Eanes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Steve Abraham" overs="9" maidens="3" runs="9" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="15" maidens="4" runs="32" wickets="4"/>
+    <BowlerSummary name="Alfie Rahman" overs="7" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="2" runs="6" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="19" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

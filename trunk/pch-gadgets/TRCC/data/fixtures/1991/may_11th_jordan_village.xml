@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Jordan Village" date="Sat May 11 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Newbury"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Colin Nicol">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="G Ashmead"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Woodrow"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Newbury"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Newbury"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Woodrow"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Newbury"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Sweet"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught"/>
+      <Bowler name="A Newbury"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Sweet"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="A Newbury" overs="19" maidens="6" runs="41" wickets="5"/>
+    <BowlerSummary name="G Ashmead" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="A Woodrow" overs="8" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="P Sweet" overs="4.5" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="A Miller" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Jordan Village">
+    <Batsman name="M Pembroke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="A Woodrow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="T Sonnex">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="P Sweet">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="S Morrex">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J MacCleod">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Newbury">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Ashmead">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Steve Abraham" overs="13" maidens="4" runs="33" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="15" maidens="5" runs="31" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="2.5" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:38 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Sep 24 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="J Sewell"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Franks"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Franks"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="T Stevenson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="D Parsons"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ian Grimwade">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Sewell"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Sewell"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="9"/>
+    <BowlerSummary name="J Franks" overs="9" maidens="5" runs="15" wickets="2"/>
+    <BowlerSummary name="G Lester" overs="7" maidens="2" runs="8" wickets="0"/>
+    <BowlerSummary name="D Parsons" overs="11" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="T Stevenson" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="J Sewell" overs="8" maidens="1" runs="33" wickets="3"/>
+    <BowlerSummary name="G Elvy" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="H Bell" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="H Bell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="J Sewell">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="D Whitwam">
+      <HowOut how="Caught P Howells"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Sewell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Elvy">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Franks">
+      <HowOut how="LBW"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="M Fisher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Parsons">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Welch">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Stevenson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Lester"/>
+    <Extras value="7"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="15" maidens="5" runs="48" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="2.2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

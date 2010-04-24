@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:40 UTC+0100 2010 -->
+<CricketMatch oppo="Hurley" date="Tue Jun 11 00:00:00 UTC+0100 1991">
+  <MatchReport>
+    <![CDATA[
+      This was a Julian Cup match played on a Tuesday
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Furneaux"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sidiqui"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="J Furneaux"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Furneaux"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="C Long"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Long"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="C Long"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="J Furneaux" overs="8" maidens="0" runs="53" wickets="3"/>
+    <BowlerSummary name="C Long" overs="7" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="S Sidiqui" overs="7" maidens="0" runs="28" wickets="1"/>
+  </Innings>
+  <Innings batting="Hurley">
+    <Batsman name="R Dorrington">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="A Greene">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Hunte">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Kendrill">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Ridgeway">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="J Furneaux">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Dobson">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="1" runs="33" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="5.4" maidens="0" runs="39" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

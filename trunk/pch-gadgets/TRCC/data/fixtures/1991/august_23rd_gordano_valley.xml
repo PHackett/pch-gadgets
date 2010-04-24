@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Gordano Valley" date="Fri Aug 23 00:00:00 UTC+0100 1991">
+  <MatchReport>
+    <![CDATA[
+      Match abandoned due to rain
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Windwood"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Strong"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bevan"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="10"/>
+    <BowlerSummary name="C Strong" overs="12" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="P Windwood" overs="10" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Bevan" overs="3" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Smith" overs="1.2" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Gordano Valley">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sun Sep 29 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Snr Healy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Daniels"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="V Hayter"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jnr Healy"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hayter"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="V Hayter"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="V Hayter"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="V Hayter"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="M Hayter"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Jnr Healy" overs="7" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Earnest" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Daniels" overs="6" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Snr Healy" overs="6" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="M Hayter" overs="5" maidens="2" runs="10" wickets="2"/>
+    <BowlerSummary name="V Hayter" overs="5" maidens="0" runs="22" wickets="4"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="E Ellis">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="N Ferguson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="E Thakurdas">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="P Desbois">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Hayter">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="B Collins">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="James Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="M Hollingson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="V Hayter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Healy">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Daniels">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Healy">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Chris Sellers" overs="10" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="4" runs="24" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="1.2" maidens="0" runs="4" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

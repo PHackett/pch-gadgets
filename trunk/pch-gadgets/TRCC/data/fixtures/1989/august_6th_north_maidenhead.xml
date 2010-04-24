@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:37 UTC+0100 2010 -->
+<CricketMatch oppo="North Maidenhead" date="Sun Aug 6 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stockton"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="R Kingston"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Kingston"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Kingston"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Ian Grimwade"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="John Kirk"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Stockton" overs="14" maidens="2" runs="66" wickets="1"/>
+    <BowlerSummary name="Fray" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="R Kingston" overs="13" maidens="1" runs="48" wickets="3"/>
+    <BowlerSummary name="M Leoni" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Ryder" overs="5" maidens="0" runs="49" wickets="0"/>
+  </Innings>
+  <Innings batting="North Maidenhead">
+    <Batsman name="S Foster">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="R Bush">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Merrit">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Carter">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="D Fry">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Leoni">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Kingston">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="A Ryder">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Kingston">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="P Stockton">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Fray">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Nic Downes" overs="15" maidens="3" runs="75" wickets="4"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="7.1" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="1" runs="10" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

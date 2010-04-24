@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<CricketMatch oppo="Courage" date="Sun Jul 5 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Courage">
+    <Batsman name="D Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="P Bunch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Batson">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Askins">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Cole">
+      <HowOut how="b"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="T Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="D Kupiec">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="C Price">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Honey"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="4" score="38"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="11" maidens="4" runs="32" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Simon Kelly" overs="2" maidens="1" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Price"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Prior"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Kupiec"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="D Batson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Kupiec"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="T Wren"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Simon Kelly"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="3" score="88"/>
+    <FallOfWicket batsman="6" score="97"/>
+    <FallOfWicket batsman="7" score="147"/>
+    <BowlerSummary name="A Prior" overs="7" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="C Price" overs="11" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="P Bunch" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="D Batson" overs="6" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="D Kupiec" overs="5" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="T Wren" overs="3" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

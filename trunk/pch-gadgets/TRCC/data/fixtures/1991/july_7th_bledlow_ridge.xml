@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Jul 7 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Spencer"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dryden"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Morbey"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="P Smith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="24"/>
+    <BowlerSummary name="B Keeping" overs="11" maidens="3" runs="22" wickets="0"/>
+    <BowlerSummary name="R Dryden" overs="12" maidens="2" runs="54" wickets="1"/>
+    <BowlerSummary name="P Smith" overs="7.5" maidens="0" runs="58" wickets="1"/>
+    <BowlerSummary name="J Morbey" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="M Spencer" overs="2" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="R Dryden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="T Dryden">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="P Boyd-Leslie">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Smith">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="S Knapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Grey">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Morbey">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Keeping">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Spencer">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="3" runs="43" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="4" runs="30" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="2" runs="37" wickets="4"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

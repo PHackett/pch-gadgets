@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:37 UTC+0100 2010 -->
+<CricketMatch oppo="Thornbury" date="Fri Aug 25 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Thornbury">
+    <Batsman name="P Holder">
+      <HowOut how="Not Out"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="J Wormwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Jones">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="James Fort"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="M Allen">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="David Downes" overs="6.4" maidens="1" runs="41" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Mark Lawrence" overs="2" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Allen"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Richard Knight"/>
+    <Extras value="32"/>
+    <BowlerSummary name="G Heavan" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Walker" overs="5" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Barlow" overs="5" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="C Jenkins" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="M Allen" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Knight" overs="2.3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Pritchard" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

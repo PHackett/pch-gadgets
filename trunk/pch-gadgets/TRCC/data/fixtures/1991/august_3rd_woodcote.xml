@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:01 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sat Aug 3 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="C Anderson">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="M Robson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Smith">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="H Hunt">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="W Williams">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Glover">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="G Phillips">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="C Canty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Hayter">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Walker">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Steve Abraham" overs="9" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="2" runs="35" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="5" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="45" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="C Anderson"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Roberts"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="C Walker"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="C Anderson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="S Hayter" overs="12" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="P Roberts" overs="11" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="C Walker" overs="9" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="C Anderson" overs="9" maidens="2" runs="29" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

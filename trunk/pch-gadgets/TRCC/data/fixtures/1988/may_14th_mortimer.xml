@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:20 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer" date="Sat May 14 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Husbands"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Parker"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Husbands"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Husbands"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="S Parker"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="S Parker"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Quint Knowleson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Husbands"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Vince Bradley"/>
+    <Extras value="9"/>
+    <BowlerSummary name="S Parker" overs="9" maidens="0" runs="36" wickets="3"/>
+    <BowlerSummary name="Jenkin" overs="9" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="Hewett" overs="10" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Husbands" overs="9" maidens="2" runs="17" wickets="4"/>
+    <BowlerSummary name="D Parker" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Paul" overs="5" maidens="0" runs="28" wickets="0"/>
+  </Innings>
+  <Innings batting="Mortimer">
+    <Batsman name="J Treherne">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="V Phillips">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Watson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="W Husbands">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Jenkin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Parker">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Paul">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Bishop">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Bishop">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hewett"/>
+    <Extras value="5"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="4" runs="20" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="3" runs="27" wickets="5"/>
+    <BowlerSummary name="Andy Scott" overs="4" maidens="3" runs="1" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="8" maidens="6" runs="4" wickets="1"/>
+    <BowlerSummary name="Andy Wilkinson" overs="4" maidens="2" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:20 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Sep 25 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Tripp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Twitchin"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Ren Ison">
+      <HowOut how="Bowled"/>
+      <Bowler name="Horne"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Potts"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Potts"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Potts"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Caught"/>
+      <Bowler name="Horne"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="David Downes"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Twitchin" overs="10" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Sayer" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Horne" overs="14.2" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="Potts" overs="4" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="Smith" overs="7" maidens="0" runs="46" wickets="1"/>
+  </Innings>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="G Bowden">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Middleton">
+      <HowOut how="Stumped"/>
+      <Bowler name="Steve Tripp"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="S Knapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Deighton">
+      <HowOut how="Caught Steve Tripp"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="H Twitchin">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Smith">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Tripp"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Potts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Sayer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Horne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Stewart Wren" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="11" maidens="3" runs="24" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="3" runs="10" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="22" wickets="3"/>
+    <BowlerSummary name="Steve Tripp" overs="7" maidens="2" runs="22" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

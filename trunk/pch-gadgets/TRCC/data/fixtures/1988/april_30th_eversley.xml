@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:20 UTC+0100 2010 -->
+<CricketMatch oppo="Eversley" date="Sat Apr 30 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Eversley">
+    <Batsman name="S Copeland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Renshaw">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="M Beer">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="C Howard">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="P Kitchen">
+      <HowOut how="Caught Chris Sellers"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="B Read">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Wilson"/>
+    <Batsman name="J Muir"/>
+    <Batsman name="G Salmons"/>
+    <Batsman name="M Dickens"/>
+    <Batsman name="C Clarke"/>
+    <Extras value="5"/>
+    <BowlerSummary name="Chris Sellers" overs="16" maidens="6" runs="40" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="14" maidens="6" runs="26" wickets="0"/>
+    <BowlerSummary name="Steve Dunn" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="8" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="7.4" maidens="1" runs="33" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="M Dickens"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Salmons"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="G Salmons"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Dickens"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Dickens"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Salmons"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="C Clarke"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="M Dickens"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Caught"/>
+      <Bowler name="M Dickens"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Caught"/>
+      <Bowler name="C Clarke"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="G Salmons" overs="13" maidens="2" runs="39" wickets="3"/>
+    <BowlerSummary name="M Dickens" overs="15" maidens="7" runs="28" wickets="5"/>
+    <BowlerSummary name="C Clarke" overs="3" maidens="1" runs="7" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

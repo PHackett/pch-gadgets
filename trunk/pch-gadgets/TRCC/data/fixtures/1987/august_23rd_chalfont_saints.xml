@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Aug 23 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="Welch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Frank">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Whitford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Collins">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Lester">
+      <HowOut how="Caught John Howells"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Fisher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Haut">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Housego">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Holloway">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Hollaway">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Bawick">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="7" score="85"/>
+    <FallOfWicket batsman="8" score="91"/>
+    <BowlerSummary name="David Downes" overs="11.2" maidens="4" runs="18" wickets="4"/>
+    <BowlerSummary name="Stewart Wren" overs="14" maidens="7" runs="25" wickets="3"/>
+    <BowlerSummary name="Andy Wilkinson" overs="12" maidens="2" runs="33" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lester"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Frank"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="Lester"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="John Howells"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <BowlerSummary name="Frank" overs="14" maidens="3" runs="40" wickets="1"/>
+    <BowlerSummary name="Lester" overs="7" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Collins" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Fisher" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Housego" overs="1.5" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

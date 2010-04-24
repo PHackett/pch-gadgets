@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:04 UTC+0100 2010 -->
+<CricketMatch oppo="Woolhampton" date="Sat May 9 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woolhampton">
+    <Batsman name="M Gregory">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Wheeler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pickup">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Waters">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Giles">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Gregory">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wright">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hambrecht">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Moore">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mundy">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Chris Sellers" overs="8" maidens="3" runs="15" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="6" maidens="1" runs="15" wickets="4"/>
+    <BowlerSummary name="Theo Gray" overs="6.4" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Ray Cox" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="Wright"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Wright"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="1"/>
+    <BowlerSummary name="Wheeler" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Morris" overs="7" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Wright" overs="8" maidens="2" runs="39" wickets="2"/>
+    <BowlerSummary name="Pickup" overs="3" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:52 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 29 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hamani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Mortimer"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Mortimer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nigel Sherratt">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Reader"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Owen"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Owen"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reader"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Owen"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Hamani" overs="9" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Woods" overs="6" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Mortimer" overs="4" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Smith" overs="5" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Owen" overs="11.1" maidens="0" runs="48" wickets="3"/>
+    <BowlerSummary name="Reader" overs="9" maidens="2" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="J Smith">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A Mortimer">
+      <HowOut how="Caught A Wilkinson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Fennemore">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Moss">
+      <HowOut how="Caught N Sherratt"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="David Downes"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="A Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Hamani">
+      <HowOut how="Caught P Hackett"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Reader">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Hamani">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Owen"/>
+    <Extras value="17"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="2" runs="40" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="3" runs="28" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:04 UTC+0100 2010 -->
+<CricketMatch oppo="Highmoor" date="Sat May 16 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Highmoor">
+    <Batsman name="B Will">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="O Lovelock">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="G Wells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="D White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Wills">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Coleman">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Choules">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Choules">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="M Halley">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Summon"/>
+    <Batsman name="J Long"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="33"/>
+    <FallOfWicket batsman="1" score="47"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="7" score="71"/>
+    <FallOfWicket batsman="9" score="71"/>
+    <BowlerSummary name="Chris Sellers" overs="13" maidens="5" runs="32" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="21" maidens="10" runs="30" wickets="7"/>
+    <BowlerSummary name="Theo Gray" overs="9" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Caught"/>
+      <Bowler name="M Halley"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Theo Gray"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <BowlerSummary name="M Halley" overs="17.2" maidens="4" runs="44" wickets="1"/>
+    <BowlerSummary name="O Lovelock" overs="11" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="R Coleman" overs="5" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

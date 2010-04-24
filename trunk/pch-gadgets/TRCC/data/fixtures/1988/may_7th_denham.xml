@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:20 UTC+0100 2010 -->
+<CricketMatch oppo="Denham" date="Sat May 7 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Denham">
+    <Batsman name="One">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Two">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Three">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Four">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Five">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Six">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Seven">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Eight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nine">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ten">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Eleven">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="Chris Sellers" overs="11" maidens="5" runs="14" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="7" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="9" maidens="3" runs="17" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="8" maidens="1" runs="26" wickets="4"/>
+    <BowlerSummary name="Steve Dunn" overs="6" maidens="0" runs="26" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Beale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Richardson"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Hartley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Richardson"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Simon Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Richardson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Vince Bradley"/>
+    <Extras value="3"/>
+    <BowlerSummary name="Beale" overs="7" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Hartley" overs="3" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Nagle" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Richardson" overs="7" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Fox" overs="8.4" maidens="2" runs="30" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

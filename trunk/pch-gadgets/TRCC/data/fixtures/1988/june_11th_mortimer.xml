@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer" date="Sat Jun 11 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mortimer">
+    <Batsman name="J Trehernw">
+      <HowOut how="Stumped"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="V Phillips">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="S Parker">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T Edwards">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Parker">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Bishop">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="L Holmes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Worral">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="W Hustards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Hewett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Bishop">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Ian Helmore" overs="11" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="8" maidens="3" runs="11" wickets="0"/>
+    <BowlerSummary name="Chris Sellers" overs="17" maidens="5" runs="29" wickets="6"/>
+    <BowlerSummary name="Theo Gray" overs="12" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="2.3" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="LBW"/>
+      <Bowler name="D Parker"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Parker"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Quint Knowleson">
+      <HowOut how="Caught"/>
+      <Bowler name="S Parker"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Worral"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Mark Lawrence"/>
+    <Extras value="8"/>
+    <BowlerSummary name="L Holmes" overs="6" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="D Parker" overs="13" maidens="4" runs="25" wickets="2"/>
+    <BowlerSummary name="S Parker" overs="9" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="R Worral" overs="2" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="D Hewett" overs="1" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

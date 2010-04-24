@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Bedfont 62" date="Sun Aug 4 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gould"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gould"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gould"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Sutton"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Gould"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Gould"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gould"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Gould"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="Sutton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Clarke">
+      <HowOut how="Caught"/>
+      <Bowler name="Gould"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Gould" overs="18.5" maidens="1" runs="47" wickets="8"/>
+    <BowlerSummary name="Field" overs="8" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Edwards" overs="6" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Sutton" overs="4" maidens="1" runs="21" wickets="2"/>
+  </Innings>
+  <Innings batting="Bedfont 62">
+    <Batsman name="Fisher">
+      <HowOut how="Run Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Osbon">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Fitzpatrick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Bates">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bell">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Edwards">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Gould">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bateman">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Walsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sutton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Field">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="29" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="2" runs="20" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="15" maidens="4" runs="40" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

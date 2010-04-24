@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Sep 12 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale">
+    <Batsman name="Hopper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Barefoot">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Banning">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="Charlesborough">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Pickford">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hall"/>
+    <Batsman name="Hicks"/>
+    <Batsman name="A Gray"/>
+    <Batsman name="J Gray"/>
+    <Batsman name="Williams"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="4" score="135"/>
+    <FallOfWicket batsman="5" score="153"/>
+    <FallOfWicket batsman="3" score="159"/>
+    <BowlerSummary name="David Downes" overs="8" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Andy Abrahams" overs="8" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="3.4" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="Andy Wilkinson" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Run Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Pickford"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pickford"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andy Abrahams">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hicks"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hicks"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Gray"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vince Bradley"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="2" score="72"/>
+    <FallOfWicket batsman="3" score="85"/>
+    <FallOfWicket batsman="6" score="90"/>
+    <FallOfWicket batsman="5" score="90"/>
+    <FallOfWicket batsman="7" score="157"/>
+    <FallOfWicket batsman="8" score="158"/>
+    <FallOfWicket batsman="9" score="159"/>
+    <BowlerSummary name="J Gray" overs="11" maidens="2" runs="38" wickets="3"/>
+    <BowlerSummary name="Williams" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Pickford" overs="8" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Hicks" overs="7.2" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Jones" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="Lydney" date="Thu Aug 27 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Lydney">
+    <Batsman name="R Clitheroe">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="A Kear">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="C Dovey">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="T Stone">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="J Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="91"/>
+    <FallOfWicket batsman="1" score="147"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="1" runs="58" wickets="1"/>
+    <BowlerSummary name="Chris Sellers" overs="15" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="7" maidens="0" runs="40" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="Henderson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="J Williams"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="J Williams"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Rafferty"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Stone"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="Henderson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Stumped"/>
+      <Bowler name="T Stone"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Williams"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Henderson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="124"/>
+    <FallOfWicket batsman="4" score="163"/>
+    <FallOfWicket batsman="2" score="168"/>
+    <FallOfWicket batsman="5" score="168"/>
+    <FallOfWicket batsman="7" score="176"/>
+    <FallOfWicket batsman="6" score="192"/>
+    <FallOfWicket batsman="8" score="196"/>
+    <FallOfWicket batsman="9" score="212"/>
+    <FallOfWicket batsman="11" score="214"/>
+    <BowlerSummary name="Henderson" overs="8" maidens="3" runs="25" wickets="3"/>
+    <BowlerSummary name="P Denning" overs="6" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="J Williams" overs="11.2" maidens="0" runs="54" wickets="4"/>
+    <BowlerSummary name="T Stone" overs="12" maidens="0" runs="48" wickets="2"/>
+    <BowlerSummary name="R Park" overs="6" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Rafferty" overs="3" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Sep 3 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="Buckland">
+      <HowOut how="Caught Andy King"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mattingly">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="David Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="G Elton">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="B Elton">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Francis">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Robins">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Crick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Boss">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pople">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pamdhillon">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spreadborough">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Rich Lawrance" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="13.1" maidens="6" runs="29" wickets="8"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="6" maidens="2" runs="10" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Crick"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Boss"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Quint Knowleson"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Andy King"/>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Vince Bradley"/>
+    <Extras value="11"/>
+    <BowlerSummary name="Crick" overs="12" maidens="8" runs="22" wickets="1"/>
+    <BowlerSummary name="Boss" overs="9" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="Pople" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="G Elton" overs="5.1" maidens="0" runs="45" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

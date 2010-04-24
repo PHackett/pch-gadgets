@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:52 UTC+0100 2010 -->
+<CricketMatch oppo="Ottershaw" date="Sun Jul 1 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ottershaw">
+    <Batsman name="M Cull">
+      <HowOut how="Caught C Sellers"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="E Lee">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="V Field">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="C Eaton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Sexton">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Bourne"/>
+    <Batsman name="D Hammond"/>
+    <Batsman name="T Huggins"/>
+    <Batsman name="S Clark"/>
+    <Batsman name="N Gilbert"/>
+    <Batsman name="J Heslington"/>
+    <Extras value="24"/>
+    <BowlerSummary name="Chris Sellers" overs="14.2" maidens="2" runs="68" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="16" maidens="4" runs="35" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="60" wickets="1"/>
+    <BowlerSummary name="Chris Bose" overs="4" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="D Bourne"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Hammond"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Chris Bose"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Extras value="15"/>
+    <BowlerSummary name="S Clark" overs="14" maidens="0" runs="62" wickets="0"/>
+    <BowlerSummary name="D Bourne" overs="9.3" maidens="1" runs="48" wickets="1"/>
+    <BowlerSummary name="J Heslington" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="D Hammond" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="T Huggins" overs="4" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

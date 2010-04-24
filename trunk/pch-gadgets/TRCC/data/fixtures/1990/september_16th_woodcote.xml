@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:53 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Sep 16 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="D Comley">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Allum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Phillips">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="S Donnelly">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Gardner">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="J Sawyer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Baldwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Webb">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Higley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Higley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Sinclair">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="4" runs="31" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="1" runs="47" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="2" runs="49" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="28" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Gardner"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Higley"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="P Sinclair"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Sinclair"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Sawyer"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="P Sinclair"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Sinclair"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="4"/>
+    <BowlerSummary name="S Higley" overs="8" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="T Gardner" overs="19" maidens="3" runs="61" wickets="1"/>
+    <BowlerSummary name="P Sinclair" overs="10" maidens="3" runs="41" wickets="4"/>
+    <BowlerSummary name="J Sawyer" overs="2" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

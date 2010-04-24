@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:52 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sun Jul 15 00:00:00 UTC+0100 1990">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Haddock"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="R Haddock"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Crook"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Nigel Sherratt"/>
+    <Extras value="31"/>
+    <BowlerSummary name="R Haddock" overs="12" maidens="2" runs="53" wickets="2"/>
+    <BowlerSummary name="McLaren" overs="3" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Hester" overs="9" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Crook" overs="4" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Howes" overs="7" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Larkins" overs="3" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="McWarnel">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Larkins">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Haddock">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Howard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="A Howse">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="J Eycott">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Hester">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Crook">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A McLaren">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Nic Downes" overs="19" maidens="1" runs="105" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Chris Bose" overs="5" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="7.1" maidens="1" runs="23" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:59:59 UTC+0100 2010 -->
+<CricketMatch oppo="Lower Earley" date="Sun Aug 18 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Carson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Carson"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wolf"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maynard"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Paul Lilley">
+      <HowOut how="Caught"/>
+      <Bowler name="Maynard"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wolf"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Wolf"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jon Watts">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <BowlerSummary name="Haddock" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Bergen" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Saunders" overs="5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Carson" overs="9" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Maynard" overs="10" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Tucker" overs="6" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Wolf" overs="2" maidens="0" runs="9" wickets="3"/>
+    <BowlerSummary name="Lee" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+  <Innings batting="Lower Earley">
+    <Batsman name="R Baker">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Carson">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Lee">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="G Kemp">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Bergen">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wolf">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Saunders">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Haddock">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tucker">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="9.3" maidens="3" runs="16" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="3" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="2" runs="41" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="1" runs="47" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

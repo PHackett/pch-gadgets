@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="Woolhampton" date="Sat Sep 5 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Walters"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pickup"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pickup"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="Pickup"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="LBW"/>
+      <Bowler name="Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="Vince Bradley"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="69"/>
+    <FallOfWicket batsman="2" score="96"/>
+    <FallOfWicket batsman="3" score="144"/>
+    <FallOfWicket batsman="4" score="161"/>
+    <FallOfWicket batsman="9" score="162"/>
+    <FallOfWicket batsman="5" score="164"/>
+    <BowlerSummary name="Wright" overs="16" maidens="2" runs="68" wickets="1"/>
+    <BowlerSummary name="Pickup" overs="15" maidens="2" runs="55" wickets="3"/>
+    <BowlerSummary name="Wheeler" overs="7" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="Walters" overs="7" maidens="2" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Woolhampton">
+    <Batsman name="Wheeler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pickup">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Walters">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Houdley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Charteris">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Gregory">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="96"/>
+    <FallOfWicket batsman="4" score="146"/>
+    <FallOfWicket batsman="2" score="170"/>
+    <FallOfWicket batsman="6" score="175"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Andrew Hay" overs="4" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Kim Knight" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Peter Lake" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Chris Sellers" overs="7" maidens="2" runs="48" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="1" runs="29" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<CricketMatch oppo="Woodley 2nds" date="Sun Jun 21 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Trubee"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="D Trubee"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hume"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Terry"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Trubee"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Caught"/>
+      <Bowler name="D Trubee"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Hume"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Broome"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Simon Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Fishlock"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Phil Norris">
+      <HowOut how="Caught"/>
+      <Bowler name="Fishlock"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="5" score="57"/>
+    <FallOfWicket batsman="6" score="57"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="7" score="71"/>
+    <FallOfWicket batsman="8" score="83"/>
+    <FallOfWicket batsman="10" score="102"/>
+    <FallOfWicket batsman="9" score="136"/>
+    <BowlerSummary name="D Trubee" overs="12" maidens="5" runs="11" wickets="4"/>
+    <BowlerSummary name="Terry" overs="9" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Broome" overs="11" maidens="3" runs="25" wickets="1"/>
+    <BowlerSummary name="Hume" overs="6" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Fishlock" overs="6" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Butler" overs="3" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Woodley 2nds">
+    <Batsman name="R Farmer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil Norris"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Dyer">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Broome">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="P Fishlock">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P Terry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Trumper">
+      <HowOut how="Caught Phil Norris"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil Norris"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Foxwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil Norris"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Butler">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Hume">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Trubee">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="5" score="27"/>
+    <FallOfWicket batsman="7" score="40"/>
+    <FallOfWicket batsman="8" score="44"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="10" score="71"/>
+    <BowlerSummary name="David Downes" overs="16" maidens="8" runs="26" wickets="3"/>
+    <BowlerSummary name="Phil Norris" overs="13" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="1" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

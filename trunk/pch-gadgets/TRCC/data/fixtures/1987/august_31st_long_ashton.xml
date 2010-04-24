@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="Long Ashton" date="Mon Aug 31 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Long Ashton">
+    <Batsman name="C Roden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="J Lambert">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="N Jenkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="M Birback">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Prier">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Johnstone">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="M Orchard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Williams">
+      <HowOut how="Caught Vince Bradley"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T King">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Roden">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="C Moss">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="32"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="3" score="142"/>
+    <FallOfWicket batsman="7" score="142"/>
+    <FallOfWicket batsman="8" score="143"/>
+    <FallOfWicket batsman="9" score="143"/>
+    <FallOfWicket batsman="6" score="194"/>
+    <BowlerSummary name="Andy Wilkinson" overs="12" maidens="0" runs="59" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="1" runs="53" wickets="4"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="0" runs="54" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T King"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="T King"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="B Williams"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="D Johnstone"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="D Johnstone"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Simon Kelly">
+      <HowOut how="Stumped"/>
+      <Bowler name="D Johnstone"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="D Johnstone"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="N Jenkins"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Johnstone"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Vince Bradley">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="2" score="39"/>
+    <FallOfWicket batsman="3" score="61"/>
+    <FallOfWicket batsman="4" score="106"/>
+    <FallOfWicket batsman="6" score="115"/>
+    <FallOfWicket batsman="5" score="130"/>
+    <FallOfWicket batsman="8" score="144"/>
+    <FallOfWicket batsman="7" score="165"/>
+    <FallOfWicket batsman="9" score="195"/>
+    <FallOfWicket batsman="11" score="195"/>
+    <BowlerSummary name="T King" overs="9" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="B Roden" overs="7" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="B Williams" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="C Moss" overs="10" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="D Johnstone" overs="11" maidens="1" runs="65" wickets="5"/>
+    <BowlerSummary name="N Jenkins" overs="3" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

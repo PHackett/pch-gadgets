@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:22 UTC+0100 2010 -->
+<CricketMatch oppo="Windsor" date="Sat Sep 10 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="A Gray"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Hay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phelan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Gray"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Gray"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="Phelan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Henley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Gray"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Gray"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Quint Knowleson">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Theo Gray"/>
+    <Extras value="24"/>
+    <BowlerSummary name="A Gray" overs="13" maidens="4" runs="37" wickets="6"/>
+    <BowlerSummary name="Phelan" overs="10" maidens="5" runs="29" wickets="2"/>
+    <BowlerSummary name="Henley" overs="7" maidens="1" runs="44" wickets="1"/>
+    <BowlerSummary name="OBrien" overs="5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Brown" overs="6" maidens="0" runs="54" wickets="0"/>
+  </Innings>
+  <Innings batting="Windsor">
+    <Batsman name="I Newport">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="D Bridgeman">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="James Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Henley">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Walford">
+      <HowOut how="Caught Quint Knowleson"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P OBrien">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="K McCord">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Bowles">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="T Phelan">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="3" runs="30" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="4" runs="45" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="7" maidens="0" runs="26" wickets="3"/>
+    <BowlerSummary name="Simon Kelly" overs="3" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="4" maidens="2" runs="6" wickets="1"/>
+    <BowlerSummary name="Quint Knowleson" overs="1" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Howard Burton" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

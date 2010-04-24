@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Freith" date="Sat Apr 27 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Freith">
+    <Batsman name="Amwar">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="I Finlay">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name=" P Howell">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Cannon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="N  Scarborough">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Collins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Rolf"/>
+    <Batsman name="D Gearing"/>
+    <Batsman name="K Smith"/>
+    <Batsman name="P  Dack"/>
+    <Batsman name="A Maclean"/>
+    <Extras value="9"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="2" runs="65" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="2" runs="40" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="6" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="7" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="5" maidens="0" runs="27" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Rolf"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name=" P Howell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Neville Munasinga">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Maclean"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Maclean"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="D Gearing"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="LBW"/>
+      <Bowler name="D Gearing"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Grey">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="J Rolf" overs="7" maidens="3" runs="17" wickets="1"/>
+    <BowlerSummary name=" P Howell" overs="9" maidens="4" runs="13" wickets="1"/>
+    <BowlerSummary name="M Collins" overs="6" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="K Smith" overs="9" maidens="2" runs="30" wickets="4"/>
+    <BowlerSummary name="A Maclean" overs="3" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="D Gearing" overs="2.5" maidens="0" runs="14" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:05 UTC+0100 2010 -->
+<CricketMatch oppo="Abbots Leigh" date="Sat Aug 29 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Abbots Leigh">
+    <Batsman name="N Gayford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="R Meech">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="H Collins">
+      <HowOut how="Caught John Kirk"/>
+      <Bowler name="David Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Faulkner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Hunt">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Hunt">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Bullock">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="G Parsons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="K West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Parsons">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N D">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="1" score="46"/>
+    <FallOfWicket batsman="3" score="90"/>
+    <FallOfWicket batsman="5" score="111"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="4" score="113"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <FallOfWicket batsman="9" score="165"/>
+    <FallOfWicket batsman="10" score="167"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="3" runs="44" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="14" maidens="4" runs="40" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="43" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="John Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Stumped"/>
+      <Bowler name="K West"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="N Gayford"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="John Kirk"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="1" score="81"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="5" score="160"/>
+    <BowlerSummary name="I Bullock" overs="8" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="H Collins" overs="5" maidens="1" runs="4" wickets="0"/>
+    <BowlerSummary name="N Gayford" overs="9" maidens="2" runs="35" wickets="1"/>
+    <BowlerSummary name="H Hunt" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="K West" overs="8" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="T Hunt" overs="5" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

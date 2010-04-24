@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<CricketMatch oppo="Shinfield" date="Sun Aug 9 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Shinfield">
+    <Batsman name="Farrow">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Davis">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Shingles">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Cowry">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Robinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stone">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Bramley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Davis">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Blackmore">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sass">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="53"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="3" score="107"/>
+    <FallOfWicket batsman="4" score="159"/>
+    <FallOfWicket batsman="6" score="169"/>
+    <FallOfWicket batsman="7" score="171"/>
+    <FallOfWicket batsman="5" score="196"/>
+    <FallOfWicket batsman="8" score="196"/>
+    <FallOfWicket batsman="9" score="196"/>
+    <FallOfWicket batsman="10" score="198"/>
+    <BowlerSummary name="David Downes" overs="16" maidens="4" runs="45" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="15" maidens="2" runs="56" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Davis"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="S Davis"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Bramley"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Stumped"/>
+      <Bowler name="Robinson"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bramley"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Bramley"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Morrison">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Simon Kelly"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="5" score="87"/>
+    <FallOfWicket batsman="3" score="150"/>
+    <FallOfWicket batsman="6" score="166"/>
+    <BowlerSummary name="Stone" overs="9" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="S Davis" overs="5" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Robinson" overs="8" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Farrow" overs="8" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Bramley" overs="9.3" maidens="1" runs="51" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:37 UTC+0100 2010 -->
+<CricketMatch oppo="Failand And Portbury" date="Sun Aug 27 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Jacobs"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bowen"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bullock"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Run Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bowen"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Batchelor"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="P Batchelor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Batchelor"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Batchelor"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Bullock" overs="11" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Jacobs" overs="12" maidens="2" runs="49" wickets="1"/>
+    <BowlerSummary name="Bowen" overs="9" maidens="2" runs="46" wickets="2"/>
+    <BowlerSummary name="P Batchelor" overs="8" maidens="0" runs="53" wickets="4"/>
+  </Innings>
+  <Innings batting="Failand And Portbury">
+    <Batsman name="Greenidge">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hurford">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Trineman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Batchelor">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="S Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Bullock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="P Batchelor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Jacobs">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Bowen">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brimble">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="H Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Nic Downes" overs="13.2" maidens="1" runs="64" wickets="5"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="2" runs="13" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="2" runs="38" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="7" maidens="2" runs="42" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

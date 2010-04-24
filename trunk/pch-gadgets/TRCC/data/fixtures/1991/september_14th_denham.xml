@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:02 UTC+0100 2010 -->
+<CricketMatch oppo="Denham" date="Sat Sep 14 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="K Francis"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Beale"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Francis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="K Francis"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Caught"/>
+      <Bowler name="P Ashworth"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Colin Nicol">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Jn Payne"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="K Francis" overs="16" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="A Beale" overs="8" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="C Payne" overs="14" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="I Smith" overs="7" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="P Ashworth" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Jn Payne" overs="4" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Denham">
+    <Batsman name="D Kilby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="G Davenport">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Richardson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Beale">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="David Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="K Knowlson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="K Francis">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="I Smith">
+      <HowOut how="Caught Mark Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Payne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Ashworth">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Owen">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jn Payne">
+      <HowOut how="Caught Mark Lawrence"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="David Downes" overs="17" maidens="4" runs="55" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="5" runs="33" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="6" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="1" runs="35" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

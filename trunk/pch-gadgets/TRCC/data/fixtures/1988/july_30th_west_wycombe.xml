@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:21 UTC+0100 2010 -->
+<CricketMatch oppo="West Wycombe" date="Sat Jul 30 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="West Wycombe">
+    <Batsman name="Crowe">
+      <HowOut how="Not Out"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Sharkey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Griffiths">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Harper">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hemmings">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Whitlow">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Small">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Cartledge"/>
+    <Batsman name="Storey"/>
+    <Extras value="9"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="Chris Sellers" overs="9" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="Andy Wilkinson" overs="9" maidens="0" runs="28" wickets="4"/>
+    <BowlerSummary name="Theo Gray" overs="5" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Theo Gray">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mike(Snr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sharkey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Higgins"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Andy King">
+      <HowOut how="Caught"/>
+      <Bowler name="Higgins"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Storey"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Sharkey" overs="15" maidens="8" runs="18" wickets="1"/>
+    <BowlerSummary name="Higgins" overs="16" maidens="10" runs="14" wickets="2"/>
+    <BowlerSummary name="Cartledge" overs="8" maidens="1" runs="24" wickets="2"/>
+    <BowlerSummary name="Storey" overs="6" maidens="1" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

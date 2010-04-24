@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Accies" date="Sat Jun 1 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="LBW"/>
+      <Bowler name="Priestly"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="A Ashman"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Priestly"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Priestly"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Z Shah"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Stumped"/>
+      <Bowler name="Bryant"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Caught"/>
+      <Bowler name="Bryant"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Wiggins" overs="8" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Priestly" overs="6" maidens="3" runs="12" wickets="3"/>
+    <BowlerSummary name="Bryant" overs="15" maidens="1" runs="69" wickets="2"/>
+    <BowlerSummary name="Z Shah" overs="9" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="A Ashman" overs="5" maidens="1" runs="15" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading Accies">
+    <Batsman name="M Sewell">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="D Parker">
+      <HowOut how="Caught Mark Lawrence"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="P Duff">
+      <HowOut how="Caught Chris Sellers"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Stone">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="R Loader">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Z Shah">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A Ashman">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Priestly">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Wiggins"/>
+    <Batsman name="Bryant"/>
+    <Extras value="1"/>
+    <BowlerSummary name="David Downes" overs="15.5" maidens="3" runs="54" wickets="3"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="2" runs="51" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="3" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

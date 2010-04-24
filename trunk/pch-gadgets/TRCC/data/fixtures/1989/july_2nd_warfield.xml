@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:37 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sun Jul 2 00:00:00 UTC+0100 1989">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="T Emery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="R Craig">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="K Jamison">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Collins">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Cannon">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J Ryan">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Thompson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="F Cooper">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Stewart">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Ruddle"/>
+    <Batsman name="S Picton"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="2" runs="16" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="14" maidens="5" runs="24" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="2" runs="37" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Emery"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Emery"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Ruddle"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="T Emery" overs="11" maidens="4" runs="22" wickets="2"/>
+    <BowlerSummary name="R Craig" overs="9" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="J Ryan" overs="10" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="S Ruddle" overs="8" maidens="0" runs="35" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

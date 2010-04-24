@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:19 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Jul 31 00:00:00 UTC+0100 1988">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="G Tombs">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="90"/>
+    </Batsman>
+    <Batsman name="T Twitchen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="G Molthouse">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Bird">
+      <HowOut how="Caught Dave Jackson"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Turner">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="R Carter">
+      <HowOut how="Run Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="P Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Knapp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Potts">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Newell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Horme">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Stewart Wren" overs="13" maidens="0" runs="53" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="13" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="16" maidens="0" runs="63" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="18" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Stumped"/>
+      <Bowler name="C Newell"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Smith"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Newell"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Potts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Newell"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Jackson">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Turner"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="T Twitchen"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="15"/>
+    <BowlerSummary name="S Bird" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="P Smith" overs="10" maidens="3" runs="14" wickets="1"/>
+    <BowlerSummary name="E Horme" overs="11" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="C Newell" overs="8" maidens="0" runs="39" wickets="3"/>
+    <BowlerSummary name="B Potts" overs="1" maidens="0" runs="2" wickets="1"/>
+    <BowlerSummary name="T Twitchen" overs="2" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="R Turner" overs="2" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

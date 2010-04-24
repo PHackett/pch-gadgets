@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:00:00 UTC+0100 2010 -->
+<CricketMatch oppo="Englefield" date="Sat May 25 00:00:00 UTC+0100 1991">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Englefield">
+    <Batsman name="P Harding">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="J Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="125"/>
+    </Batsman>
+    <Batsman name="S Egan">
+      <HowOut how="LBW"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="J Ward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="S Mitchell">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Mitchell">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Griffiths">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Bensley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Williams">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Brown">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Preston">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="1" runs="51" wickets="2"/>
+    <BowlerSummary name="Barry Pottier" overs="9" maidens="2" runs="26" wickets="0"/>
+    <BowlerSummary name="Ian Helmore" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="6" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Rich Lawrance" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="6" maidens="0" runs="35" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Preston"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Preston"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="K Bensley"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Mitchell"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Colin Nicol">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="K Bensley" overs="9" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="S Egan" overs="7" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="G Preston" overs="7" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="J Smith" overs="5" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="P Harding" overs="4" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="C Griffiths" overs="4" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="J Mitchell" overs="3" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<CricketMatch oppo="warfield" date="Sun Jun 28 00:00:00 UTC+0100 1987">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Cannon"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charlesworth"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Kim Knight"/>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="2" score="154"/>
+    <BowlerSummary name="Emery" overs="16" maidens="6" runs="57" wickets="0"/>
+    <BowlerSummary name="Charlesworth" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Cannon" overs="10" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Colling" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Ryan" overs="5" maidens="0" runs="35" wickets="0"/>
+  </Innings>
+  <Innings batting="warfield">
+    <Batsman name="A Doig">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Williams">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="R Charlesworth">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="N Jochem">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Ryan">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Henderson">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Mansfield">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="7" score="90"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="4" runs="19" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="16" maidens="5" runs="28" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="4" runs="0" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Paul Howells" overs="1" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
