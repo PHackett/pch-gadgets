@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Bradfield" date="Sat May 11 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bradfield">
+    <Batsman name="Baylis">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="North">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stanbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Johnson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Matthews">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Bargent">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ford">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Smales">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Atkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="7" score="50"/>
+    <FallOfWicket batsman="8" score="60"/>
+    <FallOfWicket batsman="6" score="60"/>
+    <FallOfWicket batsman="9" score="68"/>
+    <FallOfWicket batsman="10" score="71"/>
+    <BowlerSummary name="Chris Sellers" overs="10" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="2" runs="6" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="3.1" maidens="2" runs="2" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="North"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="Smales"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="John Grinter"/>
+    <Batsman name="Peter Kelly"/>
+    <Batsman name="Theo Gray"/>
+    <Batsman name="Bill Hatch"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <BowlerSummary name="North" overs="11" maidens="5" runs="19" wickets="1"/>
+    <BowlerSummary name="Smales" overs="13" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Atkinson" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Matthews" overs="0.1" maidens="0" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Nettlebed" date="Sun Sep 8 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Nettlebed">
+    <Batsman name="R Pitcher">
+      <HowOut how="Caught Ken Paterson"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Leverett">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Vines">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Mart-Davis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Ackerman">
+      <HowOut how="Caught John Morrison"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="P Thompson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="C Vernon">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Memeux">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="C Goodall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Challis">
+      <HowOut how="Stumped"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Matthews">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="6" score="112"/>
+    <FallOfWicket batsman="7" score="124"/>
+    <FallOfWicket batsman="9" score="134"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Bill Hatch" overs="14" maidens="0" runs="38" wickets="3"/>
+    <BowlerSummary name="Theo Gray" overs="11" maidens="0" runs="43" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="R Ackerman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="M Vines"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Challis"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="M Vines"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Thompson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="John Morrison">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Matthews"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="J Matthews"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Paterson">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Thompson"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="R Pitcher"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="M Vines"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="6" score="47"/>
+    <FallOfWicket batsman="7" score="47"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="8" score="74"/>
+    <FallOfWicket batsman="10" score="98"/>
+    <FallOfWicket batsman="9" score="102"/>
+    <BowlerSummary name="M Vines" overs="11" maidens="2" runs="19" wickets="3"/>
+    <BowlerSummary name="D Challis" overs="7" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="R Ackerman" overs="8" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="J Matthews" overs="4" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="P Thompson" overs="3" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="R Pitcher" overs="5.1" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

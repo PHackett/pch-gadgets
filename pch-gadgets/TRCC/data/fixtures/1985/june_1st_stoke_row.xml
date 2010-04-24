@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="Stoke Row" date="Sat Jun 1 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Stoke Row">
+    <Batsman name="A Collis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="M Stallwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Bond">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J North">
+      <HowOut how="Run Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="L Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="C Hoatson">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Rosser">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Windsor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Harper">
+      <HowOut how="Stumped"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="4" score="100"/>
+    <FallOfWicket batsman="5" score="145"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="8" score="165"/>
+    <FallOfWicket batsman="9" score="165"/>
+    <BowlerSummary name="Chris Sellers" overs="14" maidens="3" runs="43" wickets="2"/>
+    <BowlerSummary name="Steve Dunn" overs="8" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="14" maidens="4" runs="37" wickets="4"/>
+    <BowlerSummary name="Bill Hatch" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="J North"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alison"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="G Harper"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Clark"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught"/>
+      <Bowler name="L Clark"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Harper"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="G Harper"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="83"/>
+    <FallOfWicket batsman="4" score="105"/>
+    <FallOfWicket batsman="3" score="131"/>
+    <FallOfWicket batsman="5" score="131"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <FallOfWicket batsman="6" score="149"/>
+    <FallOfWicket batsman="8" score="154"/>
+    <BowlerSummary name="J North" overs="12" maidens="1" runs="50" wickets="1"/>
+    <BowlerSummary name="L Clark" overs="16" maidens="1" runs="41" wickets="2"/>
+    <BowlerSummary name="Alison" overs="5" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="A Rosser" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="G Harper" overs="6" maidens="1" runs="21" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

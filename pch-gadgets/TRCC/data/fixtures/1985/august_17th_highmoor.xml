@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:33 UTC+0100 2010 -->
+<CricketMatch oppo="Highmoor" date="Sat Aug 17 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Holley"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Holley"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Holley"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Andy Abrahams">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Wells"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught"/>
+      <Bowler name="S Wells"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Holley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="M Holley"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="62"/>
+    <FallOfWicket batsman="3" score="101"/>
+    <FallOfWicket batsman="5" score="126"/>
+    <FallOfWicket batsman="6" score="127"/>
+    <FallOfWicket batsman="7" score="135"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <FallOfWicket batsman="8" score="140"/>
+    <BowlerSummary name="M Holley" overs="24" maidens="4" runs="66" wickets="5"/>
+    <BowlerSummary name="R Coleman" overs="8" maidens="2" runs="35" wickets="0"/>
+    <BowlerSummary name="S Wells" overs="16" maidens="0" runs="52" wickets="2"/>
+  </Innings>
+  <Innings batting="Highmoor">
+    <Batsman name="B Wells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bill Hatch"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="B Lovelock">
+      <HowOut how="Caught Mike(Jnr) Taylor"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="L Wells">
+      <HowOut how="Caught Bill Hatch"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Coleman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D White">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Long">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="100"/>
+    <FallOfWicket batsman="3" score="123"/>
+    <FallOfWicket batsman="2" score="124"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <BowlerSummary name="Andy Abrahams" overs="7" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="9" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Bill Hatch" overs="9" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="Theo Gray" overs="4" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:32 UTC+0100 2010 -->
+<CricketMatch oppo="Highmoor" date="Sat May 18 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="A"/>
+      <Bowler name="Coleman"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Long"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="J Long"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Coleman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Caught"/>
+      <Bowler name="B Wells"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught"/>
+      <Bowler name="B Wells"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Coleman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="2" score="75"/>
+    <FallOfWicket batsman="3" score="86"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="109"/>
+    <FallOfWicket batsman="7" score="111"/>
+    <FallOfWicket batsman="8" score="116"/>
+    <FallOfWicket batsman="4" score="120"/>
+    <FallOfWicket batsman="10" score="136"/>
+    <FallOfWicket batsman="9" score="138"/>
+    <BowlerSummary name="Holly" overs="10" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Marshall" overs="8" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="J Long" overs="10" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Coleman" overs="15" maidens="5" runs="31" wickets="6"/>
+    <BowlerSummary name="B Wells" overs="6.4" maidens="1" runs="12" wickets="2"/>
+  </Innings>
+  <Innings batting="Highmoor">
+    <Batsman name="B Wells">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="O Lovelock">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Wells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="G Wells">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="92"/>
+    <BowlerSummary name="Andy Scott" overs="14" maidens="5" runs="35" wickets="1"/>
+    <BowlerSummary name="Steve Dunn" overs="11" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="7" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="9.2" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

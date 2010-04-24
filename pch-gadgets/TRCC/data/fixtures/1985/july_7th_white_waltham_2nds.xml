@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="White Waltham 2nds" date="Sun Jul 7 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="C Forsey"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="D Eyre"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="D Eyre"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Andy Abrahams">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Forsey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="J Ellis"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="LBW"/>
+      <Bowler name="C Forsey"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Ellis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Morrison">
+      <HowOut how="Caught"/>
+      <Bowler name="J Ellis"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Ellis"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Ellis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="40"/>
+    <FallOfWicket batsman="2" score="56"/>
+    <FallOfWicket batsman="3" score="71"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="6" score="92"/>
+    <FallOfWicket batsman="7" score="96"/>
+    <FallOfWicket batsman="8" score="104"/>
+    <FallOfWicket batsman="9" score="105"/>
+    <FallOfWicket batsman="11" score="105"/>
+    <BowlerSummary name="J Brooker" overs="5" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="W Issac" overs="6" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="D Eyre" overs="8" maidens="3" runs="14" wickets="2"/>
+    <BowlerSummary name="C Forsey" overs="14" maidens="2" runs="31" wickets="3"/>
+    <BowlerSummary name="D Summner" overs="1" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="J Ellis" overs="8" maidens="3" runs="11" wickets="5"/>
+  </Innings>
+  <Innings batting="White Waltham 2nds">
+    <Batsman name="R Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Mead">
+      <HowOut how="Caught John Howells"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Forsey">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="M Metcalfe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Summner">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Harris">
+      <HowOut how="Caught John Morrison"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="C Forsey">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Abrahams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Brooker">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Eyre">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Andy Abrahams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Issac">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="4" score="23"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="3" score="48"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="7" score="77"/>
+    <FallOfWicket batsman="8" score="77"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <FallOfWicket batsman="10" score="82"/>
+    <BowlerSummary name="Stewart Wren" overs="15" maidens="7" runs="19" wickets="4"/>
+    <BowlerSummary name="Andy Abrahams" overs="15" maidens="4" runs="27" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="1" runs="27" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

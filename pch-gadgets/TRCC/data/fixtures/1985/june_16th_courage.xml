@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:30 UTC+0100 2010 -->
+<CricketMatch oppo="Courage" date="Sun Jun 16 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Batson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="S Mahabir"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="D Batson"/>
+      <Runs value="107"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Mahabir"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Barry Thomas"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="96"/>
+    <FallOfWicket batsman="4" score="139"/>
+    <FallOfWicket batsman="3" score="164"/>
+    <BowlerSummary name="D Batson" overs="15" maidens="1" runs="46" wickets="2"/>
+    <BowlerSummary name="P Bunch" overs="7" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="R Wight" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="S Mahabir" overs="8" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Laverton" overs="6" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="D Malone" overs="4" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Courage">
+    <Batsman name="D Malone">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Mahabir">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="D Batson">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="D Prior">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Prior">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Kier">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Bunch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J Laverton">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B Duck">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Wight">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="5" score="119"/>
+    <FallOfWicket batsman="6" score="126"/>
+    <FallOfWicket batsman="7" score="126"/>
+    <FallOfWicket batsman="3" score="152"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <FallOfWicket batsman="10" score="153"/>
+    <FallOfWicket batsman="9" score="157"/>
+    <BowlerSummary name="Steve Abraham" overs="9" maidens="1" runs="44" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="16.3" maidens="0" runs="76" wickets="6"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="16" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

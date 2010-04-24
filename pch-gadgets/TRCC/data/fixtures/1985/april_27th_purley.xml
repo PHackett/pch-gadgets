@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Purley" date="Sat Apr 27 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Purley">
+    <Batsman name="Hoyte">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Neal">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Cudjoe">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Caught Stan Coates"/>
+      <Bowler name="Andy Abrahams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Riley">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Rollins">
+      <HowOut how="Caught John Grinter"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Masken">
+      <HowOut how="LBW"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Gledhill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Titwhate"/>
+    <Extras value="25"/>
+    <BowlerSummary name="Andy Abrahams" overs="11" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="9" maidens="1" runs="47" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="Theo Gray" overs="4.3" maidens="0" runs="33" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Gledhill"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gledhill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Abrahams">
+      <HowOut how="Caught"/>
+      <Bowler name="Powell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gledhill"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="Nunn"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="LBW"/>
+      <Bowler name="Nunn"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="Masken"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Caught"/>
+      <Bowler name="Jones"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="LBW"/>
+      <Bowler name="Jones"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="4"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="5" score="24"/>
+    <FallOfWicket batsman="6" score="33"/>
+    <FallOfWicket batsman="7" score="33"/>
+    <FallOfWicket batsman="9" score="33"/>
+    <FallOfWicket batsman="10" score="44"/>
+    <FallOfWicket batsman="8" score="46"/>
+    <BowlerSummary name="Gledhill" overs="6" maidens="0" runs="11" wickets="3"/>
+    <BowlerSummary name="Powell" overs="5" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="Nunn" overs="4" maidens="2" runs="4" wickets="2"/>
+    <BowlerSummary name="Jones" overs="5" maidens="1" runs="6" wickets="3"/>
+    <BowlerSummary name="Masken" overs="2" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

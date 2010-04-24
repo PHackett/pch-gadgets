@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Sep 29 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="P Norris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="M Woods"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Woods"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Woods"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hemani"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Hemani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hemani"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Woods"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jonathan Baker"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="66"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="4" score="151"/>
+    <FallOfWicket batsman="5" score="157"/>
+    <FallOfWicket batsman="7" score="157"/>
+    <FallOfWicket batsman="8" score="176"/>
+    <FallOfWicket batsman="9" score="183"/>
+    <BowlerSummary name="P Norris" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="M Woods" overs="18" maidens="4" runs="47" wickets="4"/>
+    <BowlerSummary name="Hemani" overs="15" maidens="0" runs="64" wickets="3"/>
+    <BowlerSummary name="Hewitt" overs="5" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="S Hewitt">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="R Povey">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Taylor">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="R Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Hemani">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Owen">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="136"/>
+    <FallOfWicket batsman="4" score="151"/>
+    <FallOfWicket batsman="3" score="151"/>
+    <FallOfWicket batsman="6" score="155"/>
+    <FallOfWicket batsman="7" score="160"/>
+    <BowlerSummary name="Jonathan Baker" overs="17" maidens="4" runs="53" wickets="4"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="5" runs="15" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Paul Howells" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sun Jun 30 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="M Parry">
+      <HowOut how="Caught Dave Jackson"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="M Ennis">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Doig">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="T Emery">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Ambrose">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Cotterill">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="J Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Cannon">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="L Segal">
+      <HowOut how="Stumped"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Segal">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="6" score="92"/>
+    <FallOfWicket batsman="8" score="92"/>
+    <FallOfWicket batsman="9" score="115"/>
+    <FallOfWicket batsman="10" score="119"/>
+    <BowlerSummary name="Tom Fort" overs="12" maidens="4" runs="25" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="4" runs="13" wickets="1"/>
+    <BowlerSummary name="Matthew Fort" overs="16" maidens="2" runs="46" wickets="4"/>
+    <BowlerSummary name="Noel Downes" overs="10" maidens="0" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="A Cannon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="A Cannon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="T Emery"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Cannon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Dave Jackson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Cannon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="L Segal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="A Cannon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Cannon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="L Segal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="6" score="22"/>
+    <FallOfWicket batsman="7" score="25"/>
+    <FallOfWicket batsman="8" score="32"/>
+    <FallOfWicket batsman="9" score="34"/>
+    <FallOfWicket batsman="10" score="35"/>
+    <BowlerSummary name="T Emery" overs="14" maidens="8" runs="12" wickets="1"/>
+    <BowlerSummary name="A Cannon" overs="14" maidens="2" runs="30" wickets="6"/>
+    <BowlerSummary name="L Segal" overs="7" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="S Cotterill" overs="5" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:33 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sat Sep 28 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Coppid Hall">
+    <Batsman name="Muston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Blay">
+      <HowOut how="Caught Simon Kelly"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="McCodbrey">
+      <HowOut how="Caught Mike(Jnr) Taylor"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="James Fort"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Lyford">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Main">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Laverick"/>
+    <Batsman name="Brown"/>
+    <Batsman name="Hope"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="2" score="62"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="6" score="121"/>
+    <FallOfWicket batsman="4" score="145"/>
+    <BowlerSummary name="Chris Sellers" overs="15" maidens="2" runs="42" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="16" maidens="5" runs="54" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blay"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blay"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Reeves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Blay"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Kelly"/>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Scott"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="1" score="76"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="7" score="137"/>
+    <FallOfWicket batsman="6" score="139"/>
+    <FallOfWicket batsman="8" score="140"/>
+    <BowlerSummary name="Brown" overs="14" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Hope" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Scott" overs="12" maidens="4" runs="26" wickets="2"/>
+    <BowlerSummary name="Blay" overs="7" maidens="1" runs="38" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

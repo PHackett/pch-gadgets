@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:31 UTC+0100 2010 -->
+<CricketMatch oppo="Wallingford" date="Sun Sep 15 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Brannan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Bolton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Sharpe"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="Brannan"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="Tim Glover"/>
+    <Batsman name="Jonathan Baker"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Steve Hill"/>
+    <Extras value="35"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="101"/>
+    <FallOfWicket batsman="4" score="183"/>
+    <BowlerSummary name="Bolton" overs="17" maidens="3" runs="45" wickets="1"/>
+    <BowlerSummary name="Brannan" overs="17" maidens="2" runs="67" wickets="2"/>
+    <BowlerSummary name="Saunders" overs="5" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Sharpe" overs="3" maidens="0" runs="33" wickets="1"/>
+  </Innings>
+  <Innings batting="Wallingford">
+    <Batsman name="G Ikin">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="P Sharpe">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="R Loake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Shepard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="E Saunders">
+      <HowOut how="Caught Jonathan Baker"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Sweetman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Sheldon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Brannan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Bucknall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Bolton">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Bolton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="56"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="1" score="91"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <FallOfWicket batsman="8" score="106"/>
+    <FallOfWicket batsman="9" score="106"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <FallOfWicket batsman="11" score="121"/>
+    <BowlerSummary name="Jonathan Baker" overs="13" maidens="3" runs="31" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="17" maidens="3" runs="49" wickets="5"/>
+    <BowlerSummary name="Paul Howells" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="15" wickets="3"/>
+    <BowlerSummary name="Tim Glover" overs="2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

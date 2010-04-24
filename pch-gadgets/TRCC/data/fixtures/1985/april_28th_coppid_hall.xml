@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:45:04 UTC+0100 2010 -->
+<CricketMatch oppo="Coppid Hall" date="Sun Apr 28 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="2"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="2"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="LBW"/>
+      <Bowler name="3"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="6"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="4"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Mike Barker">
+      <HowOut how="Caught"/>
+      <Bowler name="4"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Baker">
+      <HowOut how="Caught"/>
+      <Bowler name="5"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="6"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="5" score="30"/>
+    <FallOfWicket batsman="7" score="52"/>
+    <FallOfWicket batsman="8" score="52"/>
+    <FallOfWicket batsman="6" score="61"/>
+    <FallOfWicket batsman="9" score="61"/>
+    <FallOfWicket batsman="11" score="71"/>
+    <BowlerSummary name="1" overs="5" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="2" overs="5" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="3" overs="7" maidens="3" runs="6" wickets="1"/>
+    <BowlerSummary name="4" overs="7" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="5" overs="5" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="6" overs="4.3" maidens="0" runs="7" wickets="2"/>
+  </Innings>
+  <Innings batting="Coppid Hall">
+    <Batsman name="Minchin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Megnauth">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Griffith">
+      <HowOut how="Caught Jonathan Baker"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Lythgoe">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tyler">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrews">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Steve Clark"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robbins">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Steve Clark"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tucknott">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Pritchard">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Croft"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="7" score="59"/>
+    <FallOfWicket batsman="8" score="69"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <BowlerSummary name="Stewart Wren" overs="13" maidens="2" runs="23" wickets="5"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Jonathan Baker" overs="3" maidens="2" runs="3" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Steve Clark" overs="1" maidens="0" runs="1" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

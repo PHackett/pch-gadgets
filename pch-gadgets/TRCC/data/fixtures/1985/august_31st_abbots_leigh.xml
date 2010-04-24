@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:33 UTC+0100 2010 -->
+<CricketMatch oppo="Abbots Leigh" date="Sat Aug 31 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="Cleverly"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gayford"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="John Morrison">
+      <HowOut how="Caught"/>
+      <Bowler name="Gigg"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="LBW"/>
+      <Bowler name="T Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="5" score="47"/>
+    <FallOfWicket batsman="4" score="62"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="9" score="149"/>
+    <BowlerSummary name="D Skinner" overs="8" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="T Hunt" overs="16" maidens="7" runs="28" wickets="5"/>
+    <BowlerSummary name="Cleverly" overs="8" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Parsons" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Gayford" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Gigg" overs="2" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Abbots Leigh">
+    <Batsman name="N Gayford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="A Dowden">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Gigg">
+      <HowOut how="LBW"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Cleverly">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Parsons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Skinner">
+      <HowOut how="Not Out"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nest">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Faulkener">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Hunt">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Parsons">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="73"/>
+    <FallOfWicket batsman="1" score="82"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="3" score="86"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="6" score="100"/>
+    <FallOfWicket batsman="7" score="100"/>
+    <FallOfWicket batsman="9" score="100"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <BowlerSummary name="Andy Scott" overs="9" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="9" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="1" runs="28" wickets="4"/>
+    <BowlerSummary name="Theo Gray" overs="10" maidens="1" runs="21" wickets="5"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:46:30 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Jun 2 00:00:00 UTC+0100 1985">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="B Blackhall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="S Mattingly">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Howells"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="D Horth">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Thorpe">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="B Elton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="C Simpson">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Paul Howells"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="B Barfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Howells"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Elton">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Davies">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Powell">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Greig">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="83"/>
+    <FallOfWicket batsman="1" score="83"/>
+    <FallOfWicket batsman="4" score="110"/>
+    <FallOfWicket batsman="3" score="118"/>
+    <FallOfWicket batsman="6" score="127"/>
+    <FallOfWicket batsman="5" score="186"/>
+    <BowlerSummary name="Stewart Wren" overs="20.4" maidens="8" runs="32" wickets="4"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Paul Howells" overs="15" maidens="1" runs="63" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Thorpe"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="T Thorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="T Thorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Greig"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="B Barfield"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="D Horth"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Stumped"/>
+      <Bowler name="B Elton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="5" score="71"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="3" score="96"/>
+    <FallOfWicket batsman="8" score="101"/>
+    <FallOfWicket batsman="7" score="137"/>
+    <BowlerSummary name="B Powell" overs="8" maidens="4" runs="37" wickets="0"/>
+    <BowlerSummary name="T Thorpe" overs="13" maidens="6" runs="21" wickets="3"/>
+    <BowlerSummary name="B Barfield" overs="12" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="J Greig" overs="3" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="B Elton" overs="5" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="D Horth" overs="2" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
