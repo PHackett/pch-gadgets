@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:51 UTC+0100 2010 -->
+<CricketMatch oppo="Rotherwick" date="Sun Jun 7 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Grove"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="LBW"/>
+      <Bowler name="P Grove"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="P Grove"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="LBW"/>
+      <Bowler name="P Grove"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="P Grove"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Grove"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Grove"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="P Grove"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="P Grove"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Grove"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="5" score="15"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="6" score="24"/>
+    <FallOfWicket batsman="7" score="27"/>
+    <FallOfWicket batsman="9" score="30"/>
+    <FallOfWicket batsman="10" score="30"/>
+    <FallOfWicket batsman="8" score="33"/>
+    <BowlerSummary name="P Grove" overs="15" maidens="8" runs="13" wickets="7"/>
+    <BowlerSummary name="M Grove" overs="14" maidens="6" runs="19" wickets="3"/>
+  </Innings>
+  <Innings batting="Rotherwick">
+    <Batsman name="D Holbrook">
+      <HowOut how="LBW"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Terry">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Grove">
+      <HowOut how="Caught Paul Lewis"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="c Huntley">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Gobbard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Pearce">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Dancer">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="3" runs="9" wickets="1"/>
+    <BowlerSummary name="James Hayward" overs="8.3" maidens="3" runs="25" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

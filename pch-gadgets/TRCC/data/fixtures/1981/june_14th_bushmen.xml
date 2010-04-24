@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:51 UTC+0100 2010 -->
+<CricketMatch oppo="Bushmen" date="Sun Jun 14 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught"/>
+      <Bowler name="Bretan"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Houghton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Barnett"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Houghton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Caught"/>
+      <Bowler name="Bretan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Caught"/>
+      <Bowler name="Barnett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Beaton">
+      <HowOut how="Stumped"/>
+      <Bowler name="Barnett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nigel Tout">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barnett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Molyneux">
+      <HowOut how="Caught"/>
+      <Bowler name="Barnett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Stumped"/>
+      <Bowler name="Stanley"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="1" score="24"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="5" score="39"/>
+    <FallOfWicket batsman="6" score="49"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="7" score="65"/>
+    <FallOfWicket batsman="8" score="74"/>
+    <FallOfWicket batsman="9" score="74"/>
+    <FallOfWicket batsman="10" score="78"/>
+    <BowlerSummary name="Bretan" overs="8" maidens="5" runs="5" wickets="2"/>
+    <BowlerSummary name="Houghton" overs="11" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Burley" overs="6" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Barnett" overs="5" maidens="0" runs="13" wickets="5"/>
+    <BowlerSummary name="Stanley" overs="2.3" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Bushmen">
+    <Batsman name="Hill">
+      <HowOut how="Caught S Beaton"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barnett">
+      <HowOut how="Caught Tim Glover"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Tidmarsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="P Tidmarsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chapman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Bretan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Houghton">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Aerrmann">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="6" score="75"/>
+    <FallOfWicket batsman="5" score="77"/>
+    <FallOfWicket batsman="7" score="77"/>
+    <BowlerSummary name="James Hayward" overs="15" maidens="5" runs="17" wickets="1"/>
+    <BowlerSummary name="Paul Lewis" overs="8" maidens="3" runs="17" wickets="4"/>
+    <BowlerSummary name="Tim Glover" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="3" runs="28" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

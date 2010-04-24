@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:53 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Apr 18 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="LBW"/>
+      <Bowler name="Gray"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="LBW"/>
+      <Bowler name="Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Healey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="3" score="1"/>
+    <FallOfWicket batsman="4" score="7"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="6" score="9"/>
+    <FallOfWicket batsman="5" score="14"/>
+    <FallOfWicket batsman="7" score="20"/>
+    <FallOfWicket batsman="8" score="24"/>
+    <FallOfWicket batsman="10" score="25"/>
+    <FallOfWicket batsman="11" score="37"/>
+    <BowlerSummary name="Dawkins" overs="5" maidens="2" runs="6" wickets="3"/>
+    <BowlerSummary name="Gray" overs="8" maidens="2" runs="9" wickets="4"/>
+    <BowlerSummary name="Newman" overs="6" maidens="3" runs="11" wickets="2"/>
+    <BowlerSummary name="Healey" overs="3.3" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="E Ellis">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="P Hopper">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="3" runs="16" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="5" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="2" maidens="1" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

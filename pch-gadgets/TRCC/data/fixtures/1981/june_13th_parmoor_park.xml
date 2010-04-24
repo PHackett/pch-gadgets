@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:53 UTC+0100 2010 -->
+<CricketMatch oppo="Parmoor Park" date="Sat Jun 13 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Parmoor Park">
+    <Batsman name="J Stokes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="N Thorne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="A Garland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="W Scarbrow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Dawson">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Quinn">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Kempster">
+      <HowOut how="Stumped"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="C Patmoor">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Kempster">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Thorne">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="74"/>
+    <FallOfWicket batsman="3" score="118"/>
+    <FallOfWicket batsman="4" score="128"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="6" score="131"/>
+    <FallOfWicket batsman="1" score="143"/>
+    <FallOfWicket batsman="7" score="156"/>
+    <FallOfWicket batsman="8" score="156"/>
+    <FallOfWicket batsman="9" score="157"/>
+    <FallOfWicket batsman="10" score="160"/>
+    <BowlerSummary name="Brian Adams" overs="4" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Dave Parry" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="James Hayward" overs="19" maidens="4" runs="67" wickets="2"/>
+    <BowlerSummary name="Theo Gray" overs="11.2" maidens="1" runs="38" wickets="6"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="LBW"/>
+      <Bowler name="S Kempster"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="N Thorne"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Thorne"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="N Thorne"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Turton">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Thorne"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="6" score="44"/>
+    <FallOfWicket batsman="5" score="55"/>
+    <FallOfWicket batsman="8" score="64"/>
+    <FallOfWicket batsman="9" score="65"/>
+    <FallOfWicket batsman="10" score="65"/>
+    <FallOfWicket batsman="7" score="79"/>
+    <BowlerSummary name="K Smith" overs="10" maidens="5" runs="19" wickets="1"/>
+    <BowlerSummary name="S Kempster" overs="7" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="M Thorne" overs="10" maidens="6" runs="5" wickets="5"/>
+    <BowlerSummary name="N Thorne" overs="8" maidens="0" runs="37" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

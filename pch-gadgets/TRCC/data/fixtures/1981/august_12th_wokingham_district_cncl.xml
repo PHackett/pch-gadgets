@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:52 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham District Cncl" date="Wed Aug 12 00:00:00 UTC+0100 1981">
+  <MatchReport>
+    <![CDATA[
+      20 over game
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Goulding"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Barnes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="H Ripley">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="George West"/>
+    <Batsman name="G Fulcher"/>
+    <Batsman name="Alan Brooklyn"/>
+    <Batsman name="Stan Coates"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="6" score="115"/>
+    <BowlerSummary name="R Prior" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="J Rees" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Sankey" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="B Goulding" overs="4" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="J Barnes" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="M Slater" overs="3" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Wokingham District Cncl">
+    <Batsman name="Sherwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Goulding">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Minhinick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Auton">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Lee">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Rees">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Slater">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Prior">
+      <HowOut how="Stumped"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Sankey">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Farley"/>
+    <Batsman name="J Barnes"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="87"/>
+    <FallOfWicket batsman="4" score="94"/>
+    <FallOfWicket batsman="3" score="98"/>
+    <FallOfWicket batsman="6" score="105"/>
+    <BowlerSummary name="G Fulcher" overs="5" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Paul Lewis" overs="3" maidens="0" runs="16" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

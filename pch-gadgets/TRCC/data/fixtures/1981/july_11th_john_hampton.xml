@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:53 UTC+0100 2010 -->
+<CricketMatch oppo="John Hampton" date="Sat Jul 11 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="John Hampton">
+    <Batsman name="M Lawrence">
+      <HowOut how="Caught Chris Telfer"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="J Westover">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="B Cartledge">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="M Sutton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Williams">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Stone">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Shape">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Dunn">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Johnson">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gretton">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rolls"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="1" score="102"/>
+    <FallOfWicket batsman="4" score="103"/>
+    <FallOfWicket batsman="5" score="110"/>
+    <FallOfWicket batsman="6" score="121"/>
+    <FallOfWicket batsman="3" score="128"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="8" score="128"/>
+    <BowlerSummary name="Chris Telfer" overs="7" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="James Hayward" overs="15" maidens="2" runs="41" wickets="4"/>
+    <BowlerSummary name="Brian Adams" overs="6" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Dave Parry" overs="6" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="G Fulcher" overs="8" maidens="1" runs="18" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="Shape"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cartledge"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cartledge"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cartledge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shape"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Stone"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stone"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Turton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nigel Tout"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="1" score="73"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="4" score="87"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="8" score="98"/>
+    <FallOfWicket batsman="9" score="114"/>
+    <BowlerSummary name="J Stone" overs="11" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="D Dunn" overs="8" maidens="4" runs="6" wickets="0"/>
+    <BowlerSummary name="B Cartledge" overs="9" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="Gretton" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Shape" overs="6" maidens="2" runs="14" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

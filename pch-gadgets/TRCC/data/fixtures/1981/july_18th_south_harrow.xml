@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:53 UTC+0100 2010 -->
+<CricketMatch oppo="South Harrow" date="Sat Jul 18 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="South Harrow">
+    <Batsman name="Murphy">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Prescod">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ray Cox"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Osborn">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Cresswell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Milsone">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dias">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ham">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Williams"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="4" score="120"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="6" score="126"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <BowlerSummary name="James Hayward" overs="14" maidens="3" runs="60" wickets="3"/>
+    <BowlerSummary name="Dave Parry" overs="11" maidens="2" runs="20" wickets="3"/>
+    <BowlerSummary name="Theo Gray" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Ray Cox" overs="5" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Nigel Tout" overs="2" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="LBW"/>
+      <Bowler name="Ham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Osborn"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="Osborn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Miller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Miller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dave Parry"/>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Nigel Tout"/>
+    <Batsman name="Peter Turton"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <BowlerSummary name="Miller" overs="9" maidens="3" runs="20" wickets="2"/>
+    <BowlerSummary name="Milsone" overs="8" maidens="3" runs="15" wickets="0"/>
+    <BowlerSummary name="Ham" overs="12" maidens="6" runs="15" wickets="1"/>
+    <BowlerSummary name="Osborn" overs="11" maidens="2" runs="42" wickets="2"/>
+    <BowlerSummary name="Dias" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:52 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sun Aug 2 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Atkinson"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Thetford"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Atkinson"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Cusden"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Atkinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Atkinson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woolley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="4" score="134"/>
+    <FallOfWicket batsman="3" score="138"/>
+    <FallOfWicket batsman="6" score="138"/>
+    <FallOfWicket batsman="7" score="152"/>
+    <FallOfWicket batsman="8" score="167"/>
+    <FallOfWicket batsman="5" score="189"/>
+    <FallOfWicket batsman="10" score="190"/>
+    <BowlerSummary name="Woolley" overs="13.2" maidens="1" runs="44" wickets="2"/>
+    <BowlerSummary name="Brown" overs="9" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Thetford" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Atkinson" overs="9" maidens="0" runs="38" wickets="4"/>
+    <BowlerSummary name="Cusden" overs="4" maidens="0" runs="45" wickets="1"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Atkinson">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Howe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Chesterton">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Cusden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Precious">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Oxlade">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Brown">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="2" score="83"/>
+    <FallOfWicket batsman="4" score="124"/>
+    <FallOfWicket batsman="3" score="127"/>
+    <FallOfWicket batsman="5" score="131"/>
+    <FallOfWicket batsman="6" score="141"/>
+    <BowlerSummary name="Stewart Wren" overs="16" maidens="3" runs="47" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="1" runs="48" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="15" maidens="0" runs="65" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

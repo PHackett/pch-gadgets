@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:52 UTC+0100 2010 -->
+<CricketMatch oppo="Eton" date="Sun Aug 30 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Eton">
+    <Batsman name="P Jarvis">
+      <HowOut how="LBW"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Reeves">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Thomson">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Blacklidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Price">
+      <HowOut how="Caught John Howells"/>
+      <Bowler name="James Hayward"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Gacon">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="S Hinton">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="W Meakin">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="P Reader">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Russell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="7" score="89"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="10" score="123"/>
+    <FallOfWicket batsman="11" score="128"/>
+    <BowlerSummary name="James Hayward" overs="10" maidens="3" runs="23" wickets="4"/>
+    <BowlerSummary name="Martin Grugeon" overs="9.4" maidens="4" runs="18" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Paul Lewis" overs="4" maidens="0" runs="13" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="G Blacklidge"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught"/>
+      <Bowler name="M Gacon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Blacklidge"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="W Meakin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="W Meakin"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="LBW"/>
+      <Bowler name="G Blacklidge"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="W Meakin"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="James Hayward"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="3" score="82"/>
+    <FallOfWicket batsman="6" score="92"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="7" score="118"/>
+    <BowlerSummary name="W Meakin" overs="15" maidens="3" runs="44" wickets="3"/>
+    <BowlerSummary name="M Gacon" overs="3.4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="G Blacklidge" overs="16" maidens="2" runs="55" wickets="3"/>
+    <BowlerSummary name="A Scott" overs="6" maidens="3" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

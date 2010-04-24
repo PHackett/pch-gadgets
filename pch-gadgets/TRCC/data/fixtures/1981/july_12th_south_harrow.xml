@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:51 UTC+0100 2010 -->
+<CricketMatch oppo="South Harrow" date="Sun Jul 12 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Miller"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Prescod"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Miller"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George West"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Clark"/>
+    <Batsman name="Hugh Davies"/>
+    <Batsman name="Tim Glover"/>
+    <Batsman name="Neil Smith"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="100"/>
+    <FallOfWicket batsman="4" score="157"/>
+    <BowlerSummary name="Miller" overs="12" maidens="2" runs="47" wickets="2"/>
+    <BowlerSummary name="Milbone" overs="10.3" maidens="4" runs="34" wickets="0"/>
+    <BowlerSummary name="Prescod" overs="10" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="A Ham" overs="11" maidens="1" runs="48" wickets="0"/>
+  </Innings>
+  <Innings batting="South Harrow">
+    <Batsman name="R Osborn">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Murphy">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Neil Smith"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Prescod">
+      <HowOut how="Caught Eddie Kelly"/>
+      <Bowler name="Neil Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Miller">
+      <HowOut how="LBW"/>
+      <Bowler name="Neil Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Milsome">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Cresswell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="A Ham">
+      <HowOut how="Caught Neil Smith"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Healey">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Dias">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Osborn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Stroud">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="4" score="7"/>
+    <FallOfWicket batsman="5" score="7"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="7" score="60"/>
+    <FallOfWicket batsman="8" score="60"/>
+    <FallOfWicket batsman="6" score="70"/>
+    <FallOfWicket batsman="9" score="85"/>
+    <FallOfWicket batsman="10" score="100"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="Neil Smith" overs="12" maidens="2" runs="30" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="2" runs="14" wickets="3"/>
+    <BowlerSummary name="Tim Glover" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Eddie Kelly" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:37:53 UTC+0100 2010 -->
+<CricketMatch oppo="ICI Paints" date="Sat Jun 27 00:00:00 UTC+0100 1981">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="Cherry"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Bennett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cherry"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bennett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bennett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bennett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Hayward">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bennett"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Gofton"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Peter Turton">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bennett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="5" score="14"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="7" score="22"/>
+    <FallOfWicket batsman="6" score="30"/>
+    <FallOfWicket batsman="9" score="62"/>
+    <FallOfWicket batsman="8" score="68"/>
+    <FallOfWicket batsman="11" score="78"/>
+    <BowlerSummary name="Bennett" overs="21" maidens="8" runs="22" wickets="6"/>
+    <BowlerSummary name="Cherry" overs="13" maidens="7" runs="13" wickets="2"/>
+    <BowlerSummary name="West" overs="11" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="B Gofton" overs="6" maidens="1" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="ICI Paints">
+    <Batsman name="I Rance">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Daggar">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="B Gofton">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <BowlerSummary name="James Hayward" overs="7" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Chris Telfer" overs="9" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="6.1" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Dave Parry" overs="3" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Stan Coates" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
