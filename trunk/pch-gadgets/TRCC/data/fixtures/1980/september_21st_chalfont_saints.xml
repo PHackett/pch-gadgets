@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:11 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont Saints" date="Sun Sep 21 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Coles"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Coles"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Coles"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Caught"/>
+      <Bowler name="Coles"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Harrison"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Harrison"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Little"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="4" score="23"/>
+    <FallOfWicket batsman="5" score="38"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="7" score="110"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <FallOfWicket batsman="3" score="128"/>
+    <BowlerSummary name="Coles" overs="15.2" maidens="6" runs="35" wickets="4"/>
+    <BowlerSummary name="Little" overs="10" maidens="3" runs="24" wickets="1"/>
+    <BowlerSummary name="Everritt" overs="12" maidens="3" runs="29" wickets="0"/>
+    <BowlerSummary name="Harrison" overs="7" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+  <Innings batting="Chalfont Saints">
+    <Batsman name="M Little">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="W Thompson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Everritt">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Whitby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Lackin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Sewell">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Coles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="G Harrison">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Crowe">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Bond"/>
+    <Batsman name="S Bowen"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="6" score="78"/>
+    <FallOfWicket batsman="5" score="109"/>
+    <FallOfWicket batsman="7" score="112"/>
+    <FallOfWicket batsman="8" score="120"/>
+    <BowlerSummary name="Martin Grugeon" overs="17" maidens="5" runs="43" wickets="4"/>
+    <BowlerSummary name="Chris Telfer" overs="7" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="11" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Brian Adams" overs="5" maidens="1" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

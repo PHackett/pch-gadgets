@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:12 UTC+0100 2010 -->
+<CricketMatch oppo="BCS" date="Wed Jul 16 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="BCS">
+    <Batsman name="G Rush">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Wood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="S Swade">
+      <HowOut how="Caught P Wood"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="H Greaves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Slade">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="R Woodmansee">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Brogden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Carter">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C Neville"/>
+    <Batsman name="R Garbett"/>
+    <Batsman name="C Gumm"/>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="2" score="122"/>
+    <FallOfWicket batsman="5" score="122"/>
+    <FallOfWicket batsman="7" score="122"/>
+    <BowlerSummary name="Dave Williams" overs="19" maidens="5" runs="48" wickets="3"/>
+    <BowlerSummary name="Mick Houlton" overs="20" maidens="7" runs="37" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="8" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Dave Parry" overs="2" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught"/>
+      <Bowler name="C Neville"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="C Neville"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="G Rush"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="S Swade"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="G Rush"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="S Swade"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Wood">
+      <HowOut how="Caught"/>
+      <Bowler name="S Swade"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="S Swade"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark"/>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="5" score="57"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <FallOfWicket batsman="7" score="94"/>
+    <BowlerSummary name="A" overs="15" maidens="6" runs="19" wickets="0"/>
+    <BowlerSummary name="C Neville" overs="14" maidens="3" runs="34" wickets="2"/>
+    <BowlerSummary name="G Rush" overs="7" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="S Swade" overs="7" maidens="2" runs="14" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

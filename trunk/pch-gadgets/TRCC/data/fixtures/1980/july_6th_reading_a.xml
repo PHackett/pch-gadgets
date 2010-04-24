@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="Reading A" date="Sun Jul 6 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Not Out"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="A"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="E"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Trevor Regan"/>
+    <Batsman name="George West"/>
+    <Batsman name="Brian Adams"/>
+    <Batsman name="Steve Clark"/>
+    <Batsman name="Chris Telfer"/>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="89"/>
+    <BowlerSummary name="A" overs="8" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="B" overs="9" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Singh" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="D" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="E" overs="4" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading A">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

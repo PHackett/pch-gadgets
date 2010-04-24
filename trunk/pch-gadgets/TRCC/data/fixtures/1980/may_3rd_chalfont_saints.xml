@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:11 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont saints" date="Sat May 3 00:00:00 UTC+0100 1980">
+  <MatchReport>
+    <![CDATA[
+      Rather incomplete figures recorded. Little opposition batting, no TRCC overs/runs/maidens.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Harrison"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Little"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="M Omerod"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Omerod"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Little"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Omerod"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Omerod"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Reed"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="5" score="118"/>
+    <FallOfWicket batsman="7" score="125"/>
+    <FallOfWicket batsman="6" score="133"/>
+    <BowlerSummary name="G Harrison" overs="11" maidens="3" runs="22" wickets="1"/>
+    <BowlerSummary name="M Little" overs="14" maidens="6" runs="22" wickets="2"/>
+    <BowlerSummary name="R Harrison" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="M Omerod" overs="11" maidens="0" runs="45" wickets="4"/>
+    <BowlerSummary name="N Coll" overs="3" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Chalfont saints">
+    <Batsman name="M Little">
+      <HowOut how="Caught Ray Cox"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Omerod">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="B">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="E">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="F">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Harris"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="H">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="N Coll"/>
+    <Extras value="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Brian Adams" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Paul Lewis" overs="8" maidens="0" runs="30" wickets="5"/>
+    <BowlerSummary name="Dave Harris" overs="8" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

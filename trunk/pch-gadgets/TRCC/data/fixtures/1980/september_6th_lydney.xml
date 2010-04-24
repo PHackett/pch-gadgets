@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:13 UTC+0100 2010 -->
+<CricketMatch oppo="Lydney" date="Sat Sep 6 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="R Park"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Park"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="N Slee"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="C Jarrett"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Hodge"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hodge"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hodge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hodge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Fulcher"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="40"/>
+    <FallOfWicket batsman="3" score="59"/>
+    <FallOfWicket batsman="1" score="68"/>
+    <FallOfWicket batsman="4" score="113"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="9" score="134"/>
+    <FallOfWicket batsman="8" score="145"/>
+    <BowlerSummary name="P Mudway" overs="3" maidens="2" runs="1" wickets="0"/>
+    <BowlerSummary name="H Aldridge" overs="10" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="R Hodge" overs="13" maidens="2" runs="21" wickets="4"/>
+    <BowlerSummary name="R Park" overs="9" maidens="2" runs="30" wickets="2"/>
+    <BowlerSummary name="N Slee" overs="6" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="G Douglas" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="C Jarrett" overs="4" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Lydney">
+    <Batsman name="Stone">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Wadley">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="N Slee">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Wiltshire">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Miell">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="G Douglas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="H Aldridge">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Jarrett">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Hodge">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Mudway">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="5" score="62"/>
+    <FallOfWicket batsman="6" score="99"/>
+    <FallOfWicket batsman="4" score="124"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="9" score="129"/>
+    <BowlerSummary name="Mick Houlton" overs="20" maidens="2" runs="51" wickets="3"/>
+    <BowlerSummary name="G Fulcher" overs="10" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="5" maidens="0" runs="22" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

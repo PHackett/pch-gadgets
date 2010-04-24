@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="Weaysbury 2nds" date="Sun Aug 3 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Weaysbury 2nds">
+    <Batsman name="Barefoot">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Snr Akers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Curd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dix">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Reeve">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Jnr Akers">
+      <HowOut how="Caught Paul Lewis"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Beadle">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Elliot">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Beach">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="4" score="10"/>
+    <FallOfWicket batsman="5" score="19"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="7" score="22"/>
+    <FallOfWicket batsman="8" score="27"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="10" score="64"/>
+    <BowlerSummary name="Martin Grugeon" overs="11" maidens="6" runs="7" wickets="4"/>
+    <BowlerSummary name="Chris Telfer" overs="11" maidens="4" runs="25" wickets="2"/>
+    <BowlerSummary name="Brian Adams" overs="16" maidens="8" runs="15" wickets="2"/>
+    <BowlerSummary name="Matthew Fort" overs="7" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Snr Akers"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Snr Akers"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Caught"/>
+      <Bowler name="Beadle"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Snr Akers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="Snr Akers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Snr Akers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="Beadle"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Matthew Fort"/>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="46"/>
+    <FallOfWicket batsman="2" score="49"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="7" score="53"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <BowlerSummary name="Beadle" overs="19" maidens="6" runs="31" wickets="2"/>
+    <BowlerSummary name="Smith" overs="6.1" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Snr Akers" overs="10" maidens="5" runs="16" wickets="5"/>
+    <BowlerSummary name="Reeve" overs="2" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

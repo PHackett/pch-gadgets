@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:12 UTC+0100 2010 -->
+<CricketMatch oppo="Bradfield" date="Mon Jun 16 00:00:00 UTC+0100 1980">
+  <MatchReport>
+    <![CDATA[
+      Evening Game.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marshall"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="LBW"/>
+      <Bowler name="Bryans"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Russel-Stracy"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="Harvey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Caught"/>
+      <Bowler name="Harvey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bryans"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Kirk">
+      <HowOut how="LBW"/>
+      <Bowler name="Bryans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="6" score="73"/>
+    <FallOfWicket batsman="2" score="77"/>
+    <FallOfWicket batsman="8" score="77"/>
+    <FallOfWicket batsman="9" score="80"/>
+    <FallOfWicket batsman="7" score="85"/>
+    <FallOfWicket batsman="10" score="86"/>
+    <BowlerSummary name="Bryans" overs="4" maidens="0" runs="9" wickets="3"/>
+    <BowlerSummary name="Marshall" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Russel-Stracy" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Harvey" overs="4" maidens="0" runs="13" wickets="5"/>
+  </Innings>
+  <Innings batting="Bradfield">
+    <Batsman name="K Good">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="J Harvey">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

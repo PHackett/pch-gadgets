@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:12 UTC+0100 2010 -->
+<CricketMatch oppo="Wallingford" date="Sat Jul 12 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wallingford">
+    <Batsman name="E Saunders">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Brannan">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ikin">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Camping">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Axton">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Wyatt">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Abery">
+      <HowOut how="Caught P Kirk"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="B Axton">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hughes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adams"/>
+    <Batsman name="J Brannan"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="3" score="87"/>
+    <FallOfWicket batsman="5" score="87"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <BowlerSummary name="Mick Houlton" overs="22" maidens="4" runs="48" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="11" maidens="1" runs="44" wickets="1"/>
+    <BowlerSummary name="Dave Parry" overs="3" maidens="1" runs="7" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="9" maidens="1" runs="23" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="J Axton"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="J Brannan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Brannan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Brannan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="J Axton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="J Axton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="J Brannan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="P Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Parry"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="4" score="11"/>
+    <FallOfWicket batsman="5" score="34"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <FallOfWicket batsman="1" score="80"/>
+    <FallOfWicket batsman="9" score="85"/>
+    <BowlerSummary name="J Brannan" overs="14" maidens="4" runs="36" wickets="4"/>
+    <BowlerSummary name="Adams" overs="11" maidens="6" runs="9" wickets="1"/>
+    <BowlerSummary name="Abery" overs="7" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="J Axton" overs="7" maidens="2" runs="11" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

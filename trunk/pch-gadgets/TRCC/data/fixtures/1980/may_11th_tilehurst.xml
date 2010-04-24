@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="Tilehurst" date="Sun May 11 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="Guess"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Guess"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="P Hawkins"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Caught"/>
+      <Bowler name="Guess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Guess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Wheeler"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="D Wheeler"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Wheeler"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="D Wheeler"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="LBW"/>
+      <Bowler name="D Wheeler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Power">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="6" score="97"/>
+    <FallOfWicket batsman="7" score="99"/>
+    <FallOfWicket batsman="3" score="126"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="10" score="142"/>
+    <FallOfWicket batsman="9" score="147"/>
+    <BowlerSummary name="Harris" overs="14" maidens="5" runs="28" wickets="0"/>
+    <BowlerSummary name="Guess" overs="13" maidens="1" runs="54" wickets="4"/>
+    <BowlerSummary name="P Hawkins" overs="6" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="D Wheeler" overs="6.2" maidens="2" runs="14" wickets="5"/>
+  </Innings>
+  <Innings batting="Tilehurst">
+    <Batsman name="M Dixon">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Hawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Wheeler">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="D Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Hewitt">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="T Hemming">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="6" runs="15" wickets="3"/>
+    <BowlerSummary name="J Telfer" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Dave Williams" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="5" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="D Power" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

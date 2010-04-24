@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="SICCC" date="Sun Aug 10 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Court"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Court"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Patel"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Cruceon">
+      <HowOut how="Caught"/>
+      <Bowler name="Nawaz"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Nawaz"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="LBW"/>
+      <Bowler name="Darroux"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nawaz"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Patel"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Patel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Nawaz"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="6" score="75"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="7" score="79"/>
+    <FallOfWicket batsman="9" score="83"/>
+    <FallOfWicket batsman="10" score="85"/>
+    <FallOfWicket batsman="8" score="85"/>
+    <BowlerSummary name="Patel" overs="8.1" maidens="1" runs="12" wickets="3"/>
+    <BowlerSummary name="Court" overs="7" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Darroux" overs="10" maidens="5" runs="19" wickets="1"/>
+    <BowlerSummary name="Nawaz" overs="11" maidens="5" runs="10" wickets="4"/>
+  </Innings>
+  <Innings batting="SICCC">
+    <Batsman name="Wahed">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="S Hassain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Patel">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Saeed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nawaz">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Darroux">
+      <HowOut how="Caught Brian Adams"/>
+      <Bowler name="Paul Lewis"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="K Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="1" score="60"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <BowlerSummary name="M Cruceon" overs="8" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Chris Telfer" overs="6" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Paul Lewis" overs="5" maidens="2" runs="6" wickets="2"/>
+    <BowlerSummary name="Matthew Fort" overs="4" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Peter Woodman" overs="0.1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

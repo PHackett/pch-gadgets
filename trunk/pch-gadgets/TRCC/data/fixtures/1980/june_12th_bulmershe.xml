@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:12 UTC+0100 2010 -->
+<CricketMatch oppo="Bulmershe" date="Thu Jun 12 00:00:00 UTC+0100 1980">
+  <MatchReport>
+    <![CDATA[
+      Bracknell Cup.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Bulmershe">
+    <Batsman name="A">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D">
+      <HowOut how="Caught Paul Lewis"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="E">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="F">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="H">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="I">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="K"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="5" score="32"/>
+    <FallOfWicket batsman="7" score="38"/>
+    <FallOfWicket batsman="6" score="43"/>
+    <FallOfWicket batsman="9" score="54"/>
+    <BowlerSummary name="Mick Houlton" overs="10" maidens="1" runs="30" wickets="5"/>
+    <BowlerSummary name="Dave Williams" overs="10" maidens="0" runs="24" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="2"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="2"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="2"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="1"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Brian Adams"/>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Dave Parry"/>
+    <Batsman name="Mick Houlton"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="26"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <BowlerSummary name="1" overs="9.2" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="2" overs="9" maidens="0" runs="34" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:11 UTC+0100 2010 -->
+<CricketMatch oppo="Tilehurst" date="Wed May 7 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Wheeler"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Wheeler"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="N Walden"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Hawkins"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="N Walden"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Power">
+      <HowOut how="LBW"/>
+      <Bowler name="N Walden"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="D Hawkins"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nigel Tout">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Batsman name="P Reed"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="62"/>
+    <FallOfWicket batsman="1" score="63"/>
+    <FallOfWicket batsman="3" score="107"/>
+    <FallOfWicket batsman="4" score="121"/>
+    <FallOfWicket batsman="6" score="136"/>
+    <FallOfWicket batsman="7" score="136"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <BowlerSummary name="I Denton" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="R Denton" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="B Wheeler" overs="10" maidens="2" runs="41" wickets="2"/>
+    <BowlerSummary name="P Guest" overs="7" maidens="2" runs="7" wickets="0"/>
+    <BowlerSummary name="N Walden" overs="8" maidens="2" runs="25" wickets="3"/>
+    <BowlerSummary name="D Hawkins" overs="6" maidens="0" runs="35" wickets="2"/>
+  </Innings>
+  <Innings batting="Tilehurst">
+    <Batsman name="A Wheeler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Greaves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="R Wheeler">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="B Saunders">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="I Denton">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Dixon">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Guest">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Dixon">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Denton">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="5" runs="34" wickets="4"/>
+    <BowlerSummary name="Brian Adams" overs="11" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Peter Kelly" overs="4" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="G Fulcher" overs="3" maidens="1" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

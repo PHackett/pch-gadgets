@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="South Harrow" date="Sun Jul 13 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="South Harrow">
+    <Batsman name="Hall">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Surey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Greene">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Osborn">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Chatterge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Miller">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hougton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Furneaux">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Clarke">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="B Osborn">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="6" score="80"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <FallOfWicket batsman="9" score="82"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="10" score="88"/>
+    <BowlerSummary name="Martin Grugeon" overs="17" maidens="5" runs="33" wickets="7"/>
+    <BowlerSummary name="Chris Telfer" overs="17" maidens="2" runs="45" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="A Osborn"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Osborn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Osborn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Hall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Osborn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Hall"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nigel Tout"/>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="2" score="68"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <FallOfWicket batsman="7" score="78"/>
+    <BowlerSummary name="Miller" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Hall" overs="6.2" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="A Osborn" overs="9" maidens="1" runs="31" wickets="4"/>
+    <BowlerSummary name="Greene" overs="4" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

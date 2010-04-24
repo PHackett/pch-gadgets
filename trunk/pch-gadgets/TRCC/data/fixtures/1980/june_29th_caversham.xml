@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:10 UTC+0100 2010 -->
+<CricketMatch oppo="Caversham" date="Sun Jun 29 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Powiecki"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Marshall"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Bowyer"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Paul Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Bowyer"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Rebbek"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="B Rebbek"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Rebbek"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Reed"/>
+    <Batsman name="Ian Cockerell"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="3" score="104"/>
+    <FallOfWicket batsman="7" score="120"/>
+    <FallOfWicket batsman="6" score="137"/>
+    <BowlerSummary name="M Marshall" overs="7" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="J Powiecki" overs="7" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="D Bowyer" overs="16" maidens="2" runs="51" wickets="2"/>
+    <BowlerSummary name="M Strough" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="B Rebbek" overs="11" maidens="4" runs="24" wickets="3"/>
+  </Innings>
+  <Innings batting="Caversham">
+    <Batsman name="D Bowyer">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="McCormac">
+      <HowOut how="LBW"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="G Fenty">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Emmous">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="K OBrien">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="M Marshall">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Rebbek">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <FallOfWicket batsman="5" score="135"/>
+    <FallOfWicket batsman="7" score="135"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="2" runs="35" wickets="2"/>
+    <BowlerSummary name="Brian Adams" overs="14" maidens="1" runs="51" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Paul Lewis" overs="4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

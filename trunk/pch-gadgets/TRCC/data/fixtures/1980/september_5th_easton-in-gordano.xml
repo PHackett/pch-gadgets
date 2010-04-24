@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:13 UTC+0100 2010 -->
+<CricketMatch oppo="Easton-In-Gordano" date="Fri Sep 5 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="H Collins"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Avent"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Edwards"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="C Edwards"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Farrell"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="G Fulcher"/>
+    <Batsman name="George West"/>
+    <Batsman name="Mick Houlton"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="4" score="90"/>
+    <FallOfWicket batsman="5" score="160"/>
+    <BowlerSummary name="M Farrell" overs="17" maidens="3" runs="47" wickets="1"/>
+    <BowlerSummary name="H Collins" overs="15" maidens="3" runs="50" wickets="1"/>
+    <BowlerSummary name="C Edwards" overs="7" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="J Avent" overs="10" maidens="1" runs="47" wickets="1"/>
+  </Innings>
+  <Innings batting="Easton-In-Gordano">
+    <Batsman name="D Salvidge">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Cameron">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Wilkins">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="H Collins">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="C Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Farrell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Lester">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Fry">
+      <HowOut how="Caught Trevor Regan"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Fox">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Lloyd">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Avent">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="5" score="25"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="6" score="45"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="9" score="58"/>
+    <FallOfWicket batsman="8" score="65"/>
+    <FallOfWicket batsman="10" score="69"/>
+    <BowlerSummary name="Mick Houlton" overs="20" maidens="10" runs="33" wickets="6"/>
+    <BowlerSummary name="Tom Fort" overs="15" maidens="7" runs="22" wickets="2"/>
+    <BowlerSummary name="G Fulcher" overs="5" maidens="2" runs="6" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:26:11 UTC+0100 2010 -->
+<CricketMatch oppo="High Wycombe" date="Mon May 26 00:00:00 UTC+0100 1980">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Not Out"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stone"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Dave Williams"/>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Walker"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Dunn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hav">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Dunn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Power">
+      <HowOut how="Caught"/>
+      <Bowler name="A Walker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="P Reed"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="3" score="148"/>
+    <FallOfWicket batsman="5" score="172"/>
+    <FallOfWicket batsman="6" score="177"/>
+    <FallOfWicket batsman="7" score="177"/>
+    <FallOfWicket batsman="8" score="178"/>
+    <BowlerSummary name="J Stone" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="D Dunn" overs="12" maidens="3" runs="36" wickets="2"/>
+    <BowlerSummary name="R Gretton" overs="8" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Waite" overs="8" maidens="2" runs="32" wickets="0"/>
+    <BowlerSummary name="B Cartledge" overs="6" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="A Walker" overs="5" maidens="0" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="High Wycombe">
+    <Batsman name="Waite">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="James Fort"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Dave Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Cartledge">
+      <HowOut how="Caught D Power"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Walker">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Johnson">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Steve Clark"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Dunn">
+      <HowOut how="Caught D Power"/>
+      <Bowler name="Steve Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Gretton">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="3" score="3"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <BowlerSummary name="Mick Houlton" overs="9" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="Dave Williams" overs="12" maidens="4" runs="18" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="9" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="5" runs="14" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="2" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="1" maidens="1" runs="0" wickets="0"/>
+    <BowlerSummary name="D Power" overs="2" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Steve Clark" overs="2" maidens="0" runs="6" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
