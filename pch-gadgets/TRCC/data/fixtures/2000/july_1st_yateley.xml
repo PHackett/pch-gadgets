@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:36 UTC+0100 2010 -->
+<CricketMatch oppo="Yateley" date="Sat Jul 1 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="A Davies"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Justice"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Davies"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Sharman"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Davies"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="A Davies" overs="19" maidens="2" runs="88" wickets="3"/>
+    <BowlerSummary name="M Owton" overs="8" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="C Justice" overs="8" maidens="1" runs="52" wickets="1"/>
+    <BowlerSummary name="Farez" overs="2" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Sharman" overs="5" maidens="0" runs="23" wickets="1"/>
+  </Innings>
+  <Innings batting="Yateley">
+    <Batsman name="C Justice">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Damston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Suhail">
+      <HowOut how="Caught C Evans"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Parker">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="G Parsons">
+      <HowOut how="Caught B Potier"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Sharman">
+      <HowOut how="Caught C Evans"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Jacobs">
+      <HowOut how="Caught A Jackson"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Platt">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Farez">
+      <HowOut how="Caught No Downes"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Owton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Andrew Jackson" overs="8" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="5" runs="19" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="3" maidens="1" runs="6" wickets="2"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="1" runs="9" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

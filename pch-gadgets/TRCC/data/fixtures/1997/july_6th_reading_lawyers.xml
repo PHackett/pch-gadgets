@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:43 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jul 6 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="Symons">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Allen">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Woodsmith">
+      <HowOut how="Caught"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Burrows">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Clements">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Baker">
+      <HowOut how="LBW"/>
+      <Bowler name="Lawrence Neall"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Eatwell">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="R Frost">
+      <HowOut how="Caught"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C Frost">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lawrence Neall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="6" runs="12" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="4" runs="7" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="7" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Lawrence Neall" overs="7" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="6" maidens="1" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Eatwell"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Eatwell"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Dave Searby"/>
+    <Batsman name="Alex Neall"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Seymour" overs="6" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="Scott" overs="8" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="C Frost" overs="9" maidens="2" runs="25" wickets="0"/>
+    <BowlerSummary name="R Frost" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Eatwell" overs="5" maidens="2" runs="25" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

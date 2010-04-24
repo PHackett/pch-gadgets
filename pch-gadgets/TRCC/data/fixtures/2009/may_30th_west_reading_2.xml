@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="West Reading 2" date="Sat May 30 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Phil Markham">
+      <HowOut how="Caught"/>
+      <Bowler name="Fahad"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Taymour"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adnan"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zaib"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Ghaffar"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Taymour"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Taymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="3" score="97"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="6" score="154"/>
+    <FallOfWicket batsman="7" score="174"/>
+    <FallOfWicket batsman="9" score="174"/>
+    <BowlerSummary name="Taymour" overs="11" maidens="2" runs="47" wickets="3"/>
+    <BowlerSummary name="Fahad" overs="10" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Majid" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Zaib" overs="10" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Adnan" overs="6" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Ghaffar" overs="2" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="West Reading 2">
+    <Batsman name="Javed N">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Raja A">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mahmood M">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Askram W">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ashan W">
+      <HowOut how="LBW"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Zaman I">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bhatti J">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Yousaf T">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Khan F">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Qayyum A">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ghodausi G">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="8" score="123"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="10" score="128"/>
+    <FallOfWicket batsman="9" score="150"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="7" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="6" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="8.1" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="5" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

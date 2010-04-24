@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:34 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sun May 17 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="T Emery"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="K Gregory"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Emery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Liam Ryan"/>
+    <Extras value="13"/>
+    <BowlerSummary name="K Gregory" overs="16" maidens="3" runs="57" wickets="1"/>
+    <BowlerSummary name="R Tyler" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="G Morris" overs="17" maidens="2" runs="56" wickets="0"/>
+    <BowlerSummary name="T Emery" overs="19" maidens="2" runs="60" wickets="2"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="T Emery">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Cannon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Doic">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Hills">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Baker">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="K Gregory">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Ryan">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="D Stewart">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Tyler">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Stewart Wren" overs="16" maidens="6" runs="22" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="16" maidens="4" runs="32" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="2" maidens="1" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

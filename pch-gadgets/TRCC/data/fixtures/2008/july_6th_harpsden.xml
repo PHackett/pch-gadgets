@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Harpsden" date="Sun Jul 6 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      Looked like we might have got away with it, but no - The rain came down
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Harpsden">
+    <Batsman name="G Bredley">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="R Birkell">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Norton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rajeev">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Honeuch">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="O Heath">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="5" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="1.4" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman"/>
+    <Batsman name="Dave Benjamin"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Paul Hackett"/>
+    <Batsman name="Tom Downes"/>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

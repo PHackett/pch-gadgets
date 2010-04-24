@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:00 UTC+0100 2010 -->
+<CricketMatch oppo="Penn Street" date="Sun May 10 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      A very pleasant early summer day, bright sunshine with a few clouds, saw TRCC travel to the
+      delightful ground of Penn Street, up between High Wycombe and Amersham.
+      <p>
+      Wining the
+      toss, Twyford elected to bat. It was a true wicket, but the openers did not start out confidently
+      under the accurate Penn Street attack. Runs were slow in coming, despite a reasonably fast outfield,
+      and the wickets were falling with some regularity. Only Woodman with a fine 61, and later in the
+      innings Walkland, distinguished themselves at the crease. The final total of 153 looked to small on
+      the day, but did give the visitors something to bowl at. For the home side it was Herriot who took
+      the honours with a fine, long spell, taking 4-40.
+      <p>
+      After a 10 out of 10 tea (coffee
+      cake - mmmmm!) the home side had their turn with the bat. Runs were again at a premium, with Hackett
+      delivering an accurate (if unrewarded) spell, but the Penn Street batsmen knew how to find the
+      boundary. After the first bowling change, Walkland took 2 quick wickets, but then opener Reavey
+      decided to show everyone what he was made of! A flurry of shots sped to the boundary, and by the
+      time 20 overs was called, the result was in the bag. He capped off his innings with a huge 6 into
+      the woods, bringing both his 100, and victory for the home team at the same time. 
+      <p>
+     
+      So, a deserved victory for Penn Street, but mainly a great afternoon, enjoyed by all those who
+      played.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="J Mendie"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Goodchild"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Herriot"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="5" score="71"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="7" score="113"/>
+    <BowlerSummary name="J Mendie" overs="9" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="P Goodchild" overs="9" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="R Raven" overs="7" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="C Herriot" overs="11" maidens="3" runs="40" wickets="4"/>
+    <BowlerSummary name="C Fletcher" overs="4" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Penn Street">
+    <Batsman name="M Reavey">
+      <HowOut how="Not Out"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="D Lander">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Sutherland">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Harte">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="C Fletcher">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="48"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="4" score="129"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="3" runs="19" wickets="0"/>
+    <BowlerSummary name="Tim Cooper" overs="5" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="8" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Brandon Theron" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="1" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="1.5" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

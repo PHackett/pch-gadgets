@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:49 UTC+0100 2010 -->
+<CricketMatch oppo="Freith" date="Sun Jul 18 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Baxter"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Smith"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="E Horne"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Smith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Neil Prior"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="18"/>
+    <BowlerSummary name="J Baxter" overs="8" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="A Shadbolt" overs="5" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="M Emerson" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="C Smith" overs="9" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="E Horne" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="A Mcleod" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Freith">
+    <Batsman name="A Mcleod">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Emerson">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Smith">
+      <HowOut how="Caught N Prior"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Baxter">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Hobbs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Nicholls">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Shadbolt">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Valesco">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Stokes">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Emerson">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="E Horne">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Neil Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="19" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="4" runs="16" wickets="4"/>
+    <BowlerSummary name="Robin Reynolds" overs="1" maidens="1" runs="0" wickets="0"/>
+    <BowlerSummary name="Neil Prior" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

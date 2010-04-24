@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:06 UTC+0100 2010 -->
+<CricketMatch oppo="IBIS" date="Sat Jul 31 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Stumped"/>
+      <Bowler name="Carr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Jones"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Caught"/>
+      <Bowler name="Carr"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Carr"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Carr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Carr"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Lawrance"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Moore"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="3" score="110"/>
+    <FallOfWicket batsman="6" score="157"/>
+    <FallOfWicket batsman="8" score="184"/>
+    <BowlerSummary name="Jones" overs="11" maidens="2" runs="40" wickets="1"/>
+    <BowlerSummary name="Measham" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Carr" overs="15" maidens="2" runs="64" wickets="5"/>
+    <BowlerSummary name="Broomfield" overs="8" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Lawrance" overs="7" maidens="1" runs="27" wickets="1"/>
+  </Innings>
+  <Innings batting="IBIS">
+    <Batsman name="Whitmore">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Graham Woodhouse"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="J Carr">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Bardsley">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Lattimore">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Barraclough">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="White">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Measham"/>
+    <Batsman name="Broomfield"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="76"/>
+    <FallOfWicket batsman="3" score="117"/>
+    <FallOfWicket batsman="4" score="117"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="1" score="131"/>
+    <FallOfWicket batsman="7" score="134"/>
+    <FallOfWicket batsman="8" score="168"/>
+    <BowlerSummary name="John Moore" overs="7" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="14" maidens="4" runs="43" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="0" runs="35" wickets="4"/>
+    <BowlerSummary name="Graham Woodhouse" overs="6" maidens="0" runs="29" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

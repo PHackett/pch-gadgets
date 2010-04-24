@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:04 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sun Jun 26 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Morris"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="J Ryan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Camidge"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Emery"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Steve Head"/>
+    <Extras value="6"/>
+    <BowlerSummary name="Morris" overs="17" maidens="4" runs="51" wickets="1"/>
+    <BowlerSummary name="J Ryan" overs="11" maidens="4" runs="35" wickets="1"/>
+    <BowlerSummary name="T Emery" overs="11" maidens="0" runs="64" wickets="1"/>
+    <BowlerSummary name="Camidge" overs="7" maidens="0" runs="44" wickets="1"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="T Emery">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Baker">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Doig">
+      <HowOut how="LBW"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="M Parry">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="J Camidge">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="K Cooper">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Winchester">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A.N. Other">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Steve Head" overs="7" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="15" maidens="4" runs="48" wickets="3"/>
+    <BowlerSummary name="Mark Lawrence" overs="6" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

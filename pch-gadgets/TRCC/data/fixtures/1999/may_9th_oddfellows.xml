@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:04 UTC+0100 2010 -->
+<CricketMatch oppo="Oddfellows" date="Sun May 9 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Oddfellows">
+    <Batsman name="Burbridge">
+      <HowOut how="Caught J Moore"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Lester">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Moore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spires">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Horsecroft">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Slatcher">
+      <HowOut how="Not Out"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Wrangles">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mackie">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Clouter"/>
+    <Batsman name="Kilford"/>
+    <Batsman name="Emans"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="7" runs="33" wickets="1"/>
+    <BowlerSummary name="John Moore" overs="7" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Mackie"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Emans"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Mackie"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Emans"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Spires"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Mackie"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Kilford"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wrangles"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Emans"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Mackie" overs="11" maidens="3" runs="19" wickets="3"/>
+    <BowlerSummary name="Emans" overs="9" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="Slatcher" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Kilford" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="Spires" overs="5" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="Wrangles" overs="3" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Smith" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

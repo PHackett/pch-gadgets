@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:32 UTC+0100 2010 -->
+<CricketMatch oppo="Bradfield" date="Sat Jun 8 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bradfield">
+    <Batsman name="A North">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Bargent">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Bartman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="D North">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Bucksey">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Gibson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Garrett">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="I Johnson">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R North">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Culley">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="6" score="49"/>
+    <FallOfWicket batsman="8" score="59"/>
+    <FallOfWicket batsman="7" score="59"/>
+    <FallOfWicket batsman="9" score="60"/>
+    <FallOfWicket batsman="10" score="60"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="7" runs="19" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="19.1" maidens="8" runs="32" wickets="5"/>
+    <BowlerSummary name="Paul Siddell" overs="8" maidens="4" runs="8" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Johnson"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="D North"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="I Johnson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Tim Sharp"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Paul Siddell"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Steve Clark"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="1" score="38"/>
+    <BowlerSummary name="D North" overs="9.3" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="I Johnson" overs="9" maidens="2" runs="27" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

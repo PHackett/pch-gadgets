@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 27 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       The fourth straight gloriously sunny Sunday saw Twyford playing host to local rivals Wargrave. Put
+      in to bat on what looked to be a slow and flat wicket, Twyford were provided with an excellent start
+      by Woodman and N Downes, followed by yet another fine turn at the crease by Wren who is having one
+      of his best seasons ever. Late order support by H Fort and T Fort helped take Twyford's total to 184
+      for 7. For Wargrave the star of the show was undoubtedly G Bell, taking 5 wickets in his 15 overs,
+      conceding only 41 runs. 
+      <p>
+       In reply, Wargrave suffered an early blow as Singh fell
+      LBW to Beamish with the score on 7. Woods and C Lunn recovered the initiative pushing the score on
+      to 50, when in quick succession Walkland took the first 2 of a total of 5 Wickets. Combes and E Lunn
+      steadied Wargrave's ship once more, but when E Lunn finally fell the visitors were struggling at
+      98-7. 
+      <p>
+       But it was not over yet! The Wargrave tail proved resilient, and would not
+      go quietly as the 20 overs countdown proceeded. It was only off the penultimate ball of the match
+      that Hackett was able to dismiss Woodmanse LBW and claim victory, the first for Twyford in this
+      local derby since 1992. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Bell"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Lunn"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Bell"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woodmanse"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Bell"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Bell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="G Bell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <FallOfWicket batsman="1" score="145"/>
+    <FallOfWicket batsman="4" score="150"/>
+    <FallOfWicket batsman="3" score="152"/>
+    <FallOfWicket batsman="6" score="154"/>
+    <FallOfWicket batsman="5" score="172"/>
+    <FallOfWicket batsman="8" score="184"/>
+    <BowlerSummary name="P Norris" overs="11" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="A Amore" overs="6" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="C Lunn" overs="10" maidens="0" runs="65" wickets="1"/>
+    <BowlerSummary name="G Bell" overs="15" maidens="1" runs="41" wickets="5"/>
+    <BowlerSummary name="Woodmanse" overs="8" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="H Singh">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="C Lunn">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Amore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Combes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="E Lunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J Shane">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Clarke">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Woodmanse">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="G Bell">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="5" score="77"/>
+    <FallOfWicket batsman="4" score="97"/>
+    <FallOfWicket batsman="7" score="98"/>
+    <FallOfWicket batsman="6" score="98"/>
+    <FallOfWicket batsman="8" score="103"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="10" score="116"/>
+    <BowlerSummary name="Paul Hackett" overs="9.5" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="8" maidens="1" runs="23" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="2" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

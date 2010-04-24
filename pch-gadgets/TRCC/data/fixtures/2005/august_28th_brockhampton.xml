@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Brockhampton" date="Sun Aug 28 00:00:00 UTC+0100 2005">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Brockhampton">
+    <Batsman name="C Powell">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Watkins">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Cathcart">
+      <HowOut how="Not Out"/>
+      <Runs value="141"/>
+    </Batsman>
+    <Batsman name="A Nashorniak">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="A Watts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Hewlett">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="J Goodwin">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="H Langford"/>
+    <Batsman name="D Price"/>
+    <Batsman name="S Jennings"/>
+    <Batsman name="R Warden"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="3" runs="29" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="61" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="0" runs="74" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="6" maidens="0" runs="69" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="0.4" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Warden"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Warden"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Hewlett"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bell"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Hewlett"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Nashorniak"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Hewlett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="A Nashorniak"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Watts"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Watts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="3" score="81"/>
+    <FallOfWicket batsman="5" score="83"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <FallOfWicket batsman="7" score="127"/>
+    <FallOfWicket batsman="11" score="134"/>
+    <BowlerSummary name="R Warden" overs="4" maidens="2" runs="3" wickets="2"/>
+    <BowlerSummary name="S Jennings" overs="1" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="H Langford" overs="8" maidens="1" runs="42" wickets="0"/>
+    <BowlerSummary name="Bell" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="A Hewlett" overs="7" maidens="2" runs="17" wickets="3"/>
+    <BowlerSummary name="A Nashorniak" overs="6" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="A Watts" overs="2.1" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="J Goodwin" overs="2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

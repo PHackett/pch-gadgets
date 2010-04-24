@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:19 UTC+0100 2010 -->
+<CricketMatch oppo="Chesham Boys" date="Sat Jul 1 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chesham Boys">
+    <Batsman name="P Sackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Rolph">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="John OBrien">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Beeson">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="D Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="P Clifford">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="B Webb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Dickinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Van Duyvenbode">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jed OBrien">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Khalid">
+      <HowOut how="Caught Mike(Jnr) Taylor"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="7" score="77"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <FallOfWicket batsman="9" score="92"/>
+    <FallOfWicket batsman="10" score="97"/>
+    <FallOfWicket batsman="11" score="119"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="4" runs="19" wickets="3"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="10" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="4" runs="28" wickets="3"/>
+    <BowlerSummary name="David Taylor" overs="4.4" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="Khalid"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Mike Choules">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Tim Sharp"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <BowlerSummary name="P Clifford" overs="11.5" maidens="2" runs="39" wickets="0"/>
+    <BowlerSummary name="Khalid" overs="8" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="D Cox" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="B Webb" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

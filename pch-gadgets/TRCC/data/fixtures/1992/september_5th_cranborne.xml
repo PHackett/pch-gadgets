@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:37 UTC+0100 2010 -->
+<CricketMatch oppo="Cranborne" date="Sat Sep 5 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Ward"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ward"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Moores"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="13"/>
+    <BowlerSummary name="B Powell" overs="10" maidens="2" runs="50" wickets="0"/>
+    <BowlerSummary name="Thorpe" overs="9" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Pople" overs="4" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Ward" overs="10" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Atherton" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Moores" overs="5" maidens="1" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Cranborne">
+    <Batsman name="N Ward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="B Moores">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Thorpe">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Austin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Garney">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="R Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Dolan">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Andy Wilkinson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Atherton">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Barry Potier" overs="9" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="9" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="5" maidens="5" runs="0" wickets="0"/>
+    <BowlerSummary name="James Hollidge" overs="7" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Mark Lawrence" overs="8" maidens="1" runs="35" wickets="3"/>
+    <BowlerSummary name="Andy Wilkinson" overs="6" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

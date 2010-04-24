@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Worthing Chippingdales" date="Sat Aug 23 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       The first game of the tour - We were rested, We were ready ... 
+      <p>
+       Perhaps a little
+      too rested, however. A fine pub lunch and a couple of pints, and Twyford were off! A pleasant ground
+      greeted us, and like most pitches this summer the outfield was as fast as fast could be, promising a
+      good day for the batsmen. 
+      <p>
+       Sure enough, when the &quot;Chipps&quot; put themselves
+      into bat the runs came thick and fast. Fine strokeplay coupled with bowling that just said
+      &quot;<em>Hi there, I'm a short pitched ball. Would you like me to dissapear over the
+      bounday?</em>&quot; saw the large, though not impossible target of 213 set by the home side. Thank
+      goodness Thair stepped on his wicket, otherwise who knows what the total would have been! 
+     
+      <p>
+       Keen to boost their averages, Twyford's batsmen eagerly anticipated their turn at the
+      crease from where so many runs had flowed during the home side's innings. But reality and talent
+      were to proove cruel mistresses. Wickets fell from the off, and continued to fall leaving Twyford at
+      5-36 at one point. Kim Knight stemmed the hemmorage for a short while - but only a <em>short</em>
+      while as the visitors collapsed to 106 all out. Only Woodman, Knight and N Downes managed double
+      figures. The other eight batsmen contributing the princely total of 24 runs between them. Thank god
+      for extras! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Worthing Chippingdales">
+    <Batsman name="Thair">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Waimark">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Riaz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="R Thair">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Page">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Russell">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="O Roberts">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="B Stone">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Simms">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Hall">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Bourne"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="1" score="95"/>
+    <FallOfWicket batsman="4" score="145"/>
+    <FallOfWicket batsman="3" score="145"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="5" score="164"/>
+    <FallOfWicket batsman="7" score="198"/>
+    <FallOfWicket batsman="9" score="203"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="12" maidens="1" runs="56" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="0" runs="90" wickets="5"/>
+    <BowlerSummary name="Stewart Wren" overs="2" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Bourne"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="M Bourne"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="B Stone"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="B Stone"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="B Stone"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="O Roberts"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hall"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Page"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Page"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Russell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="4" score="18"/>
+    <FallOfWicket batsman="5" score="31"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="7" score="73"/>
+    <FallOfWicket batsman="8" score="74"/>
+    <FallOfWicket batsman="9" score="86"/>
+    <FallOfWicket batsman="10" score="101"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <BowlerSummary name="B Stone" overs="7" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="M Bourne" overs="8" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="T Hall" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="R Simms" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Page" overs="4" maidens="0" runs="13" wickets="2"/>
+    <BowlerSummary name="J Russell" overs="2" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="O Roberts" overs="1" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

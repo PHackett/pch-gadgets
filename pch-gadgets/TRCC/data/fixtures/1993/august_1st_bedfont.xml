@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:49 UTC+0100 2010 -->
+<CricketMatch oppo="Bedfont" date="Sun Aug 1 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bedfont">
+    <Batsman name="M Osbon">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Wigley">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gould">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Peake">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="A Caine">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Neil Prior"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="K Storr">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Neil Prior"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Sutton">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="A Wildman">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Maeght">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Khan"/>
+    <Batsman name="S Waheed"/>
+    <Extras value="13"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="42" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="12" maidens="5" runs="16" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="1" runs="47" wickets="1"/>
+    <BowlerSummary name="Neil Prior" overs="7" maidens="0" runs="41" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Osbon"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="M Peake"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Kim Knight"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Neil Prior"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="7"/>
+    <BowlerSummary name="A Sutton" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="S Gould" overs="8" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="M Peake" overs="5" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="K Storr" overs="5" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="M Osbon" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="S Waheed" overs="2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="Pyestock" date="Sun Jun 16 00:00:00 UTC+0100 2002">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Butler"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Butler"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Butler"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Butler"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="Butler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Butler"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Heath"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Butler"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Butler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Heath"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="N Butler" overs="13" maidens="6" runs="14" wickets="8"/>
+    <BowlerSummary name="P Heath" overs="10" maidens="3" runs="14" wickets="0"/>
+    <BowlerSummary name="C Heath" overs="2.1" maidens="1" runs="9" wickets="2"/>
+  </Innings>
+  <Innings batting="Pyestock">
+    <Batsman name="P Heath">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Grigg">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Ensor">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Sladen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Jeffs">
+      <HowOut how="Caught D Benjamin"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Butler">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Heath">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Barber">
+      <HowOut how="LBW"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Novak">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Short">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Heath">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="6" runs="12" wickets="4"/>
+    <BowlerSummary name="Alex Neall" overs="8" maidens="1" runs="23" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="2.5" maidens="1" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

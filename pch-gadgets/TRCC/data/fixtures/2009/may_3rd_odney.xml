@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:00 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 3 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+       A bright day, when the sun poked through the clouds, but chilly in the wind, Twyford welcomed
+      long-time adversaries Odney to Stanlake meadow for the first game of the season on that august
+      ground! 
+      <p>
+      Winning the toss, the home side elected to bat. Twyford got off to a good
+      start despite some speedy bowling from Finlay, with Woodman and Baker taking advantage of the short
+      boundary on the day. It was 51 before the first wicket fell, and T Fort came to the crease. His
+      first scoring shot was a huge six in to the car park, prompting members of the crowd to dub him
+      &quot;The white Viv Richards&quot;! The innings continued in Twyford's favour, with all batsmen
+      contributing well to the end. Leadbetter coming in with 2 balls remaining and managing to score 4
+      runs. Pick of the bowling for Odney was M Finlay who completed a punishing 16 overs without dropping
+      his pace even at the end. 
+      <p>
+      Odney's innings did not start well, with Bay dismissed
+      first ball by Hackett. Things settled down for the visitors from then on, with fine batting from
+      Lovegrove and Finlay. But runs were not forthcoming - When '20 Overs' was sounded, the required run
+      rate was over 8 per over. With wickets in hand, a draw looked certain. But then Leadbetter took two
+      in two balls, and Walkland coming back for his second spell started ripping though the tail. It came
+      down to the final over - two wickets remaining. M Finlay was caught plum (<a
+      href='http://www.cricket.mailliw.com/archives/2006/02/01/plumb-or-plum-lbw/'><em>'Plum' or
+      'Plumb'?</em></a>) LBW when the ball hit him square on the foot, but unfortunately it rebounded
+      viciously in to his face, and he required helping from the field. But the last wicket did not fall -
+      Honours were shared with a draw. 
+      <p>
+      So, a good performance from both teams, but
+      Twyford will be ruing a couple of catches that got away!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Moss"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught"/>
+      <Bowler name="Mir"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Polston"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Finlay"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Brandon Theron"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="41"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="1" score="89"/>
+    <FallOfWicket batsman="4" score="183"/>
+    <FallOfWicket batsman="3" score="200"/>
+    <BowlerSummary name="Finlay" overs="16" maidens="3" runs="50" wickets="1"/>
+    <BowlerSummary name="Mir" overs="10" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Moss" overs="7" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="Bay" overs="7" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Polston" overs="3" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Odney">
+    <Batsman name="A Bay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lovegrove">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tom Leadbetter"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="A Finlay">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="J Polston">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Dickie">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="P Adamson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Leadbetter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Herzog">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Mir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Bay">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Finlay">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Moss">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="9" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="0" runs="14" wickets="4"/>
+    <BowlerSummary name="Brandon Theron" overs="6" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="Josh Baker" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="3" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

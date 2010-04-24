@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:18 UTC+0100 2010 -->
+<CricketMatch oppo="Old Paludians" date="Sun Sep 3 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Old Paludians">
+    <Batsman name="Spencer-Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Bond">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Johnson">
+      <HowOut how="Not Out"/>
+      <Runs value="99"/>
+    </Batsman>
+    <Batsman name="Baldeny">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="14" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="2" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="2" runs="41" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="6" maidens="1" runs="48" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Bolton"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Doran"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Long"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Run Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Dudley"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Unknown"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Dudley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Bolton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Doran" overs="13" maidens="1" runs="43" wickets="1"/>
+    <BowlerSummary name="Brassey" overs="2" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Long" overs="8" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Bolton" overs="9" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Dudley" overs="6" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

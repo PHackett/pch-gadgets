@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Petworth Park" date="Sun Aug 24 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       We arrived at Petwork Park unable to contain our enthusiasm - Could this be the year that we
+      actually get to complete a game against Petworth, after the rain we had been faced with on the
+      previous two tours? The answer appeared to be yes - Sort of. While the day was bright and fine, the
+      location beautiful with wild deer with huge antlers grazing in the distance, Petwork had only been
+      able to rustle up 4 players. But all was by no means lost as there were 15 Twyford players available
+      on the day. Eventually two teams were arranged, Twyford having 10 men (Captained by C Evans), and
+      the augmented Petworth team having 9. A limited overs game of 35 overs, each bowler having a maximum
+      of 7 overs each was agreed. All the visitors were looking forward to matching themselves against
+      other TRCC players! 
+      <p>
+       Twyford batted first, and runs flew from the bat. J Fort and R
+      Seymour gave a great start reaching 47 before their partnership was broken. More was to follow from
+      T Fort, Wren and Knight as Twyford powered towards just shy of the 200 mark. For Petworth, the
+      bowling star was undoubtedly D Evans claiming 4 wickets, including the much prized one his brother!
+      
+      <p>
+       Twyford were comfortable with this total, a bit more would have been nice, but
+      surely it would be enough to defeat the undisciplined rabble that was the nine men of Petworth? Or
+      would it....? 
+      <p>
+       A fine start from Petworth was cut short by Hackett, trapping
+      Woodman LBW (Really Pete - It <em>was</em> plumb), quickly followed by Wakeford caught off the
+      bowling of Beamish. But Greal powered on, getting fine support from Neall and then later N Downes,
+      who really punished the short ball. Most of the Twyford bowling was fairly loose, with the exception
+      of C Evans, who bowled like a man possessed. Unfortunately, he also bowled like a man who had as
+      much luck as you would expect from someone who had, just for the fun of it, kicked a leprechaun to
+      death the previous day. The number of balls that just missed the bat and/or stumps was
+      disheartening. Insult was added to injury when after his spell Seymour came on to bowl and took the
+      wicket of D Evans with a ball so wide, no one was quite sure how he managed to get a bat on it. 
+   
+        <p>
+       It all came down to the last over, with Petworth needing 7 to win. N Downes knocked 6
+      in the first 3 balls before being bowled (Much to enjoyment of Hackett). Petworth then snatched a
+      quickly run bye off the next ball to win the match. 
+      <p>
+       Who was the daddy...? Not
+      Twyford on this occasion! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="1" score="54"/>
+    <FallOfWicket batsman="3" score="129"/>
+    <FallOfWicket batsman="4" score="145"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="7" score="190"/>
+    <BowlerSummary name="P Kerridge" overs="7" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="7" maidens="1" runs="44" wickets="0"/>
+    <BowlerSummary name="Greal" overs="7" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="Drew Evans" overs="5" maidens="0" runs="26" wickets="4"/>
+    <BowlerSummary name="J Maidment" overs="2" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Petworth Park">
+    <Batsman name="Greal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Wakeford">
+      <HowOut how="Caught Kim Knight"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Roger Seymour"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Kerridge">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Maidment"/>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <FallOfWicket batsman="4" score="103"/>
+    <FallOfWicket batsman="5" score="118"/>
+    <FallOfWicket batsman="1" score="151"/>
+    <FallOfWicket batsman="6" score="198"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="7" maidens="1" runs="38" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Roger Seymour" overs="4" maidens="0" runs="31" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

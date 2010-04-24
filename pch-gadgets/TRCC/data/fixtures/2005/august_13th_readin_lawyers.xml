@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
+<CricketMatch oppo="Readin Lawyers" date="Sat Aug 13 00:00:00 UTC+0100 2005">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Readin Lawyers">
+    <Batsman name="H Symons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Wood-Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="W Baker">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Cobb">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="4" maidens="1" runs="18" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="East Preston" date="Mon Aug 25 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       Third match on three on the tour, two defeats behind us, Twyford really wanted a victory here, but
+      were well aware of the strength of the team we were to face. 
+      <p>
+       Put in to bat,
+      Twyford's woes begin in only the third over with Woodman bowled by Batistica. But Seymour & Wren
+      looked good together, both playing fluent strokes. The batsmen looked confident with runs coming
+      quickly on this small ground with a fast outfield. But the required large score was not forthcoming.
+      Seymour, Wren & T Fort all fell when over-confident shots were caught. The inevitable collapse
+      followed quickly, falling from 101-3 to 131 all out. Only 3 batsmen made double figures, the other 8
+      players amassing a feeble 19 runs combined. 
+      <p>
+       131 was never enough, and East Preston
+      pushed this truth home quickly. They knew their home ground well, and looked confident at the
+      crease. Loose bowling was once again a problem for Twyford, with N Downes being the only bright
+      spot. For East Preson, Rackham hit a fine unbeaten 56 to help his team cruise to an easy victory in
+      only 20 overs. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Batistica"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Williams"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Rebbets"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Bunday"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="Bunday"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bunday"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Bennet"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="Bunday"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Rebbets"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rebbets"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="5" score="107"/>
+    <FallOfWicket batsman="2" score="111"/>
+    <FallOfWicket batsman="6" score="118"/>
+    <FallOfWicket batsman="8" score="120"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <FallOfWicket batsman="10" score="123"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <BowlerSummary name="Batistica" overs="5" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="M Patterson" overs="6" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Rebbets" overs="5" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Smith" overs="3" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Williams" overs="5" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Bunday" overs="4" maidens="1" runs="7" wickets="4"/>
+    <BowlerSummary name="Bennet" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+  <Innings batting="East Preston">
+    <Batsman name="Rackham">
+      <HowOut how="Not Out"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="C Williams">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="G Bunday">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Patterson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Batistica">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="48"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="2" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="1" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

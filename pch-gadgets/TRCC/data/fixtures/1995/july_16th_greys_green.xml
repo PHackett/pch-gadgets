@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Greys Green" date="Sun Jul 16 00:00:00 UTC+0100 1995">
+  <MatchReport>
+    <![CDATA[
+      Rain - Match Abandoned
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="T Atkinson">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Larkins">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Cusoen">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Paines">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Fowler">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Graham Kemp"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="T Howse">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Peter Dawson" overs="9" maidens="1" runs="18" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Graham Kemp" overs="3" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Jez Henry"/>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Kim Knight"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Matt Morris"/>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

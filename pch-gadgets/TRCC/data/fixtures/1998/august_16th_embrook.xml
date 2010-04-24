@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:54 UTC+0100 2010 -->
+<CricketMatch oppo="Embrook" date="Sun Aug 16 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Kidney"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Welsh"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Crookes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Holdsworth"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Holdsworth"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Welsh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Law"/>
+    <Batsman name="Brandon Theron"/>
+    <Batsman name="Chris Fort"/>
+    <Extras value="25"/>
+    <BowlerSummary name="Holdsworth" overs="5" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Kidney" overs="11" maidens="4" runs="22" wickets="1"/>
+    <BowlerSummary name="Welsh" overs="12" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="Crookes" overs="6" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Oliver" overs="6" maidens="0" runs="46" wickets="0"/>
+  </Innings>
+  <Innings batting="Embrook">
+    <Batsman name="C Edmonds">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="R Granville">
+      <HowOut how="Caught J Davies"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Hill">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="N Khawy">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="S Morris"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="a Newcombe">
+      <HowOut how="Stumped"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Reid">
+      <HowOut how="LBW"/>
+      <Bowler name="S Morris"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Holdsworth">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="S Morris"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Kidney">
+      <HowOut how="Caught C Fort"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A Welsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Oliver">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Brooks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="12" maidens="1" runs="43" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="9" maidens="0" runs="35" wickets="3"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="Brandon Theron" overs="3.2" maidens="0" runs="15" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:00 UTC+0100 2010 -->
+<CricketMatch oppo="South East Reading" date="Sat Jul 8 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="South East Reading">
+    <Batsman name="Obada">
+      <HowOut how="Run Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="Rashid Chowdry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Majid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Azam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hassan">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zaheer Abbas">
+      <HowOut how="Caught Alex Neall"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A.D Ali">
+      <HowOut how="Caught Nathan Eddy"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Shakut">
+      <HowOut how="LBW"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <BowlerSummary name="Steve Beamish" overs="11" maidens="1" runs="39" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="9" maidens="1" runs="44" wickets="1"/>
+    <BowlerSummary name="Nathan Eddy" overs="13" maidens="2" runs="52" wickets="2"/>
+    <BowlerSummary name="Chris Smith" overs="6" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="5.4" maidens="0" runs="42" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Alex Neall">
+      <HowOut how="LBW"/>
+      <Bowler name="Zaheer Abbas"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="A.D Ali"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zaheer Abbas"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rashid Chowdry"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chris Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rashid Chowdry"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zaheer Abbas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zaheer Abbas"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Ali"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="4" score="54"/>
+    <FallOfWicket batsman="1" score="63"/>
+    <FallOfWicket batsman="6" score="72"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <FallOfWicket batsman="5" score="84"/>
+    <FallOfWicket batsman="8" score="87"/>
+    <FallOfWicket batsman="10" score="100"/>
+    <FallOfWicket batsman="9" score="100"/>
+    <BowlerSummary name="M Shakut" overs="6.1" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="A.D Ali" overs="6" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Zaheer Abbas" overs="7" maidens="2" runs="12" wickets="4"/>
+    <BowlerSummary name="Rashid Chowdry" overs="5" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="N Ali" overs="2" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

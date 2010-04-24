@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="St Stephens" date="Mon Aug 28 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="St Stephens">
+    <Batsman name="H Gibbon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="P Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="Batchelor"/>
+    <Batsman name="Upadhyay"/>
+    <Batsman name="M Webster"/>
+    <Batsman name="G Webster"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Luke Fuller" overs="6" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="5" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Peter Hill" overs="3" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Batchelor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Upadhyay"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Upadhyay"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="M Webster"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="G Webster"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Upadhyay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Webster"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Berry"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Webster"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Hawkins">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Webster"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="4" score="66"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="6" score="75"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="8" score="82"/>
+    <FallOfWicket batsman="9" score="104"/>
+    <FallOfWicket batsman="7" score="147"/>
+    <FallOfWicket batsman="10" score="153"/>
+    <BowlerSummary name="Batchelor" overs="6" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="J Berry" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Upadhyay" overs="6" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="M Webster" overs="6" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="G Webster" overs="5.5" maidens="0" runs="34" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

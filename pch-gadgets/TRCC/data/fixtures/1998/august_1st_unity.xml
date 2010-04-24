@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:56 UTC+0100 2010 -->
+<CricketMatch oppo="Unity" date="Sat Aug 1 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Maynard"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="R Green">
+      <HowOut how="Caught"/>
+      <Bowler name="Alleyne"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maynard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Alleyne"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Maynard"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Maynard"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Caught"/>
+      <Bowler name="Bentley"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Greenidge"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="W Alleyne" overs="12" maidens="4" runs="52" wickets="2"/>
+    <BowlerSummary name="Maynard" overs="15" maidens="4" runs="46" wickets="4"/>
+    <BowlerSummary name="Greenidge" overs="5" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Bentley" overs="2.1" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Bishop" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Unity">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

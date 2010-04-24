@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:55 UTC+0100 2010 -->
+<CricketMatch oppo="Welford Park" date="Sat Jun 27 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Welford Park">
+    <Batsman name="Beecroft">
+      <HowOut how="Caught Unknown Dammer"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jeffcott">
+      <HowOut how="Caught G Woodhouse"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Potts">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Holman">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="1"/>
+    <BowlerSummary name="David Downes" overs="9.1" maidens="4" runs="9" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="9" maidens="1" runs="23" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Hambledon" date="Sun Aug 6 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="S Anderson"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Anderson"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Anderson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="S Anderson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Anderson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Fox">
+      <HowOut how="LBW"/>
+      <Bowler name="K Griffiths"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught"/>
+      <Bowler name="Walter"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Extras value="24"/>
+    <BowlerSummary name="S Anderson" overs="17" maidens="5" runs="55" wickets="5"/>
+    <BowlerSummary name="Walter" overs="9" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="K Griffiths" overs="11" maidens="0" runs="45" wickets="1"/>
+  </Innings>
+  <Innings batting="Hambledon">
+    <Batsman name="K Stone">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="T Wright">
+      <HowOut how="Not Out"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="A Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Barry Potier" overs="7" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="5" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Paul Fox" overs="3" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

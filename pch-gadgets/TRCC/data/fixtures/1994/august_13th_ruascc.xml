@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:07 UTC+0100 2010 -->
+<CricketMatch oppo="RUASCC" date="Sat Aug 13 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="Biddiss"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woods"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Woods"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="Ashmen"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Short"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Woods"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woods"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Neil Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Short"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Boyd">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Short"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="F Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="4" score="91"/>
+    <FallOfWicket batsman="3" score="145"/>
+    <FallOfWicket batsman="6" score="146"/>
+    <FallOfWicket batsman="5" score="151"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <FallOfWicket batsman="7" score="161"/>
+    <FallOfWicket batsman="10" score="168"/>
+    <BowlerSummary name="Woods" overs="15" maidens="2" runs="52" wickets="4"/>
+    <BowlerSummary name="Biddiss" overs="7" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Ashmen" overs="7" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="A Short" overs="11" maidens="2" runs="21" wickets="3"/>
+    <BowlerSummary name="Greenhale" overs="1" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="RUASCC">
+    <Batsman name="Biddiss">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Webster">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Greenhale">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Eagle">
+      <HowOut how="Caught Neil Prior"/>
+      <Bowler name="David Downes"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Weymouth-Wilson">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Neil Prior"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Short">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Dietrich">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Loader">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rasoom">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Woods">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ashmen">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="4" score="135"/>
+    <FallOfWicket batsman="6" score="137"/>
+    <FallOfWicket batsman="8" score="140"/>
+    <FallOfWicket batsman="7" score="144"/>
+    <FallOfWicket batsman="10" score="148"/>
+    <BowlerSummary name="David Downes" overs="11" maidens="2" runs="33" wickets="4"/>
+    <BowlerSummary name="Robin Reynolds" overs="12" maidens="2" runs="35" wickets="4"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Neil Prior" overs="5" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

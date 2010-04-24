@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 27 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      After some confusion, it was settled that the game would be played at Twyford, and Wargrave made the
+      short journey to Stanlake Meadow for what proved to be the hottest day of the year so far, and
+      exceptionally humid too.
+      <p>
+      Stand-in TRCC captain Woodman won a valuable toss, and
+      elected to bat. Things began at a reasonable, if not awe-inspiring pace, as the openers settled in.
+      The bowling was not too testing, and they felt comfortable out there. And indeed it was to be a long
+      partnership - 32 overs before the first wicket fell with the score on 123! Support was offered by
+      new batmen Fuller until he completely missed one ball that went on to strike him painfully on the
+      lip, and he had to retire hurt. The innings was soon at an end after that - The final score of 186-2
+      did not look too bad for such a hot day with a fairly sluggish outfield.
+      <p>
+      And things
+      did not improve for Wargrave once they took to the crease. The openers were not straight
+      line-and-length, but there were enough good balls to have the visitors looking sorry at 33-3 off 13
+      overs. But middle order batsmen (some messing around with the usual order?) J Lunnon and
+      &quot;Tom&quot; took the bowling apart. Sometimes a bit lucky, but mostly just good, they powered a
+      succession of 4's and 6's to &amp; <em>over</em> the boundary with some excellent shots. The bowlers
+      - hot and tired on such a day - had no response.
+      <p>
+      So the derby match goes to Wargrave
+      <em>this</em> year, but just wait 'till 2009!
+      <p>
+      A final mention for Luke &quot;The
+      Lip&quot; Fuller, who took an excellent catch on the boundary!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Stumped"/>
+      <Bowler name="Lunnon"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lunnon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Karl Cochrane"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="45"/>
+    <FallOfWicket batsman="1" score="123"/>
+    <FallOfWicket batsman="4" score="168"/>
+    <BowlerSummary name="Lanch" overs="7" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Smith" overs="7" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Rimmer" overs="6" maidens="2" runs="8" wickets="0"/>
+    <BowlerSummary name="Herbert" overs="7" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Davies" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Nichols" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Lunnon" overs="6" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="Rimmer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tabrah">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Bodington">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Lanch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Herbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Lunn"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="4" score="33"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="3" runs="48" wickets="3"/>
+    <BowlerSummary name="Tim Cooper" overs="10.1" maidens="2" runs="42" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Luke Fuller" overs="6" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

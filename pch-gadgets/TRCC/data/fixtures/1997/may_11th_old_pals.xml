@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:42 UTC+0100 2010 -->
+<CricketMatch oppo="Old Pals" date="Sun May 11 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Dale"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Bolton"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="9"/>
+    <BowlerSummary name="T Bolton" overs="13" maidens="2" runs="57" wickets="1"/>
+    <BowlerSummary name="C Bond" overs="11" maidens="3" runs="34" wickets="0"/>
+    <BowlerSummary name="Hensman" overs="10" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="G Dale" overs="7" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="D Long" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Old Pals">
+    <Batsman name="C Spencer-Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="G Dale">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="R Johnson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="D Long">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="C Bond">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Dudley">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="P Hensman">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="James Fort"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="C Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Barry Potier" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="3" runs="27" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

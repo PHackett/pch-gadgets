@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 12 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      Mainly overcast, but warm and dry, Twyford hosted their third home game on the trot, with Woodcote
+      providing the opposition
+      <p>
+      Captain H Fort won the toss (worth a lap on honour on it's
+      own!) and decided to bat. The bowling initially did not cause any problems for the TRCC openers, but
+      Benjamin was caught, mis-timing a slower one from Mattimore. Things were going Twyford's way with
+      runs coming at well over 3 an over for the first part of the innings. But them Topham came on to
+      bowl, and firmly applied the breaks, giving away only 21 runs in ten overs. The final total of 162
+      was not too bad - the outfield had not been as swift as it looked - Something to bowl at, but by no
+      means secure.
+      <p>
+      But Twyford's bowling attack did not start well - inaccurate and
+      non-threatening - and Woodcote made hay racing away at 5 an over for the first ten overs. The
+      bowling change brought relief for the home side, and slowly but surely wickets began to tumble. But
+      then, once again, Topham stepped forward. He did not appear to like running what with all the
+      boundaries he was hitting, and looked like he was going to score the runs single-handed. But, after
+      3 successive boundaries he danced down the wicket to slow bowler N Downes, missed, and was stumped
+      by a mile. Twyford were back with a chance! 
+      <p>
+      The overs ticked down - The batting
+      side needed 3 an overs, then 4, then 5! And all the time the wickets were falling. The last over
+      came round - Wookcote needed 7 to win, but had no wickets in hand. Then a 4 was struck, 2 runs were
+      quickly taken, and on the very last ball of the match a single was stolen, giving victory to the
+      visitors.
+      <p>
+      So, a more exciting finish than was expected, and desperate heartbreak for
+      Twyford who had scented victory right up to the last. But praise too for Woodcote who went for it,
+      risking all rather than settle for a draw..
+      <p>
+      
+      <p>
+      Alternately ...
+     
+      <p>
+      TWYFORD lost their second game of the season to the last ball of the game after determined
+      batting by Woodcote led to a desperate sprinted single to seal the win. The home team were left
+      ruing a total of 162 in good batting conditions after skippper Hugh Fort won the toss and elected to
+      bat. After opener Benjamin was caught at short fine leg for 11, Nigel Leach secured his second 50
+      plus score of the weekend, following 78 not out Saturday with a fine knock of 57. He was ably
+      supported by Woodman with 28 and Nic Downes, who attempted to increase the run rate in the later
+      stages and ended unbeaten on 44. In reality though, Twyford needed 20 or 30 runs more and the
+      Woodcote batsmen began to chip away at the total. The normally reliable bowler Hackett was wayward
+      and it was his fellow opening bowler Cooper who made the first breakthrough, skittling Brouard for
+      12. Henderson soon followed, caught by Leach at cover off young bowler Tom Downes for 12. However,
+      the quick-scoring Roberts then came to the crease and blasted 30 before being stumped off canny
+      leg-spinner Nic Downes after a couple of near misses.
+      <p>
+      As the end neared , it looked
+      as if the bowlers were getting on top but Meakin's late hitting led to the scores being level at the
+      final ball. Number 11 Henderson ran for his life and beat wicketkeeper Edney to leave skipper Fort
+      holding his head in hands to secure an extraordinary win for the visitors. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Topham"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="Mattimore"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Caught"/>
+      <Bowler name="Brown"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="1" score="68"/>
+    <FallOfWicket batsman="3" score="157"/>
+    <BowlerSummary name="Mattimore" overs="3" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Brown" overs="10" maidens="3" runs="21" wickets="1"/>
+    <BowlerSummary name="Mekin" overs="7" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Topham" overs="10" maidens="5" runs="22" wickets="1"/>
+    <BowlerSummary name="T Leadbetter" overs="4" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Roberts" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="S Fuller">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Brouard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Henderson">
+      <HowOut how="Caught Nigel Leach"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Topham">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="P BRobertserts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Leadbetter">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Peates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Mattimore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Mekin">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Henderson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="1" score="63"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="5" score="102"/>
+    <FallOfWicket batsman="7" score="117"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Tim Cooper" overs="11" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="5" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="1" runs="30" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

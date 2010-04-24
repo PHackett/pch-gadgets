@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:54 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 26 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="S Lee">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Homer">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Walker">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="D Combes">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Stumped"/>
+      <Bowler name="Richard Young"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="R Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="n Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Brinders">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Woods">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="G King"/>
+    <Batsman name="D Owen"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="2" runs="44" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="61" wickets="4"/>
+    <BowlerSummary name="Matt Morris" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Richard Young" overs="4" maidens="0" runs="39" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Walker"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Owen"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="G King"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Run Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Young">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Homer"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="12"/>
+    <BowlerSummary name="P Norris" overs="9" maidens="3" runs="32" wickets="0"/>
+    <BowlerSummary name="D Owen" overs="8" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="S Walker" overs="7" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="G King" overs="9" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="A Brinders" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="K Clark" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="A Homer" overs="2" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

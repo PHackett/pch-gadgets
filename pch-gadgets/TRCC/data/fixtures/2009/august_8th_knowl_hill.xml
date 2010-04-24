@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:03 UTC+0100 2010 -->
+<CricketMatch oppo="Knowl Hill" date="Sat Aug 8 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      <b>TAIL WAGS THE DOG TO GALVANISE AND INSPIRE THE TEAM TO PUT IN THEIR BEST BOWLING AND FIELDING
+      PERFORMANCE OF THE SEASON AND HANG ON TO PROMOTION DREAM</b>
+      <p>
+      Twyford lost the toss
+      and were put into bat on a pudding of a pitch that had been under water earlier in the week. Early
+      pitch inspections led by our opening batsmen suggested they should have brought a tin of custard
+      with them to make the best use of the conditions/pitch.
+      <p>
+      A combination of these
+      conditions and some good bowling led to an early collapse of fairly epic proportions, and it was
+      left to KEN and JOSH to lead the fightback in typical fashion, both did well to steady the ship
+      accompanied by good support from 'ROGER THE DODGER' (clearly angry at having sat in traffic on the
+      M4 for an hour) and 'BEAMERS' who has unlucky to hole out at cow corner having smeared his best shot
+      of the season to date. Before the main event of the day...... yes do not adjust your reading
+      glasses: Chris FORT and GREENO putting on an unbeaten 52 run last-wicket partnership to drag Twyford
+      to 163-9 and a competitive target to bowl at.
+      <p>
+      My moment of the day was seeing Jim
+      Fort's smile of pride at his son's virtuoso, battling and intelligent performance with the bat.
+      We've all seen test matches on TV where the tailenders of a batting side clearly staring down the
+      barrel of defeat, swing the bat and lead to a shift of momentum in the game, and this was no
+      exception, I've rarely seen a Twyford team so fired up going out to field due in part to witnessing
+      the GREEN/FORT batting miracle.
+      <p>
+      Steve Green and Raja Singh epitomised this spirit
+      with a superb exhibition of disciplined, accurate and economical bowling, ably supported by
+      excellent captaincy by 'Randall' Hogarth and a fielding side as keen to give away a run as a
+      Scotsman is to put his hand in his pocket at the bar. It was a fine demonstration of proactive and
+      flexible field placement with practically the whole team having an input at some point.
+      <p>
+  
+         Our commitment to the task was admirable and was reflected by the fact that not a single catch
+      was put down during the match, the pick of the catches was a hard choice for this panel of one, but
+      goes to our talented and courageous short-leg specialist Salmoning his 6th close in catch of the
+      season......OK a bit of artistic license, but whose writing this DAMMIT....lmao
+      <p>
+      The
+      sledging was continuous and was quite simply genius at times with special mention going to
+      LUNNON,DOWNSIE,JOSH,COCHRANE and RANDALL HOGARTH who I believe can stake a claim for the wicket of
+      the opening batsman with the Ravi Bopara and Geoffrey Boycott comments combined with an inspired
+      field change that not only produced the wicket but also the comedy moment of the day.
+      <p>
+    
+       The home team produced a bit of resistance before Mr LEIGH (Who was undoubtedly fired up having
+      been given out caught behind off his box, though as DOWNSIE pointed out this was the only bit of
+      wood he managed to lay on the ball all match....lmao) put in ARGUABLY the bowling performance of the
+      season producing 7 for 46 to clinch an inspired and unlikely victory.
+      <p>
+      Rarely have I
+      seen a game this season where everybody on our team has contributed to our victory, and despite
+      LEIGH's fine bowling I think special mention really has to go to Chris 'Onions' FORT and
+      GREENO....... Well done lads!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Harrison"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught"/>
+      <Bowler name="N Harrison"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="N Harrison"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="N Harrison"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Williams"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="L Thompson"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="L Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="9" score="111"/>
+    <FallOfWicket batsman="10" score="111"/>
+    <BowlerSummary name="M Crawcour" overs="9" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="N Harrison" overs="10" maidens="6" runs="19" wickets="4"/>
+    <BowlerSummary name="H Williams" overs="7" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="L Duffy" overs="12" maidens="4" runs="47" wickets="2"/>
+    <BowlerSummary name="L Thompson" overs="7" maidens="2" runs="25" wickets="2"/>
+  </Innings>
+  <Innings batting="Knowl Hill">
+    <Batsman name="J Cousins">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="B Atreya">
+      <HowOut how="Caught Gerwyn Leigh"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Darvell">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Duffy">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="T Goodlock">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Crawcour">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="L Thompson">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Plank">
+      <HowOut how="LBW"/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Randall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Harrison">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="7" score="100"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <FallOfWicket batsman="4" score="102"/>
+    <FallOfWicket batsman="10" score="102"/>
+    <FallOfWicket batsman="11" score="123"/>
+    <BowlerSummary name="Raja Singh" overs="11" maidens="4" runs="19" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="11" maidens="1" runs="46" wickets="7"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="3" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

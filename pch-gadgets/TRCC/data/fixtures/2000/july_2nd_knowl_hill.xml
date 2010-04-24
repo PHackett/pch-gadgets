@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Knowl Hill" date="Sun Jul 2 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Harrison"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Brookman"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Brookman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Brookman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Darvell"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Groennewald"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Moore"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="21"/>
+    <BowlerSummary name="Dodsworth" overs="9" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Harrison" overs="7" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Darvell" overs="13" maidens="4" runs="40" wickets="1"/>
+    <BowlerSummary name="Brookman" overs="7" maidens="1" runs="39" wickets="3"/>
+    <BowlerSummary name="Groennewald" overs="4" maidens="0" runs="23" wickets="1"/>
+  </Innings>
+  <Innings batting="Knowl Hill">
+    <Batsman name="N Darvell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="J Cousins">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="John Moore"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="M Groennewald">
+      <HowOut how="Run Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="A Plank">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Turner">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Dodsworth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="N Harrison">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Lambert">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Moore"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Brookman">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="I Milson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Paul Hackett" overs="14.4" maidens="2" runs="59" wickets="2"/>
+    <BowlerSummary name="John Moore" overs="15" maidens="2" runs="49" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="46" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

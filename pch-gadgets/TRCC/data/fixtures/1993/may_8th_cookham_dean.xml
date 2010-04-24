@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:50 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sat May 8 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cookham Dean">
+    <Batsman name="Murphy">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nunn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stares">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rickman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Thomas">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Gilbey">
+      <HowOut how="LBW"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barrwger">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Elton">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Cory">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Chalfont">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Partridge">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="David Downes" overs="12.3" maidens="6" runs="24" wickets="5"/>
+    <BowlerSummary name="Ian Helmore" overs="9" maidens="3" runs="21" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="4" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="LBW"/>
+      <Bowler name="Barrwger"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught "/>
+      <Bowler name="Gilbey"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Barrwger"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="Cory"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nunn"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Noel Downes"/>
+    <Extras value="11"/>
+    <BowlerSummary name="Partridge" overs="5" maidens="2" runs="11" wickets="0"/>
+    <BowlerSummary name="Nunn" overs="11" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Barrwger" overs="10" maidens="3" runs="26" wickets="2"/>
+    <BowlerSummary name="Gilbey" overs="9" maidens="5" runs="13" wickets="1"/>
+    <BowlerSummary name="Cory" overs="6.5" maidens="0" runs="29" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

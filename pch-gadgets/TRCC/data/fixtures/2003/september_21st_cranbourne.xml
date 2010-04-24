@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 21 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       The last home game of the season saw Twyford playing host to Cranbourne at Stanlake meadow. Still
+      unseasonably warm, there was at least some cloud cover for the first Sunday in what seemed a long
+      time. Once again the outfield was parched, giving the impression that the fielding side would have a
+      lot of running to do 
+      <p>
+       And so it proved. Cranbourne elected to bat, with runs
+      flowing from the off despite some tight bowling from Hackett and Cochrane. But breakthroughs came
+      early with Glew and Castle both dismissed by Cochrane by the time the score reached 21. Munro
+      batting number 4 looked especially dangerous, hitting ferocious boundaries before being bowled by
+      Hackett off one that came in off the pitch with the total on 42. Twyford were happy with the way the
+      game was going up to this point, but Cranbourne's Crick had other ideas. Supported first by R Jones
+      and then by Driscoll he hit a magnificent 74. Unfortunately, the rest of Cranbourne's tail offered
+      little support, all being cheaply dismissed by Cochrane. Crick himself eventually fell to an
+      excellent catch by Hall. The final score of 189 all out was seen by Twyford as eminently gettable,
+      <b><em>but more impressive were Ken Cochrane's figures of 8-62, a personal best!</em></b> 
+     
+      <p>
+       Twyford's batting began with confidence, a confidence that was soon to be dispelled. By
+      the end of the 10<sup>th</sup> over they were reeling at 39-4, with only Woodman (26) having put up
+      any sort of fight. Tom Hall steadied things, but got little support form the middle order - Twyford
+      collapsed to 59-7. But Hall kept going, and with help from Walkland and Cochrane the tail wagged
+      once more! When Hall eventually fell with the score at 137-9 it looked all over. But remarkably the
+      tail kept wagging. Hackett, Twyford's permanent No. 11, kept his head and hit an extraordinary 21 -
+      Almost his entire total for the rest of the season combined. And Cochrane seemed determined to top
+      his bowling figures with his batting prowess! However it was not to be. A mere 16 runs from victory
+      Hackett was caught - The well deserved victory was Cranbourne's! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="M Glew">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Castle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="S Munro">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Caught Tom Hall"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="S Driscoll">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="B Bafield">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D McLean">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Rezko">
+      <HowOut how="Caught Drew Evans"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="K Pople">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A James">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="3" score="73"/>
+    <FallOfWicket batsman="6" score="132"/>
+    <FallOfWicket batsman="7" score="140"/>
+    <FallOfWicket batsman="8" score="182"/>
+    <FallOfWicket batsman="9" score="182"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="13" maidens="3" runs="62" wickets="8"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="13" maidens="2" runs="43" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Munro"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Rezko"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Rezko"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="S Munro"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="S Driscoll"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Rezko"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Munro"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Munro"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="LBW"/>
+      <Bowler name="A James"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="D Crick"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="3" score="21"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="1" score="38"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="7" score="59"/>
+    <FallOfWicket batsman="8" score="59"/>
+    <FallOfWicket batsman="9" score="86"/>
+    <FallOfWicket batsman="5" score="137"/>
+    <FallOfWicket batsman="11" score="174"/>
+    <BowlerSummary name="J Rezko" overs="15" maidens="1" runs="61" wickets="3"/>
+    <BowlerSummary name="S Munro" overs="10" maidens="2" runs="36" wickets="4"/>
+    <BowlerSummary name="A James" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="S Driscoll" overs="3" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="B Bafield" overs="3" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="D Crick" overs="1.2" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

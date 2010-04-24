@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:36 UTC+0100 2010 -->
+<CricketMatch oppo="Welford Park" date="Sat Aug 19 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Welford Park">
+    <Batsman name="L Felton">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="B Beecroft">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Bolan">
+      <HowOut how="LBW"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Harrington">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Havcock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="J Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Jeffcott">
+      <HowOut how="Caught B Potier"/>
+      <Bowler name="Rob James"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Hutchinson">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Axten">
+      <HowOut how="Caught Rob James"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Foxwell">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Marshall">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="David Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="5" runs="28" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="3" runs="40" wickets="2"/>
+    <BowlerSummary name="Richard Hobson" overs="5" maidens="1" runs="18" wickets="2"/>
+    <BowlerSummary name="Rob James" overs="12" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="S Marshall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="S Jeffcott"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="S Marshall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Caught"/>
+      <Bowler name="S Marshall"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Tim Hogarth"/>
+    <Batsman name="Rob James"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="12"/>
+    <BowlerSummary name="S Marshall" overs="14" maidens="6" runs="18" wickets="3"/>
+    <BowlerSummary name="R Axten" overs="5" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="J Fuller" overs="1.4" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="I Harrington" overs="10" maidens="1" runs="57" wickets="0"/>
+    <BowlerSummary name="S Jeffcott" overs="3" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

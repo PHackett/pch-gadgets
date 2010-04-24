@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:45 UTC+0100 2010 -->
+<CricketMatch oppo="Mortimer West End" date="Sat Aug 23 08:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mortimer West End">
+    <Batsman name="T Francis">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Allwood">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="M Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Patel">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="S Honour">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Dawes">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Vickers">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="G Watts">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="D Coates">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Vickers">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Vickers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="4" runs="49" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="15" maidens="4" runs="55" wickets="4"/>
+    <BowlerSummary name="David Taylor" overs="8" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Allwood"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Stumped"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Coates"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Stumped"/>
+      <Bowler name="D Vickers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="42"/>
+    <BowlerSummary name="D Vickers" overs="17.2" maidens="5" runs="45" wickets="5"/>
+    <BowlerSummary name="G Allwood" overs="9" maidens="3" runs="21" wickets="1"/>
+    <BowlerSummary name="G Watts" overs="6" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="D Coates" overs="7" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="M Adams" overs="6" maidens="1" runs="22" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

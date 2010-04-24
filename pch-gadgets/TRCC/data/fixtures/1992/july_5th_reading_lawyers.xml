@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:35 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jul 5 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="LBW"/>
+      <Bowler name="Woodsmith"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Woodsmith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Knight"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Woodsmith" overs="12" maidens="3" runs="38" wickets="2"/>
+    <BowlerSummary name="M Seymour" overs="13" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Janes" overs="6" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Messenger" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Eatwell" overs="6" maidens="2" runs="31" wickets="0"/>
+    <BowlerSummary name="P Seymour" overs="5" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="P Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Eatwell">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="C Messenger">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="C Lynch">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="M Symmonds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Frost">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="S Messenger">
+      <HowOut how="Caught P Howells"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="I Woodsmith">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Seymour">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Messenger">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Janes">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Nic Downes" overs="15" maidens="0" runs="65" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="11.4" maidens="4" runs="19" wickets="4"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

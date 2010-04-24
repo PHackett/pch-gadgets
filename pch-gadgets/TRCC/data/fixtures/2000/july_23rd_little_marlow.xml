@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Little Marlow" date="Sun Jul 23 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Tedham"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Sharrif" overs="9" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="A Husain" overs="8" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Tedham" overs="10" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Angus" overs="12" maidens="1" runs="42" wickets="0"/>
+    <BowlerSummary name="White" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Robinson" overs="4" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Little Marlow">
+    <Batsman name="I Angus">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="A Callaghan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="S Shore">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Ayshford">
+      <HowOut how="LBW"/>
+      <Bowler name="James Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Binks">
+      <HowOut how="Caught C Evans"/>
+      <Bowler name="James Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Sharrif">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="N Herittage">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="27"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="John Moore" overs="7" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="9" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="5" maidens="0" runs="17" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

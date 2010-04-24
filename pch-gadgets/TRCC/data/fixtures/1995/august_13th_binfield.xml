@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun Aug 13 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Collins"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Taylor"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Williams"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Taylor"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Foster"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Taylor" overs="13" maidens="2" runs="74" wickets="2"/>
+    <BowlerSummary name="Foster" overs="10" maidens="0" runs="55" wickets="1"/>
+    <BowlerSummary name="Williams" overs="9" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Collins" overs="7" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Annetts" overs="1" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Binfield">
+    <Batsman name="Williams">
+      <HowOut how="Caught L Ryan"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Quainton">
+      <HowOut how="Caught M Taylor"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Weatuers">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Domini">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Hinston">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Foster">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Collins">
+      <HowOut how="Run Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Grinwade">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Annetts">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Jez Henry" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="David Taylor" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="2" runs="81" wickets="6"/>
+    <BowlerSummary name="Tom Fort" overs="7.2" maidens="0" runs="36" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

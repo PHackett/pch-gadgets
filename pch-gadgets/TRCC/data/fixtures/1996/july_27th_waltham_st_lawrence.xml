@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:33 UTC+0100 2010 -->
+<CricketMatch oppo="Waltham St Lawrence" date="Sat Jul 27 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Waltham St Lawrence">
+    <Batsman name="D Stone">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="T Burrows">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="P Ashton">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="P Brown">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="C England">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="S Boyd">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Turnbull">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Gearing">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Howell">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Lynch">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Gearing">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="8" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="1" runs="41" wickets="4"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Peter Dawson" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="David Taylor" overs="7" maidens="0" runs="32" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="R Gearing"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="C England"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="C England"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="C England"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="R Howell"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Howell"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Caught"/>
+      <Bowler name="C England"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Howell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Lynch"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="4" score="17"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="6" score="58"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="8" score="67"/>
+    <FallOfWicket batsman="9" score="76"/>
+    <FallOfWicket batsman="7" score="95"/>
+    <BowlerSummary name="C England" overs="15" maidens="5" runs="28" wickets="4"/>
+    <BowlerSummary name="R Gearing" overs="11" maidens="6" runs="9" wickets="1"/>
+    <BowlerSummary name="R Howell" overs="11" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="P Gearing" overs="6" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="R Lynch" overs="2" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

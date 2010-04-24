@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:46 UTC+0100 2010 -->
+<CricketMatch oppo="Crowthorne" date="Sun Jun 12 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       It was a dull cold day in June and the clocks were striking 14, as the home side of Twyford
+      welcomed Crowthorne to their ground. Twyford began in the field, with the opening bowlers Hackett
+      and Cochrane keeping runs to a premium. This was especially impressive as when the batsmen did
+      connect with a shot, the ball almost inevitably raced away over the fast outfield for 4. 
+      <p>
+
+            Smith-Gander &amp; Hampshire fell victim to Cochrane in early overs, soon followed by Mac. But
+      that was where the home sides successes ended. Fine batting from N Stent, and an excellent knock
+      from Chatters saw the runs mount ever more quickly, though they were helped by some dropped catches.
+      
+      <p>
+       But with the fast outfield, the innings total of 181 looked modest - Surely
+      attainable by Twyford. 
+      <p>
+       Twyford raced to a quick start from the openers Woodman and
+      Martin, once more with the aid of dropped catches. After only 20 overs the home side were on 86
+      without loss. Only Buckett from Crowthorne managed to rein back the flow of runs, and was eventually
+      rewarded with the wickets of the openers. But Seymour &amp; Cochrane kept the runs coming. In the
+      end, the winning runs came off two wides, Twyford were home with three overs to spare. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Crowthorne">
+    <Batsman name="A Chatters">
+      <HowOut how="Not Out"/>
+      <Runs value="90"/>
+    </Batsman>
+    <Batsman name="C Smith-Gander">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="G Hampshire">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Mac">
+      <HowOut how="Caught Peter Morris"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="N Stent">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="H Stent"/>
+    <Batsman name="G Imns"/>
+    <Batsman name="P Barnes"/>
+    <Batsman name="J Gibbins"/>
+    <Batsman name="S Clark"/>
+    <Batsman name="M Buckett"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="4" runs="21" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="13" maidens="2" runs="27" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="7" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="9" maidens="1" runs="59" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Buckett"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Buckett"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="N Stent"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Peter Morris"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Nick Healey"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="86"/>
+    <FallOfWicket batsman="1" score="100"/>
+    <FallOfWicket batsman="3" score="162"/>
+    <FallOfWicket batsman="5" score="173"/>
+    <BowlerSummary name="M Buckett" overs="14" maidens="1" runs="50" wickets="2"/>
+    <BowlerSummary name="G Imns" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="G Hampshire" overs="12" maidens="0" runs="64" wickets="0"/>
+    <BowlerSummary name="N Stent" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="J Gibbins" overs="1" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="P Barnes" overs="0.1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

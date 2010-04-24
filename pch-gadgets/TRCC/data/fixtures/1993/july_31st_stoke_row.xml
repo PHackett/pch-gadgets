@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Stoke Row" date="Sat Jul 31 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Stoke Row">
+    <Batsman name="S Noble">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Harper">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Fort">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="M Windsor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="L Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="J Holland">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Harper">
+      <HowOut how="Caught J Hamilton"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Hoatson">
+      <HowOut how="Caught I Helmore"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="R Oxley">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="G Bartlett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="C Griffiths">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="4" runs="5" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="3" runs="28" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="9" maidens="1" runs="42" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Mark Lawrence" overs="3" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Run Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="C Griffiths"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="J Holland"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="C Griffiths"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Clark"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="L Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier"/>
+    <Extras value="24"/>
+    <BowlerSummary name="D Harper" overs="14" maidens="1" runs="55" wickets="0"/>
+    <BowlerSummary name="C Griffiths" overs="9" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="L Clark" overs="10" maidens="3" runs="24" wickets="4"/>
+    <BowlerSummary name="J Holland" overs="7" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="G Bartlett" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

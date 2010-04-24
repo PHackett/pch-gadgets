@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Berks County Sports" date="Sat Jun 30 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       After losing the toss yet again Twyford were asked to bat on a true pitch that didn't seem to offer
+      any demons. The openers played well and were seeing off the shine when Helmore (1) was the victim of
+      some poor calling. This brought Hobson to the wicket who continued his good form of recent weeks by
+      playing some classy shots to all parts of the ground. The short pitched bowling from B.C.S was a
+      particular favourite to Hobson (94*) who scored heavily through out the innings. With regret though
+      the batsmen that occupied the other end were unable to provide any support. Only Connor (22), Dave
+      Downes (18) and a cameo innings from Theron (17) made it into double figures and this was the main
+      factor in the total being 20-30 runs short on 184. In particular the medium/slow bowling from Watts
+      was well thought out and the knowledge of the top order batsman certainly helped ease their
+      downfall. 
+      <p>
+       In reply B.C.S never seemed to have any acceleration at all and it
+      wasn't long before they were 28 for 3. Unfortunately Watts, recognised as the major threat, was
+      given a huge lifeline when dropped on nought off the bowling of Potier, the unluckiest bowler in the
+      Thames Valley. 
+      <p>
+       At this stage Watts was looking to save the game and was playing
+      for his average against good bowling from Downes (2-47), Potier (2-26) and Noel Downes (2-76). The
+      middle order had their own ideas and Goodenough (26) showed it wasn't just a clever name and Barnes
+      (35) attacked the bowling of Noel Downes with slow lusty blows into the meadow behind the bowlers
+      arm. By the time Twyford had bought their wickets Watts had woken up and had started concentrating
+      on the winning post. All to late Twyford realised the game was slipping away but could not do
+      anything about it as B.C.S only needed 4 an over. The end came with more than an over to spare and
+      brought B.C.S 30 points and Twyford were left wondering how they could have let the game slip.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hobbs"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Not Out"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="A Watts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="A Watts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="C Starling"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="B Norman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Caught"/>
+      <Bowler name="M Barnes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="M Barnes" overs="10" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="S Hobbs" overs="10" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="A Watts" overs="4" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="N Goodenough" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="B Norman" overs="12" maidens="2" runs="60" wickets="1"/>
+    <BowlerSummary name="C Starling" overs="5" maidens="1" runs="23" wickets="1"/>
+  </Innings>
+  <Innings batting="Berks County Sports">
+    <Batsman name="S Rush">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Drain">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="David Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Watts">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="C Starling">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Goodenough">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="M Barnes">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="B Norman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Plunket">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="David Downes" overs="15.5" maidens="6" runs="47" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="9" maidens="3" runs="26" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="1" runs="76" wickets="2"/>
+    <BowlerSummary name="Alex Neall" overs="5" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:38 UTC+0100 2010 -->
+<CricketMatch oppo="Farley Hill" date="Wed Jul 16 00:00:00 UTC+0100 2008">
+  <MatchReport/>  <Innings batting="Twyford">
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Malik"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="Khan"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Caught"/>
+      <Bowler name="Ali"/>
+      <Runs value="143"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zhaid"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Hancock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="4" score="147"/>
+    <FallOfWicket batsman="5" score="148"/>
+    <FallOfWicket batsman="6" score="158"/>
+    <FallOfWicket batsman="3" score="214"/>
+    <BowlerSummary name="Malik" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Khan" overs="4" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Brains" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Guard" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Cracknell" overs="1" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Zhaid" overs="3" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Ali" overs="3" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Jones" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Farley Hill">
+    <Batsman name="Guard">
+      <HowOut how="Caught Nathan Eddy"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dudding">
+      <HowOut how="Caught Mark Jones"/>
+      <Bowler name="Anthony Green"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Cracknell">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="McCarthy">
+      <HowOut how="Caught Mark Jones"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Jalik">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hussain">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="4" score="3"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="5" score="94"/>
+    <FallOfWicket batsman="6" score="100"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="6" wickets="2"/>
+    <BowlerSummary name="Steve Green" overs="3" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Anthony Green" overs="3" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Alex Burke" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="3" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

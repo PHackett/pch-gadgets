@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Falkland" date="Sun Jun 27 00:00:00 UTC+0100 2004">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Falkland">
+    <Batsman name="T Rasman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="S Piper">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="P Stevenson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="W Carlisle">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="N Pitcher">
+      <HowOut how="LBW"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="C OHalleron">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Furr">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Ridley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="L Inglet">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Thomas"/>
+    <Batsman name="B Furr"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="166"/>
+    <FallOfWicket batsman="4" score="173"/>
+    <FallOfWicket batsman="1" score="180"/>
+    <FallOfWicket batsman="6" score="182"/>
+    <FallOfWicket batsman="5" score="191"/>
+    <FallOfWicket batsman="8" score="198"/>
+    <FallOfWicket batsman="9" score="212"/>
+    <BowlerSummary name="Ken Cochrane" overs="9" maidens="2" runs="31" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="12" maidens="1" runs="61" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="12.4" maidens="0" runs="79" wickets="4"/>
+    <BowlerSummary name="Alistair Benson" overs="9" maidens="1" runs="35" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Tom Hall"/>
+    <Batsman name="Ken Cochrane"/>
+    <Batsman name="Paul Dunsford"/>
+    <Batsman name="Neil Barber"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="0"/>
+    <BowlerSummary name="J Furr" overs="1" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="T Ridley" overs="0.4" maidens="0" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

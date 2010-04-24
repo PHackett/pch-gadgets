@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:46 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun Jun 26 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+      Using the Conference Twyford picked up a fixture at local club Binfield. The home side won the toss
+      and as the sun had come out strongly at lunchtime they had no hesitation in choosing to bat first. A
+      hard fast lively wicket was used well by the Twyford openers Beamish and Walkland and while the ball
+      when hit raced into the big outfield, wickets were picked up regularly and at one stage Binfield
+      were 76 for 5. Edgington and Goddard were rebuilding the innings and feasting on the slow bowling of
+      Twyford skipper Downes when terrific work from keeper Dunsford saw him scamble down the leg side
+      gather and throw the stumps down to leave the returning Edgington stranded. Goddard continued to hit
+      our but Cochrane on for a second spell all but wrapped the innings up with 2 quick wickets. Twyford
+      had bowled and fielded really well and the the score of 162 represented a disappointment for
+      Binfield. 
+      <p>
+       Woodman and Seymour gave Twyford a great start with an opening stand of
+      64 and when they were both out Benson took up the running with some clean hitting, using the big
+      spaces in the outfield. He went on to make his maiden 50 for the club and although out with 10 runs
+      needed from the last 2 overs there were some wise old heads in the middle order to see home Twyford
+      home with 2 balls to spare. A terrific all round performance and a thoroughly well deserved victory,
+      Binfield's first Sunday defeat of the season. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="C Jones">
+      <HowOut how="Caught Alistair Benson"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="M York">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Ashcroft">
+      <HowOut how="Caught Alistair Benson"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Ennis">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Boyd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Run Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="I Goddard">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="G Chippendale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="B Sykes">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="H Hans">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Blackmore">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="2" score="39"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="6" score="122"/>
+    <FallOfWicket batsman="8" score="154"/>
+    <FallOfWicket batsman="7" score="158"/>
+    <FallOfWicket batsman="9" score="158"/>
+    <BowlerSummary name="Steve Beamish" overs="14" maidens="6" runs="38" wickets="4"/>
+    <BowlerSummary name="Steve Walkland" overs="14" maidens="2" runs="40" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="9" maidens="3" runs="29" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="54" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="A Blackmore"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="1" score="78"/>
+    <FallOfWicket batsman="4" score="121"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="6" score="151"/>
+    <FallOfWicket batsman="3" score="152"/>
+    <BowlerSummary name="A Blackmore" overs="7" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="H Hans" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="B Sykes" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="G Chippendale" overs="7" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="I Goddard" overs="10.4" maidens="0" runs="35" wickets="5"/>
+    <BowlerSummary name="P Edgington" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

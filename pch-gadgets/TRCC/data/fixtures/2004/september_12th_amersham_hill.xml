@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:34 UTC+0100 2010 -->
+<CricketMatch oppo="Amersham Hill" date="Sun Sep 12 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       A grey, overcast day, but with none of the promised torrential downpours saw Twyford travelling far
+      afield to Amersham Hill. 
+      <p>
+       Amersham Hill were first in to bat, and with loose
+      bowling from the Twyford the openers made hay! Their progress was arrested early in the innings as
+      Kewell &amp; Minear were caught, but the bowlers just could not find their line and length. Runs
+      flowed swiftly from the bat, especially that of Berns, and by the end of the 27<sup>th</sup> over
+      they had amassed 171 for just 4 wickets - well above 6 per over. 
+      <p>
+       Twyford's bowlers
+      then managed to stem the haemorrhage of runs, limiting Amersham to 205 all out, the pick of the
+      bowling being Dawson who took 5 wickets. 
+      <p>
+       Unfortunately, Twyford's batsmen fared no
+      better than their bowlers to begin with. In no time at all, some lamentable strokeplay saw the
+      visitors stumble to 38-7 off bowling which while competent, was not as threatening as the score
+      suggested. All was lost for Twyford, but at least the tail managed to push the score on to over 100
+      before the inevitable defeat. The only highlight for Twyford was the number 10, Beamish, whose score
+      of 21 was a personal best. For Amersham Hill it was the bowling of M Joseph that stood out, managing
+      to take 5-29. 
+      <p>
+       But still, we were glad to be able to get a game in despite the
+      forecast, and the hosts were very gracious in victory! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Amersham Hill">
+    <Batsman name="S Hamilton">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="T Kewell">
+      <HowOut how="Caught Jas Lally"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="D Minear">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Berns">
+      <HowOut how="Caught Alistair Benson"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="M Joseph">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Fletcher">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="B Telford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G McKensie">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="F Bao">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Fletcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Patel">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="1" score="103"/>
+    <FallOfWicket batsman="5" score="134"/>
+    <FallOfWicket batsman="4" score="182"/>
+    <FallOfWicket batsman="7" score="183"/>
+    <FallOfWicket batsman="6" score="189"/>
+    <FallOfWicket batsman="9" score="195"/>
+    <FallOfWicket batsman="10" score="200"/>
+    <FallOfWicket batsman="11" score="205"/>
+    <BowlerSummary name="Peter Dawson" overs="8.1" maidens="1" runs="46" wickets="5"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="8" maidens="0" runs="54" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Kewell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Joseph"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Joseph"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Joseph"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Joseph"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="T Kewell"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="M Joseph"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Fletcher"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="F Bao"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Hamilton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="2"/>
+    <FallOfWicket batsman="4" score="18"/>
+    <FallOfWicket batsman="5" score="22"/>
+    <FallOfWicket batsman="6" score="37"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="8" score="37"/>
+    <FallOfWicket batsman="9" score="56"/>
+    <FallOfWicket batsman="10" score="90"/>
+    <FallOfWicket batsman="11" score="107"/>
+    <BowlerSummary name="T Kewell" overs="7" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="M Joseph" overs="7" maidens="2" runs="29" wickets="5"/>
+    <BowlerSummary name="A Patel" overs="4" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="T Fletcher" overs="3" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="F Bao" overs="3" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="G McKensie" overs="1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="S Hamilton" overs="0.3" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

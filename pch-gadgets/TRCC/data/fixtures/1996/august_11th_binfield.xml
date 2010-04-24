@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:31 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sun Aug 11 00:00:00 UTC+0100 1996">
+  <MatchReport>
+    <![CDATA[
+      Rain stopped play
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="M Butler">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="T Spiller">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Dominy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Warren">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Watt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lawrence Neall"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Hughes">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Collins">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="D Kingstone"/>
+    <Batsman name="P Edginston"/>
+    <Batsman name="A Grimwade"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Peter Dawson" overs="14" maidens="4" runs="32" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="4" runs="27" wickets="3"/>
+    <BowlerSummary name="Rod Edney" overs="8" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Lawrence Neall" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Edginston"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Edginston"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="P Edginston"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Caught"/>
+      <Bowler name="M Butler"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Lawrence Neall"/>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Hugh Fort"/>
+    <Extras value="20"/>
+    <BowlerSummary name="R Warren" overs="7" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="P Edginston" overs="5" maidens="1" runs="23" wickets="3"/>
+    <BowlerSummary name="P Dominy" overs="5.1" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="B Hughes" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="M Butler" overs="5" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="C Collins" overs="4" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

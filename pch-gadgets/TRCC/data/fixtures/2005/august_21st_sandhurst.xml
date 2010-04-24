@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Sandhurst" date="Sun Aug 21 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       A bright blue sky and a hot summer afternoon. Sandhurst (a last minute conference replacement for
+      Amersham who cried off on Friday lunchtime) won the toss and unhesitatingly elected to bat. A young
+      Sandhurst team failed to hide their nervousness and inexperience when skipper Birch was run out as a
+      result of bad calling and poor judgement. A strip of variable bounce and occasionally extravagant
+      turn served to compound Sandhurst's uncertainty. The outfield however was glass like and any shot
+      piercing the field sped to the boundary. 
+      <p>
+       Twyford's opening bowlers were not on top
+      form although Green eventually settled to a good line and length. Beamish was quicker and his pace
+      combined with the variable bounce brought him more rewards from the other end. It was spinner Downes
+      however who did most of the damage taking 4-43 whilst toiling under the hot sun in a 12 over spell.
+      All the bowlers were backed up with some terrific fielding and none better than by Fuller who at one
+      stage sprinted round the boundary, dived full length at ankle height and pulled off a 2 handed stop
+      that would not have looked out of place in the recent Ashes tests. Twyford's experience and
+      concentration came out on top and the visitors were eventually dismissed 15 minutes before tea for a
+      total of 128. 
+      <p>
+       The target of 129 never looked enough, Twyford had time on their
+      side, the fast outfield more than made up for the vagaries of the pitch and there was an opportunity
+      to promote some of the usually supporting batsmen into leading roles. This chance was taken by both
+      H Fort and Fuller who joint top scored with 25 each. Twyford had batting strength all the way down
+      and despite the slow start from Seymour (well he is getting on a bit) the late middle order saw
+      Twyford comfortably home with some 7 overs to spare. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Sandhurst">
+    <Batsman name="N Ahmed">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="A Birch">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Feltz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Honey">
+      <HowOut how="Caught Paul Dunsford"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="D Chesterman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="J Clement">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Costambeys">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Dobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="1" score="78"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="8" score="96"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="10" score="128"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11.5" maidens="0" runs="43" wickets="4"/>
+    <BowlerSummary name="Alistair Benson" overs="3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="C Hall"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="D Chesterman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Hall"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Hall"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dobson"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dobson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="47"/>
+    <FallOfWicket batsman="3" score="60"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="6" score="114"/>
+    <BowlerSummary name="D Chesterman" overs="7" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="R Costambeys" overs="11" maidens="2" runs="39" wickets="0"/>
+    <BowlerSummary name="C Hall" overs="9" maidens="2" runs="42" wickets="3"/>
+    <BowlerSummary name="R Dobson" overs="5" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="G Scott" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="J Clement" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

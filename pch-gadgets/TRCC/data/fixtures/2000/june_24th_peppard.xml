@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:36 UTC+0100 2010 -->
+<CricketMatch oppo="Peppard" date="Sat Jun 24 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="R Woolfrey"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="R Austin"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="R Woolfrey"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Chard"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="M Chard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="LBW"/>
+      <Bowler name="R Woolfrey"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Woolfrey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rob James"/>
+    <Extras value="21"/>
+    <BowlerSummary name="R Woolfrey" overs="23" maidens="3" runs="65" wickets="4"/>
+    <BowlerSummary name="R Austin" overs="10" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="M Chard" overs="12" maidens="1" runs="49" wickets="2"/>
+  </Innings>
+  <Innings batting="Peppard">
+    <Batsman name="H Asquith">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="T Searby">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="D Townsin">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Woolfrey">
+      <HowOut how="Caught R Hobson"/>
+      <Bowler name="David Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Simmons">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Hayden">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="David Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="I Heggie">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="David Downes" overs="18" maidens="3" runs="71" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="7.4" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="13" maidens="2" runs="37" wickets="0"/>
+    <BowlerSummary name="Rob James" overs="3" maidens="1" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

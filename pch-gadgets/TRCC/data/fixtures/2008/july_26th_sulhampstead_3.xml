@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:38 UTC+0100 2010 -->
+<CricketMatch oppo="Sulhampstead 3" date="Sat Jul 26 00:00:00 UTC+0100 2008">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sulhampstead 3">
+    <Batsman name="A Creba">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="M Abbott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Bradfield">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="L Abbott">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Macdonald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="L Small">
+      <HowOut how="Caught Anthony Green"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Hiskoe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Ingoe">
+      <HowOut how="Caught Anthony Green"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Hiskoe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Holstar">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Bradfield">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="4" score="59"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="6" score="62"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="8" score="87"/>
+    <FallOfWicket batsman="7" score="92"/>
+    <FallOfWicket batsman="10" score="93"/>
+    <FallOfWicket batsman="9" score="93"/>
+    <BowlerSummary name="Tim Cooper" overs="11" maidens="2" runs="31" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="12" maidens="2" runs="50" wickets="6"/>
+    <BowlerSummary name="Spence Nichols" overs="1.1" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Phil Markham">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Small"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Abbott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Bradfield"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Josh Baker"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Spence Nichols"/>
+    <Batsman name="Anthony Green"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Tim Cooper"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="79"/>
+    <FallOfWicket batsman="3" score="84"/>
+    <FallOfWicket batsman="4" score="90"/>
+    <BowlerSummary name="L Small" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="C Ingoe" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="M Abbott" overs="3.4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="N Bradfield" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

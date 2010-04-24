@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:49 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jul 4 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wood-Smith"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wood-Smith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Liam Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wood-Smith"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Seymour"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Janes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Neil Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wood-Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jim Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Extras value="16"/>
+    <BowlerSummary name="M Seymour" overs="12" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="Scott" overs="13" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="Wood-Smith" overs="9" maidens="1" runs="24" wickets="4"/>
+    <BowlerSummary name="P Seymour" overs="6" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Janes" overs="5" maidens="1" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="P Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Burrows">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="W Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Lynch">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="W Scott">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Symons">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Clements">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="I Wood-Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="M Robinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Janes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Seymour"/>
+    <Extras value="9"/>
+    <BowlerSummary name="David Downes" overs="12.2" maidens="1" runs="42" wickets="3"/>
+    <BowlerSummary name="James Hollidge" overs="10" maidens="1" runs="48" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="6" maidens="1" runs="15" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sun Jul 7 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       The script was written with the toss of the coin. Cookham Dean not trusting their batting, inserted
+      Twyford who made excellent progress, despite a break for rain, to a total of 208 for 3 off just 38
+      overs. Tom Hall unbeaten for the second week in a row scored 75. There was excellent support from
+      Tom Fort 44 and Peter Woodman 42. 
+      <p>
+       Razaq with 43 got Cookham off to a fast start
+      but runs soon dried up. The Twyford bowlers were always on top but half chances kept going down.
+      Captain Ramsbottom at the other end just could not get the ball away and when Razaq fell in the 21st
+      over the score was 70. Despite an assortment of tempting but beguiling spin from both ends Cookham
+      lacked ambition and declined to take advantage of the shaky Twyford catching. Ramsbottom batted
+      throughout the 40 overs to finish on 59 not out 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Cookham Dean">
+    <Batsman name="N Ramsbottom">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Z Razaq">
+      <HowOut how="b"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="A Hussain">
+      <HowOut how="lbw"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Mellor">
+      <HowOut how="Ct T Fort"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Millar">
+      <HowOut how="Ct Morris"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="G Allard">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="I Styles"/>
+    <Batsman name="M Knowles-Leak"/>
+    <Batsman name="M Cutting"/>
+    <Batsman name="P Taylor"/>
+    <Batsman name="A Partridge"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="4" runs="31" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="8" maidens="4" runs="17" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Partridge"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="Hussain"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zaheer"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="21"/>
+    <BowlerSummary name="Knowles-Leak" overs="9" maidens="0" runs="57" wickets="0"/>
+    <BowlerSummary name="Hussain" overs="10" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Cutting" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Partridge" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Taylor" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Zaheer" overs="3" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jul 30 00:00:00 UTC+0100 2005">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="R Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Driscoll">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Not Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="M Palmer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Robertson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="O Watson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Allerston">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Thomas">
+      <HowOut how="Caught Drew Evans"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Morrison">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Church"/>
+    <Batsman name="P Tanton"/>
+    <Extras value="11"/>
+    <BowlerSummary name="Steve Beamish" overs="13" maidens="1" runs="59" wickets="2"/>
+    <BowlerSummary name="Steve Green" overs="12" maidens="5" runs="25" wickets="3"/>
+    <BowlerSummary name="Chris Evans" overs="7" maidens="0" runs="64" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="7" maidens="2" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="T Morrison"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Drew Evans"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="David Beamish"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="2" score="96"/>
+    <BowlerSummary name="D Church" overs="10" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="T Morrison" overs="7" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="M Palmer" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="D Crick" overs="1" maidens="1" runs="0" wickets="0"/>
+    <BowlerSummary name="S Driscoll" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

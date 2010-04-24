@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Stoke Row" date="Sat Jul 30 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collis"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Griffith"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="C Wise"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="C Wise"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collis"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Prior">
+      <HowOut how="Caught"/>
+      <Bowler name="G Harper"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jon Watts">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="6" score="142"/>
+    <FallOfWicket batsman="7" score="146"/>
+    <FallOfWicket batsman="8" score="157"/>
+    <BowlerSummary name="G Harper" overs="10" maidens="4" runs="34" wickets="1"/>
+    <BowlerSummary name="S Collis" overs="11" maidens="3" runs="35" wickets="3"/>
+    <BowlerSummary name="Griffith" overs="7" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="C Wise" overs="10" maidens="1" runs="40" wickets="2"/>
+    <BowlerSummary name="C Clarke" overs="5" maidens="1" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Stoke Row">
+    <Batsman name="A Rosser">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Oxley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Harper">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Clarke">
+      <HowOut how="Caught Mark Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Griffith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Collis">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Wise">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="M Campion">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Windeor">
+      <HowOut how="Caught Jon Watts"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Stallwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="42"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="7" score="48"/>
+    <FallOfWicket batsman="5" score="57"/>
+    <FallOfWicket batsman="9" score="65"/>
+    <FallOfWicket batsman="10" score="67"/>
+    <FallOfWicket batsman="11" score="76"/>
+    <BowlerSummary name="Chris Taylor" overs="8" maidens="0" runs="26" wickets="5"/>
+    <BowlerSummary name="Jon Watts" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="4" maidens="2" runs="14" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="4" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="David Taylor" overs="2.2" maidens="1" runs="3" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

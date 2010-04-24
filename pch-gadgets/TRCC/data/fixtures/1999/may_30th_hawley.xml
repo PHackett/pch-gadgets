@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:04 UTC+0100 2010 -->
+<CricketMatch oppo="Hawley" date="Sun May 30 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hawley">
+    <Batsman name="M Hargrieves">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Hargrieves">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Sinclair">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Karki">
+      <HowOut how="Caught T Hogarth"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Woodward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Marchant">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="P Bird">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Kirnick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Wojik">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Ette">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Rawlings">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="0" runs="26" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="3" runs="19" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="2" runs="12" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="3.5" maidens="1" runs="2" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sinclair"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Tim Hogarth"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="1"/>
+    <BowlerSummary name="A Sinclair" overs="5" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="G Rawlings" overs="8" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="M Hargrieves" overs="4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

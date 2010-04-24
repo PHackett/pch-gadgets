@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:54 UTC+0100 2010 -->
+<CricketMatch oppo="Aldershot" date="Sun Jul 19 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Aldershot">
+    <Batsman name="G Dates">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Gass">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="M Gruver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Jarrett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Q Abbas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Bazen">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Jagger">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="F Dingwell">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Coomber">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="D Anslow">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Hay"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="15" maidens="2" runs="47" wickets="4"/>
+    <BowlerSummary name="Chris Fort" overs="9" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="13" maidens="4" runs="40" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="32" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Q Abbas"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="D Anslow"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Coomber"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Coomber"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Q Abbas"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Coomber"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Greg Neall">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="0"/>
+    <BowlerSummary name="M Jagger" overs="6" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="N Hay" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="G Dates" overs="1" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="D Anslow" overs="6" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="M Coomber" overs="7" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="M Gruver" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Q Abbas" overs="3" maidens="0" runs="12" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

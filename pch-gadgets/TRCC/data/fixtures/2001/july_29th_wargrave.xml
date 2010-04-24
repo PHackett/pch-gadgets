@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 29 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       One of Twyford's weaker Sunday XIs of the season came up against one of Wargrave' strongest. Having
+      won the toss Twyford fielded well but with the exception of Hackett all of the bowling was wayward
+      and flagged badly at the end of a very hot afternoon. Considering the benign wicket, the glass like
+      outfield and the relative strengths of the sides Twyford did not do too badly with Wargrave setting
+      a target of 205 to win. <P></p> The Twyford innings got off to a great start. Makeshift openers
+      Benjamin and Wren put on 81 in 16 overs and had Wrgrave firmly on the back foot. Wren was first out
+      having scored only 27 out of the 81. Benjamin fell for superb 73, really enjoying the bounce in the
+      pitch and the lightening fast outfield and really showing his junior partners how to keep the pace
+      high. Once the openers had gone however the scoring dried up and the game petered out. Wargrave had
+      not been able to take early wickets and Twyford could not keep the scoring rate up. One incident of
+      note, probably too late in the game to affect the outcome was the reprieve for skipper Nic Downes.
+      He was initially given out LBW to one that hit him in the groin. A trigger finger was followed by an
+      anguished cry from umpire James Fort of &quot;no I've changed my mind thats not out&quot;. After
+      much kerfuffell and a generous gesture from the Wargrave captain, Downes stayed put to see his side
+      through the last 3 overs. <P></p> MoM Dave Benjamin 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="J Lloyd">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="S Cross">
+      <HowOut how="Ct N Downes(wk)"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="S Walker">
+      <HowOut how="Ct A Neall"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Ct N Downes(wk)"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Walker">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="P Norris">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Amor"/>
+    <Batsman name="M Woods"/>
+    <Batsman name="D Coombes"/>
+    <Batsman name="T Bodington"/>
+    <Batsman name="M Bharma"/>
+    <Extras value="33"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="3" runs="23" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="12" maidens="0" runs="66" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="7" maidens="0" runs="55" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="3" maidens="1" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clark"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walker"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Ct"/>
+      <Bowler name="Walker"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walker"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct"/>
+      <Bowler name="Walker"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clark"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <BowlerSummary name="Boddington" overs="7" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="Bharma" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Norris" overs="5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Walker" overs="11" maidens="1" runs="33" wickets="4"/>
+    <BowlerSummary name="Cross" overs="3" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Clark" overs="6" maidens="0" runs="25" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 10 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       A glorious Sunday, only one of few so far this year, greeted the visitors Woodcote to Twyford's
+      home ground. The outfield was short and parched, promising many runs for the batsmen if the wicket
+      played true. 
+      <p>
+       Winning the toss, it was no surprise when Twyford captain Nic Downes
+      put the home team into bat. But the Woodcote openers kept things very tight, with movement in the
+      air and off the pitch. By the eighth over, both openers had returned to the pavilion with the score
+      on only 20. But Twyford's middle order was made of sterner stuff. Fort and Cochrane pushed the score
+      on to 81, followed by Fuller and M Morris, all posting good scores. The tail 'tailed-off', giving a
+      final score of 184-9. Pick of the bowling was Worsfold, taking 3-38 off 10 overs. 
+      <p>
+      
+      The suspicion had to be that this was too small a total with the outfield as fast as it was. Could
+      Twyford defend such a total? 
+      <p>
+       Woodcote began showing that they though the target
+      was well within their grasp, with Topham hitting accurately and aggressively from the off. But he
+      only occupied one of the ends, and with testing bowling from openers Hackett and S Beamish, runs
+      were hard to come by and wickets began to fall with regularity. Indeed, when Topham reached his 50,
+      the score was only 54! But 181 did not seem very distant, and runs kept mounting. However, two
+      inspired changes in bowling shifted the advantage towards Twyford. Hackett's second spell began with
+      2 wickets in 3 balls, including that of the prolific Topham, and the home team smelt victory. But
+      Woodcote did not give in - They were batting to win! Their number 10 Knox sent the ball to the
+      boundary with, to Twyford, alarming regularity. In the end, S Beamish dismissed him only 9 runs
+      short of victory with overs in hand to bring the game to a close and victory to Twyford! 
+      <p>
+
+            Hackett, recording his first 5-wicket haul for two years provided the highlight for Twyford's
+      bowling, and Topham with 71 was the pick of the batting for Woodcote. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Knox"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Knox"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Povey"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Caught"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Boycott"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Peter Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Dillon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Dillon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="38"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="5" score="115"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <FallOfWicket batsman="3" score="134"/>
+    <FallOfWicket batsman="7" score="178"/>
+    <FallOfWicket batsman="9" score="179"/>
+    <FallOfWicket batsman="10" score="181"/>
+    <BowlerSummary name="Topham" overs="5" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Knox" overs="9" maidens="3" runs="15" wickets="2"/>
+    <BowlerSummary name="Povey" overs="8" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Worsfold" overs="10" maidens="2" runs="38" wickets="3"/>
+    <BowlerSummary name="F Dillon" overs="6" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="J Dillon" overs="3" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Boycott" overs="2" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="Topham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Worsfold">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pernell">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Higley">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Aldridge">
+      <HowOut how="Caught Matt Morris"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Povey">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Boycott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Holder">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="F Dillon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Knox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="J Dillon">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="2" runs="53" wickets="5"/>
+    <BowlerSummary name="Steve Beamish" overs="5.4" maidens="2" runs="27" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="5" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

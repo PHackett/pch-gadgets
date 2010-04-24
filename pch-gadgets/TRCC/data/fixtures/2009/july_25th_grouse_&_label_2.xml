@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:03 UTC+0100 2010 -->
+<CricketMatch oppo="Grouse & Label 2" date="Sat Jul 25 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Grouse & Label 2">
+    <Batsman name="Satish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Sam">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sandeep">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nandan">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nikhil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sean">
+      <HowOut how="LBW"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rajesh">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Surmesh">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Shekhar"/>
+    <Batsman name="Taz"/>
+    <Batsman name="Varun"/>
+    <Extras value="45"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="4" score="109"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="1" score="130"/>
+    <FallOfWicket batsman="6" score="209"/>
+    <BowlerSummary name="Steve Green" overs="11" maidens="3" runs="31" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="10" maidens="2" runs="40" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="13" maidens="0" runs="49" wickets="3"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="5" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="2" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rajesh"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Caught"/>
+      <Bowler name="Sandeep"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Run Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Sandeep"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Sandeep"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nandan"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="Rajesh"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nandan"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nandan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="4" score="69"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="3" score="105"/>
+    <FallOfWicket batsman="6" score="115"/>
+    <FallOfWicket batsman="8" score="178"/>
+    <FallOfWicket batsman="9" score="178"/>
+    <FallOfWicket batsman="7" score="182"/>
+    <BowlerSummary name="Rajesh" overs="12" maidens="4" runs="48" wickets="2"/>
+    <BowlerSummary name="Sandeep" overs="15" maidens="4" runs="42" wickets="3"/>
+    <BowlerSummary name="Surmesh" overs="7" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="Nandan" overs="8" maidens="0" runs="40" wickets="3"/>
+    <BowlerSummary name="Taz" overs="3" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

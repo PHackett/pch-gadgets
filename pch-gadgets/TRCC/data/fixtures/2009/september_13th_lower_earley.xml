@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 13 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      Damn! Fell over and broke my shoulder in the seconds over!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Lower Earley">
+    <Batsman name="A Janeba">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Gomes">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="O Neal ">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nigel Leach"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="G O'Grady">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="A Chowdary">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris TFort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="K Aleem">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="J Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Sharma">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Hunt ">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R  Harwood">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <BowlerSummary name="Paul Hackett" overs="1" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="0" runs="26" wickets="4"/>
+    <BowlerSummary name="Adam Smith" overs="8" maidens="3" runs="29" wickets="1"/>
+    <BowlerSummary name="Nigel Leach" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="2" runs="49" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="54" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Chowdary"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="LBW"/>
+      <Bowler name="S Maynard"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Maynard"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rohit Gupta">
+      <HowOut how="Caught"/>
+      <Bowler name="J Khan"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="A Chowdary"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Aleem"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R  Harwood"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="K Aleem"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="G Hunt" overs="7" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="R  Harwood" overs="8" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="S Maynard" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="A Chowdary" overs="8" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="K Aleem" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="J Khan" overs="4" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="A Janeba" overs="1" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

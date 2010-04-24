@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Jordans" date="Sat Jun 25 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nosher"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roberts"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Not Out"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="5" score="11"/>
+    <BowlerSummary name="Nosher" overs="12" maidens="7" runs="20" wickets="1"/>
+    <BowlerSummary name="Roberts" overs="13" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="Cadling" overs="7" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="McLeod" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Pembroke" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Butler" overs="3" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Jordans">
+    <Batsman name="Pembroke">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="McLeod">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Miller">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Haywood">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Roberts">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Nosher">
+      <HowOut how="Caught Chris Taylor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Parker">
+      <HowOut how="Caught Chris Taylor"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pieron">
+      <HowOut how="Caught Rich Lawrance"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Loveday">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Butler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Lodling">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="David Taylor" overs="7" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="7.2" maidens="2" runs="22" wickets="5"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Chris Taylor" overs="2" maidens="1" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

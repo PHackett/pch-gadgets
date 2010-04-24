@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:06 UTC+0100 2010 -->
+<CricketMatch oppo="Chesham Bois" date="Sat May 28 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chesham Bois">
+    <Batsman name="A Rolph">
+      <HowOut how="Caught Chris Taylor"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Beeson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Ashwell">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Windett">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Garner">
+      <HowOut how="Caught Ian Helmore"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J OBrien">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Clifford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M George">
+      <HowOut how="Caught Chris Taylor"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M McDowell">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="K Hook">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="5" score="5"/>
+    <FallOfWicket batsman="4" score="7"/>
+    <FallOfWicket batsman="7" score="7"/>
+    <FallOfWicket batsman="8" score="8"/>
+    <FallOfWicket batsman="5" score="13"/>
+    <FallOfWicket batsman="6" score="17"/>
+    <FallOfWicket batsman="10" score="23"/>
+    <BowlerSummary name="David Downes" overs="6" maidens="4" runs="5" wickets="2"/>
+    <BowlerSummary name="Chris Taylor" overs="8" maidens="5" runs="5" wickets="4"/>
+    <BowlerSummary name="David Taylor" overs="2.4" maidens="1" runs="12" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Clifford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Clifford"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="Chris Taylor"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Ian Helmore"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <BowlerSummary name="D Clifford" overs="3.2" maidens="0" runs="3" wickets="2"/>
+    <BowlerSummary name="K Hook" overs="2" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="D Ashwell" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

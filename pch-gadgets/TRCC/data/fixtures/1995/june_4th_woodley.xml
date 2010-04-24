@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Woodley" date="Sun Jun 4 00:00:00 UTC+0100 1995">
+  <MatchReport>
+    <![CDATA[
+      There is no date reported for this game - Could have been 28th May
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Woodley">
+    <Batsman name="B Kent">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="P Bunch">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="R Stanley">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Rance">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="L Ryan">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="No Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="B Sheffield">
+      <HowOut how="Caught K Knight"/>
+      <Bowler name="M Lawrance"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="M Reeves">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="R Widdis"/>
+    <Extras value="3"/>
+    <BowlerSummary name="Robin Reynolds" overs="7" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="1" runs="55" wickets="5"/>
+    <BowlerSummary name="Matt Morris" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="M Lawrance" overs="4" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="2" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Sheffield"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Reeves"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Willis"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="M Lawrance"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Richard Knight"/>
+    <Extras value="16"/>
+    <BowlerSummary name="M Reeves" overs="7" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="B Sheffield" overs="7" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="R Willis" overs="13" maidens="1" runs="63" wickets="0"/>
+    <BowlerSummary name="P Bunch" overs="4" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="No Downes" overs="8.1" maidens="2" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

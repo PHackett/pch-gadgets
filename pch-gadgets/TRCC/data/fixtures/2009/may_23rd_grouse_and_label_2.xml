@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:02 UTC+0100 2010 -->
+<CricketMatch oppo="Grouse and Label 2" date="Sat May 23 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prashant"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Caught"/>
+      <Bowler name="Satish"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="Shekhar"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="David"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Satish"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chulana"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="48"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="2" score="162"/>
+    <FallOfWicket batsman="5" score="165"/>
+    <FallOfWicket batsman="6" score="183"/>
+    <FallOfWicket batsman="7" score="197"/>
+    <BowlerSummary name="Chulana" overs="14" maidens="2" runs="43" wickets="1"/>
+    <BowlerSummary name="Prashant" overs="3" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="David" overs="6" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Shekhar" overs="8" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Sayed" overs="8" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Satish" overs="5" maidens="1" runs="36" wickets="2"/>
+  </Innings>
+  <Innings batting="Grouse and Label 2">
+    <Batsman name="Bharat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sampath">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Satish">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Gerwyn Leigh"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chulana">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sayed">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nikhil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Malcolm">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Taz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Prashant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="David">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shekhar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="2" score="39"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <FallOfWicket batsman="8" score="78"/>
+    <FallOfWicket batsman="9" score="84"/>
+    <FallOfWicket batsman="6" score="100"/>
+    <FallOfWicket batsman="10" score="100"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="Gerwyn Leigh" overs="7" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Raja Singh" overs="11" maidens="2" runs="30" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="11.2" maidens="3" runs="28" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

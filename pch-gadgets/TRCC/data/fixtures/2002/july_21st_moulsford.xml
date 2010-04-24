@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:00 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun Jul 21 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       Twyford sauntered to a comfortable eight wicket win at Moulsford on Sunday, after putting the home
+      side in on a slow, easy pitch. Moulsford always struggled against spinners Tom Fort (six for 25) and
+      Chris Evans ( three for 13), the one exception being Holland who hit three sixes and was dropped
+      three times on his way to an aggressive 54. 
+      <p>
+       In reply, Woodman (55 not out) and
+      Benjamin (25) gave Twyford the start they needed. The winning boundary was hit by 15-year-old Phil
+      Hoy, one of two youngsters making their debut, the other being 14-year-old Ed Fort. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Moulsford">
+    <Batsman name="Cox">
+      <HowOut how="Ct D Benjamin"/>
+      <Bowler name="S Wren"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Bonner C">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Mace">
+      <HowOut how="Ct Hall"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Holton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Holland">
+      <HowOut how="Ct Seymour"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Davey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="McDonald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bonner M">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wilcox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spackman">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ralphs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Stewart Wren" overs="10" maidens="4" runs="38" wickets="1"/>
+    <BowlerSummary name="Drew Evans" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="2" runs="25" wickets="6"/>
+    <BowlerSummary name="Chris Evans" overs="4.3" maidens="1" runs="13" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Davey"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Phillip Hoy">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Tom Hall"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="E Fort"/>
+    <Batsman name="Drew Evans"/>
+    <Extras value="11"/>
+    <BowlerSummary name="Holland" overs="10" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="C Bonner" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Davey" overs="6" maidens="4" runs="10" wickets="1"/>
+    <BowlerSummary name="Mace" overs="6" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Wilcox" overs="6" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

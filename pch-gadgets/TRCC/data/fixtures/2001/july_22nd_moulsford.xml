@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun Jul 22 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       On a damp wicket Twyford, having won the toss, elected to take first use of the new ball. One of
+      the best bowling and fielding performances of the season was iced in chilling fashion by Steve
+      Beamish who took a first ever <span class='TRCCWin'>hat-trick</span> to put the skids under the
+      Moulsford tail and finish their innings off. He took 4 for 32 as the opposition were despatched for
+      137 some half an hour before tea. 
+      <p>
+       The Twyford innings, with plenty of time in hand
+      took on a sedate pace as the openers ground out a solid start. At 130-4 needing 7 to win, opener
+      Woodman top edged a pull into his face, slightly dazed and with a big lump on his forehead he
+      retired to the bench to watch the last 8 runs being scored. What he saw brought steam gushing from
+      his ears, Twyford lost 4 wickets for 1 run. Enraged, Woodman marched back to the crease with 1 run
+      needed and 2 wickets left. He calmly waited for the next bad ball and was coolness personified as he
+      executed a better pull shot and sent the ball racing to the boundary. 
+      <p>
+       MoM Steve
+      Beamish 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Moulsford">
+    <Batsman name="Allen">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Bonner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Parkes">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Davey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Holland">
+      <HowOut how="Not Out"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Hearmon">
+      <HowOut how="Ct H Fort"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Cox">
+      <HowOut how="Ct D Benjamin"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dixon">
+      <HowOut how="Ct H Fort"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="McDonald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamism"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Bodington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="no player"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="1" runs="35" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="4.4" maidens="0" runs="32" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Ct"/>
+      <Bowler name="Holland"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Ct"/>
+      <Bowler name="Davey"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Davey"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Allen"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Ct"/>
+      <Bowler name="Bonner"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct"/>
+      <Bowler name="Allen"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Ct"/>
+      <Bowler name="Allen"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Holland" overs="18" maidens="4" runs="58" wickets="1"/>
+    <BowlerSummary name="Davey" overs="15" maidens="2" runs="38" wickets="2"/>
+    <BowlerSummary name="Allen" overs="6" maidens="2" runs="28" wickets="3"/>
+    <BowlerSummary name="Bonner" overs="3.5" maidens="1" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

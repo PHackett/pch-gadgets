@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="Kidmore End" date="Sun Aug 5 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Your skipper and regular correspondant missed this game (family hols in the S. of France) but was
+      kept in touch, and picked up the grisley details by means of text messages, phone calls, and later,
+      grown men crying into their beer. Yet another 40 over game and the opposition posted a daunting a
+      192 being all out in 37 overs. Nobody said much about the bowling but I say the figures speak for
+      themslves. Well done Tom, a watertight case for more spin bowling in all types of cricket!! 
+     
+      <p>
+       Dr Jekyll worked wonders as Twyford cruised to 154-3 in the 28th over, Wren and Hall
+      putting on 82, Wren finishing on 74 (the only 50 of the game). Then it seems Mr Hyde crept into the
+      order somewhere and Twyford finished 190 all out in the 39th over, 3 runs short. Much chagrin and
+      many tears. 
+      <p>
+       MoM Dr. J and Mr. H 
+      <p>
+       Postscript. A good new fixture
+      at one of the best grounds in the area. 
+      <p>
+       Please note that the scoring was a little
+      off! So, I have adjusted the extras to give the &quot;correct&quot; answers. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Kidmore End">
+    <Batsman name="S Mahbir">
+      <HowOut how="Ct S Wren"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Shukri">
+      <HowOut how="Ct. T Hall"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="G Bacon">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Rafin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="A Sumitra">
+      <HowOut how="Ct D Benjamin"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Taylor">
+      <HowOut how="Ct. P Woodman"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Assad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Payne">
+      <HowOut how="Ct S Wren"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mudassar">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Johnson">
+      <HowOut how="Ct H Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Hullock">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="29"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="2" runs="41" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="6" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="0" runs="31" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="0" runs="37" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mudassar"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Ct"/>
+      <Bowler name="Hullock"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Sumitra"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Stumped"/>
+      <Bowler name="Sumitra"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Ct"/>
+      <Bowler name="Assad"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Ct"/>
+      <Bowler name="Mahabir"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sumitra"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct"/>
+      <Bowler name="Sumitra"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Ct"/>
+      <Bowler name="Sumitra"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Ct"/>
+      <Bowler name="Sumitra"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Mudassar" overs="7" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Johnson" overs="6" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Payne" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Hullock" overs="4" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Mahabir" overs="5.5" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Rafin" overs="1" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Sumitra" overs="8" maidens="2" runs="15" wickets="5"/>
+    <BowlerSummary name="Assad" overs="5" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

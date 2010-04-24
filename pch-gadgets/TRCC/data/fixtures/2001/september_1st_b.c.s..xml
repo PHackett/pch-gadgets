@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:48 UTC+0100 2010 -->
+<CricketMatch oppo="B.C.S." date="Sat Sep 1 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Three things made this game against BCS memorable and unfortunately two of them were bad. On the
+      bad side Twyford only managed to get 7 players to the game. It marked the end of the career of Barry
+      Potier, a stalwart of the club and a fine bowler who will be missed next year. On the plus side
+      England beat Germany which I hope made everyone a lot happier. 
+      <p>
+       With the whole
+      world on the Noel Downes stag weekend the Cross was a lonely place when Twyford met on Saturday.
+      When it was apparent that only 7 would play out of the 9 that gave their consent we made our way to
+      Sonning Lane and put the circumstances to the opposition captain. It was decided that Twyford would
+      bat first and attempt to score the points needed to stave off relegation until at least next year. 
+
+           <p>
+       Yet another new opening pair was formed in the shape of Helmore and Hobson. While
+      Helmore played the 'Hugh Connor' role and stuck to his task, Hobson set about the BCS bowlers to
+      regain some of the pride they used to have in this fixture. The short bowling of Goodenough proved
+      not to be and was gleefully thrashed to the boundary. At the other end Brian 'Normski' Norman bowled
+      a tidy and tempting spell which would have ended the game much earlier if the wicket keeper could
+      have caught Hobson when the chance came. Hobson (40) and Helmore (13) put on 39 before Helmore was
+      bowled by Barnes. Seymour then strode to the wicket and like Helmore settled in for a long stay. The
+      singles dried up but Seymour was defiant and even hooked Starling for 4. 
+      <p>
+       The next
+      wicket to fall was that of Hobson when he was curiously LBW/Caught behind off the bowling of
+      Starling after a partnership of 33 with Seymour (8). This signalled the end of the threat to BCS as
+      Theron was adjudged LBW and Potier was bowled all in the same over. This left Evans (5) and Beamish
+      (1*) to do their best but Twyford were all out on 78 from the 16th over. 
+      <p>
+       The
+      second innings was much shorter and saw the familiar sight of Potier bounding in to the crease to
+      deliver the ball. While having lost much of his pace he has proved to be the most economical of the
+      Twyford bowlers and as each season passes tends to get more frustrated when the fielding lets him
+      down. Injury brought his spell to an end and he retired to square leg to graze the outfield. Hobson
+      came on bowling his medium pace inswing and managed a breakthrough by bowling Martin. Shortly after
+      Theron also got through the defence of the other opener to earn Twyford another point but the game
+      had long gone and BCS passed the target with only 2 wickets gone. 
+      <p>
+       This leaves the
+      clubs future in the hands of Swindon NALGO and Stratfield Turgis with a win for Stratfield which
+      would relegate Twyford to divison 2. Will there be any chance next year? Who knows........... 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Barnes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="LBW"/>
+      <Bowler name="C Starling"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="C Starling"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="LBW"/>
+      <Bowler name="C Starling"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Starling"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dixon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="B Norman" overs="10" maidens="5" runs="13" wickets="0"/>
+    <BowlerSummary name="N Goodenough" overs="5" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="M Barnes" overs="5" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="C Starling" overs="6" maidens="2" runs="16" wickets="4"/>
+    <BowlerSummary name="A Watts" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="C Dixon" overs="3.2" maidens="2" runs="1" wickets="1"/>
+  </Innings>
+  <Innings batting="B.C.S.">
+    <Batsman name="S Rush">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="C Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Hobson"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Starling">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Dixon">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Barry Potier" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Brandon Theron" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Richard Hobson" overs="3.2" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

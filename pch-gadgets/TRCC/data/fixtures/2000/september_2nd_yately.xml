@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:37 UTC+0100 2010 -->
+<CricketMatch oppo="Yately" date="Sat Sep 2 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Yately">
+    <Batsman name="S Justice">
+      <HowOut how="Caught A Jackson"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Berridge">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="G Parsons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="S Shirley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Charman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="D Mortimer">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Jacobs">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Owton">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Davies"/>
+    <Batsman name="J Gale"/>
+    <Extras value="29"/>
+    <BowlerSummary name="Andrew Jackson" overs="11" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="11" maidens="7" runs="22" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="6" runs="27" wickets="3"/>
+    <BowlerSummary name="Rob James" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Richard Hobson" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="2" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught"/>
+      <Bowler name="S Justice"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Justice"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Andrew Jackson"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Alex Neall"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Rob James"/>
+    <Extras value="11"/>
+    <BowlerSummary name="A Davies" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="M Owton" overs="6" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="M Charman" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="J Gale" overs="9" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="S Justice" overs="6" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="M Berridge" overs="1.4" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

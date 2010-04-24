@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:00 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham" date="Sun Jun 14 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      A rare summers day, where the temperature was just perfect, and a gentle breeze lulled those in the
+      field into happy <strike>revelries</strike> reveries ...
+      <p>
+      Wokingham came to Twyford's
+      Stanlake Meadow on this perfect afternoon, and winning the toss elected to bat. Twyford's attack was
+      mixed. Hackett was accurate and challenging from his end, giving up only 12 in his seven overs,
+      whereas 58 runs came from the other bowlers in the same interval. But captain H Fort mixed the
+      bowling up to good effect, and the wickets kept falling regularly. When D Ashford was dismissed LBW
+      after an excellent 50, there was only Pearce who made it to double figures. The final score of 115
+      looked too low on a wicket that had played well - Could Twyford be looking at their first victory of
+      the season?
+      <p>
+      Twyford's hopes quickly took a blow, as opener Benjamin was out first
+      ball in the second over. Tight bowling from all the Wokingham bowlers kept runs to a minimum, and
+      wickets continued to fall. But T Fort, despite an injury that forced him to use a runner, became the
+      rock upon which Twyford's innings was based. When he was out for 49, with just six more runs to
+      victory and 3 wickets in hand, surely the match was going to go the home side's way.
+      <p>
+     
+      But Wokingham did not roll over! Two more batsmen fell quickly - Down to the last wicket, the match
+      was in the balance. But Hackett (<em>always</em> No 11), after a shaky start, hit the ball for 4,
+      scoring the winning runs for Twyford for only the second time in his 20 year association with the
+      club.
+      <p>
+      So, Twyford made a meal of what should have been a straightforward victory,
+      but Wokingham's young side made a great fight of it. Of special mention has to be N Simmons with
+      excellent figures of 13-4-24-2. All in all, an excellent match that had everything.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Wokingham">
+    <Batsman name="D Ashford">
+      <HowOut how="LBW"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="N Ashford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Hayter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Levin">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Butcher">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Butcher">
+      <HowOut how="Caught Josh Baker"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J James">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Pearce">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Leadbetter"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="N Simmons">
+      <HowOut how="Caught Brandon Theron"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Hirst">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="H Murphy">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="4" score="70"/>
+    <FallOfWicket batsman="1" score="74"/>
+    <FallOfWicket batsman="5" score="74"/>
+    <FallOfWicket batsman="7" score="81"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="9" score="108"/>
+    <FallOfWicket batsman="8" score="112"/>
+    <FallOfWicket batsman="11" score="115"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="12" wickets="1"/>
+    <BowlerSummary name="Josh Baker" overs="2" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Brandon Theron" overs="10" maidens="0" runs="51" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="3.2" maidens="0" runs="3" wickets="2"/>
+    <BowlerSummary name="Tom Leadbetter" overs="1" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="D Ashford"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Levin"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Simmons"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Levin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Hirst"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Hirst"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="D Ashford"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="N Simmons"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Ashford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="5" score="58"/>
+    <FallOfWicket batsman="6" score="61"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <FallOfWicket batsman="3" score="109"/>
+    <FallOfWicket batsman="8" score="111"/>
+    <FallOfWicket batsman="9" score="112"/>
+    <BowlerSummary name="N Simmons" overs="13" maidens="4" runs="24" wickets="2"/>
+    <BowlerSummary name="D Ashford" overs="10" maidens="4" runs="14" wickets="3"/>
+    <BowlerSummary name="N Levin" overs="4" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="A Pearce" overs="3" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="H Murphy" overs="4" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="P Hirst" overs="4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="R Butcher" overs="2" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

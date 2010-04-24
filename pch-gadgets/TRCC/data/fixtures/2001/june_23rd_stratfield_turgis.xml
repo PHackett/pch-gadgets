@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Stratfield Turgis" date="Sat Jun 23 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford won their second successive game on Saturday, away at Stratfield Turgis, and continued
+      their rise up Division 1 away from the relegation zone. After losing the toss the Stratfield captain
+      put Twyford into bat on a hard track which previously had yielded low totals. The innings was given
+      a steady but progressive start by Connor and Kemp who saw off the new ball and posted 57 before Kemp
+      (10) fell leg before in the 20th over. This brought Hobson to the wicket and an immediate surge in
+      the run rate as boundaries soon followed. Hobson (64) soon found the bowling, and the short leg side
+      boundary, to his liking and punished any leg side bowling with an arial trip over the rope and into
+      the trees beyond. Connor (65) played the anchor role well and used the advantage of being
+      left-handed to disrupt the bowlers line by taking singles and also dispatching the lose deliveries.
+      They pushed the fielding side to the limit and it seemed certain that Twyford were on course to set
+      220+ scoreline with the batsmen that were left to come. Connor and Hobson put on 99 from just 14
+      overs leaving score on 156 when Hobson was run out while trying to pressure the fielding side which
+      brought Henry to the crease. 
+      <p>
+       From here the Twyford side stumbled along losing
+      wickets along the way. Only Jackson was able to attack the bowling with 22, including 2 huge sixes.
+      The other chipped in to bring Twyford to 195. 
+      <p>
+       The Stratfield reply was halted on
+      the second ball when a delivery from the off-spinner Noel Downes hit the pad and lifted into the
+      face of the wicket-keeper Connor, removing one of his teeth. Bravely, Connor carried on with the job
+      in hand with the protection of a helmet and saw Downes take the first wicket with the score on 24.
+      The early wickets fell regularly, mainly to the pace bowling of Jackson (4-33) and the off-spinner
+      Noel Downes (2-27). In a performance that echoed last years success the bowling was changed round
+      often and with the changes wickets also fell. At 62 for 7 Strafield provided some resistance that
+      looked to save the game. Headford (32) and Spence (20*) hit the ball well and defended when needed
+      to give Stratfield a glimmer of hope. With the depth of batting removed their chance also dispersed
+      when Headford was caught at mid-on after a stand of 49. Jackson then bowled Triner for 3 and Theron
+      gained his first league wicket, bowling Strudley middle stump, to win the game for Twyford and bring
+      a well earned 30 points to swell their league average.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Clark"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="LBW"/>
+      <Bowler name="D Spence"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Run Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Spence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Triner"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="S Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Mahmood">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Triner"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Clark"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="S Clark"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="S Spence" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="J Triner" overs="12" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="C Strudley" overs="8" maidens="1" runs="47" wickets="0"/>
+    <BowlerSummary name="D Spence" overs="7" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="S Clark" overs="10" maidens="1" runs="42" wickets="4"/>
+    <BowlerSummary name="A Sandland" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Stratfield Turgis">
+    <Batsman name="D Spence">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="S Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Pratt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Sandland">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Manktelow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Hanson">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Headford">
+      <HowOut how="Caught A Mahmood"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="A Campbell">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="A Mahmood"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Spence">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="J Triner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Strudley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brandon Theron"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <BowlerSummary name="Noel Downes" overs="13" maidens="3" runs="27" wickets="2"/>
+    <BowlerSummary name="Andrew Jackson" overs="13" maidens="3" runs="33" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="2" maidens="1" runs="4" wickets="1"/>
+    <BowlerSummary name="A Mahmood" overs="2" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Brandon Theron" overs="1" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

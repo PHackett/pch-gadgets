@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Oddfellows" date="Sun May 14 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Emans"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Emans"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="T Emans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="T Emans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Palmer"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Tim Hogarth"/>
+    <Batsman name="John Moore"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <BowlerSummary name="R Palmer" overs="5" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="T Spires" overs="9" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="T Emans" overs="13" maidens="1" runs="54" wickets="4"/>
+    <BowlerSummary name="T Burns" overs="6" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="A Kilford" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="P Chapman" overs="4" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Oddfellows">
+    <Batsman name="T Spires">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Moore"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Burbridge">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Southgate">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="C Northey">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="A Chapman">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Palmer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Chapman">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Burns">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="D Waiat">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Kilford">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Emans">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="John Moore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="John Moore" overs="9" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="50" wickets="4"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="33" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

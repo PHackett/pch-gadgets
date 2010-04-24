@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:04 UTC+0100 2010 -->
+<CricketMatch oppo="Shinfield" date="Sat May 21 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Shinfield">
+    <Batsman name="M Bancroft">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="T Mace">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Tubb">
+      <HowOut how="Caught P Hackett"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Farrow">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Roberts">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Holder">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Richardson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="H McKenzie">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Arney">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Fisher">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="David Downes" overs="6.2" maidens="1" runs="11" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="3" runs="7" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="10" maidens="0" runs="17" wickets="4"/>
+    <BowlerSummary name="Robin Reynolds" overs="5" maidens="2" runs="5" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Richardson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="Robin Reynolds"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Liam Ryan"/>
+    <Batsman name="Paul Hackett"/>
+    <Batsman name="Noel Downes"/>
+    <Extras value="4"/>
+    <BowlerSummary name="P Richardson" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="M Bancroft" overs="6.3" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="H McKenzie" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

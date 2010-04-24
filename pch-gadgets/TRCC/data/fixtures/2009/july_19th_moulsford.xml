@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun Jul 19 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      It was a grim afternoon, especially for July. Grey clouds, heavy with the threat of rain, and a
+      strong persistent wind from the South-West greeted visitors Moulsford at Twyford's Stanlake Meadow
+      ground. Would we get a full afternoons play in? Only time would tell...
+      <p>
+      The home
+      team batted first, and got off to a solid, if unexceptional start, with Woodman &amp; Leach looking
+      untroubled by the bowling attack. Runs mounted steadily at well over 3 per over, reaching 74 before
+      the first wicket fell in the 21st over. But no other batsmen could sink their teeth into Moulsford's
+      bowling, and the innings began to stall. Only Leach, who scored a superb 80 (what a find he has been
+      for the club this year!) continued the attack successfully. The final score of 152 was not bad on
+      such an ugly day, but really it looked a little short. The pick of the bowlers was definitely
+      Herman, who took 6 wickets for just 39 runs. But special mention also to Davey who gave away just 13
+      runs in 9 overs. 
+      <p>
+      After tea, Moulsford sprinted away in their innings, with
+      inaccurate and down-right bad bowling gifting many boundaries to the batsmen. However, when captain
+      H Fort changed the end from which Hackett was bowling to allow him to bowl with the wind, some sense
+      of order returned to the Twyford attack. But Moulsford's openers Perry &amp; Littledale seemed not
+      to care, striking the ball to all corners with impunity. It was 102 before the first wicket fell,
+      and soon afterwards the teams had to retreat to the pavilion due to rain.
+      <p>
+      It was a
+      miserable Twyford team that looked out at the rain. Cold and wet, with a couple of catches dropped
+      and only certain defeat to look forward to when play resumed, tempers were frayed!
+      <p>
+     
+      But the rain cleared, and then something extraordinary happened - Hackett &amp; Leach found their
+      rhythm and started testing the batsmen. And wickets began to fall, one after another and in quick
+      succession. Catches were held, fielding was sharp, and Moulsford were in trouble. What had seemed
+      impossible came to pass - Twyford won the game - dismissing 9 batsmen for just 22 runs. Hackett was
+      the hero of the hour with a personal best of 35-7, and Leach took the remaining 3 wickets. Certainly
+      one of the most remarkable victories Twyford has ever seen.
+      <p>
+      But a warm thanks go out
+      to Moulsford who took the defeat in generous, sporting mood - plentiful in their praise, and
+      promising to humiliate us next year!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herman"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Herman"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Herman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Clements"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="74"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <FallOfWicket batsman="2" score="128"/>
+    <FallOfWicket batsman="4" score="130"/>
+    <FallOfWicket batsman="5" score="143"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <BowlerSummary name="Littledale" overs="9" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Davey" overs="9" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Herman" overs="10" maidens="2" runs="39" wickets="6"/>
+    <BowlerSummary name="Moss" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Gilmore" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Coleman" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Moulsford">
+    <Batsman name="W Perry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="C Littledale">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="J Davey">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nigel Leach"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="G Herman">
+      <HowOut how="LBW"/>
+      <Bowler name="Nigel Leach"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Stephens">
+      <HowOut how="Caught Tom Clements"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Gilmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Coleman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nigel Leach"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="P Hopkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Winton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Jones">
+      <HowOut how="Caught Josh Baker"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Moss">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="102"/>
+    <FallOfWicket batsman="2" score="116"/>
+    <FallOfWicket batsman="4" score="116"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="3" runs="35" wickets="7"/>
+    <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nigel Leach" overs="7.2" maidens="2" runs="15" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

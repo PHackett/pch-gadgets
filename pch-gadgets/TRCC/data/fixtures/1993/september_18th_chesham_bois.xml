@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:52 UTC+0100 2010 -->
+<CricketMatch oppo="Chesham Bois" date="Sat Sep 18 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chesham Bois">
+    <Batsman name="A Rolph">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Latgwell">
+      <HowOut how="Caught J Hollidge"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="R Beeson">
+      <HowOut how="Caught T Hanton"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="P Ashwell">
+      <HowOut how="Caught T Hanton"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="J O'Brian">
+      <HowOut how="Caught I Helmore"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Garner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Greenham">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Knight">
+      <HowOut how="Caught B Potier"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Wood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="P Clifford">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M George">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Ian Helmore" overs="11" maidens="2" runs="35" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="7.4" maidens="3" runs="14" wickets="3"/>
+    <BowlerSummary name="Chris Taylor" overs="12" maidens="3" runs="28" wickets="2"/>
+    <BowlerSummary name="Jack Hollidge" overs="14" maidens="2" runs="41" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught"/>
+      <Bowler name="P Ashwell"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="P Ashwell"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Ashwell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="LBW"/>
+      <Bowler name="C Knight"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Sumpter">
+      <HowOut how="Caught"/>
+      <Bowler name="C Knight"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rob Yeaden">
+      <HowOut how="Stumped"/>
+      <Bowler name="C Knight"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Hollidge">
+      <HowOut how="Stumped"/>
+      <Bowler name="C Knight"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Clifford"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="P Clifford" overs="14" maidens="5" runs="17" wickets="3"/>
+    <BowlerSummary name="R Wood" overs="11" maidens="5" runs="16" wickets="0"/>
+    <BowlerSummary name="P Ashwell" overs="6" maidens="3" runs="9" wickets="3"/>
+    <BowlerSummary name="C Knight" overs="6" maidens="0" runs="18" wickets="5"/>
+    <BowlerSummary name="???" overs="2" maidens="1" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

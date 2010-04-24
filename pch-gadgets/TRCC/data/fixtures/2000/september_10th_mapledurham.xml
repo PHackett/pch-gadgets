@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:35 UTC+0100 2010 -->
+<CricketMatch oppo="Mapledurham" date="Sun Sep 10 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Banks"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Greenidge"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Greenidge"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="Greenidge"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Banks" overs="14" maidens="4" runs="37" wickets="1"/>
+    <BowlerSummary name="Measham" overs="10" maidens="2" runs="26" wickets="0"/>
+    <BowlerSummary name="Greenidge" overs="11" maidens="4" runs="30" wickets="3"/>
+    <BowlerSummary name="Lucas" overs="8" maidens="0" runs="47" wickets="0"/>
+  </Innings>
+  <Innings batting="Mapledurham">
+    <Batsman name="Greenidge">
+      <HowOut how="LBW"/>
+      <Bowler name="John Moore"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Moore"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ferrera">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Bailey">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Measham">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Banks">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Lucas">
+      <HowOut how="Caught J Moore"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brind">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Prior">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="John Moore" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="0" runs="24" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="6.2" maidens="0" runs="23" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

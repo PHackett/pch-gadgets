@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Amersham Hill" date="Sun Sep 14 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       Another Sunday, another day of the most perfect weather imaginable! What a Glorious summer we have
+      had. If this is global warming, <em>bring it on!</em> 
+      <p>
+       Twyford travelled to
+      Amersham Hill and were sent in to bowl by the hosts. As the visitors surveyed the excellent pitch,
+      the parched outfield, and the short boundaries, they were thinking that this session in the field
+      was going to be a long one! 
+      <p>
+       And the manner in which Amersham raced away at the
+      start did not give them cause for much hope. Despite some tight bowling from the openers Hackett &
+      Beamish, the total mounted fast with aggressive strokeplay from the hosts, and three dropped catches
+      in quick succession. But Amersham were not to have it all their own way. Hackett struck in the
+      7<sup>th</sup> over dismissing Headley, and two wickets from Morris had Amersham Hill at 90-3. But
+      Amersham were just getting going. The next three wickets saw 119 added to the total before Twyford
+      were able to slow (Not stop) the advance. S Bournes was especially effective reaching 84 before a
+      close LBW decision saw him head back to the pavilion. The final total of 220 declared was good, but
+      on this pitch would it be enough? 
+      <p>
+       Attacking bowling was the order of the day from
+      Amersham, but Twyford's openers were equal to the challenge! 55 was added before the first wicket
+      fell, and 144 was on the scoreboard by the time of the 3<sup>rd</sup> wicket, all the low order
+      batsmen having acquitted themselves with panache. N Downes and Wren were both just shy of 50 before
+      they fell, and Seymore pulled often to square leg with great style. With the score at 168-5, Twyford
+      could sense victory within their sights, but as wickets kept falling regularly, the end was getting
+      tense. But Morris, in only his second game of the season, held firm and saw the visitors home in the
+      38<sup>th</sup> over, admittedly quite a few more than our generous hosts had taken themselves. 
+   
+        <p>
+       An almost perfect day, made especially pleasant by the 10 highly sporting and friendly
+      players that were Twyford's hosts! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Amersham Hill">
+    <Batsman name="S Hamilton">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="E Headley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Bournes">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="R Headley">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Athlee">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="J Stevens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Kewell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Cave">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Cave">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Duffy"/>
+    <Batsman name="J Bournes"/>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="35"/>
+    <FallOfWicket batsman="1" score="87"/>
+    <FallOfWicket batsman="4" score="90"/>
+    <FallOfWicket batsman="5" score="126"/>
+    <FallOfWicket batsman="6" score="173"/>
+    <FallOfWicket batsman="7" score="209"/>
+    <FallOfWicket batsman="3" score="215"/>
+    <FallOfWicket batsman="8" score="219"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="2" runs="66" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="5" maidens="0" runs="56" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="2" runs="18" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="T Kewell"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Bournes"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="C Cave"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="C Cave"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="55"/>
+    <FallOfWicket batsman="2" score="87"/>
+    <FallOfWicket batsman="4" score="144"/>
+    <FallOfWicket batsman="3" score="152"/>
+    <FallOfWicket batsman="6" score="168"/>
+    <FallOfWicket batsman="7" score="178"/>
+    <FallOfWicket batsman="5" score="207"/>
+    <FallOfWicket batsman="9" score="220"/>
+    <BowlerSummary name="J Stevens" overs="10.1" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="T Kewell" overs="10" maidens="0" runs="55" wickets="1"/>
+    <BowlerSummary name="S Bournes" overs="5" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="J Bournes" overs="5" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="J Duffy" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="C Cave" overs="3" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="E Headley" overs="3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:48 UTC+0100 2010 -->
+<CricketMatch oppo="Binfield" date="Sat Aug 11 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       Twyford secured only their third win of the season this Saturday against a much weakened Binfield
+      side. Twyford could only boast nine men as Neall mysteriously was absent and dispite many calls an
+      eleventh player could not be found. Binfield too had had their troubles recently and had thrown out
+      the prolific Kendrick due to a schoolboy tantrum. They also had key players missing and were a
+      completely different side to the one that was third in the league. After winning the toss the
+      Binfield skipper chose to bowl, hoping that a low score would be easy to chase. This was not the
+      case however as Connor (82*) looked superb right from the start. He played with more confidence than
+      previously seen and hit the ball very hard at exactly the right times. After the loss of Kemp (2),
+      Hobson (31) came to the wicket and added 59 with Connor before playing a lazy shot and being bowled.
+      This brought Tom Hall to the wicket for his first innings in league cricket for Twyford and he soon
+      found his feet with some powerfully hit shots including a six over mid-on. He added 78 for the
+      fourth wicket and was bowled just short of fifty on 45. From then on two cameo innings from Jackson
+      (30) and Downes (24) boosted the total to 231. Connor played right the way through for his highest
+      score of the season while Jackson was at his beligerant best, even hitting a huge six over the
+      pavilion. The total looked unattainable for the weak Binfield side but Twyford knew that they would
+      still need to bowl well to get the much needed points to stave off relegation. 
+      <p>
+       As
+      the week before the breakthrough came in the first over from Jackson as the pace seemed to be too
+      much and the ball passed unchallenged onto the stumps. This brought Firth to the wicket who seemed
+      to possess all the Binfield cricketing ability and proceeded to hit some excellent shots into the
+      many gaps that were there. Jackson continued claiming the wickets, with help from a superb catch by
+      Connor, while Downes provided the support at the other end. With Binfield on 70-4 off 17 overs the
+      medium pace of Hobson was introduced, well Alex Neall wasn't available so there! He was accurate and
+      this paid off when some marvellous fielding from Connor and a quick shout from Hobson resulted in
+      Wright being run out. This seemed to signal the end as Jackson struck again for his fifth shortly
+      after and only York could keep out the bowling. Further bowling changes resulted in Downes bowling
+      the opposition captain and Jackson claiming a sixth victim and then Noel Downes was introduced. He
+      bowled a tidy spell, so different from the week before, and the only ball that was dropped short was
+      hooked into the waiting hands of Connor to bring Twyford the full thirty points from a game that
+      looked much tougher only a few days ago.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hugh Connor">
+      <HowOut how="Not Out"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Warren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Goddard"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Firth"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Andrew Jackson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Goddard"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Goddard"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Warren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="LBW"/>
+      <Bowler name="Goddard"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Goddard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Warren" overs="12" maidens="1" runs="62" wickets="1"/>
+    <BowlerSummary name="Ennis" overs="7" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Goddard" overs="16" maidens="2" runs="71" wickets="5"/>
+    <BowlerSummary name="Firth" overs="10" maidens="0" runs="49" wickets="1"/>
+  </Innings>
+  <Innings batting="Binfield">
+    <Batsman name="Symcox">
+      <HowOut how="Caught G Kemp"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Canty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Firth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Wright">
+      <HowOut how="Run Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Ennis">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M York">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="N Moore">
+      <HowOut how="Caught H Connor"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andrew Jackson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Goddard">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Warren">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Andrew Jackson" overs="15" maidens="2" runs="66" wickets="6"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Richard Hobson" overs="4" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="4.2" maidens="3" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

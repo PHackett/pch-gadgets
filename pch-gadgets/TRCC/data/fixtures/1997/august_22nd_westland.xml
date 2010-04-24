@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:43 UTC+0100 2010 -->
+<CricketMatch oppo="Westland" date="Fri Aug 22 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Westland">
+    <Batsman name="M Walker">
+      <HowOut how="Run Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="A Cox">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="P Hopcroft">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="A Ebbs">
+      <HowOut how="Not Out"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="M Almond">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Wood">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Boulton">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="0" runs="68" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="9" maidens="0" runs="65" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="2" runs="89" wickets="0"/>
+    <BowlerSummary name="Rod Edney" overs="11" maidens="0" runs="72" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="A Cox"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="M Boulton"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="I Hardcastle">
+      <HowOut how="Caught"/>
+      <Bowler name="Whorwood"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="N Wood"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="M Boulton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="M Hardcastle" overs="8" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="D Cox" overs="9" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="Whorwood" overs="7" maidens="1" runs="46" wickets="1"/>
+    <BowlerSummary name="M Curtis" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="N Wood" overs="2" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="M Boulton" overs="4" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="M Almond" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="P Hopcroft" overs="0.2" maidens="0" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

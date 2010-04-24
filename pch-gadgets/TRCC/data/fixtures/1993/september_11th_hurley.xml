@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:52 UTC+0100 2010 -->
+<CricketMatch oppo="Hurley" date="Sat Sep 11 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="D Forrest"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Forrest"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mike Choules">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sudiqui"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="James Hollidge">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Forrest"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sudiqui"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sudiqui"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="R Meade"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="18"/>
+    <BowlerSummary name="R Woodage" overs="8" maidens="3" runs="6" wickets="0"/>
+    <BowlerSummary name="D Atkins" overs="11" maidens="4" runs="23" wickets="0"/>
+    <BowlerSummary name="J Lee" overs="6" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="D Forrest" overs="13" maidens="3" runs="40" wickets="3"/>
+    <BowlerSummary name="S Sudiqui" overs="11" maidens="4" runs="26" wickets="3"/>
+    <BowlerSummary name="R Meade" overs="2" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+  <Innings batting="Hurley">
+    <Batsman name="Simoes">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Sudiqui">
+      <HowOut how="Caught C Taylor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="S Grerne">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Forrest">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Atkins">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Lee">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="R Woodage"/>
+    <Batsman name="S Forrest"/>
+    <Batsman name="R Meade"/>
+    <Batsman name="McGrown"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Robin Reynolds" overs="9.5" maidens="4" runs="29" wickets="0"/>
+    <BowlerSummary name="Ian Helmore" overs="7" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Chris Taylor" overs="11" maidens="2" runs="24" wickets="0"/>
+    <BowlerSummary name="Jack Hollidge" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

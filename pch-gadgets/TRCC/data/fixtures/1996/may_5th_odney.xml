@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:30 UTC+0100 2010 -->
+<CricketMatch oppo="Odney" date="Sun May 5 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Odney">
+    <Batsman name="Deane">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Francis">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Steel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Sones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nunn">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Charles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Davie">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dickie">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Leach">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Herzog"/>
+    <Extras value="19"/>
+    <BowlerSummary name="Stewart Wren" overs="11" maidens="3" runs="32" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="58" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="14" maidens="3" runs="41" wickets="7"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="0" runs="37" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nunn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Davie"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dickie"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steel"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dickie"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nunn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Nunn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Dickie"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Nunn" overs="12.1" maidens="6" runs="18" wickets="3"/>
+    <BowlerSummary name="Dickie" overs="15" maidens="0" runs="57" wickets="4"/>
+    <BowlerSummary name="Steel" overs="5" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Davie" overs="7" maidens="0" runs="45" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

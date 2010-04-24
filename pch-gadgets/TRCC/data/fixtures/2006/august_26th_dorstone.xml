@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="Dorstone" date="Sat Aug 26 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Parker"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Beaton"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="Beaton"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Caught"/>
+      <Bowler name="T Parker"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Warn"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Hill">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="A Hawkins"/>
+    <Batsman name="Jas Lally"/>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="50"/>
+    <FallOfWicket batsman="3" score="82"/>
+    <FallOfWicket batsman="2" score="94"/>
+    <FallOfWicket batsman="4" score="266"/>
+    <FallOfWicket batsman="6" score="286"/>
+    <FallOfWicket batsman="7" score="287"/>
+    <BowlerSummary name="Parker" overs="8" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Beaton" overs="8" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Goodwin" overs="7" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Garrard" overs="8" maidens="0" runs="57" wickets="0"/>
+    <BowlerSummary name="Tilly Parker" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Warn" overs="4" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="T Parker" overs="2" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Dorstone">
+    <Batsman name="I Beaton">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="A Hawkins"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Goodwin">
+      <HowOut how="Caught A Hawkins"/>
+      <Bowler name="Peter Hill"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="L Warn">
+      <HowOut how="Caught Peter Hill"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="S Turner">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Garrard">
+      <HowOut how="Caught Peter Hill"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tilly Parker">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Parker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="D Lawson">
+      <HowOut how="Caught Tom Hall"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Murphy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jas Lally"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Platford">
+      <HowOut how="LBW"/>
+      <Bowler name="Peter Hill"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="A Hawkins" overs="8" maidens="1" runs="52" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Peter Hill" overs="9" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Luke Fuller" overs="4" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Jas Lally" overs="3" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

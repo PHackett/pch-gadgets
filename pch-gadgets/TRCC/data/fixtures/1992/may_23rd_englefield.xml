@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:36 UTC+0100 2010 -->
+<CricketMatch oppo="Englefield" date="Sat May 23 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harding"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Egan"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="White"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="D Smith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="White"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught"/>
+      <Bowler name="Egan"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Preston"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Egan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Stumped"/>
+      <Bowler name="Preston"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Egan" overs="12" maidens="2" runs="30" wickets="3"/>
+    <BowlerSummary name="J Smith" overs="8" maidens="2" runs="25" wickets="0"/>
+    <BowlerSummary name="Dickinson" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Harding" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="D Smith" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="White" overs="4" maidens="0" runs="13" wickets="2"/>
+    <BowlerSummary name="Preston" overs="4.4" maidens="1" runs="15" wickets="2"/>
+  </Innings>
+  <Innings batting="Englefield">
+    <Batsman name="R White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="P Harding">
+      <HowOut how="Caught S Abraham"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Burton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="J Smith">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Egan">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Griffith">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ward"/>
+    <Batsman name="Roke"/>
+    <Batsman name="Dixon"/>
+    <Batsman name="D Smith"/>
+    <Batsman name="Preston"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Barry Potier" overs="6" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="9.1" maidens="1" runs="48" wickets="3"/>
+    <BowlerSummary name="Jack Hollidge" overs="7" maidens="1" runs="31" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

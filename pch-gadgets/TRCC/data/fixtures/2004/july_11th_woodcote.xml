@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:33 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 11 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       A threatening overcast day, very ugly for mid-July, saw Twyford make the journey to Woodcote on the
+      weekend of the Woodcote steam rally (The bowling was interrupted for &quot;Biplanes doing aerobatic
+      stunts behind the bowlers arm&quot;! 
+      <p>
+       Woodcote began batting, and immediately
+      demonstrated that they intended to score at a rate, with Topham hitting the biggest six that I, the
+      unfortunate bowler, had ever seen, off only the second ball of the innings. Woodcote tried to
+      continue in the same vein, but Twyford's openers were putting the ball on the spot with the
+      inevitable result that wickets began to fall. After 18 overs the home team had been reduced to 52
+      for 4, and Twyford were feeling on top of the game. But Woodcote had depth of batting, and were
+      going to show it in a forthright manner! Both Lloyd and Warfield scored 48 each, and Knot hit a
+      superb 94. At the end of the innings, Woodcote's final total of 245 looked very daunting. 
+     
+      <p>
+       Twyford began at a fine lick, seeming at ease with the pacy Woodcote attack. But things
+      were not to go the batting side's way. 3 consecutive overs saw 3 wickets fall, and from then on the
+      run rate never threatened the Woodcote total. Indeed, wickets kept falling cheaply, and when the 20
+      overs countdown began, Twyford were in dire straits at 68 for 6. Twyford lost two more wickets, but
+      then Dunsford and Walkland dug in, refusing to budge. For 15 overs they held out, Dunsford finishing
+      on 46 and Walkland 25 - Twyford has achieved an unexpected, and perhaps somewhat undeserved draw. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="R Topham">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="C Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Lloyd">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="D Povey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Knot">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="G Povey">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Warfield">
+      <HowOut how="Caught Alex Neall"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="P Jennings">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="F Dillon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Fuller">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="2" runs="32" wickets="2"/>
+    <BowlerSummary name="Steve Walkland" overs="15" maidens="2" runs="83" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="4" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="6.3" maidens="1" runs="33" wickets="4"/>
+    <BowlerSummary name="Chris Evans" overs="1" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Topham"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Knot"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Topham"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Knot"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Topham"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="David Russell">
+      <HowOut how="LBW"/>
+      <Bowler name="P Knot"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Jennings"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Caught"/>
+      <Bowler name="D Povey"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="4" score="60"/>
+    <FallOfWicket batsman="5" score="60"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <FallOfWicket batsman="8" score="74"/>
+    <FallOfWicket batsman="9" score="84"/>
+    <BowlerSummary name="R Topham" overs="11" maidens="0" runs="51" wickets="3"/>
+    <BowlerSummary name="P Knot" overs="10" maidens="4" runs="17" wickets="3"/>
+    <BowlerSummary name="D Povey" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="P Jennings" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="J Aldridge" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="C Anderson" overs="3" maidens="1" runs="4" wickets="0"/>
+    <BowlerSummary name="J Warfield" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

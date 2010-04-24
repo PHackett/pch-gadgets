@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:18 UTC+0100 2010 -->
+<CricketMatch oppo="Niton" date="Sun Aug 27 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Bateman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="T Bateman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Freestone"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Freestone"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="T Bateman"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Hardy"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Paul Siddell"/>
+    <Batsman name="Mark Lawrence"/>
+    <Extras value="22"/>
+    <BowlerSummary name="T Bateman" overs="13" maidens="1" runs="45" wickets="3"/>
+    <BowlerSummary name="C Freestone" overs="8" maidens="3" runs="21" wickets="2"/>
+    <BowlerSummary name="G Willis" overs="7" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="R Hardy" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="R Harry" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="M Harry" overs="2" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+  <Innings batting="Niton">
+    <Batsman name="R Parry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="G Wells">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="C Freestone">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="C Peach">
+      <HowOut how="Caught B Potier"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Flowers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Siddell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Fairman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Bateman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Peach">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="M Parry">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Barry Potier" overs="8" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Paul Siddell" overs="12" maidens="6" runs="19" wickets="3"/>
+    <BowlerSummary name="Mark Lawrence" overs="12" maidens="0" runs="62" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

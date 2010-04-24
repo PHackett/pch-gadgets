@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:01 UTC+0100 2010 -->
+<CricketMatch oppo="Newbury 3rds" date="Sat Aug 26 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Digweed"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="J Antmann"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Mulley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Mulley"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Antmann"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Jones"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught"/>
+      <Bowler name="D Jones"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Caught"/>
+      <Bowler name="M Digweed"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Gregory"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Gregory"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="40"/>
+    <FallOfWicket batsman="2" score="57"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <FallOfWicket batsman="7" score="144"/>
+    <FallOfWicket batsman="9" score="150"/>
+    <FallOfWicket batsman="10" score="157"/>
+    <FallOfWicket batsman="11" score="157"/>
+    <BowlerSummary name="M Digweed" overs="11" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="J Antmann" overs="15" maidens="3" runs="48" wickets="2"/>
+    <BowlerSummary name="J Mulley" overs="6" maidens="0" runs="43" wickets="2"/>
+    <BowlerSummary name="D Jones" overs="3" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="S Gregory" overs="3.4" maidens="0" runs="18" wickets="2"/>
+  </Innings>
+  <Innings batting="Newbury 3rds">
+    <Batsman name="S Gregory">
+      <HowOut how="Caught Josh Baker"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="R Hennis">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="K Prescott">
+      <HowOut how="Caught George Nunn"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Antmann">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="T Hughes">
+      <HowOut how="Caught George Nunn"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Gregory">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Extras value="32"/>
+    <BowlerSummary name="Tim Cooper" overs="10" maidens="1" runs="46" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="6" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="George Nunn" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="0.3" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow" date="Sun Sep 7 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       Slipping into September, but still a warm, pleasant day, Twyford were put in the field by the hosts
+      Bledlow. This quickly looked like a costly mistake as Twyford took the first two wickets before a
+      run was scored. Khan came in and steadied the batting side, but accurate bowling from the openers
+      Hackett and Beamish saw wickets continue to fall, leaving the home side at 56-6 by the and of their
+      spells. More was to follow, as D Evans' first ball dismissed Ish, and Bledlow were soon reeling at
+      63-8. 
+      <p>
+       But Bledlow had obviously been studying South Africa's recent performances,
+      and with the tail wagging strongly the last two wickets saw 59 runs added, with fine performances
+      from Zak, Spooner and Taylor. 
+      <p>
+       Twyford thought the target easily attainable, but
+      were soon in for a shock as they faced probably the tightest bowling attack they had seen all year.
+      Hardly a loose ball was bowled, and this bore fruit early with Mould dismissing D Downes with the
+      score on 5. The accuracy of the attack was even more frustrating for his brother, Twyford's Captain
+      N Downes, who after some 25 minutes at the crease was out for 0. The visitors middle order then
+      collapsed, relieved only by some aggressive strokes from J Fort, and were at one point 40-6. 
+     
+      <p>
+       But just when an ignominious defeat seemed on the cards, Twyford's tail too decided to
+      wag! Cochrane put on a steady 24, assisted by first Beamish and then Hackett. The score crept slowly
+      ever onward to the target, but Bledlow's bowling did not falter, the last wicket falling with
+      Twyford a mere 8 runs short of victory. All Bledlow's bowlers bowled well, but special mention must
+      go to Khan who ended with 4 wickets for only 3 runs. 
+      <p>
+       An exiting end to a fine game
+      against very friendly opposition at a beautiful ground, complete with a steam train passing the
+      boundary every hour or so! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Bledlow">
+    <Batsman name="A Mould">
+      <HowOut how="Caught Drew Evans"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Zinkus">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Chapman">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="W Khan">
+      <HowOut how="Caught Tom Hall"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="C Cadet">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Chapman">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Moore">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Zak">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Spooner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="7" score="56"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="8" score="63"/>
+    <FallOfWicket batsman="10" score="97"/>
+    <FallOfWicket batsman="9" score="122"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="4" runs="25" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="Drew Evans" overs="6" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="5.5" maidens="1" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Mould"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="B Moore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="W Khan"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Spooner"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Khan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Ish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="W Khan"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Spooner"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="J Spooner"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="6" score="36"/>
+    <FallOfWicket batsman="7" score="40"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="9" score="69"/>
+    <FallOfWicket batsman="10" score="99"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <BowlerSummary name="J Spooner" overs="12" maidens="7" runs="17" wickets="3"/>
+    <BowlerSummary name="A Mould" overs="9" maidens="3" runs="17" wickets="1"/>
+    <BowlerSummary name="B Moore" overs="7" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="W Khan" overs="4.2" maidens="3" runs="3" wickets="4"/>
+    <BowlerSummary name="D Chapman" overs="3" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Ish" overs="4" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="J Zinkus" overs="4" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

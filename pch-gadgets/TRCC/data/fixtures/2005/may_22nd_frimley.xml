@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:46 UTC+0100 2010 -->
+<CricketMatch oppo="Frimley" date="Sun May 22 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       Frimly batted first, and were immediately struggling. Walkland bowled a fantastic spell taking 4
+      for 41 off 16 overs. Hardwich and Middleton fought back, and managed to steer the home side to 169
+      for 6. 
+      <p>
+       Twyford then set about the Frimly bowling with glee, ans comfortably won by
+      9 wickets, with T Fort and P Woodman both not out on 84 and 73 respectively. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Frimley">
+    <Batsman name="Bunting">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Mayward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Marshall">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Durham">
+      <HowOut how="LBW"/>
+      <Bowler name="Alistair Benson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hardwich">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Middleton">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Wildsmith">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tab"/>
+    <Batsman name="Ditmsole"/>
+    <Batsman name="D Cornell"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="7" score="144"/>
+    <BowlerSummary name="Steve Beamish" overs="13" maidens="1" runs="60" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="16" maidens="5" runs="41" wickets="4"/>
+    <BowlerSummary name="Alistair Benson" overs="7" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="1" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Middleton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Alistair Benson"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Walkland"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <BowlerSummary name="Tab" overs="6" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Middleton" overs="8" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="Wildsmith" overs="14" maidens="5" runs="36" wickets="0"/>
+    <BowlerSummary name="Marshall" overs="5" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Durham" overs="8" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="D Cornell" overs="1.1" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:16 UTC+0100 2010 -->
+<CricketMatch oppo="Sandhurst" date="Sun Aug 17 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       <b>Twyford cruise to victory</b> 
+      <p>
+       The recent scorching temperatures abated
+      somewhat this weekend, and there was some cloud cover, but still a delightful afternoon for cricket
+      as Twyford welcomed Sandhurst to their ground. Winning the toss, captain Nic Downes put Sandhurst
+      into bat on a parched wicket. 
+      <p>
+       Sandhurst began quickly, scoring at 4 runs per over,
+      aided by an outfield that had not seen rain for over a month, reducing fielding task to that of
+      retrieving the ball once it had crossed the line for 4. But Twyford's bowlers held to their task,
+      with Abraham claiming first blood in the 6<sup>th</sup> over, dismissing Bartlett for 14. Three
+      overs later Speakman was caught behind off a sharply rising ball from Hackett, sportingly walking
+      with the faintest of touches that the Umpire did not hear! Thereafter, wickets fell regularly, only
+      the opening pair, Costenbys and extras reaching double figures. 
+      <p>
+       In reply, Twyford
+      powered to 39 before the first wicket. Both N Downes and T Fort sent the ball to the boundary with
+      regularity before being dismissed for 36 and 28 respectively. The wining runs from Benjamin coming
+      in the 24<sup>th</sup>over. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Sandhurst">
+    <Batsman name="P Bartlett">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Loxton">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="K Speakman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Felts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Birch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Baloch">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Costenbys">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="R Whitock">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Taulbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Coxwell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="38"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="7" score="63"/>
+    <FallOfWicket batsman="8" score="64"/>
+    <FallOfWicket batsman="2" score="83"/>
+    <FallOfWicket batsman="9" score="90"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="7" maidens="2" runs="21" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="5" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="0.5" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="S Coxwell"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Coxwell"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Costenbys"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Drew Evans"/>
+    <Batsman name="Alex Neall"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <FallOfWicket batsman="2" score="82"/>
+    <BowlerSummary name="N Taulbert" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="S Coxwell" overs="8" maidens="2" runs="23" wickets="2"/>
+    <BowlerSummary name="E Baloch" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="R Costenbys" overs="4" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="S Loxton" overs="1.1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

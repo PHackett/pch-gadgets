@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:43 UTC+0100 2010 -->
+<CricketMatch oppo="Sandhurst" date="Sun Jun 29 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sandhurst">
+    <Batsman name="M Pharo">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="C Pharo">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="A Shallom">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="D Bridges">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Crane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S James">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="G Johnson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Coxwell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Dickinson">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Malyon">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Roffey">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="5" runs="31" wickets="3"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Dave Searby" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="4" runs="8" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="5" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="11" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Roffey"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Dickinson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Malyon"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="S Coxwell"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Dave Searby">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="14"/>
+    <BowlerSummary name="J Dickinson" overs="7" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="J Roffey" overs="5" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="S Coxwell" overs="14.1" maidens="2" runs="42" wickets="1"/>
+    <BowlerSummary name="R Malyon" overs="7" maidens="4" runs="8" wickets="1"/>
+    <BowlerSummary name="A Shallom" overs="6" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="M Pharo" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

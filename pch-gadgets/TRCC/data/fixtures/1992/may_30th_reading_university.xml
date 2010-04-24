@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:36 UTC+0100 2010 -->
+<CricketMatch oppo="Reading University" date="Sat May 30 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="Duff"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ashman"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Lyons"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Webster"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Lyons"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Saieed"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="LBW"/>
+      <Bowler name="Duff"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="15"/>
+    <BowlerSummary name="Duff" overs="10" maidens="3" runs="26" wickets="2"/>
+    <BowlerSummary name="Morecroft" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Ashman" overs="17" maidens="2" runs="61" wickets="1"/>
+    <BowlerSummary name="Webster" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Lyons" overs="6" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Saieed" overs="6" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading University">
+    <Batsman name="Weymouth-Wilson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Loader">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Duff">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Khtar">
+      <HowOut how="LBW"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Guy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Webster">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hoddinott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Bryant">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Biddiss">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thornecroft"/>
+    <Batsman name="Ashman"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Steve Abraham" overs="11" maidens="5" runs="18" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="11" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Jack Hollidge" overs="11" maidens="1" runs="43" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="4" maidens="1" runs="40" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

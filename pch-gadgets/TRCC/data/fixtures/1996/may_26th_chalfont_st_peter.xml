@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:30 UTC+0100 2010 -->
+<CricketMatch oppo="Chalfont St Peter" date="Sun May 26 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chalfont St Peter">
+    <Batsman name="Gooch">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="James Fort"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Everett">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Pelham">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Cooper">
+      <HowOut how="Caught P Dawson"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Glen">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Heath">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Thornton">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Peter Dawson" overs="17" maidens="4" runs="40" wickets="2"/>
+    <BowlerSummary name="Matt Morris" overs="11" maidens="2" runs="38" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="11" maidens="0" runs="49" wickets="4"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Heath"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Green"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Green"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Cooper"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Peter Dawson"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Green" overs="17" maidens="1" runs="49" wickets="2"/>
+    <BowlerSummary name="Heath" overs="12" maidens="0" runs="65" wickets="1"/>
+    <BowlerSummary name="Cooper" overs="9" maidens="0" runs="38" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow" date="Sun Sep 4 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       A beautiful late summer's day, verging on the hot and with high humidity, greeted Twyford as they
+      travelled far afield to Bledlow. 
+      <p>
+       Winning the toss, Bledlow placed the visitors in
+      to bat the heat and mugginess. The bowling was tricky to get away, and the runs mounted slowly. But
+      despite a couple of wickets, there was no rout, and Twyford's confidence grew. Ken Cochrane once
+      again shone with an excellent 66, ably supported by Downes and the tail. 45 overs in total - The
+      final total of 201 looked good, but not unreachable. 
+      <p>
+       Bledlow's innings began
+      steadily, but they were pegged back by tight bowling from the openers. A run-out in the fifth over,
+      followed by 3 quick wickets from Hackett left the home side reeling at 42 for 4. Opener Zinkus kept
+      piling on the runs, but there was little support from the rest of Bledlow. At 103 for 6, Twyford
+      were confident they were not going to lose. The tail were dogged and difficult to dismiss, but the
+      end was never in any real doubt. Beamish took the final wicket, ending up with 4-41, bring Twyford's
+      Sunday side its 10<sup>th</sup> straight victory - A club record. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Linnell"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saunders"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Linnell"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="T More"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Paul Dunsford">
+      <HowOut how="LBW"/>
+      <Bowler name="T More"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Walker"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chapman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="1" score="83"/>
+    <FallOfWicket batsman="5" score="126"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="4" score="170"/>
+    <FallOfWicket batsman="7" score="170"/>
+    <BowlerSummary name="Saunders" overs="6" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Chapman" overs="7" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Linnell" overs="12" maidens="2" runs="49" wickets="2"/>
+    <BowlerSummary name="Whitney" overs="10" maidens="2" runs="37" wickets="0"/>
+    <BowlerSummary name="T More" overs="7" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="T Walker" overs="3" maidens="1" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Bledlow">
+    <Batsman name="J Zinkus">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="C Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="C Howe">
+      <HowOut how="Caught Alex Neall"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Shirley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Shirley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Whitney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="N Linnell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Chapman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Saunders">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T More">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="5" score="42"/>
+    <FallOfWicket batsman="6" score="72"/>
+    <FallOfWicket batsman="1" score="102"/>
+    <FallOfWicket batsman="8" score="123"/>
+    <FallOfWicket batsman="9" score="131"/>
+    <FallOfWicket batsman="7" score="137"/>
+    <FallOfWicket batsman="11" score="151"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="27" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="9.3" maidens="0" runs="41" wickets="4"/>
+    <BowlerSummary name="Alex Neall" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="21" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

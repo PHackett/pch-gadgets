@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:05 UTC+0100 2010 -->
+<CricketMatch oppo="Wootcote" date="Sun Sep 11 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="G Armstrong"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="D Willis"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="T Gardiner"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Willis"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Chris Taylor"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="James Hollidge"/>
+    <Extras value="13"/>
+    <BowlerSummary name="G Armstrong" overs="13" maidens="2" runs="40" wickets="1"/>
+    <BowlerSummary name="T Gardiner" overs="15" maidens="3" runs="48" wickets="1"/>
+    <BowlerSummary name="D Willis" overs="10" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="J Sawyer" overs="7" maidens="1" runs="37" wickets="0"/>
+  </Innings>
+  <Innings batting="Wootcote">
+    <Batsman name="C Anderson">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="I Dickins">
+      <HowOut how="Caught M Lawrence"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Heale">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="A Waters">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Taylor"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="S Higley">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Willis">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Gardiner">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Sawyer">
+      <HowOut how="Caught M Taylor"/>
+      <Bowler name="James Hollidge"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Armstrong">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="David Downes" overs="7.3" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="4" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="James Hollidge" overs="13" maidens="0" runs="68" wickets="2"/>
+    <BowlerSummary name="Chris Taylor" overs="5" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="16" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:33 UTC+0100 2010 -->
+<CricketMatch oppo="Lower Earley" date="Sun Apr 26 00:00:00 UTC+0100 1992">
+  <MatchReport>
+    <![CDATA[
+       One of the few games I remember clearly. It was an absolutely stinking day, and one of the worst
+      tracks we had ever played on. I clearly recall David Downes saying to me as he walked back to begin
+      his third over "This is not going to be my day, I can just feel it ...."<br><br> And the rest, as
+      they say, is history
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Lower Earley">
+    <Batsman name="S Maynard">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Rowlands">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Lodge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Lowery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Saunders">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Allen">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Swanton">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Wadkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Carson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Mackenzie">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="4" runs="7" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="7.5" maidens="2" runs="17" wickets="7"/>
+    <BowlerSummary name="Stewart Wren" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="S Carson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Graham Kemp"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="6"/>
+    <BowlerSummary name="P Jackson" overs="3" maidens="1" runs="7" wickets="0"/>
+    <BowlerSummary name="M Mackenzie" overs="2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="S Carson" overs="2" maidens="0" runs="3" wickets="1"/>
+    <BowlerSummary name="M Wadkins" overs="2" maidens="1" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:31 UTC+0100 2010 -->
+<CricketMatch oppo="Hambleden" date="Sun Aug 4 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Arnold"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Arnold"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="LBW"/>
+      <Bowler name="T Wooliams"/>
+      <Runs value="96"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance"/>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Richard Fort"/>
+    <Extras value="14"/>
+    <BowlerSummary name="T Wooliams" overs="12" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="T Evans" overs="9" maidens="1" runs="54" wickets="0"/>
+    <BowlerSummary name="N Arnold" overs="16" maidens="1" runs="83" wickets="2"/>
+    <BowlerSummary name="P Anderson" overs="7" maidens="0" runs="45" wickets="0"/>
+  </Innings>
+  <Innings batting="Hambleden">
+    <Batsman name="T Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="K Thompson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="P Rutland">
+      <HowOut how="LBW"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Scarbrow">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="James Fort"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="M Munton">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="T Wooliams">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P Anderson">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Miller">
+      <HowOut how="Caught P Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Arnold">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Pearce">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Peter Dawson" overs="11" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="9" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="2" runs="61" wickets="6"/>
+    <BowlerSummary name="James Fort" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="4" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

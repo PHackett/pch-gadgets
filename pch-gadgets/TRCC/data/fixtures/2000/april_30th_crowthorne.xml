@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:33 UTC+0100 2010 -->
+<CricketMatch oppo="Crowthorne" date="Sun Apr 30 00:00:00 UTC+0100 2000">
+  <MatchReport>
+    <![CDATA[
+       With the first ball for TRCC of the new millenium (Saturday was rained off) Paul Hackett took a
+      wicket! Surely they will sing of this feat in the halls of Twyford, whenever cricketers gather, for
+      a thousand years!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Crowthorne">
+    <Batsman name="Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chaters">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Elrick">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Martin">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thanji">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Power">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Myan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Cole">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Long">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Gibbins">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Paul Hackett" overs="7.2" maidens="0" runs="11" wickets="5"/>
+    <BowlerSummary name="Steve Abraham" overs="5" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="8" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="Matt Morris" overs="4" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="Long"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Power" overs="6" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Cole" overs="5" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Gibbins" overs="4" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="Long" overs="7" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="Miller" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="S Myan" overs="1.1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

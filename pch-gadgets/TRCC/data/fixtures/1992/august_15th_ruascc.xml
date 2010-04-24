@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:37 UTC+0100 2010 -->
+<CricketMatch oppo="RUASCC" date="Sat Aug 15 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="RUASCC">
+    <Batsman name="Sewell">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Dobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Loader">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Duff">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Gilnfany">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Eagle">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Guy">
+      <HowOut how="Caught A Wilkinson"/>
+      <Bowler name="Dave Crawford"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Trantor">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Dave Crawford"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ashman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave Crawford"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Wiggins">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Biddiss">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Ken Cochrane" overs="14" maidens="5" runs="29" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="7.5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Dave Crawford" overs="6" maidens="3" runs="18" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dobson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="Biddiss"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Ashman"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="K Crawford">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Wikinson">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Dave Crawford"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Wiggins" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Biddiss" overs="9" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Duff" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Dobson" overs="7.2" maidens="3" runs="17" wickets="1"/>
+    <BowlerSummary name="Trantor" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Ashman" overs="4" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

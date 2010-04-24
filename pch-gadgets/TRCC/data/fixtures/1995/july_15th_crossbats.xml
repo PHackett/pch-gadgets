@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:19 UTC+0100 2010 -->
+<CricketMatch oppo="Crossbats" date="Sat Jul 15 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crossbats">
+    <Batsman name="Gladstone">
+      <HowOut how="Caught Barry Potier"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="J Davis">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="S Davis">
+      <HowOut how="Caught Graham Kemp"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Newby">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Clayton">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Punnett">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Glover">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tredway"/>
+    <Batsman name="Limmer"/>
+    <Batsman name="Tetley"/>
+    <Batsman name="Harris"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="1" score="118"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="6" score="127"/>
+    <BowlerSummary name="Barry Potier" overs="16" maidens="7" runs="38" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="3" runs="30" wickets="2"/>
+    <BowlerSummary name="David Taylor" overs="7" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="9" maidens="0" runs="35" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="J Punnett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clayton"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Punnett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Paul Fox">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Davis"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Punnett"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="J Davis"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Davis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harris"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Caught"/>
+      <Bowler name="Harris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="5" score="70"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="7" score="95"/>
+    <FallOfWicket batsman="6" score="98"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <FallOfWicket batsman="10" score="108"/>
+    <BowlerSummary name="P Clayton" overs="12" maidens="3" runs="35" wickets="1"/>
+    <BowlerSummary name="J Punnett" overs="12" maidens="2" runs="44" wickets="3"/>
+    <BowlerSummary name="Harris" overs="5" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="B Glover" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="J Davis" overs="3" maidens="0" runs="7" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

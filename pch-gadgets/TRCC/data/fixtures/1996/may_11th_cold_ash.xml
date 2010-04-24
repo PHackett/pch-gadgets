@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:32 UTC+0100 2010 -->
+<CricketMatch oppo="Cold Ash" date="Sat May 11 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cold Ash">
+    <Batsman name="A How">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D How">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Little">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Cook">
+      <HowOut how="Caught Steve Clark"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Morgan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Burrows">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Evans">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Mills">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Belding">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Webster">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="12" maidens="4" runs="19" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="5" runs="15" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="2.2" maidens="1" runs="2" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="T Cook"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cook"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="R Little"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="P Morgan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Sharp"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="David Taylor"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="David Downes"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="5" score="31"/>
+    <BowlerSummary name="T Cook" overs="9" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="R Little" overs="7" maidens="5" runs="1" wickets="1"/>
+    <BowlerSummary name="P Morgan" overs="1.4" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

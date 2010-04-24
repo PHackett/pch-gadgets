@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:34 UTC+0100 2010 -->
+<CricketMatch oppo="Peppard" date="Sat Jul 3 00:00:00 UTC+0100 2004">
+  <MatchReport>
+    <![CDATA[
+       On a fair but gusty day Twyford batted first. The opening pair of Seymour and Benjamin looked
+      fairly comfortable against Peppards limited bowling attack until Benjamin flicked to backward square
+      leg and was easily caught. Nic Downes then came to the wicket. After a brief stand Seymour also fell
+      leaving Twyford on 65- 2 which soon became 80-4. At this stage Edney joined Downes at the crease and
+      the two of them started to accumulate the runs. Downes soon got to his 50 but fell shortly
+      afterwards trying to increase the run rate. Meanwhile Edney stayed put and guided the side to 193
+      which looked like a reasonable score on a good pitch. Peedell was the pick of the Peppard bowlers
+      staying on for 20 overs to end with the excellent figures of 6 for 51. 
+      <p>
+       In reply
+      the Peppard batsmen also made the most of the good track and despite some very good bowling from
+      Walkland, who was unlucky not to take a wicket, they never looked in any trouble. They lost their
+      1st wicket (Townsin) on 151 but Bryan and Roberts saw them home comfortably with 2 overs two spare.
+      Bryan finished with a very good undefeated 88. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="G Peedell "/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="G Peedell"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Peedell"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Peedell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Peedell"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Caught"/>
+      <Bowler name="G Peedell"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Chard"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="David Naude">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <BowlerSummary name="G Peedell" overs="20" maidens="3" runs="51" wickets="6"/>
+    <BowlerSummary name="A  Bryan" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Asbey" overs="5" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Jenkins" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="M Chard" overs="3" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Peppard">
+    <Batsman name="A  Bryan">
+      <HowOut how="Not Out"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="D Townsin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="A Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Steve Walkland" overs="13" maidens="2" runs="58" wickets="0"/>
+    <BowlerSummary name="David Naude" overs="6" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="3.1" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Nick Healey" overs="7" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

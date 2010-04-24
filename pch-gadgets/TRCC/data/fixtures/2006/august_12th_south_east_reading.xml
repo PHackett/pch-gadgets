@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:01 UTC+0100 2010 -->
+<CricketMatch oppo="South East Reading" date="Sat Aug 12 00:00:00 UTC+0100 2006">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="South East Reading">
+    <Batsman name="Obada">
+      <HowOut how="Caught Rod Edney"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Z Ali">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="K Ali">
+      <HowOut how="Caught Chris Green"/>
+      <Bowler name="Mark Jones"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Z Abbas">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Shah">
+      <HowOut how="Caught Nathan Eddy"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Shaffi">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="N Khan">
+      <HowOut how="Caught Steve Green"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="M Shakut">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Ali">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Mark Jones" overs="10" maidens="2" runs="37" wickets="4"/>
+    <BowlerSummary name="Steve Green" overs="15" maidens="1" runs="58" wickets="2"/>
+    <BowlerSummary name="Nathan Eddy" overs="7.4" maidens="1" runs="34" wickets="3"/>
+    <BowlerSummary name="Josh Baker" overs="2" maidens="1" runs="4" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="LBW"/>
+      <Bowler name="A Ali"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Ali"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="LBW"/>
+      <Bowler name="M Shakut"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Ali"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chris Green">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="12"/>
+    <FallOfWicket batsman="4" score="35"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="6" score="53"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="8" score="68"/>
+    <FallOfWicket batsman="9" score="90"/>
+    <FallOfWicket batsman="10" score="96"/>
+    <BowlerSummary name="M Shakut" overs="9" maidens="1" runs="30" wickets="6"/>
+    <BowlerSummary name="I Ali" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="A Ali" overs="5.1" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="M Ali" overs="2" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

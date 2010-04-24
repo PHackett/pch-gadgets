@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:05 UTC+0100 2010 -->
+<CricketMatch oppo="Pagham" date="Sun Aug 29 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Pagham">
+    <Batsman name="G Eiloart">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="John Moore"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="V Ward">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Moore"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Millyard">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Dyer">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="M Eade">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="V Eade">
+      <HowOut how="Caught S Abraham"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="W Rozzan">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mark Farrington"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="W Prior">
+      <HowOut how="Caught J Fort"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="B Robson">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Pilbeam"/>
+    <Batsman name="L Finn"/>
+    <Extras value="16"/>
+    <BowlerSummary name="John Moore" overs="11" maidens="3" runs="24" wickets="2"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="4" runs="35" wickets="2"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Mark Farrington" overs="5" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="2" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="L Finn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Prior"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Farrington">
+      <HowOut how="Caught"/>
+      <Bowler name="M Eade"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Eade"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="I Dyer"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="M Eade"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Caught"/>
+      <Bowler name="M Eade"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Finn"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="I Dyer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="L Finn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="L Finn" overs="8.4" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="W Prior" overs="4" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="J Pilbeam" overs="7" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="M Eade" overs="8" maidens="2" runs="34" wickets="4"/>
+    <BowlerSummary name="I Dyer" overs="5" maidens="0" runs="15" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:37 UTC+0100 2010 -->
+<CricketMatch oppo="Denham" date="Sat Sep 12 00:00:00 UTC+0100 1992">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Denham">
+    <Batsman name="S Dodd">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Davenport">
+      <HowOut how="LBW"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="J Richardson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jack Hollidge"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="K Francis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Tidbury">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="S Bull">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Beale">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="B Benjamin">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="D McKintosh">
+      <HowOut how="Caught Andy Wilkinson"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Lawrence"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Dean">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="14" maidens="3" runs="37" wickets="4"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Jack Hollidge" overs="9" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="Wayne Birch" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Mark Lawrence" overs="6" maidens="1" runs="59" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Beale"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D McKintosh"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Lawrence"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D McKintosh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="A Beale"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Wayne Birch">
+      <HowOut how="Caught"/>
+      <Bowler name="K Francis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Caught"/>
+      <Bowler name="K Francis"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Caught"/>
+      <Bowler name="K Francis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Boyd">
+      <HowOut how="LBW"/>
+      <Bowler name="K Francis"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Andy Buchan">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="K Francis"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="A Beale" overs="7" maidens="3" runs="12" wickets="2"/>
+    <BowlerSummary name="D McKintosh" overs="7" maidens="3" runs="27" wickets="2"/>
+    <BowlerSummary name="K Francis" overs="8.1" maidens="4" runs="16" wickets="5"/>
+    <BowlerSummary name="B Benjamin" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="P Lawrence" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="S Tidbury" overs="1" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

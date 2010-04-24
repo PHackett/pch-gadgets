@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Falkland 2nds" date="Sun Jun 29 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       Twyford got off to a good start with Downes and Benjamin putting on 38 for the first wicket. 50-1
+      however soon became 64-5 as the middle order haplessley folded. Wren with an excellent 67 not out
+      held the inings together and with a succession of tailenders managed several productive
+      partnerships. A total of 164 looked like a good game score on low pitch but with a fast outfiled and
+      so it proved. 
+      <p>
+       The Falkland reply was derailed early on when Hackett took 3 wickets
+      in his 3rd over. Browning, first with White and then Calisle steadied the ship but when he was
+      undone by a good slower ball from Downes it looked as though Twyford would run through the tail.
+      Hackett was brought back and he went on to bag a 5 wicket haul but the well coached Falkland tail
+      played with very straight bats and took the game toward a thrilling finish. They lost their 9th
+      wicket still needing 7 runs from 2 overs but cool heads saw them home with 2 balls to spare.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="Thomas"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Furr"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Furr"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Furr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ridley"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Ridley"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Drew Evans"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="48"/>
+    <FallOfWicket batsman="1" score="38"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="6" score="87"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <BowlerSummary name="Dexter" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Chapman" overs="10" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="Thomas" overs="7" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Furr" overs="11" maidens="2" runs="39" wickets="3"/>
+    <BowlerSummary name="Ridley" overs="10" maidens="2" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Falkland 2nds">
+    <Batsman name="Rashman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hyde">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Browning">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Dexter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Dando">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Carlisle">
+      <HowOut how="Caught Tom Hall"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Chapman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ridley">
+      <HowOut how="Caught Nick Healey"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Furr">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="7" score="120"/>
+    <FallOfWicket batsman="8" score="123"/>
+    <FallOfWicket batsman="9" score="158"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="0" runs="57" wickets="5"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Drew Evans" overs="2" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

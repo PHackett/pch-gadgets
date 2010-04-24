@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 23 00:00:00 UTC+0100 2001">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rezko"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="LBW"/>
+      <Bowler name="Crick"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="DuPrez"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Tanton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="Tanton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Rezko"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tanton"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Crick" overs="12" maidens="5" runs="20" wickets="1"/>
+    <BowlerSummary name="DuPrez" overs="9" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="Pollard" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Tanton" overs="9" maidens="4" runs="12" wickets="3"/>
+    <BowlerSummary name="Rezko" overs="5" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Thorpe" overs="2" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+  <Innings batting="Cranbourne">
+    <Batsman name="J Ball">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Jones">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Moores">
+      <HowOut how="Caught T Hall"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="S Warley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="P Tanton">
+      <HowOut how="Caught T Hall"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Thorpe">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Stewart Wren" overs="11" maidens="3" runs="28" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="12" maidens="2" runs="33" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="3" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

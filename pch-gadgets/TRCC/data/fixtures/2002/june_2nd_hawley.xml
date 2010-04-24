@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="Hawley" date="Sun Jun 2 00:00:00 UTC+0100 2002">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Adams"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Adams"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sinclair"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Adams"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="David Downes"/>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="22"/>
+    <BowlerSummary name="A Sinclair" overs="13" maidens="1" runs="53" wickets="1"/>
+    <BowlerSummary name="C Adams" overs="18" maidens="5" runs="44" wickets="3"/>
+    <BowlerSummary name="G Mitchel" overs="7" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="J Adams" overs="5" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+  <Innings batting="Hawley">
+    <Batsman name="Plumb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Adams">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="A Sinclair">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jas Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Mitchel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Jam Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marchant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gillard">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Crane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="1" runs="25" wickets="5"/>
+    <BowlerSummary name="David Downes" overs="5" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="1.4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="1" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<CricketMatch oppo="East Preston" date="Mon Aug 27 00:00:00 UTC+0100 2001">
+  <MatchReport>
+    <![CDATA[
+       After the disappointment of previous day (when we only managed to bowl some 7 overs before the rain
+      came down and the match was abandoned), East Preston was bathed in glorious sunshine. It was Hot! 
+ 
+          <p>
+       Captain Nic Downes won the toss and elected to field (much to the groans of those
+      still trying to recover from the previous night, and the lunchtime for that matter!). 
+      <p>
+   
+         East Preston scored at a fairly constant 4 runs per over for the first 31 overs, and then went
+      into overdrive scoring 117 off the last eleven overs. Twyford's fielding was mainly marked by
+      dropped catches (a lot - but not all - of them very difficult, it must be said). Paul Hackett was
+      unlucky to come away with no wickets in his 15 overs for 48 runs. Nic Downes took 2 for 73 off 13
+      overs, and Steve Beamish came on late in the innings to take 3 wickets for 31 runs off 5 overs, with
+      some fine attacking bowling. 
+      <p>
+       Twyford got off to a racing start with 7 off the
+      first over, but then slowed considerably! The first wicket fell in the 12th over at a score of 31.
+      Roger Seymour battled on to a score of 30 before being caught in the 17th over. The rest of the
+      batting order performed well, with everyone apart from the last 3 getting into double figures. The
+      top scorers were Nic Downes with 38 &amp; Alex Neall with 20. However, the target was high, and
+      despite some friendly bowling on their part towards the end of the innings, Twyford fell 42 runs
+      short. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="East Preston">
+    <Batsman name="B Harlow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Mellor">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="M Thorne">
+      <HowOut how="Not Out"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="K Savelle">
+      <HowOut how="Ct. C Fort"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="D Candy">
+      <HowOut how="Ct. Woodman"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Martin">
+      <HowOut how="Ct. N Downes"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Cook">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name=""/>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="15" maidens="2" runs="48" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="0" runs="73" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="52" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cook"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Ct"/>
+      <Bowler name="Thorn"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="Thorn"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Ct."/>
+      <Bowler name="Thorn"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct"/>
+      <Bowler name="Thorn"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Ct"/>
+      <Bowler name="Thorn"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Ct"/>
+      <Bowler name="Martin"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cook"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="38"/>
+    <BowlerSummary name="Savelle" overs="5" maidens="3" runs="12" wickets="0"/>
+    <BowlerSummary name="Cook" overs="8.4" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="A Thorn" overs="9" maidens="0" runs="59" wickets="4"/>
+    <BowlerSummary name="Cave?" overs="4" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Crump" overs="4" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Martin" overs="4" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Thorn" overs="3" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:44 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat May 10 08:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale">
+    <Batsman name="Ellis">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="K Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Choules">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Codd">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="H Messer">
+      <HowOut how="Caught D Taylor"/>
+      <Bowler name="David Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="N Hussain">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Bunch">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Iqbal">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Healy">
+      <HowOut how="Caught B Potier"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bunker">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pazir">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="4" runs="13" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="13" maidens="0" runs="59" wickets="3"/>
+    <BowlerSummary name="Barry Potier" overs="2.4" maidens="1" runs="2" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="LBW"/>
+      <Bowler name="Iqbal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Healy"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="LBW"/>
+      <Bowler name="Healy"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Iqbal"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught"/>
+      <Bowler name="H Messer"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="H Messer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Iqbal"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Iqbal" overs="15" maidens="6" runs="29" wickets="3"/>
+    <BowlerSummary name="Healy" overs="9" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="H Messer" overs="7.4" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="Pazir" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Bunker" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

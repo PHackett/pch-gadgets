@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning Common" date="Sun Jun 23 00:00:00 UTC+0100 2002">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Selman"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pitson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Johnson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hudson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hudson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pitson"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Hudson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Hudson"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Caught"/>
+      <Bowler name="Hudson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Pitson" overs="18" maidens="7" runs="23" wickets="2"/>
+    <BowlerSummary name="Johnson" overs="14" maidens="4" runs="36" wickets="1"/>
+    <BowlerSummary name="Hudson" overs="11" maidens="0" runs="33" wickets="5"/>
+    <BowlerSummary name="Selman" overs="7" maidens="2" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Sonning Common">
+    <Batsman name="D Stevens">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="C Pitson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="R Stevens">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="N Pitson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="2" runs="25" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="5" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Chris Evans" overs="2.4" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

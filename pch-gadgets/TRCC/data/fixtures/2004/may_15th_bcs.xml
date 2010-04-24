@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:34 UTC+0100 2010 -->
+<CricketMatch oppo="BCS" date="Sat May 15 00:00:00 UTC+0100 2004">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="BCS">
+    <Batsman name="S Martin">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="B Vokley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="H Chana">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="C Light">
+      <HowOut how="Caught Chris Evans"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="O Sabberton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="C Rabehadur">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="S Sandu">
+      <HowOut how="Caught David Beamish"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Subakan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Healey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Surya">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="29"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="1" runs="35" wickets="2"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Nick Healey" overs="9" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Chris Evans" overs="10" maidens="0" runs="55" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Martin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Russell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="C Light"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Martin"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Martin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Subakan"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Lewis"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nick Healey">
+      <HowOut how="Caught"/>
+      <Bowler name="A Sunil"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Vince Headly">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Subakan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Subakan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="31"/>
+    <BowlerSummary name="S Martin" overs="11" maidens="5" runs="12" wickets="3"/>
+    <BowlerSummary name="C Light" overs="8" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="B Lewis" overs="7" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="A Subakan" overs="7" maidens="1" runs="14" wickets="3"/>
+    <BowlerSummary name="A Sunil" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="R Singh" overs="1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="A Singh" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

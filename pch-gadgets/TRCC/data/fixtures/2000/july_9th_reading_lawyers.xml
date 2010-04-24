@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Jul 9 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Seymour"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="Seymour" overs="7" maidens="3" runs="7" wickets="2"/>
+    <BowlerSummary name="Frost" overs="7" maidens="3" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+

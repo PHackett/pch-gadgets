@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:18 UTC+0100 2010 -->
+<CricketMatch oppo="Holyport" date="Sun Aug 20 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Holyport">
+    <Batsman name="D Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="J Price">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Hayes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="K Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="D Rolland">
+      <HowOut how="Caught M Morris"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Cox">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Harley">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="H Kassamali">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="5" runs="11" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="4" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="51" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="3" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="3" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="P Harley"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Palmer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Palmer"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="LBW"/>
+      <Bowler name="Palmer"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="H Kassamali"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="Palmer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Palmer"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Kassamali"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Extras value="22"/>
+    <BowlerSummary name="Griffiths" overs="7" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Palmer" overs="17" maidens="0" runs="68" wickets="5"/>
+    <BowlerSummary name="Bull" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="P Harley" overs="3" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="H Kassamali" overs="6" maidens="0" runs="30" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:01 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawers" date="Sun Aug 9 00:00:00 UTC+0100 2009">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawers">
+    <Batsman name="M Symons">
+      <HowOut how="Caught Alistair Ridgley"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="J Woodsmith">
+      <HowOut how="Run Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="N Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Loosemore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Mullet">
+      <HowOut how="LBW"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Lake">
+      <HowOut how="Run out "/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="M Burrows ">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Coblen">
+      <HowOut how="Run Out "/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S James">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Farooq">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Seymour">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="3" runs="28" wickets="3"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Nigel Leach" overs="6" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="7" maidens="1" runs="34" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Burrows"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nigel Leach">
+      <HowOut how="LBW"/>
+      <Bowler name="Farooq"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Loosemore"/>
+      <Bowler name=" N Lake"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Alistair Ridgley">
+      <HowOut how="Caught Farooq"/>
+      <Bowler name="N Lake"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Burrow"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Lake"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="A Seymour" overs="8" maidens="2" runs="11" wickets="0"/>
+    <BowlerSummary name="Farrooq" overs="9" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="N Lake" overs="12" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="S James" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="M Burrows" overs="8" maidens="1" runs="33" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Sep 25 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       The last game of the season, on a day beautifully sunny and warm - Can it possibly be nearing the
+      end of September? Where has the season gone... 
+      <p>
+       Twyford played host to local rivals
+      Sonning at their Stanlake meadow ground. Winning the toss, captain N Downes elected to bat first,
+      wanting to take advantage of any late, low sun when bowling against the opposition. 
+      <p>
+     
+       Sonning's openers kept a good line and length, severely restricting the runs but not really
+      creating many wicket taking opportunities. An excellent ball from Trouton saw the first wicket fall
+      after 10 overs, but the run rate kept accelerating. Benjamin had one of his best recent innings for
+      the cub notching up a fine 42. Benson and Fuller also provided good support. The final total of 193
+      for 6 was certainly not unattainable, but looked good enough from Twyford's point of view. 
+     
+      <p>
+       But it did not take long before Twyford were made fully aware of what the Sonning openers
+      were capable of. Racing away, Sohail and Skeil attacked the ball ferociously and accurately. 30 runs
+      after 4 overs, 73 after ten, Twyford had no answer to their strokeplay. It took a mere 22.5 overs
+      for the visitors to claim victory, with the loss of but a single wicket. 
+      <p>
+       So, a
+      harsh end for what had been an outstanding season for Twyford, but all praise to Sonning who richly
+      deserved their victory. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Trouton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="Sohail"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Banning"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught"/>
+      <Bowler name="Medhurst"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Medhurst"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dicke"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Alex Neall"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="47"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="2" score="115"/>
+    <FallOfWicket batsman="4" score="137"/>
+    <FallOfWicket batsman="5" score="150"/>
+    <FallOfWicket batsman="7" score="193"/>
+    <BowlerSummary name="Dicke" overs="10" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Wilding" overs="3" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Trouton" overs="9" maidens="3" runs="24" wickets="1"/>
+    <BowlerSummary name="Banning" overs="7" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Sohail" overs="6" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Medhurst" overs="4" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Skeil" overs="1" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Wilson" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Sonning">
+    <Batsman name="Sohail">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="R Skeil">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="S Banning">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="187"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="54" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Alex Neall" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Alistair Benson" overs="2" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="Rod Edney" overs="0.5" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

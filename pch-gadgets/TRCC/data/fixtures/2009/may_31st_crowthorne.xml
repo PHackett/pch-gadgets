@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:22:00 UTC+0100 2010 -->
+<CricketMatch oppo="Crowthorne" date="Sun May 31 00:00:00 UTC+0100 2009">
+  <MatchReport>
+    <![CDATA[
+      The hottest day of the year (so far!) - and it <em>was</em> hot - Twyford's merry band travelled to
+      long-time adversaries Crowthorne, just on the other side of Wokingham. This was to be a 40 over
+      game, with bowlers limited to a maximum of 8 overs each.
+      <p>
+      It was a big toss to lose,
+      and lose it <strike>Hugh</strike> Twyford did, and were promptly ordered into the field. The track
+      looked perfect, and as for the outfield - Well I've played on rougher snooker tables. Truely a fine
+      bit of groundskeeping. A batsman paradise? Well, when the home team saw Twyford's bolwing attack
+      they certainly were in 7th heaven. There was no real penetration form the openers on that true
+      wicket, and some rather wayward deliveries. The change in bowling saw a mini-collapse in the mid-60s
+      for Crowthorne, but they had batting in depth that day, and the runs kept piling on. The number of
+      boundaries only kept the visitors out in the field for longer as they frantically searched for lost
+      balls... 
+      <p>
+      When the overs were finally up, the home team had amassed 216 - Not
+      unreachable on that ground, but still quite daunting. 
+      <p>
+      A couple of early wickets saw
+      Twyford on the back foot, but once more it was Woodman who showed they way. His excellent 75 kept
+      the innings together, and the fight on. After he was out, Downes took up the mantle with a fine
+      display of strokeplay.
+      <p>
+      But alas, the run rate in the first 20 had been too low, and
+      only one other batsman made double figures - The prize was slipping away. There was hope - even up
+      to the last 5 overs - but the required run rate was too much. The innings came to an end, 21 runs
+      short of victory.
+      <p>
+      But nevermind! Such is cricket, and on such a fine day, the taking
+      part really was more important than the winning!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Crowthorne">
+    <Batsman name="S Sheppard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="H Stent">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="S Northall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Higgins"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="D Shaw">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Andy Higgins"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="A Lenthall">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="K Saunder">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="B Richards">
+      <HowOut how="Caught Andy Higgins"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Higgins"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Partridge">
+      <HowOut how="Caught Josh Baker"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="P Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Josh Baker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="2" score="63"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="5" score="103"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="8" score="160"/>
+    <FallOfWicket batsman="9" score="174"/>
+    <FallOfWicket batsman="10" score="213"/>
+    <FallOfWicket batsman="11" score="216"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Josh Baker" overs="7" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Andy Higgins" overs="8" maidens="0" runs="62" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="45" wickets="4"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Tom Clements" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Northall"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="N Hill"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Leslie Apps">
+      <HowOut how="Caught"/>
+      <Bowler name="M Miller"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Andy Higgins">
+      <HowOut how="Caught"/>
+      <Bowler name="S Northall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="S Northall"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Josh Baker">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Northall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Miller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Clements">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="4" score="73"/>
+    <FallOfWicket batsman="1" score="144"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <FallOfWicket batsman="7" score="159"/>
+    <BowlerSummary name="N Hill" overs="6" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="S Northall" overs="8" maidens="1" runs="26" wickets="4"/>
+    <BowlerSummary name="P Clarke" overs="4" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="B Richards" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="M Miller" overs="7" maidens="0" runs="40" wickets="3"/>
+    <BowlerSummary name="D Partridge" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="S Sheppard" overs="7" maidens="0" runs="45" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sat Jul 3 00:00:00 UTC+0100 1993">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="M Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="D Nicholls">
+      <HowOut how="Caught James Hollidge"/>
+      <Bowler name="David Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Blackhall">
+      <HowOut how="Caught James Hollidge"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Buckland">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Maxwell">
+      <HowOut how="Caught Jack Hollidge"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="P Tanton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Manson">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="P Darnell">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Cullen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="36" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="9.2" maidens="3" runs="29" wickets="4"/>
+    <BowlerSummary name="James Hollidge" overs="6" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="P Maxwell"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Maxwell"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Tanton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jack Hollidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Maxwell"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="B Blackhall"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tim Hanton">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Blackhall"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="James Hollidge"/>
+    <Batsman name="Howard Burton"/>
+    <Extras value="10"/>
+    <BowlerSummary name="P Maxwell" overs="17.3" maidens="3" runs="53" wickets="3"/>
+    <BowlerSummary name="D Nicholls" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="P Tanton" overs="5" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="B Blackhall" overs="9" maidens="0" runs="43" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:55 UTC+0100 2010 -->
+<CricketMatch oppo="Broadmoor" date="Sat May 16 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="Robinson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robinson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blundell"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="LBW"/>
+      <Bowler name="Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Run Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Blundell"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Caught"/>
+      <Bowler name="Robinson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Caught"/>
+      <Bowler name="Roberts"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Roberts"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Robinson" overs="17" maidens="5" runs="44" wickets="3"/>
+    <BowlerSummary name="Roberts" overs="12.4" maidens="1" runs="57" wickets="4"/>
+    <BowlerSummary name="Charles" overs="5" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Blundell" overs="9" maidens="2" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Broadmoor">
+    <Batsman name="T McDowell">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Gopie">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="V Clarke">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="W Robinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="T Blundell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="P Daniels">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Charles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="N John">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="W King">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="3" runs="30" wickets="5"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="3" runs="16" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="4" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Ian Helmore" overs="9" maidens="0" runs="28" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

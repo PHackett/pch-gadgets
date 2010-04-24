@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Falkland" date="Sun Aug 3 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      A really gloomy day for August, it did not look like we were even going to bowl a single ball. But
+      the drizzle backed off, and a reasonable breeze helped dry things out. Slippery for the bowlers and
+      batters, but with the application of plenty of sawdust the game could begin. 
+      <p>
+      TRCC
+      elected to field, and their bowlers were given plenty of help from the pitch, what with the recent
+      rain. Hackett especially gave the batsmen cause for concern. Although he is a medium-pace bowler,
+      both openers elected to have helmets after the first two overs! There was the early dismissal of
+      Seth, but after that White and the youngster Piper proved solid. Their stand of almost 100 was
+      finally broken by C Fort trapping White LBW, and Fuller dismissed Piper soon afterwards. With the
+      overs running out, Falkland began to hit out, but at the cost of swiftly falling wickets. The final
+      total of 159 did not look bad on such an ugly day, but Twyford thought it an achievable total.
+     
+      <p>
+      But, after a top-class tea, the weather had other ideas. Falkland bowled only 28 balls
+      before the weather turned ugly again, and everyone returned to the pavilion. Hope over observation
+      sent them out to the square once more, but it was pointless. The game was abandoned. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Falkland">
+    <Batsman name="I White">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="S Seth">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="B Piper">
+      <HowOut how="LBW"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="S Trumper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Fox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="L Greenhaugh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Booth">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Strachan">
+      <HowOut how="Caught Karl Bukin"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Roberts">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Bartram">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="1" score="117"/>
+    <FallOfWicket batsman="4" score="124"/>
+    <FallOfWicket batsman="3" score="133"/>
+    <FallOfWicket batsman="5" score="140"/>
+    <FallOfWicket batsman="6" score="152"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <FallOfWicket batsman="9" score="156"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="2" runs="19" wickets="4"/>
+    <BowlerSummary name="Karl Bukin" overs="9" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="10" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="Alex Burke" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Luke Fuller" overs="4" maidens="1" runs="7" wickets="2"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Luke Fuller"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Alex Burke"/>
+    <Batsman name="Karl Bukin"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="James Burke"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="0"/>
+    <BowlerSummary name="L Greenhaugh" overs="2.4" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="T Bartram" overs="2" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:05 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Jul 11 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilton"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilding"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilton"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Graham Woodhouse">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilton"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="G Phillips"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="G Phillips"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="G Phillips"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Wilding" overs="6" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="G Phillips" overs="15" maidens="4" runs="34" wickets="3"/>
+    <BowlerSummary name="Wilton" overs="15" maidens="1" runs="60" wickets="6"/>
+    <BowlerSummary name="Banning" overs="6" maidens="1" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Sonning">
+    <Batsman name="P Phillips">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Makey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Forrest">
+      <HowOut how="Caught T Fort"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Hayes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Banning">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="G Phillips">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="S Johnstone">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="3" runs="30" wickets="4"/>
+    <BowlerSummary name="John Moore" overs="9.5" maidens="2" runs="32" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Matt Morris" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Graham Woodhouse" overs="4" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

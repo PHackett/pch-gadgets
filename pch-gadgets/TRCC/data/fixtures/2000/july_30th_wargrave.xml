@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:34 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 30 00:00:00 UTC+0100 2000">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hanley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Hanley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Snr Walker"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Hanley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Jnr Walker"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Snr Walker"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Lee"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="John Moore"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="24"/>
+    <BowlerSummary name="Hanley" overs="10" maidens="5" runs="13" wickets="3"/>
+    <BowlerSummary name="Fender" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Homer" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Snr Walker" overs="10" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Jnr Walker" overs="5" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Lee" overs="5" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="M Woods">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Amor">
+      <HowOut how="Caught R Seymour"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="R Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Cross">
+      <HowOut how="Caught J Moore"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="A Homer">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="S Lee">
+      <HowOut how="Caught T Hogarth"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Walker">
+      <HowOut how="Caught &amp; H Fort"/>
+      <Bowler name="David Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Hanley">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Fender">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="16" wickets="1"/>
+    <BowlerSummary name="John Moore" overs="8" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Tim Hogarth" overs="5" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7.2" maidens="0" runs="32" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

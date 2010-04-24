@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:05 UTC+0100 2010 -->
+<CricketMatch oppo="Shanklin" date="Thu Aug 25 00:00:00 UTC+0100 1994">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Shanklin">
+    <Batsman name="O Porter">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="P Garvey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="G Garvey">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="G Dean">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Holland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="T Simmonite">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A White">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="D Woods"/>
+    <Batsman name="R Clifton"/>
+    <Batsman name="S Bull"/>
+    <Batsman name="S Harris"/>
+    <Extras value="9"/>
+    <BowlerSummary name="Robin Reynolds" overs="14" maidens="3" runs="79" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="0" runs="117" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6.3" maidens="0" runs="57" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="50" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Harris"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+      <HowOut how="Caught"/>
+      <Bowler name="D Woods"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="S Harris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Clifton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="R Clifton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Woods"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="G Dean"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Noel Downes"/>
+    <Extras value="22"/>
+    <BowlerSummary name="S Harris" overs="9" maidens="1" runs="51" wickets="2"/>
+    <BowlerSummary name="R Clifton" overs="9" maidens="0" runs="68" wickets="2"/>
+    <BowlerSummary name="D Woods" overs="6" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="S Bull" overs="5" maidens="3" runs="10" wickets="0"/>
+    <BowlerSummary name="G Dean" overs="3" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="T Simmonite" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="N Holland" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="P Garvey" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

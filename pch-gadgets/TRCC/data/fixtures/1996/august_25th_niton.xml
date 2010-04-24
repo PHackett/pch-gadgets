@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:31 UTC+0100 2010 -->
+<CricketMatch oppo="Niton" date="Sun Aug 25 00:00:00 UTC+0100 1996">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Baxter"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Richard Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="D Bearman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Farrington">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="C Peach"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="S Baxter"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Harry"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Harry"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="D Webster"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="G Wells"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="D Bearman" overs="8" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="G Wells" overs="8" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="S Baxter" overs="8" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="C Peach" overs="5" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="M Harry" overs="7" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="D Webster" overs="4" maidens="0" runs="32" wickets="1"/>
+  </Innings>
+  <Innings batting="Niton">
+    <Batsman name="R Harry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Furness">
+      <HowOut how="Caught R Knight"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Baxter">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Wells">
+      <HowOut how="Caught S Wren"/>
+      <Bowler name="Rod Edney"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Harry">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="D Fairman">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="N Greville">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Peach">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Webster">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Stewart Wren" overs="8" maidens="1" runs="24" wickets="4"/>
+    <BowlerSummary name="Robin Reynolds" overs="8" maidens="4" runs="13" wickets="2"/>
+    <BowlerSummary name="Rod Edney" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="7" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Mark Farrington" overs="8" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="Rich Lawrance" overs="3" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

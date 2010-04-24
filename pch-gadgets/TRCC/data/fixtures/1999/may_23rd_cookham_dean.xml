@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:04 UTC+0100 2010 -->
+<CricketMatch oppo="Cookham Dean" date="Sun May 23 00:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cookham Dean">
+    <Batsman name="C Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Davies">
+      <HowOut how="Run Out"/>
+      <Runs value="116"/>
+    </Batsman>
+    <Batsman name="N Kellaway">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="P Douch">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Rudd">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Burnett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Mellor">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="P Gagie">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="John Moore" overs="9" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="David Taylor" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="47" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Douch"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="D Davies"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gordon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="LBW"/>
+      <Bowler name="T Mellor"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="P Douch"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Douch"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Moore">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Douch"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="N Kellaway"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Douch"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="D Davies" overs="6" maidens="2" runs="5" wickets="1"/>
+    <BowlerSummary name="Gordon" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="P Gagie" overs="5" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="Wilson" overs="2" maidens="1" runs="2" wickets="0"/>
+    <BowlerSummary name="T Mellor" overs="8" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="P Douch" overs="8" maidens="1" runs="27" wickets="5"/>
+    <BowlerSummary name="N Kellaway" overs="1.3" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

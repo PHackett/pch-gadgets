@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:19 UTC+0100 2010 -->
+<CricketMatch oppo="Reading University ASCC" date="Sat Aug 19 00:00:00 UTC+0100 1995">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading University ASCC">
+    <Batsman name="A Eagle">
+      <HowOut how="Caught Tim Sharp"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gellway">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Short">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="R Loader">
+      <HowOut how="Not Out"/>
+      <Runs value="125"/>
+    </Batsman>
+    <Batsman name="Akhfar">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="A Murphy"/>
+    <Batsman name="M Biddis"/>
+    <Batsman name="Cull"/>
+    <Batsman name="Transter"/>
+    <Extras value="14"/>
+    <BowlerSummary name="David Downes" overs="10" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="3" runs="62" wickets="0"/>
+    <BowlerSummary name="Robin Reynolds" overs="5" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Ian Helmore" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="2" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="A Murphy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Murphy"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Short"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akhfar"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Short"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="j Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="Howard Burton"/>
+    <Batsman name="Barry Potier"/>
+    <Extras value="20"/>
+    <BowlerSummary name="A Murphy" overs="10" maidens="2" runs="45" wickets="2"/>
+    <BowlerSummary name="M Biddis" overs="7" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Cull" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Transter" overs="8" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="A Short" overs="7" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Akhfar" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

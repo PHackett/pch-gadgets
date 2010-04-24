@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:34 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 13 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      On the road for the second week running, Twyford made the trip to Woodcote in Oxfordshire
+      <p>
+
+           Winning the toss, the hosts placed Twyford in to bat. A steady start was made by Woodman and
+      Benjamin with some fine boundaries flowing on what was a reasonably pacey outfield. Benjamin fell in
+      the 17th over, but was replaced by Captain N Downes who powered the ball to the boundary with great
+      regularity - A fine display indeed. The rest of the Twyford batsmen did not trouble the scorekeeper
+      very much (Except Seymour), but the final total of 180-9 certainly gave the visitors hope - They had
+      something to bowl at! Pick of the bowling for Woodcote was Topper who bowled 14 tight overs, only
+      conceding 44 runs.
+      <p>
+      After tea, battle resumed - allbeit what turned out to be a
+      rather one-sides one. Twyford bowlers were never penetrating, and the home batsmen took advantage.
+      Anderson was dismissed by a great catch with the score in the 40s, but then in came Allomany (Not
+      sure of the spelling of the name - Unclear in scorebook). He saw the ball as if it were the size of
+      a melon, hitting boundaries with what became depressing regularity for Twyford. Never putting a foot
+      wrong nor giving a single chance, he raced to his century in double quick time. It was all over in
+      24 overs. 
+      <p>
+      So a bit of a humiliation for Twyford - There was nothing they could do
+      to stem the flow of runs from a batsman in great form!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Topper"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="Topper"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Pitt"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pitt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Pearson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Pitt"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Pearson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Brownlow"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Caught"/>
+      <Bowler name="Brownlow"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="58"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <FallOfWicket batsman="3" score="149"/>
+    <FallOfWicket batsman="7" score="152"/>
+    <FallOfWicket batsman="9" score="168"/>
+    <FallOfWicket batsman="10" score="176"/>
+    <BowlerSummary name="Topper" overs="14" maidens="3" runs="44" wickets="2"/>
+    <BowlerSummary name="Henderson" overs="8" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Taylor" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Pitt" overs="6" maidens="0" runs="40" wickets="3"/>
+    <BowlerSummary name="Pearson" overs="4" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Brownlow" overs="4" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Wheeler" overs="2" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="C Anderson">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="S Allomany">
+      <HowOut how="Not Out"/>
+      <Runs value="105"/>
+    </Batsman>
+    <Batsman name="M Higgins">
+      <HowOut how="Not Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="61" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="1.2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

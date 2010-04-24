@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:17 UTC+0100 2010 -->
+<CricketMatch oppo="Marlow Park" date="Sun Jun 11 00:00:00 UTC+0100 1995">
+  <MatchReport>
+    <![CDATA[
+      I assume we lost, but the recorded scores do not show this
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="J VanNeikerk"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="N McLaughlin"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="N McLaughlin"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="N McLaughlin"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="N McLaughlin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="R Goldsmith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="E Atkinson"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Peter Dawson"/>
+    <Batsman name="Barry Potier"/>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Extras value="15"/>
+    <BowlerSummary name="J VanNeikerk" overs="8" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="N McLaughlin" overs="15" maidens="8" runs="31" wickets="4"/>
+    <BowlerSummary name="S Ayres" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="R Goldsmith" overs="6" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="E Atkinson" overs="7" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="M Ellis" overs="4" maidens="0" runs="37" wickets="0"/>
+  </Innings>
+  <Innings batting="Marlow Park">
+    <Batsman name="N Weston">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="D Tuckerman">
+      <HowOut how="Run Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="M Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="J VanNeikerk">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="Peter Dawson"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="D Russell">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Ayres">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="David Downes" overs="12" maidens="2" runs="50" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="1.3" maidens="0" runs="3" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="7" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Peter Dawson" overs="5" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="1.1" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

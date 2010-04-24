@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:54 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Sep 13 00:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="O Fitzimons"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="O Fitzimons"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Bridgeman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Hayter"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Hayter"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Hayter"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Green">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Silver"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Silver"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Brandon">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Hayter"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="O Fitzimons" overs="12" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="S Hayter" overs="24" maidens="7" runs="65" wickets="4"/>
+    <BowlerSummary name="P Roberts" overs="8" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="A Silver" overs="4" maidens="2" runs="12" wickets="2"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="C Anderson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="R Baldwin">
+      <HowOut how="Caught A Neall"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="O Fitzimons">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Hayter">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="D Comley">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Silver">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Higley">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Paul Hackett" overs="17" maidens="3" runs="54" wickets="2"/>
+    <BowlerSummary name="Alex Neall" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13.4" maidens="1" runs="42" wickets="6"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

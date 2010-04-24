@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:15 UTC+0100 2010 -->
+<CricketMatch oppo="Embrook" date="Sun Aug 3 00:00:00 UTC+0100 2003">
+  <MatchReport>
+    <![CDATA[
+       On a sweltering afternoon Twyford elected to bat first and made steady rather exciting progress.
+      Tom Hall again in the runs with 66 was given early support by Seymour 22 and then later by Walkland
+      17. Walkland was then supported by Cochrane 17 who really upped the pressure on the Embrook bowlers.
+      He was to find himself stranded however when Lewington having been bashed for a 6 by Walkland in his
+      previous over tore in and ripped the Twyford tail out with a fantastic hat-trick, all bowled off
+      stump! Twyford out 20 minutes and 30 runs too early! 
+      <p>
+       Emmbrook with plenty of time,
+      a placid wicket and fast outfield were confident enough to mess around with their batting order but
+      at 4 for 4 and then 39 for 6 captain Milne must have had a few concerns. However with the rabbits
+      back in the hutch early, the serious batsmen had more time to play themselves in. An unbroken 8th
+      wicket stand of 99 between Lewington and Pietrask, 43 and 42 respectively, saw Embrook home with 10
+      balls and Milne's blushes spared.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Peters"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wardle"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Milne"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Caught"/>
+      <Bowler name="Levington"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peters"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="Milne"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Armitage"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Levington"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Levington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Levington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="5" score="94"/>
+    <FallOfWicket batsman="6" score="134"/>
+    <FallOfWicket batsman="7" score="159"/>
+    <FallOfWicket batsman="8" score="164"/>
+    <FallOfWicket batsman="9" score="164"/>
+    <FallOfWicket batsman="10" score="164"/>
+    <BowlerSummary name="Milne" overs="16" maidens="5" runs="47" wickets="2"/>
+    <BowlerSummary name="Wardle" overs="9" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Peters" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Armitage" overs="5" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Levington" overs="4.4" maidens="1" runs="21" wickets="4"/>
+  </Innings>
+  <Innings batting="Embrook">
+    <Batsman name="Marsden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barber">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fifield">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stephens">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Curri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Herridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Milne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Levington">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Peters">
+      <HowOut how="Not Out"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Wardle"/>
+    <Batsman name="Armitage"/>
+    <Extras value="42"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="2"/>
+    <FallOfWicket batsman="4" score="4"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="6" score="39"/>
+    <FallOfWicket batsman="7" score="69"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="5" runs="18" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="8" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="3" runs="37" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="3" runs="23" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Drew Evans" overs="1.2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

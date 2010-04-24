@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:21:38 UTC+0100 2010 -->
+<CricketMatch oppo="Welford Park" date="Sat Jul 19 00:00:00 UTC+0100 2008">
+  <MatchReport>
+    <![CDATA[
+      Confidence was high for the visit of Welford Park, languishing at the bottom of the league table and
+      with Twyford presenting a relatively strong side (according to some allegedly in the know). There
+      was some weather about, but quite frankly it was of little consequence, but if you want a detailed
+      synopsis of meteorological conditions prevailing at the time, you know where to go for it (he has a
+      long mane of jet black hair and an assortment of quite unique t-shirts - where does he do his
+      shopping?). 
+      <p>
+      I have no idea who won the toss, but Twyford batted first. Despite the
+      potential strength of the oppo, my thoughts immediately turned to a potentially short match and the
+      prospect of getting home early to cut the grass (or to read a Tom Fort book), such was my faith in
+      the Twyford batting potential. However, thankfully, these treasonous thoughts were soon banished by
+      a good opening partnership from Adam Smith and Sir Nathan of Eddy, the patron saint of the Saturday
+      side. A 58 opening partnership with some lusty blows from Nathan and some blowing lusts from Adam
+      put the home side in a good opening position.
+      <p>
+      Unfortunately after Nathan perished at
+      47 (not literally, thank God) and Gerwyn for 19, just as he too looked to be going for a big score,
+      the wheels of the bus looked to be starting to come off. At the crease came the Boycott Brothers,
+      &quot;Front-foot&quot; Fuller and &quot;One-shot&quot; Walkland. It has to be said at this point
+      that the Welford Park bowlers, especially Herrington and Blair, were on the spot and moving the ball
+      past the batsmen with consummate ease. Or were the batsmen just missing everything?
+      <p>
+     
+      After quite a few overs for very few runs and a couple of suicidal quick runs (Fuller trying to
+      steal the strike of course) the batsmen could sense the growing tension from the rest of the team
+      that they needed to get a ***cking move on. This was partly achieved by the Boycott twins (with a 63
+      partnership), although it was not a pretty sight, unless you like gratuitous wild slogging. Some
+      fine blows at the end from Mark Jones and Chris Fort edged Twyford over the 175 maximum batting
+      points marker and to a final score of 185 for 7. Not too bad, but it should perhaps have been more.
+      Blame Fuller, I say.
+      <p>
+      Steve B and Steve G got stuck into the Welford Park reply and
+      Steve B struck early with a smart caught and bowled. Steve B then struck and Welford were reeling at
+      28 for 2. However, this brought Herrington, the Twyford nemesis, to the crease and he and Westbrook
+      started to get amongst the runs. They soon had a 50 partnership and Twyford were starting to become
+      despondent - heads were dropping. As too were the catches, a drop from Walkland and then one shortly
+      after from Fuller, normally a safe pair of hands (unless there is a bat in them).
+      <p>
+     
+      Just when Twyford thought the game was getting away from them, Westbook was bowled by Nathan for 61
+      and shortly after Herrington holed out to Hoggie for 29. A wicket followed with the very next ball
+      (a great catch from George Nunn), hat-trick then denied, but with the next ball Walkland bowled
+      Jergens. The dam was breached and confidence surged back in bucket-loads to the Twyford team.
+      Welford had gone from 120 for 4, to 135 for 8 and victory was now in sight. We just needed to get
+      the last 2 wickets.
+      <p>
+      Another wicket for Sir Nathan of Eddy (3 for 41) and another for
+      Walkland (5 for 38) sealed the win. Frustration had turned to jubilation in a few short overs. A
+      lesson for every game. Never give up, keep believing, keep plugging away and if you are lucky (or
+      the oppo only have 2 batsmen) you might just turn it around.
+      <p>
+      Maximum points again!
+      Job done. Sorted.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sopp"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herrington"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Gerwyn Leigh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blair"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sopp"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blair"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Mark Jones">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sopp"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George Nunn">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="58"/>
+    <FallOfWicket batsman="2" score="84"/>
+    <FallOfWicket batsman="3" score="102"/>
+    <FallOfWicket batsman="5" score="165"/>
+    <FallOfWicket batsman="4" score="169"/>
+    <FallOfWicket batsman="7" score="172"/>
+    <FallOfWicket batsman="6" score="174"/>
+    <BowlerSummary name="Sopp" overs="15" maidens="1" runs="61" wickets="3"/>
+    <BowlerSummary name="Harsha" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Herrington" overs="15" maidens="3" runs="34" wickets="1"/>
+    <BowlerSummary name="Blair" overs="12" maidens="1" runs="45" wickets="2"/>
+  </Innings>
+  <Innings batting="Welford Park">
+    <Batsman name="Russell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Westbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Khan">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Herrington">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Sopp">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Harsha">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Murugesh">
+      <HowOut how="Caught George Nunn"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jurgens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ramadoss">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nathan Eddy"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Blair">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Greenslade">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="2" score="120"/>
+    <FallOfWicket batsman="6" score="133"/>
+    <FallOfWicket batsman="7" score="133"/>
+    <FallOfWicket batsman="8" score="133"/>
+    <FallOfWicket batsman="5" score="135"/>
+    <FallOfWicket batsman="10" score="140"/>
+    <FallOfWicket batsman="9" score="140"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="13" maidens="1" runs="38" wickets="5"/>
+    <BowlerSummary name="Nathan Eddy" overs="12.1" maidens="2" runs="41" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

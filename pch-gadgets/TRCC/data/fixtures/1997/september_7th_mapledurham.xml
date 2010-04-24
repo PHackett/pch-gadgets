@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:44 UTC+0100 2010 -->
+<CricketMatch oppo="Mapledurham" date="Sun Sep 7 00:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Mapledurham">
+    <Batsman name="Barsley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Osbourne">
+      <HowOut how="Caught R Edney"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Harris">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Bunch">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Alex Neall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ferrella">
+      <HowOut how="Caught H Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Prior">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barraclough">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Bolton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Misham">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Brind">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="5" runs="22" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="5" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="5" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="4" runs="28" wickets="3"/>
+    <BowlerSummary name="Roger Seymour" overs="5" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Misham"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Lawrence"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Lawrence" overs="11" maidens="4" runs="40" wickets="1"/>
+    <BowlerSummary name="R Osbourne" overs="2" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="D Harris" overs="6" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Misham" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Bolton" overs="0.4" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

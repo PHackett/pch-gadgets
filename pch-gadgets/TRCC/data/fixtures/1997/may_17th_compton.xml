@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:44 UTC+0100 2010 -->
+<CricketMatch oppo="Compton" date="Sat May 17 08:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Compton">
+    <Batsman name="T Beck">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="R Patel">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Street">
+      <HowOut how="Caught T Sharp"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="S Warren">
+      <HowOut how="Caught R Lawrance"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Hallett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Deacon">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Blythe">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Nother">
+      <HowOut how="Caught D Taylor"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Another">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Another">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="8" maidens="3" runs="15" wickets="1"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="8" runs="12" wickets="5"/>
+    <BowlerSummary name="Barry Potier" overs="13" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="David Taylor" overs="7" maidens="0" runs="33" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hallett"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Hallett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hallett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="R Hallett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hallett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="J Deacon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Jackman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Caught"/>
+      <Bowler name="J Deacon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Jackman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="10 men only">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="R Hallett" overs="22" maidens="12" runs="26" wickets="5"/>
+    <BowlerSummary name="J Jackman" overs="13" maidens="6" runs="11" wickets="2"/>
+    <BowlerSummary name="J Deacon" overs="9" maidens="2" runs="25" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

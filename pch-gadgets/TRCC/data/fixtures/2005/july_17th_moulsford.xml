@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:47 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun Jul 17 00:00:00 UTC+0100 2005">
+  <MatchReport>
+    <![CDATA[
+       <b><font color='red'>Feelin' hot, hot, hot!</font></b> 
+      <p>
+       What an afternoon greeted
+      Twyford as they travelled to their hosts Moulsford. By far the hottest day of the year, and hardly a
+      cloud in sight. The sloping outfield and the parched grass promised a great bounty for the batsmen!
+      
+      <p>
+       Winning the toss, there was no surprise when Moulsford placed Twyford in the
+      field. And Twyford's opening overs vindicated the decision, with loose bowling and many extras being
+      given away. Eventually Hackett and Walkland found their line and length, and the run rate began to
+      slow. But openers Hermon and Hobbs were showing no sign of weakness, and looked comfortable. It was
+      only with the first change of bowlers that Twyford got a breakthrough when Downes had Hermon LBW.
+      And although the runs kept mounting, Hobbs with an excellent 63 being the pick for Moulsford, they
+      were not mounting as quickly as might have been anticipated given the speed of the outfield. At the
+      end of the 35 overs, 167 looked extremely 'gettable' to Twyford. For the visitors, captain Nick
+      Downes was the star bowler with 4 wickets to hit credit. 
+      <p>
+       Twyford's innings began
+      well, but soon ran in to trouble with the first 3 batsmen back in the pavilion by the
+      11<sup>th</sup> over with only 44 on the board. Cochrane and Benson came to Twyford's rescue, and
+      swung the tide back towards the visitors with well-chosen shots, helped by bowling that often was
+      far from a length. Then Moulsford's Hobbs struck 3 times in two overs, and once again the games was
+      in the balance. But quick scoring from the tail managed to bring Twyford home to victory with overs
+      to spare. 
+      <p>
+       What a day! You don't get many of these during your own personal
+      innings, where the weather is perfect and you get to play the game you love all afternoon. Cherish
+      them! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Moulsford">
+    <Batsman name="Hermon">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="R Hobbs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="B Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Allen">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="D Bonner">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Pariles">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Moss">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Bellis"/>
+    <Batsman name="P Gilmore"/>
+    <Batsman name="A Moss"/>
+    <Extras value="46"/>
+    <FallOfWicket batsman="1" score="78"/>
+    <FallOfWicket batsman="2" score="97"/>
+    <FallOfWicket batsman="3" score="129"/>
+    <FallOfWicket batsman="5" score="133"/>
+    <FallOfWicket batsman="6" score="138"/>
+    <FallOfWicket batsman="7" score="141"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="8" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="7" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="47" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="D Bonner"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Seth Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Martin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught"/>
+      <Bowler name="B Martin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hobbs"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Alistair Benson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="R Hobbs"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Caught"/>
+      <Bowler name="R Hobbs"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Jas Lally">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hobbs"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="4" score="127"/>
+    <FallOfWicket batsman="5" score="133"/>
+    <FallOfWicket batsman="7" score="141"/>
+    <FallOfWicket batsman="6" score="158"/>
+    <BowlerSummary name="D Bonner" overs="6" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="B Martin" overs="10" maidens="1" runs="47" wickets="2"/>
+    <BowlerSummary name="R Hobbs" overs="10" maidens="2" runs="45" wickets="4"/>
+    <BowlerSummary name="T Bellis" overs="6" maidens="0" runs="41" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

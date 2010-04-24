@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:55 UTC+0100 2010 -->
+<CricketMatch oppo="St Sebastians" date="Sat May 23 08:00:00 UTC+0100 1998">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="St Sebastians">
+    <Batsman name="Walmsley">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="G Fry">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught H Burton"/>
+      <Bowler name="Ian Helmore"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Coster">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stevens">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Kemp"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Murray">
+      <HowOut how="Stumped T Sharp"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Brown">
+      <HowOut how="Caught R Green"/>
+      <Bowler name="Graham Kemp"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Woodward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Herridge">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Bishop">
+      <HowOut how="Caught J Henry"/>
+      <Bowler name="Robin Reynolds"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Fry">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="David Downes" overs="14" maidens="4" runs="43" wickets="2"/>
+    <BowlerSummary name="Robin Reynolds" overs="15" maidens="3" runs="56" wickets="3"/>
+    <BowlerSummary name="Ian Helmore" overs="7" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="R Green" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Graham Kemp" overs="5" maidens="0" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coster"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Richard Young">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brown"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="LBW"/>
+      <Bowler name="Bishop"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Jez Henry">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coster"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coster"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brandon Theron">
+      <HowOut how="Caught"/>
+      <Bowler name="Brown"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Coster"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Brown"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Brown" overs="11" maidens="2" runs="51" wickets="4"/>
+    <BowlerSummary name="Coster" overs="10" maidens="2" runs="35" wickets="4"/>
+    <BowlerSummary name="G Fry" overs="1" maidens="1" runs="0" wickets="0"/>
+    <BowlerSummary name="Bishop" overs="0.5" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

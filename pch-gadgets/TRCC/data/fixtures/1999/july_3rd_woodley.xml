@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:19:06 UTC+0100 2010 -->
+<CricketMatch oppo="Woodley" date="Sat Jul 3 08:00:00 UTC+0100 1999">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodley">
+    <Batsman name="J Hewitt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Taylor"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="I Jubb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Taylor"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="David Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A George">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="P Bunch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Taylor"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="S Perrera">
+      <HowOut how="Caught M Taylor"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="H Raja">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Sizer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="4" runs="38" wickets="2"/>
+    <BowlerSummary name="Barry Potier" overs="10" maidens="0" runs="70" wickets="1"/>
+    <BowlerSummary name="Mike Taylor" overs="9" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="John Moore" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Peter Dawson" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ian Helmore">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mike Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Raja"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="A Smith"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="S Perrera" overs="6" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="M Smith" overs="14" maidens="2" runs="50" wickets="4"/>
+    <BowlerSummary name="P Bari" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="A Smith" overs="12" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="H Raja" overs="6" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="I Jubb" overs="2" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

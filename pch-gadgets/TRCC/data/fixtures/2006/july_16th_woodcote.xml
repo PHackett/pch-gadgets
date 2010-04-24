@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:20:59 UTC+0100 2010 -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 16 00:00:00 UTC+0100 2006">
+  <MatchReport>
+    <![CDATA[
+       <span class="ScorecardSm">Scorchio!</span> 
+      <p>
+       My goodness, it was hot! The scorers
+      had to move the table to one of the rare bits of shade under a tree! 
+      <p>
+       Placed in to
+      bat on what turned out to be possibly the best batting track so far this season, Twyford batsmen
+      were like Pigs In Muck! Most contributed well off some father friendly bowling, with Cochrane the
+      pick the 66. 
+      <p>
+       Twyford bowlers opened well, keeping runs down. And, unlike last
+      week, <em>the catches stuck!</em> And thats what made the difference. T Fort and Captain N Downes
+      were the pick of the bowlers taking 7 between them. 
+      <p>
+       One odd incident. Couple of
+      obnoxiously drunk people turned up to watch. One of the Woodcote men hit a crashing 6 which
+      ricocheted of one of their heads - And he hardly noticed he was that out of it. I'll bet he had a
+      terrible hangover, though. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Knox"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rimsey"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Caught"/>
+      <Bowler name="Rimsey"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Greg Orton">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aldridge"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Boycott-Brown"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Caught"/>
+      <Bowler name="Boycott-Brown"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="75"/>
+    <FallOfWicket batsman="3" score="83"/>
+    <FallOfWicket batsman="1" score="84"/>
+    <FallOfWicket batsman="5" score="195"/>
+    <FallOfWicket batsman="4" score="213"/>
+    <FallOfWicket batsman="7" score="213"/>
+    <FallOfWicket batsman="8" score="248"/>
+    <FallOfWicket batsman="9" score="253"/>
+    <FallOfWicket batsman="10" score="254"/>
+    <BowlerSummary name="Henderson" overs="10" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Knox" overs="14" maidens="3" runs="35" wickets="1"/>
+    <BowlerSummary name="Wheeler" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Rimsey" overs="8" maidens="0" runs="63" wickets="2"/>
+    <BowlerSummary name="Jennings" overs="4" maidens="0" runs="50" wickets="0"/>
+    <BowlerSummary name="Aldridge" overs="4" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Boycott-Brown" overs="1.4" maidens="0" runs="23" wickets="2"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="Steve">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Anderson">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Peates">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Boycott-Brown">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Wheeler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Knox">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Aldridge">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Grimsey">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Jennings">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Fuller">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="7" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="0" runs="39" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="7.1" maidens="0" runs="49" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
