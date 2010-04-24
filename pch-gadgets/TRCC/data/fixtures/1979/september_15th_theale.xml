@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:55 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Sep 15 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Barefoot"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barefoot"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Barefoot"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barefoot"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ellis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="Ray Cox"/>
+    <Batsman name="Sean Hawthorne"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="80"/>
+    <FallOfWicket batsman="4" score="147"/>
+    <FallOfWicket batsman="3" score="162"/>
+    <FallOfWicket batsman="6" score="163"/>
+    <FallOfWicket batsman="3" score="175"/>
+    <BowlerSummary name="Dawkins" overs="12" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Williams" overs="5" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="MacDonnald" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Barefoot" overs="11" maidens="0" runs="49" wickets="4"/>
+    <BowlerSummary name="Hicks" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Ellis" overs="4" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="MacDonnald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Goswell">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Fulcher"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Barefoot">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Reeves">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hayter">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sean Hawthorne"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Hicks"/>
+    <Batsman name="Williams"/>
+    <Batsman name="Sadler"/>
+    <Batsman name="Newman"/>
+    <Extras value="15"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="16" maidens="7" runs="33" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="3" maidens="2" runs="1" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="1" maidens="1" runs="0" wickets="0"/>
+    <BowlerSummary name="G Fulcher" overs="3" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Sean Hawthorne" overs="2" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

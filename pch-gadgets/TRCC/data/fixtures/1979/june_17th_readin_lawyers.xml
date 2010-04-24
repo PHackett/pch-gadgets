@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:51 UTC+0100 2010 -->
+<CricketMatch oppo="Readin Lawyers" date="Sun Jun 17 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Readin Lawyers">
+    <Batsman name="R Frost">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Johnson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Morgan">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="C Auburn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="C Messenger">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="W Massey">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="K Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="G Winter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Avery">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Smith"/>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="4" score="27"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="5" score="89"/>
+    <FallOfWicket batsman="7" score="99"/>
+    <FallOfWicket batsman="6" score="110"/>
+    <FallOfWicket batsman="9" score="115"/>
+    <BowlerSummary name="Tom Fort" overs="11" maidens="2" runs="23" wickets="5"/>
+    <BowlerSummary name="J Telfer" overs="9" maidens="3" runs="30" wickets="1"/>
+    <BowlerSummary name="Matthew Fort" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="10" maidens="1" runs="25" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Messenger"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Frost"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Morgan"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Frost"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Morgan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Frost"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Frost"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Frost"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Morgan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="0"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="3" score="108"/>
+    <FallOfWicket batsman="6" score="110"/>
+    <FallOfWicket batsman="5" score="110"/>
+    <FallOfWicket batsman="7" score="113"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="10" score="114"/>
+    <FallOfWicket batsman="11" score="119"/>
+    <BowlerSummary name="M Seymour" overs="7" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="C Messenger" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="C Auburn" overs="4" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="R Morgan" overs="12" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="T Smith" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="R Frost" overs="5" maidens="2" runs="12" wickets="5"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:51 UTC+0100 2010 -->
+<CricketMatch oppo="Moulsford" date="Sun May 6 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="Newman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="Newman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="B"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Slade"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Newman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="4" score="5"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="6" score="16"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="7" score="39"/>
+    <FallOfWicket batsman="9" score="50"/>
+    <FallOfWicket batsman="8" score="65"/>
+    <FallOfWicket batsman="10" score="65"/>
+    <BowlerSummary name="Newman" overs="14.3" maidens="6" runs="30" wickets="6"/>
+    <BowlerSummary name="B" overs="9" maidens="4" runs="15" wickets="2"/>
+    <BowlerSummary name="Slade" overs="5" maidens="1" runs="18" wickets="1"/>
+  </Innings>
+  <Innings batting="Moulsford">
+    <Batsman name="Bonner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tilling">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Parkes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Slade">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hardman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hare">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Suckling">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Crook">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Phipps">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Newman">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="10"/>
+    <FallOfWicket batsman="5" score="12"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="7" score="18"/>
+    <FallOfWicket batsman="6" score="26"/>
+    <FallOfWicket batsman="9" score="28"/>
+    <FallOfWicket batsman="10" score="32"/>
+    <FallOfWicket batsman="8" score="40"/>
+    <BowlerSummary name="Martin Grugeon" overs="15.1" maidens="9" runs="7" wickets="4"/>
+    <BowlerSummary name="Chris Telfer" overs="12" maidens="4" runs="18" wickets="6"/>
+    <BowlerSummary name="Brian Adams" overs="6" maidens="4" runs="3" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="1" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

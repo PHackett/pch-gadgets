@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:51 UTC+0100 2010 -->
+<CricketMatch oppo="Iver" date="Sun Jun 3 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Gibb"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hodges"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hodges"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="Hodges"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hodges"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hodges"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Fort"/>
+    <Batsman name="Tim Glover"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="5" score="97"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="8" score="167"/>
+    <BowlerSummary name="Greaves" overs="10" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="Gibb" overs="6" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Hughes" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Hodges" overs="14" maidens="3" runs="32" wickets="5"/>
+    <BowlerSummary name="Powell" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Staines" overs="3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Iver">
+    <Batsman name="Hughes">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Whitehead">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gibb">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hayes">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Dawes">
+      <HowOut how="LBW"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Pryer">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Carnell">
+      <HowOut how="LBW"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hodges">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Greaves">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Powell"/>
+    <Batsman name="Staines"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="5" score="25"/>
+    <FallOfWicket batsman="6" score="114"/>
+    <FallOfWicket batsman="8" score="114"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <BowlerSummary name="Brian Adams" overs="14" maidens="3" runs="40" wickets="5"/>
+    <BowlerSummary name="Chris Telfer" overs="7" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="Tim Glover" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Pinkneys Green" date="Tue May 22 00:00:00 UTC+0100 1979">
+  <MatchReport>
+    <![CDATA[
+      Evening Cup.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Martin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Walker"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Walker"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dunsford"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Green"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="6" score="33"/>
+    <FallOfWicket batsman="5" score="33"/>
+    <FallOfWicket batsman="7" score="39"/>
+    <FallOfWicket batsman="8" score="50"/>
+    <FallOfWicket batsman="10" score="60"/>
+    <BowlerSummary name="Martin" overs="8" maidens="0" runs="14" wickets="3"/>
+    <BowlerSummary name="Green" overs="3" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Walker" overs="8" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="Dunsford" overs="5" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+  <Innings batting="Pinkneys Green">
+    <Batsman name="Cary">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Jinmann">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Holder">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Martin Grugeon" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="4" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Chris Telfer" overs="1.3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

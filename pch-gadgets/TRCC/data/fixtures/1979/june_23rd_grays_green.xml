@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Grays Green" date="Sat Jun 23 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Grays Green">
+    <Batsman name="Dennis">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Sean Hawthorne"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Metford">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="House">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Cusden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Precious">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sherrington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Wooley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jackson">
+      <HowOut how="Stumped"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Woods">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richardson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Thetford">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Martin Grugeon" overs="7" maidens="3" runs="11" wickets="4"/>
+    <BowlerSummary name="Andy Scott" overs="7" maidens="4" runs="9" wickets="2"/>
+    <BowlerSummary name="Sean Hawthorne" overs="4" maidens="3" runs="1" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="7" wickets="2"/>
+    <BowlerSummary name="G Fulcher" overs="1" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="Theo Gray" overs="0.2" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Coates">
+      <HowOut how="LBW"/>
+      <Bowler name="Cusden"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="Cusden"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Martin Grugeon"/>
+    <Batsman name="James Fort"/>
+    <Batsman name="Steve Clark"/>
+    <Batsman name="Andy Scott"/>
+    <Batsman name="Sean Hawthorne"/>
+    <Batsman name="Theo Gray"/>
+    <Extras value="0"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="21"/>
+    <BowlerSummary name="Wooley" overs="5.3" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Cusden" overs="5" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

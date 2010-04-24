@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Readingensians" date="Sat Jun 2 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Readingensians">
+    <Batsman name="Kingston">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Russell">
+      <HowOut how="Caught Dave Harris"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Evitt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Appaloosa"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Campbell">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Petto">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="P Russell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Martin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mare">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Wellstead">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kenneally">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="4" score="71"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="8" score="106"/>
+    <FallOfWicket batsman="9" score="107"/>
+    <BowlerSummary name="Martin Grugeon" overs="10" maidens="0" runs="27" wickets="3"/>
+    <BowlerSummary name="Mick Houlton" overs="19" maidens="5" runs="43" wickets="4"/>
+    <BowlerSummary name="Paul Appaloosa" overs="8" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="Petto"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Caught"/>
+      <Bowler name="Wellstead"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Caught"/>
+      <Bowler name="Wellstead"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Petto"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Petto"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="LBW"/>
+      <Bowler name="Petto"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Bowled"/>
+      <Bowler name="Petto"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Caught"/>
+      <Bowler name="Petto"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="12"/>
+    <FallOfWicket batsman="4" score="12"/>
+    <FallOfWicket batsman="1" score="77"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="7" score="97"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="9" score="104"/>
+    <BowlerSummary name="Kenneally" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Wellstead" overs="8" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="J Russell" overs="6" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Petto" overs="11" maidens="0" runs="30" wickets="6"/>
+    <BowlerSummary name="Martin" overs="9" maidens="2" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

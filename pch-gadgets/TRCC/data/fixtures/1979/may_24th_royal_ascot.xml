@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Royal Ascot" date="Thu May 24 00:00:00 UTC+0100 1979">
+  <MatchReport>
+    <![CDATA[
+      Evening Cup.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Royal Ascot">
+    <Batsman name="P Dixon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Blake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Goodsir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="S Murphy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="G Hoses">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Stapley">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Allan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="W Delany">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Hedges">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Gunn"/>
+    <Batsman name="B Coxhead"/>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="6" score="66"/>
+    <FallOfWicket batsman="7" score="66"/>
+    <FallOfWicket batsman="5" score="77"/>
+    <BowlerSummary name="Mick Houlton" overs="10" maidens="1" runs="39" wickets="6"/>
+    <BowlerSummary name="Paul Appaloosa" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Martin Grugeon" overs="5" maidens="0" runs="27" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Coxhead"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Eddie Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hedges"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Allan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Hedges"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Appaloosa">
+      <HowOut how="Caught"/>
+      <Bowler name="J Allan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Allan"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="43"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="2" score="52"/>
+    <FallOfWicket batsman="5" score="52"/>
+    <FallOfWicket batsman="7" score="61"/>
+    <BowlerSummary name="J Allan" overs="10" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="B Coxhead" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="R Hedges" overs="5" maidens="0" runs="22" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

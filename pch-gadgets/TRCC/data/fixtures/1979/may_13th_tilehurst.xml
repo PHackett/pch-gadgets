@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:51 UTC+0100 2010 -->
+<CricketMatch oppo="Tilehurst" date="Sun May 13 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adams"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="Stumped"/>
+      <Bowler name="Bunker"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adams"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bunker"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="LBW"/>
+      <Bowler name="Bunker"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Caught"/>
+      <Bowler name="Bunker"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sean Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="Wheeler"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="1" score="54"/>
+    <FallOfWicket batsman="6" score="83"/>
+    <FallOfWicket batsman="7" score="91"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <FallOfWicket batsman="8" score="91"/>
+    <FallOfWicket batsman="9" score="95"/>
+    <FallOfWicket batsman="11" score="101"/>
+    <BowlerSummary name="Adams" overs="15" maidens="4" runs="29" wickets="3"/>
+    <BowlerSummary name="Bunker" overs="20" maidens="6" runs="44" wickets="4"/>
+    <BowlerSummary name="Wheeler" overs="8.3" maidens="2" runs="18" wickets="3"/>
+    <BowlerSummary name="Walt" overs="3" maidens="2" runs="1" wickets="0"/>
+  </Innings>
+  <Innings batting="Tilehurst">
+    <Batsman name="M Dixon">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="A Wheeler">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Hawkins">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="R Wheeler">
+      <HowOut how="LBW"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="D Adams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Hawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Simpson">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="R Walt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Hawkins">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Bunker"/>
+    <Batsman name="M Hewitt"/>
+    <Extras value="9"/>
+    <BowlerSummary name="Chris Telfer" overs="3" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="11.2" maidens="3" runs="35" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="13" maidens="5" runs="38" wickets="4"/>
+    <BowlerSummary name="Brian Adams" overs="4" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

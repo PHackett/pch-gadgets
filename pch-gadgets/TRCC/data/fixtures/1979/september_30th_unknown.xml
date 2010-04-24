@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<CricketMatch oppo="Unknown" date="Sun Sep 30 00:00:00 UTC+0100 1979">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Unknown">
+    <Batsman name="Phillips">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="James Fort"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="D Kay">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Sandland">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pallet">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="McClelland">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="A Kay">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gill">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Trisan"/>
+    <Batsman name="Stalgood"/>
+    <Batsman name="Shundley"/>
+    <Extras value="7"/>
+    <BowlerSummary name="Martin Grugeon" overs="14" maidens="4" runs="60" wickets="1"/>
+    <BowlerSummary name="Chris Telfer" overs="8" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="7.1" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Tim Glover" overs="5" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="6" maidens="0" runs="41" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Trisan"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Sandland"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Sandland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sandland"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Trevor Regan">
+      <HowOut how="Caught"/>
+      <Bowler name="Trisan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Stumped"/>
+      <Bowler name="Sandland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Trisan"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Caught"/>
+      <Bowler name="Trisan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sandland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Caught"/>
+      <Bowler name="Trisan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="4" score="57"/>
+    <FallOfWicket batsman="5" score="60"/>
+    <FallOfWicket batsman="6" score="64"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="2" score="89"/>
+    <FallOfWicket batsman="8" score="101"/>
+    <FallOfWicket batsman="10" score="102"/>
+    <FallOfWicket batsman="11" score="104"/>
+    <BowlerSummary name="Stalgood" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Pallet" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Sandland" overs="14" maidens="6" runs="22" wickets="5"/>
+    <BowlerSummary name="Trisan" overs="16" maidens="0" runs="42" wickets="5"/>
+    <BowlerSummary name="Gill" overs="2" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
