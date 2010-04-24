@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:49 UTC+0100 2010 -->
+<CricketMatch oppo="Fort XI" date="Mon Aug 29 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="LBW"/>
+      <Bowler name="I Jones"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Stumped"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="I Jones"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Taylor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Ray Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="James Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roger Willoughby"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="47"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="4" score="61"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="6" score="134"/>
+    <FallOfWicket batsman="7" score="140"/>
+    <FallOfWicket batsman="8" score="149"/>
+    <FallOfWicket batsman="10" score="153"/>
+    <BowlerSummary name="A Fort" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="11" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="I Jones" overs="13" maidens="5" runs="17" wickets="2"/>
+    <BowlerSummary name="Matthew Fort" overs="9" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="J Heggarty" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Steve Taylor" overs="2" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="James Fort" overs="2" maidens="0" runs="11" wickets="2"/>
+  </Innings>
+  <Innings batting="Fort XI">
+    <Batsman name="Stan Coates">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Fort">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Roger Willoughby"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="N Selwyn">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Heggarty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="I Jones"/>
+    <Batsman name="Steve Taylor"/>
+    <Batsman name="W Selwyn"/>
+    <Batsman name="J Barron"/>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <BowlerSummary name="J Telfer" overs="12" maidens="3" runs="54" wickets="1"/>
+    <BowlerSummary name="Martin Grugeon" overs="13.4" maidens="3" runs="38" wickets="0"/>
+    <BowlerSummary name="Roger Willoughby" overs="5" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Mick Houlton" overs="7" maidens="1" runs="26" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

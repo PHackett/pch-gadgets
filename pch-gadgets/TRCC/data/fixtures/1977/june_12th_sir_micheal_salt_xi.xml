@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:45 UTC+0100 2010 -->
+<CricketMatch oppo="Sir Micheal Salt XI" date="Sun Jun 12 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="M Salt"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="4"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="J Heggarty">
+      <HowOut how="Caught"/>
+      <Bowler name="M Salt"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Salt"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="S Dickinson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="6"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="6"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="LBW"/>
+      <Bowler name="6"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Matthew Fort"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="88"/>
+    <FallOfWicket batsman="4" score="128"/>
+    <FallOfWicket batsman="1" score="149"/>
+    <FallOfWicket batsman="5" score="164"/>
+    <FallOfWicket batsman="7" score="170"/>
+    <FallOfWicket batsman="8" score="176"/>
+    <FallOfWicket batsman="9" score="184"/>
+    <FallOfWicket batsman="10" score="200"/>
+    <BowlerSummary name="A Fort" overs="9" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="S Dickinson" overs="11" maidens="2" runs="51" wickets="1"/>
+    <BowlerSummary name="3" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="4" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="M Salt" overs="6" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="6" overs="6.3" maidens="0" runs="31" wickets="3"/>
+  </Innings>
+  <Innings batting="Sir Micheal Salt XI">
+    <Batsman name="McKinnon">
+      <HowOut how="Caught J Heggarty"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Dickinson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Fort">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Chris Telfer"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Negretti">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Crawley">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="James Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Akers-Douglas">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="James Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Baring">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Salt"/>
+    <Batsman name="Elwes"/>
+    <Batsman name="Vere-Hodge"/>
+    <Batsman name="Wigen"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="2" score="40"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <BowlerSummary name="Martin Grugeon" overs="5" maidens="2" runs="12" wickets="1"/>
+    <BowlerSummary name="Chris Telfer" overs="6" maidens="3" runs="10" wickets="1"/>
+    <BowlerSummary name="Brian Adams" overs="5" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Matthew Fort" overs="7" maidens="1" runs="29" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

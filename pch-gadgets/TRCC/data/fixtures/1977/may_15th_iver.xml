@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:45 UTC+0100 2010 -->
+<CricketMatch oppo="Iver" date="Sun May 15 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Iver">
+    <Batsman name="M Durston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Hayes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="W Hughes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Cotton">
+      <HowOut how="Caught J Telfer"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Self">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="G Hodges">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Greeds">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="B Frayt">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Telfer"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Mountey">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Whitehead">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Spence">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="6" score="19"/>
+    <FallOfWicket batsman="5" score="58"/>
+    <FallOfWicket batsman="7" score="60"/>
+    <FallOfWicket batsman="9" score="62"/>
+    <FallOfWicket batsman="8" score="63"/>
+    <FallOfWicket batsman="11" score="81"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="3" runs="14" wickets="2"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="3" runs="14" wickets="3"/>
+    <BowlerSummary name="Matthew Fort" overs="8.3" maidens="2" runs="18" wickets="2"/>
+    <BowlerSummary name="J Telfer" overs="8" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="B Frayt"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="B Greeds"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Greeds"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Frayt"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Greeds"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Durston"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="B Greeds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Caught"/>
+      <Bowler name="B Frayt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="W Hughes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J Telfer">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Hughes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="5" score="22"/>
+    <FallOfWicket batsman="7" score="22"/>
+    <FallOfWicket batsman="8" score="23"/>
+    <FallOfWicket batsman="6" score="36"/>
+    <FallOfWicket batsman="9" score="50"/>
+    <FallOfWicket batsman="11" score="53"/>
+    <BowlerSummary name="B Greeds" overs="11" maidens="7" runs="10" wickets="4"/>
+    <BowlerSummary name="B Frayt" overs="10" maidens="3" runs="10" wickets="3"/>
+    <BowlerSummary name="M Durston" overs="3" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="W Hughes" overs="3.4" maidens="1" runs="14" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

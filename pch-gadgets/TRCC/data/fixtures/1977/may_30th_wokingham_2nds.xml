@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:48 UTC+0100 2010 -->
+<CricketMatch oppo="Wokingham 2nds" date="Mon May 30 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wokingham 2nds">
+    <Batsman name="Leason">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Cowley">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Park">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Goddard">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Martin">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Copper">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Charman">
+      <HowOut how="Caught Mick Houlton"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Searby">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Newman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Shelley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Knaggs">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="6" score="64"/>
+    <FallOfWicket batsman="9" score="70"/>
+    <FallOfWicket batsman="10" score="73"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="0" runs="35" wickets="3"/>
+    <BowlerSummary name="Mick Houlton" overs="10" maidens="1" runs="40" wickets="6"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Searby"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Newman"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Searby"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="George West"/>
+    <Batsman name="Mick Houlton"/>
+    <Batsman name="J Telfer"/>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <BowlerSummary name="Goddard" overs="10" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Searby" overs="6" maidens="2" runs="18" wickets="2"/>
+    <BowlerSummary name="Charman" overs="2" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Newman" overs="1" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:50 UTC+0100 2010 -->
+<CricketMatch oppo="Theale" date="Sat Sep 17 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="LBW"/>
+      <Bowler name="Jones"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dawkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Caught"/>
+      <Bowler name="Jones"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Telfer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yon"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="I Piddington">
+      <HowOut how="Caught"/>
+      <Bowler name="Yon"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="2" score="54"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <FallOfWicket batsman="6" score="67"/>
+    <FallOfWicket batsman="8" score="87"/>
+    <FallOfWicket batsman="9" score="100"/>
+    <FallOfWicket batsman="11" score="105"/>
+    <BowlerSummary name="Jones" overs="14" maidens="5" runs="26" wickets="3"/>
+    <BowlerSummary name="Dawkins" overs="11" maidens="2" runs="32" wickets="2"/>
+    <BowlerSummary name="Newman" overs="10" maidens="4" runs="12" wickets="2"/>
+    <BowlerSummary name="Yon" overs="7.2" maidens="1" runs="13" wickets="3"/>
+  </Innings>
+  <Innings batting="Theale">
+    <Batsman name="E Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="P Hopper">
+      <HowOut how="Caught Barry Thomas"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="K Goswell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Johnson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Reeves">
+      <HowOut how="Caught Peter Kelly"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Newman">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="V Hayter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="C Dawkins"/>
+    <Batsman name="P Yon"/>
+    <Batsman name="D Sexton"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="2" score="74"/>
+    <FallOfWicket batsman="3" score="74"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="8" score="100"/>
+    <BowlerSummary name="Martin Grugeon" overs="8" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Chris Telfer" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="8.4" maidens="5" runs="16" wickets="5"/>
+    <BowlerSummary name="Mick Houlton" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Alan Brooklyn" overs="3" maidens="1" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

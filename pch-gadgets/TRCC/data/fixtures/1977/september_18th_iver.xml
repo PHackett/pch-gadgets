@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:47 UTC+0100 2010 -->
+<CricketMatch oppo="Iver" date="Sun Sep 18 00:00:00 UTC+0100 1977">
+  <MatchReport>
+    <![CDATA[
+       Well, there it is. After goodness knowns how many months, this game marks the last of the TRCC
+      games for which we have records to be entered into the Website. Thanks to all those who helped in
+      this enterprise, specifically Rod Edney and Lorraine Beamish. At the time of writing (23-Mar-2004),
+      there were 1014 games in the database. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Iver">
+    <Batsman name="Biggs">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Heggarty"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Whitehead">
+      <HowOut how="LBW"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Prior">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="J Heggarty"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hayes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Heggarty"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hughes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Self">
+      <HowOut how="LBW"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hodges">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Greaves">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mountney">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Stan Coates"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Fryatt">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spinks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="6" score="50"/>
+    <FallOfWicket batsman="8" score="53"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <FallOfWicket batsman="9" score="57"/>
+    <FallOfWicket batsman="11" score="61"/>
+    <BowlerSummary name="Martin Grugeon" overs="6" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="J Heggarty" overs="7" maidens="2" runs="12" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="7.4" maidens="3" runs="11" wickets="3"/>
+    <BowlerSummary name="Stan Coates" overs="6" maidens="3" runs="8" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="40"/>
+    <BowlerSummary name="Hodges" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Fryatt" overs="3" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="Greaves" overs="6.4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Spinks" overs="6" maidens="1" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

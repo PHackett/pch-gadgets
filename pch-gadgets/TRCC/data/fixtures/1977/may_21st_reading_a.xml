@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:47 UTC+0100 2010 -->
+<CricketMatch oppo="Reading A" date="Sat May 21 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Brooks"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Caught"/>
+      <Bowler name="Brooks"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Doris"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cocks"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dave Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="LBW"/>
+      <Bowler name="Powell"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Caught"/>
+      <Bowler name="Cocks"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="LBW"/>
+      <Bowler name="Cocks"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Brooks"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Terry Hawthorne">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Doris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="49"/>
+    <FallOfWicket batsman="6" score="62"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <FallOfWicket batsman="8" score="77"/>
+    <FallOfWicket batsman="9" score="96"/>
+    <FallOfWicket batsman="3" score="96"/>
+    <FallOfWicket batsman="11" score="96"/>
+    <BowlerSummary name="Doris" overs="9.5" maidens="3" runs="11" wickets="2"/>
+    <BowlerSummary name="Brooks" overs="8" maidens="2" runs="13" wickets="3"/>
+    <BowlerSummary name="Powell" overs="10" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Cocks" overs="11" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Bosley" overs="3" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading A">
+    <Batsman name="J Bosley">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Lincoln">
+      <HowOut how="Bowled"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Ashariff">
+      <HowOut how="Caught Graham Tibbett"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Handy">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Barnwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="S Doris">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="G Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Cocks">
+      <HowOut how="Caught Andy Scott"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Barry">
+      <HowOut how="Caught Terry Hawthorne"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Brooks">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="5" score="58"/>
+    <FallOfWicket batsman="6" score="67"/>
+    <FallOfWicket batsman="8" score="76"/>
+    <FallOfWicket batsman="7" score="76"/>
+    <FallOfWicket batsman="9" score="84"/>
+    <BowlerSummary name="Martin Grugeon" overs="11.1" maidens="2" runs="27" wickets="4"/>
+    <BowlerSummary name="Mick Houlton" overs="10" maidens="3" runs="31" wickets="2"/>
+    <BowlerSummary name="Andy Scott" overs="10" maidens="3" runs="19" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

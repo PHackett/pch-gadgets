@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:46 UTC+0100 2010 -->
+<CricketMatch oppo="Totenham Enterprise" date="Sun Jul 24 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Reynold"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reynold"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="Hart"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Heggarty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reynold"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reynold"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reynold"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reynold"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hart"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Hart"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Brian Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="Reynold"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="6" score="54"/>
+    <FallOfWicket batsman="7" score="54"/>
+    <FallOfWicket batsman="8" score="57"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="10" score="81"/>
+    <FallOfWicket batsman="9" score="82"/>
+    <BowlerSummary name="Reynold" overs="17" maidens="5" runs="24" wickets="7"/>
+    <BowlerSummary name="Jones" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Hart" overs="13.4" maidens="3" runs="32" wickets="3"/>
+  </Innings>
+  <Innings batting="Totenham Enterprise">
+    <Batsman name="P Ward">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="H Gooch">
+      <HowOut how="Caught Paul Howells"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Jones">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Driscoll">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="W Hart">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T Skeggs">
+      <HowOut how="Caught Hugh Davies"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Lockhurst">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Reynold">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Hands">
+      <HowOut how="Caught J Heggarty"/>
+      <Bowler name="Brian Adams"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="w Cully">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="6" score="26"/>
+    <FallOfWicket batsman="8" score="32"/>
+    <FallOfWicket batsman="9" score="43"/>
+    <FallOfWicket batsman="10" score="52"/>
+    <FallOfWicket batsman="7" score="54"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="4" runs="14" wickets="0"/>
+    <BowlerSummary name="Brian Adams" overs="12" maidens="4" runs="19" wickets="6"/>
+    <BowlerSummary name="Matthew Fort" overs="7" maidens="1" runs="16" wickets="2"/>
+    <BowlerSummary name="Tim Glover" overs="5.4" maidens="2" runs="4" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

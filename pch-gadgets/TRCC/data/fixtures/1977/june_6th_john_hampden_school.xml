@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 19:08:48 UTC+0100 2010 -->
+<CricketMatch oppo="John Hampden School" date="Mon Jun 6 00:00:00 UTC+0100 1977">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Martin Grugeon">
+      <HowOut how="Caught"/>
+      <Bowler name="Boreham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Galley"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mick Houlton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Boreham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Willis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Galley"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Boreham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jim Bryant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Galley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barry Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="George West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Graham Tibbett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matthew Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Telfer"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="3" score="12"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="5" score="39"/>
+    <FallOfWicket batsman="6" score="57"/>
+    <FallOfWicket batsman="8" score="94"/>
+    <FallOfWicket batsman="7" score="101"/>
+    <BowlerSummary name="Boreham" overs="17" maidens="5" runs="32" wickets="3"/>
+    <BowlerSummary name="Galley" overs="11" maidens="3" runs="36" wickets="3"/>
+    <BowlerSummary name="Tomlins" overs="2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Cartledge" overs="3" maidens="0" runs="14" wickets="2"/>
+  </Innings>
+  <Innings batting="John Hampden School">
+    <Batsman name="Evans">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Howson">
+      <HowOut how="Caught Graham Tibbett"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Caught Graham Tibbett"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Galley">
+      <HowOut how="LBW"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Gray">
+      <HowOut how="Caught Jim Bryant"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Mikurenda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matthew Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Cartledge">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Wagge">
+      <HowOut how="Caught Martin Grugeon"/>
+      <Bowler name="Mick Houlton"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sullivan">
+      <HowOut how="Caught George West"/>
+      <Bowler name="Martin Grugeon"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tomlins">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Boreham"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="8" score="78"/>
+    <FallOfWicket batsman="9" score="98"/>
+    <BowlerSummary name="Martin Grugeon" overs="9" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Jim Bryant" overs="7" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Mick Houlton" overs="15" maidens="4" runs="43" wickets="5"/>
+    <BowlerSummary name="S Willis" overs="3" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Matthew Fort" overs="5" maidens="1" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
