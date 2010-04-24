@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Aldermaston" date="Sat Aug 23 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="N Willmott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Not Out"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Willmott"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="J Thomas"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="DF Joliffe"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor"/>
+    <Batsman name="David Downes"/>
+    <Batsman name="Chris Sellers"/>
+    <Batsman name="Bill Hatch"/>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="5" score="112"/>
+    <FallOfWicket batsman="6" score="124"/>
+    <BowlerSummary name="B Moore" overs="12" maidens="5" runs="19" wickets="0"/>
+    <BowlerSummary name="N Willmott" overs="10" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="J Thomas" overs="12" maidens="0" runs="55" wickets="1"/>
+    <BowlerSummary name="DF Joliffe" overs="13" maidens="0" runs="52" wickets="1"/>
+  </Innings>
+  <Innings batting="Aldermaston">
+    <Batsman name="DF Joliffe">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="DP Joliffe">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Moore">
+      <HowOut how="Caught Bill Hatch"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="B Holden">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="N Willmott">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Byron-Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Braine">
+      <HowOut how="Caught James Fort"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Maidment">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="4" score="108"/>
+    <FallOfWicket batsman="5" score="108"/>
+    <FallOfWicket batsman="6" score="108"/>
+    <FallOfWicket batsman="3" score="108"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <BowlerSummary name="Chris Sellers" overs="12" maidens="5" runs="25" wickets="3"/>
+    <BowlerSummary name="David Downes" overs="13" maidens="4" runs="33" wickets="4"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="James Fort" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Bill Hatch" overs="1" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="1" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Aldermaston" date="Sat Jul 19 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Aldermaston">
+    <Batsman name="DP Jolliffe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="DF Jolliffe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Moore">
+      <HowOut how="Not Out"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Holden">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Maidment">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Willmott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Braine">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Farmer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hunt"/>
+    <Extras value="29"/>
+    <BowlerSummary name="Chris Sellers" overs="22" maidens="0" runs="80" wickets="8"/>
+    <BowlerSummary name="Andy Scott" overs="10" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Alan Brooklyn" overs="11" maidens="2" runs="48" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="DF Jolliffe"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Moore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="DF Jolliffe"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="DF Jolliffe"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="John Howells">
+      <HowOut how="LBW"/>
+      <Bowler name="Farmer"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="LBW"/>
+      <Bowler name="DF Jolliffe"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="DF Jolliffe"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Caught"/>
+      <Bowler name="DF Jolliffe"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Stan Coates"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="84"/>
+    <FallOfWicket batsman="1" score="87"/>
+    <FallOfWicket batsman="5" score="88"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="7" score="101"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="8" score="117"/>
+    <BowlerSummary name="K Smith" overs="7" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Moore" overs="9.3" maidens="6" runs="19" wickets="1"/>
+    <BowlerSummary name="DF Jolliffe" overs="14" maidens="1" runs="55" wickets="6"/>
+    <BowlerSummary name="Farmer" overs="11" maidens="1" runs="54" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

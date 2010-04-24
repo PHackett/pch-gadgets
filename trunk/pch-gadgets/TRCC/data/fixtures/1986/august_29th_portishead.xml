@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Portishead" date="Fri Aug 29 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Pitt"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Caught"/>
+      <Bowler name="P Windward"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Dennis"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Run Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="John Kirk">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Windward"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Windward"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Fulcher">
+      <HowOut how="LBW"/>
+      <Bowler name="A Dennis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Dennis"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="T Knowlden"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="6" score="59"/>
+    <FallOfWicket batsman="7" score="64"/>
+    <FallOfWicket batsman="8" score="73"/>
+    <FallOfWicket batsman="9" score="86"/>
+    <FallOfWicket batsman="10" score="102"/>
+    <FallOfWicket batsman="4" score="118"/>
+    <BowlerSummary name="M Pitt" overs="8" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="J Gould" overs="9" maidens="2" runs="17" wickets="0"/>
+    <BowlerSummary name="P Windward" overs="6" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="A Dennis" overs="6" maidens="2" runs="7" wickets="3"/>
+    <BowlerSummary name="J Rundle" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="K Saunders" overs="2" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="T Knowlden" overs="2.4" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Portishead">
+    <Batsman name="S Windward">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="W Hatch">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="T Knowlden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="J Rundle">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="J Gould">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Pitt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Windward">
+      <HowOut how="Caught G Fulcher"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Adams">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="K Saunders">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="60"/>
+    <FallOfWicket batsman="1" score="68"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="7" score="101"/>
+    <FallOfWicket batsman="9" score="114"/>
+    <BowlerSummary name="Stewart Wren" overs="14" maidens="2" runs="27" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Steve Abraham" overs="10.1" maidens="5" runs="30" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="5" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

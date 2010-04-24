@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:24 UTC+0100 2010 -->
+<CricketMatch oppo="Woolhampton" date="Sat Sep 6 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woolhampton">
+    <Batsman name="M Gregory">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Thornley">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gregory">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Moore">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Giles">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Martin">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Hyde">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Theo Gray"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Nichols">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="73"/>
+    <FallOfWicket batsman="2" score="78"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="5" score="80"/>
+    <FallOfWicket batsman="4" score="92"/>
+    <FallOfWicket batsman="7" score="103"/>
+    <FallOfWicket batsman="6" score="104"/>
+    <FallOfWicket batsman="8" score="106"/>
+    <FallOfWicket batsman="10" score="116"/>
+    <FallOfWicket batsman="11" score="116"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="10" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Theo Gray" overs="11" maidens="2" runs="30" wickets="4"/>
+    <BowlerSummary name="Alan Brooklyn" overs="8" maidens="3" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott"/>
+    <Batsman name="Dave Parry">
+      <HowOut how="Caught"/>
+      <Bowler name="Shaw"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nichols"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Morris"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Imms"/>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="1" score="72"/>
+    <FallOfWicket batsman="3" score="91"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="7" score="99"/>
+    <FallOfWicket batsman="8" score="116"/>
+    <BowlerSummary name="Shaw" overs="6" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Thornley" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Nichols" overs="7.3" maidens="0" runs="25" wickets="4"/>
+    <BowlerSummary name="Morris" overs="7" maidens="0" runs="31" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

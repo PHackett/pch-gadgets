@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Daily Mail" date="Sat Jun 28 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Lynas"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Williams"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="D Williams"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Edwards"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Caught"/>
+      <Bowler name="Edwards"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Edwards"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Sellers">
+      <HowOut how="Caught"/>
+      <Bowler name="D Williams"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bill Hatch"/>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <BowlerSummary name="D Williams" overs="15" maidens="1" runs="48" wickets="3"/>
+    <BowlerSummary name="S Lynas" overs="11" maidens="5" runs="25" wickets="1"/>
+    <BowlerSummary name="Mason" overs="7" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Edwards" overs="8" maidens="1" runs="30" wickets="3"/>
+  </Innings>
+  <Innings batting="Daily Mail">
+    <Batsman name="Dalbyshire">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mason">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Boffey">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="ONeal">
+      <HowOut how="Caught Dave Parry"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Lynas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Seamark">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Greaves">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="1"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="4" score="25"/>
+    <FallOfWicket batsman="6" score="31"/>
+    <FallOfWicket batsman="7" score="39"/>
+    <BowlerSummary name="Chris Sellers" overs="11" maidens="4" runs="18" wickets="4"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="Alan Brooklyn" overs="4" maidens="1" runs="7" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Andy Scott" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Dave Parry" overs="3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

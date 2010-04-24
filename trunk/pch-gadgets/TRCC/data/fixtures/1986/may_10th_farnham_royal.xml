@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Farnham Royal" date="Sat May 10 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Farnham Royal">
+    <Batsman name="A Gillham">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Dave Parry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Boxer">
+      <HowOut how="Caught Theo Gray"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Monk">
+      <HowOut how="Caught Steve Dunn"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="G Bevan">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="S Rodgers">
+      <HowOut how="Caught Alan Brooklyn"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Shave">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="R Castle">
+      <HowOut how="Stumped"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="T Wright">
+      <HowOut how="Stumped"/>
+      <Bowler name="Alan Brooklyn"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="N Shave">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Lambard">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="r Saunder">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Andy Scott" overs="14" maidens="3" runs="29" wickets="2"/>
+    <BowlerSummary name="Dave Parry" overs="7" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="12" maidens="0" runs="56" wickets="4"/>
+    <BowlerSummary name="Alan Brooklyn" overs="10" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="Steve Dunn" overs="4" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="T Wright"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Lambard"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Shave"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Lambard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Lambard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Gray">
+      <HowOut how="Stumped"/>
+      <Bowler name="N Shave"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave Parry">
+      <HowOut how="LBW"/>
+      <Bowler name="N Shave"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stan Coates">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Lambard"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="6" score="69"/>
+    <FallOfWicket batsman="7" score="72"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <FallOfWicket batsman="9" score="100"/>
+    <FallOfWicket batsman="4" score="102"/>
+    <FallOfWicket batsman="11" score="109"/>
+    <BowlerSummary name="T Wright" overs="11" maidens="2" runs="28" wickets="2"/>
+    <BowlerSummary name="r Saunder" overs="3" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="N Shave" overs="14" maidens="2" runs="47" wickets="3"/>
+    <BowlerSummary name="S Lambard" overs="6.1" maidens="0" runs="27" wickets="4"/>
+  </Innings>
+</CricketMatch>
+

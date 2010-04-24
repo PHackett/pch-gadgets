@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:21 UTC+0100 2010 -->
+<CricketMatch oppo="Warfield" date="Sun May 18 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="Doig">
+      <HowOut how="Run Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Freeborn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hesselburger">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jocheim">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Glover"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Emery">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="R Moss">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="V Moss">
+      <HowOut how="Caught Steve Hill"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Cannon">
+      <HowOut how="Caught Stewart Wren"/>
+      <Bowler name="James Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Moody">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <FallOfWicket batsman="4" score="71"/>
+    <FallOfWicket batsman="3" score="82"/>
+    <FallOfWicket batsman="6" score="88"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <FallOfWicket batsman="9" score="111"/>
+    <FallOfWicket batsman="10" score="139"/>
+    <FallOfWicket batsman="7" score="154"/>
+    <BowlerSummary name="Stewart Wren" overs="23" maidens="8" runs="47" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="17" maidens="1" runs="74" wickets="2"/>
+    <BowlerSummary name="Tim Glover" overs="8" maidens="1" runs="27" wickets="3"/>
+    <BowlerSummary name="James Fort" overs="1" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Steve Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Moss"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Paul Howells">
+      <HowOut how="Bowled"/>
+      <Bowler name="Emery"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Moss"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught"/>
+      <Bowler name="Emery"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="R Moss"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Emery"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="John Morrison">
+      <HowOut how="Bowled"/>
+      <Bowler name="Emery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Davies">
+      <HowOut how="Caught"/>
+      <Bowler name="Emery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Glover">
+      <HowOut how="Bowled"/>
+      <Bowler name="Moody"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Emery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="4" score="42"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="7" score="50"/>
+    <FallOfWicket batsman="8" score="55"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="10" score="68"/>
+    <FallOfWicket batsman="9" score="74"/>
+    <BowlerSummary name="Emery" overs="15" maidens="5" runs="27" wickets="6"/>
+    <BowlerSummary name="R Moss" overs="11" maidens="2" runs="38" wickets="3"/>
+    <BowlerSummary name="Moody" overs="3.5" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

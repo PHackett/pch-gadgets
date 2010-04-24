@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Hurst" date="Thu May 29 00:00:00 UTC+0100 1986">
+  <MatchReport>
+    <![CDATA[
+      Knockout Cup
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Hurst">
+    <Batsman name="Runble">
+      <HowOut how="Caught "/>
+      <Bowler name="Jonathan Baker"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Woodroffe">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Brazier">
+      <HowOut how="Caught "/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Bates">
+      <HowOut how="Caught "/>
+      <Bowler name="Steve Dunn"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hawkes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Lacy">
+      <HowOut how="Caught "/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Ambrose">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Wearing">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Cummings"/>
+    <Batsman name="Whitfield"/>
+    <Batsman name="Holland"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="1" score="81"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="5" score="134"/>
+    <FallOfWicket batsman="6" score="147"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <BowlerSummary name="Andy Scott" overs="4" maidens="1" runs="27" wickets="3"/>
+    <BowlerSummary name="Steve Abraham" overs="4" maidens="0" runs="28" wickets="3"/>
+    <BowlerSummary name="Bill Hatch" overs="1" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Jonathan Baker" overs="4" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Steve Dunn" overs="3" maidens="0" runs="39" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ambrose"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Scott">
+      <HowOut how="LBW"/>
+      <Bowler name="Holland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bates"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Holland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Holland"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Jackson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Ambrose"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Whitfield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Caught"/>
+      <Bowler name="Whitfield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Lake">
+      <HowOut how="Caught"/>
+      <Bowler name="Holland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Whitfield"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Hill">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="4" score="2"/>
+    <FallOfWicket batsman="5" score="10"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="7" score="46"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="8" score="57"/>
+    <FallOfWicket batsman="10" score="57"/>
+    <FallOfWicket batsman="9" score="57"/>
+    <BowlerSummary name="Ambrose" overs="4" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Holland" overs="3" maidens="0" runs="8" wickets="4"/>
+    <BowlerSummary name="Bates" overs="2" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Whitfield" overs="3" maidens="0" runs="14" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

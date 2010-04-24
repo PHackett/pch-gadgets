@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 20:51:23 UTC+0100 2010 -->
+<CricketMatch oppo="Henley 2nds" date="Sat Jul 12 00:00:00 UTC+0100 1986">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andy Scott">
+      <HowOut how="Caught"/>
+      <Bowler name="Winch"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Winch"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Kelly">
+      <HowOut how="Caught"/>
+      <Bowler name="Saker"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Dunn">
+      <HowOut how="Caught"/>
+      <Bowler name="Winch"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Caught"/>
+      <Bowler name="Neal"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Alan Brooklyn">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="Saker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="John Grinter">
+      <HowOut how="Caught"/>
+      <Bowler name="Saker"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bill Hatch">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Peter Lake"/>
+    <Batsman name="Chris Sellers"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="24"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="5" score="57"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <FallOfWicket batsman="8" score="77"/>
+    <BowlerSummary name="Winch" overs="12" maidens="1" runs="30" wickets="3"/>
+    <BowlerSummary name="Scott" overs="5" maidens="2" runs="8" wickets="0"/>
+    <BowlerSummary name="Neal" overs="10" maidens="4" runs="18" wickets="1"/>
+    <BowlerSummary name="Saker" overs="5" maidens="1" runs="12" wickets="3"/>
+    <BowlerSummary name="Broley" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Stevens" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Jones" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Henley 2nds">
+    <Batsman name="James">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Lambert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Caught Peter Lake"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kurton">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Saker">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="OCollins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Winch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stevens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Scott"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Broley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Sellers"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Neal">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <BowlerSummary name="Chris Sellers" overs="20.1" maidens="4" runs="45" wickets="7"/>
+    <BowlerSummary name="Steve Abraham" overs="8" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Andy Scott" overs="10" maidens="1" runs="36" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
