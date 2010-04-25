@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<CricketMatch oppo="Hambleden" date="Sun Aug 11 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       Twyford lost at Hambledon where they were put into bat in a 40 over game. The wicket was green and
+      the bounce very uneven and Twyford, with a weak side, stuggled to get the ball away. Seymour with 18
+      had no support at the top of the order and the first 5 wickets went down for 39. It was left to
+      skipper Nic Downes with 43 not out to shepherd the tail. There were useful partnerships with Neall
+      who made 19 and with Andrew Evans. A total of 115 gave a glimmer hope in what was always going to be
+      a low scoring game. 
+      <p>
+       The slope on the pitch caused terrible problems for the
+      Twyford seamers who just could not bowl a decent length and Preen benefitted scoring 38 and getting
+      the Hambledon innings away to a good start. It was left to Downes, with the ball this time, to put
+      some pressure on and he took 5 for 24. Hollis however was not to be moved and he saw his side home
+      with 25 not out. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wooliams"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Wooliams"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hyner"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Ct Hollis"/>
+      <Bowler name="Hyner"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct Hollis"/>
+      <Bowler name="Anderson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Alex Neall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Arnold"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Arnold"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="5"/>
+    <BowlerSummary name="Evans" overs="8" maidens="4" runs="13" wickets="0"/>
+    <BowlerSummary name="Wooliams" overs="14" maidens="4" runs="43" wickets="2"/>
+    <BowlerSummary name="Hyner" overs="6" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Anderson" overs="6" maidens="4" runs="8" wickets="1"/>
+    <BowlerSummary name="Arnold" overs="6" maidens="0" runs="24" wickets="2"/>
+  </Innings>
+  <Innings batting="Hambleden">
+    <Batsman name="Preen">
+      <HowOut how="Ct C Evans"/>
+      <Bowler name="A Evans"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rosier">
+      <HowOut how="Bowled"/>
+      <Bowler name="Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hollis">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Blackall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hyner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Bridges">
+      <HowOut how="Bowled"/>
+      <Bowler name="Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Anderson">
+      <HowOut how="Stumped P Woodman"/>
+      <Bowler name="Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Wooliams">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="2" runs="40" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="12" maidens="4" runs="24" wickets="5"/>
+    <BowlerSummary name="Drew Evans" overs="3" maidens="2" runs="5" wickets="1"/>
+    <BowlerSummary name="Alex Neall" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

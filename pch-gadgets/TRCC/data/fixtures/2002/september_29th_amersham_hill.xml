@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:53 UTC+0100 2010 -->
+<CricketMatch oppo="Amersham Hill" date="Sun Sep 29 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       Twyford won the toss and asked a very young Amersham side to bowl. The top order were ambushed by
+      the youngsters on a hard wicket and Twyford collapsed to 3 for 4. Wren then held the innings
+      together with an excellent 64, he was given great support by the middle and late order and valuable
+      contributions from the Evans brothers and Edney saw the side to a total of 182 that looked as though
+      it should have been good enough. 
+      <p>
+       Despite the loss of an early wicket Amersham
+      raced to 100 for 2. At this point they started to loose wickets regularly to Twyford's senior
+      bowlers and it looked as though Twyford had enough runs in the bank. A couple of crucial catches
+      however went begging and the one off Bourne when 60 something proved crucial as he went on to score
+      and unbeaten 100 and see his side home.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Richardson-Hill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Butler">
+      <HowOut how="Caught"/>
+      <Bowler name="Bournes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Caught"/>
+      <Bowler name="Cave"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oakley"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Oakley"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Headley"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Cave"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Headley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Richardson-Hill" overs="6" maidens="1" runs="10" wickets="1"/>
+    <BowlerSummary name="Bournes" overs="11" maidens="4" runs="30" wickets="1"/>
+    <BowlerSummary name="Oakley" overs="6" maidens="3" runs="8" wickets="2"/>
+    <BowlerSummary name="Headley" overs="12" maidens="2" runs="58" wickets="2"/>
+    <BowlerSummary name="Smale" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Cave" overs="4" maidens="0" runs="25" wickets="2"/>
+  </Innings>
+  <Innings batting="Amersham Hill">
+    <Batsman name="Bournes">
+      <HowOut how="Not Out"/>
+      <Runs value="108"/>
+    </Batsman>
+    <Batsman name="Bao">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richardson-Hill">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Macenzie">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Headley">
+      <HowOut how="Caught N Downes"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tefford">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Cave">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Petford">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Oakley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Smale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Cave">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Paul Hackett" overs="15" maidens="4" runs="47" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Stewart Wren" overs="7" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="12.2" maidens="3" runs="46" wickets="3"/>
+  </Innings>
+</CricketMatch>
+

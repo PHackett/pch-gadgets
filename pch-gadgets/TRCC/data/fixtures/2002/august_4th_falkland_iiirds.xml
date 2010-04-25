@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:19:30 UTC+0100 2010 -->
+<CricketMatch oppo="Falkland IIIrds" date="Sun Aug 4 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       Twyford paid their first visit to the beautiful Falkland ground and were inspired by the setting. A
+      much weakened Twyford inserted Falkland on a good track. After an initially quick start by Falkland,
+      Hackett and Beamish both got the new ball to swing away and made life very difficult for the
+      batsmen, both had sharp chances put down. At 74 for 3 a good score looked in prospect but a fragile
+      tail with several juniors in it dramatically collapsed. The innings finished on 89 with the last 6
+      wickets falling in 16 balls. Wren took 3 for 10 from 6 overs hitting the stumps twice and nearly
+      taking a hat trick and Downes took 3 for 9 from 2 overs including 2 catches off his own bowling. 
+  
+         <p>
+       In reply Twyford made good progress despite the early loss of Greenfield. 15 year old
+      Philip Hoy starred with 32 in only his second senior game displaying a fine temperament for the big
+      occasion. He put on 69 for the second wicket with skipper Nic Downes who was particularly savage on
+      anything short and who finished unbeaten on 38 as Twyford secured an 8 wicket victory. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Greenfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Johnson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Phillip Hoy">
+      <HowOut how="LBW"/>
+      <Bowler name="Marson"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stewart Wren"/>
+    <Batsman name="Peter Woodman"/>
+    <Batsman name="Jones"/>
+    <Batsman name="Drew Evans"/>
+    <Batsman name="D Hoy"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Johnson" overs="10.4" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Bradd" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Birtwistle" overs="2" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Marson" overs="3" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Falkland IIIrds">
+    <Batsman name="Horn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Holmes">
+      <HowOut how="Ct A Evans"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Day">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ballard">
+      <HowOut how="Ct Woodman"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Francis">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Russell">
+      <HowOut how="Ct&amp;amp;b"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Day">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Johnson">
+      <HowOut how="Ct&amp;amp;b"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Birtwistle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bradd">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="6" maidens="1" runs="10" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="9" wickets="3"/>
+    <BowlerSummary name="Drew Evans" overs="0.3" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:53 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 22 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       Twyford won the toss and asked Cranbourne to bat. In a curios innings Cranbourne lost only 5
+      wickets but due to tight bowling and fielding made only 170 in 46 overs. A well watered pitch meant
+      that the ball did not come on to the bat and the Cranbourne total proved to be a good game score.
+      All of the batsmen did well but it was Scott at the end who added some impetus at the end as he rode
+      his luck after being dropped on the long on boundary. 
+      <p>
+      </p> Twyford's middle order
+      let the side down with Woodman and Benjamin doing well early on. Hall looked as though he might
+      guide the side to victory but wickets kept falling at the other end until the tail provided some
+      support and then on Hall's dismissal took things upon themsleves to have a dip at the target with
+      Andrew Evans and Beamish worthy of special mention. Even the opposition enjoyed seeing the Twyford
+      tail take their regular seamers for 31 in 5 overs at the death. Cranbourne however had kept their
+      main weapon, Thorpe, going at the other end. Bowling slow but big turning leggies with a well
+      disguised googly and quicker ball he finished with 6 for 33 and was a match winner. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="Crick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Thorpe">
+      <HowOut how="Ct Woodman"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Castle">
+      <HowOut how="Ct Abraham"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Resko">
+      <HowOut how="Bowled"/>
+      <Bowler name="Drew Evans"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Barfield">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ball">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James"/>
+    <Batsman name="Tanton"/>
+    <Batsman name="Jones"/>
+    <Batsman name="Singh"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="3" runs="33" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="15" maidens="2" runs="55" wickets="2"/>
+    <BowlerSummary name="Drew Evans" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="28" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="lbw"/>
+      <Bowler name="Jones"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="lbw"/>
+      <Bowler name="Tanton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Jones"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Ct Crick"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct Crick"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thorpe"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Tanton" overs="5" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="Barfield" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="James" overs="6" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Ball" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Jones" overs="8" maidens="3" runs="17" wickets="3"/>
+    <BowlerSummary name="Thorpe" overs="10.3" maidens="1" runs="33" wickets="6"/>
+    <BowlerSummary name="Crick" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Scott" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
