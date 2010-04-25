@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:53 UTC+0100 2010 -->
+<CricketMatch oppo="Eversley" date="Sun Sep 8 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       Twyford, playing at the beautiful Eversley ground for the first time, were put in to bat. Hall and
+      Seymour put on 51 for the fist wicket and then Seymour and Tom Fort 106 for the second wicket.
+      Seymour was particularly savage on the fast, short leg side balls that came his way and Fort danced
+      down the wicket to the slow bowlers when they came on, both making excellent half centuries. With
+      both out in quick succession the innings collapsed from 157-1 to 200 all out. 
+      <p>
+      
+      Eversley started well and at 108-1 it looked as though the score would be within their range. Tom
+      Fort took a couple of wickets to even things up and then took a quite stunning catch off his own
+      bowling to dismiss opener Cummings who had moved on to an aggressive and very assured 53. This was a
+      turning point in the game as Twyford now poured on the pressure. It was not to be however and
+      although Fort had the exceptional figures of 10 overs, 5 maidens, 6 wickets for 10 runs the last two
+      wickets were not to be prised out and an excellent game played in great spirit ended in draw. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Hall">
+      <HowOut how="c Hughes"/>
+      <Bowler name="Baker"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="lbw"/>
+      <Bowler name="Tonks"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="b"/>
+      <Bowler name="Tonks"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="c&amp;b"/>
+      <Bowler name="Budd"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run"/>
+      <Bowler name="Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="b"/>
+      <Bowler name="Tonks"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="b"/>
+      <Bowler name="Budd"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="b"/>
+      <Bowler name="Critchley"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="c Hughes"/>
+      <Bowler name="Budd"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="b"/>
+      <Bowler name="Pigden"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Cummings" overs="6" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Pigden" overs="6.4" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Baker" overs="5" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Critchley" overs="8" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Tonks" overs="9" maidens="1" runs="50" wickets="3"/>
+    <BowlerSummary name="Budd" overs="8" maidens="1" runs="40" wickets="3"/>
+  </Innings>
+  <Innings batting="Eversley">
+    <Batsman name="Maclaverty">
+      <HowOut how="c R Edney"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Cummings">
+      <HowOut how="c&amp;b"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Gallagher">
+      <HowOut how="b"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Worstencroft">
+      <HowOut how="b"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Baker">
+      <HowOut how="lbw"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hughes">
+      <HowOut how="b"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ward">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Budd">
+      <HowOut how="c H Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pigden">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tonks">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Critchley"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="0" runs="60" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="10" maidens="5" runs="10" wickets="6"/>
+    <BowlerSummary name="Chris Evans" overs="3" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

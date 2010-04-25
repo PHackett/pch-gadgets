@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<CricketMatch oppo="East Preston" date="Mon Aug 26 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       After a slow morning watching England go quietly, yes we found a pub that was already open at 11
+      o'clock, the game got off to fast start. 
+      <p>
+       EP won the toss and decided to bowl. Pete
+      Woodman and Roger Seymour in excellent tour form found the fast bouncy artificial wicket to their
+      liking, Roger playing a couple of memorable hooks and Pete displaying crisp timing through the
+      offside went on to score a rapid 75. The middle order all chipped in and kept the pressure on. Drew
+      Evans managed to put the ball through the front door of the pavilion and Stewart Wren was notable
+      for becoming the bag packer with an out score of 10! 
+      <p>
+       East Preston always looked as
+      though they meant to reach the target with something to spare. While Hackett and Beamish were tidy
+      with their opening spells they did not look threatening. It took the introduction of spin to claim
+      the first wicket with the score on 89. With Matt Morris introduced to bowl an attacking line and Nic
+      Downes consistently beating the bat at the other end wickets started to fall. With the batsmen still
+      playing their shots and pacing their innings things were boiling up to an exciting climax. In the
+      end EP just ran out of batsmen as Downes continued to take wickets and finished with 5 for 64 in
+      what had been a very high scoring game. 
+      <p>
+       Won by 20 runs 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Ct"/>
+      <Bowler name="Smith"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Ct"/>
+      <Bowler name="Davis"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Locke"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="Ct"/>
+      <Bowler name="Mellor"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Matt Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Ct"/>
+      <Bowler name="Mellor"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="36"/>
+    <BowlerSummary name="Bunday" overs="8" maidens="2" runs="25" wickets="0"/>
+    <BowlerSummary name="Davis" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Didcote" overs="11" maidens="2" runs="35" wickets="0"/>
+    <BowlerSummary name="Locke" overs="7" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Smith" overs="6" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Howard" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Mellor" overs="3" maidens="0" runs="26" wickets="2"/>
+  </Innings>
+  <Innings batting="East Preston">
+    <Batsman name="Didcote">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mellor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Harlow">
+      <HowOut how="St Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ralfe">
+      <HowOut how="Ct Woodman"/>
+      <Bowler name="Matt Morris"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Locke">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Davis">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Bunday">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Wiggins">
+      <HowOut how="Bowled"/>
+      <Bowler name="nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Howard"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="14.2" maidens="0" runs="64" wickets="5"/>
+    <BowlerSummary name="Chris Evans" overs="4" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="8" maidens="0" runs="58" wickets="2"/>
+    <BowlerSummary name="Stewart Wren" overs="1" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

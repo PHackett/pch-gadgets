@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:53 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow" date="Sun Sep 15 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       In another high scoring game Twyford slipped to defeat with one ball remaining. Asked to bat on a
+      worn and sloping wicket that played better than expected Twyford got off to an electric start as
+      Benjamin went off like an express train, exquisitely timing the plentiful supply of short balls. Tom
+      Fort in a rich vein of form moved steadily to a half centurty and then added impetus with some sixes
+      off the slow bowling. He was well supported by the late middle order, which included a six from
+      elder brother James that the local Blacksmith would have purred over, and a plentiful supply of
+      extras as Twyford posted a challenging 193 for 8. 
+      <p>
+       Bledlow made a good start,
+      helped by some wayward bowling from Hackett. At the other end however Beamish was bowling well and
+      made an early breakthrough. The side thought he also had the no. 3 caught behind but the umpire saw
+      it as off the pad. This and a near miss in the slips off Downes as Floyd chased a wide one proved
+      crucial. Floyd stayed at the crease until the end and paced the ininngs through to a tight but well
+      judged finish. By the close the Twyford fielding was looking very much in keeping with the steam
+      trains that chuffed gently back and forth at the pavilion end. It reminded one of a bygone era where
+      everything moved more slowly albeit with great and majestic purpose. It was toot toot Twyford! 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Dave Benjamin">
+      <HowOut how="c Mould A"/>
+      <Bowler name="Linnell"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="b"/>
+      <Bowler name="Spooner"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="st Clark"/>
+      <Bowler name="Linnell"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="c Mould I"/>
+      <Bowler name="Linnell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="b"/>
+      <Bowler name="Linnell"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="b"/>
+      <Bowler name="Linnell"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Drew Evans">
+      <HowOut how="st Clark"/>
+      <Bowler name="Linnell"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="b"/>
+      <Bowler name="Spooner"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="37"/>
+    <BowlerSummary name="Spooner" overs="13.4" maidens="4" runs="57" wickets="2"/>
+    <BowlerSummary name="Mould" overs="3" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Witney" overs="7" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Linnell" overs="14" maidens="1" runs="48" wickets="6"/>
+    <BowlerSummary name="Zinkus" overs="8" maidens="1" runs="40" wickets="0"/>
+  </Innings>
+  <Innings batting="Bledlow">
+    <Batsman name="Mould A">
+      <HowOut how="lbw"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="c Benjamin"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Floyd">
+      <HowOut how="Not Out"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Witney A">
+      <HowOut how="C Fort H"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Saunders">
+      <HowOut how="b"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Zinkus">
+      <HowOut how="st Edney"/>
+      <Bowler name="Chris Evans"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Linnell">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Zak"/>
+    <Batsman name="Mould I"/>
+    <Batsman name="Spooner"/>
+    <Batsman name="Witney L"/>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="2" runs="47" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="12.5" maidens="1" runs="62" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="9" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="Drew Evans" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Chris Evans" overs="2" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

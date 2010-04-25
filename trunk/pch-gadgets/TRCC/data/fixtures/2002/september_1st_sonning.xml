@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:53 UTC+0100 2010 -->
+<CricketMatch oppo="Sonning" date="Sun Sep 1 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       In another high scoring game Twyford slipped to defeat with one ball remaining. On a hot day and a
+      good looking wicket Twyford won the toss and chose to bat first. Although slipping quickly to 16 for
+      2 the batsmen then made hay. First Hall got going quickly and made an excellent 66, his innings
+      being brought to a close with a terrific caught & bowled by Aslam. Woodman now took over as the
+      aggressor and was scoring at will toward the end of the innings as he sped to a chanceless hundred.
+      A score of 223 for 3 gave skipper Downes the flexibility to declare earlier and plan some attacking
+      bowling strategies. 
+      <p>
+      </p> The Sonning reply was led singlehandedly by Aslam who went
+      for his shots from the start. Arial blows were always just out of reach and when Downes attacked
+      with his legspin he was treated brutally by Aslam conceeding 50 runs in 5 overs. With some steady
+      support from Baninng at the other end who was always looking to give his partner the strike, Aslam
+      took toll of all of the bowlers with no-one able to keep him in check. Sonning raced to 7 wicket
+      win. 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Ct"/>
+      <Bowler name="Banning"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilding"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Hall">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Aslam"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Rod Edney"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Steve Abraham"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="19"/>
+    <BowlerSummary name="Wilding" overs="10" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Banning" overs="13" maidens="3" runs="38" wickets="1"/>
+    <BowlerSummary name="Aslam" overs="9" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Ahmed" overs="8" maidens="0" runs="67" wickets="0"/>
+    <BowlerSummary name="Handworker" overs="3.4" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Rowe" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+  <Innings batting="Sonning">
+    <Batsman name="Aslam">
+      <HowOut how="Not Out"/>
+      <Runs value="130"/>
+    </Batsman>
+    <Batsman name="Skiel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marks">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Abraham"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Shumake">
+      <HowOut how="Ct P Woodman"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Banning">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Rowe"/>
+    <Batsman name="Handworker"/>
+    <Batsman name="Ahmed"/>
+    <Batsman name="Wilding"/>
+    <Batsman name="Smith"/>
+    <Batsman name="Jones"/>
+    <Extras value="27"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="6" maidens="1" runs="36" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="50" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Tom Hall" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="0.5" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

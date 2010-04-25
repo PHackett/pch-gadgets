@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<CricketMatch oppo="Petworth Park" date="Sun Aug 25 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       A brilliant sunny morning on the Littlehampton seafront, ice creams, the papers a little pitch and
+      put for some and the side set off with great expectation to Petworth Park, the home of Lord Egremont
+      and set on National Trust land. The party rendezvous with new joiners of the tour at the local
+      hostelry in the middle of town and took a tasty appetiser of juicy sandwiches washed down with ale.
+      
+      <p>
+       At the ground an inexperienced Petworth side and a good wicket saw Twyford
+      inserted and race away to a big score. First Tom Fort with 49 and then on his dismissal, Pete
+      Woodman with 96 struck many meaty blows as they gorged themselves on gourmet bowling. Woodman found
+      it difficult to get out and the rest of the team were left drooling on the side line. The feast was
+      declared over at 210 for 5. 
+      <p>
+       Unfortunately the paltry resistance of Petworth was
+      accompanied by white wine pouring from the clouds. The vinification of the scene was total, a
+      drenching, only matched by the vilification of the captain whose delayed acquiescence to the rain
+      and the inevitable abandonment meant that the bar did not open quite as early as it might have done.
+      It was time to drown the sorrows with more ale. 
+      <p>
+       Needless to say the evening
+      seafood restaurant was a bit of a damp squib! 
+      <p>
+       A day that had begun so brightly
+      however did sparkle later as the corks popped out and amid much ribaldry dibley there were heard
+      some joyous shouts of Yee Haaagh!! 
+      <p>
+       Match Abandoned
+      <p>
+       
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="Wakeford"/>
+      <Runs value="96"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct Picaud"/>
+      <Bowler name="N Kerridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Kerridge"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Picaud"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Ct&amp;amp;Bowled"/>
+      <Bowler name="N Kerridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wakeford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Chris Evans"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="25"/>
+    <BowlerSummary name="N Kerridge" overs="7" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="P Kerridge" overs="12" maidens="0" runs="74" wickets="1"/>
+    <BowlerSummary name="Picaud" overs="10" maidens="1" runs="53" wickets="1"/>
+    <BowlerSummary name="Maynard" overs="3" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Wakeford" overs="1.4" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Petworth Park">
+    <Batsman name="Wakeford">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Maynard">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="N Kerridge"/>
+    <Batsman name="Seymour"/>
+    <Batsman name="J Fort"/>
+    <Batsman name="G Maidmant"/>
+    <Batsman name="P Kerridge"/>
+    <Batsman name="Cobb"/>
+    <Batsman name="S Picaud"/>
+    <Batsman name="Westmore"/>
+    <Batsman name="J Maidment"/>
+    <Extras value="1"/>
+    <BowlerSummary name="Paul Hackett" overs="1.5" maidens="1" runs="0" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

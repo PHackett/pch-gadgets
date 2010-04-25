@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<CricketMatch oppo="Worthing" date="Sat Aug 24 00:00:00 UTC+0100 2002">
+  <MatchReport>
+    <![CDATA[
+       A grand place play, once a venue for the County team and where on the main pitch Pete could
+      remember as a boy watching Ted Dexter play. 
+      <p>
+       Worthing won the toss and elected to
+      bat but were soon regretting their decision as Paul Hackett made the ball swing from one end and
+      Stewart Wren kept things tight at the other. . Worthing's exuberant batsmen did not have the
+      concentration to knuckle down and with some generous lbw decisions by their umpires they were really
+      struggling at 64 for 5. Only Flower an, occasional in Worthing's seconds, had the patience to allow
+      his innings to blossom and with his shepherding of the tail put some respectability in a final score
+      of 158. Paul's best bowling of the season, bounce as well as controlled swing brought him a return
+      of 6 for 41. 
+      <p>
+       With the shine off of the ball and the pitch a good one Woodman and
+      Seymour put on 64 for the first wicket and Twyford were in firm control of the game. 30 from Wren
+      and good support from the middle order saw the side home for the loss of 5 wickets. Although it went
+      to the last over the result was never really in doubt despite Downes pulling up lame with 10 runs
+      still needed. A good win and a great start to the tour. 
+      <p>
+       Won by 5 wickets 
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Worthing">
+    <Batsman name="Osland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Simmonds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Westwater">
+      <HowOut how="LBW"/>
+      <Bowler name="Stewart Wren"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Burke">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Lee">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Down">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Cane">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Flower">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Cook">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Howell"/>
+    <Extras value="28"/>
+    <BowlerSummary name="Paul Hackett" overs="14" maidens="3" runs="41" wickets="6"/>
+    <BowlerSummary name="Stewart Wren" overs="9" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="2" runs="40" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="34" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Ct Taylor"/>
+      <Bowler name="Simmonds"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Ct Cook"/>
+      <Bowler name="Down"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Chris Evans">
+      <HowOut how="Ct Howell"/>
+      <Bowler name="Down"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Ct Burke"/>
+      <Bowler name="Osland"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Ct Cook"/>
+      <Bowler name="Howell"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kim Knight"/>
+    <Batsman name="Drew Evans"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="32"/>
+    <BowlerSummary name="Cane" overs="7" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Simmonds" overs="10" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Down" overs="7" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Howell" overs="7.4" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Osland" overs="4" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
