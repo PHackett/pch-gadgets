@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Sat Apr 24 21:18:56 UTC+0100 2010 -->
-<CricketMatch oppo="" date="Sat Aug 29 08:00:00 UTC+0100 1998">
+<CricketMatch oppo="Welford Park" date="Sat Aug 29 08:00:00 UTC+0100 1998">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Nic Downes">
@@ -63,7 +63,7 @@
     <BowlerSummary name="Herrington" overs="7" maidens="0" runs="30" wickets="0"/>
     <BowlerSummary name="Burrows" overs="3" maidens="0" runs="14" wickets="1"/>
   </Innings>
-  <Innings batting="">
+  <Innings batting="Welford Park">
     <Batsman name="Jeffcott">
       <HowOut how="Bowled"/>
       <Bowler name="Ronayne Churchill-Brown"/>
