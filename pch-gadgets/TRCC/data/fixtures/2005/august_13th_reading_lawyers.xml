@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
-<CricketMatch oppo="Readin Lawyers" date="Sat Aug 13 00:00:00 UTC+0100 2005">
+<CricketMatch oppo="Reading Lawyers" date="Sat Aug 13 00:00:00 UTC+0100 2005">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Readin Lawyers">
+  <Innings batting="Reading Lawyers">
     <Batsman name="H Symons">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Green"/>
