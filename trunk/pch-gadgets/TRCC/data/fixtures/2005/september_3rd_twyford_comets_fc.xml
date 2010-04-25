@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Sat Apr 24 21:20:48 UTC+0100 2010 -->
-<CricketMatch oppo="Teyford Comets FC" date="Sat Sep 3 00:00:00 UTC+0100 2005">
+<CricketMatch oppo="Twyford Comets FC" date="Sat Sep 3 00:00:00 UTC+0100 2005">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="James Fort">
@@ -67,7 +67,7 @@
     <BowlerSummary name="Worth" overs="2" maidens="0" runs="8" wickets="3"/>
     <BowlerSummary name="Edgington" overs="1" maidens="0" runs="2" wickets="2"/>
   </Innings>
-  <Innings batting="Teyford Comets FC">
+  <Innings batting="Twyford Comets FC">
     <Batsman name="Guy">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Walkland"/>
