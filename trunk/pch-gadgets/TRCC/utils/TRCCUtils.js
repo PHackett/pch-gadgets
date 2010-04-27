@@ -116,11 +116,16 @@ function TRCCUtils_MakeWorkingHTML (aTitle)
 		lTitle = "Working ...";
 	}
 	
-	lHTML += "<table width='100%' border='1'>";
+	lHTML += "<table width='100%' border='0'>";
+	
+	lHTML +=   "<tr align='center'><td>&nbsp;</td></tr>";
+	
 	lHTML +=   "<tr align='center'>";
 	lHTML +=     "<td><image src='" + lWorkingGif + "'></td>";
 	lHTML +=   "</tr>";
 
+	lHTML +=   "<tr align='center'><td>&nbsp;</td></tr>";
+	
 	lHTML +=   "<tr align='center'>";
 	lHTML +=     "<td>" + lTitle + "</td>";
 	lHTML +=   "</tr>";
