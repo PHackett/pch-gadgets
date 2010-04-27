@@ -40,6 +40,7 @@ function GGGadget_MultiLoader ()
 	this.add 			= GGGadget_MultiLoader___add;
 	this.setCB 			= GGGadget_MultiLoader___setCB;
 	this.invoke			= GGGadget_MultiLoader___invoke;
+	this.size			= GGGadget_MultiLoader___size;
 
 	//
 	// Privatge members
@@ -122,4 +123,9 @@ function GGGadget_MultiLoader___invoke()
 	}
 }
 
+function GGGadget_MultiLoader___size ()
+{
+	return (this.mItems.length);
+}
 
+}
