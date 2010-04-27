@@ -216,6 +216,11 @@
 							gMultiLoader.add (aFixtures[i].getMatchXMLURL());
 						}
 					}
+			
+					//
+					// Set a "working" message on the screen
+					//
+					_gel('content_div').innerHTML = TRCCUtils_MakeWorkingHTML ("Loading match data for " + gMultiLoader.size() + " games ...");
 
 					//
 					// Load all the fixtures
@@ -331,7 +336,7 @@
 					}
 
 					//
-					//
+					// Set a "working" message on the screen
 					//
 					_gel('content_div').innerHTML = TRCCUtils_MakeWorkingHTML ("Loading match data ...");
 			
