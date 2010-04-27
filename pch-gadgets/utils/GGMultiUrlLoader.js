@@ -127,5 +127,3 @@ function GGGadget_MultiLoader___size ()
 {
 	return (this.mItems.length);
 }
-
-}
