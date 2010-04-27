@@ -103,3 +103,29 @@ function TRCCUtils_OversToBalls (aOvers)
 
 	return ((lW * 6) + lP);
 }
+
+
+function TRCCUtils_MakeWorkingHTML (aTitle)
+{
+	var lHTML="";
+	var lWorkingGif=gGGGadget_Root + "TRCC/images/LoadingData.gif";
+	var lTitle=aTitle;
+	
+	if (null == lTitle)
+	{
+		lTitle = "Working ...";
+	}
+	
+	lHTML += "<table width='100%' border='1'>";
+	lHTML +=   "<tr align='center'>";
+	lHTML +=     "<td><image src='" + lWorkingGif + "'></td>";
+	lHTML +=   "</tr>";
+
+	lHTML +=   "<tr align='center'>";
+	lHTML +=     "<td>" + lTitle + "</td>";
+	lHTML +=   "</tr>";
+	
+	lHTML += "</table>";
+	
+	return (lHTML);
+}
