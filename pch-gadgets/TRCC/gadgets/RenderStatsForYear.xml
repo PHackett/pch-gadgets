@@ -331,6 +331,11 @@
 					}
 
 					//
+					//
+					//
+					_gel('content_div').innerHTML = TRCCUtils_MakeWorkingHTML ("Loading match data ...");
+			
+					//
 					// Load the fixtures for the given year
 					//					
 					GGTRCC_LoadTeamYearsXML (_IG_FetchXmlContent, teamYearsCB);
