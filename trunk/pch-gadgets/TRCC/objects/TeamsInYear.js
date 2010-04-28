@@ -262,3 +262,63 @@ function GGTRCC_TeamYearsToHTML (aTeamTearsA)
 	
 	return (lHTML);
 }
+
+
+//------------------------------------------------------------
+// Render tha array of team/years obects so as to present a page
+// allowing the user to select a year whose stats they wish to 
+// view. 
+//
+//	@param	aTeamTearsA	IN	The objects
+//
+// @return 	HTML string 
+//
+//------------------------------------------------------------
+function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
+{
+	var lSPL=4;
+	var lRet="";
+
+	lRet += "<table width='100%' border='0' cellpadding='5' cellspacing='0'>";
+
+	//
+	// Current year first
+	//
+	lRet += "<tr>";
+	aTeamTearsA[0].year();
+	for (var lPad=1 ; lPad<lSPL ; lPad++)
+	{
+		lRet += "<td>&nbsp;</td>";
+	}
+
+	lRet += "</tr>";
+	lRet += "</table>";
+	
+	lRet += "<table width='100%' border='0' cellpadding='5' cellspacing='0'>";
+
+	var lNumOtherFix=aTeamTearsA.length-1;
+	var lIndex=1;
+
+	while (lIndex < aTeamTearsA.length)
+	{
+		lRet += "<tr>";
+
+		for (var r=0 ; r<lSPL ; r++)
+		{
+			if (lIndex<aTeamTearsA.length)
+			{
+				aTeamTearsA[lIndex].year();
+
+				lIndex++;
+			}
+			else
+			{
+				lRet += "<td>&nbsp;</td>";
+			}
+		}
+
+		lRet += "</tr>";
+	}
+
+	lRet += "</table>";
+}
