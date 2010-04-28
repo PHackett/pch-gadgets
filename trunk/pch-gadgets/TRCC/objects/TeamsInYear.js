@@ -321,4 +321,6 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
 	}
 
 	lRet += "</table>";
+	
+	return (lRet);
 }
