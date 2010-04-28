@@ -62,7 +62,7 @@
     <BowlerSummary name="I Davies" overs="3" maidens="0" runs="18" wickets="0"/>
     <BowlerSummary name="Matthew Fort" overs="5" maidens="0" runs="25" wickets="0"/>
   </Innings>
-  <Innings batting="Twyford">
+  <Innings batting="Twyford others">
     <Batsman name="Stan Coates">
       <HowOut how="Retired Hurt"/>
       <Runs value="31"/>

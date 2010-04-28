@@ -145,6 +145,16 @@
 									lPSC.updateTRCCCatching (lIN.mBatsmen[i]);
 								}
 							}
+			
+							//
+							// Here is a "special"
+							// Sometimes, Twyford played themselves (President's matches etc).
+							// Under these circumstances we want to count both innings as Twyford
+							// for stats purposes
+							//
+							// -- NOT IMPLEMENTED --
+							//
+							//
 						}
 					}
 
