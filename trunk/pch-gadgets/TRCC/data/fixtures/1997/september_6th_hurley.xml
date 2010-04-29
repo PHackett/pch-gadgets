@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Apr 29 19:19:40 UTC+0100 2010 -->
+<CricketMatch oppo="Hurley" date="Sat Sep 6 13:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hurley">
+    <Batsman name="P Ridgeway">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Farrington"/>
+      <Runs value="151"/>
+    </Batsman>
+    <Batsman name="M Taylor">
+      <HowOut how="Caught M Farrington"/>
+      <Bowler name="David Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="N Dawkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="D Atkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Farrington"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="N Fernando">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Pollitt">
+      <HowOut how="Caught D Downes"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Cole">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Woodage">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="12.5" maidens="2" runs="44" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="David Downes" overs="9" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Chris Taylor" overs="8" maidens="2" runs="43" wickets="0"/>
+    <BowlerSummary name="Mark Farrington" overs="6" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Richard Young" overs="2" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Rod Edney">
+      <HowOut how="Caught"/>
+      <Bowler name="Long"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mark Farrington">
+      <HowOut how="Caught"/>
+      <Bowler name="Long"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Richard Hobson">
+      <HowOut how="Caught"/>
+      <Bowler name="S Pollitt"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Chris Taylor">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="M Cole"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Taylor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Taylor"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Richard Young">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Cole"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pete Meade">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Taylor"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Howard Burton">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="R Woodage" overs="10" maidens="4" runs="34" wickets="0"/>
+    <BowlerSummary name="Long" overs="9" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="N Forrest" overs="7" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="S Pollitt" overs="5" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="M Taylor" overs="8" maidens="0" runs="30" wickets="3"/>
+    <BowlerSummary name="M Cole" overs="7" maidens="3" runs="28" wickets="2"/>
+    <BowlerSummary name="N Fernando" overs="3" maidens="2" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

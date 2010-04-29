@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 24 21:18:44 UTC+0100 2010 -->
+<CricketMatch oppo="Theale & Tilehurst" date="Sat Jul 12 08:00:00 UTC+0100 1997">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Reynolds">
+      <HowOut how="Caught"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Mike(Jnr) Taylor">
+      <HowOut how="Caught"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Graham Kemp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pazir"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught"/>
+      <Bowler name="Cummings"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="John Hamilton">
+      <HowOut how="Caught"/>
+      <Bowler name="Cummings"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Barry Potier">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Sharp">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Dawson">
+      <HowOut how="Caught"/>
+      <Bowler name="Johnson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rod Edney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Johnson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Iqbal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="M Iqbal" overs="15.4" maidens="3" runs="32" wickets="5"/>
+    <BowlerSummary name="Pazir" overs="11" maidens="4" runs="23" wickets="1"/>
+    <BowlerSummary name="Johnson" overs="7" maidens="3" runs="14" wickets="2"/>
+    <BowlerSummary name="Cummings" overs="3" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Theale & Tilehurst">
+    <Batsman name="E Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike(Jnr) Taylor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="K Hussain">
+      <HowOut how="LBW"/>
+      <Bowler name="Barry Potier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Hussain">
+      <HowOut how="Caught R Reynolds"/>
+      <Bowler name="David Taylor"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Pyke">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Codd">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="David Downes" overs="7" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Barry Potier" overs="12" maidens="8" runs="20" wickets="1"/>
+    <BowlerSummary name="Mike(Jnr) Taylor" overs="7.1" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="David Taylor" overs="2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
