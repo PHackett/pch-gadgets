@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:15:00 UTC+0100 2010 -->
 <CricketMatch oppo="Sandhurst" date="Sun Aug 18 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -25,12 +25,12 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Wagland"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Stewart Wren">
-      <HowOut how="Ct Bartlett"/>
+      <HowOut how="Caught Bartlett"/>
       <Bowler name="Pharo"/>
       <Runs value="26"/>
     </Batsman>
@@ -69,22 +69,22 @@
   </Innings>
   <Innings batting="Sandhurst">
     <Batsman name="Dickinson">
-      <HowOut how="Ct S Beamish"/>
+      <HowOut how="Caught Steve Beamish"/>
       <Bowler name="Hackett"/>
       <Runs value="8"/>
     </Batsman>
     <Batsman name="Bartlett">
-      <HowOut how="Ct P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Hackett"/>
       <Runs value="19"/>
     </Batsman>
     <Batsman name="A Birch">
-      <HowOut how="Ct P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Abraham"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="James">
-      <HowOut how="Ct P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Beamish"/>
       <Runs value="11"/>
     </Batsman>
@@ -98,22 +98,22 @@
       <Runs value="14"/>
     </Batsman>
     <Batsman name="Costambys">
-      <HowOut how="Ct N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Neall"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="C Whiteoak">
-      <HowOut how="Ct S Beamish"/>
+      <HowOut how="Caught Steve Beamish"/>
       <Bowler name="Downes"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="R Whiteoak">
-      <HowOut how="Ct S Beamish"/>
+      <HowOut how="Caught Steve Beamish"/>
       <Bowler name="Neall"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Jones">
-      <HowOut how="Ct S Beamish"/>
+      <HowOut how="Caught Steve Beamish"/>
       <Bowler name="Evans"/>
       <Runs value="0"/>
     </Batsman>

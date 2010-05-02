@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:15:00 UTC+0100 2010 -->
 <CricketMatch oppo="East Preston" date="Mon Aug 26 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -28,12 +28,12 @@
 <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Smith"/>
       <Runs value="75"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Davis"/>
       <Runs value="15"/>
     </Batsman>
@@ -47,7 +47,7 @@
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Drew Evans">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Mellor"/>
       <Runs value="20"/>
     </Batsman>
@@ -56,7 +56,7 @@
       <Runs value="19"/>
     </Batsman>
     <Batsman name="Chris Evans">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Mellor"/>
       <Runs value="16"/>
     </Batsman>
@@ -78,7 +78,7 @@
   </Innings>
   <Innings batting="East Preston">
     <Batsman name="Didcote">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Nic Downes"/>
       <Runs value="28"/>
     </Batsman>
@@ -93,12 +93,12 @@
       <Runs value="32"/>
     </Batsman>
     <Batsman name="Smith">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Nic Downes"/>
       <Runs value="8"/>
     </Batsman>
     <Batsman name="Ralfe">
-      <HowOut how="Ct Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Matt Morris"/>
       <Runs value="10"/>
     </Batsman>

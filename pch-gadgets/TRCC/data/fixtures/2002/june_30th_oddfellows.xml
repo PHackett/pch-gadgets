@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:58 UTC+0100 2010 -->
 <CricketMatch oppo="OddFellows" date="Sun Jun 30 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -37,7 +37,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="T Burns">
-      <HowOut how="Ct Hugh Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="8"/>
     </Batsman>
@@ -72,7 +72,7 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Ct Palmer"/>
+      <HowOut how="Caught Palmer"/>
       <Bowler name="Fungai"/>
       <Runs value="39"/>
     </Batsman>

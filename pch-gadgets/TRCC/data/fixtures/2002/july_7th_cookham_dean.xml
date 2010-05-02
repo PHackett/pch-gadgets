@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:58 UTC+0100 2010 -->
 <CricketMatch oppo="Cookham Dean" date="Sun Jul 7 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -33,12 +33,12 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="J Mellor">
-      <HowOut how="Ct T Fort"/>
+      <HowOut how="Caught Tom Fort"/>
       <Bowler name="Chris Evans"/>
       <Runs value="12"/>
     </Batsman>
     <Batsman name="B Millar">
-      <HowOut how="Ct Morris"/>
+      <HowOut how="Caught Matt Morris"/>
       <Bowler name="Nic Downes"/>
       <Runs value="19"/>
     </Batsman>

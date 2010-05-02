@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:20:00 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:59 UTC+0100 2010 -->
 <CricketMatch oppo="Moulsford" date="Sun Jul 21 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -16,7 +16,7 @@
 <CountsToStats/>
   <Innings batting="Moulsford">
     <Batsman name="Cox">
-      <HowOut how="Ct D Benjamin"/>
+      <HowOut how="Caught Dave Benjamin"/>
       <Bowler name="S Wren"/>
       <Runs value="4"/>
     </Batsman>
@@ -26,7 +26,7 @@
       <Runs value="13"/>
     </Batsman>
     <Batsman name="Mace">
-      <HowOut how="Ct Hall"/>
+      <HowOut how="Caught Tom Hall"/>
       <Bowler name="Tom Fort"/>
       <Runs value="21"/>
     </Batsman>
@@ -36,7 +36,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Holland">
-      <HowOut how="Ct Seymour"/>
+      <HowOut how="Caught Roger Seymour"/>
       <Bowler name="Tom Fort"/>
       <Runs value="54"/>
     </Batsman>
