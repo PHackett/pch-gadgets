@@ -274,9 +274,9 @@ function GGTRCC_TeamYearsToHTML (aTeamTearsA)
 // @return 	HTML string 
 //
 //------------------------------------------------------------
-function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
+function GGTRCC_TeamYearsToStatsHTML (aTeamYearsA)
 {
-	var lSPL=4;
+	var lSPL=5;
 	var lRet="";
 
 	lRet += "<table width='100%' border='1' cellpadding='5' cellspacing='0'>";
@@ -286,11 +286,11 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
 	//
 	lRet += "<tr>";
 	lRet += "  <td>";
-	aTeamTearsA[0].year();
+	lRet += aTeamYearsA[0].year();
 	lRet += "  </td>";
 	for (var lPad=1 ; lPad<lSPL ; lPad++)
 	{
-		lRet += "<td>&nbsp; XXX</td>";
+		lRet += "<td>&nbsp;</td>";
 	}
 
 	lRet += "</tr>";
@@ -298,24 +298,24 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
 	
 	lRet += "<table width='100%' border='1' cellpadding='5' cellspacing='0'>";
 
-	var lNumOtherFix=aTeamTearsA.length-1;
+	var lNumOtherFix=aTeamYearsA.length-1;
 	var lIndex=1;
 
-	while (lIndex < aTeamTearsA.length)
+	while (lIndex < aTeamYearsA.length)
 	{
 		lRet += "<tr>";
 
 		for (var r=0 ; r<lSPL ; r++)
 		{
-			if (lIndex<aTeamTearsA.length)
+			if (lIndex<aTeamYearsA.length)
 			{
-				lRet += "<td>" + aTeamTearsA[lIndex].year() + "</td>";
+				lRet += "<td>" + aTeamYearsA[lIndex].year() + "</td>";
 
 				lIndex++;
 			}
 			else
 			{
-				lRet += "<td>&nbsp; YYY</td>";
+				lRet += "<td>&nbsp;</td>";
 			}
 		}
 
