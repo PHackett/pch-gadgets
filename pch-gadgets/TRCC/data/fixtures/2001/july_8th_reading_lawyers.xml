@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:34 UTC+0100 2010 -->
 <CricketMatch oppo="Reading Lawyers" date="Sun Jul 8 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -25,7 +25,7 @@
 <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Seymour"/>
       <Runs value="8"/>
     </Batsman>
@@ -44,7 +44,7 @@
       <Runs value="29"/>
     </Batsman>
     <Batsman name="Chris Evans">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Clemence"/>
       <Runs value="2"/>
     </Batsman>
@@ -54,17 +54,17 @@
       <Runs value="14"/>
     </Batsman>
     <Batsman name="James Fort">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Frost Snr"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Nic Downes">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="?"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Steve Abraham">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Seymour"/>
       <Runs value="3"/>
     </Batsman>
@@ -90,12 +90,12 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="C Lynch">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Tom Fort"/>
       <Runs value="29"/>
     </Batsman>
     <Batsman name="N Conner">
-      <HowOut how="Ct P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="0"/>
     </Batsman>

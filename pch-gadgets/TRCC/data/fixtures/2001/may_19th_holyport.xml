@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:47 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:37 UTC+0100 2010 -->
 <CricketMatch oppo="Holyport" date="Sat May 19 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -30,7 +30,7 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="J Price">
-      <HowOut how="Ct D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Richard Hobson"/>
       <Runs value="25"/>
     </Batsman>
@@ -45,17 +45,17 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="A Rolls">
-      <HowOut how="Ct R Hobson"/>
+      <HowOut how="Caught Richard Hobson"/>
       <Bowler name="Noel Downes"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="P Morgan">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Richard Hobson"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="G Samuels">
-      <HowOut how="Ct B Potier"/>
+      <HowOut how="Caught Barry Potier"/>
       <Bowler name="Noel Downes"/>
       <Runs value="6"/>
     </Batsman>
@@ -80,7 +80,7 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Hugh Connor">
-      <HowOut how="Ct A Osinski"/>
+      <HowOut how="Caught A Osinski"/>
       <Bowler name="A Rolls"/>
       <Runs value="2"/>
     </Batsman>
@@ -90,12 +90,12 @@
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Richard Hobson">
-      <HowOut how="Ct G Samuels"/>
+      <HowOut how="Caught G Samuels"/>
       <Bowler name="T Hayes"/>
       <Runs value="14"/>
     </Batsman>
     <Batsman name="Graham Kemp">
-      <HowOut how="Ct P Davies"/>
+      <HowOut how="Caught P Davies"/>
       <Bowler name="A Butt"/>
       <Runs value="5"/>
     </Batsman>
@@ -115,7 +115,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Noel Downes">
-      <HowOut how="Ct P Morgan"/>
+      <HowOut how="Caught P Morgan"/>
       <Bowler name="A Butt"/>
       <Runs value="0"/>
     </Batsman>

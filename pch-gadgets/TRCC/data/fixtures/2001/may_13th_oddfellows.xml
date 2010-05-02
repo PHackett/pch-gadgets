@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:45 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:32 UTC+0100 2010 -->
 <CricketMatch oppo="Oddfellows" date="Sun May 13 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -17,12 +17,12 @@
 <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="T Burns"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Nic Downes">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="T Emmans"/>
       <Runs value="5"/>
     </Batsman>
@@ -46,7 +46,7 @@
       <Runs value="29"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="T Spires"/>
       <Runs value="2"/>
     </Batsman>
@@ -85,7 +85,7 @@
       <Runs value="35"/>
     </Batsman>
     <Batsman name="A Chapman">
-      <HowOut how="Ct P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Matt Morris"/>
       <Runs value="0"/>
     </Batsman>
