@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 20:56:03 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:12:52 UTC+0100 2010 -->
 <CricketMatch oppo="Wokingham 3rds" date="Sun Jul 12 00:00:00 UTC+0100 1987">
   <MatchReport/><CountsToStats/>
   <Innings batting="Wokingham 3rds">
@@ -14,7 +14,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="M Faulkner">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="0"/>
     </Batsman>

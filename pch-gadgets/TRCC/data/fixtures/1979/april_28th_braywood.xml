@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 20:19:53 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:12:08 UTC+0100 2010 -->
 <CricketMatch oppo="Braywood" date="Sat Apr 28 00:00:00 UTC+0100 1979">
   <MatchReport/><CountsToStats/>
   <Innings batting="Braywood">
@@ -19,7 +19,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="G Fogg">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Mick Houlton"/>
       <Runs value="2"/>
     </Batsman>
