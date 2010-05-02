@@ -285,7 +285,9 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
 	// Current year first
 	//
 	lRet += "<tr>";
+	lRet += "  <td>";
 	aTeamTearsA[0].year();
+	lRet += "  </td>";
 	for (var lPad=1 ; lPad<lSPL ; lPad++)
 	{
 		lRet += "<td>&nbsp; XXX</td>";
@@ -307,7 +309,7 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamTearsA)
 		{
 			if (lIndex<aTeamTearsA.length)
 			{
-				aTeamTearsA[lIndex].year();
+				lRet += "<td>" + aTeamTearsA[lIndex].year() + "</td>";
 
 				lIndex++;
 			}
