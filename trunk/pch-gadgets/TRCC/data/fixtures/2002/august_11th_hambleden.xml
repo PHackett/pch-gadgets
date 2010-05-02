@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:59 UTC+0100 2010 -->
 <CricketMatch oppo="Hambleden" date="Sun Aug 11 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -25,7 +25,7 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Wooliams"/>
       <Runs value="18"/>
     </Batsman>
@@ -35,12 +35,12 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Hugh Fort">
-      <HowOut how="Ct Hollis"/>
+      <HowOut how="Caught Hollis"/>
       <Bowler name="Hyner"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct Hollis"/>
+      <HowOut how="Caught Hollis"/>
       <Bowler name="Anderson"/>
       <Runs value="5"/>
     </Batsman>
@@ -72,7 +72,7 @@
   </Innings>
   <Innings batting="Hambleden">
     <Batsman name="Preen">
-      <HowOut how="Ct C Evans"/>
+      <HowOut how="Caught Chris Evans"/>
       <Bowler name="A Evans"/>
       <Runs value="38"/>
     </Batsman>

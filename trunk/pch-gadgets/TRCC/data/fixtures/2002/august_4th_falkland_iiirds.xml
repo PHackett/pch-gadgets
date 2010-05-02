@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sun Apr 25 19:19:30 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:59 UTC+0100 2010 -->
 <CricketMatch oppo="Falkland IIIrds" date="Sun Aug 4 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -58,7 +58,7 @@
       <Runs value="42"/>
     </Batsman>
     <Batsman name="Holmes">
-      <HowOut how="Ct A Evans"/>
+      <HowOut how="Caught Drew Evans"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="7"/>
     </Batsman>
@@ -68,7 +68,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Ballard">
-      <HowOut how="Ct Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="2"/>
     </Batsman>
@@ -83,7 +83,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Russell">
-      <HowOut how="Ct&amp;amp;b"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Nic Downes"/>
       <Runs value="4"/>
     </Batsman>
@@ -93,7 +93,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Johnson">
-      <HowOut how="Ct&amp;amp;b"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Nic Downes"/>
       <Runs value="0"/>
     </Batsman>

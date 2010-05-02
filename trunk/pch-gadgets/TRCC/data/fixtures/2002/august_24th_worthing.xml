@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sun Apr 25 19:14:52 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:15:00 UTC+0100 2010 -->
 <CricketMatch oppo="Worthing" date="Sat Aug 24 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -83,22 +83,22 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Ct Taylor"/>
+      <HowOut how="Caught Taylor"/>
       <Bowler name="Simmonds"/>
       <Runs value="33"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct Cook"/>
+      <HowOut how="Caught Cook"/>
       <Bowler name="Down"/>
       <Runs value="24"/>
     </Batsman>
     <Batsman name="Chris Evans">
-      <HowOut how="Ct Howell"/>
+      <HowOut how="Caught Howell"/>
       <Bowler name="Down"/>
       <Runs value="12"/>
     </Batsman>
     <Batsman name="Stewart Wren">
-      <HowOut how="Ct Burke"/>
+      <HowOut how="Caught Burke"/>
       <Bowler name="Osland"/>
       <Runs value="30"/>
     </Batsman>
@@ -107,7 +107,7 @@
       <Runs value="15"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct Cook"/>
+      <HowOut how="Caught Cook"/>
       <Bowler name="Howell"/>
       <Runs value="2"/>
     </Batsman>

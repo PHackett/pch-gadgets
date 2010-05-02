@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:59 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:59 UTC+0100 2010 -->
 <CricketMatch oppo="Harpsden" date="Sun Jul 14 00:00:00 UTC+0100 2002">
   <MatchReport>
     <![CDATA[
@@ -50,12 +50,12 @@
       <Runs value="32"/>
     </Batsman>
     <Batsman name="Jai">
-      <HowOut how="Ct Seymour"/>
+      <HowOut how="Caught Roger Seymour"/>
       <Bowler name="Chris Evans"/>
       <Runs value="13"/>
     </Batsman>
     <Batsman name="Birkett">
-      <HowOut how="Ct Hall"/>
+      <HowOut how="Caught Tom Hall"/>
       <Bowler name="Chris Evans"/>
       <Runs value="16"/>
     </Batsman>
@@ -97,7 +97,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Stewart Wren">
-      <HowOut how="Ct Sweet"/>
+      <HowOut how="Caught Sweet"/>
       <Bowler name="Bright"/>
       <Runs value="42"/>
     </Batsman>
