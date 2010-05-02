@@ -279,7 +279,7 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamYearsA)
 	var lSPL=5;
 	var lRet="";
 
-	lRet += "<table width='100%' border='1' cellpadding='5' cellspacing='0'>";
+	lRet += "<table width='100%' border='0' cellpadding='5' cellspacing='0'>";
 
 	//
 	// Current year first
@@ -296,7 +296,7 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamYearsA)
 	lRet += "</tr>";
 	lRet += "</table>";
 	
-	lRet += "<table width='100%' border='1' cellpadding='5' cellspacing='0'>";
+	lRet += "<table width='100%' border='0' cellpadding='5' cellspacing='0'>";
 
 	var lNumOtherFix=aTeamYearsA.length-1;
 	var lIndex=1;
