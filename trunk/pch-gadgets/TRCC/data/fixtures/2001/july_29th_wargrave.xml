@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:34 UTC+0100 2010 -->
 <CricketMatch oppo="Wargrave" date="Sun Jul 29 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -28,17 +28,17 @@
       <Runs value="17"/>
     </Batsman>
     <Batsman name="S Cross">
-      <HowOut how="Ct N Downes(wk)"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="43"/>
     </Batsman>
     <Batsman name="S Walker">
-      <HowOut how="Ct A Neall"/>
+      <HowOut how="Caught Alex Neall"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="64"/>
     </Batsman>
     <Batsman name="K Clark">
-      <HowOut how="Ct N Downes(wk)"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Alex Neall"/>
       <Runs value="5"/>
     </Batsman>
@@ -74,7 +74,7 @@
       <Runs value="27"/>
     </Batsman>
     <Batsman name="James Fort">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Walker"/>
       <Runs value="7"/>
     </Batsman>
@@ -84,7 +84,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;Bowled"/>
       <Bowler name="Clark"/>
       <Runs value="0"/>
     </Batsman>
@@ -93,7 +93,7 @@
       <Runs value="12"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Walker"/>
       <Runs value="5"/>
     </Batsman>

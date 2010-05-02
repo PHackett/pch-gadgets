@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:33 UTC+0100 2010 -->
 <CricketMatch oppo="Boyne Hill" date="Sun Jun 24 00:00:00 UTC+0100 2001">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
@@ -28,7 +28,7 @@
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Hinchliffe"/>
       <Runs value="9"/>
     </Batsman>
@@ -38,7 +38,7 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Hinchliffe"/>
       <Runs value="3"/>
     </Batsman>
@@ -64,22 +64,22 @@
       <Runs value="32"/>
     </Batsman>
     <Batsman name="O Roberts">
-      <HowOut how="Ct Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="P Bradshaw">
-      <HowOut how="Ct A Neall"/>
+      <HowOut how="Caught Alex Neall"/>
       <Bowler name="Steve Abraham"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="P Osborne">
-      <HowOut how="Ct A Neall"/>
+      <HowOut how="Caught Alex Neall"/>
       <Bowler name="Matt Morris"/>
       <Runs value="8"/>
     </Batsman>
     <Batsman name="S Clark">
-      <HowOut how="Ct M Morris"/>
+      <HowOut how="Caught Matt Morris"/>
       <Bowler name="Nic Downes"/>
       <Runs value="13"/>
     </Batsman>
@@ -89,7 +89,7 @@
       <Runs value="9"/>
     </Batsman>
     <Batsman name="S Walker">
-      <HowOut how="Ct N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Tom Fort"/>
       <Runs value="25"/>
     </Batsman>

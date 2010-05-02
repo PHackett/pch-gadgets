@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:45 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:33 UTC+0100 2010 -->
 <CricketMatch oppo="Frimley" date="Sun Jun 17 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -23,7 +23,7 @@
 <CountsToStats/>
   <Innings batting="Frimley">
     <Batsman name="P Lion">
-      <HowOut how="Ct S Beamish"/>
+      <HowOut how="Caught Steve Beamish"/>
       <Bowler name="Alex Neall"/>
       <Runs value="24"/>
     </Batsman>
@@ -33,12 +33,12 @@
       <Runs value="68"/>
     </Batsman>
     <Batsman name="Hebditch">
-      <HowOut how="Ct S Wren"/>
+      <HowOut how="Caught Stewart Wren"/>
       <Bowler name="Matt Morris"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Dimsdale">
-      <HowOut how="Ct R Seymour"/>
+      <HowOut how="Caught Roger Seymour"/>
       <Bowler name="Matt Morris"/>
       <Runs value="0"/>
     </Batsman>
@@ -48,7 +48,7 @@
       <Runs value="38"/>
     </Batsman>
     <Batsman name="Allen">
-      <HowOut how="Ct S Wren"/>
+      <HowOut how="Caught Stewart Wren"/>
       <Bowler name="Nic Downes"/>
       <Runs value="8"/>
     </Batsman>
@@ -74,12 +74,12 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Allen"/>
       <Runs value="21"/>
     </Batsman>
     <Batsman name="Nic Downes">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="A Lion"/>
       <Runs value="18"/>
     </Batsman>
@@ -88,32 +88,32 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Stewart Wren">
-      <HowOut how="Ct&amp;amp;Bowled"/>
+      <HowOut how="Caught&amp;amp;Bowled"/>
       <Bowler name="A Lion"/>
       <Runs value="31"/>
     </Batsman>
     <Batsman name="Brandon Theron">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="A Lion"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Dave Benjamin">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Wildsmith"/>
       <Runs value="12"/>
     </Batsman>
     <Batsman name="Matt Morris">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Durham"/>
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Wildsmith"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Alex Neall">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Dunford"/>
       <Runs value="10"/>
     </Batsman>

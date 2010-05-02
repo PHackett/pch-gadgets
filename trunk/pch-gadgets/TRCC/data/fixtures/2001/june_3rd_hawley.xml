@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:45 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:33 UTC+0100 2010 -->
 <CricketMatch oppo="Hawley" date="Sun Jun 3 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -15,17 +15,17 @@
 <CountsToStats/>
   <Innings batting="Hawley">
     <Batsman name="Scott">
-      <HowOut how="Ct D Benjamin"/>
+      <HowOut how="Caught Dave Benjamin"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="C Adams">
-      <HowOut how="Ct A Neall"/>
+      <HowOut how="Caught Alex Neall"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Taylor">
-      <HowOut how="Ct T Fort"/>
+      <HowOut how="Caught Tom Fort"/>
       <Bowler name="Steve Abraham"/>
       <Runs value="23"/>
     </Batsman>
@@ -35,12 +35,12 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Durston">
-      <HowOut how="Ct P Hackett"/>
+      <HowOut how="Caught Paul Hackett"/>
       <Bowler name="Alex Neall"/>
       <Runs value="22"/>
     </Batsman>
     <Batsman name="Sinclair">
-      <HowOut how="Ct G Kemp"/>
+      <HowOut how="Caught Graham Kemp"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="2"/>
     </Batsman>
@@ -50,17 +50,17 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Stedford">
-      <HowOut how="Ct A Neall"/>
+      <HowOut how="Caught Alex Neall"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="J. Adams">
-      <HowOut how="Ct N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Mitchell">
-      <HowOut how="Ct P Hackett"/>
+      <HowOut how="Caught Paul Hackett"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="1"/>
     </Batsman>

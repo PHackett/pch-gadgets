@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:46 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:34 UTC+0100 2010 -->
 <CricketMatch oppo="East Preston" date="Mon Aug 27 00:00:00 UTC+0100 2001">
   <MatchReport>
     <![CDATA[
@@ -44,17 +44,17 @@
       <Runs value="87"/>
     </Batsman>
     <Batsman name="K Savelle">
-      <HowOut how="Ct. C Fort"/>
+      <HowOut how="Caught Chris Fort"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="56"/>
     </Batsman>
     <Batsman name="D Candy">
-      <HowOut how="Ct. Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="M Martin">
-      <HowOut how="Ct. N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="7"/>
     </Batsman>
@@ -77,7 +77,7 @@
       <Runs value="15"/>
     </Batsman>
     <Batsman name="Roger Seymour">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Thorn"/>
       <Runs value="30"/>
     </Batsman>
@@ -87,12 +87,12 @@
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Alex Neall">
-      <HowOut how="Ct."/>
+      <HowOut how="Caught"/>
       <Bowler name="Thorn"/>
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Thorn"/>
       <Runs value="10"/>
     </Batsman>
@@ -102,12 +102,12 @@
       <Runs value="11"/>
     </Batsman>
     <Batsman name="Nic Downes">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Thorn"/>
       <Runs value="38"/>
     </Batsman>
     <Batsman name="James Fort">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Martin"/>
       <Runs value="17"/>
     </Batsman>
