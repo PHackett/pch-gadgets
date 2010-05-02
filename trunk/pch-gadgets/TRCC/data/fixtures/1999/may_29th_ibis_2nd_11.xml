@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:05 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:12 UTC+0100 2010 -->
 <CricketMatch oppo="Ibis 2nd 11" date="Sat May 29 08:00:00 UTC+0100 1999">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
@@ -28,12 +28,12 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Andrew Jackson">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Prior"/>
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="Prior"/>
       <Runs value="0"/>
     </Batsman>
@@ -62,7 +62,7 @@
   </Innings>
   <Innings batting="Ibis 2nd 11">
     <Batsman name="R Barosley">
-      <HowOut how="Caught R Lawrance"/>
+      <HowOut how="Caught Rich Lawrance"/>
       <Bowler name="Andrew Jackson"/>
       <Runs value="3"/>
     </Batsman>
@@ -76,12 +76,12 @@
       <Runs value="58"/>
     </Batsman>
     <Batsman name="I White">
-      <HowOut how="Caught R Lawrance"/>
+      <HowOut how="Caught Rich Lawrance"/>
       <Bowler name="Barry Potier"/>
       <Runs value="28"/>
     </Batsman>
     <Batsman name="R Ramsay">
-      <HowOut how="Caught G Woodhouse"/>
+      <HowOut how="Caught Graham Woodhouse"/>
       <Bowler name="Andrew Jackson"/>
       <Runs value="1"/>
     </Batsman>

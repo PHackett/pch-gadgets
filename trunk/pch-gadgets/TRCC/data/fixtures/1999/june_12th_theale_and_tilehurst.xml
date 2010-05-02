@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sat Apr 24 21:19:06 UTC+0100 2010 -->
+<!-- Generated on Sun May 2 13:14:12 UTC+0100 2010 -->
 <CricketMatch oppo="Theale and Tilehurst" date="Sat Jun 12 08:00:00 UTC+0100 1999">
   <MatchReport/><CountsToStats/>
   <Innings batting="Theale and Tilehurst">
     <Batsman name="D Codd">
-      <HowOut how="Caught"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Graham Woodhouse"/>
       <Runs value="40"/>
     </Batsman>
@@ -24,17 +24,17 @@
       <Runs value="24"/>
     </Batsman>
     <Batsman name="E Choules">
-      <HowOut how="Caught"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Andrew Jackson"/>
       <Runs value="21"/>
     </Batsman>
     <Batsman name="C Cutting">
-      <HowOut how="Caught"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="David Downes"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="D Cumming">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="David Downes"/>
       <Runs value="6"/>
     </Batsman>
@@ -79,7 +79,7 @@
       <Runs value="54"/>
     </Batsman>
     <Batsman name="Graham Woodhouse">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="M Iqbal"/>
       <Runs value="8"/>
     </Batsman>
@@ -88,7 +88,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Andrew Jackson">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="D Pazir"/>
       <Runs value="6"/>
     </Batsman>
@@ -97,12 +97,12 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Rod Edney">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="D Pazir"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Graham Kemp">
-      <HowOut how="Ct"/>
+      <HowOut how="Caught"/>
       <Bowler name="D Pazir"/>
       <Runs value="0"/>
     </Batsman>
