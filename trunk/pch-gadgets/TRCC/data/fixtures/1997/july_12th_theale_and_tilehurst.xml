@@ -63,7 +63,7 @@
     <BowlerSummary name="Johnson" overs="7" maidens="3" runs="14" wickets="2"/>
     <BowlerSummary name="Cummings" overs="3" maidens="0" runs="10" wickets="2"/>
   </Innings>
-  <Innings batting="Theale & Tilehurst">
+  <Innings batting="Theale &amp; Tilehurst">
     <Batsman name="E Ellis">
       <HowOut how="Bowled"/>
       <Bowler name="Mike(Jnr) Taylor"/>
