@@ -22,6 +22,7 @@ function GGTRCC_TeamYearO (aYearXML)
 	// Methods
 	//
 	this.year 			= GGTRCC_TeamYearO___year;
+	this.statsLink		= GGTRCC_TeamYearO___statsLink;
 	
 	this.haveSaturday 	= GGTRCC_TeamYearO___haveSaturday;
 	this.haveSunday 	= GGTRCC_TeamYearO___haveSunday;
@@ -115,6 +116,29 @@ function GGTRCC_TeamYearO___sundayHTML()	{ return (this.teamHTML (this.haveSunda
 function GGTRCC_TeamYearO___youthHTML()		{ return (this.teamHTML (this.haveYouth(), "Youth"));		}
 function GGTRCC_TeamYearO___2020HTML()		{ return (this.teamHTML (this.have2020(), "20-20"));		}
 
+
+//------------------------------------------------------------
+// Create the HTML that links to the relevant year stats page
+// for this object
+//------------------------------------------------------------
+function GGTRCC_TeamYearO___statsLink()
+{
+	var lURL="";
+
+	if (GGGadget_hostedOnSites())
+	{
+		lURL = GGGadget_getHostingRoot() + "All-Fixtures/";
+		lURL += this.mDate.year() + "/stats" + this.mDate.year();
+	}
+	else 
+	{
+		lURL = "./YearStats.html?year=" + this.mYear;
+	}
+	
+	var lRet="<a href='" + lURL + "'>" + this.mYear + "</a>";
+	
+	return (lRet);
+}
 
 //------------------------------[GGTRCC_TeamYearO___getTeams]-
 // Get an array detailing all the teams in the object 
@@ -286,7 +310,7 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamYearsA)
 	//
 	lRet += "<tr>";
 	lRet += "  <td>";
-	lRet += aTeamYearsA[0].year();
+	lRet += aTeamYearsA[0].statsLink();
 	lRet += "  </td>";
 	for (var lPad=1 ; lPad<lSPL ; lPad++)
 	{
@@ -309,7 +333,7 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamYearsA)
 		{
 			if (lIndex<aTeamYearsA.length)
 			{
-				lRet += "<td>" + aTeamYearsA[lIndex].year() + "</td>";
+				lRet += "<td>" + aTeamYearsA[lIndex].statsLink() + "</td>";
 
 				lIndex++;
 			}
