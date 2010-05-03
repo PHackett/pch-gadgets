@@ -127,16 +127,14 @@ function GGTRCC_TeamYearO___statsLink()
 
 	if (GGGadget_hostedOnSites())
 	{
-		lURL += "All-Fixtures/" + this.mDate.year() + "/stats" + this.mDate.year();
+		lURL += "All-Fixtures/" + this.mYear + "/stats" + this.mDate.year();
 	}
 	else 
 	{
 		lURL += "Stats/YearStats.html?year=" + this.mYear;
 	}
 	
-	var lRet="<a href='" + lURL + "'>" + this.mYear + "</a>";
-	
-	return (lRet);
+	return (GGUtils_makeHREF (this.mYear, lURL));
 }
 
 //------------------------------[GGTRCC_TeamYearO___getTeams]-
