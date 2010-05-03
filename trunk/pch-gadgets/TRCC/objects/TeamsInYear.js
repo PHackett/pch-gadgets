@@ -127,7 +127,7 @@ function GGTRCC_TeamYearO___statsLink()
 
 	if (GGGadget_hostedOnSites())
 	{
-		lURL += "All-Fixtures/" + this.mYear + "/stats" + this.mDate.year();
+		lURL += "All-Fixtures/" + this.mYear + "/stats" + this.mYear;
 	}
 	else 
 	{
