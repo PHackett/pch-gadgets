@@ -123,16 +123,16 @@ function GGTRCC_TeamYearO___2020HTML()		{ return (this.teamHTML (this.have2020()
 //------------------------------------------------------------
 function GGTRCC_TeamYearO___statsLink()
 {
-	var lURL="";
+	var lURL=GGGadget_getHostingRoot();
 
 	if (GGGadget_hostedOnSites())
 	{
-		lURL = GGGadget_getHostingRoot() + "All-Fixtures/";
+		lURL += "All-Fixtures/";
 		lURL += this.mDate.year() + "/stats" + this.mDate.year();
 	}
 	else 
 	{
-		lURL = "./YearStats.html?year=" + this.mYear;
+		lURL = "Stats/YearStats.html?year=" + this.mYear;
 	}
 	
 	var lRet="<a href='" + lURL + "'>" + this.mYear + "</a>";
