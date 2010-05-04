@@ -34,6 +34,14 @@
   </Fixture>
 
   <Fixture>
+    <Date>Wed, 14 Jul 2010 12:00:00 UTC</Date>
+    <Opposition>Knowl Hill</Opposition>
+    <Time>18:30</Time>
+    <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
     <Date>Wed, 21 Jul 2010 12:00:00 UTC</Date>
     <Opposition>Lower Earley</Opposition>
     <Time>18:00</Time>
