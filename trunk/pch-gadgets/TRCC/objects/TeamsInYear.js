@@ -306,7 +306,7 @@ function GGTRCC_TeamYearsToStatsHTML (aTeamYearsA)
 	// Current year first
 	//
 	lRet += "<tr>";
-	lRet += "  <td>";
+	lRet += "  <td class='contentHeading'>";
 	lRet += aTeamYearsA[0].statsLink();
 	lRet += "  </td>";
 	for (var lPad=1 ; lPad<lSPL ; lPad++)
