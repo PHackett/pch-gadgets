@@ -40,17 +40,17 @@
   </Innings>
   <Innings batting="Littlewick Green II">
     <Batsman name="R Thrift">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Mark Lawrence"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="P Symonds">
-      <HowOut how="Caught S Wren"/>
+      <HowOut how="Caught Stewart Wren"/>
       <Bowler name="David Downes"/>
       <Runs value="27"/>
     </Batsman>
     <Batsman name="Wardle">
-      <HowOut how="Caught K Knight"/>
+      <HowOut how="Caught Kim Knight"/>
       <Bowler name="Mark Lawrence"/>
       <Runs value="22"/>
     </Batsman>
@@ -59,7 +59,7 @@
       <Runs value="47"/>
     </Batsman>
     <Batsman name="M Wakelin">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Andy Wilkinson"/>
       <Runs value="7"/>
     </Batsman>

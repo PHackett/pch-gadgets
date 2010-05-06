@@ -9,7 +9,7 @@
       <Runs value="28"/>
     </Batsman>
     <Batsman name="R Allum">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="0"/>
     </Batsman>
@@ -24,7 +24,7 @@
       <Runs value="29"/>
     </Batsman>
     <Batsman name="J Sawyer">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Nic Downes"/>
       <Runs value="19"/>
     </Batsman>

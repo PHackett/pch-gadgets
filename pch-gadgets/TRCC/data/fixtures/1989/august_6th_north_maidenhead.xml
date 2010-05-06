@@ -65,7 +65,7 @@
       <Runs value="56"/>
     </Batsman>
     <Batsman name="D Fry">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="30"/>
     </Batsman>
@@ -75,17 +75,17 @@
       <Runs value="3"/>
     </Batsman>
     <Batsman name="J Kingston">
-      <HowOut how="Caught S Wren"/>
+      <HowOut how="Caught Stewart Wren"/>
       <Bowler name="Nic Downes"/>
       <Runs value="41"/>
     </Batsman>
     <Batsman name="A Ryder">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Nic Downes"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="R Kingston">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="15"/>
     </Batsman>

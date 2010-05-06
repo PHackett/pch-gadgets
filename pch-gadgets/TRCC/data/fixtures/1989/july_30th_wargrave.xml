@@ -43,7 +43,7 @@
       <Runs value="16"/>
     </Batsman>
     <Batsman name="P Jones">
-      <HowOut how="Caught T Fort"/>
+      <HowOut how="Caught Tom Fort"/>
       <Bowler name="Nic Downes"/>
       <Runs value="0"/>
     </Batsman>

@@ -66,7 +66,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="R Rees">
-      <HowOut how="Caught K Knight"/>
+      <HowOut how="Caught Kim Knight"/>
       <Bowler name="Nic Downes"/>
       <Runs value="45"/>
     </Batsman>
@@ -86,7 +86,7 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="S Prior">
-      <HowOut how="Caught M Lawrence"/>
+      <HowOut how="Caught Mark Lawrence"/>
       <Bowler name="Noel Downes"/>
       <Runs value="9"/>
     </Batsman>
