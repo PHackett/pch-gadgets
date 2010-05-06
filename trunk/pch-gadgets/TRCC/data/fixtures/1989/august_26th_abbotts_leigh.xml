@@ -55,7 +55,7 @@
   </Innings>
   <Innings batting="Abbotts Leigh">
     <Batsman name="B Vowels">
-      <HowOut how="Caught M Lawrence"/>
+      <HowOut how="Caught Mark Lawrence"/>
       <Bowler name="Nic Downes"/>
       <Runs value="24"/>
     </Batsman>

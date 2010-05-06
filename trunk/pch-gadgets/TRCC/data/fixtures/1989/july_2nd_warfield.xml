@@ -14,22 +14,22 @@
       <Runs value="9"/>
     </Batsman>
     <Batsman name="K Jamison">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="C Collins">
-      <HowOut how="Caught S Wren"/>
+      <HowOut how="Caught Stewart Wren"/>
       <Bowler name="Tom Fort"/>
       <Runs value="11"/>
     </Batsman>
     <Batsman name="A Cannon">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Nic Downes"/>
       <Runs value="16"/>
     </Batsman>
     <Batsman name="J Ryan">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Tom Fort"/>
       <Runs value="0"/>
     </Batsman>

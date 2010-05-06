@@ -54,7 +54,7 @@
       <Runs value="14"/>
     </Batsman>
     <Batsman name="M Purdy">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="David Downes"/>
       <Runs value="4"/>
     </Batsman>
@@ -79,7 +79,7 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Clements">
-      <HowOut how="Caught T Fort"/>
+      <HowOut how="Caught Tom Fort"/>
       <Bowler name="David Downes"/>
       <Runs value="6"/>
     </Batsman>
@@ -89,7 +89,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Healy">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="David Downes"/>
       <Runs value="0"/>
     </Batsman>

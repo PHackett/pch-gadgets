@@ -65,7 +65,7 @@
   </Innings>
   <Innings batting="Mortimer West End">
     <Batsman name="D New">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Noel Downes"/>
       <Runs value="27"/>
     </Batsman>
@@ -95,7 +95,7 @@
       <Runs value="11"/>
     </Batsman>
     <Batsman name="I Trigg">
-      <HowOut how="Caught M Lawrence"/>
+      <HowOut how="Caught Mark Lawrence"/>
       <Bowler name="Nic Downes"/>
       <Runs value="0"/>
     </Batsman>

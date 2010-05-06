@@ -94,12 +94,12 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="H Bradshore">
-      <HowOut how="Caught T Fort"/>
+      <HowOut how="Caught Tom Fort"/>
       <Bowler name="Nic Downes"/>
       <Runs value="28"/>
     </Batsman>
     <Batsman name="R Minchin">
-      <HowOut how="Caught K Knight"/>
+      <HowOut how="Caught Kim Knight"/>
       <Bowler name="Noel Downes"/>
       <Runs value="7"/>
     </Batsman>
@@ -113,7 +113,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="M Robins">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Nic Downes"/>
       <Runs value="0"/>
     </Batsman>

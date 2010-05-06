@@ -9,7 +9,7 @@
       <Runs value="57"/>
     </Batsman>
     <Batsman name="C Ratherford">
-      <HowOut how="Caught V Bradley"/>
+      <HowOut how="Caught Vince Bradley"/>
       <Bowler name="David Downes"/>
       <Runs value="8"/>
     </Batsman>
@@ -34,7 +34,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="P Howell">
-      <HowOut how="Caught V Bradley"/>
+      <HowOut how="Caught Vince Bradley"/>
       <Bowler name="Steve Dunn"/>
       <Runs value="0"/>
     </Batsman>

@@ -81,7 +81,7 @@
       <Runs value="32"/>
     </Batsman>
     <Batsman name="J Eyecott">
-      <HowOut how="Caught T Fort"/>
+      <HowOut how="Caught Tom Fort"/>
       <Bowler name="James Fort"/>
       <Runs value="2"/>
     </Batsman>
@@ -100,7 +100,7 @@
       <Runs value="12"/>
     </Batsman>
     <Batsman name="D Crook">
-      <HowOut how="Caught S Wren"/>
+      <HowOut how="Caught Stewart Wren"/>
       <Bowler name="Steve Tripp"/>
       <Runs value="8"/>
     </Batsman>

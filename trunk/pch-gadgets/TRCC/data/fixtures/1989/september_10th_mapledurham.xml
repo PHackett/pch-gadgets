@@ -9,7 +9,7 @@
       <Runs value="8"/>
     </Batsman>
     <Batsman name="B Clark">
-      <HowOut how="Caught K Knight"/>
+      <HowOut how="Caught Kim Knight"/>
       <Bowler name="Tom Fort"/>
       <Runs value="0"/>
     </Batsman>
@@ -19,7 +19,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="D Bell">
-      <HowOut how="Caught P Woodman"/>
+      <HowOut how="Caught Peter Woodman"/>
       <Bowler name="Nic Downes"/>
       <Runs value="9"/>
     </Batsman>
@@ -34,12 +34,12 @@
       <Runs value="47"/>
     </Batsman>
     <Batsman name="S Tripp">
-      <HowOut how="Caught K Knight"/>
+      <HowOut how="Caught Kim Knight"/>
       <Bowler name="Nic Downes"/>
       <Runs value="20"/>
     </Batsman>
     <Batsman name="S Zyad">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Nic Downes"/>
       <Runs value="7"/>
     </Batsman>
@@ -48,7 +48,7 @@
       <Runs value="58"/>
     </Batsman>
     <Batsman name="M Osborne">
-      <HowOut how="Caught D Downes"/>
+      <HowOut how="Caught David Downes"/>
       <Bowler name="Tom Fort"/>
       <Runs value="7"/>
     </Batsman>
