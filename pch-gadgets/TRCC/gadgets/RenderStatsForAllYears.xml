@@ -12,7 +12,7 @@
 		scrolling="true">
 	</ModulePrefs>
 
-	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
+	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value="_top"/>
 
 	<Content type="html">
 
@@ -37,6 +37,20 @@
 
 			<script type="text/javascript">
 
+				//-------------------------------------------------[processSettings]-
+				// Determine what year & team
+				//--------------------------------------------------------------------
+				function processSettings ()
+				{
+					var lPrefs=new _IG_Prefs();
+			
+					//
+					// Save away the "link target"
+					//
+					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
+				}
+				
+			
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
 				//
@@ -80,6 +94,11 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
+					//
+					// Read the user prefs
+					//
+					processSettings();
+			
 					GGTRCC_LoadTeamYearsXML (_IG_FetchXmlContent, renderData);
 				}
 
