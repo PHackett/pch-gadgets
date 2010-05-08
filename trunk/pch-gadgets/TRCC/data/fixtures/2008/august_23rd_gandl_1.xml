@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Sat Apr 24 21:21:39 UTC+0100 2010 -->
-<CricketMatch oppo="G & L" date="Sat Aug 23 00:00:00 UTC+0100 2008">
+<CricketMatch oppo="G &amp; L" date="Sat Aug 23 00:00:00 UTC+0100 2008">
   <MatchReport/><CountsToStats/>
-  <Innings batting="G & L">
+  <Innings batting="G &amp; L">
     <Batsman name="Anil">
       <HowOut how="Caught Phil Markham"/>
       <Bowler name="Tim Cooper"/>
