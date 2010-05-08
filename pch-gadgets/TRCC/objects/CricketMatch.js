@@ -12,12 +12,13 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	// The members - With default values
 	//
-	this.mOppo 			= null;
-	this.mDate			= null;
-	this.mMatchReport	= null;
-	this.mInnings		= new Array;
-	this.mInnings[0]	= null;
-	this.mInnings[1]	= null;
+	this.mOppo 					= null;
+	this.mDate					= null;
+	this.mMatchReport			= null;
+	this.mInnings				= new Array;
+	this.mInnings[0]			= null;
+	this.mInnings[1]			= null;
+	this.mCountsTowardsStats	= true;
 	
 	var lCM=aCricketMatchXML.getElementsByTagName("CricketMatch").item(0);
 	
@@ -26,6 +27,11 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	this.mOppo	= lCM.getAttribute ("oppo");
 	this.mDate	= new Date (lCM.getAttribute ("date"));
+	
+	if (lCM.getAttribute ("notforstats"))
+	{
+		this.mCountsTowardsStats = false;
+	}
 
 	//
 	// Parse the match report

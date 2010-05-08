@@ -111,6 +111,14 @@
 							var lIN;
 			
 							//
+							// Does this match count towards the statistice?
+							//
+							if (!lCM.mCountsTowardsStats)
+							{
+								continue;
+							}
+			
+							//
 							// Process TRCC innings
 							//
 							if (null != (lIN = lCM.getTRCCInnings()))
