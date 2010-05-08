@@ -56,6 +56,7 @@
 			<script type="text/javascript">
 
 				var gYear="";
+				var gGamesNotCountTowardStats=0;
 				var gMultiLoader=new GGGadget_MultiLoader;
 			
 				//-------------------------------------------------[processSettings]-
@@ -115,6 +116,7 @@
 							//
 							if (!lCM.mCountsTowardsStats)
 							{
+								++gGamesNotCountTowardStats;
 								continue;
 							}
 			
@@ -209,6 +211,11 @@
 					else if (0 != aMatchDataArray.length)
 					{
 						lH += "<br>Data derived from " + aMatchDataArray.length + " games - All loaded successfully";
+			
+						if (0 != gGamesNotCountTowardStats)
+						{
+							lH += " (" + gGamesNotCountTowardStats + " games excluded from the statistics)";
+						}
 					}
 			
 					_gel('content_div').innerHTML = lH;
