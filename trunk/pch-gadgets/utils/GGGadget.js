@@ -4,7 +4,7 @@
 var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 
 var gGGGadget_SitesRoot="http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
-var gGGGadget_HomeRoot="http://trcc.paulhackett.com/";
+var gGGGadget_HomeRoot="http://trcc.paulhackett.com/TRCCweb/twyford-google/";
 var gGGGadget_PlusNetRoot="http://www.paulhackett.plus.com/websites/trcc/";
 var gGGGadget_GoogleSVNRoot="http://twyfordweb.googlecode.com/svn/trunk/";
 
