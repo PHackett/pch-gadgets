@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 18 20:17:14 UTC+0100 2010 -->
+<CricketMatch oppo="Catcliffe Way" date="Sat May 15 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Catcliffe Way">
+    <Batsman name="R Casey">
+      <HowOut how="Stumped"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="S Hollister">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Howard">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Brooker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="M Arslaan">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="G Shacklady">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Peat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Nel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Din">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Lean">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="D Luis">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="33"/>
+    <FallOfWicket batsman="3" score="77"/>
+    <FallOfWicket batsman="1" score="94"/>
+    <FallOfWicket batsman="4" score="134"/>
+    <FallOfWicket batsman="5" score="147"/>
+    <FallOfWicket batsman="6" score="147"/>
+    <FallOfWicket batsman="7" score="147"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <FallOfWicket batsman="9" score="161"/>
+    <FallOfWicket batsman="10" score="205"/>
+    <BowlerSummary name="Steve Green" overs="11" maidens="0" runs="57" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="7.5" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="7" maidens="0" runs="49" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="2" runs="24" wickets="5"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Shacklady"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Din"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Shacklady"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Lean"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="R Lean"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Shacklady"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="D Luis"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Shacklady"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="D Luis"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="2" score="68"/>
+    <FallOfWicket batsman="5" score="77"/>
+    <FallOfWicket batsman="7" score="113"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="8" score="129"/>
+    <FallOfWicket batsman="10" score="134"/>
+    <BowlerSummary name="D Luis" overs="11.1" maidens="2" runs="23" wickets="2"/>
+    <BowlerSummary name="G Shacklady" overs="12" maidens="3" runs="43" wickets="4"/>
+    <BowlerSummary name="R Lean" overs="8" maidens="2" runs="22" wickets="2"/>
+    <BowlerSummary name="R Din" overs="6" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="M Arslaan" overs="3" maidens="1" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
