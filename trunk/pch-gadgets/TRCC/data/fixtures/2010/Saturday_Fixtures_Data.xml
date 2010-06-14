@@ -40,15 +40,16 @@
 
 <Fixture>
   <Date>Sat, 22 May 2010 20:00:00 UTC</Date>
-  <Opposition>Welford Park</Opposition>
+  <Opposition>Welford Park 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 29 May 2010 20:00:00 UTC</Date>
-  <Opposition>Purley</Opposition>
+  <Opposition>Purley 3</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
@@ -56,10 +57,11 @@
 
 <Fixture>
   <Date>Sat, 5 Jun 2010 20:00:00 UTC</Date>
-  <Opposition>Waltham S L</Opposition>
+  <Opposition>Waltham St Lawrence 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -67,7 +69,8 @@
   <Opposition>No Fixture</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Abandonned</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>

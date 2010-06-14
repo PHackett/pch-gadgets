@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 14 21:00:41 UTC+0100 2010 -->
+<CricketMatch oppo="Waltham St Lawrence 2" date="Sat Jun 5 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Waltham St Lawrence 2">
+    <Batsman name="Ashton">
+      <HowOut how="Run Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Maddock">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="England">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="108"/>
+    </Batsman>
+    <Batsman name="Zubair">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Wasim">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Taz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Luckhart">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="Raja Singh" overs="9" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="11" maidens="0" runs="56" wickets="3"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="32" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="England"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="England"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="England"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wasim"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="Wasim"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Run Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="2" score="138"/>
+    <FallOfWicket batsman="1" score="147"/>
+    <FallOfWicket batsman="4" score="150"/>
+    <FallOfWicket batsman="3" score="164"/>
+    <FallOfWicket batsman="5" score="205"/>
+    <FallOfWicket batsman="6" score="236"/>
+    <BowlerSummary name="Taz" overs="9" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Luckhart" overs="8" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="England" overs="12" maidens="2" runs="53" wickets="3"/>
+    <BowlerSummary name="Abbass" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Harris" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Wasim" overs="6.5" maidens="1" runs="16" wickets="2"/>
+  </Innings>
+</CricketMatch>
+

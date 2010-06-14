@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 14 21:00:40 UTC+0100 2010 -->
+<CricketMatch oppo="Welford Park 2" date="Sat May 22 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Welford Park 2">
+    <Batsman name="M Brook">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="S Datta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="B Bucknell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="M George">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="A Singh">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Vivek">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="M Greenslade">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Jurgens">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="E Armishaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Edwards">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Carter">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="2" score="33"/>
+    <FallOfWicket batsman="1" score="91"/>
+    <FallOfWicket batsman="3" score="144"/>
+    <FallOfWicket batsman="5" score="175"/>
+    <FallOfWicket batsman="4" score="186"/>
+    <FallOfWicket batsman="7" score="187"/>
+    <FallOfWicket batsman="6" score="220"/>
+    <FallOfWicket batsman="9" score="225"/>
+    <BowlerSummary name="Steve Green" overs="15" maidens="4" runs="36" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="1" runs="46" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="13" maidens="1" runs="66" wickets="2"/>
+    <BowlerSummary name="Mark Roberts" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="4" maidens="0" runs="18" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="S Edwards"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Bucknell"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="LBW"/>
+      <Bowler name="Vivek"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Singh"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vivek"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="Vivek"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Bucknell"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="39"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="2" score="91"/>
+    <FallOfWicket batsman="4" score="151"/>
+    <FallOfWicket batsman="3" score="160"/>
+    <FallOfWicket batsman="5" score="173"/>
+    <FallOfWicket batsman="7" score="182"/>
+    <FallOfWicket batsman="6" score="182"/>
+    <BowlerSummary name="A Singh" overs="12" maidens="4" runs="40" wickets="1"/>
+    <BowlerSummary name="S Edwards" overs="5" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="B Bucknell" overs="12" maidens="1" runs="58" wickets="2"/>
+    <BowlerSummary name="M Carter" overs="6" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="Vivek" overs="7" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="S Datta" overs="0.3" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
