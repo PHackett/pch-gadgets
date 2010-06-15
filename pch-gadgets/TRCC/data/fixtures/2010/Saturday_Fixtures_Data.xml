@@ -52,7 +52,8 @@
   <Opposition>Purley 3</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Abandonned</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -69,7 +70,7 @@
   <Opposition>No Fixture</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>Abandonned</Result>
+  <Result>NotPlayed</Result>
   <HasLink/>
 </Fixture>
 
