@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 21 21:35:14 UTC+0100 2010 -->
+<CricketMatch oppo="Freith" date="Sun May 23 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Freith">
+    <Batsman name="J Young">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="K Fraser">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C Waller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Smiley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Choudry">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="O Redgwell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="W Tomkinson">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A McKenzie">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="E Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Wierenoa">
+      <HowOut how="Caught Dave Benjamin"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Polock">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="7" score="73"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <FallOfWicket batsman="10" score="110"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="14" maidens="2" runs="25" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="14" maidens="2" runs="32" wickets="5"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="K Fraser"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Choudry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="A McKenzie"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Stumped"/>
+      <Bowler name="K Fraser"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="K Fraser"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Polock"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="7" score="91"/>
+    <BowlerSummary name="K Fraser" overs="18" maidens="6" runs="35" wickets="3"/>
+    <BowlerSummary name="S Choudry" overs="6" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="A McKenzie" overs="4" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="C Polock" overs="7.4" maidens="1" runs="28" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
