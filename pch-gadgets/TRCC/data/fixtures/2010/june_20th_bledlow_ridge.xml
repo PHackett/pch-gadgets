@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 21 21:35:15 UTC+0100 2010 -->
+<CricketMatch oppo="Bledlow Ridge" date="Sun Jun 20 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      A beautiful day, beginning with a fairly stiff breeze from the North-East which soon mellowed to
+      leave the perfect afternoon, and Twyford welcomed long term adversaries Bledlow Ridge to the
+      Stanlake Meadow ground. With a a dry, true square and a freshly cut outfield, Twyford were placed in
+      to bat by the oppo. 
+      <p>
+      The home team began with some confidence, the square playing
+      true and the outfield making the fielders run. The early loss of Woodman was a blow, but his
+      replacements a the crease kept the runs flowing at 4 per over, with the occasional expensive over
+      mixed in. The bowling was accurate enough, but the pitch gave no help to Bledlow. Special mention,
+      however, to J Easton, who at the tender age of 12 opened his spell with a wicket maiden, and kept
+      the runs in check. The final score of 177 did not seem enough on such a batsman friendly wicket, but
+      at least gave Twyford something to bowl at.
+      <p>
+      After a top-notch tea, Twyford took to
+      the field. Twyford's openers were less than perfect in their bowling, but nevertheless Bledlow were
+      soon 2 down with just 17 on the scoreboard. But when Easton joined H Hale at the crease the runs
+      began to flow, reaching almost 5 per over by the 16th. Then a change in bowling brought N Downes,
+      and with that wickets! The visitors were soon on the back foot, struggling on 97-9. Surely it was
+      all over - 12 overs still remained of the game. But try as they might, Twyford could not dislodge
+      the stubborn tail-enders. They held on for the draw, taking their total to a creditable 132 by end
+      of play.
+      <p>
+      So, Twyford felt robbed. But fair play the the tenacity of the opposition.
+      And, on what had to be the best cricketing day of the year so far, it was the game that mattered
+      most.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="C Needham"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="A Hale"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Clarke"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Easton"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Easton"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="A Hale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Hale"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Lewis Rudd">
+      <HowOut how="Caught"/>
+      <Bowler name="J Easton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Lines">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="H Hale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="33"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="68"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="4" score="103"/>
+    <FallOfWicket batsman="6" score="108"/>
+    <FallOfWicket batsman="5" score="161"/>
+    <FallOfWicket batsman="8" score="161"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <FallOfWicket batsman="10" score="164"/>
+    <BowlerSummary name="W Needham" overs="4" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="C Needham" overs="5" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="A Hale" overs="10" maidens="1" runs="52" wickets="2"/>
+    <BowlerSummary name="Clarke" overs="7" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="J Easton" overs="8" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="H Hale" overs="7" maidens="0" runs="34" wickets="2"/>
+  </Innings>
+  <Innings batting="Bledlow Ridge">
+    <Batsman name="John Stephens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="H Hale">
+      <HowOut how="Caught Mark Roberts"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="G Grosse">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Easton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James Stephens">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Hale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="W Needham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Needham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Needham">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="2" score="74"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="6" score="85"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="10" score="97"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="10" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="23" wickets="5"/>
+    <BowlerSummary name="Mark Roberts" overs="3" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
