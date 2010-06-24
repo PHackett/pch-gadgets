@@ -44,7 +44,8 @@
   <Opposition>Crowthorne</Opposition>
   <Time>1.00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Mon, 31 May 2010 11:00:00 UTC</Date>
@@ -58,14 +59,16 @@
   <Opposition>Greys Green</Opposition>
   <Time>1.30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 13 Jun 2010 11:00:00 UTC</Date>
   <Opposition>Wokingham 2nd</Opposition>
   <Time>2.00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 20 Jun 2010 11:00:00 UTC</Date>
@@ -79,7 +82,7 @@
   <Date>Sun, 27 Jun 2010 11:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
   <Time>2.00</Time>
-  <Venue>Away</Venue>
+  <Venue>Home</Venue>
   <Result>NotPlayed</Result>
 </Fixture>
 <Fixture>
