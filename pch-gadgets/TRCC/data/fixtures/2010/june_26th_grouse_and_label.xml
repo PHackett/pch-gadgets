@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 6 20:45:20 UTC+0100 2010 -->
+<CricketMatch oppo="G&L II" date="Sat Jun 26 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="G&L II">
+    <Batsman name="Sheldon">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Sampath">
+      <HowOut how="Caught "/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sean">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sandeep">
+      <HowOut how="Caught "/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Pratyush">
+      <HowOut how="Caught "/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Rajesh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Abishek">
+      <HowOut how="Caught "/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Suresh">
+      <HowOut how="Run Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Taz">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="David"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="5" score="127"/>
+    <FallOfWicket batsman="4" score="148"/>
+    <FallOfWicket batsman="7" score="153"/>
+    <FallOfWicket batsman="6" score="191"/>
+    <FallOfWicket batsman="8" score="215"/>
+    <BowlerSummary name="Tim Cooper" overs="13" maidens="2" runs="60" wickets="3"/>
+    <BowlerSummary name="Jim Quartermain" overs="11" maidens="3" runs="48" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="8" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Mark Baker" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="5" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="Pratyush"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="David"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Abishek"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="Sandeep"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Suresh"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mark Baker"/>
+    <Batsman name="Tim Cooper"/>
+    <Batsman name="Simon Farrar"/>
+    <Extras value="49"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="1" score="66"/>
+    <FallOfWicket batsman="4" score="108"/>
+    <FallOfWicket batsman="5" score="133"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <FallOfWicket batsman="3" score="204"/>
+    <BowlerSummary name="Pratyush" overs="9" maidens="1" runs="58" wickets="1"/>
+    <BowlerSummary name="David" overs="8" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Sandeep" overs="5" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Suresh" overs="7" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Taz" overs="4" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Rajesh" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Abishek" overs="1" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
