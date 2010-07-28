@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Jul 28 17:35:55 UTC+0100 2010 -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 25 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      The local derby between Twyford and Wargrave proved once again to be a hotly contested match.
+      Twyford batted first, with things starting promisingly as Pete Woodman and David Downes putting on
+      43 for the first wicket. However, the arrival of Rimmer brought on the start of a top order collapse
+      for Twyford, with Rimmer at one point having figures of 4 wickets for no runs. These wickets brought
+      father and son Nic and Joe Downes to the crease though to spend some quality time together with Joe
+      holding up one end whilst Nic blazed away to a much needed70. Further support was lent by captain
+      Hugh Fort, allowing Twyford to recover to a respectable 161.
+      <p>
+      Missing their usual
+      fast bowlers, Twyford opened with yet another Downes combination of brothers Tom and Joe.The batsmen
+      seemed unable to play Joe's short, quick bowling, whilst some good away swing from Tom at theother
+      end got numerous edges which flew over, round and through the slip cordon without any going to hand.
+      Itwas Joe however who struck first, with a short ball which Neary dragged on to his own stumps,
+      after being droppedat the other end. Tom then struck quickly afterwards, taking the middle stump of
+      the Wargrave captain, and aftera bowling change which brought father Nic into the attack, a third
+      wicket fell to the Downes family. However,Wargrave quickly rallied, with the two Clarks putting on
+      just under a hundred to see Wargrave home.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Rimmer"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Rimmer"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Rimmer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Rimmer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="E Woods"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Sharma"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="E Woods"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alex Burke">
+      <HowOut how="Stumped"/>
+      <Bowler name="E Woods"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="43"/>
+    <FallOfWicket batsman="1" score="50"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="6" score="101"/>
+    <FallOfWicket batsman="7" score="154"/>
+    <FallOfWicket batsman="8" score="160"/>
+    <FallOfWicket batsman="5" score="161"/>
+    <BowlerSummary name="A Sharma" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="D Broadley" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="J Rimmer" overs="6" maidens="5" runs="4" wickets="4"/>
+    <BowlerSummary name="T Doughty" overs="7" maidens="2" runs="20" wickets="0"/>
+    <BowlerSummary name="A Woods" overs="5" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="T Sharma" overs="6" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="E Woods" overs="4" maidens="0" runs="7" wickets="3"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="D Neary">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="T Sharma">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Woods">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="J Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="K Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <BowlerSummary name="Tom Downes" overs="9" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Simon Farrar" overs="2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Alex Burke" overs="1.3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
+

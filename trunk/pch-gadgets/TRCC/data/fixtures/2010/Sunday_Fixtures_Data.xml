@@ -106,14 +106,15 @@
   <Opposition>Moulsford</Opposition>
   <Time>2.00</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 <Fixture>
   <Date>Sun, 25 Jul 2010 11:00:00 UTC</Date>
   <Opposition>Wargrave</Opposition>
   <Time>2.00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 1 Aug 2010 11:00:00 UTC</Date>
