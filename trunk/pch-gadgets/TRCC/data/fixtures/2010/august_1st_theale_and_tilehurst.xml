@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 3 19:50:18 UTC+0100 2010 -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun Aug 1 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      The old adage &quot;Catches win matches!&quot; was to haunt for Twyford this weekend, as Theale
+      &amp; Tilehurst came calling at the Stanlake meadow ground.
+      <p>
+      Twyford Captain H Fort
+      won the toss, and decided to make the visitors field on a true wicket, which with the continuing
+      lack of rain possessed a wickedly fast outfield. Thing did not start well for the home side, with
+      Woodman dismissed on the first ball of the innings, and then a slow run rate for the first 15 overs.
+      But T Fort &amp; Benjamin once again showed the youngsters how to get things done, pushing the run
+      rate up to 4 per over and the score past the 100 mark with seeming ease. N Downes continued the
+      progress for the home side, but the lower order failed to make much of an impact. The final score of
+      177 at least gave Twyford something to bowl at, but looked 30 or so runs short. Pick of the bowlers
+      for Theale &amp; Tilehurst was B Cooper, taking 5 for just 17 in his spell, but most of the others
+      were very thrifty as well. 
+      <p>
+      Post tea, T&amp;T began their task with some confidence,
+      but tight bowling from Hackett &amp; Cooper kept them pinned down for the first 20 overs. 2 wickets
+      fell, and the home side felt on top. But the change of bowlers brought a change of fortune, and the
+      runs began to mount, with J White leading the charge with a fine 55. The hundred was passed, and the
+      visitors were in the ascendancy. A Sharp scored a very swift 50, and victory looked in the bag. But
+      then Hackett &amp; Cooper returned for their second spell - 3 quick wickets and the mood changed.
+      Could Twyford pull of an unlikely victory against the odds? It came down to the last few overs - The
+      visitors 8 down but close to the target. But the batsmen held on, the final runs coming with 2 overs
+      to spare.
+      <p>
+      There were many missed catches by Twyford - some difficult, others less so
+      - but all praise to Theale &amp; Tilehurst. This was the last game of their tour, 5 games in the
+      past week! We can only admire their stamina.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="J Manning"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="R Williams"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Sharp"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Manning"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="3" score="106"/>
+    <FallOfWicket batsman="4" score="126"/>
+    <FallOfWicket batsman="5" score="147"/>
+    <FallOfWicket batsman="6" score="148"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <FallOfWicket batsman="7" score="170"/>
+    <FallOfWicket batsman="9" score="170"/>
+    <FallOfWicket batsman="11" score="177"/>
+    <BowlerSummary name="J Manning" overs="10" maidens="3" runs="36" wickets="2"/>
+    <BowlerSummary name="R Williams" overs="8" maidens="3" runs="23" wickets="1"/>
+    <BowlerSummary name="A Sharp" overs="10" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="S Brown" overs="6" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="B Cooper" overs="5.3" maidens="1" runs="17" wickets="5"/>
+  </Innings>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="A Ahmed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Caught Mark Roberts"/>
+      <Bowler name="Edward Farrar"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="H Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Morris">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Sharp">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="M Runkel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="L Manning">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Manning">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Williams"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="10.5" maidens="2" runs="35" wickets="3"/>
+    <BowlerSummary name="Tim Cooper" overs="11" maidens="2" runs="37" wickets="3"/>
+    <BowlerSummary name="Mark Roberts" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="3" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
