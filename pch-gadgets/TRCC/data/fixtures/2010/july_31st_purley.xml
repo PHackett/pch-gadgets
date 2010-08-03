@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 2 21:02:04 UTC+0100 2010 -->
+<CricketMatch oppo="Purley" date="Sat Jul 31 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Purley">
+    <Batsman name="P Rackley">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="S Dyer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Elliott">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="A Migford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Y Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="K Barratt">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Clarke">
+      <HowOut how="Caught David Downes"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Jeffrey">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="133"/>
+    <FallOfWicket batsman="4" score="139"/>
+    <FallOfWicket batsman="3" score="140"/>
+    <FallOfWicket batsman="5" score="148"/>
+    <FallOfWicket batsman="7" score="156"/>
+    <BowlerSummary name="Steve Green" overs="10" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="14" maidens="1" runs="52" wickets="4"/>
+    <BowlerSummary name="Spence Nichols" overs="13" maidens="0" runs="62" wickets="2"/>
+    <BowlerSummary name="Adam Smith" overs="8" maidens="1" runs="35" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="J Seward"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Y Singh"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Jeffrey"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Carter"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Jeffrey"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mark Baker">
+      <HowOut how="Caught"/>
+      <Bowler name="J Elliott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Mesham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="J Elliott"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Jeffrey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="35"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="2" score="69"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="8" score="89"/>
+    <FallOfWicket batsman="9" score="100"/>
+    <FallOfWicket batsman="7" score="118"/>
+    <BowlerSummary name="J Seward" overs="3" maidens="1" runs="5" wickets="1"/>
+    <BowlerSummary name="R Jeffrey" overs="12" maidens="0" runs="42" wickets="3"/>
+    <BowlerSummary name="B Carter" overs="13" maidens="7" runs="21" wickets="1"/>
+    <BowlerSummary name="Y Singh" overs="8" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="J Elliott" overs="7" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="P Rackley" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="P Mesham" overs="1" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

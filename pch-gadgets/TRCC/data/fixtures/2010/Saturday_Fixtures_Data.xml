@@ -130,7 +130,8 @@
   <Opposition>Purley</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -139,6 +140,7 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotPlayed</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
