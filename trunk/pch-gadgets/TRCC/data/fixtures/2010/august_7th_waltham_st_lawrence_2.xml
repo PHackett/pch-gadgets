@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 10 19:41:12 UTC+0100 2010 -->
+<CricketMatch oppo="Waltham St Lawrence 2" date="Sat Aug 7 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hartland"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Lugthart"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Nebbett"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="Nebbett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Parker"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Abbas"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Spence Nichols"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="67"/>
+    <FallOfWicket batsman="1" score="86"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <FallOfWicket batsman="4" score="120"/>
+    <FallOfWicket batsman="6" score="172"/>
+    <FallOfWicket batsman="7" score="187"/>
+    <BowlerSummary name="Lugthart" overs="15" maidens="1" runs="78" wickets="1"/>
+    <BowlerSummary name="Abbas" overs="14" maidens="1" runs="67" wickets="1"/>
+    <BowlerSummary name="Nebbett" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Hartland" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Parker" overs="2" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Waltham St Lawrence 2">
+    <Batsman name="Nock">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Owen">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Latif">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Parker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Christodoulou">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bennet">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Abbas">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Blake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nebbett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Lugthart">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hartland">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="74"/>
+    <FallOfWicket batsman="8" score="92"/>
+    <FallOfWicket batsman="9" score="118"/>
+    <FallOfWicket batsman="10" score="129"/>
+    <BowlerSummary name="Steve Beamish" overs="13" maidens="3" runs="47" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="10" maidens="6" runs="25" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="10" maidens="5" runs="23" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="1" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>
+

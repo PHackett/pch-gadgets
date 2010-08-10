@@ -122,7 +122,8 @@
   <Opposition>Welford Park</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lost</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -136,10 +137,10 @@
 
 <Fixture>
   <Date>Sat, 07 Aug 2010 20:00:00 UTC</Date>
-  <Opposition>Waltham S L</Opposition>
+  <Opposition>Waltham St Lawrence 2</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Draw</Result>
   <HasLink/>
 </Fixture>
 
