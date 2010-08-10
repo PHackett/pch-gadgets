@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 10 20:43:09 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 8 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      Thirty-Six years to the day since Richard M Nixon resigned as president of the united states,
+      travelling side Reading Lawyers made the journey to the Stanlake Meadow ground - But which side
+      would be wanting to erase the tapes of <em>this</em> encounter? 
+      <p>
+      <em>(Please note:
+      Your illustrious chairman had got bored of every match report starting out with the weather.
+      &quot;Use something from history or literature, you blithering idiot Hackett&quot; or words to that
+      effect - A heartfelt sentiment for which I have some sympathy. But this was all I could find, and I
+      think the link is just a little strained. But to return to the matter at hand ...)</em>
+      <p>
+  
+         A hot, humid day with a lot of cloud cover, Twyford were placed in the field. Runs came at a
+      reasonable rate, but opening bowler Cooper struck 3 times within the first 11 overs to leave the
+      visitors in a less that happy position. However with the first bowling change, Baker and Mullett
+      settled down to some serious run scoring, ably assisted by James and Tramer as other wickets fell.
+      But the tail was unable to keep up the pace, and the run rate slowed markedly. The final total of
+      166-8 looked well within Twyford's reach.
+      <p>
+      After tea, tight bowling from the RL's
+      openers kept the runs to a premium. By the time 20 overs was called, the home side had a mere 46
+      runs for the loss of 3 wickets, and things looked dicey. Then, promoted up the batting order because
+      of work commitments later that evening, T Copper came to the fore. Usually a reluctant number 10, he
+      attacked the ball sending shot after shot to the boundary, and on two occasions clearing that
+      boundary by some margin. Finally bowled by Seymour, he achieved his first 50 for the club - In fact
+      the first in his entire playing career! But no other Twyford player was able to pick up the mantle
+      and keep the run rate up to achieve victory. The end result - a draw - suitably reflected the
+      performance of the two teams.
+      <p>
+      So, a fair result against fine and friendly opposition
+      - The perfect day?
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="M Symons">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="W Baker">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="S Clague">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="W Lake">
+      <HowOut how="Caught Chris Apps"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="G Mullett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="S James">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Teal"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Tramir">
+      <HowOut how="Run Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Lewi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Farooq">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Seymour"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="2" score="78"/>
+    <FallOfWicket batsman="5" score="106"/>
+    <FallOfWicket batsman="6" score="140"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="4" runs="30" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="8" maidens="3" runs="27" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="12" maidens="2" runs="31" wickets="2"/>
+    <BowlerSummary name="Chris Apps" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Edward Farrar" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="6" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="A Farooq"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Clague"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Clague"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Lake"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Apps">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jonny Lines">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Edward Farrar"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="34"/>
+    <FallOfWicket batsman="1" score="38"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <BowlerSummary name="M Seymour" overs="8" maidens="2" runs="15" wickets="3"/>
+    <BowlerSummary name="A Farooq" overs="10" maidens="3" runs="29" wickets="1"/>
+    <BowlerSummary name="W Lake" overs="10" maidens="0" runs="57" wickets="1"/>
+    <BowlerSummary name="S Clague" overs="8" maidens="1" runs="34" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
