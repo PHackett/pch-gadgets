@@ -152,12 +152,13 @@
   <Result>NotPlayed</Result>
 </Fixture>
 
-	<Fixture>
+<Fixture>
   <Date>Sat, 21 Aug 2010 20:00:00 UTC</Date>
-  <Opposition>Shinfield</Opposition>
+  <Opposition>Shinfield 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>

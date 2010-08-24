@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 24 19:17:47 UTC+0100 2010 -->
+<CricketMatch oppo="Falkland 3rd" date="Sun Aug 22 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      The summer is getting old - We have had some rain, and the outfield has grass on it for the first
+      time in many months. TRCC welcomed Falkland 3rds to Stanlake Meadow.
+      <p>
+      The home side
+      were put in the field, and from the off the bowling attack looked good. Because of all that grass
+      that had grown, boundaries were to be few and far between, but the visitors were still able to
+      maintain a healthy run rate. Soon Falkland were looking shakey, as Hackett took two wickets early
+      on. But batsman D Horn was looking like a rock, giving no chances (until his dismissal), eleganltly
+      steering any loose balls away for runs. He did not get much support until V-Jay joined him at the
+      crease, and togeter they pushed Falklands' score on to 153 when the final wicket fell. Pick of the
+      Twyford bowlers had to be young J Downes, with figures of 8-1-16-4.
+      <p>
+      So - Just 154
+      for victory on what had been a true wicket - Twyford's hopes were high!
+      <p>
+      But, being
+      British, we all know what hopes are for, don't we? Yes, that's right - Hopes are for dashing. 
+     
+      <p>
+      At least it did not take long. A slow start by the Twyford batsmen was interrupted in the
+      7th over when 2 wickets fell to Denish. N Downes showed some pluck with the bat, but his score of 18
+      (far and away the highest for the home team) was not something to write home about. As for the rest
+      - Well - the last 6 wickets fell for <em>no runs whatsoever!</em> Not Twyford's finest hour, and
+      it's difficult to say what went wrong. Sure, the batting was very poor, but it seemed that every
+      edge went in to the air, and to a fielder who never fluffed it. The bowling was tight, but not so
+      tight as to explain the final scoreline. 
+      <p>
+      So, we'll put this one down to fate, the
+      planets, the gods, or whatever. It only remains to thank our visitors for the (partially) enjoyable
+      game, and to vow revenge next year!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Falkland 3rd">
+    <Batsman name="J Horn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Horn">
+      <HowOut how="Caught Simon Farrar"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Mannahar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Denish">
+      <HowOut how="Caught Sam Young"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Busby">
+      <HowOut how="Caught Sam Young"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Birtwistle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Cole">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="V Jay">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="K Hollister">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Llewellyn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Day">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="6" score="92"/>
+    <FallOfWicket batsman="7" score="103"/>
+    <FallOfWicket batsman="8" score="126"/>
+    <FallOfWicket batsman="2" score="139"/>
+    <FallOfWicket batsman="9" score="152"/>
+    <FallOfWicket batsman="10" score="153"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="1" runs="16" wickets="4"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Tim Cooper" overs="6" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="43" wickets="2"/>
+    <BowlerSummary name="Edward Farrar" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Denish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Denish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Denish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cole"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cole"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="V Jay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Young">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cole"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Caught"/>
+      <Bowler name="A Day"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="V Jay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Day"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="38"/>
+    <FallOfWicket batsman="7" score="38"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="9" score="38"/>
+    <FallOfWicket batsman="8" score="38"/>
+    <FallOfWicket batsman="11" score="38"/>
+    <BowlerSummary name="Denish" overs="9" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="T Cole" overs="10" maidens="5" runs="13" wickets="3"/>
+    <BowlerSummary name="V Jay" overs="2" maidens="2" runs="0" wickets="2"/>
+    <BowlerSummary name="A Day" overs="0.5" maidens="0" runs="0" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
