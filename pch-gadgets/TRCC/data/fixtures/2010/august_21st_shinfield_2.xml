@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 24 19:17:51 UTC+0100 2010 -->
+<CricketMatch oppo="Shinfield 2" date="Sat Aug 21 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Shinfield 2">
+    <Batsman name="K Alluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="M Terry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Sonti">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="V Sharma">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="John Farrow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Sreeni">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="K Patel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="F Gould">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="R Samdant">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Jamie Farrow">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="57"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="5" score="109"/>
+    <FallOfWicket batsman="4" score="113"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <FallOfWicket batsman="7" score="137"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="12" maidens="2" runs="56" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="7" maidens="0" runs="55" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="9" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="4" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Mark Roberts" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Run Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="R Samdant"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mark Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Alluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Alluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Samdant"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="F Gould"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Roberts"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Roberts"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="V Sharma"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="LBW"/>
+      <Bowler name="D Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="1" score="44"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="6" score="89"/>
+    <FallOfWicket batsman="8" score="98"/>
+    <FallOfWicket batsman="7" score="109"/>
+    <FallOfWicket batsman="10" score="113"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <BowlerSummary name="K Alluri" overs="9" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="R Samdant" overs="6" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="F Gould" overs="6" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="D Roberts" overs="4" maidens="0" runs="10" wickets="3"/>
+    <BowlerSummary name="V Sharma" overs="0.4" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
