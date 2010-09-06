@@ -150,31 +150,35 @@
 </Fixture>
 <Fixture>
   <Date>Sun, 29 Aug 2010 11:00:00 UTC</Date>
-  <Opposition>TBA</Opposition>
+  <Opposition>Cleeve</Opposition>
   <Time>2.00</Time>
   <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lost</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Mon, 30 Aug 2010 11:00:00 UTC</Date>
-  <Opposition>TBA</Opposition>
+  <Opposition>Cleeve</Opposition>
   <Time>2.00</Time>
   <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Lost</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Tue, 31 Aug 2010 11:00:00 UTC</Date>
-  <Opposition>TBA</Opposition>
+  <Opposition>Bathford</Opposition>
   <Time>2.00</Time>
   <Venue>Tour</Venue>
-  <Result>NotPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 5 Sep 2010 11:00:00 UTC</Date>
-  <Opposition>Emmbrook and Bearwood</Opposition>
+  <Opposition>Yateley</Opposition>
   <Time>1.30</Time>
-  <Venue>Home</Venue>
-  <Result>NotPlayed</Result>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 <Fixture>
   <Date>Sun, 12 Sep 2010 11:00:00 UTC</Date>
