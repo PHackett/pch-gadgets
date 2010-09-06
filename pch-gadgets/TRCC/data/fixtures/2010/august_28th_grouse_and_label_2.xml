@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 6 21:41:34 UTC+0100 2010 -->
+<CricketMatch oppo="Grouse and Label 2" date="Sat Aug 28 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      A hard fought match, but the men of TRCC held their nerve, right up to the moment the oppo called it
+      off as they could not raise a team!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Grouse and Label 2">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+
