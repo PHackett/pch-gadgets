@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 13 19:43:40 UTC+0100 2010 -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 12 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      The last warm day of the year? Time will tell ...
+      <p>
+      Twyford played host to Lower
+      Earley. The visitors batted first, and although runs came initially, they were soon reeling at 34-4
+      in only the 10th over, and then 42-6 in the 14th. The home side smelt blood! Two more wickets fell
+      and Loweer Early were on 82-8 - Surely nothing could same them now! But, step forward G Hunt, who
+      keeping his head and assisted by batting partners who did not get themselves out pushed the score on
+      to a creditable total of 148 by the end of the innings. 
+      <p>
+      And Twyford were to rue
+      letting the tail wag so vigorously. Another poor batting display, admittedly in the face of a pretty
+      good bowling attack from the visitors. Again, as has been the case on many times this year, just one
+      batsman reaching double figures. The last Twyford batsman was dismissed (for a golden duck!) with
+      still 3 overs left to play. 
+      <p>
+      Disappointment then for Twyford - Defeat snatched from
+      the jaws of victory. Just wait 'til next year!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Lower Earley">
+    <Batsman name="Afik">
+      <HowOut how="Caught Mark Roberts"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Baer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Khan">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Choudry">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Y Khan">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Apps"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="R Karamat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Hunt">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="C Doughty">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Ellans">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="R Harwood">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="1" score="24"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="44"/>
+    <FallOfWicket batsman="6" score="52"/>
+    <FallOfWicket batsman="7" score="60"/>
+    <FallOfWicket batsman="8" score="82"/>
+    <FallOfWicket batsman="9" score="139"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="11" maidens="0" runs="48" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Chris Apps" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="C Doughty"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="R Karamat"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="C Doughty"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Karamat"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Karamat"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Maynard"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Doughty"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Apps">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Maynard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="C Doughty"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="7" score="85"/>
+    <FallOfWicket batsman="4" score="87"/>
+    <FallOfWicket batsman="8" score="87"/>
+    <FallOfWicket batsman="9" score="87"/>
+    <FallOfWicket batsman="11" score="87"/>
+    <BowlerSummary name="C Doughty" overs="8.2" maidens="2" runs="13" wickets="4"/>
+    <BowlerSummary name="Y Khan" overs="6" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="S Ellans" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="R Harwood" overs="4" maidens="3" runs="22" wickets="0"/>
+    <BowlerSummary name="R Karamat" overs="6" maidens="3" runs="8" wickets="3"/>
+    <BowlerSummary name="G Hunt" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="S Maynard" overs="2" maidens="1" runs="7" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
