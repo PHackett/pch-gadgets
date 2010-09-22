@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 22 20:04:47 UTC+0100 2010 -->
+<CricketMatch oppo="Cranbourne" date="Sun Sep 19 00:00:00 UTC+0100 2010">
+  <MatchReport>
+    <![CDATA[
+      The nights draw in, and the games start earlier &amp; earlier. Close to the end of the season? How
+      can that be? 
+      <p>
+      Cranbourne elected to bat on what proved to be a very true wicket with
+      the ball coming on slowly to the bat, and despite the time of year the outfield was lightning fast
+      (But the constant wind! It was uncomfortable for the fielders). Twyford's bowlers were initially
+      accurate and testing, but by the 6th over they lost their form and the batsmen made hay! Runs began
+      to mount at a furious rate with the first wicket not falling until 80 was on the board. The change
+      of bowling did not help, and there was some lacklustre fielding from the visitors as well. Only
+      Smith for Twyford was able to keep the run rate in check, but the final total of 214 looked daunting
+      as the teams headed in for tea. 
+      <p>
+      Their turn at the crease, Twyford began slowly, but
+      like Cranbourne soon found the square to their taste and runs began to mount. But when 20 overs were
+      called, the visitors were on 98-4, a full 116 behind - Surely too high a hill to climb?
+      <p>
+  
+         But a surprise was in store - Twyford had a tail for the first time this season! Opener Cochrane
+      passed 50, and Smith, Cooper, C Fort and Beamish all made runs. The incredible was happening - the
+      visitors were in sight of victory after a prolonged chase at a high run-rate. It all came down to
+      the last over - The scores level with 4 balls to go! But that last run eluded the visitors due to
+      some tight fielding, and the matches ended in that most unusual result - a tie. 
+      <p>
+     
+      Thrilling, edge-of-the-seat suff, showing that the season is far from over in terms of excitement at
+      least.
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Cranbourne">
+    <Batsman name="W Moores">
+      <HowOut how="LBW"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Raza">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Cooper"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="N Patel">
+      <HowOut how="Caught Sam Young"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Crick">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Zamir">
+      <HowOut how="LBW"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nilpesh Patel">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Riki">
+      <HowOut how="Stumped"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="R Allerston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="V Patel">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Quantig"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="80"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <FallOfWicket batsman="5" score="135"/>
+    <FallOfWicket batsman="6" score="137"/>
+    <FallOfWicket batsman="7" score="213"/>
+    <FallOfWicket batsman="8" score="214"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="5" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="9" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="R Allerston"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raza"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raza"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raza"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Raza"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="N Patel"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Patel"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raza"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Sam Young">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="34"/>
+    <FallOfWicket batsman="2" score="53"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="1" score="138"/>
+    <FallOfWicket batsman="6" score="167"/>
+    <FallOfWicket batsman="7" score="189"/>
+    <FallOfWicket batsman="8" score="189"/>
+    <BowlerSummary name="R Allerston" overs="7" maidens="1" runs="39" wickets="1"/>
+    <BowlerSummary name="Quantig" overs="4" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Raza" overs="12" maidens="0" runs="62" wickets="5"/>
+    <BowlerSummary name="D Crick" overs="8" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="V Patel" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="N Patel" overs="3" maidens="0" runs="32" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
