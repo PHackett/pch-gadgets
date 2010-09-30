@@ -63,7 +63,7 @@
     <Batsman name="Mark Roberts">
       <HowOut how="Caught"/>
       <Bowler name="England"/>
-      <Runs value="45"/>
+      <Runs value="48"/>
     </Batsman>
     <Batsman name="Ken Cochrane">
       <HowOut how="Bowled"/>
@@ -92,7 +92,7 @@
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
-    <Extras value="36"/>
+    <Extras value="33"/>
     <FallOfWicket batsman="2" score="138"/>
     <FallOfWicket batsman="1" score="147"/>
     <FallOfWicket batsman="4" score="150"/>

@@ -19,7 +19,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Sandeep">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Mark Roberts"/>
       <Bowler name="Tim Cooper"/>
       <Runs value="74"/>
     </Batsman>
