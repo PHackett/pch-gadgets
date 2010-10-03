@@ -369,3 +369,8 @@ function GGUtils_collapseStringSpaces (aS)
 	
 	return (lRet);
 } 
+
+function GGUtils_CapitaliseFirstLetter (aString)
+{
+	return (aString.substr(0, 1).toUpperCase() + aString.substr(1));
+}
