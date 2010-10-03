@@ -640,7 +640,12 @@ function GGTRCC_YearFromSitesURL ()
 //------------------------------------------------------------
 function GGTRCC_TeamFromSitesURL ()
 {
-	return (GGTRCC_ItemFromSitesURL (1));
+    //
+    // Capitalise the first letter for ease of page creation.
+    // The Team name should always start with a Capital letter,
+    // i.e. "Sunday" not "sunday"
+    //
+	return (GGUtils_CapitaliseFirstLetter (GGTRCC_ItemFromSitesURL (1)));
 }
 
 
