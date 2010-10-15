@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Oct 15 19:30:12 UTC+0100 2010 -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Sep 26 00:00:00 UTC+0100 2010">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Farooq"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Caught"/>
+      <Bowler name="Seymour"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lake"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Farooq"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dave Benjamin">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Mark Teal"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Farooq" overs="12" maidens="1" runs="50" wickets="2"/>
+    <BowlerSummary name="Baker" overs="5" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Seymour" overs="7" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Frost" overs="10" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Lake" overs="10" maidens="0" runs="51" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="N Symonds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="W Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Woosemore">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="J Frost">
+      <HowOut how="Not Out"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Other">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N Lake">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="11" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="Tim Cooper" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="33" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
