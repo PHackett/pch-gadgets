@@ -3,7 +3,8 @@
 //
 var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 
-var gGGGadget_SitesRoot="http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
+var gGGGadget_SitesRootNoScheme="://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
+var gGGGadget_SitesRoot="http" + gGGGadget_SitesRootNoScheme;
 var gGGGadget_HomeRoot="http://trcc.paulhackett.com/TRCCweb/twyford-google/";
 var gGGGadget_PlusNetRoot="http://www.paulhackett.plus.com/websites/trcc/";
 var gGGGadget_GoogleSVNRoot="http://twyfordweb.googlecode.com/svn/trunk/";
@@ -103,7 +104,18 @@ function GGGadget_hostedOn (aSite)
 //------------------------------------------------------------
 function GGGadget_hostedOnSites ()
 {
-	return (GGGadget_hostedOn (gGGGadget_SitesRoot));
+	//
+	// We are, for some reason, sometimes using https (as opposed 
+	// to http on Google sites. So, a special test required here
+	//
+	var lRet=false;
+	
+	if (-1 != GGGadget_getHostURL().indexOf(gGGGadget_SitesRootNoScheme))
+	{
+		lRet = true;
+	}
+	
+	return (lRet);
 }
 
 
