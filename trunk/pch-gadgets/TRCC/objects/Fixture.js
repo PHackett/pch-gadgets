@@ -679,11 +679,24 @@ function GGTRCC_ItemFromSitesURL (aItem)
 {
 	var lRet="";
 	var lURL=GGGadget_getHostURL();
-	var lDataRoot=gGGGadget_SitesRoot + "All-Fixtures/"
 	
-	if (lURL.length > lDataRoot.length)
+	//
+	// Now this is a bit nasty ....
+	// Sometimes we go to Google sites with https as opposed
+	// to http. So, take car when chopping up the URL
+	//
+	var lDataRoot=gGGGadget_SitesRootNoScheme + "All-Fixtures/"
+	var lIndex = lURL.indexOf (gGGGadget_SitesRootNoScheme);
+
+	if (-1 == lIndex)
 	{
-		var lPath=lURL.substr(lDataRoot.length);
+		//
+		// OK- Something has gone seriously wrong here ...
+		//
+	}	
+	else if (lURL.length > (lDataRoot.length + lIndex))
+	{
+		var lPath=lURL.substr(lDataRoot.length + lIndex);
 		var lA=lPath.split ("/");
 		
 		if (lA.length > aItem)
