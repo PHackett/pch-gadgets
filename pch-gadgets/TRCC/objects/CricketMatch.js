@@ -138,12 +138,21 @@ function GGTRCC_CricketMatchO___matchHTML()
 {
 	var lRet="";
 	
-	lRet += "<span class='GadgetMatchReportHeader'>" + this.title() + "</span>";
-	lRet += "<hr size='2'>";
+	//
+	// On google sites, the match data is already there
+	// on the page - No need to render it here
+	//
+	if (!GGGadget_hostedOnSites())
+	{
+		lRet += "<span class='GadgetMatchReportHeader'>" + this.title() + "</span>";
+		lRet += "<hr size='2'>";
+		
+		lRet += this.mMatchReport.HTML();
+		
+		Lret += "<p><hr>";
+	}
 	
-	lRet += this.mMatchReport.HTML();
-	
-	lRet += "<p><hr><span class='Scorecard'>Scorecard</span><p>";
+	lRet += "<span class='Scorecard'>Scorecard</span><p>";
 	
 	if (null != this.mInnings[0])
 	{
