@@ -278,6 +278,39 @@ function GGUtils_spacesToUnderscores (aS)
 }
 
 
+//------------------------------[GGUtils_periodsToUnderscores]-
+// Replace all the '.' in the supplied string with "_" chars.
+//
+// @param	aS	IN	String to modify
+// 
+// @return Modified string 
+//
+//------------------------------------------------------------
+function GGUtils_periodsToUnderscores (aS)
+{
+	return (aS.replace (/\./g, "_"));
+}
+
+
+//--------------------------------------[GGUtils_SanitizeURL]-
+// 'Sanitize' the given string (presumed to be an URL) such 
+// that the URL is now suitable for Google sites
+//
+// @param	aS	IN	String to modify
+// 
+// @return Modified string 
+//
+//------------------------------------------------------------
+function GGUtils_SanitizeURL (aS)
+{
+	var lRet = GGUtils_periodsToUnderscores (aS);
+	
+	lRet = GGUtils_spacesToUnderscores (lRet)
+	
+	return (lRet);
+}
+
+
 //-----------------------------------------[GGUtils_makeHREF]-
 // Make the <a href=....> string for the given info
 // 
