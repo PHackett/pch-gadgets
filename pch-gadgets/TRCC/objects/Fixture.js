@@ -363,12 +363,7 @@ function GGTRCC_FixtureO___URL()
 		lURL += this.getTeam() + "/";
 		lURL += GGUtils_MonthStringFromDate (this.mDate).toLowerCase() + "_" +
                 GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "_" +
-				this.mOppo.toLowerCase();
-				
-		//
-		// For google sites the URL cannot contain spaces or periods
-		//
-		lURL = GGUtils_SanitizeURL (lURL);
+				GGUtils_periodsToUnderscores (this.mOppo.toLowerCase());
 	}
 	else 
 	{
@@ -377,11 +372,9 @@ function GGTRCC_FixtureO___URL()
 		lURL += "date="  + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), false) + "&";
 		lURL += "year="  + this.mDate.getFullYear() + "&";
 		lURL += "oppo="  + this.mOppo;
-		
-		lURL = GGUtils_spacesToUnderscores(lURL);
 	}	
 	
-	return (lURL);
+	return (GGUtils_spacesToUnderscores(lURL));
 }
 
 function GGTRCC_FixtureO___isWin() { return (gFixtureResWin == this.mResult); }
