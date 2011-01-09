@@ -62,7 +62,7 @@ function TRCCUtils_GetFixtureXML (aYear, aOppo, aDate, aMonth)
 	//
 	// Construct the XML URL for the required data
 	//
-	var lXMLURL = gGGGadget_Root + "TRCC/data/fixtures/" + aYear + "/" + aMonth.toLowerCase() + "_" + aDate + "_" + GGUtils_spacesToUnderscores(aOppo).toLowerCase() + ".xml";
+	var lXMLURL = gGGGadget_Root + "TRCC/data/fixtures/" + aYear + "/" + aMonth.toLowerCase() + "_" + aDate + "_" + GGUtils_SanitizeURL(aOppo).toLowerCase() + ".xml";
 
 	return (lXMLURL);
 }
