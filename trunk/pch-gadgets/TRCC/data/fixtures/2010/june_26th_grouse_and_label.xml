@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Tue Jul 6 20:45:20 UTC+0100 2010 -->
-<CricketMatch oppo="Grouse and Label II" date="Sat Jun 26 00:00:00 UTC+0100 2010">
+<CricketMatch oppo="Grouse and Label" date="Sat Jun 26 00:00:00 UTC+0100 2010">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Grouse and Label II">
+  <Innings batting="Grouse and Label">
     <Batsman name="Sheldon">
       <HowOut how="LBW"/>
       <Bowler name="Ken Cochrane"/>
