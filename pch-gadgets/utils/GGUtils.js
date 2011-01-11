@@ -349,6 +349,7 @@ function GGUtils_makeHREF (aString, aURL, aTarget)
 	
 	lRet += ">";
 	lRet += aString;
+	lRet += " <" + lTarget + ">";	/// Special to help debug fuckin'g IE problem
 	lRet += "</a>"; 
 	
 	return (lRet);
