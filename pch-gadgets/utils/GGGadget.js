@@ -6,7 +6,8 @@ var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 var gGGGadget_NoSchemeSitesRoots = 
 	[ 
 		"://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/", 
-		"://sites.twyfordcc.org.uk/"
+		"://sites.twyfordcc.org.uk/",
+		"://sites.google.com/a/twyfordcc.org.uk/home/"
 	];
 
 var gGGGadget_HomeRoot="http://trcc.paulhackett.com/TRCCweb/twyford-google/";
