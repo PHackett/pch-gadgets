@@ -3,13 +3,35 @@
 //
 var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
 
-var gGGGadget_SitesRootNoScheme="://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/";
-var gGGGadget_SitesRoot="http" + gGGGadget_SitesRootNoScheme;
+var gGGGadget_NoSchemeSitesRoots = 
+	[ 
+		"://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/", 
+		"://sites.twyfordcc.org.uk/"
+	];
+
 var gGGGadget_HomeRoot="http://trcc.paulhackett.com/TRCCweb/twyford-google/";
 var gGGGadget_PlusNetRoot="http://www.paulhackett.plus.com/websites/trcc/";
 var gGGGadget_GoogleSVNRoot="http://twyfordweb.googlecode.com/svn/trunk/";
 
 var gGGGadget_LoadingHTML="<div class=\"loading\">Loading...</div>";
+
+
+function GGGadget_GetSitesRootNoScheme ()
+{
+	var lRet = "";
+	
+	for (var i=0 ; i<gGGGadget_NoSchemeSitesRoots.length ; ++i)
+	{
+		if (-1 != GGGadget_getHostURL().indexOf(gGGGadget_NoSchemeSitesRoots[i]))
+		{
+			lRet = gGGGadget_NoSchemeSitesRoots[i];
+			
+			break;
+		}
+	}
+	
+	return (lRet);
+}
 
 
 //--------------------------------------[GGGadget_getHostURL]-
@@ -110,7 +132,7 @@ function GGGadget_hostedOnSites ()
 	//
 	var lRet=false;
 	
-	if (-1 != GGGadget_getHostURL().indexOf(gGGGadget_SitesRootNoScheme))
+	if (0 != GGGadget_GetSitesRootNoScheme().length)
 	{
 		lRet = true;
 	}
@@ -165,10 +187,11 @@ function GGGadget_hostedAtPlusNet ()
 function GGGadget_getHostingRoot ()
 {
 	var lRet = gGGGadget_GoogleSVNRoot;
+	var lSitesNoScheme = GGGadget_GetSitesRootNoScheme();
 	
-	if (GGGadget_hostedOnSites())
+	if (0 != lSitesNoScheme.length)
 	{
-		lRet = gGGGadget_SitesRoot;
+		lRet = "http" + lSitesNoScheme;
 	}
 	else if (GGGadget_hostedAtHome())
 	{
