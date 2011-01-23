@@ -5,7 +5,9 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 {
 	var lXMLURL=gGGGadget_Root + "TRCC/data/players/";
 	
-	lXMLURL += GGTRCC_ItemFromSitesURL (0) + ".xml";
+	lXMLURL += "(0) " + GGTRCC_ItemFromSitesURL (0) +
+				" (1) " + GGTRCC_ItemFromSitesURL (1) + 
+				" (2) " + GGTRCC_ItemFromSitesURL (2) 
 	
 	return (lXMLURL);
 }
