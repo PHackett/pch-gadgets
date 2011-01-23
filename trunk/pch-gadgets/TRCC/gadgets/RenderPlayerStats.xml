@@ -2,7 +2,7 @@
 <Module>
 
 	<ModulePrefs
-		title="Fixtures - All years"
+		title="Player Statistics"
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of the statistics for an individual player."
@@ -12,7 +12,7 @@
 		scrolling="true">
 	</ModulePrefs>
 
-	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
+	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value="_parent"/>
 	<UserPref name="surname" display_name="Player surname" datatype="string" default_value="Downes"/>
 	<UserPref name="firstname" display_name="Player first name" datatype="string" default_value="David"/>
 
@@ -34,12 +34,16 @@
 			-->
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
-			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/gadgets/PlayerLifetime.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/utils/TRCCUtils.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerLifetime.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/Fixture.js" type="text/javascript"></script>
 
 
 			<script type="text/javascript">
 
 				var gXMLSrc="";
+				var gFirstName="";
+				var gSurname="";
 
 
 				//-------------------------------------------------------[renderData]-
@@ -77,13 +81,50 @@
 					_gel('content_div').innerHTML = lHTML;
 				}
 
+
+				//-------------------------------------------------[processSettings]-
+				// Determine what year & team
+				//--------------------------------------------------------------------
+				function processSettings ()
+				{
+					var lPrefs=new _IG_Prefs();
+					
+					//
+					// First the first name - Any userPrefs?
+					//
+					gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
+					
+					//
+					// Now the surname ...
+					//
+					gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
+					
+					//
+					// Lastly - Save away the "link target"
+					//
+					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
+				}
+				
 				
 				//----------------------------------------------------------[display]-
 				// Load the XML & call the renderer
 				//--------------------------------------------------------------------
 				function display()
 				{
-					gXMLSrc = GGTRCC_PlayerLifetime_GetXMLURLFromLocation();
+					if (!GGGadget_hostedOnSites())
+					{
+						//
+						// Read the user prefs & hosting URL
+						//
+						processSettings();
+						
+						gXMLSrc = GGTRCC_PlayerLifetime_GetXMLURLFromName (gFirstName, gSurname);
+					}
+					else
+					{
+						gXMLSrc = GGTRCC_PlayerLifetime_GetXMLURLFromLocation();
+					}
+					
 					_IG_FetchXmlContent(gXMLSrc, renderData);
 				}
 
