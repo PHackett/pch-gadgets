@@ -7,7 +7,7 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 	
 	lXMLURL += "(0) " + GGTRCC_ItemFromSitesURL (0) +
 				" (1) " + GGTRCC_ItemFromSitesURL (1) + 
-				" (2) " + GGTRCC_ItemFromSitesURL (2) 
+				" (2) " + GGTRCC_ItemFromSitesURL (2);
 	
 	return (lXMLURL);
 }
