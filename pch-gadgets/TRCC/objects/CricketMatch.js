@@ -149,7 +149,7 @@ function GGTRCC_CricketMatchO___matchHTML()
 		
 		lRet += this.mMatchReport.HTML();
 		
-		Lret += "<p><hr>";
+		lRet += "<p><hr>";
 	}
 	
 	lRet += "<span class='Scorecard'>Scorecard</span><p>";
