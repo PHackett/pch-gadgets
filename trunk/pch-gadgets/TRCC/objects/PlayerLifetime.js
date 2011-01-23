@@ -6,7 +6,9 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromName (aFirstName, aSurname)
 {
 	var lXMLURL=gGGGadget_Root + "TRCC/data/players/";
 	
-	lXMLURL += aSurname + "_" + aFirstName + ".xml";
+	var lFilename = aSurname + "_" + aFirstName + ".xml";
+	
+	lXMLURL += lFilename.toLowerCase();
 	
 	return (lXMLURL);
 }
