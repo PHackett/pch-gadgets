@@ -148,6 +148,8 @@ function GGTRCC_PLBowlingO___HTML()
 	{
 		lRet += this.mBowlingData.HTML();
 		
+		lRet += "*this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*";
+		
 		for (var i=0 ; i<this.mBowlingHighlights.length ; ++i)
 		{
 			lRet += this.mBowlingHighlights[i].HTML();
