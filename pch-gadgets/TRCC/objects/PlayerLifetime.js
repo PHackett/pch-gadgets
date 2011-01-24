@@ -61,6 +61,39 @@ function GGTRCC_PLBowlingDataO___HTML()
 }
 
 
+//-------------------------------[GGTRCC_PLBowlingHighlightO]-
+// Object to hold information on a bowling highlights entry
+// of a player lifetime stats
+//
+// @param aPsBowlingHighlightXML	IN 	The <BowlingHighlight> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBowlingHighlightO (aPsBowlingHighlightXML)
+{
+	//
+	// Members
+	//
+	this.mMatchID		= null;
+	this.mBowlingData	= new GGTRCC_PLBowlingDataO (aPsBowlingXML.getElementsByTagName("BowlingData")[0]);
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLBowlingHighlightO___HTML;
+	
+}
+
+
+function GGTRCC_PLBowlingHighlightO___HTML()
+{
+	var lRet="";
+	
+	lRet += "<BowlH>" + this.mBowlingData.HTML() + "</BowlH>";
+	
+	return (lRet);
+}
+
+
 //-----------------------------------------[GGTRCC_PLBowlingO]-
 // Object to hold information on bowling stats for one year of a 
 // player lifetime stats
@@ -73,9 +106,10 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	// Members
 	//
-	this.mGames			= aPsBowlingXML.getAttribute ("games");
-	this.mFivePlus		= aPsBowlingXML.getAttribute ("FivePlus");
-	this.mBowlingData	= null;
+	this.mGames				= aPsBowlingXML.getAttribute ("games");
+	this.mFivePlus			= aPsBowlingXML.getAttribute ("FivePlus");
+	this.mBowlingData		= null;
+	this.mBowlingHighlights	= new Array();
 	
 	//
 	// Methods
@@ -95,6 +129,12 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	// Parse the bowling highlights
 	//
+	var lBowlingHighlights = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
+	
+	for (var i=0 ; i<lBowlingHighlights.length ; ++i)
+	{
+		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlights[i]);
+	}
 }
 
 
@@ -107,6 +147,11 @@ function GGTRCC_PLBowlingO___HTML()
 	if (null != this.mBowlingData)
 	{
 		lRet += this.mBowlingData.HTML();
+		
+		for (var i=0 ; i<this.mBowlingHighlights.length ; ++i)
+		{
+			lRet += this.mBowlingHighlights[i].HTML();
+		}
 	}
 	
 	return (lRet);
