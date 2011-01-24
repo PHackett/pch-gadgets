@@ -205,3 +205,37 @@ function GGGadget_getHostingRoot ()
 	
 	return (lRet);
 }
+
+
+//---------------------------------[GGGadget_getUrlMinusRoot]-
+// Get the the URL of the current page, minus the host root 
+//
+//	@return The path inside the root
+//
+//------------------------------------------------------------
+function GGGadget_getUrlMinusRoot ()
+{
+	var lRet="";
+	var lURL=GGGadget_getHostURL();
+	
+	//
+	// Now this is a bit nasty ....
+	// Sometimes we go to Google sites with https as opposed
+	// to http. So, take car when chopping up the URL
+	//
+	var lDataRoot=GGGadget_GetSitesRootNoScheme();
+	var lIndex = lURL.indexOf (lDataRoot);
+
+	if (-1 == lIndex)
+	{
+		//
+		// OK- Something has gone seriously wrong here ...
+		//
+	}	
+	else if (lURL.length > (lDataRoot.length + lIndex))
+	{
+		lRet = lURL.substr(lDataRoot.length + lIndex);
+	}
+	
+	return (lRet);	
+}

@@ -17,9 +17,9 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromName (aFirstName, aSurname)
 function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 {
 	var lXMLURL=gGGGadget_Root + "TRCC/data/players/";
+	var lPath=GGGadget_getUrlMinusRoot ();
 	
-	lXMLURL += "(0) " + GGTRCC_ItemFromSitesURL (0) +
-				" (1) " + GGTRCC_ItemFromSitesURL (1);
+	lXMLURL += "lPath = " + lPath;
 	
 	return (lXMLURL);
 }
