@@ -57,8 +57,9 @@
 					{
 						// _gel("content_div").innerHTML = "<i>Invalid data from " + gXMLSrc + "</i>";
 {						
-	_gel("content_div").innerHTML = "<br> GGGadget_getHostURL()=" + GGGadget_getHostURL() + "<br> GGGadget_GetSitesRootNoScheme()=" + GGGadget_GetSitesRootNoScheme();
-	
+	_gel("content_div").innerHTML = "<br> GGGadget_getHostURL()=" + GGGadget_getHostURL() + 
+		"<br> GGGadget_GetSitesRootNoScheme()=" + GGGadget_GetSitesRootNoScheme() +
+		"<br> gXMLSrc="+ gXMLSrc;
 }						
 						return;
 					}
