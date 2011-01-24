@@ -28,6 +28,37 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 }
 
 
+//----------        -------------------------[GGTRCC_PLYearO]-
+// Object to hold information for one year of a player lifetime
+// stats
+//
+// @param aPsyXML	IN 	The <YearData> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLYearO (aPsyXML)
+{
+	//
+	// Members
+	//
+	this.mYear		= aPsyXML.getAttribute ("year");
+	
+	//
+	// Methods
+	//
+	this.yearHTML	= GGTRCC_PLYearO___yearHTML;
+}
+
+
+function GGTRCC_PLYearO___yearHTML ()
+{
+	var lRet="";
+	
+	lRet += "year=" + this.mYear + "<br>";
+	
+	return (lRet);
+}
+
+
 //-----------------------------------[GGTRCC_PlayerLifetimeO]-
 // Object to hold player lifetime stats
 //
@@ -41,6 +72,12 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	//
 	this.mName		= null;
 	this.mGenerated	= null;
+	this.mYears		= new Array();
+	
+	//
+	// Methods
+	//
+	this.playerHTML 		= GGTRCC_PlayerLifetimeO___playerHTML;
 	
 	//
 	// Get the root object
@@ -54,9 +91,14 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	this.mGenerated	= new Date (lPLS.getAttribute ("generated"));
 	
 	//
-	// Methods
+	// Get the years information
 	//
-	this.playerHTML 		= GGTRCC_PlayerLifetimeO___playerHTML;
+	var lYears = lPLS.getElementsByTagName("YearData");
+	
+	for (var i=0 ; i<lYears.length ; ++i)
+	{
+		this.mYears[this.mYears.length] = new GGTRCC_PLYearO (lYears[i]);
+	}
 }
 
 
@@ -66,6 +108,11 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 	
 	lRet += "Name = " 		+ this.mName					+ "<br>";
 	lRet += "Generated = "	+ this.mGenerated.toString()	+ "<br>";
+	
+	for (var i=0 ; i<this.mYears.length ; ++i)
+	{
+		lRet += this.mYears[i].yearHTML();
+	}
 	
 	return (lRet);
 }
