@@ -685,7 +685,7 @@ function GGTRCC_ItemFromSitesURL (aItem)
 	// Sometimes we go to Google sites with https as opposed
 	// to http. So, take car when chopping up the URL
 	//
-	var lDataRoot=GGGadget_GetSitesRootNoScheme() + "All-Fixtures/"
+	var lDataRoot=GGGadget_GetSitesRootNoScheme() + "All-Fixtures/";
 	var lIndex = lURL.indexOf (GGGadget_GetSitesRootNoScheme());
 
 	if (-1 == lIndex)
