@@ -61,11 +61,14 @@
 					//
 					// Parse the data
 					//
+					var lPLS = new GGTRCC_PlayerLifetimeO (response);
 					
 					//
 					// Make the HTML
 					//
-					var lHTML="This is a test";
+					var lHTML="This is a test<br>";
+					
+					lHTML += lPLS.playerHTML();
 			
 					//
 					// Display HTML string in <div>
