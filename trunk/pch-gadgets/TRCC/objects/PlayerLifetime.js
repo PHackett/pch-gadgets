@@ -28,6 +28,39 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 }
 
 
+//-------------------------------------[GGTRCC_PLBowlingDataO]-
+// Object to hold information on a single piece of bowling data 
+//
+// @param aPsBowlingDataXML	IN 	The <BowlingData> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBowlingDataO (aPsBowlingDataXML)
+{
+	//
+	// Members
+	//
+	this.mOvers		= aPsBowlingDataXML.getAttribute ("overs");
+	this.mMaidens	= aPsBowlingDataXML.getAttribute ("maidens");
+	this.mRuns		= aPsBowlingDataXML.getAttribute ("runs");
+	this.mWickets	= aPsBowlingDataXML.getAttribute ("wickets");
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLBowlingDataO___HTML;
+}
+
+
+function GGTRCC_PLBowlingDataO___HTML()
+{
+	var lRet="";
+	
+	lRet += "Overs=" + this.mOvers + ", Maidens=" + this.mMaidens + ", Runs=" + this.mRuns + ", Wickets=" + this.mWickets + "<br>";
+	
+	return (lRet);
+}
+
+
 //-----------------------------------------[GGTRCC_PLBowlingO]-
 // Object to hold information on bowling stats for one year of a 
 // player lifetime stats
@@ -40,13 +73,28 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	// Members
 	//
-	this.mGames		= aPsBowlingXML.getAttribute ("games");
-	this.mFivePlus	= aPsBowlingXML.getAttribute ("FivePlus");
+	this.mGames			= aPsBowlingXML.getAttribute ("games");
+	this.mFivePlus		= aPsBowlingXML.getAttribute ("FivePlus");
+	this.mBowlingData	= null;
 	
 	//
 	// Methods
 	//
 	this.HTML		= GGTRCC_PLBowlingO___HTML;
+	
+	//
+	// Parse the summary bowling data
+	//
+	var lBowlingData = aPsyXML.getElementsByTagName("BowlingData");
+	
+	if (lBowlingData.length != 0)
+	{
+		this.mBowlingData = new GGTRCC_PLBowlingDataO (lBowlingData[0]);
+	}
+	
+	//
+	// Parse the bowling highlights
+	//
 }
 
 
@@ -54,7 +102,12 @@ function GGTRCC_PLBowlingO___HTML()
 {
 	var lRet="";
 	
-	lRet += "Games=" + this.mGames + ", FivePlus=" + this.mFivePlus;
+	lRet += "Games=" + this.mGames + ", FivePlus=" + this.mFivePlus + ": ";
+	
+	if (null != this.mBowlingData)
+	{
+		lRet += this.mBowlingData.HTML();
+	}
 	
 	return (lRet);
 }
@@ -96,12 +149,14 @@ function GGTRCC_PLYearO___yearHTML ()
 {
 	var lRet="";
 	
-	lRet += "year=" + this.mYear + "<br>";
+	lRet += "year=" + this.mYear + ": ";
 	
 	if (null != this.mBowling)
 	{
 		lRet += this.mBowling.HTML();
 	}
+	
+	lRet += "<br>";
 	
 	return (lRet);
 }
