@@ -74,7 +74,7 @@ function GGTRCC_PLBowlingHighlightO (aPsBowlingHighlightXML)
 	// Members
 	//
 	this.mMatchID		= null;
-	this.mBowlingData	= new GGTRCC_PLBowlingDataO (aPsBowlingXML.getElementsByTagName("BowlingData")[0]);
+	this.mBowlingData	= new GGTRCC_PLBowlingDataO (aPsBowlingHighlightXML.getElementsByTagName("BowlingData")[0]);
 	
 	//
 	// Methods
