@@ -88,7 +88,7 @@ function GGTRCC_PLBowlingHighlightO___HTML()
 {
 	var lRet="";
 	
-	lRet += "<BowlH>" + this.mBowlingData.HTML() + "</BowlH>";
+	lRet += "|BowlH|" + this.mBowlingData.HTML() + "|/BowlH|";
 	
 	return (lRet);
 }
