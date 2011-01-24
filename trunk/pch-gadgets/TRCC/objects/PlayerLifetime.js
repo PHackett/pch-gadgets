@@ -40,7 +40,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	// Members
 	//
 	this.mName		= null;
-	this.Generated	= null;
+	this.mGenerated	= null;
 	
 	//
 	// Get the root object
@@ -51,7 +51,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	// Extract the data from the attributes
 	//
 	this.mName		= lPLS.getAttribute ("name");
-	this.Generated	= new Date (lPLS.getAttribute ("generated"));
+	this.mGenerated	= new Date (lPLS.getAttribute ("generated"));
 	
 	//
 	// Methods
@@ -64,8 +64,8 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 {
 	var lRet = "";
 	
-	lRet += "Name = " 		+ this.mName			+ "<br>";
-	lRet += "Generated = "	+ this.mDate.toString()	+ "<br>";
+	lRet += "Name = " 		+ this.mName					+ "<br>";
+	lRet += "Generated = "	+ this.mGenerated.toString()	+ "<br>";
 	
 	return (lRet);
 }
