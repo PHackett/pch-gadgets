@@ -53,12 +53,8 @@
 				{
 					if (response == null || typeof(response) != "object" || response.firstChild == null)
 					{
-						// _gel("content_div").innerHTML = "<i>Invalid data from " + gXMLSrc + "</i>";
-{						
-	_gel("content_div").innerHTML = "<br> GGGadget_getHostURL()=" + GGGadget_getHostURL() + 
-		"<br> GGGadget_GetSitesRootNoScheme()=" + GGGadget_GetSitesRootNoScheme() +
-		"<br> gXMLSrc="+ gXMLSrc;
-}						
+						_gel("content_div").innerHTML = "<i>Invalid data from " + gXMLSrc + "</i>";
+						
 						return;
 					}
 				
