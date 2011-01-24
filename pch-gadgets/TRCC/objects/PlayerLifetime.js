@@ -28,7 +28,39 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 }
 
 
-//----------        -------------------------[GGTRCC_PLYearO]-
+//-----------------------------------------[GGTRCC_PLBowlingO]-
+// Object to hold information on bowling stats for one year of a 
+// player lifetime stats
+//
+// @param aPsBowlingXML	IN 	The <Bowling> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBowlingO (aPsBowlingXML)
+{
+	//
+	// Members
+	//
+	this.mGames		= aPsBowlingXML.getAttribute ("games");
+	this.mFivePlus	= aPsBowlingXML.getAttribute ("FivePlus");
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLBowlingO___HTML;
+}
+
+
+function GGTRCC_PLBowlingO___HTML()
+{
+	var lRet="";
+	
+	lRet += "Games=" + this.mGames + ", FivePlus=" + this.mFivePlus;
+	
+	return (lRet);
+}
+
+
+//-------------------------------------------[GGTRCC_PLYearO]-
 // Object to hold information for one year of a player lifetime
 // stats
 //
@@ -41,11 +73,22 @@ function GGTRCC_PLYearO (aPsyXML)
 	// Members
 	//
 	this.mYear		= aPsyXML.getAttribute ("year");
+	this.mBowling	= null;
 	
 	//
 	// Methods
 	//
 	this.yearHTML	= GGTRCC_PLYearO___yearHTML;
+	
+	//
+	// Bowling data
+	//
+	var lBowling = aPsyXML.getElementsByTagName("Bowling");
+	
+	if (lBowling.length != 0)
+	{
+		this.mBowling = new GGTRCC_PLBowlingO (lBowling[0]);
+	}
 }
 
 
@@ -54,6 +97,11 @@ function GGTRCC_PLYearO___yearHTML ()
 	var lRet="";
 	
 	lRet += "year=" + this.mYear + "<br>";
+	
+	if (null != this.mBowling)
+	{
+		lRet += this.mBowling.HTML();
+	}
 	
 	return (lRet);
 }
