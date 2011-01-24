@@ -85,7 +85,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	// Parse the summary bowling data
 	//
-	var lBowlingData = aPsyXML.getElementsByTagName("BowlingData");
+	var lBowlingData = aPsBowlingXML.getElementsByTagName("BowlingData");
 	
 	if (lBowlingData.length != 0)
 	{
