@@ -149,7 +149,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	
 	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
-		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
+		this.mBowlingHighlights[this.mBowlingHighlights.length] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
 	}
 	gXXXPLBowlingDebug += "this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "<br>";
 }
