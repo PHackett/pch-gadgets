@@ -123,7 +123,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	
 		for (var i=0 ; i<lData.length ; ++i)
 		{
-			gXXXPLBowlingDebug += "Node " + i + ": \"" + lData.item(i).nodeName + "\"<br>";
+			gXXXPLBowlingDebug += "Node " + i + ": \"" + lData.item(i).nodeName + "\"::";
 		}
 	}
 	
@@ -142,6 +142,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	// Parse the bowling highlights
 	//
 	var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
+	gXXXPLBowlingDebug += "lBowlingHighlightsX.length=" + lBowlingHighlightsX.length + "<br>";
 	
 	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
