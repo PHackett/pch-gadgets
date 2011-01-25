@@ -142,12 +142,13 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	// Parse the bowling highlights
 	//
 	var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
-	gXXXPLBowlingDebug += "lBowlingHighlightsX.length=" + lBowlingHighlightsX.length + "<br>";
+	gXXXPLBowlingDebug += "lBowlingHighlightsX.length=" + lBowlingHighlightsX.length + " % ";
 	
 	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
 		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
 	}
+	gXXXPLBowlingDebug += "this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "<br>";
 }
 
 
