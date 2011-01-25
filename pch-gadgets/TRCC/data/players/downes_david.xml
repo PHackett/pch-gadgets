@@ -1,4 +1,9 @@
-<PlayerStats name="David Downes" generated="Sat, 22 Jan 2011 21:29:47 GMT">
+
+<PlayerStats name="David Downes" generated="Tue, 25 Jan 2011 19:21:19 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 27 1985 00:00:00 GMT+0100 (GMT Daylight Time)" oppo="Purley"/>
+    </FirstRecordedGame>
+
     <YearData year="2010">
         <Bowling games="1" FivePlus="0">
             <BowlingData overs="5" maidens="0" runs="46" wickets="1"/>
