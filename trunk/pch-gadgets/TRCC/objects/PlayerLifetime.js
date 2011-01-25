@@ -131,9 +131,9 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	var lBowlingHighlights = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
 	
-	for (var i=0 ; i<lBowlingHighlights.length ; ++i)
+	for (var ix=0 ; ix<lBowlingHighlights.length ; ++ix)
 	{
-		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlights[i]);
+		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlights[ix]);
 	}
 }
 
