@@ -129,11 +129,11 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	// Parse the bowling highlights
 	//
-	var lBowlingHighlights = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
+	var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
 	
-	for (var ix=0 ; ix<lBowlingHighlights.length ; ++ix)
+	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
-		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlights[ix]);
+		this.mBowlingHighlights[this.mBowlingHighlights.length - 1] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
 	}
 }
 
@@ -148,7 +148,7 @@ function GGTRCC_PLBowlingO___HTML()
 	{
 		lRet += this.mBowlingData.HTML();
 		
-		lRet += "*this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*";
+		lRet += "*2this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*";
 		
 		for (var i=0 ; i<this.mBowlingHighlights.length ; ++i)
 		{
