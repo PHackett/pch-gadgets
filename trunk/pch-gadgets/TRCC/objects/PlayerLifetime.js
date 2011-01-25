@@ -94,6 +94,8 @@ function GGTRCC_PLBowlingHighlightO___HTML()
 }
 
 
+var gXXXPLBowlingDebug="";
+
 //-----------------------------------------[GGTRCC_PLBowlingO]-
 // Object to hold information on bowling stats for one year of a 
 // player lifetime stats
@@ -115,6 +117,16 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	// Methods
 	//
 	this.HTML		= GGTRCC_PLBowlingO___HTML;
+	
+	{
+		var lData = aPsBowlingXML.childNodes;
+	
+		for (var i=0 ; i<lData.length ; ++i)
+		{
+			gXXXPLBowlingDebug += "Node " + i + ": \"" + lData.item(i).nodeName + "\"<br>";
+		}
+	}
+	
 	
 	//
 	// Parse the summary bowling data
@@ -148,7 +160,8 @@ function GGTRCC_PLBowlingO___HTML()
 	{
 		lRet += this.mBowlingData.HTML();
 		
-		lRet += "*2this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*";
+		lRet += "*2this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*<br>";
+		lRet += gXXXPLBowlingDebug + "<br>";
 		
 		for (var i=0 ; i<this.mBowlingHighlights.length ; ++i)
 		{
