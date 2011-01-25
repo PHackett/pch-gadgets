@@ -142,7 +142,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	// Parse the bowling highlights
 	//
 	var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
-	gXXXPLBowlingDebug += "lBowlingHighlightsX.length=" + lBowlingHighlightsX.length + " % ";
+	gXXXPLBowlingDebug += "lBowlingHighlightsX.length=" + lBowlingHighlightsX.length + " == ";
 	
 	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
