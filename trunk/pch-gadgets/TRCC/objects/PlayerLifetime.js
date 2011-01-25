@@ -2,6 +2,9 @@
 // This file contains methods for parsing & rendering of the lifetime stats for individual players
 //
 
+var gXXXPLBowlingDebug="";
+
+
 function GGTRCC_PlayerLifetime_GetXMLURLFromName (aFirstName, aSurname)
 {
 	var lXMLURL=gGGGadget_Root + "TRCC/data/players/";
@@ -70,6 +73,8 @@ function GGTRCC_PLBowlingDataO___HTML()
 //------------------------------------------------------------
 function GGTRCC_PLBowlingHighlightO (aPsBowlingHighlightXML)
 {
+gXXXPLBowlingDebug += "[[ Create GGTRCC_PLBowlingHighlightO ]]";
+
 	//
 	// Members
 	//
@@ -80,7 +85,6 @@ function GGTRCC_PLBowlingHighlightO (aPsBowlingHighlightXML)
 	// Methods
 	//
 	this.HTML		= GGTRCC_PLBowlingHighlightO___HTML;
-	
 }
 
 
@@ -94,7 +98,6 @@ function GGTRCC_PLBowlingHighlightO___HTML()
 }
 
 
-var gXXXPLBowlingDebug="";
 
 //-----------------------------------------[GGTRCC_PLBowlingO]-
 // Object to hold information on bowling stats for one year of a 
