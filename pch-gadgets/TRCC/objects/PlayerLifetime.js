@@ -162,6 +162,7 @@ function GGTRCC_PLBowlingO___HTML()
 		
 		lRet += "*2this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*<br>";
 		lRet += gXXXPLBowlingDebug + "<br>";
+		gXXXPLBowlingDebug = "";
 		
 		for (var i=0 ; i<this.mBowlingHighlights.length ; ++i)
 		{
