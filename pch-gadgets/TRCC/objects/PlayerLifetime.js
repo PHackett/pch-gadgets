@@ -440,7 +440,7 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 	
 	if (this.mFRG)
 	{
-		lRet += "FRG=" + this.mFRG.html();
+		lRet += "FRG=" + this.mFRG.HTML();
 	}
 	
 	for (var i=0 ; i<this.mYears.length ; ++i)
