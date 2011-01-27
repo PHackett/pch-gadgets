@@ -2,8 +2,6 @@
 // This file contains methods for parsing & rendering of the lifetime stats for individual players
 //
 
-var gXXXPLBowlingDebug="";
-
 
 function GGTRCC_PlayerLifetime_GetXMLURLFromName (aFirstName, aSurname)
 {
@@ -28,6 +26,36 @@ function GGTRCC_PlayerLifetime_GetXMLURLFromLocation()
 	lXMLURL += lPlayerName.toLowerCase() + ".xml";
 	
 	return (lXMLURL);
+}
+
+
+//----------------------------------------[GGTRCC_PLMatchIdO]-
+// Object to hold information on a Match ID 
+//
+// @param aPsMatchIdXML	IN 	The <BowlingData> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLMatchIdO (aPsMatchIdXML)
+{
+	//
+	// Members
+	//
+	this.mDate		= new Date (aPsMatchIdXML.getAttribute ("date"));
+	this.mOppo		= aPsMatchIdXML.getAttribute ("oppo");
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLMatchIdO___HTML;
+}
+
+function GGTRCC_PLMatchIdO___HTML()
+{
+	var lRet="";
+	
+	lRet += this.mDate.toString() + " " + this.mOppo;
+	
+	return (lRet);
 }
 
 
@@ -73,12 +101,10 @@ function GGTRCC_PLBowlingDataO___HTML()
 //------------------------------------------------------------
 function GGTRCC_PLBowlingHighlightO (aPsBowlingHighlightXML)
 {
-gXXXPLBowlingDebug += "[[ Create GGTRCC_PLBowlingHighlightO ]]";
-
 	//
 	// Members
 	//
-	this.mMatchID		= null;
+	this.mMatchID		= new GGTRCC_PLMatchIdO (aPsBowlingHighlightXML.getElementsByTagName("MatchId")[0]);
 	this.mBowlingData	= new GGTRCC_PLBowlingDataO (aPsBowlingHighlightXML.getElementsByTagName("BowlingData")[0]);
 	
 	//
@@ -93,6 +119,7 @@ function GGTRCC_PLBowlingHighlightO___HTML()
 	var lRet="";
 	
 	lRet += "**BowlH**" + this.mBowlingData.HTML() + "**BowlH**";
+	lRet += "**MatchId**" + this.mMatchID.HTML() + "**MatchId**";
 	
 	return (lRet);
 }
@@ -121,16 +148,6 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	this.HTML		= GGTRCC_PLBowlingO___HTML;
 	
-	{
-		var lData = aPsBowlingXML.childNodes;
-	
-		for (var i=0 ; i<lData.length ; ++i)
-		{
-			gXXXPLBowlingDebug += "Node " + i + ": \"" + lData.item(i).nodeName + "\"::";
-		}
-	}
-	
-	
 	//
 	// Parse the summary bowling data
 	//
@@ -145,13 +162,11 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	// Parse the bowling highlights
 	//
 	var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
-	gXXXPLBowlingDebug += "lBowlingHighlightsX.length=" + lBowlingHighlightsX.length + " == ";
 	
 	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
 		this.mBowlingHighlights[this.mBowlingHighlights.length] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
 	}
-	gXXXPLBowlingDebug += "this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "<br>";
 }
 
 
@@ -164,10 +179,6 @@ function GGTRCC_PLBowlingO___HTML()
 	if (null != this.mBowlingData)
 	{
 		lRet += this.mBowlingData.HTML();
-		
-		// lRet += "*2this.mBowlingHighlights.length=" + this.mBowlingHighlights.length + "*<br>";
-		// lRet += gXXXPLBowlingDebug + "<br>";
-		gXXXPLBowlingDebug = "";
 		
 		for (var i=0 ; i<this.mBowlingHighlights.length ; ++i)
 		{
