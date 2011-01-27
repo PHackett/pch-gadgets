@@ -391,6 +391,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	this.mName		= null;
 	this.mGenerated	= null;
 	this.mYears		= new Array();
+	this.mFRG		= null;
 	
 	//
 	// Methods
@@ -407,6 +408,16 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	//
 	this.mName		= lPLS.getAttribute ("name");
 	this.mGenerated	= new Date (lPLS.getAttribute ("generated"));
+	
+	//
+	// Get the first recorded game (if present)
+	//
+	var lFRG = lPLS.getElementsByTagName("FirstRecordedGame");
+	
+	if (0 != lFRG.length)
+	{
+		this.mFRG = new GGTRCC_PLMatchIdO (lFRG.getElementsByTagName("MatchId")[0]);
+	}
 	
 	//
 	// Get the years information
@@ -426,6 +437,11 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 	
 	lRet += "Name = " 		+ this.mName					+ "<br>";
 	lRet += "Generated = "	+ this.mGenerated.toString()	+ "<br>";
+	
+	if (this.mFRG)
+	{
+		lRet += "FRG=" + this.mFRG.html();
+	}
 	
 	for (var i=0 ; i<this.mYears.length ; ++i)
 	{
