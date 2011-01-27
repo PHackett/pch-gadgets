@@ -125,6 +125,64 @@ function GGTRCC_PLBowlingHighlightO___HTML()
 }
 
 
+//-----------------------------------------[GGTRCC_PLBattingO]-
+// Object to hold information on batting stats for one year of a 
+// player lifetime stats
+//
+// @param aPsBattingXML	IN 	The <Batting> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBattingO (aPsBattingXML)
+{
+	//
+	// Members
+	//
+	this.mInnings		= aPsBattingXML.getAttribute ("innings");
+	this.mRuns			= aPsBattingXML.getAttribute ("runs");
+	this.mNotOuts		= aPsBattingXML.getAttribute ("notouts");
+	this.mHundreds		= aPsBattingXML.getAttribute ("hundreds");
+	this.mFifties		= aPsBattingXML.getAttribute ("fifties");
+	this.mDucks			= aPsBattingXML.getAttribute ("ducks");
+	
+	this.mBattingHighlights	= new Array();
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLBattingO___HTML;
+	
+	//
+	// Parse the batting highlights
+	//
+	var lBattingHighlightsX = aPsBattingXML.getElementsByTagName("BattingHighlight");
+	
+	for (var ix=0 ; ix<lBattingHighlightsX.length ; ++ix)
+	{
+		// this.mBattingHighlights[this.mBattingHighlights.length] = new GGTRCC_PLBattingHighlightO (lBattingHighlightsX[ix]);
+	}
+}
+
+
+function GGTRCC_PLBattingO___HTML()
+{
+	var lRet="";
+	
+	lRet += "::Batting::"; 
+	lRet += "innings=" + this.mInnings + ", runs=" + this.mRuns + ", nonouts=" + this.mNotOuts + ", hundreds=" + this.mHundreds + ", fifties=" + this.mFifties + ", ducks=" + this.mDucks;	
+	lRet += "::Batting::";
+	
+	//
+	// Highlights
+	//
+	for (var i=0 ; i<this.mBattingHighlights.length ; ++i)
+	{
+		
+	}
+	
+	return (lRet);
+}
+
+
 
 //-----------------------------------------[GGTRCC_PLBowlingO]-
 // Object to hold information on bowling stats for one year of a 
@@ -139,7 +197,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	// Members
 	//
 	this.mGames				= aPsBowlingXML.getAttribute ("games");
-	this.mFivePlus			= aPsBowlingXML.getAttribute ("FivePlus");
+	this.mFivePlus			= aPsBowlingXML.getAttribute ("fiveplus");
 	this.mBowlingData		= null;
 	this.mBowlingHighlights	= new Array();
 	
@@ -204,6 +262,7 @@ function GGTRCC_PLYearO (aPsyXML)
 	//
 	this.mYear		= aPsyXML.getAttribute ("year");
 	this.mBowling	= null;
+	this.mBatting	= null;
 	
 	//
 	// Methods
@@ -219,6 +278,16 @@ function GGTRCC_PLYearO (aPsyXML)
 	{
 		this.mBowling = new GGTRCC_PLBowlingO (lBowling[0]);
 	}
+	
+	//
+	// Batting data
+	//
+	var lBatting = aPsyXML.getElementsByTagName("Batting");
+	
+	if (lBatting.length != 0)
+	{
+		this.mBatting = new GGTRCC_PLBattingO (lBatting[0]);
+	}
 }
 
 
@@ -231,6 +300,11 @@ function GGTRCC_PLYearO___yearHTML ()
 	if (null != this.mBowling)
 	{
 		lRet += this.mBowling.HTML();
+	}
+
+	if (null != this.mBatting)
+	{
+		lRet += this.mBatting.HTML();
 	}
 	
 	lRet += "<br>";
