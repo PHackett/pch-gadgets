@@ -416,7 +416,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	
 	if (0 != lFRG.length)
 	{
-		this.mFRG = new GGTRCC_PLMatchIdO (lFRG.getElementsByTagName("MatchId")[0]);
+		this.mFRG = new GGTRCC_PLMatchIdO (lFRG[0].getElementsByTagName("MatchId")[0]);
 	}
 	
 	//
