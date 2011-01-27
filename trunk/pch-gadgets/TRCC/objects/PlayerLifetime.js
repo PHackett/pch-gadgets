@@ -59,6 +59,37 @@ function GGTRCC_PLMatchIdO___HTML()
 }
 
 
+//-------------------------------------[GGTRCC_PLBattingDataO]-
+// Object to hold information on a single piece of batting data 
+//
+// @param aPsBattingDataXML	IN 	The <BattingData> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBattingDataO (aPsBattingDataXML)
+{
+	//
+	// Members
+	//
+	this.mRuns		= aPsBattingDataXML.getAttribute ("runs");
+	this.mNotOuts	= aPsBattingDataXML.getAttribute ("notouts");
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLBattingDataO___HTML;
+}
+
+
+function GGTRCC_PLBattingDataO___HTML()
+{
+	var lRet="";
+	
+	lRet += "Runs=" + this.mRuns + ", NotOuts=" + this.mNotOuts;
+	
+	return (lRet);
+}
+
+
 //-------------------------------------[GGTRCC_PLBowlingDataO]-
 // Object to hold information on a single piece of bowling data 
 //
@@ -87,6 +118,39 @@ function GGTRCC_PLBowlingDataO___HTML()
 	var lRet="";
 	
 	lRet += "Overs=" + this.mOvers + ", Maidens=" + this.mMaidens + ", Runs=" + this.mRuns + ", Wickets=" + this.mWickets + "<br>";
+	
+	return (lRet);
+}
+
+
+//-------------------------------[GGTRCC_PLBattingHighlightO]-
+// Object to hold information on a batting highlights entry
+// of a player lifetime stats
+//
+// @param aPsBattingHighlightXML	IN 	The <BattingHighlight> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBattingHighlightO (aPsBattingHighlightXML)
+{
+	//
+	// Members
+	//
+	this.mMatchID		= new GGTRCC_PLMatchIdO (aPsBattingHighlightXML.getElementsByTagName("MatchId")[0]);
+	this.mBattingData	= new GGTRCC_PLBattingDataO (aPsBattingHighlightXML.getElementsByTagName("BattingData")[0]);
+	
+	//
+	// Methods
+	//
+	this.HTML		= GGTRCC_PLBattingHighlightO___HTML;
+}
+
+
+function GGTRCC_PLBattingHighlightO___HTML()
+{
+	var lRet="";
+	
+	lRet += "**BattH**" + this.mBattingData.HTML() + "**BattH**";
+	lRet += "**MatchId**" + this.mMatchID.HTML() + "**MatchId**";
 	
 	return (lRet);
 }
@@ -158,7 +222,7 @@ function GGTRCC_PLBattingO (aPsBattingXML)
 	
 	for (var ix=0 ; ix<lBattingHighlightsX.length ; ++ix)
 	{
-		// this.mBattingHighlights[this.mBattingHighlights.length] = new GGTRCC_PLBattingHighlightO (lBattingHighlightsX[ix]);
+		this.mBattingHighlights[this.mBattingHighlights.length] = new GGTRCC_PLBattingHighlightO (lBattingHighlightsX[ix]);
 	}
 }
 
@@ -176,7 +240,7 @@ function GGTRCC_PLBattingO___HTML()
 	//
 	for (var i=0 ; i<this.mBattingHighlights.length ; ++i)
 	{
-		
+		lRet += this.mBattingHighlights[i].HTML();
 	}
 	
 	return (lRet);
