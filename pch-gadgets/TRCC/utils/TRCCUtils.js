@@ -113,7 +113,7 @@ function TRCCUtils_RunsPerOver (aRuns, aOvers)
 }
 
 
-function GGTRCCUtils_getStrikeRate (aWickets, aOvers)
+function TRCCUtils_getStrikeRate (aWickets, aOvers)
 {
 	var lRet="-";
 	
@@ -128,7 +128,7 @@ function GGTRCCUtils_getStrikeRate (aWickets, aOvers)
 }
 
 
-function GGTRCCUtils_getAverage (aWickets, aRuns)
+function TRCCUtils_getAverage (aWickets, aRuns)
 {
 	var lRet=0.0;
 
@@ -141,14 +141,14 @@ function GGTRCCUtils_getAverage (aWickets, aRuns)
 }
 
 
-function GGTRCCUtils_getHTMLAverage (aWickets, aRuns)
+function TRCCUtils_getHTMLAverage (aWickets, aRuns)
 {
 	var lRet="";
 
 	if (aWickets > 0)
 	{
 		// 2 decimal places for HTML
-		lRet = GGUtils_numToString (GGTRCCUtils_getAverage (aWickets, aRuns), 2);
+		lRet = GGUtils_numToString (TRCCUtils_getAverage (aWickets, aRuns), 2);
 	}
 	else
 	{
