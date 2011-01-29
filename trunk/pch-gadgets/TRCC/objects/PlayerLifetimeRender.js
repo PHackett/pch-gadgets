@@ -74,8 +74,6 @@ function GGTRCC_RenderBowlingByYear (aPLSO)
 				lRet +=   "<td>&nbsp;</td>";
 			}
 			
-			
-				lYearData.mBowlingYearStats.HTML();
 			lRet += "</tr>";
 		}
 	}
