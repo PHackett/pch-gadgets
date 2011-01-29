@@ -47,19 +47,19 @@ function GGTRCC_RenderBowlingByYear (aPLSO)
 			lRet += "<tr>";
 			lRet +=   "<td>&nbsp;</td>";
 			lRet +=   "<td>" + lYearData.mYear + "</td>";
-			lRet +=   "<td>" + lBYS.mGames + "</td>";
+			lRet +=   "<td align='right'>" + lBYS.mGames + "</td>";
 			
 			if (lBYS.mBowlingData != null)
 			{
-				lRet +=   "<td>" + lBYS.mBowlingData.mOvers		+ "</td>";
-				lRet +=   "<td>" + lBYS.mBowlingData.mMaidens	+ "</td>";
-				lRet +=   "<td>" + lBYS.mBowlingData.mRuns		+ "</td>";
-				lRet +=   "<td>" + lBYS.mBowlingData.mWickets	+ "</td>";
-				lRet +=   "<td>" + lBYS.mFivePlus				+ "</td>";		
+				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBYS.mBowlingData.mOvers - 0), 1)	+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mMaidens									+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mRuns									+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mWickets									+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mFivePlus												+ "</td>";		
 				
-				lRet +=   "<td>R/O</td>";		
-				lRet +=   "<td>S/R</td>";		
-				lRet +=   "<td>Avg</td>";		
+				lRet +=   "<td align='right'>R/O</td>";		
+				lRet +=   "<td align='right'>S/R</td>";		
+				lRet +=   "<td align='right'>Avg</td>";		
 				
 			}
 			else
