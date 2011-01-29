@@ -105,6 +105,60 @@ function TRCCUtils_OversToBalls (aOvers)
 }
 
 
+function TRCCUtils_RunsPerOver (aRuns, aOvers)
+{
+	var lRPO=(aRuns/TRCCUtils_OversToBalls (aOvers)) * 6;
+	return (GGUtils_numToString (lRPO, 2));
+	
+}
+
+
+function GGTRCCUtils_getStrikeRate (aWickets, aOvers)
+{
+	var lRet="-";
+	
+	if (aWickets > 0)
+	{
+		var lRPO=(TRCCUtils_OversToBalls (aOvers) / aWickets);
+		
+		lRet = GGUtils_numToString (lRPO, 2);
+	}
+	
+	return (lRet);	
+}
+
+
+function GGTRCCUtils_getAverage (aWickets, aRuns)
+{
+	var lRet=0.0;
+
+	if (aWickets > 0)
+	{
+		lRet = aRuns / aWickets;
+	}
+
+	return (lRet);	
+}
+
+
+function GGTRCCUtils_getHTMLAverage (aWickets, aRuns)
+{
+	var lRet="";
+
+	if (aWickets > 0)
+	{
+		// 2 decimal places for HTML
+		lRet = GGUtils_numToString (GGTRCCUtils_getAverage (aWickets, aRuns), 2);
+	}
+	else
+	{
+		lRet = "&nbsp;";
+	}
+
+	return (lRet);		
+}
+
+
 function TRCCUtils_MakeWorkingHTML (aTitle)
 {
 	var lHTML="";
