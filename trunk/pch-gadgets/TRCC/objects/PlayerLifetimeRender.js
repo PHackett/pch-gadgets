@@ -37,12 +37,12 @@ function GGTRCC_RenderBowlingByYear (aPLSO)
 	//
 	// Down all the years
 	//
-	for (i=0 ; i<aPLSO.mYears.length ; i++)
+	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
 	{
 		var lYearData=aPLSO.mYears[i];
 		var lBYS=lYearData.mBowling;
 
-		if (lYearData.mBowlingYearStats != null)
+		if (lBYS != null)
 		{
 			lRet += "<tr>";
 			lRet +=   "<td>&nbsp;</td>";
