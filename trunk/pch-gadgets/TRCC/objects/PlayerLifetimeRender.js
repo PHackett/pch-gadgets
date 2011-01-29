@@ -51,16 +51,14 @@ function GGTRCC_RenderBowlingByYear (aPLSO)
 			
 			if (lBYS.mBowlingData != null)
 			{
-				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBYS.mBowlingData.mOvers - 0), 1)	+ "</td>";
-				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mMaidens									+ "</td>";
-				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mRuns									+ "</td>";
-				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mWickets									+ "</td>";
-				lRet +=   "<td align='right'>" + lBYS.mFivePlus												+ "</td>";		
-				
-				lRet +=   "<td align='right'>R/O</td>";		
-				lRet +=   "<td align='right'>S/R</td>";		
-				lRet +=   "<td align='right'>Avg</td>";		
-				
+				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBYS.mBowlingData.mOvers - 0), 1)										+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mMaidens																		+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mRuns																		+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mBowlingData.mWickets																		+ "</td>";
+				lRet +=   "<td align='right'>" + lBYS.mFivePlus																					+ "</td>";
+				lRet +=   "<td align='right'>" + TRCCUtils_RunsPerOver ((lBYS.mBowlingData.mRuns - 0), (lBYS.mBowlingData.mOvers - 0))			+ "</td>";		
+				lRet +=   "<td align='right'>" + GGTRCCUtils_getStrikeRate ((lBYS.mBowlingData.mWickets - 0), (lBYS.mBowlingData.mOvers - 0))	+ "</td>";		
+				lRet +=   "<td align='right'>" + GGTRCCUtils_getHTMLAverage ((lBYS.mBowlingData.mWickets - 0), (lBYS.mBowlingData.mRuns - 0))	+ "</td>";
 			}
 			else
 			{
