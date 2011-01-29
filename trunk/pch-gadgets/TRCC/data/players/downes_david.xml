@@ -1,5 +1,5 @@
 
-<PlayerStats name="David Downes" generated="Thu, 27 Jan 2011 20:29:43 GMT">
+<PlayerStats name="David Downes" generated="Sat, 29 Jan 2011 17:48:06 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Apr 27 1985 00:00:00 GMT+0100 (GMT Daylight Time)" oppo="Purley"/>
     </FirstRecordedGame>
@@ -469,7 +469,7 @@
     </YearData>
 
     <BattingStats1969to1997>
-        <Batting innings="322" runs="4923" notouts="52" hundreds="2" fifties="19" ducks="0">
+        <Batting innings="322" runs="4923" notouts="52" hundreds="2" fifties="19" ducks="0"/>
     </BattingStats1969to1997>
 
     <BowlingStats1969to1997>
