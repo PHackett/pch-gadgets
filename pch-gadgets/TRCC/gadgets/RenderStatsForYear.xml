@@ -112,7 +112,7 @@
 							var lIN;
 			
 							//
-							// Does this match count towards the statistice?
+							// Does this match count towards the statistics?
 							//
 							if (!lCM.mCountsTowardsStats)
 							{
