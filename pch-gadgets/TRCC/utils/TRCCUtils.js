@@ -143,16 +143,12 @@ function TRCCUtils_getAverage (aWickets, aRuns)
 
 function TRCCUtils_getHTMLAverage (aWickets, aRuns)
 {
-	var lRet="";
+	var lRet="-";
 
 	if (aWickets > 0)
 	{
 		// 2 decimal places for HTML
 		lRet = GGUtils_numToString (TRCCUtils_getAverage (aWickets, aRuns), 2);
-	}
-	else
-	{
-		lRet = "&nbsp;";
 	}
 
 	return (lRet);		
