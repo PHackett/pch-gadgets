@@ -58,6 +58,7 @@ function GGTRCC_PLMatchIdO (aPsMatchIdXML)
 	// Methods
 	//
 	this.LinkHML	= GGTRCC_PLMatchIdO___LinkHTML;
+	this.NeatDate	= GGTRCC_PLMatchIdO___NeatDate;
 	this.HTML		= GGTRCC_PLMatchIdO___HTML;
 }
 
@@ -66,6 +67,15 @@ function GGTRCC_PLMatchIdO___HTML()
 	var lRet="";
 	
 	lRet += this.mDate.toString() + " " + this.mOppo;
+	
+	return (lRet);
+}
+
+function GGTRCC_PLMatchIdO___NeatDate()
+{
+	var lRet="";
+	
+	lRet += this.mDate.getFullYear() + "-" + GGUtils_ShortMonthStringFromDate(this.mDate) + "-" + GGUtils_GetDOMLeadingZero (this.mDate);
 	
 	return (lRet);
 }
@@ -80,11 +90,7 @@ function GGTRCC_PLMatchIdO___LinkHTML ()
 {
 	var lRet="";
 	
-	var lText = this.mDate.getFullYear() + "-" + GGUtils_ShortMonthStringFromDate(this.mDate) + GGUtils_GetDOMLeadingZero (this.mDate);
-	
-	lText += " " + this.mOppo;
-	
-	lRet = GGUtils_makeHREF (lText, TRCCUtils_MakeFixtureURL (this.mDate, this.mOppo, this.mTeam));
+	lRet = GGUtils_makeHREF (this.mOppo, TRCCUtils_MakeFixtureURL (this.mDate, this.mOppo, this.mTeam));
 	
 	return (lRet);
 }
