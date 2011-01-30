@@ -110,6 +110,29 @@ function GGUtils_GetDOWStringFromDate (aDate)
 }
 
 
+//--------------------------------[GGUtils_GetDOMLeadingZero]-
+// Get the day number as a string with leading zero if required 
+// for the return to be 2 characters long
+//
+// @param aDate IN Date object
+//
+// @return Day of month as a string, 2 digits wide
+//
+//------------------------------------------------------------
+function GGUtils_GetDOMLeadingZero (aDate)
+{
+	var lDOM=aDate.getDate();
+	var lRet=lDOM + "";
+	
+	if (1 == lRet.length)
+	{
+		lRet = "0" + lRet;
+	}
+	
+    return (lRet);
+}
+
+
 //---------------------------------------[GGUtils_GetOrdinal]-
 // Get the ordinal string associates with the number.
 // i.e. 1 -> "st", 2 -> "nd", 3 -> "rd" etc
