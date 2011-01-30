@@ -135,15 +135,15 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 				
 				lRet += "<tr>";
 				lRet +=   "<td>&nbsp;</td>";
-				lRet +=   "<td>" + lBH.mMatchID.NeatDate() + "</td>";
-				lRet +=   "<td>" + lBH.mMatchID.LinkHML() + "</td>";
-				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBH.mBowlingData.mOvers - 0), 1)										+ "</td>";
-				lRet +=   "<td align='right'>" + lBH.mBowlingData.mMaidens																	+ "</td>";
-				lRet +=   "<td align='right'>" + lBH.mBowlingData.mRuns																		+ "</td>";
-				lRet +=   "<td align='right'>" + lBH.mBowlingData.mWickets																	+ "</td>";
-				lRet +=   "<td align='right'>" + TRCCUtils_RunsPerOver ((lBH.mBowlingData.mRuns - 0), (lBH.mBowlingData.mOvers - 0))		+ "</td>";		
-				lRet +=   "<td align='right'>" + TRCCUtils_getStrikeRate ((lBH.mBowlingData.mWickets - 0), (lBH.mBowlingData.mOvers - 0))	+ "</td>";		
-				lRet +=   "<td align='right'>" + TRCCUtils_getHTMLAverage ((lBH.mBowlingData.mWickets - 0), (lBH.mBowlingData.mRuns - 0))	+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + lBH.mMatchID.NeatDate()																	+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + lBH.mMatchID.LinkHML()																	+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + GGUtils_numToString ((lBH.mBowlingData.mOvers - 0), 1)									+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + lBH.mBowlingData.mMaidens																	+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + lBH.mBowlingData.mRuns																	+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + lBH.mBowlingData.mWickets																	+ "</td>";
+				lRet +=   "<td align='right' valign='top'>" + TRCCUtils_RunsPerOver ((lBH.mBowlingData.mRuns - 0), (lBH.mBowlingData.mOvers - 0))		+ "</td>";		
+				lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getStrikeRate ((lBH.mBowlingData.mWickets - 0), (lBH.mBowlingData.mOvers - 0))	+ "</td>";		
+				lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getHTMLAverage ((lBH.mBowlingData.mWickets - 0), (lBH.mBowlingData.mRuns - 0))	+ "</td>";
 		
 				lRet += "</tr>";
 			}
