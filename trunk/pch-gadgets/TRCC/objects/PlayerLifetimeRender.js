@@ -99,6 +99,7 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	lRet +=       "<th>&nbsp;</th>";
 	lRet +=       "<th align='left'>Fixture</th>";
+	lRet +=       "<th>&nbsp;</th>";
 	lRet +=       "<th align='right'>Overs</th>";
 	lRet +=       "<th align='right'>Maidens</th>";
 	lRet +=       "<th align='right'>Runs</th>";
@@ -134,6 +135,7 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 				
 				lRet += "<tr>";
 				lRet +=   "<td>&nbsp;</td>";
+				lRet +=   "<td>" + lBH.NeatDate() + "</td>";
 				lRet +=   "<td>" + lBH.mMatchID.LinkHML() + "</td>";
 				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBH.mBowlingData.mOvers - 0), 1)										+ "</td>";
 				lRet +=   "<td align='right'>" + lBH.mBowlingData.mMaidens																	+ "</td>";
