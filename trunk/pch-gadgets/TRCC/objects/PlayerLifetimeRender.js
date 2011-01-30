@@ -135,7 +135,7 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 				
 				lRet += "<tr>";
 				lRet +=   "<td>&nbsp;</td>";
-				lRet +=   "<td>" + lBH.NeatDate() + "</td>";
+				lRet +=   "<td>" + lBH.mMatchID.NeatDate() + "</td>";
 				lRet +=   "<td>" + lBH.mMatchID.LinkHML() + "</td>";
 				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBH.mBowlingData.mOvers - 0), 1)										+ "</td>";
 				lRet +=   "<td align='right'>" + lBH.mBowlingData.mMaidens																	+ "</td>";
