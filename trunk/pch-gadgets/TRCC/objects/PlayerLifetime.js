@@ -46,6 +46,7 @@ function GGTRCC_PLMatchIdO (aPsMatchIdXML)
 	//
 	// Methods
 	//
+	this.LinkHML	= GGTRCC_PLMatchIdO___LinkHTML;
 	this.HTML		= GGTRCC_PLMatchIdO___HTML;
 }
 
@@ -54,6 +55,15 @@ function GGTRCC_PLMatchIdO___HTML()
 	var lRet="";
 	
 	lRet += this.mDate.toString() + " " + this.mOppo;
+	
+	return (lRet);
+}
+
+function GGTRCC_PLMatchIdO___LinkHTML ()
+{
+	var lRet="";
+	
+	lRet += this.mOppo;
 	
 	return (lRet);
 }
