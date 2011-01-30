@@ -155,6 +155,48 @@ function TRCCUtils_getHTMLAverage (aWickets, aRuns)
 }
 
 
+//------------------------------------[GGTRCC_FixtureO___URL]-
+// Get the fixture matchreport URL
+//
+// @param	aDate	IN	Date of the fixture (Date object)
+// @param	aOppo	IN	Opposition name
+// @param	aTeam	IN	Which Twyford team is playing? (Saturday, Sunday etc.)
+//
+// @return The URL of the match report page
+//
+//------------------------------------------------------------
+function TRCCUtils_MakeFixtureURL (aDate, aOppo, aTeam)
+{
+	var lURL=GGGadget_getHostingRoot();
+
+	if (GGGadget_hostedOnSites())
+	{
+		// lBaseURL += "FixturesForYear?";
+	
+		//
+		// When rendered on the google-stites website, the match data
+		// pages are at the following location
+		// 	
+		lURL += "All-Fixtures/";
+		lURL += aDate.getFullYear() + "/";
+		lURL += aTeam + "/";
+		lURL += GGUtils_MonthStringFromDate (aDate).toLowerCase() + "_" +
+                GGUtils_GetNumAsOrdinalString (aDate.getDate(), false) + "_" +
+				GGUtils_periodsToUnderscores (aOppo.toLowerCase());
+	}
+	else 
+	{
+		lURL += "Fixtures/GenericFixture.html?";
+		lURL += "month=" + GGUtils_MonthStringFromDate (aDate) + "&";
+		lURL += "date="  + GGUtils_GetNumAsOrdinalString (aDate.getDate(), false) + "&";
+		lURL += "year="  + aDate.getFullYear() + "&";
+		lURL += "oppo="  + aOppo;
+	}	
+	
+	return (GGUtils_spacesToUnderscores(lURL));
+}
+
+
 function TRCCUtils_MakeWorkingHTML (aTitle)
 {
 	var lHTML="";

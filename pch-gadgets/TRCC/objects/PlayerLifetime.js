@@ -44,6 +44,17 @@ function GGTRCC_PLMatchIdO (aPsMatchIdXML)
 	this.mOppo		= aPsMatchIdXML.getAttribute ("oppo");
 	
 	//
+	// NOTE: May need to introduce a "team" into the XML at some point. For now, 
+	// derrive the team from the date. Careful as some games such as tour are not 
+	// played on a Saturday or a Sunday!
+	//
+	this.mTeam		= GGUtils_GetDOWStringFromDate (this.mDate);	//"Saturday", "Sunday", etc
+	if (("Saturday" != this.mTeam) && ("Sunday" != this.mTeam))
+	{
+		this.mTeam = "Sunday";
+	}
+	
+	//
 	// Methods
 	//
 	this.LinkHML	= GGTRCC_PLMatchIdO___LinkHTML;
@@ -59,11 +70,17 @@ function GGTRCC_PLMatchIdO___HTML()
 	return (lRet);
 }
 
+//-----------------------------[GGTRCC_PLMatchIdO___LinkHTML]-
+// Return some HTML with link to the match 
+//
+// @param aPsBattingDataXML	IN 	The <BattingData> XML node
+//
+//------------------------------------------------------------
 function GGTRCC_PLMatchIdO___LinkHTML ()
 {
 	var lRet="";
 	
-	lRet += this.mOppo;
+	lRet = GGUtils_makeHREF (this.mOppo, TRCCUtils_MakeFixtureURL (this.mDate, this.mOppo, this.mTeam));
 	
 	return (lRet);
 }

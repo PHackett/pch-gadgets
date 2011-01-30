@@ -82,23 +82,22 @@ function GGTRCC_RenderBowlingByYear (aPLSO)
 }
 
 
-//----------------------------[GGTRCC_RenderBowlingBestByYear]-
+//---------------------[GGTRCC_RenderBowlingHighlightsByYear]-
 // For the rendering of the best (5+) bowling for player stats 
 //
 // @param aPSO	IN 	The GGTRCC_PlayerLifetimeO object
 //
 //------------------------------------------------------------
-function GGTRCC_RenderBowlingBestByYear (aPLSO)
+function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 {
 	var lRet="";
 	
-	lRet += "<span class='GadgetStatsHeading'>Bowling Best By Year</span>";
+	lRet += "<span class='GadgetStatsHeading'>Bowling Highlights By Year</span>";
 	
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	lRet +=       "<th>&nbsp;</th>";
-	lRet +=       "<th align='left'>Year</th>";
 	lRet +=       "<th align='right'>Fixture</th>";
 	lRet +=       "<th align='right'>Overs</th>";
 	lRet +=       "<th align='right'>Maidens</th>";
@@ -135,9 +134,7 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 				
 				lRet += "<tr>";
 				lRet +=   "<td>&nbsp;</td>";
-				lRet +=   "<td>" + lYearData.mYear + "</td>";
 				lRet +=   "<td>" + lBH.mMatchID.LinkHML() + "</td>";
-				
 				lRet +=   "<td align='right'>" + GGUtils_numToString ((lBH.mBowlingData.mOvers - 0), 1)										+ "</td>";
 				lRet +=   "<td align='right'>" + lBH.mBowlingData.mMaidens																	+ "</td>";
 				lRet +=   "<td align='right'>" + lBH.mBowlingData.mRuns																		+ "</td>";
