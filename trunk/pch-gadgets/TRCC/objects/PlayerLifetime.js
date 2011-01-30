@@ -80,7 +80,11 @@ function GGTRCC_PLMatchIdO___LinkHTML ()
 {
 	var lRet="";
 	
-	lRet = GGUtils_makeHREF (this.mOppo, TRCCUtils_MakeFixtureURL (this.mDate, this.mOppo, this.mTeam));
+	var lText = this.mDate.getFullYear() + "-" + GGUtils_ShortMonthStringFromDate(this.mDate) + GGUtils_GetDOMLeadingZero (this.mDate);
+	
+	lText += " " + this.mOppo;
+	
+	lRet = GGUtils_makeHREF (lText, TRCCUtils_MakeFixtureURL (this.mDate, this.mOppo, this.mTeam));
 	
 	return (lRet);
 }

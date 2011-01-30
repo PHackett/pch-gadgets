@@ -98,7 +98,7 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	lRet +=       "<th>&nbsp;</th>";
-	lRet +=       "<th align='right'>Fixture</th>";
+	lRet +=       "<th align='left'>Fixture</th>";
 	lRet +=       "<th align='right'>Overs</th>";
 	lRet +=       "<th align='right'>Maidens</th>";
 	lRet +=       "<th align='right'>Runs</th>";
