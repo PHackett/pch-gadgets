@@ -143,7 +143,7 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 				lRet +=   "<td align='right'>" + lBH.mBowlingData.mRuns																		+ "</td>";
 				lRet +=   "<td align='right'>" + lBH.mBowlingData.mWickets																	+ "</td>";
 				lRet +=   "<td align='right'>" + TRCCUtils_RunsPerOver ((lBH.mBowlingData.mRuns - 0), (lBH.mBowlingData.mOvers - 0))		+ "</td>";		
-				lRet +=   "<td align='right'>" + TRCCUtils_getStrikeRate ((lBh.mBowlingData.mWickets - 0), (lBH.mBowlingData.mOvers - 0))	+ "</td>";		
+				lRet +=   "<td align='right'>" + TRCCUtils_getStrikeRate ((lBH.mBowlingData.mWickets - 0), (lBH.mBowlingData.mOvers - 0))	+ "</td>";		
 				lRet +=   "<td align='right'>" + TRCCUtils_getHTMLAverage ((lBH.mBowlingData.mWickets - 0), (lBH.mBowlingData.mRuns - 0))	+ "</td>";
 		
 				lRet += "</tr>";
