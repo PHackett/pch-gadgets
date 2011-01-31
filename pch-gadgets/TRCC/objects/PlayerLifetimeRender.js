@@ -155,3 +155,75 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 	return (lRet);
 }
  
+ 
+ //---------------------[GGTRCC_RenderBowlingBeatByYear]-
+// For the rendering of the best bowling in a year player stats 
+//
+// @param aPSO	IN 	The GGTRCC_PlayerLifetimeO object
+//
+//------------------------------------------------------------
+function GGTRCC_RenderBowlingBestByYear (aPLSO)
+{
+	var lRet="";
+	
+	lRet += "<span class='GadgetStatsHeading'>Bowling Best By Year</span>";
+	
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<thead>";
+	lRet +=     "<tr class=\"GadgetBatsHeader\">";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th align='left'>Fixture</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th align='right'>Overs</th>";
+	lRet +=       "<th align='right'>Maidens</th>";
+	lRet +=       "<th align='right'>Runs</th>";
+	lRet +=       "<th align='right'>Wickets</th>";
+	lRet +=       "<th align='right'>Runs/Over</th>";
+	lRet +=       "<th align='right'>Strike Rate</th>";
+	lRet +=       "<th align='right'>Average</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=     "</tr>";
+	lRet +=   "</thead>";
+
+	//
+	// Down all the years
+	//
+	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
+	{
+		var lYearData=aPLSO.mYears[i];
+		var lBYS=lYearData.mBowling;
+
+		if (lBYS == null)
+		{
+			// No data
+		}
+		else if (null != lBYS.mBowlingBest)
+		{
+			// No data
+		}
+		else
+		{
+			lBB = lBYS.mBowlingBest;
+			
+			lRet += "<tr>";
+			lRet +=   "<td>&nbsp;</td>";
+			lRet +=   "<td align='right' valign='top'>" + lBB.mMatchID.NeatDate()																	+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + lBB.mMatchID.LinkHML()																	+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + GGUtils_numToString ((lBB.mBowlingData.mOvers - 0), 1)									+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mMaidens																	+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mRuns																	+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mWickets																	+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + TRCCUtils_RunsPerOver ((lBB.mBowlingData.mRuns - 0), (lBB.mBowlingData.mOvers - 0))		+ "</td>";		
+			lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getStrikeRate ((lBB.mBowlingData.mWickets - 0), (lBB.mBowlingData.mOvers - 0))	+ "</td>";		
+			lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getHTMLAverage ((lBB.mBowlingData.mWickets - 0), (lBB.mBowlingData.mRuns - 0))	+ "</td>";
+			lRet +=   "<td>&nbsp;</td>";
+	
+			lRet += "</tr>";
+		}
+	}
+
+	lRet += "</table>";
+	
+	return (lRet);
+}
+ 

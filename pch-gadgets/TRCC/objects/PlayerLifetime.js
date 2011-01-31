@@ -193,6 +193,23 @@ function GGTRCC_PLBattingHighlightO___HTML()
 }
 
 
+//------------------------------------[GGTRCC_PLBattingBestO]-
+// Object to hold information on a batting best entry
+// of a player lifetime stats
+//
+// @param aPsBattingBestXML	IN 	The <BattingBest> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBattingBestO (aPsBattingBestXML)
+{
+	//
+	// Members
+	//
+	this.mMatchID		= new GGTRCC_PLMatchIdO (aPsBattingBestXML.getElementsByTagName("MatchId")[0]);
+	this.mBattingData	= new GGTRCC_PLBattingDataO (aPsBattingBestXML.getElementsByTagName("BattingData")[0]);
+}
+
+
 //-------------------------------[GGTRCC_PLBowlingHighlightO]-
 // Object to hold information on a bowling highlights entry
 // of a player lifetime stats
@@ -226,6 +243,23 @@ function GGTRCC_PLBowlingHighlightO___HTML()
 }
 
 
+//-------------------------------[GGTRCC_PLBowlingBestO]-
+// Object to hold information on a bowling best entry
+// of a player lifetime stats
+//
+// @param aPsBowlingBestXML	IN 	The <BowlingHighlight> XML node
+//
+//------------------------------------------------------------
+function GGTRCC_PLBowlingBestO (aPsBowlingBestXML)
+{
+	//
+	// Members
+	//
+	this.mMatchID		= new GGTRCC_PLMatchIdO (aPsBowlingBestXML.getElementsByTagName("MatchId")[0]);
+	this.mBowlingData	= new GGTRCC_PLBowlingDataO (aPsBowlingBestXML.getElementsByTagName("BowlingData")[0]);
+}
+
+
 //-----------------------------------------[GGTRCC_PLBattingO]-
 // Object to hold information on batting stats for one year of a 
 // player lifetime stats
@@ -238,13 +272,13 @@ function GGTRCC_PLBattingO (aPsBattingXML)
 	//
 	// Members
 	//
-	this.mInnings		= aPsBattingXML.getAttribute ("innings");
-	this.mRuns			= aPsBattingXML.getAttribute ("runs");
-	this.mNotOuts		= aPsBattingXML.getAttribute ("notouts");
-	this.mHundreds		= aPsBattingXML.getAttribute ("hundreds");
-	this.mFifties		= aPsBattingXML.getAttribute ("fifties");
-	this.mDucks			= aPsBattingXML.getAttribute ("ducks");
-	
+	this.mInnings			= aPsBattingXML.getAttribute ("innings");
+	this.mRuns				= aPsBattingXML.getAttribute ("runs");
+	this.mNotOuts			= aPsBattingXML.getAttribute ("notouts");
+	this.mHundreds			= aPsBattingXML.getAttribute ("hundreds");
+	this.mFifties			= aPsBattingXML.getAttribute ("fifties");
+	this.mDucks				= aPsBattingXML.getAttribute ("ducks");
+	this.mBattingBest		= null;
 	this.mBattingHighlights	= new Array();
 	
 	//
@@ -260,6 +294,17 @@ function GGTRCC_PLBattingO (aPsBattingXML)
 	for (var ix=0 ; ix<lBattingHighlightsX.length ; ++ix)
 	{
 		this.mBattingHighlights[this.mBattingHighlights.length] = new GGTRCC_PLBattingHighlightO (lBattingHighlightsX[ix]);
+	}
+	
+	
+	//
+	// Parse the "BattingBest" for the year
+	//
+	var lBattingBest = aPsBattingXML.getElementsByTagName("BattingBest");
+	
+	if (lBattingBest.length != 0)
+	{
+		this.mBattingBest = new GGTRCC_PLBattingBestO (lBattingBest[0]);
 	}
 }
 
@@ -300,6 +345,7 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	this.mGames				= aPsBowlingXML.getAttribute ("games");
 	this.mFivePlus			= aPsBowlingXML.getAttribute ("fiveplus");
 	this.mBowlingData		= null;
+	this.mBowlingBest		= null;
 	this.mBowlingHighlights	= new Array();
 	
 	//
@@ -325,6 +371,16 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
 	{
 		this.mBowlingHighlights[this.mBowlingHighlights.length] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
+	}
+	
+	//
+	// Parse the "BowlingBest" for the year
+	//
+	var lBowlingBest = aPsBowlingXML.getElementsByTagName("BowlingBest");
+	
+	if (lBowlingBest.length != 0)
+	{
+		this.mBowlingBest = new GGTRCC_PLBowlingBestO (lBowlingBest[0]);
 	}
 }
 
