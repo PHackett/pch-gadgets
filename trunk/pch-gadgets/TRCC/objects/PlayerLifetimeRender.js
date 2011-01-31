@@ -178,9 +178,9 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 	lRet +=       "<th align='right'>Maidens</th>";
 	lRet +=       "<th align='right'>Runs</th>";
 	lRet +=       "<th align='right'>Wickets</th>";
-	lRet +=       "<th align='right'>Runs/Over</th>";
-	lRet +=       "<th align='right'>Strike Rate</th>";
-	lRet +=       "<th align='right'>Average</th>";
+	// lRet +=       "<th align='right'>Runs/Over</th>";
+	// lRet +=       "<th align='right'>Strike Rate</th>";
+	// lRet +=       "<th align='right'>Average</th>";
 	lRet +=       "<th>&nbsp;</th>";
 	lRet +=     "</tr>";
 	lRet +=   "</thead>";
@@ -206,6 +206,7 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 			lBB = lBYS.mBowlingBest;
 			
 			lRet += "<tr>";
+			
 			lRet +=   "<td>&nbsp;</td>";
 			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.NeatDate()																	+ "</td>";
 			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHML()																	+ "</td>";
@@ -213,9 +214,9 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mMaidens																	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mRuns																	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mWickets																	+ "</td>";
-			lRet +=   "<td align='right' valign='top'>" + TRCCUtils_RunsPerOver ((lBB.mBowlingData.mRuns - 0), (lBB.mBowlingData.mOvers - 0))		+ "</td>";		
-			lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getStrikeRate ((lBB.mBowlingData.mWickets - 0), (lBB.mBowlingData.mOvers - 0))	+ "</td>";		
-			lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getHTMLAverage ((lBB.mBowlingData.mWickets - 0), (lBB.mBowlingData.mRuns - 0))	+ "</td>";
+			// lRet +=   "<td align='right' valign='top'>" + TRCCUtils_RunsPerOver ((lBB.mBowlingData.mRuns - 0), (lBB.mBowlingData.mOvers - 0))		+ "</td>";		
+			// lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getStrikeRate ((lBB.mBowlingData.mWickets - 0), (lBB.mBowlingData.mOvers - 0))	+ "</td>";		
+			// lRet +=   "<td align='right' valign='top'>" + TRCCUtils_getHTMLAverage ((lBB.mBowlingData.mWickets - 0), (lBB.mBowlingData.mRuns - 0))	+ "</td>";
 			lRet +=   "<td>&nbsp;</td>";
 	
 			lRet += "</tr>";
