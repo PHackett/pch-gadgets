@@ -306,6 +306,7 @@ function GGTRCC_RenderBattingByYear (aPLSO)
 	return (lRet);
 }
 
+
 //---------------------[GGTRCC_RenderBattingHighlightsByYear]-
 // For the rendering of the best (50+) batting for player stats 
 //
@@ -379,6 +380,77 @@ function GGTRCC_RenderBattingHighlightsByYear (aPLSO)
 				
 				lRet += "</tr>";
 			}
+		}
+	}
+
+	lRet += "</table>";
+	
+	return (lRet);
+}
+
+
+//---------------------[GGTRCC_RenderBattingHighlightsByYear]-
+// For the rendering of the best (50+) batting for player stats 
+//
+// @param aPSO	IN 	The GGTRCC_PlayerLifetimeO object
+//
+//------------------------------------------------------------
+function GGTRCC_RenderBattingBestByYear (aPLSO)
+{
+	var lRet="";
+	
+	lRet += "<span class='GadgetStatsHeading'>Batting Best By Year</span>";
+	
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<thead>";
+	lRet +=     "<tr class=\"GadgetBatsHeader\">";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th align='left'>Fixture</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th align='right'>Runs</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=     "</tr>";
+	lRet +=   "</thead>";
+
+	//
+	// Down all the years
+	//
+	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
+	{
+		var lYearData=aPLSO.mYears[i];
+		var lBYS=lYearData.mBatting;
+
+		if (lBYS == null)
+		{
+			// No data
+		}
+		else if (null == lBYS.mBattingBest)
+		{
+			// No data
+		}
+		else
+		{
+			lBB = lBYS.mBattingBest;
+			
+			lRet += "<tr>";
+			
+			lRet +=   "<td>&nbsp;</td>";
+			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.NeatDate()	+ "</td>";
+			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHML()	+ "</td>";
+			lRet +=   "<td align='right' valign='top'>" + lBB.mBattingData.mRuns	+ "</td>";
+			if (0 == lBB.mBattingData.mNotOuts)
+			{
+				lRet += "<td>&nbsp;</td>";
+			}
+			else
+			{
+				lRet += "<td>*</td>";
+			}
+	
+			lRet +=   "<td>&nbsp;</td>";
+			
+			lRet += "</tr>";
 		}
 	}
 
