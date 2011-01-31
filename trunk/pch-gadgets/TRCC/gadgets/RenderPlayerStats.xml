@@ -70,6 +70,8 @@
 					var lHTML="This is a test<br>";
 					
 					lHTML += GGTRCC_RenderBowlingByYear(lPLS);
+					lHTML += GGTRCC_RenderBowlingBestByYear(lPLS);
+					lHTML += GGTRCC_RenderBowlingHighlightsByYear(lPLS);
 					lHTML += lPLS.playerHTML();
 			
 					//
