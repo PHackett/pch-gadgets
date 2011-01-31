@@ -69,6 +69,9 @@
 					//
 					var lHTML="This is a test<br>";
 					
+					lHTML += GGTRCC_RenderBattingByYear (lPLS);
+					lHTML += GGTRCC_RenderBattingHighlightsByYear(lPLS);
+					lHTML += GGTRCC_RenderBattingBestByYear(lPLS);
 					lHTML += GGTRCC_RenderBowlingByYear(lPLS);
 					lHTML += GGTRCC_RenderBowlingBestByYear(lPLS);
 					lHTML += GGTRCC_RenderBowlingHighlightsByYear(lPLS);
