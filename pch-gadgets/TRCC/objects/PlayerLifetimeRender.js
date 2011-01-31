@@ -197,7 +197,7 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 		{
 			// No data
 		}
-		else if (null != lBYS.mBowlingBest)
+		else if (null == lBYS.mBowlingBest)
 		{
 			// No data
 		}
@@ -207,8 +207,8 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 			
 			lRet += "<tr>";
 			lRet +=   "<td>&nbsp;</td>";
-			lRet +=   "<td align='right' valign='top'>" + lBB.mMatchID.NeatDate()																	+ "</td>";
-			lRet +=   "<td align='right' valign='top'>" + lBB.mMatchID.LinkHML()																	+ "</td>";
+			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.NeatDate()																	+ "</td>";
+			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHML()																	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + GGUtils_numToString ((lBB.mBowlingData.mOvers - 0), 1)									+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mMaidens																	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mRuns																	+ "</td>";
