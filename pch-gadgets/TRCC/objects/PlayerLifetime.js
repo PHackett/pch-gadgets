@@ -399,6 +399,16 @@ function GGTRCC_PLBowlingO___HTML()
 		{
 			lRet += this.mBowlingHighlights[i].HTML();
 		}
+		
+		lRet += "** this.mBowlingBest ";
+		if (null == this.mBowlingBest)
+		{
+			lRet += "null **";
+		}
+		else
+		{
+			lRet += "Not null **";			
+		}
 	}
 	
 	return (lRet);
