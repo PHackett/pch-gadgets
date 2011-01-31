@@ -156,7 +156,7 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 }
  
  
- //---------------------[GGTRCC_RenderBowlingBeatByYear]-
+//---------------------------[GGTRCC_RenderBowlingBeatByYear]-
 // For the rendering of the best bowling in a year player stats 
 //
 // @param aPSO	IN 	The GGTRCC_PlayerLifetimeO object
@@ -227,4 +227,74 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 	
 	return (lRet);
 }
- 
+
+//
+// ====================================================================
+//
+
+//-------------------------------[GGTRCC_RenderBattingByYear]-
+// For the rendering of batting by year for player stats 
+//
+// @param aPSO	IN 	The GGTRCC_PlayerLifetimeO object
+//
+//------------------------------------------------------------
+function GGTRCC_RenderBattingByYear (aPLSO)
+{
+	var lRet="";
+	
+	lRet += "<span class='GadgetStatsHeading'>Batting By Year</span>";
+	
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<thead>";
+	lRet +=     "<tr class=\"GadgetBatsHeader\">";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th align='left'>Year</th>";
+	lRet +=       "<th align='right'>Innings</th>";
+	lRet +=       "<th align='right'>Not Out</th>";
+	lRet +=       "<th align='right'>Runs</th>";
+	lRet +=       "<th align='right'>100s</th>";
+	lRet +=       "<th align='right'>50s</th>";
+	lRet +=       "<th align='right'>Ducks</th>";
+	lRet +=       "<th align='right'>Average</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=     "</tr>";
+	lRet +=   "</thead>";
+
+	//
+	// Down all the years
+	//
+	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
+	{
+		var lYearData=aPLSO.mYears[i];
+		var lBYS=lYearData.mBatting;
+
+		if (lBYS == null)
+		{
+			// Nothing to do
+		}
+		else
+		{
+			var lCompletedInnings=(lBYS.mInnings - 0) - (lBYS.mNotOuts - 0);
+			
+			lRet += "<tr>";
+			
+			lRet +=   "<td>&nbsp;</td>";
+			lRet +=   "<td align='left'>"	+ lYearData.mYear													+ "</td>";
+			lRet +=   "<td align='right'>"	+ lBYS.mInnings														+ "</td>";
+			lRet +=   "<td align='right'>"	+ lBYS.mNotOuts														+ "</td>";
+			lRet +=   "<td align='right'>"	+ lBYS.mRuns														+ "</td>";
+			lRet +=   "<td align='right'>"	+ lBYS.mHundreds													+ "</td>";
+			lRet +=   "<td align='right'>"	+ lBYS.mFifties														+ "</td>";
+			lRet +=   "<td align='right'>"	+ lBYS.mDucks														+ "</td>";
+			lRet +=   "<td align='right'>"	+ TRCCUtils_getHTMLAverage (lCompletedInnings, (lBYS.mRuns - 0))	+ "</td>";
+			lRet +=   "<td>&nbsp;</td>";
+			
+			lRet += "</tr>";
+		}
+	}
+
+	lRet += "</table>";
+	
+	return (lRet);
+}
+

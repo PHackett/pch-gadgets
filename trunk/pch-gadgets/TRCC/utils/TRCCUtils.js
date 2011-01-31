@@ -128,6 +128,10 @@ function TRCCUtils_getStrikeRate (aWickets, aOvers)
 }
 
 
+//---------------------------------[TRCCUtils_getHTMLAverage]-
+// Could be Wickets or completed innings!
+//
+//------------------------------------------------------------
 function TRCCUtils_getAverage (aWickets, aRuns)
 {
 	var lRet=0.0;
@@ -141,6 +145,10 @@ function TRCCUtils_getAverage (aWickets, aRuns)
 }
 
 
+//---------------------------------[TRCCUtils_getHTMLAverage]-
+// Could be Wickets or completed innings!
+//
+//------------------------------------------------------------
 function TRCCUtils_getHTMLAverage (aWickets, aRuns)
 {
 	var lRet="-";
