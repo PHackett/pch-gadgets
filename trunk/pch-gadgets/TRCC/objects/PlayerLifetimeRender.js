@@ -92,6 +92,14 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 {
 	var lRet="";
 	
+	//
+	// Are there any highlights to render?
+	//
+	if (!aPLSO.HasBowlingHighlights())
+	{
+		return (lRet);
+	}
+	
 	lRet += "<span class='GadgetStatsHeading'>Bowling Highlights By Year</span>";
 	
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";

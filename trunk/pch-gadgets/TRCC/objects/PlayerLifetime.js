@@ -499,7 +499,9 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	//
 	// Methods
 	//
-	this.playerHTML 		= GGTRCC_PlayerLifetimeO___playerHTML;
+	this.HasBattingHighlights	= GGTRCC_PlayerLifetimeO___HasBattingHighlights;
+	this.HasBowlingHighlights	= GGTRCC_PlayerLifetimeO___HasBowlingHighlights;
+	this.playerHTML 			= GGTRCC_PlayerLifetimeO___playerHTML;
 	
 	//
 	// Get the root object
@@ -533,6 +535,38 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	}
 }
 
+
+function GGTRCC_PlayerLifetimeO___HasBattingHighlights()
+{
+	var lRet=false;
+	
+	for (var i=0 ; i<this.mYears.length ; ++i)
+	{
+		if (this.mYears[i].mBatting && (0 != this.mYears[i].mBatting.mBattingHighlights.length))
+		{
+			lRet = true;
+			break;
+		}
+	}
+	
+	return (lRet);
+}
+
+function GGTRCC_PlayerLifetimeO___HasBowlingHighlights()
+{
+	var lRet=false;
+	
+	for (var i=0 ; i<this.mYears.length ; ++i)
+	{
+		if (this.mYears[i].mBowling && (0 != this.mYears[i].mBowling.mBowlingHighlights.length))
+		{
+			lRet = true;
+			break;
+		}
+	}
+	
+	return (lRet);
+}
 
 function GGTRCC_PlayerLifetimeO___playerHTML()
 {
