@@ -12,7 +12,6 @@
 
 .GadgetMatchReportHeader
 {
-	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
 	font-size:		large;
 	color:			darkblue;
 }
@@ -24,7 +23,6 @@
 
 .GadgetContentHeading 
 { 
-	font-family: 	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
 	font-size: 		x-large;
 	color: 			DarkBlue;
 }
@@ -43,27 +41,23 @@
 
 .GadgetStatsHeading
 {
-	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
 	font-size:		large;
 	color:			darkblue;
 }
 
 .Scorecard
 {
-	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
 	font-size:		large;
 	color:			Crimson;
 }
 
 .ScorecardSm
 {
-	font-family:	"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
 	color:			Crimson;
 }
 
 .TRCCWin
 {
-	font-family:	"Comic Sans MS", "Arial", "Helvetica", "helv", "sans-serif";
 	font-style:		italic;
 	color:			Crimson;
 }
