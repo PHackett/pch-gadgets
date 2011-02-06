@@ -56,13 +56,29 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 	}
 	
 	//
-	// Sort the array ascending
+	// Did we get anything?
 	//
-	lTmpA.sort (Sort___ByDate);
+	if (0 != lTmpA.length)
+	{
+		//
+		// Sort the array ascending
+		//
+		lTmpA.sort (Sort___ByDate);
+		
+		//
+		// Go through the array, transferring to the return array, filling in any gaps in the years
+		//
+		lRet[0] = lTmpA[0];
+		var lPrevItem = lRet[0];
+		
+		for (var i=1 ; i<lTmpA.length ; ++i)
+		{
+			for (var j=(lPrevItem.mYear + 1) ; j<lTmpA[i].mYear ; ++j)
+			{
+				lRet[lRet.length] = new GGTRCC_PlayerLTGraph_BattingItemO (j, 0, -1);
+			}
+		}
+	}
 	
-	//
-	// Go through the array, transferring to the return array, filling in any gaps in the years
-	//
-	
-	return (lTmpA);
+	return (lRet);
 }
