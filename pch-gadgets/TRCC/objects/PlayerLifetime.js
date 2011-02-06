@@ -534,6 +534,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	this.mFRG						= null;
 	this.mBattingStats1969to1997	= null;
 	this.mBowlingStats1969to1997	= null;
+	this.mLifetimeBattingTotals		= null;
 	
 	//
 	// Methods
@@ -592,6 +593,11 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	{
 		this.mBowlingStats1969to1997 = new GGTRCC_PLBowlingO (lBowlStats1969to1997[0]);
 	}
+	
+	//
+	// Summarise the lifetime batting from the supplied information
+	//
+	this.mLifetimeBattingTotals = GGTRCC_AccumulateLifetimeBatting (this);
 }
 
 

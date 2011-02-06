@@ -27,6 +27,28 @@ function GGTRCC_AccumulateLifetimeBatting (aPLSO)
 		lRet.Add (aPLSO.mBattingStats1969to1997);
 	}
 	
+	//
+	// Down all the years we have
+	//
+	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
+	{
+		//
+		// Do we have any batting data for this year?
+		//
+		if (null == aPLSO.mYears[i].mBatting)
+		{
+			// No batting data for this year
+		}
+		
+		else if ((null != aPLSO.mBattingStats1969to1997) && ((aPLSO.mYears[i].mYear - 0) <= 1997))
+		{
+			// We have cumulative stats for 1969 to 1997, and this year falls into that range
+		}
+		else
+		{
+			lRet.Add (aPLSO.mYears[i].mBatting);
+		}
+	}
 	
 	return (lRet);
 }
