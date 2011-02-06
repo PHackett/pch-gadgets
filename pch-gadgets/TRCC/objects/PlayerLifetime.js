@@ -711,6 +711,9 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 	
 	lRet += "mBowlingStats1969to1997: " + this.mBowlingStats1969to1997.HTML();
 	
+	lRet += "<br><hr><br>";
+	
+	lRet += "mLifetimeBowlingTotals: " + this.mLifetimeBowlingTotals.HTML();
 	
 	return (lRet);
 }
