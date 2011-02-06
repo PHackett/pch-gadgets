@@ -72,7 +72,7 @@
 					var lHTML = "";
 					
 					
-					var lX = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLS);
+					var lX = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
 					
 					for (var i=0 ; i< lX.length ; ++i)
 					{
