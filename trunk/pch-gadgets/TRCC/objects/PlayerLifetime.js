@@ -379,46 +379,62 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	//
 	// Members
 	//
-	this.mGames				= aPsBowlingXML.getAttribute ("games");
-	this.mFivePlus			= aPsBowlingXML.getAttribute ("fiveplus");
+	this.mGames				= "0";
+	this.mFivePlus			= "0";
 	this.mBowlingData		= null;
 	this.mBowlingBest		= null;
 	this.mBowlingHighlights	= new Array();
+	
+	if (null != aPsBowlingXML)
+	{
+		this.mGames				= aPsBowlingXML.getAttribute ("games");
+		this.mFivePlus			= aPsBowlingXML.getAttribute ("fiveplus");
+		this.mBowlingData		= null;
+		this.mBowlingBest		= null;
+		this.mBowlingHighlights	= new Array();		
+		
+		//
+		// Parse the summary bowling data
+		//
+		var lBowlingData = aPsBowlingXML.getElementsByTagName("BowlingData");
+		
+		if (lBowlingData.length != 0)
+		{
+			this.mBowlingData = new GGTRCC_PLBowlingDataO (lBowlingData[0]);
+		}
+		
+		//
+		// Parse the bowling highlights
+		//
+		var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
+		
+		for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
+		{
+			this.mBowlingHighlights[this.mBowlingHighlights.length] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
+		}
+		
+		//
+		// Parse the "BowlingBest" for the year
+		//
+		var lBowlingBest = aPsBowlingXML.getElementsByTagName("BowlingBest");
+		
+		if (lBowlingBest.length != 0)
+		{
+			this.mBowlingBest = new GGTRCC_PLBowlingBestO (lBowlingBest[0]);
+		}
+	}
 	
 	//
 	// Methods
 	//
 	this.HTML		= GGTRCC_PLBowlingO___HTML;
+	this.Add		= GGTRCC_PLBowlingO___Add;
+}
+
+
+function GGTRCC_PLBowlingO___Add (aPBO)
+{
 	
-	//
-	// Parse the summary bowling data
-	//
-	var lBowlingData = aPsBowlingXML.getElementsByTagName("BowlingData");
-	
-	if (lBowlingData.length != 0)
-	{
-		this.mBowlingData = new GGTRCC_PLBowlingDataO (lBowlingData[0]);
-	}
-	
-	//
-	// Parse the bowling highlights
-	//
-	var lBowlingHighlightsX = aPsBowlingXML.getElementsByTagName("BowlingHighlight");
-	
-	for (var ix=0 ; ix<lBowlingHighlightsX.length ; ++ix)
-	{
-		this.mBowlingHighlights[this.mBowlingHighlights.length] = new GGTRCC_PLBowlingHighlightO (lBowlingHighlightsX[ix]);
-	}
-	
-	//
-	// Parse the "BowlingBest" for the year
-	//
-	var lBowlingBest = aPsBowlingXML.getElementsByTagName("BowlingBest");
-	
-	if (lBowlingBest.length != 0)
-	{
-		this.mBowlingBest = new GGTRCC_PLBowlingBestO (lBowlingBest[0]);
-	}
 }
 
 
@@ -535,6 +551,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	this.mBattingStats1969to1997	= null;
 	this.mBowlingStats1969to1997	= null;
 	this.mLifetimeBattingTotals		= null;
+	this.mLifetimeBowlingTotals		= null;
 	
 	//
 	// Methods
@@ -598,6 +615,11 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	// Summarise the lifetime batting from the supplied information
 	//
 	this.mLifetimeBattingTotals = GGTRCC_AccumulateLifetimeBatting (this);
+
+	//
+	// Summarise the lifetime bowling from the supplied information
+	//
+	this.mLifetimeBowlingTotals = GGTRCC_AccumulateLifetimeBowling (this);
 }
 
 
@@ -649,6 +671,10 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 	{
 		lRet += this.mYears[i].yearHTML();
 	}
+	
+	lRet += "<br><hr><br>";
+	
+	lRet += "mLifetimeBattingTotals: " + this.mLifetimeBattingTotals.HTML();
 	
 	return (lRet);
 }
