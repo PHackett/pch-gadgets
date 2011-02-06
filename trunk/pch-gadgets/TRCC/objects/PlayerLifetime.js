@@ -334,7 +334,7 @@ function GGTRCC_PLBattingO (aPsBattingXML)
 // @param aPLBO	IN	Object to add data from 
 //-------------------------------------------------------------
 
-GGTRCC_PLBattingO___Add (aPLBO)
+function GGTRCC_PLBattingO___Add (aPLBO)
 {
 	//
 	// Note that we are storing the member data as strings, not integers
