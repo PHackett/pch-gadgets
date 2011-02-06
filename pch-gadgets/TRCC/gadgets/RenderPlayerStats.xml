@@ -68,6 +68,8 @@
 					//
 					// Make the HTML
 					//
+					var lHTML = "";
+					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
 					lHTML += GGTRCC_RenderBattingByYear (lPLS);
 					lHTML += GGTRCC_RenderBattingHighlightsByYear(lPLS);
