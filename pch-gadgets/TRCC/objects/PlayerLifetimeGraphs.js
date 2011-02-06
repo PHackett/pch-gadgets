@@ -41,7 +41,7 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 	var lTmpA = new Array();
 	
 	//
-	// Down all the years
+	// Down all the years creating the GGTRCC_PlayerLTGraph_ItemO objects
 	//
 	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
 	{
@@ -106,6 +106,9 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 				if (lRet[i].mYear == 97)
 				{
 					lAdjust = (aPLSO.mBattingStats1969to1997.mRuns - 0) - lRet[i].mOne;
+					
+lRet[0].mOne = lAdjust;
+					
 					break;
 				}
 			}
