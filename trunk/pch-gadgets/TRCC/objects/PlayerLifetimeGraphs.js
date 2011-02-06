@@ -63,4 +63,6 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 	//
 	// Go through the array, transferring to the return array, filling in any gaps in the years
 	//
+	
+	return (lTmpA);
 }

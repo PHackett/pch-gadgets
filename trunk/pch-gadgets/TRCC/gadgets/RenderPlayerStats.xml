@@ -72,11 +72,11 @@
 					var lHTML = "";
 					
 					
-					var lX = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
+					var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
 					
-					for (var i=0 ; i< lX.length ; ++i)
+					for (var i=0 ; i<lXarr.length ; ++i)
 					{
-						lHTML += "[year " + i + "] = " + lX.mYear + "<br>";
+						lHTML += "[year " + i + "] = " + lXarr.mYear + "<br>";
 					}
 					
 					
