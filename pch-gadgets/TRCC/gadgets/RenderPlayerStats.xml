@@ -38,6 +38,7 @@
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerLifetime.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerLifetimeRender.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerLifetimeAccumulate.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/PlayerLifetimeGraphs.js" type="text/javascript"></script>
 
 			<script type="text/javascript">
 
@@ -69,6 +70,15 @@
 					// Make the HTML
 					//
 					var lHTML = "";
+					
+					
+					var lX = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLS);
+					
+					for (var i=0 ; i< lX.length ; ++i)
+					{
+						lHTML += "[year " + i + "] = " + lX.mYear + "<br>";
+					}
+					
 					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
 					lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
