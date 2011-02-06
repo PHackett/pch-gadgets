@@ -70,17 +70,14 @@
 					// Make the HTML
 					//
 					var lHTML = "";
-					
-					
 					var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
 					
 					lHTML += "lXarr.length = " + lXarr.length + "<br>";
 					
 					for (var i=0 ; i<lXarr.length ; ++i)
 					{
-						lHTML += "[year " + i + "] = " + lXarr[i].mYear + "<br>";
+						lHTML += "[year " + i + "] = " + lXarr[i].mYear + ": cum runs=" + lXarr[i].mOne + "<br>";
 					}
-					
 					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
 					lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
