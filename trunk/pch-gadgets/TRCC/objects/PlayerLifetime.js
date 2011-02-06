@@ -598,7 +598,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	
 	if (0 != lBatStats1969to1997.length)
 	{
-		this.mBattingStats1969to1997 = new GGTRCC_PLBattingO (lBatStats1969to1997[0]);
+		this.mBattingStats1969to1997 = new GGTRCC_PLBattingO (lBatStats1969to1997[0].getElementsByTagName("Batting"));
 	}
 	
 	//
@@ -608,7 +608,7 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	
 	if (0 != lBowlStats1969to1997.length)
 	{
-		this.mBowlingStats1969to1997 = new GGTRCC_PLBowlingO (lBowlStats1969to1997[0]);
+		this.mBowlingStats1969to1997 = new GGTRCC_PLBowlingO (lBowlStats1969to1997[0].getElementsByTagName("Bowling"));
 	}
 	
 	//
