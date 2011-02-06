@@ -79,6 +79,8 @@
 						lHTML += "[year " + i + "] = " + lXarr[i].mYear + ": cum runs=" + lXarr[i].mOne + "<br>";
 					}
 					
+					lHTML += "lPLS.mBattingStats1969to1997.mRuns = " + aPLSO.mBattingStats1969to1997.mRuns + "<br>";
+					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
 					lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
 					lHTML += GGTRCC_RenderBattingByYear (lPLS);
