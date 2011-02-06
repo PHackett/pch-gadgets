@@ -49,7 +49,7 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 		{
 			var lCompInns = (aPLSO.mYears[i].mBatting.mInnings - 0) - (aPLSO.mYears[i].mBatting.mNotOuts - 0);
 			
-			lTMpA[length] = new GGTRCC_PlayerLTGraph_BattingItemO ((aPLSO.mYears[i].mYear - 0),
+			lTmpA[length] = new GGTRCC_PlayerLTGraph_BattingItemO ((aPLSO.mYears[i].mYear - 0),
 																   (aPLSO.mYears[i].mBatting.mRuns - 0),
 																   TRCCUtils_getAverage (lCompInns, (aPLSO.mYears[i].mBatting.mRuns - 0)));
 		}
