@@ -47,6 +47,50 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 }
 
 
+//-------------------------------[GGTRCC_RenderBowlingTotals]-
+// Render the total sf the lifetime bowlng statistics
+//
+// @param	aPLBO	IN	Player lifetime bowling object
+//------------------------------------------------------------
+function GGTRCC_RenderBowlingTotals (aPLBO)
+{
+	var lRet="";
+	
+	lRet += "<span class='GadgetStatsHeading'>Career Bowling Summary</span>";
+	
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<thead>";
+	lRet +=     "<tr class=\"GadgetBatsHeader\">";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th align='right'>Overs</th>";
+	lRet +=       "<th align='right'>Maidens</th>";
+	lRet +=       "<th align='right'>Runs</th>";
+	lRet +=       "<th align='right'>Wickets</th>";
+	lRet +=       "<th align='right'>Runs/Over</th>";
+	lRet +=       "<th align='right'>Strike Rate</th>";
+	lRet +=       "<th align='right'>Average</th>";
+	lRet +=       "<th>&nbsp;</th>";
+	lRet +=     "</tr>";
+	lRet +=   "</thead>";
+
+	lRet +=   "<tr>";
+	lRet +=     "<td>&nbsp;</td>";
+	lRet +=     "<td align='right'>" + GGUtils_numToString ((aPLBO.mOvers - 0), 1)							+ "</td>";
+	lRet +=     "<td align='right'>" + aPLBO.mMaidens														+ "</td>";
+	lRet +=     "<td align='right'>" + aPLBO.mRuns															+ "</td>";
+	lRet +=     "<td align='right'>" + aPLBO.mWickets														+ "</td>";
+	lRet +=     "<td align='right'>" + TRCCUtils_RunsPerOver ((aPLBO.mRuns - 0), (aPLBO.mOvers - 0))		+ "</td>";		
+	lRet +=     "<td align='right'>" + TRCCUtils_getStrikeRate ((aPLBO.mWickets - 0), (aPLBO.mOvers - 0))	+ "</td>";		
+	lRet +=     "<td align='right'>" + TRCCUtils_getHTMLAverage ((aPLBO.mWickets - 0), (aPLBO.mRuns - 0))	+ "</td>";
+	lRet +=     "<td>&nbsp;</td>";
+	lRet +=   "</tr>";
+
+	lRet += "</table>";
+	
+	return (lRet);
+}
+
+
 //-------------------------------[GGTRCC_RenderBowlingByYear]-
 // For the rendering of bowling by year for player stats 
 //
