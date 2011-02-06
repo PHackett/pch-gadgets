@@ -38,7 +38,6 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	lRet +=     "<td align='right'>"	+ aPLBO.mRuns														+ "</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mHundreds													+ "</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mFifties													+ "</td>";
-	lRet +=     "<td align='right'>"	+ aPLBO.mDucks														+ "</td>";
 	lRet +=     "<td align='right'>"	+ TRCCUtils_getHTMLAverage (lCompletedInnings, (aPLBO.mRuns - 0))	+ "</td>";
 	lRet +=     "<td>&nbsp;</td>";
 	
