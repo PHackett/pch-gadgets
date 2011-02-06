@@ -295,8 +295,6 @@ function GGTRCC_PLBattingO (aPsBattingXML)
 		this.mHundreds			= aPsBattingXML.getAttribute ("hundreds");
 		this.mFifties			= aPsBattingXML.getAttribute ("fifties");
 		this.mDucks				= aPsBattingXML.getAttribute ("ducks");
-		this.mBattingBest		= null;
-		this.mBattingHighlights	= new Array();
 	
 		//
 		// Parse the batting highlights
