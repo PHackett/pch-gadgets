@@ -272,40 +272,79 @@ function GGTRCC_PLBattingO (aPsBattingXML)
 	//
 	// Members
 	//
-	this.mInnings			= aPsBattingXML.getAttribute ("innings");
-	this.mRuns				= aPsBattingXML.getAttribute ("runs");
-	this.mNotOuts			= aPsBattingXML.getAttribute ("notouts");
-	this.mHundreds			= aPsBattingXML.getAttribute ("hundreds");
-	this.mFifties			= aPsBattingXML.getAttribute ("fifties");
-	this.mDucks				= aPsBattingXML.getAttribute ("ducks");
+	this.mInnings			= "0";
+	this.mRuns				= "0";
+	this.mNotOuts			= "0";
+	this.mHundreds			= "0";
+	this.mFifties			= "0";
+	this.mDucks				= "0";
 	this.mBattingBest		= null;
 	this.mBattingHighlights	= new Array();
+	
+	//
+	// Have we been given XML to parse?
+	//
+	if (null != aPsBattingXML)
+	{
+		//
+		// Members
+		//
+		this.mInnings			= aPsBattingXML.getAttribute ("innings");
+		this.mRuns				= aPsBattingXML.getAttribute ("runs");
+		this.mNotOuts			= aPsBattingXML.getAttribute ("notouts");
+		this.mHundreds			= aPsBattingXML.getAttribute ("hundreds");
+		this.mFifties			= aPsBattingXML.getAttribute ("fifties");
+		this.mDucks				= aPsBattingXML.getAttribute ("ducks");
+		this.mBattingBest		= null;
+		this.mBattingHighlights	= new Array();
+	
+		//
+		// Parse the batting highlights
+		//
+		var lBattingHighlightsX = aPsBattingXML.getElementsByTagName("BattingHighlight");
+		
+		for (var ix=0 ; ix<lBattingHighlightsX.length ; ++ix)
+		{
+			this.mBattingHighlights[this.mBattingHighlights.length] = new GGTRCC_PLBattingHighlightO (lBattingHighlightsX[ix]);
+		}
+		
+		
+		//
+		// Parse the "BattingBest" for the year
+		//
+		var lBattingBest = aPsBattingXML.getElementsByTagName("BattingBest");
+		
+		if (lBattingBest.length != 0)
+		{
+			this.mBattingBest = new GGTRCC_PLBattingBestO (lBattingBest[0]);
+		}
+	}
 	
 	//
 	// Methods
 	//
 	this.HTML		= GGTRCC_PLBattingO___HTML;
-	
+	this.Add		= GGTRCC_PLBattingO___Add;
+}
+
+
+//-----------------------------------------[GGTRCC_PLBattingO]-
+// Add the stats from the supplied GGTRCC_PLBattingO to this
+//
+// @param aPLBO	IN	Object to add data from 
+//-------------------------------------------------------------
+
+GGTRCC_PLBattingO___Add (aPLBO)
+{
 	//
-	// Parse the batting highlights
+	// Note that we are storing the member data as strings, not integers
 	//
-	var lBattingHighlightsX = aPsBattingXML.getElementsByTagName("BattingHighlight");
-	
-	for (var ix=0 ; ix<lBattingHighlightsX.length ; ++ix)
-	{
-		this.mBattingHighlights[this.mBattingHighlights.length] = new GGTRCC_PLBattingHighlightO (lBattingHighlightsX[ix]);
-	}
-	
-	
-	//
-	// Parse the "BattingBest" for the year
-	//
-	var lBattingBest = aPsBattingXML.getElementsByTagName("BattingBest");
-	
-	if (lBattingBest.length != 0)
-	{
-		this.mBattingBest = new GGTRCC_PLBattingBestO (lBattingBest[0]);
-	}
+	this.mInnings			= ((this.mInnings  - 0) + (aPLBO.mInnings  - 0)) + "";
+	this.mRuns				= ((this.mRuns     - 0) + (aPLBO.mRuns     - 0)) + "";
+	this.mNotOuts			= ((this.mNotOuts  - 0) + (aPLBO.mNotOuts  - 0)) + "";
+	this.mHundreds			= ((this.mHundreds - 0) + (aPLBO.mHundreds - 0)) + "";
+	this.mFifties			= ((this.mFifties  - 0) + (aPLBO.mFifties  - 0)) + "";
+	this.mDucks				= ((this.mDucks    - 0) + (aPLBO.mDucks    - 0)) + "";
 }
 
 
@@ -491,10 +530,12 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	//
 	// Members
 	//
-	this.mName		= null;
-	this.mGenerated	= null;
-	this.mYears		= new Array();
-	this.mFRG		= null;
+	this.mName						= null;
+	this.mGenerated					= null;
+	this.mYears						= new Array();
+	this.mFRG						= null;
+	this.mBattingStats1969to1997	= null;
+	this.mBowlingStats1969to1997	= null;
 	
 	//
 	// Methods
@@ -532,6 +573,26 @@ function GGTRCC_PlayerLifetimeO (aPsXML)
 	for (var i=0 ; i<lYears.length ; ++i)
 	{
 		this.mYears[this.mYears.length] = new GGTRCC_PLYearO (lYears[i]);
+	}
+	
+	//
+	// Get the mBattingStats for the years 1969 to 1997 (if present)
+	//
+	var lBatStats1969to1997 = lPLS.getElementsByTagName("BattingStats1969to1997");
+	
+	if (0 != lBatStats1969to1997.length)
+	{
+		this.mBattingStats1969to1997 = new GGTRCC_PLBattingO (lBatStats1969to1997);
+	}
+	
+	//
+	// Get the mBattingStats for the years 1969 to 1997 (if present)
+	//
+	var lBowlStats1969to1997 = lPLS.getElementsByTagName("BowlingStats1969to1997");
+	
+	if (0 != lBowlStats1969to1997.length)
+	{
+		this.mBowlingStats1969to1997 = new GGTRCC_PLBowlingO (lBowlStats1969to1997);
 	}
 }
 
