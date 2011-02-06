@@ -138,15 +138,43 @@ function GGTRCC_PLBowlingDataO (aPsBowlingDataXML)
 	//
 	// Members
 	//
-	this.mOvers		= aPsBowlingDataXML.getAttribute ("overs");
-	this.mMaidens	= aPsBowlingDataXML.getAttribute ("maidens");
-	this.mRuns		= aPsBowlingDataXML.getAttribute ("runs");
-	this.mWickets	= aPsBowlingDataXML.getAttribute ("wickets");
+	this.mOvers		= "0";
+	this.mMaidens	= "0";
+	this.mRuns		= "0";
+	this.mWickets	= "0";
+	
+	if (null != aPsBowlingDataXML)
+	{
+		this.mOvers		= aPsBowlingDataXML.getAttribute ("overs");
+		this.mMaidens	= aPsBowlingDataXML.getAttribute ("maidens");
+		this.mRuns		= aPsBowlingDataXML.getAttribute ("runs");
+		this.mWickets	= aPsBowlingDataXML.getAttribute ("wickets");
+	}
 	
 	//
 	// Methods
 	//
 	this.HTML		= GGTRCC_PLBowlingDataO___HTML;
+	this.Add		= GGTRCC_PLBowlingDataO___Add;
+}
+
+
+//------------------------------[GGTRCC_PLBowlingDataO___Add]-
+// Add the bowling data from the supplied  GGTRCC_PLBowlingDataO
+// object to this object
+//
+// @param aPLBD	IN 	GGTRCC_PLBowlingDataO from which to add data
+//
+//------------------------------------------------------------
+function GGTRCC_PLBowlingDataO___Add (aPLBD)
+{
+	//
+	// Note that we are storing the member data as strings, not integers
+	//
+	this.mOvers		= TRCCUtils_OversAdd ((this.mOvers - 0), (aPLBD.mOvers - 0)) + "";
+	this.mMaidens	= ((this.mMaidens - 0) + (aPLBD.mMaidens - 0)) + "";
+	this.mRuns		= ((this.mRuns    - 0) + (aPLBD.mRuns    - 0)) + "";
+	this.mWickets	= ((this.mWickets - 0) + (aPLBD.mWickets - 0)) + "";
 }
 
 
@@ -389,9 +417,6 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 	{
 		this.mGames				= aPsBowlingXML.getAttribute ("games");
 		this.mFivePlus			= aPsBowlingXML.getAttribute ("fiveplus");
-		this.mBowlingData		= null;
-		this.mBowlingBest		= null;
-		this.mBowlingHighlights	= new Array();		
 		
 		//
 		// Parse the summary bowling data
@@ -423,6 +448,10 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 			this.mBowlingBest = new GGTRCC_PLBowlingBestO (lBowlingBest[0]);
 		}
 	}
+	else
+	{
+		this.mBowlingData = new GGTRCC_PLBowlingDataO (null);
+	}
 	
 	//
 	// Methods
@@ -434,7 +463,13 @@ function GGTRCC_PLBowlingO (aPsBowlingXML)
 
 function GGTRCC_PLBowlingO___Add (aPBO)
 {
+	this.mGames		= (this.mGames    - 0) + (aPBO.mGames    - 0) + "";
+	this.mFivePlus	= (this.mFivePlus - 0) + (aPBO.mFivePlus - 0) + "";
 	
+	if (null != this.mBowlingData)
+	{
+		this.mBowlingData.Add (aPBO.mBowlingData);
+	}
 }
 
 
