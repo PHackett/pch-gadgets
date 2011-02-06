@@ -674,6 +674,10 @@ function GGTRCC_PlayerLifetimeO___playerHTML()
 	
 	lRet += "<br><hr><br>";
 	
+	lRet += "mLifetimeBattingTotals: " + this.mBattingStats1969to1997.HTML();
+	
+	lRet += "<br><hr><br>";
+	
 	lRet += "mLifetimeBattingTotals: " + this.mLifetimeBattingTotals.HTML();
 	
 	return (lRet);
