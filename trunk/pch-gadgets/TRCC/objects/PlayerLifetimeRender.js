@@ -75,13 +75,13 @@ function GGTRCC_RenderBowlingTotals (aPLBO)
 
 	lRet +=   "<tr>";
 	lRet +=     "<td>&nbsp;</td>";
-	lRet +=     "<td align='right'>" + GGUtils_numToString ((aPLBO.mOvers - 0), 1)							+ "</td>";
-	lRet +=     "<td align='right'>" + aPLBO.mMaidens														+ "</td>";
-	lRet +=     "<td align='right'>" + aPLBO.mRuns															+ "</td>";
-	lRet +=     "<td align='right'>" + aPLBO.mWickets														+ "</td>";
-	lRet +=     "<td align='right'>" + TRCCUtils_RunsPerOver ((aPLBO.mRuns - 0), (aPLBO.mOvers - 0))		+ "</td>";		
-	lRet +=     "<td align='right'>" + TRCCUtils_getStrikeRate ((aPLBO.mWickets - 0), (aPLBO.mOvers - 0))	+ "</td>";		
-	lRet +=     "<td align='right'>" + TRCCUtils_getHTMLAverage ((aPLBO.mWickets - 0), (aPLBO.mRuns - 0))	+ "</td>";
+	lRet +=     "<td align='right'>" + GGUtils_numToString ((aPLBO.mBowlingData.mOvers - 0), 1)													+ "</td>";
+	lRet +=     "<td align='right'>" + aPLBO.mBowlingData.mMaidens																	+ "</td>";
+	lRet +=     "<td align='right'>" + aPLBO.mBowlingData.mRuns																		+ "</td>";
+	lRet +=     "<td align='right'>" + aPLBO.mBowlingData.mWickets																	+ "</td>";
+	lRet +=     "<td align='right'>" + TRCCUtils_RunsPerOver ((aPLBO.mBowlingData.mRuns - 0), (aPLBO.mBowlingData.mOvers - 0))		+ "</td>";		
+	lRet +=     "<td align='right'>" + TRCCUtils_getStrikeRate ((aPLBO.mBowlingData.mWickets - 0), (aPLBO.mBowlingData.mOvers - 0))	+ "</td>";		
+	lRet +=     "<td align='right'>" + TRCCUtils_getHTMLAverage ((aPLBO.mBowlingData.mWickets - 0), (aPLBO.mBowlingData.mRuns - 0))	+ "</td>";
 	lRet +=     "<td>&nbsp;</td>";
 	lRet +=   "</tr>";
 
