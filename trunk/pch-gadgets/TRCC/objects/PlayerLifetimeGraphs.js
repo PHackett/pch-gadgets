@@ -78,7 +78,7 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 				lRet[lRet.length] = new GGTRCC_PlayerLTGraph_BattingItemO (j, 0, -1);
 			}
 			
-			lPrevItem = lRet[lRet.length] = lTmp[i];
+			lPrevItem = lRet[lRet.length] = lTmpA[i];
 		}
 	}
 	
