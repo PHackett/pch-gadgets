@@ -71,6 +71,7 @@
 					var lHTML = "";
 					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
+					lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
 					lHTML += GGTRCC_RenderBattingByYear (lPLS);
 					lHTML += GGTRCC_RenderBattingHighlightsByYear(lPLS);
 					lHTML += GGTRCC_RenderBattingBestByYear(lPLS);
