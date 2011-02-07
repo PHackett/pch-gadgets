@@ -97,6 +97,7 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 		// that david Downes compiled for the years 1969 to 1997
 		// as these span a far wider time
 		//
+lRet[lRet.length] = new GGTRCC_PlayerLTGraph_ItemO (2019, 99, -1);
 		if (null != aPLSO.mBattingStats1969to1997)
 		{
 lRet[lRet.length] = new GGTRCC_PlayerLTGraph_ItemO (2020, aPLSO.mBattingStats1969to1997.mRuns, -1);
