@@ -105,7 +105,7 @@ lRet[lRet.length] = new GGTRCC_PlayerLTGraph_ItemO (2020, aPLSO.mBattingStats196
 			
 			for (var i=0 ; i<lRet.length ; ++i)
 			{
-				if (lRet[i].mYear == 97)
+				if (lRet[i].mYear == 1997)
 				{
 					lAdjust = (aPLSO.mBattingStats1969to1997.mRuns - 0) - lRet[i].mOne;
 					
