@@ -117,7 +117,7 @@ lRet[0].mOne = lAdjust;
 			{
 				for (var i=0 ; i<lRet.length ; ++i)
 				{
-					lRet[i].mOne += lAdjust;
+					lRet[i].mOne = lRet[i].mOne + lAdjust;
 				}
 			}
 		}
