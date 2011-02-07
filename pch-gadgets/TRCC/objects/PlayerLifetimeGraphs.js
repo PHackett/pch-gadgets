@@ -107,7 +107,8 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 				{
 					lAdjust = (aPLSO.mBattingStats1969to1997.mRuns - 0) - lRet[i].mOne;
 					
-lRet[0].mOne = lAdjust;
+lRet[lRet.length] = new GGTRCC_PlayerLTGraph_ItemO (2020, aPLSO.mBattingStats1969to1997.mRuns, -1);
+lRet[lRet.length] = new GGTRCC_PlayerLTGraph_ItemO (2021, lRet[i].mOne, -1);
 					
 					break;
 				}
