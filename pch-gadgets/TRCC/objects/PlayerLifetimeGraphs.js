@@ -43,7 +43,7 @@ function PLTG___getWithSep (aData, aIdx, aSep)
 			lRet += aSep;
 		}
 		
-		lRet += aData[i].mValues[aIdx];
+		lRet += aData[i].mValuesA[aIdx];
 	}
 	
 	return (lRet);
@@ -109,7 +109,7 @@ function PLTG___getLargestValue (aData, aIdx)
 	
 	for (i=0 ; i<aData.length ; ++i)
 	{
-		var lVal = aData[i].mValues[aIdx] - 0;
+		var lVal = aData[i].mValuesA[aIdx] - 0;
 		
 		if (lVal > lHighestValue)
 		{
@@ -139,17 +139,17 @@ function PLTG___scaleArray (aData, aIdx, aSteps, aUpper)
 	
 		for (i=0 ; i<aData.length ; ++i)
 		{
-			var lVal = aData[i].mValues[aIdx] - 0;
+			var lVal = aData[i].mValuesA[aIdx] - 0;
 			
 			if (0 > lVal)
 			{
-				aData[i].mValues[aIdx] = "-1";
+				aData[i].mValuesA[aIdx] = "-1";
 			}
 			else
 			{
 				lVal *= lScaleFactor;
 				
-				aData[i].mValues[aIdx] = lVal;
+				aData[i].mValuesA[aIdx] = lVal;
 			}
 		}
 	}
@@ -184,14 +184,14 @@ function PLTG___interpolateArray (aData, aIdx)
 {
 	for (var i=1 ; i<(aData.length-1) ; ++i)
 	{
-		if (-1 == aData[i].mValues[aIdx])
+		if (-1 == aData[i].mValuesA[aIdx])
 		{
 			//
 			// Find the next non-missing data
 			//			
 			for (j=i+1 ; j<aData.length ; ++j)
 			{
-				if (-1 != aData[j].mValues[aIdx])
+				if (-1 != aData[j].mValuesA[aIdx])
 				{
 					break;
 				}
@@ -199,10 +199,10 @@ function PLTG___interpolateArray (aData, aIdx)
 			
 			if (j < aData.length)
 			{
-				var lD=((aData[j].mValues[aIdx] - 0) - (aData[i-1].mValues[aIdx] - 0)) / (j - i + 1);
-				var lInterpolatedVal=(aData[i-1].mValues[aIdx] - 0) + lD - 0;
+				var lD=((aData[j].mValuesA[aIdx] - 0) - (aData[i-1].mValuesA[aIdx] - 0)) / (j - i + 1);
+				var lInterpolatedVal=(aData[i-1].mValuesA[aIdx] - 0) + lD - 0;
 				
-				aData[i].mValues[aIdx] = lInterpolatedVal;
+				aData[i].mValuesA[aIdx] = lInterpolatedVal;
 			}
 		}
 	}
