@@ -71,6 +71,7 @@
 					//
 					var lHTML = "";
 					var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
+					var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (lPLS);
 					
 					lHTML += "lXarr.length = " + lXarr.length + "<br>";
 					
@@ -83,6 +84,7 @@
 					
 					// lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphURL (lXarr) + "<br>";
 					lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br>";
+					lHTML += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br>";
 					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
 					lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
