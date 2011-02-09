@@ -2,6 +2,8 @@
 // For the creation of graphs showing player lifetime stats
 //
 
+var gPLTG_RunsIdx = 0;
+var gPLTG_AvgIdx = 1;
 
 //
 // For sorting by date
@@ -25,11 +27,13 @@ function GGTRCC_PlayerLTGraph_ItemO (aYear, aOne, aTwo)
 	//
 	// Members
 	//
-	this.mYear	= aYear;
-	this.mOne	= aOne;
-	this.mTwo	= aTwo;
+	this.mYear							= aYear;
+	this.mValuesA						= new Array();
+	this.mValuesA[this.mValuesA.length]	= aOne;
+	this.mValuesA[this.mValuesA.length]	= aTwo;
 }
 
+// -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //
 // Make the array of GGTRCC_PlayerLTGraph_ItemO objects 
@@ -88,8 +92,9 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 		
 		for (var i=0 ; i<lRet.length ; ++i)
 		{
-			lRet[i].mOne = lRet[i].mOne + lCum;
-			lCum = lRet[i].mOne;
+			lRet[i].mValuesA[gPLTG_RunsIdx] += lCum;
+			
+			lCum = lRet[i].mValuesA[gPLTG_RunsIdx];
 		}
 		
 		//
@@ -105,21 +110,49 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 			{
 				if (lRet[i].mYear == 1997)
 				{
-					lAdjust = (aPLSO.mBattingStats1969to1997.mRuns - 0) - lRet[i].mOne;
+					lAdjust = (aPLSO.mBattingStats1969to1997.mRuns - 0) - lRet[i].mValuesA[gPLTG_RunsIdx];
 					
 					break;
 				}
 			}
 			
+			//
+			// Add o any adjustment
+			//
 			if (lAdjust > 0)
 			{
 				for (var i=0 ; i<lRet.length ; ++i)
 				{
-					lRet[i].mOne = lRet[i].mOne + lAdjust;
+					lRet[i].mValuesA[gPLTG_RunsIdx] += lAdjust;
 				}
 			}
 		}
 	}
+	
+	return (lRet);
+}
+
+// -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//
+// Make the URL for the Google Graph
+//
+function GGTRCC_PlayerLTGraph_MakeGraphURL (aTitle, aAxisLabel, aData)
+{
+	var lAmp="&amp;";
+	var lBase="http://chart.apis.google.com/chart?";
+	var lChtWidth=700;
+	var lChtHeight=200;
+	var lChtType="cht=lc";
+	var lRet=lBase;
+	
+	lRet += "chxt=x,y,r" + lAmp;
+	lRet += lChtType + lAmp;
+	lRet += "chs=" + lChtWidth + "x" + lChtHeight + lAmp;
+	lRet += "chg=0,20,1,5"  + lAmp;
+	lRet += "chco=0000ff,00ff00" + lAmp;
+	lRet += "chdl=" + aTitle[0] + "|" + aTitle[1] + lAmp;
+	
 	
 	return (lRet);
 }

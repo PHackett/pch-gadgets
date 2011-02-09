@@ -76,7 +76,7 @@
 					
 					for (var i=0 ; i<lXarr.length ; ++i)
 					{
-						lHTML += "[year " + i + "] = " + lXarr[i].mYear + ": cum runs=" + lXarr[i].mOne + "<br>";
+						lHTML += "[year " + i + "] = " + lXarr[i].mYear + ": cum runs=" + lXarr[i].mValuesA[gPLTG_RunsIdx] + "<br>";
 					}
 					
 					lHTML += "lPLS.mBattingStats1969to1997.mRuns = " + lPLS.mBattingStats1969to1997.mRuns + "<br>";
