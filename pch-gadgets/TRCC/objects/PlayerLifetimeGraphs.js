@@ -407,4 +407,18 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 }
 
 
-
+//
+// Make the URL for the Google Graph Batting stats
+//
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//
+//	@return Constructed URL for the graph
+//
+function GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData)
+{
+	var lRunsLab	= ["Cumulative runs", "Runs"];
+	var lAvgLab		= ["Average", "Avg."];
+	var lLabels = [lRunsLab, lAvgLab];
+	
+	return (GGTRCC_PlayerLTGraph_MakeGraphURL (lLabels, aData));
+}
