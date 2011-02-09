@@ -25,7 +25,15 @@ function PLTG___getYearsString (aData, aSep)
 			lRet += aSep;
 		}
 		
-		lRet += aData[i].mYear;
+		var lYear = aData[i].mYear + "";
+		
+		// Two digits only in the year
+		if (lYear.length >2)
+		{
+			lYear = lYear.slice (-2);
+		}
+		
+		lRet += lYear;
 	}
 	
 	return (lRet);
