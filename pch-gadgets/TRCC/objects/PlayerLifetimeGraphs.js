@@ -395,8 +395,8 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 	// Add in the data
 	//
 	lRet += "chxl=" + 	"0:|" + PLTG___getYearsString (aData, "|") + 
-						"|1:" + makeYAxisLabels(lTopY1, aLabels[0][1], true) + 
-						"|2:" + makeYAxisLabels(lTopY2, aLabels[1][1], false) + 
+						"|1:" + PLTG___makeYAxisLabels(lTopY1, aLabels[0][1], true) + 
+						"|2:" + PLTG___makeYAxisLabels(lTopY2, aLabels[1][1], false) + 
 						lAmp;
 						
 	lRet += "chd=t:" 	+ PLTG___getWithSep (aData, gPLTG_RunsIdx, ",") + 
