@@ -82,6 +82,7 @@
 					lHTML += "lPLS.mBattingStats1969to1997.mRuns = " + lPLS.mBattingStats1969to1997.mRuns + "<br><br>";
 					
 					lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphURL (lXarr) + "<br>";
+					lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br>";
 					
 					lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
 					lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
