@@ -51,7 +51,7 @@ function PLTG___getWithSep (aData, aIdx, aSep)
 			lRet += aSep;
 		}
 		
-		lRet += aData[i].mValuesA[aIdx];
+		lRet += GGUtils_numToString (aData[i].mValuesA[aIdx], 1);
 	}
 	
 	return (lRet);
