@@ -14,6 +14,227 @@ function Sort___ByDate (aOne, aTwo)
 }
 
 
+function PLTG___getYearsString (aData, aSep)
+{
+	var lRet="";
+
+	for (i=0 ; i<aData.length ; ++i)
+	{
+		if (0 != i)
+		{
+			lRet += aSep;
+		}
+		
+		lRet += aData[i].mYear;
+	}
+	
+	return (lRet);
+}
+
+
+function PLTG___getWithSep (aData, aIdx, aSep)
+{
+	var lRet="";
+
+	for (i=0 ; i<aData.length ; ++i)
+	{
+		if (0 != i)
+		{
+			lRet += aSep;
+		}
+		
+		lRet += aData[i].mValues[aIdx];
+	}
+	
+	return (lRet);
+}
+
+
+//
+// Get a nice round value to be the to of the graph Y axis
+//
+function PLTG___getAbovePeak (aValue)
+{
+	var lRet=0;
+	var lValue=aValue-0;
+
+	if (lValue < 5)
+	{
+		lRet = 5;
+	}
+	else if (lValue < 10)
+	{
+		lRet = 10;
+	}
+	else if (lValue < 100)
+	{
+		lRet = (lValue + 5) / 10;
+		lRet = Math.round (lRet);
+		lRet *= 10;
+	}
+	else if (lValue < 1000)
+	{
+		lRet = (lValue + 50) / 100;
+		lRet = Math.round (lRet);
+		lRet *= 100;
+	}
+	else if (lValue < 10000)
+	{
+		lRet = (lValue + 500) / 1000;
+		lRet = Math.round (lRet);
+		lRet *= 1000;
+	}
+	else if (lValue < 100000)
+	{
+		lRet = (lValue + 5000) / 10000;
+		lRet = Math.round (lRet);
+		lRet *= 10000;
+	}
+	else
+	{
+		lRet = lValue;
+	}
+
+	return (lRet);
+}
+
+
+//
+// Get the largest value in the array of GGTRCC_PlayerLTGraph_ItemO
+// Onkects at the given index
+//
+function PLTG___getLargestValue (aData, aIdx)
+{
+	var lHighestValue=0;
+	
+	for (i=0 ; i<aData.length ; ++i)
+	{
+		var lVal = aData[i].mValues[aIdx] - 0;
+		
+		if (lVal > lHighestValue)
+		{
+			lHighestValue = lVal;
+		}
+	}
+
+	return (lHighestValue);
+}
+
+
+//
+//
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//	@param	aIdx	IN	Index of values to scale
+//	@param	aSteps	IN	Number of steps in scale
+//	@param	aUpper	IN	Upper Y value on graph
+//
+function PLTG___scaleArray (aData, aIdx, aSteps, aUpper)
+{
+	var lHighestValue=PLTG___getLargestValue (aData, aIdx);
+	var lPrecision=1;
+	
+	if (0 != lHighestValue)
+	{
+		var lScaleFactor=(aSteps/lHighestValue) * (lHighestValue/aUpper);
+	
+		for (i=0 ; i<aData.length ; ++i)
+		{
+			var lVal = aData[i].mValues[aIdx] - 0;
+			
+			if (0 > lVal)
+			{
+				aData[i].mValues[aIdx] = "-1";
+			}
+			else
+			{
+				lVal *= lScaleFactor;
+				
+				aData[i].mValues[aIdx] = lVal;
+			}
+		}
+	}
+}
+
+
+//
+//	Scale the values in the array aData at aIdx
+//
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//	@param	aIdx	IN	Index of values to scale
+//
+function PLTG___scaleYValues (aData, aIdx)
+{
+	var lTopY=PLTG___getAbovePeak (PLTG___getLargestValue (aData, aIdx));
+
+	//
+	// Scale the array
+	//
+	PLTG___scaleArray (aData, aIdx, 100, lTopY);
+	
+	return (lTopY);
+}
+
+
+//
+// For some years there is no data. In that case, the array value
+// will be -1. However, this kind of braks the line graph up in an
+// ugly manner. So interpolate a value for these missing data.
+//
+function PLTG___interpolateArray (aData, aIdx)
+{
+	for (var i=1 ; i<(aData.length-1) ; ++i)
+	{
+		if (-1 == aData[i].mValues[aIdx])
+		{
+			//
+			// Find the next non-missing data
+			//			
+			for (j=i+1 ; j<aData.length ; ++j)
+			{
+				if (-1 != aData[j].mValues[aIdx])
+				{
+					break;
+				}
+			}
+			
+			if (j < aData.length)
+			{
+				var lD=((aData[j].mValues[aIdx] - 0) - (aData[i-1].mValues[aIdx] - 0)) / (j - i + 1);
+				var lInterpolatedVal=(aData[i-1].mValues[aIdx] - 0) + lD - 0;
+				
+				aData[i].mValues[aIdx] = lInterpolatedVal;
+			}
+		}
+	}
+}
+
+
+function PLTG___makeYAxisLabels (aMax, aLabel, aLabelToLeft)
+{
+	var lRet="";
+	var lNumLabels=5; // Actually one more that this
+
+	for (var i=0 ; i<=lNumLabels ; ++i)
+	{
+		lRet += "|";
+		
+		if (aLabelToLeft && (lNumLabels == i))
+		{
+			lRet += aLabel + " ";
+		}
+		
+		lRet += (aMax * i) / lNumLabels;
+
+		if (!aLabelToLeft && (lNumLabels == i))
+		{
+			lRet += " " + aLabel;
+		}
+	}
+	
+	return (lRet);
+}
+
+
 //
 // This object represents an entry for a single year of data on the graph
 // we shall be drawing for the Player Lifetime batting performance
@@ -137,7 +358,12 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 //
 // Make the URL for the Google Graph
 //
-function GGTRCC_PlayerLTGraph_MakeGraphURL (aTitle, aAxisLabel, aData)
+//	@param	aLabels	IN	Labels for axes & title - An array of arrays
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//
+//	@return Constructed URL for the graph
+//
+function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 {
 	var lAmp="&amp;";
 	var lBase="http://chart.apis.google.com/chart?";
@@ -151,8 +377,34 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aTitle, aAxisLabel, aData)
 	lRet += "chs=" + lChtWidth + "x" + lChtHeight + lAmp;
 	lRet += "chg=0,20,1,5"  + lAmp;
 	lRet += "chco=0000ff,00ff00" + lAmp;
-	lRet += "chdl=" + aTitle[0] + "|" + aTitle[1] + lAmp;
+	lRet += "chdl=" + aLabels[0][0] + "|" + aLabels[1][0] + lAmp;
 	
+	//
+	// Scale the array & get the top Y value
+	//
+	var lTopY1=PLTG___scaleYValues (aData, gPLTG_RunsIdx);
+	var lTopY2=PLTG___scaleYValues (aData, gPLTG_AvgIdx);
+	
+	//
+	// For line graphs, interpolate the data
+	//
+	PLTG___interpolateArray (aData, gPLTG_RunsIdx);
+	PLTG___interpolateArray (aData, gPLTG_AvgIdx);
+	
+		//
+	// Add in the data
+	//
+	lRet += "chxl=" + 	"0:|" + PLTG___getYearsString (aData, "|") + 
+						"|1:" + makeYAxisLabels(lTopY1, aLabels[0][1], true) + 
+						"|2:" + makeYAxisLabels(lTopY2, aLabels[1][1], false) + 
+						lAmp;
+						
+	lRet += "chd=t:" 	+ PLTG___getWithSep (aData, gPLTG_RunsIdx, ",") + 
+						"|" 
+						+ PLTG___getWithSep (aData, gPLTG_AvgIdx, ",");
 	
 	return (lRet);
 }
+
+
+
