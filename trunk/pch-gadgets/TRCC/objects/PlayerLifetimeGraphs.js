@@ -3,7 +3,9 @@
 //
 
 var gPLTG_RunsIdx = 0;
-var gPLTG_AvgIdx = 1;
+var gPLTG_WktsIdx = 0;
+var gPLTG_AvgIdx  = 1;
+
 
 //
 // For sorting by date
@@ -346,7 +348,7 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 			}
 			
 			//
-			// Add o any adjustment
+			// Add on any adjustment
 			//
 			if (lAdjust > 0)
 			{
@@ -361,11 +363,106 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 	return (lRet);
 }
 
+
+//
+// Make the array of GGTRCC_PlayerLTGraph_ItemO objects 
+// from the GGTRCC_PlayerLifetimeO for bowling
+//
+function GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO)
+{
+	var lRet  = new Array();
+	var lTmpA = new Array();
+	
+	//
+	// Down all the years creating the GGTRCC_PlayerLTGraph_ItemO objects
+	//
+	for (var i=0 ; i<aPLSO.mYears.length ; ++i)
+	{
+		if (null != aPLSO.mYears[i].mBowling)
+		{
+			lTmpA[lTmpA.length] = new GGTRCC_PlayerLTGraph_ItemO ((aPLSO.mYears[i].mYear - 0),
+																  (aPLSO.mYears[i].mBowling.mBowlingData.mWickets - 0),
+																  TRCCUtils_getAverage ((aPLSO.mYears[i].mBowling.mBowlingData.mWickets	- 0), 
+																  						(aPLSO.mYears[i].mBowling.mBowlingData.mRuns	- 0)));
+		}
+	}
+	
+	//
+	// Did we get anything?
+	//
+	if (0 != lTmpA.length)
+	{
+		//
+		// Sort the array ascending
+		//
+		lTmpA.sort (Sort___ByDate);
+		
+		//
+		// Go through the array, transferring to the return array, filling in any gaps in the years
+		//
+		lRet[0] = lTmpA[0];
+		var lPrevItem = lRet[0];
+		
+		for (var i=1 ; i<lTmpA.length ; ++i)
+		{
+			for (var j=(lPrevItem.mYear + 1) ; j<lTmpA[i].mYear ; ++j)
+			{
+				lRet[lRet.length] = new GGTRCC_PlayerLTGraph_ItemO (j, 0, -1);
+			}
+			
+			lPrevItem = lRet[lRet.length] = lTmpA[i];
+		}
+		
+		//
+		// Turn the "wickets" into "cumulative wickets"
+		//
+		var lCum=0;
+		
+		for (var i=0 ; i<lRet.length ; ++i)
+		{
+			lRet[i].mValuesA[gPLTG_WktsIdx] += lCum;
+			
+			lCum = lRet[i].mValuesA[gPLTG_WktsIdx];
+		}
+		
+		//
+		// Adjust the totals to take account of the statistice 
+		// that david Downes compiled for the years 1969 to 1997
+		// as these span a far wider time
+		//
+		if (null != aPLSO.mBowlingStats1969to1997)
+		{
+			var lAdjust=-1;
+			
+			for (var i=0 ; i<lRet.length ; ++i)
+			{
+				if (lRet[i].mYear == 1997)
+				{
+					lAdjust = (aPLSO.mBowlingStats1969to1997.mBowlingData.mWickets - 0) - lRet[i].mValuesA[gPLTG_WktsIdx];
+					
+					break;
+				}
+			}
+			
+			//
+			// Add on any adjustment
+			//
+			if (lAdjust > 0)
+			{
+				for (var i=0 ; i<lRet.length ; ++i)
+				{
+					lRet[i].mValuesA[gPLTG_WktsIdx] += lAdjust;
+				}
+			}
+		}
+	}
+	
+	return (lRet);
+}
+
+
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-var dTopRuns=0;
-var dTopRunsX=0;
-var dTopAvg=0;
 
 
 //
@@ -395,11 +492,9 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 	//
 	// Scale the array & get the top Y value
 	//
-dTopRunsX=PLTG___getLargestValue (aData, gPLTG_RunsIdx);
 	var lTopY1=PLTG___scaleYValues (aData, gPLTG_RunsIdx);
 	var lTopY2=PLTG___scaleYValues (aData, gPLTG_AvgIdx);
-dTopRuns=lTopY1;
-dTopAvg=lTopY2;
+
 	//
 	// For line graphs, interpolate the data
 	//
@@ -449,5 +544,36 @@ function GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData)
 function GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (aData)
 {
 	
-	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\"><br>" + "dTopRunsX=" + dTopRunsX +"<br> dTopAvg=" + dTopAvg + "<br>");
+	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\">");
+}
+
+
+//
+// Make the URL for the Google Graph Bowling stats
+//
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//
+//	@return Constructed URL for the graph
+//
+function GGTRCC_PlayerLTGraph_MakeBowlingGraphURL (aData)
+{
+	var lRunsLab	= ["Cumulative wickets", "Wkts"];
+	var lAvgLab		= ["Average", "Avg."];
+	var lLabels = [lRunsLab, lAvgLab];
+	
+	return (GGTRCC_PlayerLTGraph_MakeGraphURL (lLabels, aData));
+}
+
+
+//
+// Make the URL for the Google Graph Bowling stats
+//
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//
+//	@return Constructed URL for the graph
+//
+function GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (aData)
+{
+	
+	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBowlingGraphURL (aData) + "\">");
 }
