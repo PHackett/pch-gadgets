@@ -430,3 +430,17 @@ function GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData)
 	
 	return (GGTRCC_PlayerLTGraph_MakeGraphURL (lLabels, aData));
 }
+
+
+//
+// Make the URL for the Google Graph Batting stats
+//
+//	@param	aData	IN	Array of GGTRCC_PlayerLTGraph_ItemO objects
+//
+//	@return Constructed URL for the graph
+//
+function GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (aData)
+{
+	
+	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\">");
+}
