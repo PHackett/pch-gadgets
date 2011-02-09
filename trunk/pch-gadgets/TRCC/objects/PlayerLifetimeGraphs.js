@@ -364,6 +364,7 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 var dTopRuns=0;
+var dTopRunsX=0;
 var dTopAvg=0;
 
 
@@ -394,6 +395,7 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 	//
 	// Scale the array & get the top Y value
 	//
+dTopRunsX=PLTG___getLargestValue (aData, gPLTG_RunsIdx);
 	var lTopY1=PLTG___scaleYValues (aData, gPLTG_RunsIdx);
 	var lTopY2=PLTG___scaleYValues (aData, gPLTG_AvgIdx);
 dTopRuns=lTopY1;
@@ -447,5 +449,5 @@ function GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData)
 function GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (aData)
 {
 	
-	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\"><br>" + "dTopRuns=" + dTopRuns +"<br> dTopAvg=" + dTopAvg + "<br>");
+	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\"><br>" + "dTopRunsX=" + dTopRunsX +"<br> dTopAvg=" + dTopAvg + "<br>");
 }
