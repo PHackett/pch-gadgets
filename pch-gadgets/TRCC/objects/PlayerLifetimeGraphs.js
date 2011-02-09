@@ -363,6 +363,9 @@ function GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO)
 
 // -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+var dTopRuns=0;
+
+
 //
 // Make the URL for the Google Graph
 //
@@ -392,7 +395,7 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 	//
 	var lTopY1=PLTG___scaleYValues (aData, gPLTG_RunsIdx);
 	var lTopY2=PLTG___scaleYValues (aData, gPLTG_AvgIdx);
-	
+dTopRuns=lTopY1;
 	//
 	// For line graphs, interpolate the data
 	//
@@ -442,5 +445,5 @@ function GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData)
 function GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (aData)
 {
 	
-	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\">");
+	return ("<img src=\"" + GGTRCC_PlayerLTGraph_MakeBattingGraphURL (aData) + "\"><br>" + "dTopRuns=" + dTopRuns +"<br>");
 }
