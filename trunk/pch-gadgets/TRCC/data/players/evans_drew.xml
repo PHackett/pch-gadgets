@@ -1,0 +1,67 @@
+<PlayerStats name="Drew Evans" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 21 00:00:00 UTC+0100 2002" oppo="Moulsford"/>
+    </FirstRecordedGame>
+
+    <YearData year="2005">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="12" maidens="0" runs="75" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 3 00:00:00 UTC+0100 2005" oppo="Teyford Comets FC"/>
+                <BowlingData overs="3.0" maidens="0" runs="12" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="5" runs="21" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 9 00:00:00 UTC+0100 2005" oppo="Shinfield"/>
+                <BattingData runs="12" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2004">
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 24 00:00:00 UTC+0100 2004" oppo="Crown Wood"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2003">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="29.4" maidens="1" runs="158" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 22 00:00:00 UTC+0100 2003" oppo="Sonning Common"/>
+                <BowlingData overs="7.0" maidens="0" runs="15" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="35" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Apr 27 00:00:00 UTC+0100 2003" oppo="Crowthorne"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2002">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="20.3" maidens="3" runs="90" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 11 00:00:00 UTC+0100 2002" oppo="Hambleden"/>
+                <BowlingData overs="3.0" maidens="2" runs="5" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="83" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 29 00:00:00 UTC+0100 2002" oppo="Amersham Hill"/>
+                <BattingData runs="33" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

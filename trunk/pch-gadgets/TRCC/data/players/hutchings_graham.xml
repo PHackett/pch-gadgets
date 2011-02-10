@@ -1,0 +1,20 @@
+<PlayerStats name="Graham Hutchings" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 26 00:00:00 UTC+0100 1987" oppo="Coppid Hall"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Batting innings="1" runs="6" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Apr 26 00:00:00 UTC+0100 1987" oppo="Coppid Hall"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="1" runs="6" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

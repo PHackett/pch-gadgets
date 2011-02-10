@@ -1,0 +1,81 @@
+<PlayerStats name="Andy Abrahams" generated="Thu, 10 Feb 2011 20:35:06 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 27 00:00:00 UTC+0100 1985" oppo="Purley"/>
+    </FirstRecordedGame>
+
+    <YearData year="1990">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="6" maidens="2" runs="18" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun May 20 00:00:00 UTC+0100 1990" oppo="Warfield"/>
+                <BowlingData overs="6.0" maidens="2" runs="18" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="8" maidens="0" runs="25" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 12 00:00:00 UTC+0100 1987" oppo="Theale"/>
+                <BowlingData overs="8.0" maidens="0" runs="25" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="51" notouts="1" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 12 00:00:00 UTC+0100 1987" oppo="Theale"/>
+                <BattingData runs="51" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 12 00:00:00 UTC+0100 1987" oppo="Theale"/>
+                <BattingData runs="51" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="10" maidens="3" runs="17" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 1986" oppo="Cranbourne"/>
+                <BowlingData overs="10.0" maidens="3" runs="17" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 1986" oppo="Cranbourne"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="60" maidens="11" runs="149" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 7 00:00:00 UTC+0100 1985" oppo="White Waltham 2nds"/>
+                <BowlingData overs="15.0" maidens="4" runs="27" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="53" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 17 00:00:00 UTC+0100 1985" oppo="Highmoor"/>
+                <BattingData runs="23" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="25" runs="489" notouts="3" hundreds="0" fifties="2" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="169" maidens="34" runs="499" wickets="20"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

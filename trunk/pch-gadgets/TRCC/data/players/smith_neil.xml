@@ -1,0 +1,33 @@
+<PlayerStats name="Neil Smith" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 28 00:00:00 UTC+0100 1981" oppo="GWR"/>
+    </FirstRecordedGame>
+
+    <YearData year="1981">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="52" maidens="7" runs="147" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 1981" oppo="South Harrow"/>
+                <BowlingData overs="12.0" maidens="2" runs="30" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="15" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 28 00:00:00 UTC+0100 1981" oppo="GWR"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="4" runs="21" notouts="2" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="75" maidens="14" runs="184" wickets="14"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

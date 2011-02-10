@@ -1,0 +1,16 @@
+<PlayerStats name="J Davies" generated="Thu, 10 Feb 2011 20:35:08 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1998" oppo="Embrook"/>
+    </FirstRecordedGame>
+
+    <YearData year="1998">
+        <Batting innings="1" runs="29" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1998" oppo="Embrook"/>
+                <BattingData runs="29" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

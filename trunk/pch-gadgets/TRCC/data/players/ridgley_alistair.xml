@@ -1,0 +1,16 @@
+<PlayerStats name="Alistair Ridgley" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 9 00:00:00 UTC+0100 2009" oppo="Reading Lawers"/>
+    </FirstRecordedGame>
+
+    <YearData year="2009">
+        <Batting innings="3" runs="31" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 2009" oppo="Binfield"/>
+                <BattingData runs="11" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

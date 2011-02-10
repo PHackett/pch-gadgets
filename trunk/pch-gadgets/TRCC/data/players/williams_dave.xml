@@ -1,0 +1,41 @@
+<PlayerStats name="Dave Williams" generated="Thu, 10 Feb 2011 20:35:18 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1980" oppo="Sutton Traders"/>
+    </FirstRecordedGame>
+
+    <YearData year="1980">
+        <Bowling games="18" fiveplus="3">
+            <BowlingData overs="192.5" maidens="47" runs="483" wickets="41"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 14 00:00:00 UTC+0100 1980" oppo="Iver"/>
+                <BowlingData overs="14.0" maidens="7" runs="18" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 1980" oppo="John Hampden"/>
+                <BowlingData overs="13.0" maidens="3" runs="20" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Sep 14 00:00:00 UTC+0100 1980" oppo="Iver"/>
+                <BowlingData overs="14.0" maidens="7" runs="18" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 1980" oppo="Readingensians"/>
+                <BowlingData overs="23.4" maidens="7" runs="42" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="18" runs="187" notouts="8" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun May 18 00:00:00 UTC+0100 1980" oppo="Warfield"/>
+                <BattingData runs="34" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="237" maidens="62" runs="590" wickets="46"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

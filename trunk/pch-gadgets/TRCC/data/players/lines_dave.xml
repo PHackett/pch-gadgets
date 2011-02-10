@@ -1,0 +1,20 @@
+<PlayerStats name="Dave Lines" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 23 00:00:00 UTC+0100 1988" oppo="Frieth"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="3" runs="42" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Apr 23 00:00:00 UTC+0100 1988" oppo="Frieth"/>
+                <BattingData runs="18" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="4" runs="46" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

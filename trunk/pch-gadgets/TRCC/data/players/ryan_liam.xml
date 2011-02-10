@@ -1,0 +1,56 @@
+<PlayerStats name="Liam Ryan" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 17 00:00:00 UTC+0100 1992" oppo="Warfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="1996">
+        <Batting innings="6" runs="19" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 1996" oppo="Kiwis"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1995">
+        <Batting innings="3" runs="26" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 14 00:00:00 UTC+0100 1995" oppo="Cookham Dean"/>
+                <BattingData runs="16" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1994">
+        <Batting innings="2" runs="6" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Thu May 5 00:00:00 UTC+0100 1994" oppo="Warfield"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1993">
+        <Batting innings="9" runs="19" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Aug 28 00:00:00 UTC+0100 1993" oppo="Failand and Portbury"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1992">
+        <Batting innings="4" runs="19" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 9 00:00:00 UTC+0100 1992" oppo="BCS"/>
+                <BattingData runs="18" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="24" runs="89" notouts="4" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

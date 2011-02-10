@@ -1,0 +1,132 @@
+<PlayerStats name="Nathan Eddy" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 6 00:00:00 UTC+0100 2006" oppo="Sonning"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Batting innings="1" runs="59" notouts="0" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 3 00:00:00 UTC+0100 2010" oppo="Sandhurst"/>
+                <BattingData runs="59" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 3 00:00:00 UTC+0100 2010" oppo="Sandhurst"/>
+                <BattingData runs="59" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Batting innings="1" runs="69" notouts="0" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 2009" oppo="West Reading 2"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 2009" oppo="West Reading 2"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="85.4" maidens="16" runs="284" wickets="19"/>
+            <BowlingBest>
+                <MatchId date="Sat May 24 00:00:00 UTC+0100 2008" oppo="Sulhampstead 3"/>
+                <BowlingData overs="13.0" maidens="6" runs="20" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="16" runs="774" notouts="4" hundreds="3" fifties="4" ducks="2">
+            <BattingBest>
+                <MatchId date="Wed Jul 16 00:00:00 UTC+0100 2008" oppo="Farley Hill"/>
+                <BattingData runs="143" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 24 00:00:00 UTC+0100 2008" oppo="Monmouth"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 2008" oppo="Goring 2"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 14 00:00:00 UTC+0100 2008" oppo="Knowl Hill"/>
+                <BattingData runs="123" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 28 00:00:00 UTC+0100 2008" oppo="Shinfield"/>
+                <BattingData runs="105" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Wed Jul 16 00:00:00 UTC+0100 2008" oppo="Farley Hill"/>
+                <BattingData runs="143" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 2008" oppo="Knowl Hill"/>
+                <BattingData runs="92" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 23 00:00:00 UTC+0100 2008" oppo="GandL"/>
+                <BattingData runs="67" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="50" maidens="17" runs="123" wickets="12"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 23 00:00:00 UTC+0100 2007" oppo="Goring 2"/>
+                <BowlingData overs="5.0" maidens="1" runs="6" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="12" runs="595" notouts="3" hundreds="2" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 18 00:00:00 UTC+0100 2007" oppo="Welford Park"/>
+                <BattingData runs="204" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 9 00:00:00 UTC+0100 2007" oppo="Hawley"/>
+                <BattingData runs="79" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 7 00:00:00 UTC+0100 2007" oppo="Sonning"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2007" oppo="Hawley"/>
+                <BattingData runs="151" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 18 00:00:00 UTC+0100 2007" oppo="Welford Park"/>
+                <BattingData runs="204" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Bowling games="5" fiveplus="1">
+            <BowlingData overs="45.5" maidens="7" runs="154" wickets="15"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 29 00:00:00 UTC+0100 2006" oppo="Purley on Thames"/>
+                <BowlingData overs="13.1" maidens="4" runs="26" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Jul 29 00:00:00 UTC+0100 2006" oppo="Purley on Thames"/>
+                <BowlingData overs="13.1" maidens="4" runs="26" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="6" runs="84" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 8 00:00:00 UTC+0100 2006" oppo="South East Reading"/>
+                <BattingData runs="29" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

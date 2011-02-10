@@ -1,0 +1,121 @@
+<PlayerStats name="Adam Smith" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 7 00:00:00 UTC+0100 2005" oppo="West Reading"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="65" maidens="6" runs="242" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sun May 23 00:00:00 UTC+0100 2010" oppo="Freith"/>
+                <BowlingData overs="14.0" maidens="2" runs="25" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="20" runs="302" notouts="3" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 1 00:00:00 UTC+0100 2010" oppo="Sandhurst"/>
+                <BattingData runs="42" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Bowling games="9" fiveplus="0">
+            <BowlingData overs="59" maidens="8" runs="252" wickets="13"/>
+            <BowlingBest>
+                <MatchId date="Sun May 24 00:00:00 UTC+0100 2009" oppo="Big Hammer"/>
+                <BowlingData overs="13.0" maidens="1" runs="41" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="28" runs="352" notouts="8" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 2009" oppo="Bledlow Ridge"/>
+                <BattingData runs="38" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="10" maidens="0" runs="39" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Wed Jul 30 00:00:00 UTC+0100 2008" oppo="Farley Hill (20-20)"/>
+                <BowlingData overs="4.0" maidens="0" runs="16" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="22" runs="414" notouts="3" hundreds="0" fifties="2" ducks="3">
+            <BattingBest>
+                <MatchId date="Wed Jul 30 00:00:00 UTC+0100 2008" oppo="Farley Hill (20-20)"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Wed Jul 30 00:00:00 UTC+0100 2008" oppo="Farley Hill (20-20)"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 2008" oppo="Goring 2"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="9" maidens="1" runs="49" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 2 00:00:00 UTC+0100 2007" oppo="Binfield"/>
+                <BowlingData overs="6.0" maidens="1" runs="31" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="13" runs="85" notouts="2" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 9 00:00:00 UTC+0100 2007" oppo="Hawley"/>
+                <BattingData runs="24" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="21" maidens="0" runs="103" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 5 00:00:00 UTC+0100 2006" oppo="Welford Park"/>
+                <BowlingData overs="5.0" maidens="0" runs="35" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="234" notouts="2" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2006" oppo="Sonning"/>
+                <BattingData runs="66" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2006" oppo="Sonning"/>
+                <BattingData runs="66" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2005">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="45.2" maidens="9" runs="168" wickets="9"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 7 00:00:00 UTC+0100 2005" oppo="Hambleden"/>
+                <BowlingData overs="8.0" maidens="2" runs="18" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="101" notouts="1" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 7 00:00:00 UTC+0100 2005" oppo="West Reading"/>
+                <BattingData runs="34" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

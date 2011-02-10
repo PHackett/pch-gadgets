@@ -1,0 +1,64 @@
+<PlayerStats name="Bill Hatch" generated="Thu, 10 Feb 2011 20:35:12 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 11 00:00:00 UTC+0100 1985" oppo="Bradfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="5" maidens="0" runs="23" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 27 00:00:00 UTC+0100 1987" oppo="Daily Mail"/>
+                <BowlingData overs="5.0" maidens="0" runs="23" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <YearData year="1986">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="67" maidens="13" runs="206" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sun May 4 00:00:00 UTC+0100 1986" oppo="Odney"/>
+                <BowlingData overs="14.0" maidens="0" runs="28" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="10" runs="60" notouts="4" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 3 00:00:00 UTC+0100 1986" oppo="Wallingford"/>
+                <BattingData runs="18" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="78" maidens="14" runs="202" wickets="15"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 24 00:00:00 UTC+0100 1985" oppo="Aldermaston"/>
+                <BowlingData overs="7.0" maidens="1" runs="10" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="15" runs="230" notouts="2" hundreds="0" fifties="1" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 25 00:00:00 UTC+0100 1985" oppo="Uxbridge Torchbearers"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 25 00:00:00 UTC+0100 1985" oppo="Uxbridge Torchbearers"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="55" runs="667" notouts="13" hundreds="0" fifties="2" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="251" maidens="42" runs="720" wickets="62"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

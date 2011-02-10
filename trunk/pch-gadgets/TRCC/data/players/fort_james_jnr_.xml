@@ -1,0 +1,16 @@
+<PlayerStats name="James(Jnr) Fort" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 12 00:00:00 UTC+0100 2007" oppo="Reading Lawyers"/>
+    </FirstRecordedGame>
+
+    <YearData year="2007">
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 2007" oppo="Reading Lawyers"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,112 @@
+<PlayerStats name="Peter Lake" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 20 00:00:00 UTC+0100 1978" oppo="Fairmile"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="2" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 23 00:00:00 UTC+0100 1988" oppo="Uxbridge"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2" maidens="0" runs="12" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 5 00:00:00 UTC+0100 1987" oppo="Woolhampton"/>
+                <BowlingData overs="2.0" maidens="0" runs="12" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="70" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 2 00:00:00 UTC+0100 1987" oppo="Farnham Royal III"/>
+                <BattingData runs="29" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Batting innings="11" runs="81" notouts="4" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 19 00:00:00 UTC+0100 1986" oppo="Aldermaston"/>
+                <BattingData runs="22" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1.4" maidens="0" runs="11" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 21 00:00:00 UTC+0100 1985" oppo="BCS"/>
+                <BowlingData overs="1.4" maidens="0" runs="11" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="16" runs="90" notouts="4" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 4 00:00:00 UTC+0100 1985" oppo="Eton Cavaliers"/>
+                <BattingData runs="26" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1" maidens="1" runs="0" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Wed Jul 29 00:00:00 UTC+0100 1981" oppo="BCS"/>
+                <BowlingData overs="1.0" maidens="1" runs="0" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="16" runs="92" notouts="4" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Sep 5 00:00:00 UTC+0100 1981" oppo="Lydney"/>
+                <BattingData runs="14" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Batting innings="17" runs="43" notouts="4" hundreds="0" fifties="0" ducks="7">
+            <BattingBest>
+                <MatchId date="Sat May 17 00:00:00 UTC+0100 1980" oppo="Highmoor"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Batting innings="12" runs="53" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Sep 8 00:00:00 UTC+0100 1979" oppo="Hamworthy"/>
+                <BattingData runs="16" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Batting innings="8" runs="38" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Sep 16 00:00:00 UTC+0100 1978" oppo="Theale"/>
+                <BattingData runs="16" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="196" runs="1302" notouts="47" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="9" maidens="1" runs="61" wickets="2"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

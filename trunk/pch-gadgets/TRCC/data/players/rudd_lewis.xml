@@ -1,0 +1,33 @@
+<PlayerStats name="Lewis Rudd" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 28 00:00:00 UTC+0100 2009" oppo="Warfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="6" maidens="0" runs="34" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 6 00:00:00 UTC+0100 2010" oppo="Greys Green"/>
+                <BowlingData overs="3.0" maidens="0" runs="8" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="11" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 6 00:00:00 UTC+0100 2010" oppo="Greys Green"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 28 00:00:00 UTC+0100 2009" oppo="Warfield"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

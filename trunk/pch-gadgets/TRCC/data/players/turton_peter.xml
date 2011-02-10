@@ -1,0 +1,25 @@
+<PlayerStats name="Peter Turton" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 31 00:00:00 UTC+0100 1981" oppo="Cranbourne"/>
+    </FirstRecordedGame>
+
+    <YearData year="1981">
+        <Batting innings="6" runs="11" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 27 00:00:00 UTC+0100 1981" oppo="ICI Paints"/>
+                <BattingData runs="5" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="18" runs="33" notouts="6" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="8" maidens="1" runs="28" wickets="1"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

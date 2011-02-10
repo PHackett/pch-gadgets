@@ -1,0 +1,12 @@
+<PlayerStats name="A Seymour" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <YearData year="1975">
+        <Batting innings="4" runs="2" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 8 00:00:00 UTC+0100 1975" oppo="Slough Estates"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

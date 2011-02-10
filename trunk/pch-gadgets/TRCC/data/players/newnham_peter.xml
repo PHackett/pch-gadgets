@@ -1,0 +1,16 @@
+<PlayerStats name="Peter Newnham" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 20 00:00:00 UTC+0100 1989" oppo="Chalfont Saints"/>
+    </FirstRecordedGame>
+
+    <YearData year="1989">
+        <Batting innings="1" runs="9" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1989" oppo="Cippenham"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

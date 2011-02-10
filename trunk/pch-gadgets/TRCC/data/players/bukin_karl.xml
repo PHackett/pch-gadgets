@@ -1,0 +1,34 @@
+<PlayerStats name="Karl Bukin" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 23 00:00:00 UTC+0100 2007" oppo="Cranbourne"/>
+    </FirstRecordedGame>
+
+    <YearData year="2008">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="9" maidens="0" runs="36" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 3 00:00:00 UTC+0100 2008" oppo="Falkland"/>
+                <BowlingData overs="9.0" maidens="0" runs="36" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <YearData year="2007">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="4" maidens="0" runs="37" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 23 00:00:00 UTC+0100 2007" oppo="Cranbourne"/>
+                <BowlingData overs="4.0" maidens="0" runs="37" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="1" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 23 00:00:00 UTC+0100 2007" oppo="Cranbourne"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

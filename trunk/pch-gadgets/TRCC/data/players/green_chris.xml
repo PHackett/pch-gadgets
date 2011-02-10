@@ -1,0 +1,16 @@
+<PlayerStats name="Chris Green" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 12 00:00:00 UTC+0100 2006" oppo="South East Reading"/>
+    </FirstRecordedGame>
+
+    <YearData year="2006">
+        <Batting innings="1" runs="0" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 12 00:00:00 UTC+0100 2006" oppo="South East Reading"/>
+                <BattingData runs="0" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

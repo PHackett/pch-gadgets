@@ -1,0 +1,25 @@
+<PlayerStats name="Terry Harman" generated="Thu, 10 Feb 2011 20:35:12 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 8 00:00:00 UTC+0100 1976" oppo="Bulmershe College"/>
+    </FirstRecordedGame>
+
+    <YearData year="1976">
+        <Batting innings="9" runs="43" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 31 00:00:00 UTC+0100 1976" oppo="Wraysbury 2nds"/>
+                <BattingData runs="13" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Batting innings="8" runs="9" notouts="5" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 7 00:00:00 UTC+0100 1975" oppo="Ibis"/>
+                <BattingData runs="4" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

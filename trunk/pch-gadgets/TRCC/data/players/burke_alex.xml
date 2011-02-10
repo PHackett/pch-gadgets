@@ -1,0 +1,101 @@
+<PlayerStats name="Alex Burke" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 28 00:00:00 UTC+0100 2005" oppo="Hambleden"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1.3" maidens="0" runs="11" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 25 00:00:00 UTC+0100 2010" oppo="Wargrave"/>
+                <BowlingData overs="1.3" maidens="0" runs="11" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 25 00:00:00 UTC+0100 2010" oppo="Wargrave"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="6" maidens="0" runs="73" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Mon Aug 31 00:00:00 UTC+0100 2009" oppo="Old Bristolians"/>
+                <BowlingData overs="4.0" maidens="0" runs="31" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="3" runs="14" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 30 00:00:00 UTC+0100 2009" oppo="Twyford House"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="8" maidens="0" runs="57" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 3 00:00:00 UTC+0100 2008" oppo="Falkland"/>
+                <BowlingData overs="5.0" maidens="0" runs="28" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="7" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Wed Jul 16 00:00:00 UTC+0100 2008" oppo="Farley Hill"/>
+                <BattingData runs="5" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="7" maidens="0" runs="41" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 29 00:00:00 UTC+0100 2007" oppo="Wargrave"/>
+                <BowlingData overs="7.0" maidens="0" runs="41" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="8" runs="34" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 17 00:00:00 UTC+0100 2007" oppo="Wokingham"/>
+                <BattingData runs="12" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="6" maidens="0" runs="55" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 27 00:00:00 UTC+0100 2006" oppo="Unknown"/>
+                <BowlingData overs="4.0" maidens="0" runs="39" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="43" notouts="1" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2006" oppo="Dorstone"/>
+                <BattingData runs="11" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2005">
+        <Batting innings="6" runs="46" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 11 00:00:00 UTC+0100 2005" oppo="Peppard"/>
+                <BattingData runs="25" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

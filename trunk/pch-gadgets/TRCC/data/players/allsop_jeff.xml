@@ -1,0 +1,20 @@
+<PlayerStats name="Jeff Allsop" generated="Thu, 10 Feb 2011 20:35:06 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 24 00:00:00 UTC+0100 1996" oppo="Knowl Hill"/>
+    </FirstRecordedGame>
+
+    <YearData year="1996">
+        <Batting innings="1" runs="1" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 24 00:00:00 UTC+0100 1996" oppo="Knowl Hill"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="1" runs="1" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

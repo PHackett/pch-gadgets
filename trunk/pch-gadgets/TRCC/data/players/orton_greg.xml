@@ -1,0 +1,24 @@
+<PlayerStats name="Greg Orton" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 7 00:00:00 UTC+0100 2006" oppo="Odney"/>
+    </FirstRecordedGame>
+
+    <YearData year="2006">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="6.5" maidens="0" runs="66" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 23 00:00:00 UTC+0100 2006" oppo="West Reading"/>
+                <BowlingData overs="1.0" maidens="0" runs="7" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="28" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jul 23 00:00:00 UTC+0100 2006" oppo="West Reading"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

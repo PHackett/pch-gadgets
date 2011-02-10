@@ -1,0 +1,16 @@
+<PlayerStats name="P Reed" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 3 00:00:00 UTC+0100 1980" oppo="Chalfont saints"/>
+    </FirstRecordedGame>
+
+    <YearData year="1980">
+        <Batting innings="2" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 17 00:00:00 UTC+0100 1980" oppo="Highmoor"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,20 @@
+<PlayerStats name="Ian Grimwade" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1989" oppo="Bledlow Ridge"/>
+    </FirstRecordedGame>
+
+    <YearData year="1989">
+        <Batting innings="3" runs="26" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 24 00:00:00 UTC+0100 1989" oppo="Chalfont Saints"/>
+                <BattingData runs="16" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="3" runs="26" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

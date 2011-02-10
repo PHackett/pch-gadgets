@@ -1,0 +1,114 @@
+<PlayerStats name="G Fulcher" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 30 00:00:00 UTC+0100 1977" oppo="Ruislip Village"/>
+    </FirstRecordedGame>
+
+    <YearData year="1986">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Fri Aug 29 00:00:00 UTC+0100 1986" oppo="Portishead"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Bowling games="10" fiveplus="1">
+            <BowlingData overs="60" maidens="7" runs="243" wickets="13"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 19 00:00:00 UTC+0100 1981" oppo="Warfield"/>
+                <BowlingData overs="9.0" maidens="2" runs="19" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 19 00:00:00 UTC+0100 1981" oppo="Warfield"/>
+                <BowlingData overs="9.0" maidens="2" runs="19" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="9" runs="44" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 27 00:00:00 UTC+0100 1981" oppo="ICI Paints"/>
+                <BattingData runs="23" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="26" maidens="4" runs="81" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Fri Sep 5 00:00:00 UTC+0100 1980" oppo="Easton-In-Gordano"/>
+                <BowlingData overs="5.0" maidens="2" runs="6" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="37" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Jul 12 00:00:00 UTC+0100 1980" oppo="Wallingford"/>
+                <BattingData runs="11" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="6" maidens="0" runs="22" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 15 00:00:00 UTC+0100 1979" oppo="Theale"/>
+                <BowlingData overs="3.0" maidens="0" runs="10" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="12" runs="24" notouts="5" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Jun 23 00:00:00 UTC+0100 1979" oppo="Grays Green"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="9" maidens="0" runs="54" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 19 00:00:00 UTC+0100 1978" oppo="Greys Green"/>
+                <BowlingData overs="4.0" maidens="0" runs="16" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="69" notouts="5" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sat Sep 2 00:00:00 UTC+0100 1978" oppo="Hartley Whitney"/>
+                <BattingData runs="26" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="0.2" maidens="0" runs="1" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 2 00:00:00 UTC+0100 1977" oppo="Littlewick Green"/>
+                <BowlingData overs=".2" maidens="0" runs="1" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="12" notouts="3" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 1977" oppo="Uxbridge Torchbearers"/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="60" runs="262" notouts="16" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="151" maidens="15" runs="565" wickets="25"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

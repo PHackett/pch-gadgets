@@ -1,0 +1,24 @@
+<PlayerStats name="Chris Apps" generated="Thu, 10 Feb 2011 20:35:06 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 8 00:00:00 UTC+0100 2010" oppo="Reading Lawyers"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="9" maidens="0" runs="38" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 12 00:00:00 UTC+0100 2010" oppo="Lower Earley"/>
+                <BowlingData overs="5.0" maidens="0" runs="21" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="9" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 8 00:00:00 UTC+0100 2010" oppo="Reading Lawyers"/>
+                <BattingData runs="9" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

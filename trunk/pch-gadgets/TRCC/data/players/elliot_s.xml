@@ -1,0 +1,16 @@
+<PlayerStats name="S Elliot" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 2 00:00:00 UTC+0100 1979" oppo="Warren Row"/>
+    </FirstRecordedGame>
+
+    <YearData year="1979">
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 2 00:00:00 UTC+0100 1979" oppo="Warren Row"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

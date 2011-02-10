@@ -1,0 +1,20 @@
+<PlayerStats name="S Rees" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Wed Jun 15 00:00:00 UTC+0100 1988" oppo="Bracknell Cup Match"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="3" runs="18" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Wed Jun 15 00:00:00 UTC+0100 1988" oppo="Bracknell Cup Match"/>
+                <BattingData runs="10" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="2" runs="8" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

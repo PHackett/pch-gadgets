@@ -1,0 +1,24 @@
+<PlayerStats name="Edward Farrar" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 4 00:00:00 UTC+0100 2010" oppo="Harpsden"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="9" maidens="0" runs="62" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 1 00:00:00 UTC+0100 2010" oppo="Theale and Tilehurst"/>
+                <BowlingData overs="3.0" maidens="0" runs="31" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="0" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 1 00:00:00 UTC+0100 2010" oppo="Theale and Tilehurst"/>
+                <BattingData runs="0" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

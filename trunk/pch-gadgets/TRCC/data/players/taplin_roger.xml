@@ -1,0 +1,24 @@
+<PlayerStats name="Roger Taplin" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 4 00:00:00 UTC+0100 1975" oppo="Hollyport"/>
+    </FirstRecordedGame>
+
+    <YearData year="1975">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="5" maidens="1" runs="16" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun May 4 00:00:00 UTC+0100 1975" oppo="Hollyport"/>
+                <BowlingData overs="1.0" maidens="1" runs="0" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="30" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Tue May 13 00:00:00 UTC+0100 1975" oppo="Oddfellows"/>
+                <BattingData runs="15" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

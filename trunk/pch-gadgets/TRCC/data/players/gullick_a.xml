@@ -1,0 +1,16 @@
+<PlayerStats name="A Gullick" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 1 08:00:00 UTC+0100 1999" oppo="Woodley"/>
+    </FirstRecordedGame>
+
+    <YearData year="1999">
+        <Batting innings="1" runs="15" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 1 08:00:00 UTC+0100 1999" oppo="Woodley"/>
+                <BattingData runs="15" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

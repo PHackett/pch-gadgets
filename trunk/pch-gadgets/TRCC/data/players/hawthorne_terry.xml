@@ -1,0 +1,52 @@
+<PlayerStats name="Terry Hawthorne" generated="Thu, 10 Feb 2011 20:35:12 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 18 00:00:00 UTC+0100 1976" oppo="Tottenham Enterprise"/>
+    </FirstRecordedGame>
+
+    <YearData year="1980">
+        <Batting innings="2" runs="12" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 14 00:00:00 UTC+0100 1980" oppo="Iver"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Batting innings="1" runs="13" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 14 00:00:00 UTC+0100 1978" oppo="Hanwell"/>
+                <BattingData runs="13" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Batting innings="2" runs="3" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 25 00:00:00 UTC+0100 1977" oppo="Greys Green"/>
+                <BattingData runs="3" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Batting innings="4" runs="45" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 18 00:00:00 UTC+0100 1976" oppo="Tottenham Enterprise"/>
+                <BattingData runs="27" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Batting innings="5" runs="14" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 10 00:00:00 UTC+0100 1975" oppo="Berkshire College"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

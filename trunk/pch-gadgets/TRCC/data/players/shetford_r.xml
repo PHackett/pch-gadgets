@@ -1,0 +1,12 @@
+<PlayerStats name="R Shetford" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <YearData year="1975">
+        <Batting innings="1" runs="1" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 1975" oppo="Greys Green"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

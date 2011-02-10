@@ -1,0 +1,29 @@
+<PlayerStats name="Ian Boyd" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 8 00:00:00 UTC+0100 1992" oppo="Eton Caverliers"/>
+    </FirstRecordedGame>
+
+    <YearData year="1994">
+        <Batting innings="1" runs="6" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 13 00:00:00 UTC+0100 1994" oppo="RUASCC"/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1992">
+        <Batting innings="2" runs="22" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 12 00:00:00 UTC+0100 1992" oppo="Denham"/>
+                <BattingData runs="22" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="3" runs="28" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

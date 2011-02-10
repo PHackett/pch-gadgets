@@ -1,0 +1,24 @@
+<PlayerStats name="D Power" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 4 00:00:00 UTC+0100 1980" oppo="Woodley"/>
+    </FirstRecordedGame>
+
+    <YearData year="1980">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="3" maidens="1" runs="7" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 1980" oppo="Tilehurst"/>
+                <BowlingData overs="1.0" maidens="0" runs="2" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="12" notouts="1" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 24 00:00:00 UTC+0100 1980" oppo="Bulmershe"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,38 @@
+<PlayerStats name="Dave Jackson" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 12 00:00:00 UTC+0100 1985" oppo="Cippenham"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="4" runs="60" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 19 00:00:00 UTC+0100 1988" oppo="Woodley II"/>
+                <BattingData runs="36" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Batting innings="8" runs="83" notouts="3" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Mon Apr 28 00:00:00 UTC+0100 1986" oppo="Coppid Hall"/>
+                <BattingData runs="22" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Batting innings="4" runs="15" notouts="2" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 23 00:00:00 UTC+0100 1985" oppo="Woodley"/>
+                <BattingData runs="7" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="20" runs="166" notouts="7" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

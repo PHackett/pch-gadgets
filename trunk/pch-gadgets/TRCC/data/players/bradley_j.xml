@@ -1,0 +1,16 @@
+<PlayerStats name="J Bradley" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 7 00:00:00 UTC+0100 2001" oppo="Compton"/>
+    </FirstRecordedGame>
+
+    <YearData year="2001">
+        <Batting innings="1" runs="5" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 7 00:00:00 UTC+0100 2001" oppo="Compton"/>
+                <BattingData runs="5" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

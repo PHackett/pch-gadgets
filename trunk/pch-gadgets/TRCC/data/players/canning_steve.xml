@@ -1,0 +1,33 @@
+<PlayerStats name="Steve Canning" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 26 00:00:00 UTC+0100 1987" oppo="Coppid Hall"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="20" maidens="1" runs="67" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun Apr 26 00:00:00 UTC+0100 1987" oppo="Coppid Hall"/>
+                <BowlingData overs="7.0" maidens="0" runs="30" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="12" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 31 00:00:00 UTC+0100 1987" oppo="Cranbourne"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="4" runs="12" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="20" maidens="1" runs="68" wickets="3"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

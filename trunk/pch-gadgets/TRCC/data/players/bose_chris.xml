@@ -1,0 +1,33 @@
+<PlayerStats name="Chris Bose" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 6 00:00:00 UTC+0100 1990" oppo="Odney"/>
+    </FirstRecordedGame>
+
+    <YearData year="1990">
+        <Bowling games="14" fiveplus="0">
+            <BowlingData overs="59" maidens="9" runs="251" wickets="12"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 1990" oppo="Bledlow Ridge"/>
+                <BowlingData overs="5.0" maidens="0" runs="31" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="134" notouts="3" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Sep 23 00:00:00 UTC+0100 1990" oppo="Chalfont Saints"/>
+                <BattingData runs="31" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="11" runs="134" notouts="3" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="59" maidens="9" runs="251" wickets="12"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

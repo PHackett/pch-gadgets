@@ -1,0 +1,12 @@
+<PlayerStats name="Richard Anderson" generated="Thu, 10 Feb 2011 20:35:06 UTC">
+    <BattingStats1969to1997>
+        <Batting innings="2" runs="49" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="42" maidens="9" runs="125" wickets="4"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

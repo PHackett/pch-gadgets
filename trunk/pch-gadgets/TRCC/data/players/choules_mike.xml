@@ -1,0 +1,33 @@
+<PlayerStats name="Mike Choules" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Sep 11 00:00:00 UTC+0100 1993" oppo="Hurley"/>
+    </FirstRecordedGame>
+
+    <YearData year="1995">
+        <Batting innings="6" runs="155" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Apr 29 00:00:00 UTC+0100 1995" oppo="Freith"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Apr 29 00:00:00 UTC+0100 1995" oppo="Freith"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1993">
+        <Batting innings="1" runs="23" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Sep 11 00:00:00 UTC+0100 1993" oppo="Hurley"/>
+                <BattingData runs="23" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="7" runs="178" notouts="1" hundreds="0" fifties="1" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

@@ -1,0 +1,56 @@
+<PlayerStats name="Steve Hill" generated="Thu, 10 Feb 2011 20:35:14 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 5 00:00:00 UTC+0100 1981" oppo="Reading"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="6" runs="13" notouts="5" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 15 00:00:00 UTC+0100 1988" oppo="Warfield"/>
+                <BattingData runs="10" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Batting innings="5" runs="32" notouts="3" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1987" oppo="Woodley 2nds"/>
+                <BattingData runs="19" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Batting innings="8" runs="10" notouts="3" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun May 18 00:00:00 UTC+0100 1986" oppo="Warfield"/>
+                <BattingData runs="4" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Batting innings="9" runs="13" notouts="5" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 1985" oppo="Warfield"/>
+                <BattingData runs="5" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Batting innings="1" runs="7" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Mon Aug 31 00:00:00 UTC+0100 1981" oppo="Twyford Saturday"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="55" runs="122" notouts="29" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

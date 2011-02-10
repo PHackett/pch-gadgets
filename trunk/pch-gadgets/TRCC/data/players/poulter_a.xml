@@ -1,0 +1,16 @@
+<PlayerStats name="A Poulter" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <YearData year="1975">
+        <Batting innings="1" runs="51" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 10 00:00:00 UTC+0100 1975" oppo="Hurst"/>
+                <BattingData runs="51" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 10 00:00:00 UTC+0100 1975" oppo="Hurst"/>
+                <BattingData runs="51" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

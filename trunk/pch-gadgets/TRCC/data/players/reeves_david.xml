@@ -1,0 +1,51 @@
+<PlayerStats name="David Reeves" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Sep 28 00:00:00 UTC+0100 1985" oppo="Coppid Hall"/>
+    </FirstRecordedGame>
+
+    <YearData year="1996">
+        <Batting innings="1" runs="3" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 17 00:00:00 UTC+0100 1996" oppo="Swindon NALGO"/>
+                <BattingData runs="3" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1995">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="3" maidens="0" runs="23" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat May 27 00:00:00 UTC+0100 1995" oppo="Farnham Royal 3rds"/>
+                <BowlingData overs="3.0" maidens="0" runs="23" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 27 00:00:00 UTC+0100 1995" oppo="Farnham Royal 3rds"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 28 00:00:00 UTC+0100 1985" oppo="Coppid Hall"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="2" runs="3" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="3" maidens="0" runs="23" wickets="0"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

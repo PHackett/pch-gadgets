@@ -1,0 +1,24 @@
+<PlayerStats name="Olly Wade" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 6 00:00:00 UTC+0100 2009" oppo="Emmbrook and Bearwood"/>
+    </FirstRecordedGame>
+
+    <YearData year="2009">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="5" maidens="1" runs="14" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 6 00:00:00 UTC+0100 2009" oppo="Emmbrook and Bearwood"/>
+                <BowlingData overs="5.0" maidens="1" runs="14" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 6 00:00:00 UTC+0100 2009" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

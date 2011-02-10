@@ -1,0 +1,104 @@
+<PlayerStats name="Tim Cooper" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 6 00:00:00 UTC+0100 2006" oppo="Sonning"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="15" fiveplus="0">
+            <BowlingData overs="107" maidens="11" runs="410" wickets="26"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 27 00:00:00 UTC+0100 2010" oppo="Warfield"/>
+                <BowlingData overs="6.0" maidens="0" runs="11" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="132" notouts="1" hundreds="0" fifties="1" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Aug 8 00:00:00 UTC+0100 2010" oppo="Reading Lawyers"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 8 00:00:00 UTC+0100 2010" oppo="Reading Lawyers"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Bowling games="16" fiveplus="0">
+            <BowlingData overs="113.4" maidens="13" runs="495" wickets="25"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 13 00:00:00 UTC+0100 2009" oppo="Lower Earley"/>
+                <BowlingData overs="8.0" maidens="0" runs="26" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="29" notouts="3" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Sep 20 00:00:00 UTC+0100 2009" oppo="Cranbourne"/>
+                <BattingData runs="14" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Bowling games="23" fiveplus="1">
+            <BowlingData overs="180.5" maidens="33" runs="666" wickets="29"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 2008" oppo="Goring 2"/>
+                <BowlingData overs="14.0" maidens="6" runs="32" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 2008" oppo="Goring 2"/>
+                <BowlingData overs="14.0" maidens="6" runs="32" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="14" runs="34" notouts="4" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 2008" oppo="Penn Street"/>
+                <BattingData runs="7" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="56.4" maidens="9" runs="201" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 3 00:00:00 UTC+0100 2007" oppo="Crowthorne"/>
+                <BowlingData overs="5.4" maidens="2" runs="9" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="5" runs="10" notouts="4" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 16 00:00:00 UTC+0100 2007" oppo="Welford Park 2"/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Bowling games="13" fiveplus="1">
+            <BowlingData overs="102" maidens="11" runs="370" wickets="27"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 10 00:00:00 UTC+0100 2006" oppo="Stoke Green"/>
+                <BowlingData overs="11.0" maidens="0" runs="39" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Sep 10 00:00:00 UTC+0100 2006" oppo="Stoke Green"/>
+                <BowlingData overs="11.0" maidens="0" runs="39" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="6" runs="15" notouts="3" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2006" oppo="Purley "/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

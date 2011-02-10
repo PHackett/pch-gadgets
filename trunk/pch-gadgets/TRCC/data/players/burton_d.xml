@@ -1,0 +1,16 @@
+<PlayerStats name="D Burton" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 30 00:00:00 UTC+0100 1994" oppo="Royal Ascot"/>
+    </FirstRecordedGame>
+
+    <YearData year="1994">
+        <Batting innings="1" runs="5" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Apr 30 00:00:00 UTC+0100 1994" oppo="Royal Ascot"/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

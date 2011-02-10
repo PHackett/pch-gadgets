@@ -1,0 +1,977 @@
+<PlayerStats name="Tom Fort" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1975" oppo="Ibis"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="39" maidens="3" runs="177" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 8 00:00:00 UTC+0100 2010" oppo="Reading Lawyers"/>
+                <BowlingData overs="12.0" maidens="2" runs="31" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="16" runs="435" notouts="1" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 6 00:00:00 UTC+0100 2010" oppo="Greys Green"/>
+                <BattingData runs="63" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 6 00:00:00 UTC+0100 2010" oppo="Greys Green"/>
+                <BattingData runs="63" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 4 00:00:00 UTC+0100 2010" oppo="Harpsden"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="15" maidens="1" runs="62" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
+                <BowlingData overs="4.0" maidens="0" runs="8" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="13" runs="368" notouts="0" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 2009" oppo="Binfield"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 3 00:00:00 UTC+0100 2009" oppo="Odney"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 26 00:00:00 UTC+0100 2009" oppo="Wargrave"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 2009" oppo="Binfield"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="16" maidens="1" runs="73" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2008" oppo="Yateley"/>
+                <BowlingData overs="8.0" maidens="0" runs="40" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="5" runs="91" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2008" oppo="Yateley"/>
+                <BattingData runs="39" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="35" maidens="3" runs="175" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 17 00:00:00 UTC+0100 2007" oppo="Wokingham"/>
+                <BowlingData overs="8.0" maidens="0" runs="30" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="10" runs="192" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 16 00:00:00 UTC+0100 2007" oppo="Lower Earley"/>
+                <BattingData runs="48" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="62" maidens="10" runs="224" wickets="21"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 3 00:00:00 UTC+0100 2006" oppo="Binfield"/>
+                <BowlingData overs="6.0" maidens="1" runs="23" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="164" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 6 00:00:00 UTC+0100 2006" oppo="Warfield"/>
+                <BattingData runs="46" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2005">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="52" maidens="3" runs="295" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sun May 1 00:00:00 UTC+0100 2005" oppo="Odney"/>
+                <BowlingData overs="8.0" maidens="1" runs="29" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="371" notouts="1" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 8 00:00:00 UTC+0100 2005" oppo="Aston Rowant"/>
+                <BattingData runs="86" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 8 00:00:00 UTC+0100 2005" oppo="Aston Rowant"/>
+                <BattingData runs="86" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 22 00:00:00 UTC+0100 2005" oppo="Frimley"/>
+                <BattingData runs="84" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 27 00:00:00 UTC+0100 2005" oppo="Harpsden"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2004">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="12" maidens="2" runs="56" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 19 00:00:00 UTC+0100 2004" oppo="Cranbourne"/>
+                <BowlingData overs="5.0" maidens="2" runs="15" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="252" notouts="1" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 15 00:00:00 UTC+0100 2004" oppo="BCS"/>
+                <BattingData runs="66" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 19 00:00:00 UTC+0100 2004" oppo="Cranbourne"/>
+                <BattingData runs="66" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 15 00:00:00 UTC+0100 2004" oppo="BCS"/>
+                <BattingData runs="66" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2003">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="38" maidens="2" runs="235" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun Apr 27 00:00:00 UTC+0100 2003" oppo="Crowthorne"/>
+                <BowlingData overs="9.0" maidens="0" runs="70" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="13" runs="298" notouts="2" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 2003" oppo="Moulsford"/>
+                <BattingData runs="58" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 2003" oppo="Moulsford"/>
+                <BattingData runs="58" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2002">
+        <Bowling games="11" fiveplus="3">
+            <BowlingData overs="67.5" maidens="14" runs="219" wickets="24"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 8 00:00:00 UTC+0100 2002" oppo="Eversley"/>
+                <BowlingData overs="10.0" maidens="5" runs="10" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 2 00:00:00 UTC+0100 2002" oppo="Hawley"/>
+                <BowlingData overs="6.0" maidens="1" runs="25" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 21 00:00:00 UTC+0100 2002" oppo="Moulsford"/>
+                <BowlingData overs="8.0" maidens="2" runs="25" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Sep 8 00:00:00 UTC+0100 2002" oppo="Eversley"/>
+                <BowlingData overs="10.0" maidens="5" runs="10" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="13" runs="492" notouts="0" hundreds="0" fifties="4" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 28 00:00:00 UTC+0100 2002" oppo="Wargrave"/>
+                <BattingData runs="84" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 19 00:00:00 UTC+0100 2002" oppo="Wooburn Narkovians"/>
+                <BattingData runs="81" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 28 00:00:00 UTC+0100 2002" oppo="Wargrave"/>
+                <BattingData runs="84" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 8 00:00:00 UTC+0100 2002" oppo="Eversley"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 15 00:00:00 UTC+0100 2002" oppo="Bledlow"/>
+                <BattingData runs="83" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2001">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="72" maidens="10" runs="300" wickets="15"/>
+            <BowlingBest>
+                <MatchId date="Sun May 6 00:00:00 UTC+0100 2001" oppo="Odney"/>
+                <BowlingData overs="10.0" maidens="3" runs="17" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="262" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 24 00:00:00 UTC+0100 2001" oppo="Boyne Hill"/>
+                <BattingData runs="97" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 24 00:00:00 UTC+0100 2001" oppo="Boyne Hill"/>
+                <BattingData runs="97" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2000">
+        <Bowling games="13" fiveplus="0">
+            <BowlingData overs="92.4" maidens="4" runs="411" wickets="28"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 18 00:00:00 UTC+0100 2000" oppo="Boyne Hill"/>
+                <BowlingData overs="9.5" maidens="0" runs="36" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="569" notouts="4" hundreds="0" fifties="5" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 23 00:00:00 UTC+0100 2000" oppo="Little Marlow"/>
+                <BattingData runs="84" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 7 00:00:00 UTC+0100 2000" oppo="Odney"/>
+                <BattingData runs="66" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 14 00:00:00 UTC+0100 2000" oppo="Oddfellows"/>
+                <BattingData runs="57" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 23 00:00:00 UTC+0100 2000" oppo="Little Marlow"/>
+                <BattingData runs="84" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 30 00:00:00 UTC+0100 2000" oppo="Wargrave"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 17 00:00:00 UTC+0100 2000" oppo="Woodcote"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1999">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="41" maidens="3" runs="200" wickets="9"/>
+            <BowlingBest>
+                <MatchId date="Sun May 2 00:00:00 UTC+0100 1999" oppo="Odney"/>
+                <BowlingData overs="5.0" maidens="3" runs="6" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="8" runs="210" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 16 00:00:00 UTC+0100 1999" oppo="Wooburn Narkovians"/>
+                <BattingData runs="46" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1998">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="41.2" maidens="4" runs="151" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 20 00:00:00 UTC+0100 1998" oppo="Sandhurst"/>
+                <BowlingData overs="5.4" maidens="0" runs="13" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="10" runs="266" notouts="0" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 31 00:00:00 UTC+0100 1998" oppo="Hawley"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 17 00:00:00 UTC+0100 1998" oppo="Eton Cavaliers"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 24 00:00:00 UTC+0100 1998" oppo="Knowl Hill"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 31 00:00:00 UTC+0100 1998" oppo="Hawley"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1997">
+        <Bowling games="10" fiveplus="1">
+            <BowlingData overs="84" maidens="13" runs="280" wickets="21"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 3 00:00:00 UTC+0100 1997" oppo="Hambleden"/>
+                <BowlingData overs="12.0" maidens="0" runs="27" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 3 00:00:00 UTC+0100 1997" oppo="Hambleden"/>
+                <BowlingData overs="12.0" maidens="0" runs="27" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="10" runs="289" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 18 00:00:00 UTC+0100 1997" oppo="Eton Cavaliers"/>
+                <BattingData runs="75" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 18 00:00:00 UTC+0100 1997" oppo="Eton Cavaliers"/>
+                <BattingData runs="75" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1996">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="74.3" maidens="7" runs="287" wickets="17"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 28 00:00:00 UTC+0100 1996" oppo="Wargrave"/>
+                <BowlingData overs="11.0" maidens="1" runs="25" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="12" runs="263" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 14 00:00:00 UTC+0100 1996" oppo="Greys Green"/>
+                <BattingData runs="40" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1995">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="36.2" maidens="5" runs="122" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 13 00:00:00 UTC+0100 1995" oppo="Binfield"/>
+                <BowlingData overs="7.2" maidens="0" runs="36" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="332" notouts="2" hundreds="2" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Apr 30 00:00:00 UTC+0100 1995" oppo="Embrook"/>
+                <BattingData runs="102" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Apr 30 00:00:00 UTC+0100 1995" oppo="Embrook"/>
+                <BattingData runs="102" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 21 00:00:00 UTC+0100 1995" oppo="Pyestock"/>
+                <BattingData runs="101" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1995" oppo="RLCC"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1994">
+        <Bowling games="9" fiveplus="0">
+            <BowlingData overs="63.1" maidens="9" runs="240" wickets="13"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 28 00:00:00 UTC+0100 1994" oppo="Ventnor"/>
+                <BowlingData overs="13.0" maidens="6" runs="31" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="15" runs="484" notouts="2" hundreds="1" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 14 00:00:00 UTC+0100 1994" oppo="Chalfont Saints"/>
+                <BattingData runs="105" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 26 00:00:00 UTC+0100 1994" oppo="Warfield"/>
+                <BattingData runs="88" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 14 00:00:00 UTC+0100 1994" oppo="Chalfont Saints"/>
+                <BattingData runs="105" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 13 00:00:00 UTC+0100 1994" oppo="RUASCC"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1993">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="30" maidens="2" runs="128" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 7 00:00:00 UTC+0100 1993" oppo="Eton Caverliers"/>
+                <BowlingData overs="9.0" maidens="0" runs="38" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="15" runs="350" notouts="2" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 20 00:00:00 UTC+0100 1993" oppo="Embrook"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 20 00:00:00 UTC+0100 1993" oppo="Embrook"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 1 00:00:00 UTC+0100 1993" oppo="Bedfont"/>
+                <BattingData runs="58" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1992">
+        <Bowling games="4" fiveplus="1">
+            <BowlingData overs="30" maidens="8" runs="81" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1992" oppo="Chalfont Saints"/>
+                <BowlingData overs="11.0" maidens="3" runs="33" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1992" oppo="Chalfont Saints"/>
+                <BowlingData overs="11.0" maidens="3" runs="33" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="10" runs="399" notouts="4" hundreds="1" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 1992" oppo="Greys Green"/>
+                <BattingData runs="103" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 7 00:00:00 UTC+0100 1992" oppo="Theale"/>
+                <BattingData runs="84" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 5 00:00:00 UTC+0100 1992" oppo="Reading Lawyers"/>
+                <BattingData runs="83" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 1992" oppo="Greys Green"/>
+                <BattingData runs="103" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1991">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="37.1" maidens="7" runs="139" wickets="9"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 1991" oppo="Lower Earley"/>
+                <BowlingData overs="10.0" maidens="2" runs="41" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="17" runs="639" notouts="5" hundreds="0" fifties="7" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 1991" oppo="Lower Earley"/>
+                <BattingData runs="77" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 1991" oppo="warfield"/>
+                <BattingData runs="50" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 1991" oppo="Warfield"/>
+                <BattingData runs="50" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 7 00:00:00 UTC+0100 1991" oppo="Bledlow Ridge"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 1991" oppo="Lower Earley"/>
+                <BattingData runs="77" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Thu Aug 22 00:00:00 UTC+0100 1991" oppo="Taveners"/>
+                <BattingData runs="64" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 22 00:00:00 UTC+0100 1991" oppo="Chalfont Saints"/>
+                <BattingData runs="59" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 29 00:00:00 UTC+0100 1991" oppo="Theale"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1990">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="48" maidens="6" runs="220" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 9 00:00:00 UTC+0100 1990" oppo="Mapledurham"/>
+                <BowlingData overs="17.0" maidens="4" runs="48" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="187" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 5 00:00:00 UTC+0100 1990" oppo="Bedfont 62"/>
+                <BattingData runs="49" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1989">
+        <Bowling games="10" fiveplus="2">
+            <BowlingData overs="73" maidens="15" runs="252" wickets="19"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 1989" oppo="Warfield"/>
+                <BowlingData overs="14.0" maidens="5" runs="24" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 1989" oppo="Warfield"/>
+                <BowlingData overs="14.0" maidens="5" runs="24" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Sep 10 00:00:00 UTC+0100 1989" oppo="Mapledurham"/>
+                <BowlingData overs="12.0" maidens="6" runs="32" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="15" runs="423" notouts="1" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 13 00:00:00 UTC+0100 1989" oppo="Shinfield"/>
+                <BattingData runs="71" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 13 00:00:00 UTC+0100 1989" oppo="Shinfield"/>
+                <BattingData runs="71" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1989" oppo="Cippenham"/>
+                <BattingData runs="52" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1988">
+        <Bowling games="10" fiveplus="1">
+            <BowlingData overs="70" maidens="9" runs="219" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 10 00:00:00 UTC+0100 1988" oppo="Greys Green"/>
+                <BowlingData overs="13.0" maidens="1" runs="27" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 10 00:00:00 UTC+0100 1988" oppo="Greys Green"/>
+                <BowlingData overs="13.0" maidens="1" runs="27" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="14" runs="628" notouts="3" hundreds="1" fifties="5" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 22 00:00:00 UTC+0100 1988" oppo="Bearwood"/>
+                <BattingData runs="101" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 22 00:00:00 UTC+0100 1988" oppo="Bearwood"/>
+                <BattingData runs="101" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 17 00:00:00 UTC+0100 1988" oppo="Saturday XI"/>
+                <BattingData runs="55" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 24 00:00:00 UTC+0100 1988" oppo="Wargrave"/>
+                <BattingData runs="72" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 28 00:00:00 UTC+0100 1988" oppo="Failand And Portbury"/>
+                <BattingData runs="78" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 25 00:00:00 UTC+0100 1988" oppo="Bledlow Ridge"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 17 00:00:00 UTC+0100 1988" oppo="Berkshire County Sports"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="13" fiveplus="1">
+            <BowlingData overs="82" maidens="16" runs="228" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 1987" oppo="Courage"/>
+                <BowlingData overs="9.0" maidens="3" runs="14" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 1987" oppo="Courage"/>
+                <BowlingData overs="9.0" maidens="3" runs="14" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="15" runs="363" notouts="2" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 9 00:00:00 UTC+0100 1987" oppo="Shinfield"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 28 00:00:00 UTC+0100 1987" oppo="warfield"/>
+                <BattingData runs="55" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 9 00:00:00 UTC+0100 1987" oppo="Shinfield"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="65.4" maidens="14" runs="212" wickets="16"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 30 00:00:00 UTC+0100 1986" oppo="Abbots Leigh"/>
+                <BowlingData overs="14.0" maidens="6" runs="19" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="313" notouts="0" hundreds="0" fifties="3" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 1986" oppo="Wargrave"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 15 00:00:00 UTC+0100 1986" oppo="Courage"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 1986" oppo="Wargrave"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon Sep 1 00:00:00 UTC+0100 1986" oppo="Weston Supermare"/>
+                <BattingData runs="67" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="12" fiveplus="0">
+            <BowlingData overs="102" maidens="24" runs="318" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 25 00:00:00 UTC+0100 1985" oppo="Chalfont Saints"/>
+                <BowlingData overs="13.0" maidens="4" runs="24" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="13" runs="349" notouts="0" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 1 00:00:00 UTC+0100 1985" oppo="Failand and Portbury"/>
+                <BattingData runs="76" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 17 00:00:00 UTC+0100 1985" oppo="Highmoor"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 1 00:00:00 UTC+0100 1985" oppo="Failand and Portbury"/>
+                <BattingData runs="76" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Bowling games="17" fiveplus="0">
+            <BowlingData overs="132" maidens="20" runs="442" wickets="21"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 1981" oppo="South Harrow"/>
+                <BowlingData overs="8.0" maidens="2" runs="14" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="17" runs="551" notouts="1" hundreds="1" fifties="3" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 1981" oppo="South Harrow"/>
+                <BattingData runs="102" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 1981" oppo="South Harrow"/>
+                <BattingData runs="102" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 2 00:00:00 UTC+0100 1981" oppo="Greys Green"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 23 00:00:00 UTC+0100 1981" oppo="Rotherwick"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 6 00:00:00 UTC+0100 1981" oppo="Flax Bourton"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Bowling games="15" fiveplus="1">
+            <BowlingData overs="113.4" maidens="31" runs="318" wickets="22"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 1980" oppo="John Hampden"/>
+                <BowlingData overs="11.0" maidens="4" runs="10" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 1980" oppo="John Hampden"/>
+                <BowlingData overs="11.0" maidens="4" runs="10" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="19" runs="609" notouts="0" hundreds="0" fifties="5" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 1980" oppo="Tilehurst"/>
+                <BattingData runs="86" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 1980" oppo="Tilehurst"/>
+                <BattingData runs="86" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 1980" oppo="John Hampden"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 21 00:00:00 UTC+0100 1980" oppo="Chalfont Saints"/>
+                <BattingData runs="67" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon May 26 00:00:00 UTC+0100 1980" oppo="High Wycombe"/>
+                <BattingData runs="67" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Tue Jun 3 00:00:00 UTC+0100 1980" oppo="Bracknell B"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="17" fiveplus="1">
+            <BowlingData overs="156.2" maidens="34" runs="452" wickets="33"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 17 00:00:00 UTC+0100 1979" oppo="Readin Lawyers"/>
+                <BowlingData overs="11.0" maidens="2" runs="23" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 17 00:00:00 UTC+0100 1979" oppo="Readin Lawyers"/>
+                <BowlingData overs="11.0" maidens="2" runs="23" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="17" runs="425" notouts="1" hundreds="0" fifties="3" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 1979" oppo="Farnham Park"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 24 00:00:00 UTC+0100 1979" oppo="Slough Community"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 1979" oppo="Farnham Park"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Fri Sep 7 00:00:00 UTC+0100 1979" oppo="Burley"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="14" fiveplus="1">
+            <BowlingData overs="111.1" maidens="24" runs="302" wickets="28"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 13 00:00:00 UTC+0100 1978" oppo="Slough Community Centre"/>
+                <BowlingData overs="6.2" maidens="2" runs="14" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 13 00:00:00 UTC+0100 1978" oppo="Slough Community Centre"/>
+                <BowlingData overs="6.2" maidens="2" runs="14" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="15" runs="341" notouts="1" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1978" oppo="Reading A"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 28 00:00:00 UTC+0100 1978" oppo="Woodley"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 4 00:00:00 UTC+0100 1978" oppo="Iver"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1978" oppo="Reading A"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Bowling games="19" fiveplus="0">
+            <BowlingData overs="126.3" maidens="38" runs="275" wickets="28"/>
+            <BowlingBest>
+                <MatchId date="Sun May 8 00:00:00 UTC+0100 1977" oppo="Holyport"/>
+                <BowlingData overs="13.0" maidens="2" runs="23" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="21" runs="368" notouts="3" hundreds="0" fifties="2" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun May 29 00:00:00 UTC+0100 1977" oppo="Woodley 2nds"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 29 00:00:00 UTC+0100 1977" oppo="Woodley 2nds"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 27 00:00:00 UTC+0100 1977" oppo="Theale"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Bowling games="25" fiveplus="3">
+            <BowlingData overs="168.3" maidens="42" runs="436" wickets="48"/>
+            <BowlingBest>
+                <MatchId date="Sun May 16 00:00:00 UTC+0100 1976" oppo="71 Club"/>
+                <BowlingData overs="5.0" maidens="2" runs="8" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
+                <BowlingData overs="13.0" maidens="3" runs="37" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun May 16 00:00:00 UTC+0100 1976" oppo="71 Club"/>
+                <BowlingData overs="5.0" maidens="2" runs="8" wickets="7"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 22 00:00:00 UTC+0100 1976" oppo="Newbury"/>
+                <BowlingData overs="12.4" maidens="2" runs="38" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="25" runs="736" notouts="2" hundreds="0" fifties="6" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun May 30 00:00:00 UTC+0100 1976" oppo="Knowl Hill"/>
+                <BattingData runs="87" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 30 00:00:00 UTC+0100 1976" oppo="Knowl Hill"/>
+                <BattingData runs="87" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 13 00:00:00 UTC+0100 1976" oppo="Tottenham Enterprise"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 11 00:00:00 UTC+0100 1976" oppo="Kiwis"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 25 00:00:00 UTC+0100 1976" oppo="John Hampden"/>
+                <BattingData runs="69" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 15 00:00:00 UTC+0100 1976" oppo="Moulsford"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon May 31 00:00:00 UTC+0100 1976" oppo="John Hampden School"/>
+                <BattingData runs="85" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Bowling games="21" fiveplus="2">
+            <BowlingData overs="169" maidens="41" runs="399" wickets="37"/>
+            <BowlingBest>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 1975" oppo="Iver"/>
+                <BowlingData overs="14.0" maidens="3" runs="20" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 1975" oppo="Iver"/>
+                <BowlingData overs="14.0" maidens="3" runs="20" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 1975" oppo="Tottenham Enterprise"/>
+                <BowlingData overs="12.0" maidens="2" runs="30" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="21" runs="435" notouts="1" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 1975" oppo="Farnham Common"/>
+                <BattingData runs="82" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 24 00:00:00 UTC+0100 1975" oppo="Emmer Green"/>
+                <BattingData runs="77" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 1975" oppo="Farnham Common"/>
+                <BattingData runs="82" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="415" runs="12029" notouts="47" hundreds="6" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="2741" maidens="658" runs="7874" wickets="630"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

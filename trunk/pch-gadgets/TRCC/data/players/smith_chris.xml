@@ -1,0 +1,24 @@
+<PlayerStats name="Chris Smith" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 20 00:00:00 UTC+0100 2006" oppo="Welford Park 3rds"/>
+    </FirstRecordedGame>
+
+    <YearData year="2006">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="56" maidens="6" runs="241" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sat May 20 00:00:00 UTC+0100 2006" oppo="Welford Park 3rds"/>
+                <BowlingData overs="5.0" maidens="0" runs="12" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="63" notouts="2" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2006" oppo="Purley "/>
+                <BattingData runs="33" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

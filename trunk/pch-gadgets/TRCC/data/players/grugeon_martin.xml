@@ -1,0 +1,347 @@
+<PlayerStats name="Martin Grugeon" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1975" oppo="Ibis"/>
+    </FirstRecordedGame>
+
+    <YearData year="1981">
+        <Bowling games="13" fiveplus="2">
+            <BowlingData overs="141.3" maidens="33" runs="352" wickets="26"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 26 00:00:00 UTC+0100 1981" oppo="Pesidents XI"/>
+                <BowlingData overs="8.3" maidens="3" runs="15" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 26 00:00:00 UTC+0100 1981" oppo="Pesidents XI"/>
+                <BowlingData overs="8.3" maidens="3" runs="15" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 9 00:00:00 UTC+0100 1981" oppo="Iver II"/>
+                <BowlingData overs="12.0" maidens="3" runs="26" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="12" runs="434" notouts="0" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1981" oppo="Woodley"/>
+                <BattingData runs="78" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1981" oppo="Woodley"/>
+                <BattingData runs="78" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 28 00:00:00 UTC+0100 1981" oppo="GWR"/>
+                <BattingData runs="64" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 26 00:00:00 UTC+0100 1981" oppo="Pesidents XI"/>
+                <BattingData runs="59" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Bowling games="26" fiveplus="1">
+            <BowlingData overs="277.5" maidens="79" runs="673" wickets="67"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 13 00:00:00 UTC+0100 1980" oppo="South Harrow"/>
+                <BowlingData overs="17.0" maidens="5" runs="33" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 13 00:00:00 UTC+0100 1980" oppo="South Harrow"/>
+                <BowlingData overs="17.0" maidens="5" runs="33" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="28" runs="966" notouts="3" hundreds="0" fifties="8" ducks="1">
+            <BattingBest>
+                <MatchId date="Mon May 26 00:00:00 UTC+0100 1980" oppo="High Wycombe"/>
+                <BattingData runs="93" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 4 00:00:00 UTC+0100 1980" oppo="Woodley"/>
+                <BattingData runs="79" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 25 00:00:00 UTC+0100 1980" oppo="Old Twyford"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 6 00:00:00 UTC+0100 1980" oppo="Reading A"/>
+                <BattingData runs="61" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 10 00:00:00 UTC+0100 1980" oppo="BUL"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 17 00:00:00 UTC+0100 1980" oppo="Highmoor"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon May 26 00:00:00 UTC+0100 1980" oppo="High Wycombe"/>
+                <BattingData runs="93" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 28 00:00:00 UTC+0100 1980" oppo="Bearwood"/>
+                <BattingData runs="62" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon Sep 8 00:00:00 UTC+0100 1980" oppo="Claverham"/>
+                <BattingData runs="59" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="47" fiveplus="3">
+            <BowlingData overs="465.2" maidens="123" runs="1289" wickets="101"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 30 00:00:00 UTC+0100 1979" oppo="Bearwood"/>
+                <BowlingData overs="17.0" maidens="7" runs="33" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 26 00:00:00 UTC+0100 1979" oppo="Rotherwick"/>
+                <BowlingData overs="10.0" maidens="4" runs="32" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Apr 28 00:00:00 UTC+0100 1979" oppo="Braywood"/>
+                <BowlingData overs="7.0" maidens="2" runs="17" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Jun 30 00:00:00 UTC+0100 1979" oppo="Bearwood"/>
+                <BowlingData overs="17.0" maidens="7" runs="33" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="46" runs="986" notouts="5" hundreds="1" fifties="3" ducks="5">
+            <BattingBest>
+                <MatchId date="Sun Jun 3 00:00:00 UTC+0100 1979" oppo="Iver"/>
+                <BattingData runs="104" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 3 00:00:00 UTC+0100 1979" oppo="Iver"/>
+                <BattingData runs="104" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 5 00:00:00 UTC+0100 1979" oppo="Warren Row"/>
+                <BattingData runs="97" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 23 00:00:00 UTC+0100 1979" oppo="Chalfont"/>
+                <BattingData runs="71" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Fri Sep 7 00:00:00 UTC+0100 1979" oppo="Burley"/>
+                <BattingData runs="58" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="26" fiveplus="9">
+            <BowlingData overs="276.2" maidens="82" runs="645" wickets="86"/>
+            <BowlingBest>
+                <MatchId date="Sat May 20 00:00:00 UTC+0100 1978" oppo="Fairmile"/>
+                <BowlingData overs="11.1" maidens="4" runs="16" wickets="8"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun May 21 00:00:00 UTC+0100 1978" oppo="Warfield"/>
+                <BowlingData overs="10.0" maidens="2" runs="18" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 11 00:00:00 UTC+0100 1978" oppo="Tottenham Enterprise"/>
+                <BowlingData overs="8.0" maidens="3" runs="12" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 18 00:00:00 UTC+0100 1978" oppo="Reading Lawyers"/>
+                <BowlingData overs="13.0" maidens="7" runs="26" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 25 00:00:00 UTC+0100 1978" oppo="Slough Community Centre"/>
+                <BowlingData overs="12.0" maidens="5" runs="25" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Sep 10 00:00:00 UTC+0100 1978" oppo="Poole Municipal"/>
+                <BowlingData overs="12.0" maidens="3" runs="44" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Sep 17 00:00:00 UTC+0100 1978" oppo="Iver"/>
+                <BowlingData overs="12.0" maidens="5" runs="26" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat May 20 00:00:00 UTC+0100 1978" oppo="Fairmile"/>
+                <BowlingData overs="11.1" maidens="4" runs="16" wickets="8"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat May 27 00:00:00 UTC+0100 1978" oppo="Uxbridge"/>
+                <BowlingData overs="12.1" maidens="5" runs="18" wickets="7"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 1978" oppo="Rotherwick"/>
+                <BowlingData overs="16.0" maidens="5" runs="54" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="26" runs="593" notouts="0" hundreds="0" fifties="3" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 20 00:00:00 UTC+0100 1978" oppo="Pinkneys Green"/>
+                <BattingData runs="73" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 28 00:00:00 UTC+0100 1978" oppo="Woodley"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 20 00:00:00 UTC+0100 1978" oppo="Pinkneys Green"/>
+                <BattingData runs="73" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 1978" oppo="Opposition"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Bowling games="37" fiveplus="4">
+            <BowlingData overs="325.5" maidens="86" runs="820" wickets="76"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 26 00:00:00 UTC+0100 1977" oppo="Slough Community"/>
+                <BowlingData overs="11.0" maidens="5" runs="14" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun May 22 00:00:00 UTC+0100 1977" oppo="71 Club"/>
+                <BowlingData overs="9.0" maidens="2" runs="18" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 26 00:00:00 UTC+0100 1977" oppo="Slough Community"/>
+                <BowlingData overs="11.0" maidens="5" runs="14" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 10 00:00:00 UTC+0100 1977" oppo="Farnham 2nds"/>
+                <BowlingData overs="15.0" maidens="3" runs="39" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 1977" oppo="Uxbridge Torchbearers"/>
+                <BowlingData overs="9.0" maidens="3" runs="17" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="39" runs="867" notouts="3" hundreds="0" fifties="6" ducks="3">
+            <BattingBest>
+                <MatchId date="Tue Sep 13 00:00:00 UTC+0100 1977" oppo="Poole Municipal"/>
+                <BattingData runs="98" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 5 00:00:00 UTC+0100 1977" oppo="Peppard"/>
+                <BattingData runs="66" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 12 00:00:00 UTC+0100 1977" oppo="Sir Micheal Salt XI"/>
+                <BattingData runs="91" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 21 00:00:00 UTC+0100 1977" oppo="Moulesford"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 28 00:00:00 UTC+0100 1977" oppo="Uxbridge"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 16 00:00:00 UTC+0100 1977" oppo="Kiwis"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Tue Sep 13 00:00:00 UTC+0100 1977" oppo="Poole Municipal"/>
+                <BattingData runs="98" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Bowling games="38" fiveplus="3">
+            <BowlingData overs="333.4" maidens="99" runs="852" wickets="67"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 1 00:00:00 UTC+0100 1976" oppo="Wraysbury"/>
+                <BowlingData overs="15.1" maidens="6" runs="23" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 1 00:00:00 UTC+0100 1976" oppo="Wraysbury"/>
+                <BowlingData overs="15.1" maidens="6" runs="23" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 15 00:00:00 UTC+0100 1976" oppo="Moulsford"/>
+                <BowlingData overs="7.0" maidens="1" runs="21" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 7 00:00:00 UTC+0100 1976" oppo="Burnham"/>
+                <BowlingData overs="17.0" maidens="2" runs="74" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="41" runs="984" notouts="1" hundreds="0" fifties="3" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 10 00:00:00 UTC+0100 1976" oppo="Sonning 2nds"/>
+                <BattingData runs="89" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 27 00:00:00 UTC+0100 1976" oppo="Moulsford"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 22 00:00:00 UTC+0100 1976" oppo="Uxbridge Torchbearers"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 10 00:00:00 UTC+0100 1976" oppo="Sonning 2nds"/>
+                <BattingData runs="89" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Bowling games="25" fiveplus="2">
+            <BowlingData overs="207" maidens="57" runs="536" wickets="55"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 27 00:00:00 UTC+0100 1975" oppo="High Wycombe"/>
+                <BowlingData overs="9.0" maidens="3" runs="12" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 27 00:00:00 UTC+0100 1975" oppo="High Wycombe"/>
+                <BowlingData overs="9.0" maidens="3" runs="12" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 24 00:00:00 UTC+0100 1975" oppo="Emmer Green"/>
+                <BowlingData overs="17.0" maidens="2" runs="51" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="26" runs="468" notouts="0" hundreds="0" fifties="2" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Aug 30 00:00:00 UTC+0100 1975" oppo="Slough Estates"/>
+                <BattingData runs="95" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 21 00:00:00 UTC+0100 1975" oppo="Holyport"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 30 00:00:00 UTC+0100 1975" oppo="Slough Estates"/>
+                <BattingData runs="95" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="289" runs="6549" notouts="14" hundreds="1" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="2422" maidens="679" runs="6218" wickets="560"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

@@ -1,0 +1,66 @@
+<PlayerStats name="Hugh Connor" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 28 08:00:00 UTC+0100 1999" oppo="Broadmoor"/>
+    </FirstRecordedGame>
+
+    <YearData year="2001">
+        <Batting innings="14" runs="509" notouts="3" hundreds="0" fifties="4" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2001" oppo="Binfield"/>
+                <BattingData runs="82" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 26 00:00:00 UTC+0100 2001" oppo="Yateley"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 23 00:00:00 UTC+0100 2001" oppo="Stratfield Turgis"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2001" oppo="Binfield"/>
+                <BattingData runs="82" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 25 00:00:00 UTC+0100 2001" oppo="Stratfield Turgis"/>
+                <BattingData runs="52" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2000">
+        <Batting innings="10" runs="417" notouts="1" hundreds="0" fifties="3" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 17 00:00:00 UTC+0100 2000" oppo="Welford Park"/>
+                <BattingData runs="91" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 20 00:00:00 UTC+0100 2000" oppo="Berks County Sports"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 17 00:00:00 UTC+0100 2000" oppo="Welford Park"/>
+                <BattingData runs="91" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2000" oppo="Peppard"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1999">
+        <Batting innings="1" runs="56" notouts="0" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 28 08:00:00 UTC+0100 1999" oppo="Broadmoor"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 28 08:00:00 UTC+0100 1999" oppo="Broadmoor"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

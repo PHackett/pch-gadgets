@@ -1,0 +1,29 @@
+<PlayerStats name="Paul Dunsford" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 13 00:00:00 UTC+0100 2004" oppo="Holyport"/>
+    </FirstRecordedGame>
+
+    <YearData year="2005">
+        <Batting innings="12" runs="115" notouts="3" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 15 00:00:00 UTC+0100 2005" oppo="Wooburn Narkovians"/>
+                <BattingData runs="32" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2004">
+        <Batting innings="10" runs="196" notouts="2" hundreds="0" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 29 00:00:00 UTC+0100 2004" oppo="Brockhampton"/>
+                <BattingData runs="56" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 29 00:00:00 UTC+0100 2004" oppo="Brockhampton"/>
+                <BattingData runs="56" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,42 @@
+<PlayerStats name="Nigel Tout" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Wed May 7 00:00:00 UTC+0100 1980" oppo="Tilehurst"/>
+    </FirstRecordedGame>
+
+    <YearData year="1981">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="11" maidens="1" runs="41" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 28 00:00:00 UTC+0100 1981" oppo="GWR"/>
+                <BowlingData overs="3.0" maidens="0" runs="8" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="6" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 1981" oppo="Bushmen"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Batting innings="5" runs="3" notouts="3" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Wed May 7 00:00:00 UTC+0100 1980" oppo="Tilehurst"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="7" runs="9" notouts="3" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="11" maidens="1" runs="46" wickets="2"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

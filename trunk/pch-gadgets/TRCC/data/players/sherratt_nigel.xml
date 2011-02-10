@@ -1,0 +1,20 @@
+<PlayerStats name="Nigel Sherratt" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 8 00:00:00 UTC+0100 1990" oppo="Bledlow Ridge"/>
+    </FirstRecordedGame>
+
+    <YearData year="1990">
+        <Batting innings="3" runs="40" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 8 00:00:00 UTC+0100 1990" oppo="Bledlow Ridge"/>
+                <BattingData runs="32" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="3" runs="40" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

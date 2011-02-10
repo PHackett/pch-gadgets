@@ -1,0 +1,24 @@
+<PlayerStats name="A Mahmood" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 6 00:00:00 UTC+0100 2001" oppo="Swindon NALGO"/>
+    </FirstRecordedGame>
+
+    <YearData year="2001">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="5" maidens="0" runs="39" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 23 00:00:00 UTC+0100 2001" oppo="Stratfield Turgis"/>
+                <BowlingData overs="2.0" maidens="0" runs="21" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="36" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 9 00:00:00 UTC+0100 2001" oppo="Binfield"/>
+                <BattingData runs="18" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

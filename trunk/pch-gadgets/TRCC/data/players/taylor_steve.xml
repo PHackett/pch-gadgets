@@ -1,0 +1,47 @@
+<PlayerStats name="Steve Taylor" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 15 00:00:00 UTC+0100 1977" oppo="Iver"/>
+    </FirstRecordedGame>
+
+    <YearData year="1989">
+        <Batting innings="2" runs="3" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Apr 30 00:00:00 UTC+0100 1989" oppo="Coppid Hall"/>
+                <BattingData runs="3" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1988">
+        <Batting innings="3" runs="5" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Sep 4 00:00:00 UTC+0100 1988" oppo="Mapledurham"/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Batting innings="3" runs="4" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 27 00:00:00 UTC+0100 1979" oppo="Eton Cavaliers"/>
+                <BattingData runs="3" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Batting innings="9" runs="46" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 5 00:00:00 UTC+0100 1977" oppo="Peppard"/>
+                <BattingData runs="21" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="5" runs="8" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+
