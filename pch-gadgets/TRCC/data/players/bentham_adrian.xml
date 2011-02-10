@@ -1,0 +1,20 @@
+<PlayerStats name="Adrian Bentham" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 12 00:00:00 UTC+0100 1985" oppo="Cippenham"/>
+    </FirstRecordedGame>
+
+    <YearData year="1985">
+        <Batting innings="2" runs="27" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 1985" oppo="Cippenham"/>
+                <BattingData runs="14" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="3" runs="41" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

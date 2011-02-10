@@ -1,0 +1,16 @@
+<PlayerStats name="D Stevens" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 9 00:00:00 UTC+0100 1979" oppo="Compton"/>
+    </FirstRecordedGame>
+
+    <YearData year="1979">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 9 00:00:00 UTC+0100 1979" oppo="Compton"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

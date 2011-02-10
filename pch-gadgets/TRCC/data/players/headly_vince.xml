@@ -1,0 +1,25 @@
+<PlayerStats name="Vince Headly" generated="Thu, 10 Feb 2011 20:35:12 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 27 00:00:00 UTC+0100 2003" oppo="Crowthorne"/>
+    </FirstRecordedGame>
+
+    <YearData year="2004">
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 15 00:00:00 UTC+0100 2004" oppo="BCS"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2003">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Apr 27 00:00:00 UTC+0100 2003" oppo="Crowthorne"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

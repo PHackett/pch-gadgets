@@ -1,0 +1,33 @@
+<PlayerStats name="Fred Selzer" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 7 00:00:00 UTC+0100 1975" oppo="Poole Municipal"/>
+    </FirstRecordedGame>
+
+    <YearData year="1975">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1.5" maidens="0" runs="15" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 7 00:00:00 UTC+0100 1975" oppo="Poole Municipal"/>
+                <BowlingData overs="1.5" maidens="0" runs="15" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="5" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 7 00:00:00 UTC+0100 1975" oppo="Poole Municipal"/>
+                <BattingData runs="5" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="59" runs="728" notouts="4" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="123" maidens="9" runs="583" wickets="46"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

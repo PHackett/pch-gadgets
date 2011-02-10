@@ -1,0 +1,16 @@
+<PlayerStats name="I Seabrook" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Tue May 3 00:00:00 UTC+0100 1977" oppo="Yately"/>
+    </FirstRecordedGame>
+
+    <YearData year="1977">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Tue May 3 00:00:00 UTC+0100 1977" oppo="Yately"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

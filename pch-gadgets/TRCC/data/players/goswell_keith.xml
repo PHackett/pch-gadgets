@@ -1,0 +1,12 @@
+<PlayerStats name="Keith Goswell" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <YearData year="1975">
+        <Batting innings="2" runs="18" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Mon May 26 00:00:00 UTC+0100 1975" oppo="High Wycombe"/>
+                <BattingData runs="13" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

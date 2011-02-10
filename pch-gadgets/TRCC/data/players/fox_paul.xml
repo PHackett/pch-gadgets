@@ -1,0 +1,43 @@
+<PlayerStats name="Paul Fox" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 27 00:00:00 UTC+0100 1995" oppo="Farnham Royal 3rds"/>
+    </FirstRecordedGame>
+
+    <YearData year="1996">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2" maidens="0" runs="14" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Fri Aug 23 00:00:00 UTC+0100 1996" oppo="Westland Aerospace"/>
+                <BowlingData overs="2.0" maidens="0" runs="14" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <YearData year="1995">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="3" maidens="0" runs="17" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 6 00:00:00 UTC+0100 1995" oppo="Hambledon"/>
+                <BowlingData overs="3.0" maidens="0" runs="17" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="48" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 15 00:00:00 UTC+0100 1995" oppo="Crossbats"/>
+                <BattingData runs="19" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="6" runs="48" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="5" maidens="0" runs="31" wickets="0"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

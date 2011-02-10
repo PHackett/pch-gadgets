@@ -1,0 +1,20 @@
+<PlayerStats name="E Silver" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 8 00:00:00 UTC+0100 1992" oppo="Eton Caverliers"/>
+    </FirstRecordedGame>
+
+    <YearData year="1992">
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 8 00:00:00 UTC+0100 1992" oppo="Eton Caverliers"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

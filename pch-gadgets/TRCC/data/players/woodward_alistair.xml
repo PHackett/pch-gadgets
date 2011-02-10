@@ -1,0 +1,12 @@
+<PlayerStats name="Alistair Woodward" generated="Thu, 10 Feb 2011 20:35:18 UTC">
+    <BattingStats1969to1997>
+        <Batting innings="16" runs="138" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="31" maidens="4" runs="125" wickets="6"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

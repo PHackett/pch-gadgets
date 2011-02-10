@@ -1,0 +1,153 @@
+<PlayerStats name="Tim Glover" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 1 00:00:00 UTC+0100 1975" oppo="Bracknell 3rds"/>
+    </FirstRecordedGame>
+
+    <YearData year="1986">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="16" maidens="1" runs="72" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun May 18 00:00:00 UTC+0100 1986" oppo="Warfield"/>
+                <BowlingData overs="8.0" maidens="1" runs="27" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="3" runs="18" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 10 00:00:00 UTC+0100 1986" oppo="BCS"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2" maidens="0" runs="8" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 15 00:00:00 UTC+0100 1985" oppo="Wallingford"/>
+                <BowlingData overs="2.0" maidens="0" runs="8" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <YearData year="1981">
+        <Bowling games="4" fiveplus="1">
+            <BowlingData overs="25" maidens="2" runs="101" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1981" oppo="Englefield"/>
+                <BowlingData overs="8.0" maidens="1" runs="19" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1981" oppo="Englefield"/>
+                <BowlingData overs="8.0" maidens="1" runs="19" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="2" runs="3" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 1981" oppo="Bushmen"/>
+                <BattingData runs="2" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="18" maidens="2" runs="89" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 8 00:00:00 UTC+0100 1979" oppo="Readind A"/>
+                <BowlingData overs="4.0" maidens="1" runs="12" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="5" runs="26" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 15 00:00:00 UTC+0100 1979" oppo="South Harrow"/>
+                <BattingData runs="17" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="8" fiveplus="1">
+            <BowlingData overs="42.4" maidens="2" runs="193" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 4 00:00:00 UTC+0100 1978" oppo="Iver"/>
+                <BowlingData overs="7.0" maidens="0" runs="41" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 4 00:00:00 UTC+0100 1978" oppo="Iver"/>
+                <BowlingData overs="7.0" maidens="0" runs="41" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="7" runs="21" notouts="5" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1978" oppo="Reading A"/>
+                <BattingData runs="9" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="11.4" maidens="4" runs="19" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 24 00:00:00 UTC+0100 1977" oppo="Totenham Enterprise"/>
+                <BowlingData overs="5.4" maidens="2" runs="4" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="8" runs="11" notouts="0" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sun Aug 7 00:00:00 UTC+0100 1977" oppo="Wraysbury"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="0.3" maidens="0" runs="0" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 20 00:00:00 UTC+0100 1976" oppo="Boyne Hill III"/>
+                <BowlingData overs=".3" maidens="0" runs="0" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="5" runs="18" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun May 16 00:00:00 UTC+0100 1976" oppo="71 Club"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="3" maidens="1" runs="12" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 1975" oppo="Bracknell 3rds"/>
+                <BowlingData overs="3.0" maidens="1" runs="12" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="13" runs="56" notouts="3" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sun Sep 21 00:00:00 UTC+0100 1975" oppo="Holyport"/>
+                <BattingData runs="15" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="47" runs="159" notouts="11" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="169" maidens="17" runs="703" wickets="45"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

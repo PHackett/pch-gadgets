@@ -1,0 +1,41 @@
+<PlayerStats name="Neil Barber" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2003" oppo="Harpsden"/>
+    </FirstRecordedGame>
+
+    <YearData year="2004">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="4.1" maidens="0" runs="30" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 15 00:00:00 UTC+0100 2004" oppo="Sandhurst"/>
+                <BowlingData overs="1.1" maidens="0" runs="7" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="5" runs="21" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 25 00:00:00 UTC+0100 2004" oppo="Wargrave"/>
+                <BattingData runs="12" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2003">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="12" maidens="1" runs="74" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 10 00:00:00 UTC+0100 2003" oppo="Hambledon"/>
+                <BowlingData overs="7.0" maidens="1" runs="36" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="14" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2003" oppo="Harpsden"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

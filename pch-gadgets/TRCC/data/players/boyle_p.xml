@@ -1,0 +1,20 @@
+<PlayerStats name="P Boyle" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 3 00:00:00 UTC+0100 1986" oppo="Wallingford"/>
+    </FirstRecordedGame>
+
+    <YearData year="1986">
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 3 00:00:00 UTC+0100 1986" oppo="Wallingford"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

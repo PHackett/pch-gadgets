@@ -1,0 +1,24 @@
+<PlayerStats name="Ibrahim Romel" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 6 00:00:00 UTC+0100 2007" oppo="Odney"/>
+    </FirstRecordedGame>
+
+    <YearData year="2007">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="24" maidens="5" runs="95" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sun May 6 00:00:00 UTC+0100 2007" oppo="Odney"/>
+                <BowlingData overs="14.0" maidens="5" runs="25" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="22" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 9 00:00:00 UTC+0100 2007" oppo="Embrook and Bearwood"/>
+                <BattingData runs="16" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

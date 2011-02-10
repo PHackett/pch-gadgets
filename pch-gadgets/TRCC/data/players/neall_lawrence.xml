@@ -1,0 +1,67 @@
+<PlayerStats name="Lawrence Neall" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 28 00:00:00 UTC+0100 1996" oppo="Wargrave"/>
+    </FirstRecordedGame>
+
+    <YearData year="1998">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="8" maidens="0" runs="51" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 7 00:00:00 UTC+0100 1998" oppo="Pinkneys Green"/>
+                <BowlingData overs="4.0" maidens="0" runs="23" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="2" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1998" oppo="Farley Hill"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1997">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="35" maidens="6" runs="110" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 6 00:00:00 UTC+0100 1997" oppo="Reading Lawyers"/>
+                <BowlingData overs="7.0" maidens="2" runs="17" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="15" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 13 00:00:00 UTC+0100 1997" oppo="Greys Green"/>
+                <BattingData runs="8" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1996">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="4" maidens="0" runs="21" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 11 00:00:00 UTC+0100 1996" oppo="Binfield"/>
+                <BowlingData overs="4.0" maidens="0" runs="21" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="13" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 28 00:00:00 UTC+0100 1996" oppo="Wargrave"/>
+                <BattingData runs="13" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="5" runs="28" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="39" maidens="6" runs="131" wickets="5"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

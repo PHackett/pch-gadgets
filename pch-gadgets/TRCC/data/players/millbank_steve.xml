@@ -1,0 +1,22 @@
+<PlayerStats name="Steve Millbank" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1997" oppo="Crowthorne"/>
+    </FirstRecordedGame>
+
+    <YearData year="1997">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="6" maidens="2" runs="6" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1997" oppo="Crowthorne"/>
+                <BowlingData overs="6.0" maidens="2" runs="6" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="6" maidens="2" runs="1" wickets="6"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

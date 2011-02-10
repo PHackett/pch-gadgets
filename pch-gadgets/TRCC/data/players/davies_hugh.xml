@@ -1,0 +1,101 @@
+<PlayerStats name="Hugh Davies" generated="Thu, 10 Feb 2011 20:35:08 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 25 00:00:00 UTC+0100 1976" oppo="Ibis"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Batting innings="3" runs="9" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 17 00:00:00 UTC+0100 1987" oppo="Warfield"/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Batting innings="9" runs="21" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 1986" oppo="Cippenham"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Batting innings="5" runs="14" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun May 19 00:00:00 UTC+0100 1985" oppo="Warfield"/>
+                <BattingData runs="11" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Batting innings="7" runs="21" notouts="1" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sun Sep 20 00:00:00 UTC+0100 1981" oppo="Chalfont St Peter"/>
+                <BattingData runs="13" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Batting innings="7" runs="30" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Mon Aug 25 00:00:00 UTC+0100 1980" oppo="Fort XI"/>
+                <BattingData runs="19" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Batting innings="13" runs="33" notouts="3" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Mon Aug 27 00:00:00 UTC+0100 1979" oppo="Twyford"/>
+                <BattingData runs="8" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Batting innings="13" runs="50" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Mon Aug 28 00:00:00 UTC+0100 1978" oppo="Fort XI"/>
+                <BattingData runs="13" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Batting innings="12" runs="35" notouts="1" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sun Jul 24 00:00:00 UTC+0100 1977" oppo="Totenham Enterprise"/>
+                <BattingData runs="14" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Batting innings="13" runs="64" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Jul 25 00:00:00 UTC+0100 1976" oppo="John Hampden"/>
+                <BattingData runs="24" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Batting innings="14" runs="41" notouts="3" hundreds="0" fifties="0" ducks="6">
+            <BattingBest>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 1975" oppo="Bracknell 3rds"/>
+                <BattingData runs="17" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="89" runs="318" notouts="15" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

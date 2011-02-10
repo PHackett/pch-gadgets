@@ -1,0 +1,20 @@
+<PlayerStats name="Sean Reid" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 10 00:00:00 UTC+0100 1980" oppo="BUL"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Batting innings="1" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 24 00:00:00 UTC+0100 1987" oppo="Bearwood"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="1" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

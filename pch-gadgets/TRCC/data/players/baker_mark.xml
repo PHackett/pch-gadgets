@@ -1,0 +1,24 @@
+<PlayerStats name="Mark Baker" generated="Thu, 10 Feb 2011 20:35:06 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 1 00:00:00 UTC+0100 2010" oppo="Sandhurst"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="12" maidens="0" runs="98" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 15 00:00:00 UTC+0100 2010" oppo="Eversley"/>
+                <BowlingData overs="5.0" maidens="0" runs="41" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="20" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 1 00:00:00 UTC+0100 2010" oppo="Sandhurst"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

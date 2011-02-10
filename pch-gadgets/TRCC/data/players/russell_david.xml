@@ -1,0 +1,16 @@
+<PlayerStats name="David Russell" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 15 00:00:00 UTC+0100 2004" oppo="BCS"/>
+    </FirstRecordedGame>
+
+    <YearData year="2004">
+        <Batting innings="4" runs="15" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 15 00:00:00 UTC+0100 2004" oppo="BCS"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

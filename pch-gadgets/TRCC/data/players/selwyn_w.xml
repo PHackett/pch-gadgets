@@ -1,0 +1,12 @@
+<PlayerStats name="W Selwyn" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <YearData year="1975">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 10 00:00:00 UTC+0100 1975" oppo="Hurst"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

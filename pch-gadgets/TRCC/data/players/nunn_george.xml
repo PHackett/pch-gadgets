@@ -1,0 +1,51 @@
+<PlayerStats name="George Nunn" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 6 00:00:00 UTC+0100 2006" oppo="Sonning"/>
+    </FirstRecordedGame>
+
+    <YearData year="2009">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 2 00:00:00 UTC+0100 2009" oppo="Waltham 2"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Batting innings="9" runs="88" notouts="4" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 2008" oppo="Goring 2"/>
+                <BattingData runs="24" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Batting innings="14" runs="76" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Sep 1 00:00:00 UTC+0100 2007" oppo="Sulhampstead"/>
+                <BattingData runs="12" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="10" maidens="1" runs="49" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat May 13 00:00:00 UTC+0100 2006" oppo="Purley"/>
+                <BowlingData overs="9.0" maidens="1" runs="40" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="12" runs="131" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 1 00:00:00 UTC+0100 2006" oppo="Welford Park"/>
+                <BattingData runs="25" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

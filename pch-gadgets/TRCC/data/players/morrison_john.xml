@@ -1,0 +1,42 @@
+<PlayerStats name="John Morrison" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 12 00:00:00 UTC+0100 1985" oppo="Cippenham"/>
+    </FirstRecordedGame>
+
+    <YearData year="1986">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1" maidens="0" runs="3" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 1986" oppo="Twyford Saturday"/>
+                <BowlingData overs="1.0" maidens="0" runs="3" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="90" notouts="3" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 22 00:00:00 UTC+0100 1986" oppo="Woodley"/>
+                <BattingData runs="42" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Batting innings="8" runs="97" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 1 00:00:00 UTC+0100 1985" oppo="Failand and Portbury"/>
+                <BattingData runs="28" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="17" runs="187" notouts="3" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="1" maidens="0" runs="3" wickets="0"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

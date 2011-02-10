@@ -1,0 +1,16 @@
+<PlayerStats name="Matt Partington" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 13 00:00:00 UTC+0100 2006" oppo="Purley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2006">
+        <Batting innings="3" runs="11" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 13 00:00:00 UTC+0100 2006" oppo="Purley"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,22 @@
+<PlayerStats name="Simon Nutting" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 27 00:00:00 UTC+0100 1994" oppo="Cranbourne"/>
+    </FirstRecordedGame>
+
+    <YearData year="1994">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1.2" maidens="0" runs="6" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 27 00:00:00 UTC+0100 1994" oppo="Cranbourne"/>
+                <BowlingData overs="1.2" maidens="0" runs="6" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="1" maidens="0" runs="6" wickets="1"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

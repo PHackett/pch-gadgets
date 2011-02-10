@@ -1,0 +1,148 @@
+<PlayerStats name="Dave Benjamin" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 24 00:00:00 UTC+0100 1998" oppo="Knowl Hill"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Batting innings="13" runs="223" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 27 00:00:00 UTC+0100 2010" oppo="Warfield"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 27 00:00:00 UTC+0100 2010" oppo="Warfield"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2009">
+        <Batting innings="11" runs="153" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 13 00:00:00 UTC+0100 2009" oppo="Lower Earley"/>
+                <BattingData runs="48" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Batting innings="5" runs="163" notouts="2" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 22 00:00:00 UTC+0100 2008" oppo="Bledlow Ridge"/>
+                <BattingData runs="67" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 22 00:00:00 UTC+0100 2008" oppo="Bledlow Ridge"/>
+                <BattingData runs="67" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 27 00:00:00 UTC+0100 2008" oppo="Wargrave"/>
+                <BattingData runs="64" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Batting innings="11" runs="217" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 25 00:00:00 UTC+0100 2007" oppo="Goring"/>
+                <BattingData runs="38" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Batting innings="13" runs="234" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 17 00:00:00 UTC+0100 2006" oppo="Lower Earley"/>
+                <BattingData runs="47" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2005">
+        <Batting innings="10" runs="143" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 25 00:00:00 UTC+0100 2005" oppo="Sonning"/>
+                <BattingData runs="42" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2004">
+        <Batting innings="8" runs="131" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 31 00:00:00 UTC+0100 2004" oppo="Cranbourne"/>
+                <BattingData runs="43" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2003">
+        <Batting innings="5" runs="73" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 2003" oppo="Moulsford"/>
+                <BattingData runs="27" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2002">
+        <Batting innings="8" runs="140" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 22 00:00:00 UTC+0100 2002" oppo="Cranbourne"/>
+                <BattingData runs="37" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2001">
+        <Batting innings="9" runs="168" notouts="0" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 29 00:00:00 UTC+0100 2001" oppo="Wargrave"/>
+                <BattingData runs="73" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 29 00:00:00 UTC+0100 2001" oppo="Wargrave"/>
+                <BattingData runs="73" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="2000">
+        <Batting innings="9" runs="182" notouts="2" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2000" oppo="Knowl Hill"/>
+                <BattingData runs="68" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2000" oppo="Knowl Hill"/>
+                <BattingData runs="68" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1999">
+        <Batting innings="7" runs="70" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 22 00:00:00 UTC+0100 1999" oppo="Sandhurst"/>
+                <BattingData runs="20" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1998">
+        <Batting innings="5" runs="143" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 1998" oppo="Woodley"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 1998" oppo="Woodley"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

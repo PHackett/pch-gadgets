@@ -1,0 +1,16 @@
+<PlayerStats name="H Ripley" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Wed Aug 12 00:00:00 UTC+0100 1981" oppo="Wokingham District Cncl"/>
+    </FirstRecordedGame>
+
+    <YearData year="1981">
+        <Batting innings="1" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Wed Aug 12 00:00:00 UTC+0100 1981" oppo="Wokingham District Cncl"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

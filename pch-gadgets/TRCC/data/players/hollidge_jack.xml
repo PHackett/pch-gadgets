@@ -1,0 +1,85 @@
+<PlayerStats name="Jack Hollidge" generated="Thu, 10 Feb 2011 20:35:14 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 25 00:00:00 UTC+0100 1991" oppo="Englefield"/>
+    </FirstRecordedGame>
+
+    <YearData year="1994">
+        <Bowling games="4" fiveplus="2">
+            <BowlingData overs="38" maidens="8" runs="113" wickets="12"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 14 00:00:00 UTC+0100 1994" oppo="Chalfont Saints"/>
+                <BowlingData overs="14.0" maidens="5" runs="35" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 14 00:00:00 UTC+0100 1994" oppo="Chalfont Saints"/>
+                <BowlingData overs="14.0" maidens="5" runs="35" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 21 00:00:00 UTC+0100 1994" oppo="Holyport"/>
+                <BowlingData overs="13.0" maidens="1" runs="37" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    </YearData>
+
+    <YearData year="1993">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="67" maidens="8" runs="263" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 18 00:00:00 UTC+0100 1993" oppo="Chesham Bois"/>
+                <BowlingData overs="14.0" maidens="2" runs="41" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="131" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 3 00:00:00 UTC+0100 1993" oppo="Cranbourne"/>
+                <BattingData runs="37" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1992">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="50.4" maidens="9" runs="206" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 26 00:00:00 UTC+0100 1992" oppo="Jordans Village"/>
+                <BowlingData overs="7.0" maidens="2" runs="16" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="88" notouts="3" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 1992" oppo="Woodcote"/>
+                <BattingData runs="23" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1991">
+        <Bowling games="9" fiveplus="0">
+            <BowlingData overs="53.5" maidens="8" runs="176" wickets="16"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 31 00:00:00 UTC+0100 1991" oppo="Woodcote"/>
+                <BowlingData overs="4.5" maidens="2" runs="7" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="9" runs="30" notouts="2" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sat Jul 13 00:00:00 UTC+0100 1991" oppo="Lower Earley cc"/>
+                <BattingData runs="14" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="27" runs="350" notouts="6" hundreds="0" fifties="1" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="129" maidens="19" runs="502" wickets="27"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

@@ -1,0 +1,58 @@
+<PlayerStats name="Steve Tripp" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 7 00:00:00 UTC+0100 1988" oppo="Shinfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="1989">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="18" maidens="4" runs="50" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 16 00:00:00 UTC+0100 1989" oppo="Greys Green"/>
+                <BowlingData overs="7.0" maidens="2" runs="8" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="131" notouts="0" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1989" oppo="Bledlow Ridge"/>
+                <BattingData runs="71" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 1989" oppo="Bledlow Ridge"/>
+                <BattingData runs="71" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1988">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="28" maidens="7" runs="92" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 25 00:00:00 UTC+0100 1988" oppo="Bledlow Ridge"/>
+                <BowlingData overs="7.0" maidens="2" runs="22" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="105" notouts="1" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 18 00:00:00 UTC+0100 1988" oppo="Chalfont Saints"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 18 00:00:00 UTC+0100 1988" oppo="Chalfont Saints"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="8" runs="236" notouts="1" hundreds="0" fifties="2" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="46" maidens="11" runs="142" wickets="7"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

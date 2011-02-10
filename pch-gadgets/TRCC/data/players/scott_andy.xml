@@ -1,0 +1,238 @@
+<PlayerStats name="Andy Scott" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 3 00:00:00 UTC+0100 1975" oppo="St Johns"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Bowling games="8" fiveplus="1">
+            <BowlingData overs="67.5" maidens="20" runs="122" wickets="16"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 6 00:00:00 UTC+0100 1988" oppo="Ray Cox Presidents XI"/>
+                <BowlingData overs="8.3" maidens="1" runs="16" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 6 00:00:00 UTC+0100 1988" oppo="Ray Cox Presidents XI"/>
+                <BowlingData overs="8.3" maidens="1" runs="16" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="12" runs="252" notouts="1" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 23 00:00:00 UTC+0100 1988" oppo="Uxbridge"/>
+                <BattingData runs="81" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 23 00:00:00 UTC+0100 1988" oppo="Uxbridge"/>
+                <BattingData runs="81" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 17 00:00:00 UTC+0100 1988" oppo="Berkshire County Sports"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="3" maidens="0" runs="6" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Apr 25 00:00:00 UTC+0100 1987" oppo="Frieth"/>
+                <BowlingData overs="3.0" maidens="0" runs="6" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="3" runs="86" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 9 00:00:00 UTC+0100 1987" oppo="Woolhampton"/>
+                <BattingData runs="49" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Bowling games="12" fiveplus="0">
+            <BowlingData overs="112" maidens="20" runs="327" wickets="22"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 1986" oppo="West Wycombe"/>
+                <BowlingData overs="11.0" maidens="5" runs="28" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="326" notouts="0" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 20 00:00:00 UTC+0100 1986" oppo="White Waltham"/>
+                <BattingData runs="76" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 19 00:00:00 UTC+0100 1986" oppo="Aldermaston"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 20 00:00:00 UTC+0100 1986" oppo="White Waltham"/>
+                <BattingData runs="76" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="17" fiveplus="0">
+            <BowlingData overs="137.5" maidens="38" runs="303" wickets="29"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 14 00:00:00 UTC+0100 1985" oppo="Theale"/>
+                <BowlingData overs="11.0" maidens="5" runs="13" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="18" runs="434" notouts="1" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 6 00:00:00 UTC+0100 1985" oppo="Cranbourne"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 6 00:00:00 UTC+0100 1985" oppo="Cranbourne"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 13 00:00:00 UTC+0100 1985" oppo="TRRL"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="7" maidens="0" runs="37" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 1981" oppo="Bearwood"/>
+                <BowlingData overs="7.0" maidens="0" runs="37" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 1981" oppo="Bearwood"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="16" fiveplus="0">
+            <BowlingData overs="142.3" maidens="34" runs="328" wickets="21"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 4 00:00:00 UTC+0100 1979" oppo="Wraysbury"/>
+                <BowlingData overs="12.0" maidens="1" runs="26" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="15" runs="353" notouts="2" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Mon Aug 27 00:00:00 UTC+0100 1979" oppo="Twyford"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 7 00:00:00 UTC+0100 1979" oppo="Compton"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon Aug 27 00:00:00 UTC+0100 1979" oppo="Twyford"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="14" fiveplus="0">
+            <BowlingData overs="145.5" maidens="35" runs="371" wickets="25"/>
+            <BowlingBest>
+                <MatchId date="Sat May 13 00:00:00 UTC+0100 1978" oppo="Wallingford"/>
+                <BowlingData overs="13.0" maidens="5" runs="26" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="15" runs="284" notouts="2" hundreds="0" fifties="1" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Jul 8 00:00:00 UTC+0100 1978" oppo="Compton"/>
+                <BattingData runs="73" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 8 00:00:00 UTC+0100 1978" oppo="Compton"/>
+                <BattingData runs="73" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Bowling games="11" fiveplus="2">
+            <BowlingData overs="75.2" maidens="22" runs="187" wickets="21"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 17 00:00:00 UTC+0100 1977" oppo="Theale"/>
+                <BowlingData overs="8.4" maidens="5" runs="16" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Jun 18 00:00:00 UTC+0100 1977" oppo="Berkley"/>
+                <BowlingData overs="12.0" maidens="3" runs="26" wickets="5"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Sep 17 00:00:00 UTC+0100 1977" oppo="Theale"/>
+                <BowlingData overs="8.4" maidens="5" runs="16" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="13" runs="125" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 21 00:00:00 UTC+0100 1977" oppo="Reading A"/>
+                <BattingData runs="33" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="48.5" maidens="7" runs="163" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 17 00:00:00 UTC+0100 1976" oppo="N Maidenhead"/>
+                <BowlingData overs="3.0" maidens="0" runs="6" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="12" runs="138" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 17 00:00:00 UTC+0100 1976" oppo="N Maidenhead"/>
+                <BattingData runs="30" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Bowling games="12" fiveplus="1">
+            <BowlingData overs="93" maidens="18" runs="229" wickets="18"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 1975" oppo="Basingstoke"/>
+                <BowlingData overs="7.0" maidens="2" runs="24" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 1975" oppo="Basingstoke"/>
+                <BowlingData overs="7.0" maidens="2" runs="24" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="12" runs="175" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 14 00:00:00 UTC+0100 1975" oppo="Farnham Common"/>
+                <BattingData runs="39" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="140" runs="2967" notouts="11" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="1091" maidens="254" runs="2762" wickets="196"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

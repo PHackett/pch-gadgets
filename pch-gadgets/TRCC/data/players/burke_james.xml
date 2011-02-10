@@ -1,0 +1,34 @@
+<PlayerStats name="James Burke" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 20 00:00:00 UTC+0100 2007" oppo="Wooburn Narkovians"/>
+    </FirstRecordedGame>
+
+    <YearData year="2009">
+        <Batting innings="1" runs="2" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Mon Aug 31 00:00:00 UTC+0100 2009" oppo="Old Bristolians"/>
+                <BattingData runs="2" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2008">
+        <Batting innings="3" runs="0" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2008" oppo="Yateley"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Batting innings="2" runs="1" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 2 00:00:00 UTC+0100 2007" oppo="Binfield"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

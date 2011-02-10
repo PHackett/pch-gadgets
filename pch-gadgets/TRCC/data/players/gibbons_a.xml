@@ -1,0 +1,16 @@
+<PlayerStats name="A Gibbons" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 25 00:00:00 UTC+0100 1987" oppo="Frieth"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Apr 25 00:00:00 UTC+0100 1987" oppo="Frieth"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

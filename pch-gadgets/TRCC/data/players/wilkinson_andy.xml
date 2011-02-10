@@ -1,0 +1,219 @@
+<PlayerStats name="Andy Wilkinson" generated="Thu, 10 Feb 2011 20:35:18 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 30 00:00:00 UTC+0100 1987" oppo="BC Sports"/>
+    </FirstRecordedGame>
+
+    <YearData year="1997">
+        <Batting innings="14" runs="210" notouts="2" hundreds="0" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 19 08:00:00 UTC+0100 1997" oppo="Compton"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 19 08:00:00 UTC+0100 1997" oppo="Compton"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1996">
+        <Batting innings="15" runs="316" notouts="0" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 29 00:00:00 UTC+0100 1996" oppo="Waltham St Lawrence"/>
+                <BattingData runs="75" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 4 00:00:00 UTC+0100 1996" oppo="Knowl Hill"/>
+                <BattingData runs="63" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 29 00:00:00 UTC+0100 1996" oppo="Waltham St Lawrence"/>
+                <BattingData runs="75" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1995">
+        <Batting innings="1" runs="25" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Sep 23 00:00:00 UTC+0100 1995" oppo="Chesham Bois"/>
+                <BattingData runs="25" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1994">
+        <Batting innings="9" runs="331" notouts="3" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 25 00:00:00 UTC+0100 1994" oppo="Jordans"/>
+                <BattingData runs="93" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 18 00:00:00 UTC+0100 1994" oppo="Hornsey"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 25 00:00:00 UTC+0100 1994" oppo="Jordans"/>
+                <BattingData runs="93" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 6 00:00:00 UTC+0100 1994" oppo="Eton Vavaliers"/>
+                <BattingData runs="50" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1993">
+        <Batting innings="3" runs="36" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 8 00:00:00 UTC+0100 1993" oppo="Cookham Dean"/>
+                <BattingData runs="23" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1992">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="6" maidens="0" runs="20" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 5 00:00:00 UTC+0100 1992" oppo="Cranborne"/>
+                <BowlingData overs="6.0" maidens="0" runs="20" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="81" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 16 00:00:00 UTC+0100 1992" oppo="Finchamstead"/>
+                <BattingData runs="22" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1991">
+        <Bowling games="3" fiveplus="1">
+            <BowlingData overs="22" maidens="0" runs="119" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 17 00:00:00 UTC+0100 1991" oppo="Lower Earley"/>
+                <BowlingData overs="11.0" maidens="0" runs="59" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 17 00:00:00 UTC+0100 1991" oppo="Lower Earley"/>
+                <BowlingData overs="11.0" maidens="0" runs="59" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="20" runs="372" notouts="3" hundreds="0" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Apr 27 00:00:00 UTC+0100 1991" oppo="Freith"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Apr 27 00:00:00 UTC+0100 1991" oppo="Freith"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1990">
+        <Batting innings="1" runs="4" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 29 00:00:00 UTC+0100 1990" oppo="Wargrave"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1989">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="22" maidens="3" runs="66" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 1989" oppo="Abbotts Leigh"/>
+                <BowlingData overs="9.0" maidens="1" runs="26" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="6" runs="90" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 1989" oppo="Abbotts Leigh"/>
+                <BattingData runs="28" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1988">
+        <Bowling games="13" fiveplus="0">
+            <BowlingData overs="109.4" maidens="25" runs="282" wickets="19"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 1988" oppo="West Wycombe"/>
+                <BowlingData overs="9.0" maidens="0" runs="28" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="28" runs="655" notouts="3" hundreds="0" fifties="4" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Sep 10 00:00:00 UTC+0100 1988" oppo="Windsor"/>
+                <BattingData runs="75" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 14 00:00:00 UTC+0100 1988" oppo="Mortimer"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 13 00:00:00 UTC+0100 1988" oppo="Lower Earley"/>
+                <BattingData runs="74" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 10 00:00:00 UTC+0100 1988" oppo="Windsor"/>
+                <BattingData runs="75" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 24 00:00:00 UTC+0100 1988" oppo="Coppid Hall"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="79" maidens="11" runs="294" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 1987" oppo="West Wycombe"/>
+                <BowlingData overs="10.0" maidens="0" runs="45" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="16" runs="439" notouts="2" hundreds="0" fifties="4" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1987" oppo="Mortimer West End"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 1987" oppo="Mortimer West End"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 11 00:00:00 UTC+0100 1987" oppo="Fleet Street Strollers"/>
+                <BattingData runs="54" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Thu Aug 27 00:00:00 UTC+0100 1987" oppo="Lydney"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Fri Aug 28 00:00:00 UTC+0100 1987" oppo="Portishead"/>
+                <BattingData runs="60" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="150" runs="3338" notouts="23" hundreds="1" fifties="20" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="402" maidens="68" runs="1322" wickets="78"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

@@ -1,0 +1,16 @@
+<PlayerStats name="P Kirk" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 7 00:00:00 UTC+0100 1980" oppo="Wraysbury"/>
+    </FirstRecordedGame>
+
+    <YearData year="1980">
+        <Batting innings="5" runs="15" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Aug 2 00:00:00 UTC+0100 1980" oppo="Readingensians"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

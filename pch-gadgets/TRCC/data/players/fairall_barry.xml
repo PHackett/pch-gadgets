@@ -1,0 +1,12 @@
+<PlayerStats name="Barry Fairall" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <BattingStats1969to1997>
+        <Batting innings="6" runs="78" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="11" maidens="0" runs="69" wickets="2"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

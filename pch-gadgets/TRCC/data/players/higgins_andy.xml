@@ -1,0 +1,24 @@
+<PlayerStats name="Andy Higgins" generated="Thu, 10 Feb 2011 20:35:14 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 31 00:00:00 UTC+0100 2009" oppo="Crowthorne"/>
+    </FirstRecordedGame>
+
+    <YearData year="2009">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="8" maidens="0" runs="62" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun May 31 00:00:00 UTC+0100 2009" oppo="Crowthorne"/>
+                <BowlingData overs="8.0" maidens="0" runs="62" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="11" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 7 00:00:00 UTC+0100 2009" oppo="Greys Green"/>
+                <BattingData runs="11" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

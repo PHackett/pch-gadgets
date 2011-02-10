@@ -1,0 +1,25 @@
+<PlayerStats name="Joe Hancock" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 14 00:00:00 UTC+0100 2006" oppo="Binfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="2008">
+        <Batting innings="3" runs="23" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 22 00:00:00 UTC+0100 2008" oppo="Bledlow Ridge"/>
+                <BattingData runs="12" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2006">
+        <Batting innings="2" runs="0" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 20 00:00:00 UTC+0100 2006" oppo="Welford Park 3rds"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,24 @@
+<PlayerStats name="A May" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 21 00:00:00 UTC+0100 1978" oppo="Warfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="1978">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="0.1" maidens="0" runs="0" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun May 21 00:00:00 UTC+0100 1978" oppo="Warfield"/>
+                <BowlingData overs=".1" maidens="0" runs="0" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="7" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 21 00:00:00 UTC+0100 1978" oppo="Warfield"/>
+                <BattingData runs="7" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

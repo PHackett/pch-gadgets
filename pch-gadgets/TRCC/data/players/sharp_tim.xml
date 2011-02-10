@@ -1,0 +1,56 @@
+<PlayerStats name="Tim Sharp" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 29 00:00:00 UTC+0100 1995" oppo="Freith"/>
+    </FirstRecordedGame>
+
+    <YearData year="2000">
+        <Batting innings="1" runs="19" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Apr 1 09:00:00 UTC+0100 2000" oppo="Hurley"/>
+                <BattingData runs="19" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1998">
+        <Batting innings="14" runs="128" notouts="5" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 1 08:00:00 UTC+0100 1998" oppo="Unity"/>
+                <BattingData runs="29" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1997">
+        <Batting innings="11" runs="95" notouts="4" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 10 08:00:00 UTC+0100 1997" oppo="Theale"/>
+                <BattingData runs="21" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1996">
+        <Batting innings="13" runs="130" notouts="8" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 27 00:00:00 UTC+0100 1996" oppo="Waltham St Lawrence"/>
+                <BattingData runs="21" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1995">
+        <Batting innings="11" runs="129" notouts="4" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 23 00:00:00 UTC+0100 1995" oppo="Chesham Bois"/>
+                <BattingData runs="27" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="36" runs="373" notouts="16" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

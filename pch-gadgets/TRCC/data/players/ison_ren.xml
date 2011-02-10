@@ -1,0 +1,29 @@
+<PlayerStats name="Ren Ison" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 27 00:00:00 UTC+0100 1987" oppo="Wargrave"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="2" runs="75" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 25 00:00:00 UTC+0100 1988" oppo="Bledlow Ridge"/>
+                <BattingData runs="49" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Batting innings="1" runs="2" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 1987" oppo="Wargrave"/>
+                <BattingData runs="2" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="3" runs="77" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

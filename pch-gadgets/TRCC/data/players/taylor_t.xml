@@ -1,0 +1,24 @@
+<PlayerStats name="T Taylor" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 13 00:00:00 UTC+0100 1975" oppo="Kiwis"/>
+    </FirstRecordedGame>
+
+    <YearData year="1975">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="18" maidens="0" runs="71" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 13 00:00:00 UTC+0100 1975" oppo="Kiwis"/>
+                <BowlingData overs="14.0" maidens="0" runs="57" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="39" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 11 00:00:00 UTC+0100 1975" oppo="Iver"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

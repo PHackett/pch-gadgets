@@ -1,0 +1,67 @@
+<PlayerStats name="S Berger" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 26 00:00:00 UTC+0100 1978" oppo="Rotherwick"/>
+    </FirstRecordedGame>
+
+    <YearData year="1980">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="17" maidens="1" runs="44" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 1980" oppo="GWR"/>
+                <BowlingData overs="17.0" maidens="1" runs="44" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 1980" oppo="GWR"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="23" maidens="5" runs="75" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 5 00:00:00 UTC+0100 1979" oppo="Warren Row"/>
+                <BowlingData overs="8.0" maidens="2" runs="20" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="15" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 1979" oppo="Farnham Park"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="29" maidens="3" runs="115" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 24 00:00:00 UTC+0100 1978" oppo="Chalfont Saints"/>
+                <BowlingData overs="13.0" maidens="2" runs="38" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="4" runs="1" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Sep 17 00:00:00 UTC+0100 1978" oppo="Iver"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="8" runs="16" notouts="1" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="69" maidens="9" runs="239" wickets="11"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

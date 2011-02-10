@@ -1,0 +1,66 @@
+<PlayerStats name="Paul Lewis" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1980" oppo="Sutton Traders"/>
+    </FirstRecordedGame>
+
+    <YearData year="1981">
+        <Bowling games="13" fiveplus="1">
+            <BowlingData overs="61.5" maidens="11" runs="202" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1981" oppo="Woodley"/>
+                <BowlingData overs="4.0" maidens="2" runs="9" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1981" oppo="Woodley"/>
+                <BowlingData overs="4.0" maidens="2" runs="9" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="15" runs="375" notouts="1" hundreds="2" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Fri Sep 4 00:00:00 UTC+0100 1981" oppo="Easton-In-Gordano"/>
+                <BattingData runs="106" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 19 00:00:00 UTC+0100 1981" oppo="Warfield"/>
+                <BattingData runs="103" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Fri Sep 4 00:00:00 UTC+0100 1981" oppo="Easton-In-Gordano"/>
+                <BattingData runs="106" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Bowling games="7" fiveplus="1">
+            <BowlingData overs="28" maidens="5" runs="93" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sat May 3 00:00:00 UTC+0100 1980" oppo="Chalfont saints"/>
+                <BowlingData overs="8.0" maidens="0" runs="30" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat May 3 00:00:00 UTC+0100 1980" oppo="Chalfont saints"/>
+                <BowlingData overs="8.0" maidens="0" runs="30" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="16" runs="172" notouts="3" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Mon Jun 16 00:00:00 UTC+0100 1980" oppo="Bradfield"/>
+                <BattingData runs="29" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="19" runs="252" notouts="7" hundreds="2" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="78" maidens="16" runs="246" wickets="28"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

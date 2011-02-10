@@ -1,0 +1,24 @@
+<PlayerStats name="Mark Teal" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 17 00:00:00 UTC+0100 2010" oppo="Catcliffe Way"/>
+    </FirstRecordedGame>
+
+    <YearData year="2010">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="9" maidens="0" runs="38" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 5 00:00:00 UTC+0100 2010" oppo="Yateley"/>
+                <BowlingData overs="3.0" maidens="0" runs="7" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="11" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 5 00:00:00 UTC+0100 2010" oppo="Yateley"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

@@ -1,0 +1,51 @@
+<PlayerStats name="Andrew Hay" generated="Thu, 10 Feb 2011 20:35:12 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1981" oppo="Woodley"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="3" runs="1" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Sep 24 00:00:00 UTC+0100 1988" oppo="Coppid Hall"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="12.3" maidens="0" runs="84" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun May 24 00:00:00 UTC+0100 1987" oppo="Bearwood"/>
+                <BowlingData overs="2.3" maidens="0" runs="8" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="12" runs="6" notouts="4" hundreds="0" fifties="0" ducks="7">
+            <BattingBest>
+                <MatchId date="Sat May 2 00:00:00 UTC+0100 1987" oppo="Farnham Royal III"/>
+                <BattingData runs="5" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Batting innings="1" runs="0" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 21 00:00:00 UTC+0100 1981" oppo="Woodley"/>
+                <BattingData runs="0" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="17" runs="18" notouts="4" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="17" maidens="0" runs="107" wickets="3"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

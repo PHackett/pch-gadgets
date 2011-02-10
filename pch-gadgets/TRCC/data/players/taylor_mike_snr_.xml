@@ -1,0 +1,25 @@
+<PlayerStats name="Mike(Snr) Taylor" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 30 00:00:00 UTC+0100 1988" oppo="West Wycombe"/>
+    </FirstRecordedGame>
+
+    <YearData year="1988">
+        <Batting innings="1" runs="3" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 1988" oppo="West Wycombe"/>
+                <BattingData runs="3" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="73" runs="981" notouts="8" hundreds="0" fifties="2" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="29" maidens="2" runs="126" wickets="3"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

@@ -1,0 +1,220 @@
+<PlayerStats name="Theo Gray" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 24 00:00:00 UTC+0100 1976" oppo="Ruislip Village"/>
+    </FirstRecordedGame>
+
+    <YearData year="1991">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="11" maidens="2" runs="50" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Apr 27 00:00:00 UTC+0100 1991" oppo="Freith"/>
+                <BowlingData overs="7.0" maidens="2" runs="13" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="2" runs="0" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 8 00:00:00 UTC+0100 1991" oppo="Bedfont"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1988">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="64" maidens="19" runs="177" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 4 00:00:00 UTC+0100 1988" oppo="West Wycombe"/>
+                <BowlingData overs="9.0" maidens="3" runs="9" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="3" runs="10" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 1988" oppo="West Wycombe"/>
+                <BattingData runs="7" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1987">
+        <Bowling games="9" fiveplus="0">
+            <BowlingData overs="66.3" maidens="9" runs="223" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 26 00:00:00 UTC+0100 1987" oppo="Coppid Hall"/>
+                <BowlingData overs=".5" maidens="0" runs="1" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="7" runs="68" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 1987" oppo="Aldermaston"/>
+                <BattingData runs="23" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1986">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="48" maidens="6" runs="158" wickets="11"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 6 00:00:00 UTC+0100 1986" oppo="Woolhampton"/>
+                <BowlingData overs="11.0" maidens="2" runs="30" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="65" notouts="4" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Aug 9 00:00:00 UTC+0100 1986" oppo="Whitchurch"/>
+                <BattingData runs="31" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1985">
+        <Bowling games="9" fiveplus="1">
+            <BowlingData overs="52.1" maidens="8" runs="155" wickets="17"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 31 00:00:00 UTC+0100 1985" oppo="Abbots Leigh"/>
+                <BowlingData overs="10.0" maidens="1" runs="21" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 31 00:00:00 UTC+0100 1985" oppo="Abbots Leigh"/>
+                <BowlingData overs="10.0" maidens="1" runs="21" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="7" runs="46" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 8 00:00:00 UTC+0100 1985" oppo="Nettlebed"/>
+                <BattingData runs="19" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1981">
+        <Bowling games="13" fiveplus="1">
+            <BowlingData overs="83.3" maidens="8" runs="319" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 13 00:00:00 UTC+0100 1981" oppo="Parmoor Park"/>
+                <BowlingData overs="11.2" maidens="1" runs="38" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Jun 13 00:00:00 UTC+0100 1981" oppo="Parmoor Park"/>
+                <BowlingData overs="11.2" maidens="1" runs="38" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+
+        <Batting innings="14" runs="115" notouts="3" hundreds="0" fifties="0" ducks="6">
+            <BattingBest>
+                <MatchId date="Sat Sep 5 00:00:00 UTC+0100 1981" oppo="Lydney"/>
+                <BattingData runs="31" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1980">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="80.3" maidens="12" runs="292" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 1980" oppo="GWR"/>
+                <BowlingData overs="10.3" maidens="0" runs="25" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="14" runs="130" notouts="4" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Sep 20 00:00:00 UTC+0100 1980" oppo="BCS"/>
+                <BattingData runs="36" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1979">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="5.2" maidens="1" runs="14" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 23 00:00:00 UTC+0100 1979" oppo="Grays Green"/>
+                <BowlingData overs=".2" maidens="0" runs="0" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="10" runs="74" notouts="3" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Sep 8 00:00:00 UTC+0100 1979" oppo="Hamworthy"/>
+                <BattingData runs="47" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1978">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="12" maidens="4" runs="39" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Mon Aug 28 00:00:00 UTC+0100 1978" oppo="Fort XI"/>
+                <BowlingData overs="3.0" maidens="2" runs="3" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="51" notouts="4" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Sep 9 00:00:00 UTC+0100 1978" oppo="Hamworthy Engineering"/>
+                <BattingData runs="17" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1977">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="8" maidens="0" runs="35" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 3 00:00:00 UTC+0100 1977" oppo="Aldermaston"/>
+                <BowlingData overs="8.0" maidens="0" runs="35" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="8" runs="61" notouts="4" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Sep 10 00:00:00 UTC+0100 1977" oppo="Old Bournmouthians"/>
+                <BattingData runs="29" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1976">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="11" maidens="5" runs="36" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat May 1 00:00:00 UTC+0100 1976" oppo="Knotty Green"/>
+                <BowlingData overs="4.0" maidens="3" runs="2" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="11" runs="97" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 4 00:00:00 UTC+0100 1976" oppo="Old Parkstonians"/>
+                <BattingData runs="26" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="1975">
+        <Batting innings="16" runs="187" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 28 00:00:00 UTC+0100 1975" oppo="Black and Decker"/>
+                <BattingData runs="45" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="221" runs="1721" notouts="71" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+    <BowlingStats1969to1997>
+        <Bowling games="0" fiveplus="0">
+            <BowlingData overs="660" maidens="108" runs="2267" wickets="116"/>
+        </Bowling>
+    </BowlingStats1969to1997>
+</PlayerStats>
+

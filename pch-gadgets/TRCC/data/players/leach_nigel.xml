@@ -1,0 +1,36 @@
+<PlayerStats name="Nigel Leach" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 28 00:00:00 UTC+0100 2009" oppo="Warfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="2009">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="48.4" maidens="2" runs="239" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 19 00:00:00 UTC+0100 2009" oppo="Moulsford"/>
+                <BowlingData overs="7.2" maidens="2" runs="15" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="17" runs="467" notouts="2" hundreds="0" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 19 00:00:00 UTC+0100 2009" oppo="Moulsford"/>
+                <BattingData runs="80" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 2009" oppo="Woodcote"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 19 00:00:00 UTC+0100 2009" oppo="Moulsford"/>
+                <BattingData runs="80" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 11 00:00:00 UTC+0100 2009" oppo="Goring 2"/>
+                <BattingData runs="78" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

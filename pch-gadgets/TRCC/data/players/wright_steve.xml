@@ -1,0 +1,20 @@
+<PlayerStats name="Steve Wright" generated="Thu, 10 Feb 2011 20:35:18 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 20 00:00:00 UTC+0100 1987" oppo="Binfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 20 00:00:00 UTC+0100 1987" oppo="Binfield"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <BattingStats1969to1997>
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="0"/>
+    </BattingStats1969to1997>
+
+</PlayerStats>
+

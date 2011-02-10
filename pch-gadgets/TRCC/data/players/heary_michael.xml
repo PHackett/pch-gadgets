@@ -1,0 +1,25 @@
+<PlayerStats name="Michael Heary" generated="Thu, 10 Feb 2011 20:35:12 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 6 00:00:00 UTC+0100 2007" oppo="Odney"/>
+    </FirstRecordedGame>
+
+    <YearData year="2008">
+        <Batting innings="2" runs="0" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun May 18 00:00:00 UTC+0100 2008" oppo="Wooburn Narkovians"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+    <YearData year="2007">
+        <Batting innings="1" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 6 00:00:00 UTC+0100 2007" oppo="Odney"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+

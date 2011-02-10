@@ -1,0 +1,17 @@
+<PlayerStats name="Unknown Benham" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 2 00:00:00 UTC+0100 1987" oppo="Farnham Royal III"/>
+    </FirstRecordedGame>
+
+    <YearData year="1987">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="1" maidens="0" runs="2" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat May 2 00:00:00 UTC+0100 1987" oppo="Farnham Royal III"/>
+                <BowlingData overs="1.0" maidens="0" runs="2" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+
+</PlayerStats>
+

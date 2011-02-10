@@ -1,0 +1,16 @@
+<PlayerStats name="Peter Morris" generated="Thu, 10 Feb 2011 20:35:16 UTC">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 29 00:00:00 UTC+0100 2005" oppo="Harpsden"/>
+    </FirstRecordedGame>
+
+    <YearData year="2005">
+        <Batting innings="2" runs="14" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 29 00:00:00 UTC+0100 2005" oppo="Harpsden"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
+</PlayerStats>
+
