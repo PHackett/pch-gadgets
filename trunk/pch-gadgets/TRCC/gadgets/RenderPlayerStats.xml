@@ -73,16 +73,6 @@
 					var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
 					var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (lPLS);
 					
-					lHTML += "lXarr.length = " + lXarr.length + "<br>";
-					
-					for (var i=0 ; i<lXarr.length ; ++i)
-					{
-						lHTML += "[year " + i + "] = " + lXarr[i].mYear + ": cum runs=" + lXarr[i].mValuesA[gPLTG_RunsIdx] + "<br>";
-					}
-					
-					lHTML += "lPLS.mBattingStats1969to1997.mRuns = " + lPLS.mBattingStats1969to1997.mRuns + "<br><br>";
-					
-					// lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphURL (lXarr) + "<br>";
 					lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br>";
 					lHTML += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br>";
 					
@@ -94,7 +84,6 @@
 					lHTML += GGTRCC_RenderBowlingByYear(lPLS);
 					lHTML += GGTRCC_RenderBowlingBestByYear(lPLS);
 					lHTML += GGTRCC_RenderBowlingHighlightsByYear(lPLS);
-					lHTML += lPLS.playerHTML();
 			
 					//
 					// Display HTML string in <div>
