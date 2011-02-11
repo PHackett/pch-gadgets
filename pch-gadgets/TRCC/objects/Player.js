@@ -12,11 +12,11 @@ function gGGTRCC_Player___sort (aA, aB)
 	
 	if (aA.mSurname != aB.mSurname)
 	{
-		lRet = (aA.mSurname < aB.mSurname);
+		lRet = (aA.mSurname > aB.mSurname);
 	}
 	else
 	{
-		lRet = (aA.mFirstname < aB.mFirstname);
+		lRet = (aA.mFirstname > aB.mFirstname);
 	}
 	
 	return (lRet);
