@@ -113,7 +113,7 @@ function GGTRCC_LoadPlayerRollcallXML (aXMLloaderFunc, aCallback)
 //------------------------------------------------------------
 function GGTRCC_ParsePlayerRollcallXML (aXML)
 {
-	var lPlayers = lCM.getElementsByTagName("Player");
+	var lPlayers = aXML.getElementsByTagName("Player");
 	
 	for (i=0 ; i<lPlayers.length ; ++i)
 	{
