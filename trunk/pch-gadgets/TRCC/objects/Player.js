@@ -122,3 +122,44 @@ function GGTRCC_ParsePlayerRollcallXML (aXML)
 	
 	gGGTRCC_Player___Array.sort (gGGTRCC_Player___sort);
 }
+
+
+//--------------------------------[GGTRCC_GetPlayerIndexHTML]-
+// Generate the HTML got the A-Z players index
+//
+//	@param	aXML	IN	The Rollcall XML in all it's glory
+//------------------------------------------------------------
+function GGTRCC_GetPlayerIndexHTML (aPlayers)
+{
+	var lRet="";
+	var lAlpha="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	var lAindex=0;
+
+	for (i=0 ; i<aPlayers.length ; i++)
+	{
+		var lSfl=aPlayers[i].mSurname.substring (0, 1).toUpperCase();
+
+		while (lAlpha.substring (lAindex, lAindex+1) < lSfl)
+		{
+			lRet += lAlpha.substring (lAindex, lAindex+1).toLowerCase() + "&nbsp;";
+			lAindex++;
+		}
+
+		if (lAlpha.substring (lAindex, lAindex+1) == lSfl)
+		{
+			lRet += "<a href=\"#" + lAlpha.substring (lAindex, lAindex+1) + "\">" +
+								    lAlpha.substring (lAindex, lAindex+1) + "<a>";
+			lAindex++;
+		}
+	}
+
+	// write out trailing letters ...
+	for (i=lAindex ; i<lAlpha.length ; i++)
+	{
+		lRet += lAlpha.substring (i, i+1).toLowerCase() + "&nbsp;";
+	}
+
+	dwln ("<br>");
+	
+	return (lRet);
+}

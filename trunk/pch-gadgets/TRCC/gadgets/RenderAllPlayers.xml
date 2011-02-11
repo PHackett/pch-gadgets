@@ -69,6 +69,7 @@
 					var lHTML="This is a test";
 					
 					lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length;
+					lHTML += GGTRCC_GetPlayerIndexHTML (GGTRCC_Player_A());
 			
 					//
 					// Display HTML string in <div>
