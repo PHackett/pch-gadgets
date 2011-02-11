@@ -1,348 +1,349 @@
-<Rollcall generated="Thu, 10 Feb 2011 19:56:30 GMT">
-    <Player surname="Abraham" firstname="Steve" firstseason="1983" catches="35" mostcatchesseason="5">
-    <Player surname="Abrahams" firstname="Andy" firstseason="1983" lastseason="1991" catches="7" mostcatchesseason="4">
-    <Player surname="Adams" firstname="Brian" firstseason="1979" lastseason="1984" catches="69" mostcatchesseason="11">
-    <Player surname="Allardyce" firstname="I" firstseason="1997" lastseason="1997">
-    <Player surname="Allsop" firstname="Jeff" firstseason="1996" lastseason="1996">
-    <Player surname="Anderson" firstname="Richard" firstseason="1983" lastseason="1984">
-    <Player surname="Appaloosa" firstname="Paul" firstseason="1976" lastseason="1979">
-    <Player surname="Apps" firstname="Chris">
-    <Player surname="Apps" firstname="Leslie">
-    <Player surname="Ashfand" firstname="Unknown" firstseason="1990" lastseason="1990">
-    <Player surname="Baker" firstname="Jonathan" firstseason="1983" lastseason="1986" catches="4" mostcatchesseason="2">
-    <Player surname="Baker" firstname="Josh">
-    <Player surname="Baker" firstname="Mark">
-    <Player surname="Ball" firstname="S" firstseason="1992" lastseason="1992">
-    <Player surname="Barber" firstname="Neil">
-    <Player surname="Barker" firstname="Mike" firstseason="1983" lastseason="1985" catches="1" mostcatchesseason="1">
-    <Player surname="Barrable" firstname="Stuart">
-    <Player surname="Bartlett" firstname="Rich">
-    <Player surname="Beamish" firstname="David">
-    <Player surname="Beamish" firstname="Steve">
-    <Player surname="Beaton" firstname="S" firstseason="1981" lastseason="1981">
-    <Player surname="Benham" firstname="Unknown">
-    <Player surname="Benjamin" firstname="Dave">
-    <Player surname="Benson" firstname="Alistair">
-    <Player surname="Benson" firstname="Mark">
-    <Player surname="Bentham" firstname="Adrian" firstseason="1984" lastseason="1985">
-    <Player surname="Berger" firstname="S" firstseason="1979" lastseason="1979" catches="2" mostcatchesseason="1">
-    <Player surname="Billimore" firstname="Chris" firstseason="1996" lastseason="1996" catches="1" mostcatchesseason="1">
-    <Player surname="Birch" firstname="Wayne" firstseason="1992" lastseason="1992">
-    <Player surname="Bolton" firstname="M" firstseason="1996" lastseason="1996">
-    <Player surname="Bose" firstname="Chris" firstseason="1990" lastseason="1990" catches="3" mostcatchesseason="3">
-    <Player surname="Boyd" firstname="Ian" firstseason="1992" lastseason="1994" catches="1" mostcatchesseason="1">
-    <Player surname="Boyle" firstname="P" firstseason="1986" lastseason="1986">
-    <Player surname="Brace" firstname="A">
-    <Player surname="Bradley" firstname="J" firstseason="1996" lastseason="1996">
-    <Player surname="Bradley" firstname="L">
-    <Player surname="Bradley" firstname="Vince" firstseason="1987" lastseason="1990" catches="38" mostcatchesseason="16">
-    <Player surname="Bridgeman" firstname="A">
-    <Player surname="Brooklyn" firstname="Alan" firstseason="1979" lastseason="1988" catches="112" mostcatchesseason="12">
-    <Player surname="Brookman" firstname="Adam" firstseason="1989" lastseason="1989">
-    <Player surname="Brown" firstname="M">
-    <Player surname="Bryant" firstname="Jim" firstseason="1975" lastseason="1976">
-    <Player surname="Buchan" firstname="Andy" firstseason="1990" lastseason="1990">
-    <Player surname="Bukin" firstname="Karl">
-    <Player surname="Burke" firstname="Alex">
-    <Player surname="Burke" firstname="James">
-    <Player surname="Burton" firstname="D">
-    <Player surname="Burton" firstname="Howard" firstseason="1988" lastseason="1997" catches="40" mostcatchesseason="12">
-    <Player surname="Canning" firstname="Steve" firstseason="1987" lastseason="1987" catches="2" mostcatchesseason="2">
-    <Player surname="Capel" firstname="George" firstseason="1989" lastseason="1992" catches="3" mostcatchesseason="1">
-    <Player surname="Chambers" firstname="Paul">
-    <Player surname="Choules" firstname="Mike" firstseason="1993" lastseason="1995" catches="1" mostcatchesseason="1">
-    <Player surname="Churchill-Brown" firstname="Ronayne">
-    <Player surname="Clark" firstname="Steve" firstseason="1979" lastseason="1997" catches="65" mostcatchesseason="13">
-    <Player surname="Clarke" firstname="John" firstseason="1991" lastseason="1991">
-    <Player surname="Clements" firstname="Tom">
-    <Player surname="Coates" firstname="Stan" firstseason="1979" lastseason="1986" catches="150" mostcatchesseason="23">
-    <Player surname="Cochrane" firstname="Karl">
-    <Player surname="Cochrane" firstname="Ken" firstseason="1992" lastseason="1992" catches="3" mostcatchesseason="3">
-    <Player surname="Cockerell" firstname="Ian" firstseason="1980" lastseason="1992" catches="1" mostcatchesseason="1">
-    <Player surname="Connor" firstname="Hugh">
-    <Player surname="Cooper" firstname="Jim" firstseason="1998" lastseason="1998">
-    <Player surname="Cooper" firstname="Tim">
-    <Player surname="Cox" firstname="Ray" firstseason="1979" lastseason="1987" catches="60" mostcatchesseason="9">
-    <Player surname="Crawford" firstname="Dave" firstseason="1992" lastseason="1992">
-    <Player surname="Crawford" firstname="K" firstseason="1992" lastseason="1992">
-    <Player surname="Cruceon" firstname="M">
-    <Player surname="Dammer" firstname="Unknown">
-    <Player surname="Darroch" firstname="Duncan" firstseason="1988" lastseason="1988" catches="1" mostcatchesseason="1">
-    <Player surname="Davies" firstname="Daniel">
-    <Player surname="Davies" firstname="Hugh" firstseason="1979" lastseason="1987" catches="24" mostcatchesseason="4">
-    <Player surname="Davies" firstname="J">
-    <Player surname="Davis" firstname="F">
-    <Player surname="Dawson" firstname="Peter" firstseason="1994" lastseason="1997" catches="8" mostcatchesseason="4">
-    <Player surname="Downes" firstname="David" firstseason="1983" catches="162" mostcatchesseason="20">
-    <Player surname="Downes" firstname="Joe">
-    <Player surname="Downes" firstname="Nic" firstseason="1979" catches="131" mostcatchesseason="17">
-    <Player surname="Downes" firstname="Noel" firstseason="1982" lastseason="2001" catches="68" mostcatchesseason="12">
-    <Player surname="Downes" firstname="Tom">
-    <Player surname="Driscoll" firstname="B">
-    <Player surname="Dunn" firstname="Steve" firstseason="1982" lastseason="1988" catches="19" mostcatchesseason="8">
-    <Player surname="Dunsford" firstname="Paul">
-    <Player surname="Eddy" firstname="Nathan">
-    <Player surname="Edney" firstname="Rod" firstseason="1987" lastseason="2002" catches="46" mostcatchesseason="10">
-    <Player surname="Elliot" firstname="S" firstseason="1979" lastseason="1979">
-    <Player surname="Evans" firstname="Chris">
-    <Player surname="Evans" firstname="Drew">
-    <Player surname="Evans" firstname="Jamie" firstseason="1987" lastseason="1991" catches="2" mostcatchesseason="1">
-    <Player surname="Fairall" firstname="Barry" firstseason="1983" lastseason="1983" catches="2" mostcatchesseason="2">
-    <Player surname="Farrar" firstname="Edward">
-    <Player surname="Farrar" firstname="Simon">
-    <Player surname="Farrington" firstname="Mark" firstseason="1997" lastseason="1997" catches="3" mostcatchesseason="3">
-    <Player surname="Fort" firstname="Chris" firstseason="1997" lastseason="2001">
-    <Player surname="Fort" firstname="Edward">
-    <Player surname="Fort" firstname="Hugh" firstseason="1995" catches="10" mostcatchesseason="5">
-    <Player surname="Fort" firstname="James" firstseason="1979" catches="156" mostcatchesseason="15">
-    <Player surname="Fort" firstname="James(Jnr)">
-    <Player surname="Fort" firstname="Matthew" firstseason="1979" lastseason="1996" catches="36" mostcatchesseason="7">
-    <Player surname="Fort" firstname="Richard" firstseason="1996" lastseason="1996">
-    <Player surname="Fort" firstname="Tom" firstseason="1997" catches="180" mostcatchesseason="13">
-    <Player surname="Fox" firstname="Paul" firstseason="1995" lastseason="1996" catches="2" mostcatchesseason="2">
-    <Player surname="Fulcher" firstname="G" firstseason="1979" lastseason="1986" catches="22" mostcatchesseason="5">
-    <Player surname="Fuller" firstname="Luke">
-    <Player surname="Garfoot" firstname="D">
-    <Player surname="Gibbons" firstname="A">
-    <Player surname="Glover" firstname="Tim" firstseason="1979" lastseason="1986" catches="9" mostcatchesseason="2">
-    <Player surname="Goswell" firstname="Keith" firstseason="1975" lastseason="1975">
-    <Player surname="Gray" firstname="E">
-    <Player surname="Gray" firstname="P">
-    <Player surname="Gray" firstname="Theo" firstseason="1979" lastseason="1991" catches="67" mostcatchesseason="9">
-    <Player surname="Gray" firstname="W">
-    <Player surname="Green" firstname="Anthony">
-    <Player surname="Green" firstname="Chris">
-    <Player surname="Green" firstname="R">
-    <Player surname="Green" firstname="Steve">
-    <Player surname="Grimwade" firstname="Ian" firstseason="1989" lastseason="1989">
-    <Player surname="Grinter" firstname="John" firstseason="1983" lastseason="1987" catches="8" mostcatchesseason="3">
-    <Player surname="Grugeon" firstname="Martin" firstseason="1979" lastseason="1982" catches="113" mostcatchesseason="15">
-    <Player surname="Gullick" firstname="A">
-    <Player surname="Gupta" firstname="R">
-    <Player surname="Gurney" firstname="Richard" firstseason="1989" lastseason="1989" catches="1" mostcatchesseason="1">
-    <Player surname="Hackett" firstname="Paul" firstseason="1989" catches="12" mostcatchesseason="3">
-    <Player surname="Hale" firstname="Alan" firstseason="1990" lastseason="1990">
-    <Player surname="Hall" firstname="B">
-    <Player surname="Hall" firstname="Tom">
-    <Player surname="Ham" firstname="Ben" firstseason="1987" lastseason="1987">
-    <Player surname="Hamilton" firstname="John" firstseason="1993" lastseason="1997" catches="9" mostcatchesseason="6">
-    <Player surname="Hancock" firstname="Joe">
-    <Player surname="Hanna" firstname="Kevin" firstseason="1987" lastseason="1987" catches="1" mostcatchesseason="1">
-    <Player surname="Hanton" firstname="Tim" firstseason="1981" lastseason="1984" catches="3" mostcatchesseason="3">
-    <Player surname="Hardcastle" firstname="I" firstseason="1997" lastseason="1997">
-    <Player surname="Harman" firstname="Terry" firstseason="1975" lastseason="1976">
-    <Player surname="Harris" firstname="Dave" firstseason="1979" lastseason="1982" catches="131" mostcatchesseason="26">
-    <Player surname="Hatch" firstname="Bill" firstseason="1983" lastseason="1986" catches="21" mostcatchesseason="6">
-    <Player surname="Hawkins" firstname="A">
-    <Player surname="Hawthorne" firstname="Sean" firstseason="1979" lastseason="1980">
-    <Player surname="Hawthorne" firstname="Terry" firstseason="1975" lastseason="1979">
-    <Player surname="Hay" firstname="Andrew" firstseason="1987" lastseason="1989" catches="2" mostcatchesseason="1">
-    <Player surname="Hayter" firstname="Mark" firstseason="1990" lastseason="1990" catches="1" mostcatchesseason="1">
-    <Player surname="Hayward" firstname="James" firstseason="1981" lastseason="1983" catches="6" mostcatchesseason="3">
-    <Player surname="Head" firstname="Steve" firstseason="1994" lastseason="1994" catches="4" mostcatchesseason="4">
-    <Player surname="Headly" firstname="Vince">
-    <Player surname="Healey" firstname="Nick">
-    <Player surname="Heary" firstname="Michael">
-    <Player surname="Heggarty" firstname="J">
-    <Player surname="Helmore" firstname="Ian" firstseason="1987" lastseason="1996" catches="37" mostcatchesseason="8">
-    <Player surname="Henry" firstname="Jez" firstseason="1994" lastseason="1997" catches="26" mostcatchesseason="12">
-    <Player surname="Hewitson" firstname="Mark">
-    <Player surname="Hewitson" firstname="Mathew">
-    <Player surname="Higgins" firstname="Andy">
-    <Player surname="Hill" firstname="Peter">
-    <Player surname="Hill" firstname="Steve" firstseason="1981" lastseason="1988" catches="53" mostcatchesseason="11">
-    <Player surname="Hobson" firstname="Eddie">
-    <Player surname="Hobson" firstname="Richard" firstseason="1997" lastseason="1997">
-    <Player surname="Hogarth" firstname="Tim" firstseason="1997" lastseason="1997">
-    <Player surname="Hollidge" firstname="Jack" firstseason="1991" lastseason="1993" catches="6" mostcatchesseason="3">
-    <Player surname="Hollidge" firstname="James" firstseason="1992" lastseason="1996" catches="9" mostcatchesseason="4">
-    <Player surname="Holt" firstname="Simon" firstseason="1989" lastseason="1989">
-    <Player surname="Houghton" firstname="M">
-    <Player surname="Houlton" firstname="Mick" firstseason="1979" lastseason="1983" catches="118" mostcatchesseason="21">
-    <Player surname="Howard" firstname="Simon" firstseason="1992" lastseason="1992" catches="2" mostcatchesseason="2">
-    <Player surname="Howells" firstname="John" firstseason="1981" lastseason="1987" catches="22" mostcatchesseason="4">
-    <Player surname="Howells" firstname="Paul" firstseason="1979" lastseason="1992" catches="68" mostcatchesseason="12">
-    <Player surname="Hoy" firstname="Phillip">
-    <Player surname="Huggins" firstname="M" firstseason="1992" lastseason="1992">
-    <Player surname="Hutchings" firstname="Graham" firstseason="1987" lastseason="1987">
-    <Player surname="Imms" firstname="A">
-    <Player surname="Ison" firstname="Ren" firstseason="1987" lastseason="1988" catches="1" mostcatchesseason="1">
-    <Player surname="Jackson" firstname="Andrew">
-    <Player surname="Jackson" firstname="Dave" firstseason="1985" lastseason="1988" catches="9" mostcatchesseason="1">
-    <Player surname="Jackson" firstname="M">
-    <Player surname="James" firstname="Garth">
-    <Player surname="James" firstname="Rob">
-    <Player surname="Jeffries" firstname="Andrew">
-    <Player surname="Johnson" firstname="Tom">
-    <Player surname="Johnston" firstname="Ian" firstseason="1988" lastseason="1988">
-    <Player surname="Jones" firstname="I" firstseason="1975" lastseason="1975">
-    <Player surname="Jones" firstname="Mark">
-    <Player surname="Kelly" firstname="Eddie" firstseason="1980" lastseason="1981" catches="5" mostcatchesseason="4">
-    <Player surname="Kelly" firstname="Peter" firstseason="1979" lastseason="1993" catches="97" mostcatchesseason="12">
-    <Player surname="Kelly" firstname="Simon" firstseason="1983" lastseason="1989" catches="8" mostcatchesseason="2">
-    <Player surname="Kemp" firstname="Graham" firstseason="1986" lastseason="2001" catches="80" mostcatchesseason="18">
-    <Player surname="Kerr" firstname="Keith" firstseason="1993" lastseason="1993">
-    <Player surname="Kilby" firstname="A" firstseason="1990" lastseason="1990" catches="1" mostcatchesseason="1">
-    <Player surname="Kincade" firstname="John" firstseason="1996" lastseason="1996">
-    <Player surname="King" firstname="Andy" firstseason="1988" lastseason="1989" catches="4" mostcatchesseason="3">
-    <Player surname="Kirk" firstname="John" firstseason="1980" lastseason="1989" catches="30" mostcatchesseason="10">
-    <Player surname="Kirk" firstname="P" firstseason="1980" lastseason="1980">
-    <Player surname="Knight" firstname="Kim" firstseason="1984" catches="71" mostcatchesseason="13">
-    <Player surname="Knight" firstname="Richard" firstseason="1989" lastseason="1997" catches="71" mostcatchesseason="13">
-    <Player surname="Knowleson" firstname="Quint" firstseason="1988" lastseason="1990" catches="2" mostcatchesseason="1">
-    <Player surname="Lake" firstname="Peter" firstseason="1979" lastseason="1988" catches="54" mostcatchesseason="6">
-    <Player surname="Lally" firstname="Jas">
-    <Player surname="Lambden" firstname="Rob" firstseason="1992" lastseason="1992">
-    <Player surname="Law" firstname="Unknown">
-    <Player surname="Lawrance" firstname="Rich" firstseason="1987" lastseason="1997" catches="56" mostcatchesseason="10">
-    <Player surname="Lawrence" firstname="Mark" firstseason="1989" lastseason="1995" catches="67" mostcatchesseason="14">
-    <Player surname="Leach" firstname="Nigel">
-    <Player surname="Leadbetter" firstname="Joe">
-    <Player surname="Leadbetter" firstname="Tom">
-    <Player surname="Leicester" firstname="Kieran">
-    <Player surname="Leigh" firstname="Gerwyn">
-    <Player surname="Lewis" firstname="Paul" firstseason="1980" lastseason="1984" catches="10" mostcatchesseason="7">
-    <Player surname="Lilley" firstname="Paul" firstseason="1991" lastseason="1991" catches="2" mostcatchesseason="2">
-    <Player surname="Lines" firstname="Dave" firstseason="1988" lastseason="1988" catches="3" mostcatchesseason="3">
-    <Player surname="Lines" firstname="Jonny">
-    <Player surname="Longmuir" firstname="Richard" firstseason="1984" lastseason="1984" catches="4" mostcatchesseason="4">
-    <Player surname="Lunnon" firstname="Chris">
-    <Player surname="Mahmood" firstname="A">
-    <Player surname="Major" firstname="Dave" firstseason="1988" lastseason="1989" catches="4" mostcatchesseason="4">
-    <Player surname="Markham" firstname="Phil">
-    <Player surname="Martin" firstname="Chris">
-    <Player surname="Martin" firstname="Seth">
-    <Player surname="May" firstname="A">
-    <Player surname="McGready" firstname="A">
-    <Player surname="McNab" firstname="S">
-    <Player surname="Meade" firstname="Pete(Hurley)">
-    <Player surname="Millbank" firstname="Steve" firstseason="1997" lastseason="1997">
-    <Player surname="Molyneux" firstname="N" firstseason="1981" lastseason="1981">
-    <Player surname="Moore" firstname="John">
-    <Player surname="Morgan" firstname="N" firstseason="1979" lastseason="1979">
-    <Player surname="Morrell" firstname="P" firstseason="1975" lastseason="1975">
-    <Player surname="Morris" firstname="Matt" firstseason="1987" lastseason="2002" catches="22" mostcatchesseason="7">
-    <Player surname="Morris" firstname="Peter">
-    <Player surname="Morrison" firstname="John" firstseason="1985" lastseason="1986" catches="8" mostcatchesseason="6">
-    <Player surname="Morrison" firstname="M">
-    <Player surname="Munasinga" firstname="Neville" firstseason="1991" lastseason="1991">
-    <Player surname="Naude" firstname="David">
-    <Player surname="Neall" firstname="Alex" firstseason="1996" lastseason="2002" catches="5" mostcatchesseason="3">
-    <Player surname="Neall" firstname="Greg" firstseason="1996" lastseason="1997" catches="3" mostcatchesseason="2">
-    <Player surname="Neall" firstname="Lawrence" firstseason="1996" lastseason="1997" catches="2" mostcatchesseason="2">
-    <Player surname="Needham" firstname="Paul" firstseason="1989" lastseason="1989">
-    <Player surname="Neenan" firstname="Ben">
-    <Player surname="Newnham" firstname="Peter" firstseason="1989" lastseason="1989" catches="2" mostcatchesseason="1">
-    <Player surname="Nichols" firstname="Spence">
-    <Player surname="Nicholson" firstname="Ken" catches="6" mostcatchesseason="6">
-    <Player surname="Nicol" firstname="Colin" firstseason="1989" lastseason="1991" catches="2" mostcatchesseason="1">
-    <Player surname="Norris" firstname="Andy" firstseason="1979" lastseason="1979">
-    <Player surname="Norris" firstname="Phil" firstseason="1983" lastseason="1987" catches="1" mostcatchesseason="1">
-    <Player surname="Nunn" firstname="George">
-    <Player surname="Nutting" firstname="Simon" firstseason="1994" lastseason="1994" catches="1" mostcatchesseason="1">
-    <Player surname="Orton" firstname="Greg">
-    <Player surname="Owen" firstname="G" firstseason="1987" lastseason="1987" catches="1" mostcatchesseason="1">
-    <Player surname="Parry" firstname="Dave" firstseason="1980" lastseason="1987" catches="26" mostcatchesseason="5">
-    <Player surname="Partington" firstname="Matt">
-    <Player surname="Paterson" firstname="Ken" firstseason="1983" lastseason="1986" catches="7" mostcatchesseason="3">
-    <Player surname="Patnaik" firstname="Sunil">
-    <Player surname="Piddington" firstname="I">
-    <Player surname="Pinder" firstname="J" firstseason="1996" lastseason="1996" catches="1" mostcatchesseason="1">
-    <Player surname="Ponter" firstname="G" firstseason="1986" lastseason="1986">
-    <Player surname="Potier" firstname="Barry" firstseason="1991" lastseason="1997" catches="19" mostcatchesseason="5">
-    <Player surname="Pottage" firstname="Mike">
-    <Player surname="Poulter" firstname="A">
-    <Player surname="Power" firstname="D" firstseason="1980" lastseason="1980">
-    <Player surname="Prior" firstname="Neil" firstseason="1993" lastseason="1995" catches="8" mostcatchesseason="6">
-    <Player surname="Puller" firstname="A" firstseason="1975" lastseason="1975">
-    <Player surname="Quartermain" firstname="Jim">
-    <Player surname="Rahman" firstname="Alfie" firstseason="1991" lastseason="1991">
-    <Player surname="Reaves" firstname="V" firstseason="1985" lastseason="1986">
-    <Player surname="Reed" firstname="P" firstseason="1980" lastseason="1980">
-    <Player surname="Rees" firstname="S" firstseason="1988" lastseason="1988" catches="1" mostcatchesseason="1">
-    <Player surname="Reeves" firstname="David" firstseason="1995" lastseason="1996">
-    <Player surname="Regan" firstname="Trevor" firstseason="1979" lastseason="1987" catches="5" mostcatchesseason="2">
-    <Player surname="Reid" firstname="Sean">
-    <Player surname="Reynolds" firstname="Robin" firstseason="1992" lastseason="1997" catches="52" mostcatchesseason="12">
-    <Player surname="Ridgley" firstname="Alistair">
-    <Player surname="Ripley" firstname="H">
-    <Player surname="Roberts" firstname="Mark">
-    <Player surname="Romel" firstname="Ibrahim">
-    <Player surname="Rudd" firstname="Lewis">
-    <Player surname="Russell" firstname="David">
-    <Player surname="Ryan" firstname="Liam" firstseason="1992" lastseason="1996" catches="5" mostcatchesseason="2">
-    <Player surname="Sabir" firstname="Aneel">
-    <Player surname="Scott" firstname="Andy" firstseason="1979" lastseason="1989" catches="50" mostcatchesseason="10">
-    <Player surname="Seabrook" firstname="I">
-    <Player surname="Searby" firstname="Dave" firstseason="1976" lastseason="1997">
-    <Player surname="Sellers" firstname="Chris" firstseason="1982" lastseason="1991" catches="37" mostcatchesseason="9">
-    <Player surname="Selwyn" firstname="W" firstseason="1975" lastseason="1975">
-    <Player surname="Selzer" firstname="Fred" catches="16" mostcatchesseason="7">
-    <Player surname="Service" firstname="D">
-    <Player surname="Seymour" firstname="A">
-    <Player surname="Seymour" firstname="Roger" firstseason="1995" lastseason="2002" catches="3" mostcatchesseason="2">
-    <Player surname="Sharp" firstname="Tim" firstseason="1995" lastseason="1997" catches="49" mostcatchesseason="17">
-    <Player surname="Sherratt" firstname="Nigel" firstseason="1990" lastseason="1990" catches="1" mostcatchesseason="1">
-    <Player surname="Shetford" firstname="R">
-    <Player surname="Siddell" firstname="Paul" firstseason="1995" lastseason="1997" catches="3" mostcatchesseason="2">
-    <Player surname="Silver" firstname="E" firstseason="1992" lastseason="1992">
-    <Player surname="Simpson" firstname="L" firstseason="1985" lastseason="1985">
-    <Player surname="Singh" firstname="Raja">
-    <Player surname="Smith" firstname="Adam">
-    <Player surname="Smith" firstname="Chris">
-    <Player surname="Smith" firstname="Neil" firstseason="1981" lastseason="1981" catches="6" mostcatchesseason="4">
-    <Player surname="Stevens" firstname="D" firstseason="1979" lastseason="1979">
-    <Player surname="Storey" firstname="G" catches="3" mostcatchesseason="3">
-    <Player surname="Sumner" firstname="I" firstseason="1980" lastseason="1980">
-    <Player surname="Sumpter" firstname="James" firstseason="1993" lastseason="1993">
-    <Player surname="Taplin" firstname="Roger" firstseason="1975" lastseason="1975">
-    <Player surname="Taylor" firstname="Andy" firstseason="1988" lastseason="1988">
-    <Player surname="Taylor" firstname="Chris" firstseason="1993" lastseason="197" catches="15" mostcatchesseason="10">
-    <Player surname="Taylor" firstname="David" firstseason="1994" lastseason="1997" catches="11" mostcatchesseason="5">
-    <Player surname="Taylor" firstname="Mike(Jnr)" firstseason="1994" lastseason="1997" catches="10" mostcatchesseason="5">
-    <Player surname="Taylor" firstname="Mike(Snr)" firstseason="1983" lastseason="1988" catches="19" mostcatchesseason="7">
-    <Player surname="Taylor" firstname="Steve" firstseason="1979" lastseason="1979">
-    <Player surname="Taylor" firstname="T">
-    <Player surname="Teal" firstname="Mark">
-    <Player surname="Telfer" firstname="Chris" firstseason="1975" lastseason="1979">
-    <Player surname="Telfer" firstname="J" firstseason="1979" lastseason="1983" catches="58" mostcatchesseason="12">
-    <Player surname="Telfer" firstname="M">
-    <Player surname="Tennant" firstname="D" firstseason="1990" lastseason="1990">
-    <Player surname="Tennant" firstname="L" firstseason="1990" lastseason="1990">
-    <Player surname="Theron" firstname="Brandon">
-    <Player surname="Thomas" firstname="Barry" firstseason="1979" lastseason="1985" catches="28" mostcatchesseason="7">
-    <Player surname="Thomas" firstname="C" firstseason="1983" lastseason="1983">
-    <Player surname="Thomsett" firstname="Clive" firstseason="1986" lastseason="1986" catches="1" mostcatchesseason="1">
-    <Player surname="Tibbett" firstname="Graham" firstseason="1976" lastseason="1976">
-    <Player surname="Tout" firstname="Nigel" firstseason="1980" lastseason="1981" catches="4" mostcatchesseason="3">
-    <Player surname="Tripp" firstname="Steve" firstseason="1988" lastseason="1989" catches="1" mostcatchesseason="1">
-    <Player surname="Tupper" firstname="Dave" firstseason="1990" lastseason="1991">
-    <Player surname="Turton" firstname="Peter" firstseason="1981" lastseason="1983" catches="10" mostcatchesseason="6">
-    <Player surname="Usher" firstname="P">
-    <Player surname="Wade" firstname="Olly">
-    <Player surname="Walkland" firstname="Steve">
-    <Player surname="Watts" firstname="Jon" firstseason="1994" lastseason="1994" catches="1" mostcatchesseason="1">
-    <Player surname="Webby" firstname="Dave" firstseason="1998" lastseason="1998" catches="1" mostcatchesseason="1">
-    <Player surname="Weir" firstname="Angus">
-    <Player surname="Weir" firstname="Neil">
-    <Player surname="West" firstname="George" firstseason="1969" lastseason="1986" catches="195" mostcatchesseason="32">
-    <Player surname="Whitaker" firstname="A" firstseason="1992" lastseason="1993">
-    <Player surname="White" firstname="Paul" firstseason="1980" lastseason="1990" catches="1" mostcatchesseason="1">
-    <Player surname="Wielickko" firstname="Jack" firstseason="1989" lastseason="1989">
-    <Player surname="Wilkins" firstname="C" firstseason="1983" lastseason="1983">
-    <Player surname="Wilkinson" firstname="Andy" firstseason="1987" lastseason="1997" catches="63" mostcatchesseason="11">
-    <Player surname="Williams" firstname="Dave" firstseason="1980" lastseason="1984" catches="6" mostcatchesseason="3">
-    <Player surname="Willis" firstname="S">
-    <Player surname="Willoughby" firstname="Roger" firstseason="1969" lastseason="1982" catches="37" mostcatchesseason="7">
-    <Player surname="Wood" firstname="P" firstseason="1976" lastseason="1980">
-    <Player surname="Woodford" firstname="Paul" firstseason="1983" lastseason="1983" catches="38" mostcatchesseason="9">
-    <Player surname="Woodhouse" firstname="Graham">
-    <Player surname="Woodman" firstname="Peter" firstseason="1979" lastseason="2002" catches="159" mostcatchesseason="16">
-    <Player surname="Woodward" firstname="Alistair" firstseason="1984" lastseason="1984" catches="4" mostcatchesseason="4">
-    <Player surname="Woodward" firstname="Simon" firstseason="1992" lastseason="1992" catches="1" mostcatchesseason="1">
-    <Player surname="Wren" firstname="Stewart" firstseason="1980" lastseason="2002" catches="142" mostcatchesseason="13">
-    <Player surname="Wright" firstname="Steve" firstseason="1987" lastseason="1987">
-    <Player surname="Yeaden" firstname="Rob" firstseason="1992" lastseason="1993" catches="2" mostcatchesseason="1">
-    <Player surname="Young" firstname="Richard" firstseason="1997" lastseason="1997">
-    <Player surname="Young" firstname="Sam">
+
+<Rollcall generated="Fri, 11 Feb 2011 19:11:42 GMT">
+    <Player surname="Abraham" firstname="Steve" firstseason="1983" catches="35" mostcatchesseason="5"/>
+    <Player surname="Abrahams" firstname="Andy" firstseason="1983" lastseason="1991" catches="7" mostcatchesseason="4"/>
+    <Player surname="Adams" firstname="Brian" firstseason="1979" lastseason="1984" catches="69" mostcatchesseason="11"/>
+    <Player surname="Allardyce" firstname="I" firstseason="1997" lastseason="1997"/>
+    <Player surname="Allsop" firstname="Jeff" firstseason="1996" lastseason="1996"/>
+    <Player surname="Anderson" firstname="Richard" firstseason="1983" lastseason="1984"/>
+    <Player surname="Appaloosa" firstname="Paul" firstseason="1976" lastseason="1979"/>
+    <Player surname="Apps" firstname="Chris"/>
+    <Player surname="Apps" firstname="Leslie"/>
+    <Player surname="Ashfand" firstname="Unknown" firstseason="1990" lastseason="1990"/>
+    <Player surname="Baker" firstname="Jonathan" firstseason="1983" lastseason="1986" catches="4" mostcatchesseason="2"/>
+    <Player surname="Baker" firstname="Josh"/>
+    <Player surname="Baker" firstname="Mark"/>
+    <Player surname="Ball" firstname="S" firstseason="1992" lastseason="1992"/>
+    <Player surname="Barber" firstname="Neil"/>
+    <Player surname="Barker" firstname="Mike" firstseason="1983" lastseason="1985" catches="1" mostcatchesseason="1"/>
+    <Player surname="Barrable" firstname="Stuart"/>
+    <Player surname="Bartlett" firstname="Rich"/>
+    <Player surname="Beamish" firstname="David"/>
+    <Player surname="Beamish" firstname="Steve"/>
+    <Player surname="Beaton" firstname="S" firstseason="1981" lastseason="1981"/>
+    <Player surname="Benham" firstname="Unknown"/>
+    <Player surname="Benjamin" firstname="Dave"/>
+    <Player surname="Benson" firstname="Alistair"/>
+    <Player surname="Benson" firstname="Mark"/>
+    <Player surname="Bentham" firstname="Adrian" firstseason="1984" lastseason="1985"/>
+    <Player surname="Berger" firstname="S" firstseason="1979" lastseason="1979" catches="2" mostcatchesseason="1"/>
+    <Player surname="Billimore" firstname="Chris" firstseason="1996" lastseason="1996" catches="1" mostcatchesseason="1"/>
+    <Player surname="Birch" firstname="Wayne" firstseason="1992" lastseason="1992"/>
+    <Player surname="Bolton" firstname="M" firstseason="1996" lastseason="1996"/>
+    <Player surname="Bose" firstname="Chris" firstseason="1990" lastseason="1990" catches="3" mostcatchesseason="3"/>
+    <Player surname="Boyd" firstname="Ian" firstseason="1992" lastseason="1994" catches="1" mostcatchesseason="1"/>
+    <Player surname="Boyle" firstname="P" firstseason="1986" lastseason="1986"/>
+    <Player surname="Brace" firstname="A"/>
+    <Player surname="Bradley" firstname="J" firstseason="1996" lastseason="1996"/>
+    <Player surname="Bradley" firstname="L"/>
+    <Player surname="Bradley" firstname="Vince" firstseason="1987" lastseason="1990" catches="38" mostcatchesseason="16"/>
+    <Player surname="Bridgeman" firstname="A"/>
+    <Player surname="Brooklyn" firstname="Alan" firstseason="1979" lastseason="1988" catches="112" mostcatchesseason="12"/>
+    <Player surname="Brookman" firstname="Adam" firstseason="1989" lastseason="1989"/>
+    <Player surname="Brown" firstname="M"/>
+    <Player surname="Bryant" firstname="Jim" firstseason="1975" lastseason="1976"/>
+    <Player surname="Buchan" firstname="Andy" firstseason="1990" lastseason="1990"/>
+    <Player surname="Bukin" firstname="Karl"/>
+    <Player surname="Burke" firstname="Alex"/>
+    <Player surname="Burke" firstname="James"/>
+    <Player surname="Burton" firstname="D"/>
+    <Player surname="Burton" firstname="Howard" firstseason="1988" lastseason="1997" catches="40" mostcatchesseason="12"/>
+    <Player surname="Canning" firstname="Steve" firstseason="1987" lastseason="1987" catches="2" mostcatchesseason="2"/>
+    <Player surname="Capel" firstname="George" firstseason="1989" lastseason="1992" catches="3" mostcatchesseason="1"/>
+    <Player surname="Chambers" firstname="Paul"/>
+    <Player surname="Choules" firstname="Mike" firstseason="1993" lastseason="1995" catches="1" mostcatchesseason="1"/>
+    <Player surname="Churchill-Brown" firstname="Ronayne"/>
+    <Player surname="Clark" firstname="Steve" firstseason="1979" lastseason="1997" catches="65" mostcatchesseason="13"/>
+    <Player surname="Clarke" firstname="John" firstseason="1991" lastseason="1991"/>
+    <Player surname="Clements" firstname="Tom"/>
+    <Player surname="Coates" firstname="Stan" firstseason="1979" lastseason="1986" catches="150" mostcatchesseason="23"/>
+    <Player surname="Cochrane" firstname="Karl"/>
+    <Player surname="Cochrane" firstname="Ken" firstseason="1992" lastseason="1992" catches="3" mostcatchesseason="3"/>
+    <Player surname="Cockerell" firstname="Ian" firstseason="1980" lastseason="1992" catches="1" mostcatchesseason="1"/>
+    <Player surname="Connor" firstname="Hugh"/>
+    <Player surname="Cooper" firstname="Jim" firstseason="1998" lastseason="1998"/>
+    <Player surname="Cooper" firstname="Tim"/>
+    <Player surname="Cox" firstname="Ray" firstseason="1979" lastseason="1987" catches="60" mostcatchesseason="9"/>
+    <Player surname="Crawford" firstname="Dave" firstseason="1992" lastseason="1992"/>
+    <Player surname="Crawford" firstname="K" firstseason="1992" lastseason="1992"/>
+    <Player surname="Cruceon" firstname="M"/>
+    <Player surname="Dammer" firstname="Unknown"/>
+    <Player surname="Darroch" firstname="Duncan" firstseason="1988" lastseason="1988" catches="1" mostcatchesseason="1"/>
+    <Player surname="Davies" firstname="Daniel"/>
+    <Player surname="Davies" firstname="Hugh" firstseason="1979" lastseason="1987" catches="24" mostcatchesseason="4"/>
+    <Player surname="Davies" firstname="J"/>
+    <Player surname="Davis" firstname="F"/>
+    <Player surname="Dawson" firstname="Peter" firstseason="1994" lastseason="1997" catches="8" mostcatchesseason="4"/>
+    <Player surname="Downes" firstname="David" firstseason="1983" catches="162" mostcatchesseason="20"/>
+    <Player surname="Downes" firstname="Joe"/>
+    <Player surname="Downes" firstname="Nic" firstseason="1979" catches="131" mostcatchesseason="17"/>
+    <Player surname="Downes" firstname="Noel" firstseason="1982" lastseason="2001" catches="68" mostcatchesseason="12"/>
+    <Player surname="Downes" firstname="Tom"/>
+    <Player surname="Driscoll" firstname="B"/>
+    <Player surname="Dunn" firstname="Steve" firstseason="1982" lastseason="1988" catches="19" mostcatchesseason="8"/>
+    <Player surname="Dunsford" firstname="Paul"/>
+    <Player surname="Eddy" firstname="Nathan"/>
+    <Player surname="Edney" firstname="Rod" firstseason="1987" lastseason="2002" catches="46" mostcatchesseason="10"/>
+    <Player surname="Elliot" firstname="S" firstseason="1979" lastseason="1979"/>
+    <Player surname="Evans" firstname="Chris"/>
+    <Player surname="Evans" firstname="Drew"/>
+    <Player surname="Evans" firstname="Jamie" firstseason="1987" lastseason="1991" catches="2" mostcatchesseason="1"/>
+    <Player surname="Fairall" firstname="Barry" firstseason="1983" lastseason="1983" catches="2" mostcatchesseason="2"/>
+    <Player surname="Farrar" firstname="Edward"/>
+    <Player surname="Farrar" firstname="Simon"/>
+    <Player surname="Farrington" firstname="Mark" firstseason="1997" lastseason="1997" catches="3" mostcatchesseason="3"/>
+    <Player surname="Fort" firstname="Chris" firstseason="1997" lastseason="2001"/>
+    <Player surname="Fort" firstname="Edward"/>
+    <Player surname="Fort" firstname="Hugh" firstseason="1995" catches="10" mostcatchesseason="5"/>
+    <Player surname="Fort" firstname="James" firstseason="1979" catches="156" mostcatchesseason="15"/>
+    <Player surname="Fort" firstname="James(Jnr)"/>
+    <Player surname="Fort" firstname="Matthew" firstseason="1979" lastseason="1996" catches="36" mostcatchesseason="7"/>
+    <Player surname="Fort" firstname="Richard" firstseason="1996" lastseason="1996"/>
+    <Player surname="Fort" firstname="Tom" firstseason="1997" catches="180" mostcatchesseason="13"/>
+    <Player surname="Fox" firstname="Paul" firstseason="1995" lastseason="1996" catches="2" mostcatchesseason="2"/>
+    <Player surname="Fulcher" firstname="G" firstseason="1979" lastseason="1986" catches="22" mostcatchesseason="5"/>
+    <Player surname="Fuller" firstname="Luke"/>
+    <Player surname="Garfoot" firstname="D"/>
+    <Player surname="Gibbons" firstname="A"/>
+    <Player surname="Glover" firstname="Tim" firstseason="1979" lastseason="1986" catches="9" mostcatchesseason="2"/>
+    <Player surname="Goswell" firstname="Keith" firstseason="1975" lastseason="1975"/>
+    <Player surname="Gray" firstname="E"/>
+    <Player surname="Gray" firstname="P"/>
+    <Player surname="Gray" firstname="Theo" firstseason="1979" lastseason="1991" catches="67" mostcatchesseason="9"/>
+    <Player surname="Gray" firstname="W"/>
+    <Player surname="Green" firstname="Anthony"/>
+    <Player surname="Green" firstname="Chris"/>
+    <Player surname="Green" firstname="R"/>
+    <Player surname="Green" firstname="Steve"/>
+    <Player surname="Grimwade" firstname="Ian" firstseason="1989" lastseason="1989"/>
+    <Player surname="Grinter" firstname="John" firstseason="1983" lastseason="1987" catches="8" mostcatchesseason="3"/>
+    <Player surname="Grugeon" firstname="Martin" firstseason="1979" lastseason="1982" catches="113" mostcatchesseason="15"/>
+    <Player surname="Gullick" firstname="A"/>
+    <Player surname="Gupta" firstname="R"/>
+    <Player surname="Gurney" firstname="Richard" firstseason="1989" lastseason="1989" catches="1" mostcatchesseason="1"/>
+    <Player surname="Hackett" firstname="Paul" firstseason="1989" catches="12" mostcatchesseason="3"/>
+    <Player surname="Hale" firstname="Alan" firstseason="1990" lastseason="1990"/>
+    <Player surname="Hall" firstname="B"/>
+    <Player surname="Hall" firstname="Tom"/>
+    <Player surname="Ham" firstname="Ben" firstseason="1987" lastseason="1987"/>
+    <Player surname="Hamilton" firstname="John" firstseason="1993" lastseason="1997" catches="9" mostcatchesseason="6"/>
+    <Player surname="Hancock" firstname="Joe"/>
+    <Player surname="Hanna" firstname="Kevin" firstseason="1987" lastseason="1987" catches="1" mostcatchesseason="1"/>
+    <Player surname="Hanton" firstname="Tim" firstseason="1981" lastseason="1984" catches="3" mostcatchesseason="3"/>
+    <Player surname="Hardcastle" firstname="I" firstseason="1997" lastseason="1997"/>
+    <Player surname="Harman" firstname="Terry" firstseason="1975" lastseason="1976"/>
+    <Player surname="Harris" firstname="Dave" firstseason="1979" lastseason="1982" catches="131" mostcatchesseason="26"/>
+    <Player surname="Hatch" firstname="Bill" firstseason="1983" lastseason="1986" catches="21" mostcatchesseason="6"/>
+    <Player surname="Hawkins" firstname="A"/>
+    <Player surname="Hawthorne" firstname="Sean" firstseason="1979" lastseason="1980"/>
+    <Player surname="Hawthorne" firstname="Terry" firstseason="1975" lastseason="1979"/>
+    <Player surname="Hay" firstname="Andrew" firstseason="1987" lastseason="1989" catches="2" mostcatchesseason="1"/>
+    <Player surname="Hayter" firstname="Mark" firstseason="1990" lastseason="1990" catches="1" mostcatchesseason="1"/>
+    <Player surname="Hayward" firstname="James" firstseason="1981" lastseason="1983" catches="6" mostcatchesseason="3"/>
+    <Player surname="Head" firstname="Steve" firstseason="1994" lastseason="1994" catches="4" mostcatchesseason="4"/>
+    <Player surname="Headly" firstname="Vince"/>
+    <Player surname="Healey" firstname="Nick"/>
+    <Player surname="Heary" firstname="Michael"/>
+    <Player surname="Heggarty" firstname="J"/>
+    <Player surname="Helmore" firstname="Ian" firstseason="1987" lastseason="1996" catches="37" mostcatchesseason="8"/>
+    <Player surname="Henry" firstname="Jez" firstseason="1994" lastseason="1997" catches="26" mostcatchesseason="12"/>
+    <Player surname="Hewitson" firstname="Mark"/>
+    <Player surname="Hewitson" firstname="Mathew"/>
+    <Player surname="Higgins" firstname="Andy"/>
+    <Player surname="Hill" firstname="Peter"/>
+    <Player surname="Hill" firstname="Steve" firstseason="1981" lastseason="1988" catches="53" mostcatchesseason="11"/>
+    <Player surname="Hobson" firstname="Eddie"/>
+    <Player surname="Hobson" firstname="Richard" firstseason="1997" lastseason="1997"/>
+    <Player surname="Hogarth" firstname="Tim" firstseason="1997" lastseason="1997"/>
+    <Player surname="Hollidge" firstname="Jack" firstseason="1991" lastseason="1993" catches="6" mostcatchesseason="3"/>
+    <Player surname="Hollidge" firstname="James" firstseason="1992" lastseason="1996" catches="9" mostcatchesseason="4"/>
+    <Player surname="Holt" firstname="Simon" firstseason="1989" lastseason="1989"/>
+    <Player surname="Houghton" firstname="M"/>
+    <Player surname="Houlton" firstname="Mick" firstseason="1979" lastseason="1983" catches="118" mostcatchesseason="21"/>
+    <Player surname="Howard" firstname="Simon" firstseason="1992" lastseason="1992" catches="2" mostcatchesseason="2"/>
+    <Player surname="Howells" firstname="John" firstseason="1981" lastseason="1987" catches="22" mostcatchesseason="4"/>
+    <Player surname="Howells" firstname="Paul" firstseason="1979" lastseason="1992" catches="68" mostcatchesseason="12"/>
+    <Player surname="Hoy" firstname="Phillip"/>
+    <Player surname="Huggins" firstname="M" firstseason="1992" lastseason="1992"/>
+    <Player surname="Hutchings" firstname="Graham" firstseason="1987" lastseason="1987"/>
+    <Player surname="Imms" firstname="A"/>
+    <Player surname="Ison" firstname="Ren" firstseason="1987" lastseason="1988" catches="1" mostcatchesseason="1"/>
+    <Player surname="Jackson" firstname="Andrew"/>
+    <Player surname="Jackson" firstname="Dave" firstseason="1985" lastseason="1988" catches="9" mostcatchesseason="1"/>
+    <Player surname="Jackson" firstname="M"/>
+    <Player surname="James" firstname="Garth"/>
+    <Player surname="James" firstname="Rob"/>
+    <Player surname="Jeffries" firstname="Andrew"/>
+    <Player surname="Johnson" firstname="Tom"/>
+    <Player surname="Johnston" firstname="Ian" firstseason="1988" lastseason="1988"/>
+    <Player surname="Jones" firstname="I" firstseason="1975" lastseason="1975"/>
+    <Player surname="Jones" firstname="Mark"/>
+    <Player surname="Kelly" firstname="Eddie" firstseason="1980" lastseason="1981" catches="5" mostcatchesseason="4"/>
+    <Player surname="Kelly" firstname="Peter" firstseason="1979" lastseason="1993" catches="97" mostcatchesseason="12"/>
+    <Player surname="Kelly" firstname="Simon" firstseason="1983" lastseason="1989" catches="8" mostcatchesseason="2"/>
+    <Player surname="Kemp" firstname="Graham" firstseason="1986" lastseason="2001" catches="80" mostcatchesseason="18"/>
+    <Player surname="Kerr" firstname="Keith" firstseason="1993" lastseason="1993"/>
+    <Player surname="Kilby" firstname="A" firstseason="1990" lastseason="1990" catches="1" mostcatchesseason="1"/>
+    <Player surname="Kincade" firstname="John" firstseason="1996" lastseason="1996"/>
+    <Player surname="King" firstname="Andy" firstseason="1988" lastseason="1989" catches="4" mostcatchesseason="3"/>
+    <Player surname="Kirk" firstname="John" firstseason="1980" lastseason="1989" catches="30" mostcatchesseason="10"/>
+    <Player surname="Kirk" firstname="P" firstseason="1980" lastseason="1980"/>
+    <Player surname="Knight" firstname="Kim" firstseason="1984" catches="71" mostcatchesseason="13"/>
+    <Player surname="Knight" firstname="Richard" firstseason="1989" lastseason="1997" catches="71" mostcatchesseason="13"/>
+    <Player surname="Knowleson" firstname="Quint" firstseason="1988" lastseason="1990" catches="2" mostcatchesseason="1"/>
+    <Player surname="Lake" firstname="Peter" firstseason="1979" lastseason="1988" catches="54" mostcatchesseason="6"/>
+    <Player surname="Lally" firstname="Jas"/>
+    <Player surname="Lambden" firstname="Rob" firstseason="1992" lastseason="1992"/>
+    <Player surname="Law" firstname="Unknown"/>
+    <Player surname="Lawrance" firstname="Rich" firstseason="1987" lastseason="1997" catches="56" mostcatchesseason="10"/>
+    <Player surname="Lawrence" firstname="Mark" firstseason="1989" lastseason="1995" catches="67" mostcatchesseason="14"/>
+    <Player surname="Leach" firstname="Nigel"/>
+    <Player surname="Leadbetter" firstname="Joe"/>
+    <Player surname="Leadbetter" firstname="Tom"/>
+    <Player surname="Leicester" firstname="Kieran"/>
+    <Player surname="Leigh" firstname="Gerwyn"/>
+    <Player surname="Lewis" firstname="Paul" firstseason="1980" lastseason="1984" catches="10" mostcatchesseason="7"/>
+    <Player surname="Lilley" firstname="Paul" firstseason="1991" lastseason="1991" catches="2" mostcatchesseason="2"/>
+    <Player surname="Lines" firstname="Dave" firstseason="1988" lastseason="1988" catches="3" mostcatchesseason="3"/>
+    <Player surname="Lines" firstname="Jonny"/>
+    <Player surname="Longmuir" firstname="Richard" firstseason="1984" lastseason="1984" catches="4" mostcatchesseason="4"/>
+    <Player surname="Lunnon" firstname="Chris"/>
+    <Player surname="Mahmood" firstname="A"/>
+    <Player surname="Major" firstname="Dave" firstseason="1988" lastseason="1989" catches="4" mostcatchesseason="4"/>
+    <Player surname="Markham" firstname="Phil"/>
+    <Player surname="Martin" firstname="Chris"/>
+    <Player surname="Martin" firstname="Seth"/>
+    <Player surname="May" firstname="A"/>
+    <Player surname="McGready" firstname="A"/>
+    <Player surname="McNab" firstname="S"/>
+    <Player surname="Meade" firstname="Pete(Hurley)"/>
+    <Player surname="Millbank" firstname="Steve" firstseason="1997" lastseason="1997"/>
+    <Player surname="Molyneux" firstname="N" firstseason="1981" lastseason="1981"/>
+    <Player surname="Moore" firstname="John"/>
+    <Player surname="Morgan" firstname="N" firstseason="1979" lastseason="1979"/>
+    <Player surname="Morrell" firstname="P" firstseason="1975" lastseason="1975"/>
+    <Player surname="Morris" firstname="Matt" firstseason="1987" lastseason="2002" catches="22" mostcatchesseason="7"/>
+    <Player surname="Morris" firstname="Peter"/>
+    <Player surname="Morrison" firstname="John" firstseason="1985" lastseason="1986" catches="8" mostcatchesseason="6"/>
+    <Player surname="Morrison" firstname="M"/>
+    <Player surname="Munasinga" firstname="Neville" firstseason="1991" lastseason="1991"/>
+    <Player surname="Naude" firstname="David"/>
+    <Player surname="Neall" firstname="Alex" firstseason="1996" lastseason="2002" catches="5" mostcatchesseason="3"/>
+    <Player surname="Neall" firstname="Greg" firstseason="1996" lastseason="1997" catches="3" mostcatchesseason="2"/>
+    <Player surname="Neall" firstname="Lawrence" firstseason="1996" lastseason="1997" catches="2" mostcatchesseason="2"/>
+    <Player surname="Needham" firstname="Paul" firstseason="1989" lastseason="1989"/>
+    <Player surname="Neenan" firstname="Ben"/>
+    <Player surname="Newnham" firstname="Peter" firstseason="1989" lastseason="1989" catches="2" mostcatchesseason="1"/>
+    <Player surname="Nichols" firstname="Spence"/>
+    <Player surname="Nicholson" firstname="Ken" catches="6" mostcatchesseason="6"/>
+    <Player surname="Nicol" firstname="Colin" firstseason="1989" lastseason="1991" catches="2" mostcatchesseason="1"/>
+    <Player surname="Norris" firstname="Andy" firstseason="1979" lastseason="1979"/>
+    <Player surname="Norris" firstname="Phil" firstseason="1983" lastseason="1987" catches="1" mostcatchesseason="1"/>
+    <Player surname="Nunn" firstname="George"/>
+    <Player surname="Nutting" firstname="Simon" firstseason="1994" lastseason="1994" catches="1" mostcatchesseason="1"/>
+    <Player surname="Orton" firstname="Greg"/>
+    <Player surname="Owen" firstname="G" firstseason="1987" lastseason="1987" catches="1" mostcatchesseason="1"/>
+    <Player surname="Parry" firstname="Dave" firstseason="1980" lastseason="1987" catches="26" mostcatchesseason="5"/>
+    <Player surname="Partington" firstname="Matt"/>
+    <Player surname="Paterson" firstname="Ken" firstseason="1983" lastseason="1986" catches="7" mostcatchesseason="3"/>
+    <Player surname="Patnaik" firstname="Sunil"/>
+    <Player surname="Piddington" firstname="I"/>
+    <Player surname="Pinder" firstname="J" firstseason="1996" lastseason="1996" catches="1" mostcatchesseason="1"/>
+    <Player surname="Ponter" firstname="G" firstseason="1986" lastseason="1986"/>
+    <Player surname="Potier" firstname="Barry" firstseason="1991" lastseason="1997" catches="19" mostcatchesseason="5"/>
+    <Player surname="Pottage" firstname="Mike"/>
+    <Player surname="Poulter" firstname="A"/>
+    <Player surname="Power" firstname="D" firstseason="1980" lastseason="1980"/>
+    <Player surname="Prior" firstname="Neil" firstseason="1993" lastseason="1995" catches="8" mostcatchesseason="6"/>
+    <Player surname="Puller" firstname="A" firstseason="1975" lastseason="1975"/>
+    <Player surname="Quartermain" firstname="Jim"/>
+    <Player surname="Rahman" firstname="Alfie" firstseason="1991" lastseason="1991"/>
+    <Player surname="Reaves" firstname="V" firstseason="1985" lastseason="1986"/>
+    <Player surname="Reed" firstname="P" firstseason="1980" lastseason="1980"/>
+    <Player surname="Rees" firstname="S" firstseason="1988" lastseason="1988" catches="1" mostcatchesseason="1"/>
+    <Player surname="Reeves" firstname="David" firstseason="1995" lastseason="1996"/>
+    <Player surname="Regan" firstname="Trevor" firstseason="1979" lastseason="1987" catches="5" mostcatchesseason="2"/>
+    <Player surname="Reid" firstname="Sean"/>
+    <Player surname="Reynolds" firstname="Robin" firstseason="1992" lastseason="1997" catches="52" mostcatchesseason="12"/>
+    <Player surname="Ridgley" firstname="Alistair"/>
+    <Player surname="Ripley" firstname="H"/>
+    <Player surname="Roberts" firstname="Mark"/>
+    <Player surname="Romel" firstname="Ibrahim"/>
+    <Player surname="Rudd" firstname="Lewis"/>
+    <Player surname="Russell" firstname="David"/>
+    <Player surname="Ryan" firstname="Liam" firstseason="1992" lastseason="1996" catches="5" mostcatchesseason="2"/>
+    <Player surname="Sabir" firstname="Aneel"/>
+    <Player surname="Scott" firstname="Andy" firstseason="1979" lastseason="1989" catches="50" mostcatchesseason="10"/>
+    <Player surname="Seabrook" firstname="I"/>
+    <Player surname="Searby" firstname="Dave" firstseason="1976" lastseason="1997"/>
+    <Player surname="Sellers" firstname="Chris" firstseason="1982" lastseason="1991" catches="37" mostcatchesseason="9"/>
+    <Player surname="Selwyn" firstname="W" firstseason="1975" lastseason="1975"/>
+    <Player surname="Selzer" firstname="Fred" catches="16" mostcatchesseason="7"/>
+    <Player surname="Service" firstname="D"/>
+    <Player surname="Seymour" firstname="A"/>
+    <Player surname="Seymour" firstname="Roger" firstseason="1995" lastseason="2002" catches="3" mostcatchesseason="2"/>
+    <Player surname="Sharp" firstname="Tim" firstseason="1995" lastseason="1997" catches="49" mostcatchesseason="17"/>
+    <Player surname="Sherratt" firstname="Nigel" firstseason="1990" lastseason="1990" catches="1" mostcatchesseason="1"/>
+    <Player surname="Shetford" firstname="R"/>
+    <Player surname="Siddell" firstname="Paul" firstseason="1995" lastseason="1997" catches="3" mostcatchesseason="2"/>
+    <Player surname="Silver" firstname="E" firstseason="1992" lastseason="1992"/>
+    <Player surname="Simpson" firstname="L" firstseason="1985" lastseason="1985"/>
+    <Player surname="Singh" firstname="Raja"/>
+    <Player surname="Smith" firstname="Adam"/>
+    <Player surname="Smith" firstname="Chris"/>
+    <Player surname="Smith" firstname="Neil" firstseason="1981" lastseason="1981" catches="6" mostcatchesseason="4"/>
+    <Player surname="Stevens" firstname="D" firstseason="1979" lastseason="1979"/>
+    <Player surname="Storey" firstname="G" catches="3" mostcatchesseason="3"/>
+    <Player surname="Sumner" firstname="I" firstseason="1980" lastseason="1980"/>
+    <Player surname="Sumpter" firstname="James" firstseason="1993" lastseason="1993"/>
+    <Player surname="Taplin" firstname="Roger" firstseason="1975" lastseason="1975"/>
+    <Player surname="Taylor" firstname="Andy" firstseason="1988" lastseason="1988"/>
+    <Player surname="Taylor" firstname="Chris" firstseason="1993" lastseason="197" catches="15" mostcatchesseason="10"/>
+    <Player surname="Taylor" firstname="David" firstseason="1994" lastseason="1997" catches="11" mostcatchesseason="5"/>
+    <Player surname="Taylor" firstname="Mike(Jnr)" firstseason="1994" lastseason="1997" catches="10" mostcatchesseason="5"/>
+    <Player surname="Taylor" firstname="Mike(Snr)" firstseason="1983" lastseason="1988" catches="19" mostcatchesseason="7"/>
+    <Player surname="Taylor" firstname="Steve" firstseason="1979" lastseason="1979"/>
+    <Player surname="Taylor" firstname="T"/>
+    <Player surname="Teal" firstname="Mark"/>
+    <Player surname="Telfer" firstname="Chris" firstseason="1975" lastseason="1979"/>
+    <Player surname="Telfer" firstname="J" firstseason="1979" lastseason="1983" catches="58" mostcatchesseason="12"/>
+    <Player surname="Telfer" firstname="M"/>
+    <Player surname="Tennant" firstname="D" firstseason="1990" lastseason="1990"/>
+    <Player surname="Tennant" firstname="L" firstseason="1990" lastseason="1990"/>
+    <Player surname="Theron" firstname="Brandon"/>
+    <Player surname="Thomas" firstname="Barry" firstseason="1979" lastseason="1985" catches="28" mostcatchesseason="7"/>
+    <Player surname="Thomas" firstname="C" firstseason="1983" lastseason="1983"/>
+    <Player surname="Thomsett" firstname="Clive" firstseason="1986" lastseason="1986" catches="1" mostcatchesseason="1"/>
+    <Player surname="Tibbett" firstname="Graham" firstseason="1976" lastseason="1976"/>
+    <Player surname="Tout" firstname="Nigel" firstseason="1980" lastseason="1981" catches="4" mostcatchesseason="3"/>
+    <Player surname="Tripp" firstname="Steve" firstseason="1988" lastseason="1989" catches="1" mostcatchesseason="1"/>
+    <Player surname="Tupper" firstname="Dave" firstseason="1990" lastseason="1991"/>
+    <Player surname="Turton" firstname="Peter" firstseason="1981" lastseason="1983" catches="10" mostcatchesseason="6"/>
+    <Player surname="Usher" firstname="P"/>
+    <Player surname="Wade" firstname="Olly"/>
+    <Player surname="Walkland" firstname="Steve"/>
+    <Player surname="Watts" firstname="Jon" firstseason="1994" lastseason="1994" catches="1" mostcatchesseason="1"/>
+    <Player surname="Webby" firstname="Dave" firstseason="1998" lastseason="1998" catches="1" mostcatchesseason="1"/>
+    <Player surname="Weir" firstname="Angus"/>
+    <Player surname="Weir" firstname="Neil"/>
+    <Player surname="West" firstname="George" firstseason="1969" lastseason="1986" catches="195" mostcatchesseason="32"/>
+    <Player surname="Whitaker" firstname="A" firstseason="1992" lastseason="1993"/>
+    <Player surname="White" firstname="Paul" firstseason="1980" lastseason="1990" catches="1" mostcatchesseason="1"/>
+    <Player surname="Wielickko" firstname="Jack" firstseason="1989" lastseason="1989"/>
+    <Player surname="Wilkins" firstname="C" firstseason="1983" lastseason="1983"/>
+    <Player surname="Wilkinson" firstname="Andy" firstseason="1987" lastseason="1997" catches="63" mostcatchesseason="11"/>
+    <Player surname="Williams" firstname="Dave" firstseason="1980" lastseason="1984" catches="6" mostcatchesseason="3"/>
+    <Player surname="Willis" firstname="S"/>
+    <Player surname="Willoughby" firstname="Roger" firstseason="1969" lastseason="1982" catches="37" mostcatchesseason="7"/>
+    <Player surname="Wood" firstname="P" firstseason="1976" lastseason="1980"/>
+    <Player surname="Woodford" firstname="Paul" firstseason="1983" lastseason="1983" catches="38" mostcatchesseason="9"/>
+    <Player surname="Woodhouse" firstname="Graham"/>
+    <Player surname="Woodman" firstname="Peter" firstseason="1979" lastseason="2002" catches="159" mostcatchesseason="16"/>
+    <Player surname="Woodward" firstname="Alistair" firstseason="1984" lastseason="1984" catches="4" mostcatchesseason="4"/>
+    <Player surname="Woodward" firstname="Simon" firstseason="1992" lastseason="1992" catches="1" mostcatchesseason="1"/>
+    <Player surname="Wren" firstname="Stewart" firstseason="1980" lastseason="2002" catches="142" mostcatchesseason="13"/>
+    <Player surname="Wright" firstname="Steve" firstseason="1987" lastseason="1987"/>
+    <Player surname="Yeaden" firstname="Rob" firstseason="1992" lastseason="1993" catches="2" mostcatchesseason="1"/>
+    <Player surname="Young" firstname="Richard" firstseason="1997" lastseason="1997"/>
+    <Player surname="Young" firstname="Sam"/>
 </Rollcall>
