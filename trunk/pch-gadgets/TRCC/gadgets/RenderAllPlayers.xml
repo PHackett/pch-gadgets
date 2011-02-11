@@ -61,6 +61,7 @@
 					//
 					// Parse the data
 					//
+					GGTRCC_ParsePlayerRollcallXML (response);
 					
 					//
 					// Make the HTML
