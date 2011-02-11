@@ -68,8 +68,14 @@
 					//
 					var lHTML="This is a test";
 					
-					lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length;
-					lHTML += GGTRCC_GetPlayerIndexHTML (GGTRCC_Player_A());
+					lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length + "<br>";
+					lHTML += GGTRCC_GetPlayerIndexHTML (GGTRCC_Player_A()) + "<br>;
+					
+					for (var i=0 ; i<GGTRCC_Player_A().length ; ++i)
+					{
+						lHTML += GGTRCC_Player_A()[i].Name() + "<br>";
+					}
+					
 			
 					//
 					// Display HTML string in <div>
