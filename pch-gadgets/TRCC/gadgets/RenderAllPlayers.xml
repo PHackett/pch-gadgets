@@ -67,7 +67,7 @@
 					//
 					var lHTML="This is a test";
 					
-					lHTML += " gGGTRCC_Player_A().length = " + gGGTRCC_Player_A().length;
+					lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length;
 			
 					//
 					// Display HTML string in <div>
