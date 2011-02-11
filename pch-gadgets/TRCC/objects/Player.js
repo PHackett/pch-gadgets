@@ -159,7 +159,5 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 		lRet += lAlpha.substring (i, i+1).toLowerCase() + "&nbsp;";
 	}
 
-	dwln ("<br>");
-	
 	return (lRet);
 }
