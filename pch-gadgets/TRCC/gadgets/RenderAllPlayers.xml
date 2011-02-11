@@ -66,6 +66,8 @@
 					// Make the HTML
 					//
 					var lHTML="This is a test";
+					
+					lHTML += " gGGTRCC_Player_A().length = " + gGGTRCC_Player_A().length;
 			
 					//
 					// Display HTML string in <div>
