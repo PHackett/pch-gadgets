@@ -143,6 +143,8 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 	var lAindex=0;
 
 	lRet += "<p align='center'>";
+	lRet +=   "<table width='90%' border='0'>";
+	lRet +=     "<tr>";
 
 	for (i=0 ; i<aPlayers.length ; i++)
 	{
@@ -150,14 +152,16 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 
 		while (lAlpha.substring (lAindex, lAindex+1) < lSfl)
 		{
-			lRet += lAlpha.substring (lAindex, lAindex+1).toLowerCase() + "&nbsp;";
+			lRet += "<td>" + lAlpha.substring (lAindex, lAindex+1).toLowerCase() + "&nbsp;" + "</td>";
 			lAindex++;
 		}
 
 		if (lAlpha.substring (lAindex, lAindex+1) == lSfl)
 		{
-			lRet += "<a href=\"#" + lAlpha.substring (lAindex, lAindex+1) + "\">" +
-								    lAlpha.substring (lAindex, lAindex+1) + "<a>";
+			lRet += "<td>" + 
+					  "<a href=\"#" + lAlpha.substring (lAindex, lAindex+1) + "\">" +
+								      lAlpha.substring (lAindex, lAindex+1) + "<a>"
+					"</td>";
 			lAindex++;
 		}
 	}
@@ -168,6 +172,8 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 		lRet += lAlpha.substring (i, i+1).toLowerCase() + "&nbsp;";
 	}
 
+	lRet +=     "</tr>";
+	lRet +=   "</table>";
 	lRet += "</p>";
 
 	return (lRet);
