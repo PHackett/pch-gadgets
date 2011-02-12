@@ -135,8 +135,9 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 	var lAlpha="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	var lAindex=0;
 
-	lRet += "<table width='90%' cellSpacing='0' cellPadding='0' border='0'>";
-	lRet +=   "<tr>";
+	lRet += "<p align='center'>";
+	lRet +=   "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=     "<tr>";
 
 
 	for (i=0 ; i<aPlayers.length ; i++)
@@ -167,8 +168,9 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 		lRet += lAlpha.substring (i, i+1).toLowerCase() + "&nbsp;";
 	}
 
-	lRet +=   "</tr>";
-	lRet += "</table>";
+	lRet +=     "</tr>";
+	lRet +=   "</table>";
+	lRet += "</p>";
 
 	return (lRet);
 }
