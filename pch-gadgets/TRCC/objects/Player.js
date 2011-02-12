@@ -254,7 +254,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 		}
 
 		lRet += "<td>";
-			aPlayers[i].HTML();
+		lRet += aPlayers[i].HTML();
 		lRet += "</td>";
 
 		++lWir;
