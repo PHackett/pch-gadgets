@@ -44,6 +44,7 @@ function GGTRCC_Player (aPlayerXML)
 	//
 	this.Name		= GGTRCC_Player___Name;
 	this.Canonical	= GGTRCC_Player___Canonical;
+	this.HTML		= GGTRCC_Player___HTML;
 }
 
 
@@ -80,6 +81,12 @@ function GGTRCC_Player___Canonical ()
 	
 	return (lRet.toLowerCase());
 	
+}
+
+
+function GGTRCC_Player___HTML()
+{
+	return (this.Name());
 }
 
 
@@ -125,9 +132,9 @@ function GGTRCC_ParsePlayerRollcallXML (aXML)
 
 
 //--------------------------------[GGTRCC_GetPlayerIndexHTML]-
-// Generate the HTML got the A-Z players index
+// Generate the HTML for the A-Z players index
 //
-//	@param	aXML	IN	The Rollcall XML in all it's glory
+//	@param	aPlayers	IN	Array of GGTRCC_Player objects
 //------------------------------------------------------------
 function GGTRCC_GetPlayerIndexHTML (aPlayers)
 {
@@ -136,15 +143,10 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 	var lAindex=0;
 
 	lRet += "<p align='center'>";
-	lRet +=   "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
-	lRet +=     "<tr>";
-
 
 	for (i=0 ; i<aPlayers.length ; i++)
 	{
 		var lSfl=aPlayers[i].mSurname.substring (0, 1).toUpperCase();
-
-		lRet += "<td>";
 
 		while (lAlpha.substring (lAindex, lAindex+1) < lSfl)
 		{
@@ -158,8 +160,6 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 								    lAlpha.substring (lAindex, lAindex+1) + "<a>";
 			lAindex++;
 		}
-
-		lRet += "</td>";
 	}
 
 	// write out trailing letters ...
@@ -168,9 +168,114 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 		lRet += lAlpha.substring (i, i+1).toLowerCase() + "&nbsp;";
 	}
 
-	lRet +=     "</tr>";
-	lRet +=   "</table>";
 	lRet += "</p>";
+
+	return (lRet);
+}
+
+
+//--------------------------------[GGTRCC_GetPlayersHTML]-
+// Generate the HTML for all the players
+//
+//	@param	aPlayers	IN	Array of GGTRCC_Player objects
+//------------------------------------------------------------
+function GGTRCC_GetPlayersHTML (aPlayers)
+{
+	var lRet="";
+	var lNperLine=3;
+	var lHaveRow=false;
+	var lWir=0;
+
+	var lCurIndex="";
+
+	lRet += "<table width='100%' border='0'>";
+
+	for (var i=0 ; i<aPlayers.length ; ++i)
+	{
+		var lSfl=aPlayers[i].mSurname.substring (0, 1).toUpperCase();
+
+		if (lSfl != lCurIndex)
+		{
+			if (lHaveRow)
+			{
+				//
+				// Close off previous row
+				//
+				for (var j=0 ; j< (lNperLine - (lWir % (lNperLine+1))) ; j++)
+				{
+					lRet += "<td>&nbsp;</td>";
+				}
+
+				lRet +=       "</td>";
+				lRet +=     "</tr>";
+				lRet +=   "</table>";
+				lRet += "</tr>";
+			}
+
+			//
+			// Blank line
+			//
+			lRet += "<tr>";
+			lRet +=   "<td>&nbsp;</td>";
+			lRet += "</tr>";
+
+			//
+			// Alphabet header
+			//
+			lRet += "<tr class='NavBtnCur'>";
+			lRet +=   "<td>";
+			lRet +=     "<a name=\"" + lSfl + "\"><b>" + lSfl + "</b>";
+			lRet +=   "</td>";
+			lRet += "</tr>";
+
+			//
+			// Where the names live ...
+			//
+			lRet += "<tr>";
+			lRet +=   "<td>";
+			lRet +=     "<table width='100%' border='0'>";
+			lRet +=       "<tr>";
+			lRet +=         "<td width='10%'>&nbsp;</td>";
+
+			lHaveRow = true;
+			lWir = 0;	// No entries in this row 
+
+			lCurIndex = lSfl;
+		}
+
+		if (lWir == lNperLine)
+		{
+			// Close off this row & start another
+			lRet += "</tr>";
+			lRet += "<tr>";
+			lREt +=   "<td width='10%'>&nbsp;</td>";
+
+			lWir = 0;
+		}
+
+		lRet += "<td>";
+			aPlayers[i].HTML();
+		lRet += "</td>";
+
+		++lWir;
+	}
+
+	if (lHaveRow)
+	{
+		//
+		// Close off previous row
+		//
+		for (var j=0 ; j< (lNperLine - (lWir % (lNperLine + 1))) ; j++)
+		{
+			lRet += "<td>&nbsp;</td>";
+		}
+
+		lRet += "</tr>";
+
+		lRet += "</table>";
+	}
+
+	lRet += "</table>";
 
 	return (lRet);
 }
