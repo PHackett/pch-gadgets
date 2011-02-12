@@ -18,7 +18,7 @@ function gGGTRCC_Player___sort (aA, aB)
 	{
 		lRet = (aA.mFirstname > aB.mFirstname);
 	}
-	
+
 	return (lRet);
 }
 
@@ -135,9 +135,15 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 	var lAlpha="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	var lAindex=0;
 
+	lRet += "<table width='90%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<tr>";
+
+
 	for (i=0 ; i<aPlayers.length ; i++)
 	{
 		var lSfl=aPlayers[i].mSurname.substring (0, 1).toUpperCase();
+
+		lRet += "<td>";
 
 		while (lAlpha.substring (lAindex, lAindex+1) < lSfl)
 		{
@@ -151,6 +157,8 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 								    lAlpha.substring (lAindex, lAindex+1) + "<a>";
 			lAindex++;
 		}
+
+		lRet += "</td>";
 	}
 
 	// write out trailing letters ...
@@ -158,6 +166,9 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 	{
 		lRet += lAlpha.substring (i, i+1).toLowerCase() + "&nbsp;";
 	}
+
+	lRet +=   "</tr>";
+	lRet += "</table>";
 
 	return (lRet);
 }
