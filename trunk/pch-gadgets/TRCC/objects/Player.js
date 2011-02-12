@@ -248,7 +248,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			// Close off this row & start another
 			lRet += "</tr>";
 			lRet += "<tr>";
-			lREt +=   "<td width='10%'>&nbsp;</td>";
+			lRet +=   "<td width='10%'>&nbsp;</td>";
 
 			lWir = 0;
 		}
