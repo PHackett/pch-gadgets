@@ -188,7 +188,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 
 	var lCurIndex="";
 
-	lRet += "<table width='100%' border='1'>";
+	lRet += "<table width='100%' border='0'>";
 
 	for (var i=0 ; i<aPlayers.length ; ++i)
 	{
