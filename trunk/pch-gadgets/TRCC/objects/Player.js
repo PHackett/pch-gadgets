@@ -346,7 +346,7 @@ function GGTRCC_GetPlayersHTMLByLetter (aPlayers, aL)
 		//
 		// Start off the table
 		//
-		lRet += "<table width='100%' border='1'>";
+		lRet += "<table width='100%' border='0'>";
 		lRet +=   "<tr>";
 		lRet +=     "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
 		
