@@ -196,7 +196,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 
 	var lCurIndex="";
 
-	lRet += "<table width='100%' border='1'>";
+	lRet += "<table width='100%' border='0'>";
 
 	for (var i=0 ; i<aPlayers.length ; ++i)
 	{
@@ -241,7 +241,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			//
 			lRet += "<tr>";
 			lRet +=   "<td>";
-			lRet +=     "<table width='100%' border='1'>";
+			lRet +=     "<table width='100%' border='0'>";
 			lRet +=       "<tr>";
 			lRet +=         "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
 
