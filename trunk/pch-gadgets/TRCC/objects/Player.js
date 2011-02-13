@@ -118,7 +118,7 @@ function GGTRCC_Player___Canonical ()
 
 function GGTRCC_Player___HTML()
 {
-	return (this.Name());
+	return ("<a href='/a/twyfordcc.org.uk/home/players/" + this.Canonical() + "'>" + this.Name() + "</a>");
 }
 
 
