@@ -12,7 +12,7 @@
 		scrolling="true">
 	</ModulePrefs>
 
-	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
+	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value="_parent"/>
 	<UserPref name="fisrstLetterSurname" display_name="First letter of surname" datatype="string" default_value="A"/>
 
 	<Content type="html">
