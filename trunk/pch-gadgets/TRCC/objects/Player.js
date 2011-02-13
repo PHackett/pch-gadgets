@@ -339,6 +339,7 @@ function GGTRCC_GetPlayersHTMLByLetter (aPlayers, aL)
 	if (-1 == lIndex)
 	{
 		// There are no surnames that start with the given letter
+		lRet = "No players have a surname starting '" + aL + "'";
 	}
 	else
 	{
