@@ -196,7 +196,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 
 	var lCurIndex="";
 
-	lRet += "<table width='100%' border='0'>";
+	lRet += "<table width='100%' border='1'>";
 
 	for (var i=0 ; i<aPlayers.length ; ++i)
 	{
@@ -211,7 +211,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 				//
 				for (var j=0 ; j< (lNperLine - (lWir % (lNperLine+1))) ; j++)
 				{
-					lRet += "<td>&nbsp;</td>";
+					lRet += "<td width='" + lColWPct + "%'>&nbsp;</td>";
 				}
 
 				lRet +=       "</td>";
@@ -230,7 +230,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			//
 			// Alphabet header
 			//
-			lRet += "<tr width='" + lColWPct + "%'>";
+			lRet += "<tr>";
 			lRet +=   "<td>";
 			lRet +=     "<a name=\"" + lSfl + "\"><b>" + lSfl + "</b>";
 			lRet +=   "</td>";
@@ -241,7 +241,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			//
 			lRet += "<tr>";
 			lRet +=   "<td>";
-			lRet +=     "<table width='100%' border='0'>";
+			lRet +=     "<table width='100%' border='1'>";
 			lRet +=       "<tr>";
 			lRet +=         "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
 
@@ -256,12 +256,12 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			// Close off this row & start another
 			lRet += "</tr>";
 			lRet += "<tr>";
-			lRet +=   "<td width='10%'>&nbsp;</td>";
+			lRet +=   "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
 
 			lWir = 0;
 		}
 
-		lRet += "<td>";
+		lRet += "<td width='" + lColWPct + "%'>";
 		lRet += aPlayers[i].HTML();
 		lRet += "</td>";
 
