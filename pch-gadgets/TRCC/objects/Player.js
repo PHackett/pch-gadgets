@@ -6,6 +6,38 @@ function GGTRCC_Player_A()
 	return (gGGTRCC_Player___Array);
 }
 
+function GGTRCC_PlayerSurnameStarts (aPO, aL)
+{
+	var lRet=false;
+	
+	if (aL.toUpperCase() == aPO.mSurname.substring (0, 1).toUpperCase())
+	{
+		lRet = true;
+	}
+	
+	return (lRet);
+}
+
+//
+// Find the index in the GGTRCC_Player array of the 
+// first surname to match the given letter
+//
+function GGTRCC_PlayerFindIndexByFirstLetter (aPOA, aL)
+{
+	var lRet=-1;
+	
+	for (var i=0 ; i<aPOA.length ; ++i)
+	{
+		if (GGTRCC_PlayerSurnameStarts (aPOA[i], aL))
+		{
+			lRet = i;
+			break;
+		}
+	}
+	
+	return (lRet);
+}
+
 function gGGTRCC_Player___sort (aA, aB)
 {
 	var lRet=0;
@@ -285,5 +317,76 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 
 	lRet += "</table>";
 
+	return (lRet);
+}
+
+
+//----------------------------[GGTRCC_GetPlayersHTMLByLetter]-
+// Generate the HTML for the players whose surname starts with
+// the supplied letter 
+//
+//	@param	aPlayers	IN	Array of GGTRCC_Player objects
+//------------------------------------------------------------
+function GGTRCC_GetPlayersHTMLByLetter (aPlayers, aL)
+{
+	var lRet="";
+	var lIndex=GGTRCC_PlayerFindIndexByFirstLetter (aPlayers, aL)
+
+	if (-1 == lIndex)
+	{
+		// There are no surnames that start with the given letter
+	}
+	else
+	{
+		var lTablePadPct=4;
+		var lNperLine=4;
+		var lColWPct=(100 - lTablePadPct)/lNperLine;
+		var lNWPL=0;
+
+		//
+		// Start off the table
+		//
+		lRet += "<table width='100%' border='1'>";
+		lRet +=   "<tr>";
+		lRet +=     "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
+		
+		//
+		// Loop over all the players with the same first letter in 
+		// their surname 
+		//
+		for (var i=lIndex ; (i<aPlayers.length) && GGTRCC_PlayerSurnameStarts (aPlayers[i], aL) ; ++i)
+		{
+			if (lNWPL == lNperLine)
+			{
+				// End row & start another
+				lRet +=   "</tr>";
+				lRet +=   "<tr>";
+				lRet +=     "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
+				
+				lNWPL = 0;
+			}
+
+			//
+			// Add the player name
+			//
+			lRet +=     "<td width='" + lColWPct + "%'>";
+			lRet +=       aPlayers[i].HTML();
+			lRet +=     "</td>";
+			
+			++lNWPL;
+		}
+		
+		//
+		// Close off any half-written tables rows
+		//
+		for (var j=lNWPL ; j<lNperLine ; ++j)
+		{
+			lRet +=     "<td width='" + lColWPct + "%'>&nbsp;</td>";
+		}
+		
+		lRet +=   "</tr>";
+		lRet += "</table>";
+	}
+	
 	return (lRet);
 }
