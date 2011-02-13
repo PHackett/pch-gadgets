@@ -122,7 +122,7 @@ function GGTRCC_Player___HTML()
 	
 	lURL += GGGadget_getHostingRoot() + "players/" + this.Canonical();
 	
-	return ("<a href='" + GGUtils_spacesToUnderscores(lURL) + "'>" + this.Name() + "</a>");
+	return (GGUtils_makeHREF (this.Name(), aURL));
 }
 
 
