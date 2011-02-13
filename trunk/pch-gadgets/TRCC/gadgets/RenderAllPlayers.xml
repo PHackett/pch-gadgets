@@ -72,10 +72,10 @@
 					//
 					var lHTML="";
 					
-					lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length + "<br>";
+					// lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length + "<br>";
 					lHTML += GGTRCC_GetPlayersHTMLByLetter (GGTRCC_Player_A(), gFirstLetterSurname)
-					lHTML += GGTRCC_GetPlayerIndexHTML (GGTRCC_Player_A()) + "<br>";
-					lHTML += GGTRCC_GetPlayersHTML (GGTRCC_Player_A()) + "<br>";
+					// lHTML += GGTRCC_GetPlayerIndexHTML (GGTRCC_Player_A()) + "<br>";
+					// lHTML += GGTRCC_GetPlayersHTML (GGTRCC_Player_A()) + "<br>";
 					
 					//
 					// Display HTML string in <div>
