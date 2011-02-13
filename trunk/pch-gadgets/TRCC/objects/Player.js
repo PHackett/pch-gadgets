@@ -188,7 +188,9 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 function GGTRCC_GetPlayersHTML (aPlayers)
 {
 	var lRet="";
+	var lTablePadPct=10;
 	var lNperLine=3;
+	var lColWPct=(100 - lTablePadPct)/lNperLine;
 	var lHaveRow=false;
 	var lWir=0;
 
@@ -228,7 +230,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			//
 			// Alphabet header
 			//
-			lRet += "<tr class='NavBtnCur'>";
+			lRet += "<tr width='" + lColWPct + "%'>";
 			lRet +=   "<td>";
 			lRet +=     "<a name=\"" + lSfl + "\"><b>" + lSfl + "</b>";
 			lRet +=   "</td>";
@@ -241,7 +243,7 @@ function GGTRCC_GetPlayersHTML (aPlayers)
 			lRet +=   "<td>";
 			lRet +=     "<table width='100%' border='0'>";
 			lRet +=       "<tr>";
-			lRet +=         "<td width='10%'>&nbsp;</td>";
+			lRet +=         "<td width='" + lTablePadPct + "%'>&nbsp;</td>";
 
 			lHaveRow = true;
 			lWir = 0;	// No entries in this row 
