@@ -188,8 +188,8 @@ function GGTRCC_GetPlayerIndexHTML (aPlayers)
 function GGTRCC_GetPlayersHTML (aPlayers)
 {
 	var lRet="";
-	var lTablePadPct=10;
-	var lNperLine=3;
+	var lTablePadPct=4;
+	var lNperLine=4;
 	var lColWPct=(100 - lTablePadPct)/lNperLine;
 	var lHaveRow=false;
 	var lWir=0;
