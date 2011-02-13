@@ -13,6 +13,7 @@
 	</ModulePrefs>
 
 	<UserPref name="linkTarget" display_name="Link URL target" datatype="string" default_value=""/>
+	<UserPref name="fisrstLetterSurname" display_name="First letter of surname" datatype="string" default_value="A"/>
 
 	<Content type="html">
 
@@ -37,6 +38,8 @@
 
 
 			<script type="text/javascript">
+
+				var gFirstLetterSurname="A";
 
 				//-------------------------------------------------------[renderData]-
 				// Render the XML
@@ -69,6 +72,7 @@
 					var lHTML="";
 					
 					lHTML += " GGTRCC_Player_A().length = " + GGTRCC_Player_A().length + "<br>";
+					lHTML += GGTRCC_GetPlayersHTMLByLetter (GGTRCC_Player_A(), gFirstLetterSurname)
 					lHTML += GGTRCC_GetPlayerIndexHTML (GGTRCC_Player_A()) + "<br>";
 					lHTML += GGTRCC_GetPlayersHTML (GGTRCC_Player_A()) + "<br>";
 					
@@ -78,11 +82,37 @@
 					_gel('content_div').innerHTML = lHTML;
 				}
 				
+				
+				//--------------------------------------------------[processSettings]-
+				// Determine what year & team
+				//--------------------------------------------------------------------
+				function processSettings ()
+				{
+					var lPrefs=new _IG_Prefs();
+					var lDummy="A";
+			
+					//
+					// First letter of the surname
+					//
+					gFirstLetterSurname = TRCCUtils_ProcessPreferences ("fisrstLetterSurname", lPrefs, lDummy);
+					
+					//
+					// Lastly - Save away the "link target"
+					//
+					GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
+				}
+				
+				
 				//----------------------------------------------------------[display]-
 				// Load the XML & call the renderer
 				//--------------------------------------------------------------------
 				function display()
 				{
+					//
+					// Read the user prefs & hosting URL
+					//
+					processSettings();
+					
 					GGTRCC_LoadPlayerRollcallXML (_IG_FetchXmlContent, renderData);
 				}
 
