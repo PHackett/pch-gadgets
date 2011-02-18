@@ -23,10 +23,13 @@
 			-->
 			<link href="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/css/trcc.css" rel="stylesheet" type="text/css">
 
-<style type="text/css">
-body { background: transparent; }
-</style>
-
+			<!--
+			This magic makes the background of the widget transparent! Looks good on sites
+			-->
+			<!--
+			Now moved to the css file instead
+			<style type="text/css">body { background: transparent; }</style>
+			-->
 
 			<!--
 			Placeholder where the generated content will be placed 
