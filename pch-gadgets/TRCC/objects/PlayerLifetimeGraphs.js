@@ -487,6 +487,7 @@ function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 	lRet += "chs=" + lChtWidth + "x" + lChtHeight + lAmp;
 	lRet += "chg=0,20,1,5"  + lAmp;
 	lRet += "chco=0000ff,00ff00" + lAmp;
+	lRet += "chf=bg,s,FFFFFF80" + lAmp;		// Transparent background
 	lRet += "chdl=" + aLabels[0][0] + "|" + aLabels[1][0] + lAmp;
 	
 	//
