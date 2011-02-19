@@ -97,10 +97,9 @@
 					//
 					// Now render for display
 					//
-					var lHTML = "<div class='GadgetBody'>\n";
+					var lHTML = "";
 					
 					lHTML += lCricketMatch.matchHTML();
-					lHTML += "\n</div>\n";
 					
 					//
 					// Display HTML string in <div>
