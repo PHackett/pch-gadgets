@@ -39,11 +39,21 @@ function GGGadget_GetSitesRootNoScheme ()
 // Obtain (if possible) the URL of the page in which the 
 // gadget is embedded
 //
+// @param	aIncludeQuery	IN		Return the ?query string as well?
+//
 // @return The URL of the hosting page, else the empty string 
 //
 //------------------------------------------------------------
-function GGGadget_getHostURL ()
+function GGGadget_getHostURL (aIncludeQuery)
 {
+	var lIncludeQuery=false;
+	var lIndex=-1;
+	
+	if (null != aIncludeQuery)
+	{
+		lIncludeQuery = aIncludeQuery;
+	}
+	
 	//
 	// We used to look at _args()["source"] to find out
 	// what page we were embedded in. This worked for gadgets
@@ -60,6 +70,18 @@ function GGGadget_getHostURL ()
 	if (null == lRet)
 	{
 		lRet = "";
+	}
+	else if (aIncludeQuery)
+	{
+		// We are done
+	}
+	else if (-1 == (lIndex = lRet.indexOf("?")))
+	{
+		// No "?"
+	}
+	else
+	{
+		lRet = lRet.substr (0, lIndex);
 	}
 	
 	return (lRet);
