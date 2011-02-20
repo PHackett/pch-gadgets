@@ -16,7 +16,7 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	
 	lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
 	
-	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='1'>";
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	lRet +=       "<th>&nbsp;</th>";
@@ -58,7 +58,7 @@ function GGTRCC_RenderBowlingTotals (aPLBO)
 	
 	lRet += "<span class='GadgetStatsHeading'>Career Bowling Summary</span>";
 	
-	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='1'>";
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	lRet +=       "<th>&nbsp;</th>";
@@ -607,8 +607,8 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO);
 		var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO);
 		
-		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br>";
-		lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br>";
+		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
+		lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
 		
 		lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals);
 		lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals);
