@@ -517,7 +517,7 @@ function GGTRCC_LoadTeamYearFixtureXML (aPrefsObj, aXMLloaderFunc, aCallback)
 // Render the given fixtures in HMTL
 //
 //	@param	aFixtures		IN	The fixtures. 
-//	@param	aUSD			IN	"Use Short Date" 
+//	@param	aUSD			IN	"Use Short Date" - Compressed output 
 //	@param	aDisplayTeam	IN	Sould we render the team name?
 //
 //	@return	The HTML
@@ -560,25 +560,42 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD, aDisplayTeam)
 		// Start the <tr>
 		//
 		lHTML += (i % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
-		
-		//
-		// Add in the data
-		//
-		lHTML += "<td>" + aFixtures[i].VenueHTML()    + "</td>";
-		
-		if (lDisplayTeam)
+
+		if (aUSD)
 		{
-			lHTML += "<td>" + aFixtures[i].TeamHTML()     + "</td>";
+			//
+			// Add in the data
+			//
+			lHTML += "<td rowspan=\"2\">" + aFixtures[i].VenueHTML()    					+ "</td>";
+			lHTML += "<td>" + aFixtures[i].TeamHTML() + " " + aFixtures[i].DateHTML(lUSD)	+ "</td>";
+			lHTML += "<td rowspan=\"2\">" + aFixtures[i].ResultHTML()   					+ "</td>";
+			
+			lHTML += "</tr>";
+			
+			lHTML += (i % 2) ? "<tr>" : "<tr class='GadgetFixtureAltLine'>";
+			lHTML += "<td>" + aFixtures[i].OppoHTML()										+ "</td>";
 		}
 		else
 		{
-			lHTML += "<td>&nbsp;</td>";			
+			//
+			// Add in the data
+			//
+			lHTML += "<td>" + aFixtures[i].VenueHTML()    + "</td>";
+			
+			if (lDisplayTeam)
+			{
+				lHTML += "<td>" + aFixtures[i].TeamHTML()     + "</td>";
+			}
+			else
+			{
+				lHTML += "<td>&nbsp;</td>";			
+			}
+			
+			lHTML += "<td>" + aFixtures[i].DateHTML(lUSD) + "</td>";
+			lHTML += "<td>" + aFixtures[i].OppoHTML()     + "</td>";
+			lHTML += "<td>" + aFixtures[i].TimeHTML()     + "</td>";
+			lHTML += "<td>" + aFixtures[i].ResultHTML()   + "</td>";
 		}
-		
-		lHTML += "<td>" + aFixtures[i].DateHTML(lUSD) + "</td>";
-		lHTML += "<td>" + aFixtures[i].OppoHTML()     + "</td>";
-		lHTML += "<td>" + aFixtures[i].TimeHTML()     + "</td>";
-		lHTML += "<td>" + aFixtures[i].ResultHTML()   + "</td>";
 		
 		//
 		// Terminate the row
