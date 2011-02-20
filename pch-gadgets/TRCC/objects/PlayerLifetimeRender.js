@@ -591,7 +591,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	// Render the specific option
 	//
-	if (lRenderBatting == lRenderItem)
+	if (lRenderBowlting == lRenderItem)
 	{
 		lRet += GGTRCC_RenderBowlingByYear(aPLSO);
 		lRet += GGTRCC_RenderBowlingBestByYear(aPLSO);
