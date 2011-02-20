@@ -72,7 +72,7 @@
 					var lHTML = "";
 					
 					
-					lHTML += GGTRCC_RenderPlayerStats (GGTRCC_RenderPlayerStats
+					lHTML += GGTRCC_RenderPlayerStats (GGTRCC_RenderPlayerStats);
 					
 					// var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
 					// var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (lPLS);
