@@ -611,8 +611,8 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
 		lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
 		
-		lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals);
-		lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals);
+		lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals) + "<br>";
+		lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals) + "<br>";
 	}
 	
 	return (lRet);
