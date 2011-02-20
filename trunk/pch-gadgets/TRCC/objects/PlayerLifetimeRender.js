@@ -16,7 +16,7 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	
 	lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
 	
-	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='1'>";
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
@@ -59,7 +59,7 @@ function GGTRCC_RenderBowlingTotals (aPLBO)
 	
 	lRet += "<span class='GadgetStatsHeading'>Career Bowling Summary</span>";
 	
-	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='1'>";
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	lRet +=       "<th>&nbsp;</th>";
