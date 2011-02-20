@@ -17,6 +17,7 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
 	
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='1'>";
+
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
 	// lRet +=       "<th>&nbsp;</th>";
@@ -31,7 +32,6 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	lRet +=   "</thead>";
 
 	lRet +=   "<tr>";
-	
 	// lRet +=     "<td>&nbsp;</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mInnings													+ "</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mNotOuts													+ "</td>";
@@ -40,8 +40,9 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	lRet +=     "<td align='right'>"	+ aPLBO.mFifties													+ "</td>";
 	lRet +=     "<td align='right'>"	+ TRCCUtils_getHTMLAverage (lCompletedInnings, (aPLBO.mRuns - 0))	+ "</td>";
 	lRet +=     "<td>&nbsp;</td>";
-	
 	lRet +=   "</tr>";
+
+	lRet += "</table>";
 	
 	return (lRet);
 }
