@@ -99,7 +99,7 @@ function GGGadget_getHostURL (aIncludeQuery)
 function GGGadget_parseHostQuery (aDelim)
 {
 	var lArgs = new Object();
-	var lURL = GGGadget_getHostURL();
+	var lURL = GGGadget_getHostURL(true);
 	var lIndex=-1;
 	
 	if (0 == lURL.length)
