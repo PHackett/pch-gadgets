@@ -615,7 +615,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	lRet +=   "</tr>";
 	lRet += "</table>";
 	lRet += "</p>";
-	lRet += "<br><br>";
+	lRet += "<br>";
 	
 	//
 	// Render the specific option
