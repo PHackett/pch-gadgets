@@ -20,7 +20,7 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 
 	lRet +=   "<thead>";
 	lRet +=     "<tr class=\"GadgetBatsHeader\">";
-	// lRet +=       "<th>&nbsp;</th>";
+	lRet +=       "<th>&nbsp;</th>";
 	lRet +=       "<th align='right'>Innings</th>";
 	lRet +=       "<th align='right'>Not Out</th>";
 	lRet +=       "<th align='right'>Runs</th>";
@@ -32,7 +32,7 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	lRet +=   "</thead>";
 
 	lRet +=   "<tr>";
-	// lRet +=     "<td>&nbsp;</td>";
+	lRet +=     "<td>&nbsp;</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mInnings													+ "</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mNotOuts													+ "</td>";
 	lRet +=     "<td align='right'>"	+ aPLBO.mRuns														+ "</td>";
