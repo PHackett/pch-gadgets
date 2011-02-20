@@ -587,8 +587,9 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	// Create the heading links to the 3 different options
 	//
-	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
-	lRet +=   "<tr>";
+	lRet += "<p align='center'>";
+	lRet += "<table width='60%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<tr class='GadgetFixtureAltLine'>";
 	
 	if (lRenderBatting == lRenderItem)
 	{
@@ -611,6 +612,8 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	lRet +=   "</tr>";
 	lRet += "</table>";
+	lRet += "</p>";
+	lREt += "<br><br>";
 	
 	//
 	// Render the specific option
