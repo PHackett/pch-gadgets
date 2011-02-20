@@ -587,6 +587,30 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	// Create the heading links to the 3 different options
 	//
+	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
+	lRet +=   "<tr>";
+	
+	if (lRenderBatting == lRenderItem)
+	{
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + ">"					+ "Summary" + "</a></td>"
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=bowling>" 	+ "Bowling"	+ "</a></td>";
+		lRet +=     "<td>" 																+ "Batting"	+ "</td>";
+	}
+	else if (lRenderBowling == lRenderItem)
+	{
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + ">"					+ "Summary" + "</a></td>"
+		lRet +=     "<td>" 																+ "Bowling"	+ "</td>";
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=batting>" 	+ "Batting"	+ "</a></td>";
+	}
+	else
+	{
+		lRet +=     "<td>"																+ "Summary" + "</td>"
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=bowling>" 	+ "Bowling"	+ "</a></td>";
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=batting>" 	+ "Batting"	+ "</a></td>";
+	}
+	
+	lRet +=   "</tr>";
+	lRet += "</table>";
 	
 	//
 	// Render the specific option
