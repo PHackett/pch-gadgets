@@ -589,7 +589,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	lRet += "<p align='center'>";
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
-	lRet +=   "<tr class='GadgetStatsHeading'>";
+	lRet +=   "<tr class='GadgetBatsHeader'>";
 	lRet +=     "<td>&nbsp;</td>"
 	
 	if (lRenderBatting == lRenderItem)
