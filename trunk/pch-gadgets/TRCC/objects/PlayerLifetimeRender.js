@@ -545,3 +545,74 @@ function GGTRCC_RenderBattingBestByYear (aPLSO)
 	
 	return (lRet);
 }
+
+
+//---------------------------------[GGTRCC_RenderPlayerStats]-
+// For the rendering of player stats 
+//
+// @param aPSO	IN 	The GGTRCC_PlayerLifetimeO object
+//
+//------------------------------------------------------------
+function GGTRCC_RenderPlayerStats (aPLSO)
+{
+	var lRet="";
+	var lRenderSummary=1;
+	var lRenderBatting=2;
+	var lRenderBowling=3;
+	var lRenderItem=lRenderSummary;
+	
+	//
+	// Determine what we are rendering - Summary, Batting or bowling
+	//
+	var lQueryA=GGGadget_parseHostQuery ("&");
+	
+	if (null == lQueryA["render"])
+	{
+		// Stick with rendering the summary
+	}
+	else if ("batting" == lQueryA["render"])
+	{
+		lRenderItem = lRenderBatting;
+	}
+	else if ("bowling" == lQueryA["render"])
+	{
+		lRenderItem = lRenderBowling;
+	}
+	else
+	{
+		// Unrecognised - Stick with rendering the summary
+	}
+	
+	//
+	// Create the heading links to the 3 different options
+	//
+	
+	//
+	// Render the specific option
+	//
+	if (lRenderBatting == lRenderItem)
+	{
+		lRet += GGTRCC_RenderBowlingByYear(aPLSO);
+		lRet += GGTRCC_RenderBowlingBestByYear(aPLSO);
+		lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
+	}
+	else if (lRenderBatting == lRenderItem)
+	{
+		lRet += GGTRCC_RenderBattingByYear (aPLSO);
+		lRet += GGTRCC_RenderBattingHighlightsByYear(aPLSO);
+		lRet += GGTRCC_RenderBattingBestByYear(aPLSO);
+	}
+	else
+	{
+		var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO);
+		var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO);
+		
+		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br>";
+		lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br>";
+		
+		lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals);
+		lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals);
+	}
+	
+	return (lRet);
+}
