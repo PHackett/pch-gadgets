@@ -87,6 +87,7 @@ function GGTRCC_FixtureO (aFixtureXML)
 	//
 	// Set up the "methods"
 	//
+	this.DateString = GGTRCC_FixtureO___DateString;
 	this.DateHTML   = GGTRCC_FixtureO___DateHTML;
 	this.OppoHTML   = GGTRCC_FixtureO___OppoHTML;
 	this.TimeHTML   = GGTRCC_FixtureO___TimeHTML;
@@ -155,17 +156,17 @@ function GGTRCC_FixtureO___setTeam (aTeam)	{ this.mTeam = aTeam;	}
 function GGTRCC_FixtureO___getTeam()		{ return (this.mTeam);	}
 
 
-//-------------------------------[GGTRCC_FixtureO___DateHTML]-
-// Get the date as HTML
+//-----------------------------[GGTRCC_FixtureO___DateString]-
+// Get the date as a string
 //
 //	@param	aUSD		IN	"Use Short Date" 
 //
-// @return The fixture date as HTML
+// @return The fixture date as a string
 //
 //------------------------------------------------------------
-function GGTRCC_FixtureO___DateHTML(aUSD)
+function GGTRCC_FixtureO___DateString(aUSD)
 {
-	var lRet="&nbsp;";
+	var lRet="";
 	var lUSD=false;
 	
 	if (null != aUSD)
@@ -190,6 +191,31 @@ function GGTRCC_FixtureO___DateHTML(aUSD)
 				 + GGUtils_GetNumAsOrdinalString (this.mDate.getDate(), true);
 		
 		}
+	}	
+	return (lRet);	
+}
+
+//-------------------------------[GGTRCC_FixtureO___DateHTML]-
+// Get the date as HTML
+//
+//	@param	aUSD		IN	"Use Short Date" 
+//
+// @return The fixture date as HTML
+//
+//------------------------------------------------------------
+function GGTRCC_FixtureO___DateHTML(aUSD)
+{
+	var lRet="&nbsp;";
+	var lUSD=false;
+	
+	if (null != aUSD)
+	{
+		lUSD = aUSD;
+	}	
+	
+	if (null != this.mDate)
+	{
+		lRet = this.DateString(aUSD);
 		
 		if (this.mHasLink)
 		{
@@ -567,7 +593,7 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD, aDisplayTeam)
 			// Add in the data
 			//
 			lHTML += "<td rowspan=\"2\">" + aFixtures[i].VenueHTML()    					+ "</td>";
-			lHTML += "<td>" + aFixtures[i].TeamHTML() + " " + aFixtures[i].DateHTML(lUSD)	+ "</td>";
+			lHTML += "<td>" + aFixtures[i].TeamHTML() + " " + aFixtures[i].DateString(lUSD)	+ "</td>";
 			lHTML += "<td rowspan=\"2\">" + aFixtures[i].ResultHTML()   					+ "</td>";
 			
 			lHTML += "</tr>";
