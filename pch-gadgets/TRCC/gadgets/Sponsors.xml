@@ -101,7 +101,7 @@
 						lHTML += "<a href='" + aURL + "' target='_blank'>";
 					}
 					
-					lHTML += "<IMG style=\"float:left\" SRC=\"" + aImageURL + "\" WIDTH=\"454\" BORDER=\"1\">";
+					lHTML += "<IMG style=\"float:left\" SRC=\"" + aImageURL + "\" WIDTH=\"354\" BORDER=\"1\">";
 					
 					if (aURL.length != 0)
 					{
