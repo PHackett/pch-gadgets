@@ -132,21 +132,6 @@
 					
 					lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					
-					// var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (lPLS);
-					// var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (lPLS);
-					
-					// lHTML += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br>";
-					// lHTML += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br>";
-					
-					// lHTML += GGTRCC_RenderBattingTotals (lPLS.mLifetimeBattingTotals);
-					// lHTML += GGTRCC_RenderBowlingTotals (lPLS.mLifetimeBowlingTotals);
-					// lHTML += GGTRCC_RenderBattingByYear (lPLS);
-					// lHTML += GGTRCC_RenderBattingHighlightsByYear(lPLS);
-					// lHTML += GGTRCC_RenderBattingBestByYear(lPLS);
-					// lHTML += GGTRCC_RenderBowlingByYear(lPLS);
-					// lHTML += GGTRCC_RenderBowlingBestByYear(lPLS);
-					// lHTML += GGTRCC_RenderBowlingHighlightsByYear(lPLS);
-			
 					//
 					// Display HTML string in <div>
 					//
