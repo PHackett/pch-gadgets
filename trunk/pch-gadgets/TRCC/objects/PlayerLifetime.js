@@ -85,7 +85,7 @@ function GGTRCC_PLMatchIdO___FullDate()
 {
 	var lRet="";
 	
-	lRet += this.mDate + " " +  GGUtils_MonthNumToString(this.mDate) + " " + this.mDate.getFullYear();
+	lRet += this.mDate.getDate() + " " +  GGUtils_MonthNumToString(this.mDate.getMonth()) + " " + this.mDate.getFullYear();
 	
 	return (lRet);	
 }
