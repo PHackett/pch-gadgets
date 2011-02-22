@@ -57,7 +57,7 @@ function GGTRCC_PLMatchIdO (aPsMatchIdXML)
 	//
 	// Methods
 	//
-	this.LinkHML	= GGTRCC_PLMatchIdO___LinkHTML;
+	this.LinkHTML	= GGTRCC_PLMatchIdO___LinkHTML;
 	this.NeatDate	= GGTRCC_PLMatchIdO___NeatDate;
 	this.HTML		= GGTRCC_PLMatchIdO___HTML;
 }

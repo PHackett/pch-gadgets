@@ -232,7 +232,7 @@ function GGTRCC_RenderBowlingHighlightsByYear (aPLSO)
 				lRet += "<tr>";
 				lRet +=   "<td>&nbsp;</td>";
 				lRet +=   "<td align='left'  valign='top'>" + lBH.mMatchID.NeatDate()																	+ "</td>";
-				lRet +=   "<td align='left'  valign='top'>" + lBH.mMatchID.LinkHML()																	+ "</td>";
+				lRet +=   "<td align='left'  valign='top'>" + lBH.mMatchID.LinkHTML()																	+ "</td>";
 				lRet +=   "<td align='right' valign='top'>" + GGUtils_numToString ((lBH.mBowlingData.mOvers - 0), 1)									+ "</td>";
 				lRet +=   "<td align='right' valign='top'>" + lBH.mBowlingData.mMaidens																	+ "</td>";
 				lRet +=   "<td align='right' valign='top'>" + lBH.mBowlingData.mRuns																	+ "</td>";
@@ -305,7 +305,7 @@ function GGTRCC_RenderBowlingBestByYear (aPLSO)
 			
 			lRet +=   "<td>&nbsp;</td>";
 			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.NeatDate()																	+ "</td>";
-			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHML()																	+ "</td>";
+			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHTML()																	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + GGUtils_numToString ((lBB.mBowlingData.mOvers - 0), 1)									+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mMaidens																	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBowlingData.mRuns																	+ "</td>";
@@ -453,7 +453,7 @@ function GGTRCC_RenderBattingHighlightsByYear (aPLSO)
 				
 				lRet +=   "<td>&nbsp;</td>";
 				lRet +=   "<td align='left'  valign='top'>" + lBH.mMatchID.NeatDate()	+ "</td>";
-				lRet +=   "<td align='left'  valign='top'>" + lBH.mMatchID.LinkHML()	+ "</td>";
+				lRet +=   "<td align='left'  valign='top'>" + lBH.mMatchID.LinkHTML()	+ "</td>";
 				lRet +=   "<td align='right' valign='top'>" + lBH.mBattingData.mRuns	+ "</td>";
 				if (0 == lBH.mBattingData.mNotOuts)
 				{
@@ -525,7 +525,7 @@ function GGTRCC_RenderBattingBestByYear (aPLSO)
 			
 			lRet +=   "<td>&nbsp;</td>";
 			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.NeatDate()	+ "</td>";
-			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHML()	+ "</td>";
+			lRet +=   "<td align='left'  valign='top'>" + lBB.mMatchID.LinkHTML()	+ "</td>";
 			lRet +=   "<td align='right' valign='top'>" + lBB.mBattingData.mRuns	+ "</td>";
 			if (0 == lBB.mBattingData.mNotOuts)
 			{
@@ -627,8 +627,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		
 		if (null != aPLSO.mFRG)
 		{
-			// lRet += "First recorded gamse for this player: " + aPLSO.mFRG.LinkHTML() + "<br><br>";
-			lRet += "First recorded gamse for this player: " + aPLSO.mFRG.HTML() + "<br><br>";
+			lRet += "First recorded gamse for this player: " + aPLSO.mFRG.LinkHTML() + "<br><br>";
 		}
 		
 		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
