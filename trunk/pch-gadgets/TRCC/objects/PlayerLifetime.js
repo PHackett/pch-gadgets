@@ -59,6 +59,7 @@ function GGTRCC_PLMatchIdO (aPsMatchIdXML)
 	//
 	this.LinkHTML	= GGTRCC_PLMatchIdO___LinkHTML;
 	this.NeatDate	= GGTRCC_PLMatchIdO___NeatDate;
+	this.FullDate	= GGTRCC_PLMatchIdO___FullDate;
 	this.HTML		= GGTRCC_PLMatchIdO___HTML;
 }
 
@@ -79,6 +80,16 @@ function GGTRCC_PLMatchIdO___NeatDate()
 	
 	return (lRet);
 }
+
+function GGTRCC_PLMatchIdO___FullDate()
+{
+	var lRet="";
+	
+	lRet += this.mDate + " " +  GGUtils_MonthNumToString(this.mDate) + " " + this.mDate.getFullYear();
+	
+	return (lRet);	
+}
+
 
 //-----------------------------[GGTRCC_PLMatchIdO___LinkHTML]-
 // Return some HTML with link to the match 
