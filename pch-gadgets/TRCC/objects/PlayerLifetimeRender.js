@@ -628,7 +628,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		if (null != aPLSO.mFRG)
 		{
 			// lRet += "First recorded gamse for this player: " + aPLSO.mFRG.LinkHTML() + "<br><br>";
-			lRet += "First recorded gamse for this player: " + aPLSO.mFRG + "<br><br>";
+			lRet += "First recorded gamse for this player: " + aPLSO.mFRG.HTML() + "<br><br>";
 		}
 		
 		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
