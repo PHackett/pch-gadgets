@@ -587,35 +587,23 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	// Create the heading links to the 3 different options
 	//
-	lRet += "<p align='center'>";
-	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
-	lRet +=   "<tr class='GadgetFixtureAltLine'>";
-	lRet +=     "<td>&nbsp;</td>";
+	lRet += "<div id='centeredmenu'>";
+	lRet +=   "<ul>";
 	
-	if (lRenderBatting == lRenderItem)
-	{
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) +					" target='_parent'>"	+ "Summary" + "</a></td>";
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=bowling   target='_parent'>" 	+ "Bowling"	+ "</a></td>";
-		lRet +=     "<td>" 																					+ "Batting"	+ "</td>";
-	}
-	else if (lRenderBowling == lRenderItem)
-	{
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + 					" target='_parent'>"	+ "Summary" + "</a></td>";
-		lRet +=     "<td>" 																					+ "Bowling"	+ "</td>";
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=batting   target='_parent'>" 	+ "Batting"	+ "</a></td>";
-	}
-	else
-	{
-		lRet +=     "<td>"																					+ "Summary" + "</td>";
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=bowling   target='_parent'>" 	+ "Bowling"	+ "</a></td>";
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=batting   target='_parent'>" 	+ "Batting"	+ "</a></td>";
-	}
+	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) + "?render=summary' ' target='_parent'";
+	if (lRenderSummary == lRenderItem) lRet += " class='active'";
+	lRet += ">Summary</a></li>";
+
+	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) + "?render=batting' ' target='_parent'";
+	if (lRenderBatting == lRenderItem) lRet += " class='active'";
+	lRet += ">Batting</a></li>";
+
+	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) + "?render=bowling' ' target='_parent'";
+	if (lRenderBowling == lRenderItem) lRet += " class='active'";
+	lRet += ">Bowling</a></li>";
 	
-	lRet +=     "<td>&nbsp;</td>";
-	lRet +=   "</tr>";
-	lRet += "</table>";
-	lRet += "</p>";
-	lRet += "<br>";
+	lRet +=   "</ul>";
+	lRet += "</div>";
 	
 	//
 	// Render the specific option
