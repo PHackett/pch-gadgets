@@ -625,6 +625,11 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO);
 		var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO);
 		
+		if (null != aPLSO.mFRG)
+		{
+			lRet += "First recorded gamse for this player: " + aPLSO.mFRG.LinkHTML() + "<br><br>";
+		}
+		
 		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
 		lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
 		
