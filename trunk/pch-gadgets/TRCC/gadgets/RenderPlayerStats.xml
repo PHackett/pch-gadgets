@@ -139,6 +139,7 @@
 						//
 						// Save away the "link target"
 						//
+						var lPrefs=new _IG_Prefs();
 						GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
 						
 						gXMLSrc = GGTRCC_PlayerLifetime_GetXMLURLFromLocation();
