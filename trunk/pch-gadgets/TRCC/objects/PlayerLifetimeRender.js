@@ -590,28 +590,28 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	lRet += "<p align='center'>";
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lRet +=   "<tr class='GadgetFixtureAltLine'>";
-	lRet +=     "<td>&nbsp;</td>"
+	lRet +=     "<td>&nbsp;</td>";
 	
 	if (lRenderBatting == lRenderItem)
 	{
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) +					" target='_parent'>"	+ "Summary" + "</a></td>"
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) +					" target='_parent'>"	+ "Summary" + "</a></td>";
 		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=bowling   target='_parent'>" 	+ "Bowling"	+ "</a></td>";
 		lRet +=     "<td>" 																					+ "Batting"	+ "</td>";
 	}
 	else if (lRenderBowling == lRenderItem)
 	{
-		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + 					" target='_parent'>"	+ "Summary" + "</a></td>"
+		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + 					" target='_parent'>"	+ "Summary" + "</a></td>";
 		lRet +=     "<td>" 																					+ "Bowling"	+ "</td>";
 		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=batting   target='_parent'>" 	+ "Batting"	+ "</a></td>";
 	}
 	else
 	{
-		lRet +=     "<td>"																					+ "Summary" + "</td>"
+		lRet +=     "<td>"																					+ "Summary" + "</td>";
 		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=bowling   target='_parent'>" 	+ "Bowling"	+ "</a></td>";
 		lRet +=     "<td><a href=" + GGGadget_getHostURL (false) + "?render=batting   target='_parent'>" 	+ "Batting"	+ "</a></td>";
 	}
 	
-	lRet +=     "<td>&nbsp;</td>"
+	lRet +=     "<td>&nbsp;</td>";
 	lRet +=   "</tr>";
 	lRet += "</table>";
 	lRet += "</p>";

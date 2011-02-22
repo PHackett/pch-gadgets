@@ -136,6 +136,11 @@
 					}
 					else
 					{
+						//
+						// Save away the "link target"
+						//
+						GGUtils_setLinkTarget (lPrefs.getString ("linkTarget"));
+						
 						gXMLSrc = GGTRCC_PlayerLifetime_GetXMLURLFromLocation();
 					}
 					
