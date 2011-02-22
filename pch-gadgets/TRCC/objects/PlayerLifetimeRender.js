@@ -590,7 +590,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	lRet += "<div id='centeredmenu'>";
 	lRet +=   "<ul>";
 	
-	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) + "?render=summary' ' target='_parent'";
+	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) +                "' ' target='_parent'";
 	if (lRenderSummary == lRenderItem) lRet += " class='active'";
 	lRet += ">Summary</a></li>";
 
