@@ -36,6 +36,7 @@
    					border-bottom:4px solid darkblue;
    					overflow:hidden;
    					position:relative;
+   					margin-top:20px;
 				}
 				#centeredmenu ul 
 				{
