@@ -633,11 +633,18 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		
 		if (0 == lXarr.length)
 		{
-			lRet += "There is no Batting record for this player";
+			lRet += "<br>There is no Batting record for this player";
 		}
 		else
 		{
-			lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
+			//
+			// Do we have enough entries to warrent a graph?
+			//
+			if (1 < lXarr.length)
+			{
+				lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
+			}
+			
 			lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals) + "<br><br><br>";
 		}
 	
@@ -648,11 +655,18 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 		if (0 == lBoarr.length)
 		{
-			lRet += "There is no Bowling record for this player";			
+			lRet += "<br>There is no Bowling record for this player";			
 		}
 		else
 		{
-			lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
+			//
+			// Do we have enough entries to warrent a graph?
+			//
+			if (1 < lBoarr.length)
+			{
+				lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
+			}
+			
 			lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals) + "<br>";
 		}
 	}
