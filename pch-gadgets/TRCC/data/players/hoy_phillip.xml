@@ -6,7 +6,7 @@
     <YearData year="2002">
         <Batting innings="2" runs="37" notouts="1" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
-                <MatchId date="Sun Aug 4 00:00:00 UTC+0100 2002" oppo="Falkland III<sup>rds</sup>"/>
+                <MatchId date="Sun Aug 4 00:00:00 UTC+0100 2002" oppo="Falkland 3rds"/>
                 <BattingData runs="32" notouts="0"/>
             </BattingBest>
         </Batting>
