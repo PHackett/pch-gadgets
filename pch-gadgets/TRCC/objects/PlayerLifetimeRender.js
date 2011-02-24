@@ -600,27 +600,44 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	lRet +=   "</ul>";
 	lRet += "</div>";
+
+	//
+	// Batting & Bowling arrays
+	//
+	var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO);
+	var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO);
 	
 	//
 	// Render the specific option
 	//
 	if (lRenderBowling == lRenderItem)
 	{
-		lRet += GGTRCC_RenderBowlingByYear(aPLSO);
-		lRet += GGTRCC_RenderBowlingBestByYear(aPLSO);
-		lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
+		if (0 == lBoarr.length)
+		{
+			lRet += "<br>There is no Bowling record for this player<br><br>";
+		}
+		else
+		{
+			lRet += GGTRCC_RenderBowlingByYear(aPLSO);
+			lRet += GGTRCC_RenderBowlingBestByYear(aPLSO);
+			lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
+		}
 	}
 	else if (lRenderBatting == lRenderItem)
 	{
-		lRet += GGTRCC_RenderBattingByYear (aPLSO);
-		lRet += GGTRCC_RenderBattingHighlightsByYear(aPLSO);
-		lRet += GGTRCC_RenderBattingBestByYear(aPLSO);
+		if (0 == lXarr.length)
+		{
+			lRet += "<br>There is no Batting record for this player<br><br>";
+		}
+		else
+		{
+			lRet += GGTRCC_RenderBattingByYear (aPLSO);
+			lRet += GGTRCC_RenderBattingHighlightsByYear(aPLSO);
+			lRet += GGTRCC_RenderBattingBestByYear(aPLSO);
+		}
 	}
 	else
 	{
-		var lXarr = GGTRCC_PlayerLTGraph_MakeBattingArray (aPLSO);
-		var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO);
-		
 		if (null != aPLSO.mFRG)
 		{
 			lRet += "First recorded game for this player was on " + aPLSO.mFRG.FullDate() + " at " + aPLSO.mFRG.LinkHTML() + "<br><br>";
