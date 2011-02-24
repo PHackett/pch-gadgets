@@ -633,7 +633,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		
 		if (0 == lXarr.length)
 		{
-			lRet += "<br>There is no Batting record for this player";
+			lRet += "<br>There is no Batting record for this player<br><br>";
 		}
 		else
 		{
@@ -655,7 +655,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 		if (0 == lBoarr.length)
 		{
-			lRet += "<br>There is no Bowling record for this player";			
+			lRet += "<br>There is no Bowling record for this player<br><br>";
 		}
 		else
 		{
