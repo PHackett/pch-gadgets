@@ -14,8 +14,6 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 	var lRet="";
 	var lCompletedInnings=(aPLBO.mInnings - 0) - (aPLBO.mNotOuts - 0);
 	
-	lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
-	
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 
 	lRet +=   "<thead>";
@@ -56,8 +54,6 @@ function GGTRCC_RenderBattingTotals (aPLBO)
 function GGTRCC_RenderBowlingTotals (aPLBO)
 {
 	var lRet="";
-	
-	lRet += "<span class='GadgetStatsHeading'>Career Bowling Summary</span>";
 	
 	lRet += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lRet +=   "<thead>";
@@ -630,11 +626,35 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 			lRet += "First recorded game for this player was on " + aPLSO.mFRG.FullDate() + " at " + aPLSO.mFRG.LinkHTML() + "<br><br>";
 		}
 		
-		lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
-		lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
+		//
+		// Batting summaries
+		//
+		lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
 		
-		lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals) + "<br><br><br>";
-		lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals) + "<br>";
+		if (0 == lXarr.length)
+		{
+			lRet += "There is no Batting record for this player";
+		}
+		else
+		{
+			lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
+			lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals) + "<br><br><br>";
+		}
+	
+		//
+		// Bowling summaries
+		//
+		lRet += "<span class='GadgetStatsHeading'>Career Bowling Summary</span>";
+	
+		if (0 == lBoarr.length)
+		{
+			lRet += "There is no Bowling record for this player";			
+		}
+		else
+		{
+			lRet += GGTRCC_PlayerLTGraph_MakeBowlingGraphHTML (lBoarr) + "<br><br>";
+			lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals) + "<br>";
+		}
 	}
 	
 	return (lRet);

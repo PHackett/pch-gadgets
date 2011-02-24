@@ -475,6 +475,14 @@ function GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO)
 //
 function GGTRCC_PlayerLTGraph_MakeGraphURL (aLabels, aData)
 {
+	//
+	// Do draw a graph we need at least two points!
+	//
+	if (2 > aData.length)
+	{
+		return ("");
+	}
+	
 	var lAmp="&amp;";
 	var lBase="http://chart.apis.google.com/chart?";
 	var lChtWidth=700;
