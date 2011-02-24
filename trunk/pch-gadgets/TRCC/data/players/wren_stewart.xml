@@ -99,7 +99,7 @@
         <Bowling games="7" fiveplus="0">
             <BowlingData overs="49" maidens="9" runs="160" wickets="10"/>
             <BowlingBest>
-                <MatchId date="Sun Aug 4 00:00:00 UTC+0100 2002" oppo="Falkland III<sup>rds</sup>"/>
+                <MatchId date="Sun Aug 4 00:00:00 UTC+0100 2002" oppo="Falkland 3rds"/>
                 <BowlingData overs="6.0" maidens="1" runs="10" wickets="3"/>
             </BowlingBest>
         </Bowling>
