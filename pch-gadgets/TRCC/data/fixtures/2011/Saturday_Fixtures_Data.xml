@@ -12,7 +12,135 @@
 
 <Fixture>
   <Date>Sat, 14 May 2011 12:00:00 UTC</Date>
+  <Opposition>E and B 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 21 May 2011 12:00:00 UTC</Date>
   <Opposition>Sulhampstead 3</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 28 May 2011 12:00:00 UTC</Date>
+  <Opposition>Strastfield 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 4 Jun 2011 12:00:00 UTC</Date>
+  <Opposition>Bradfield 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat,11 Jun 2011 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 18 Jun 2011 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 25 Jun 2011 12:00:00 UTC</Date>
+  <Opposition>Shinfield 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 2 Jul 2011 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill 1</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 9 Jul 2011 12:00:00 UTC</Date>
+  <Opposition>WSL 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 16 Jul 2011 12:00:00 UTC</Date>
+  <Opposition>E and B 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 23 Jul 2011 12:00:00 UTC</Date>
+  <Opposition>Sulhampstead 3</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 30 Jul 2011 12:00:00 UTC</Date>
+  <Opposition>Stratfield 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 6 Aug 2011 12:00:00 UTC</Date>
+  <Opposition>Bradfield 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 13 Aug 2011 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 20 Aug 2011 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 27 Aug 2011 12:00:00 UTC</Date>
+  <Opposition>Shinfield 2</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 3 Sep 2011 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill 1</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
