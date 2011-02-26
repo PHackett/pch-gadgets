@@ -107,7 +107,7 @@ function GGTRCC_Player___Canonical ()
 	// Trim trailing "_"
 	//
 var lLen=lRet.length;
-var lX=lRet[lLen - 1];
+var lX=lRet.charAt([lLen - 1]);
 //	if ('_' == lRet[lRet.length - 1])
 //	{
 //		lRet = lRet.substring (0, lRet.length - 1);
@@ -124,7 +124,7 @@ function GGTRCC_Player___HTML()
 	
 	lURL += GGGadget_getHostingRoot() + "players/" + this.Canonical();
 	
-	return (GGUtils_makeHREF (this.Name() + "[[" + this.Canonical() + "]]", lURL));
+	return (GGUtils_makeHREF (this.Name() + "[" + this.Canonical() + "]", lURL));
 }
 
 
