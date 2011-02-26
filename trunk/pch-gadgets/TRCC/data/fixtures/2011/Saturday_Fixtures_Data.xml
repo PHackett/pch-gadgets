@@ -3,10 +3,18 @@
 <YearsFixtures>
 	
 <Fixture>
-  <Date>Sat, 17 May 2011 12:00:00 UTC</Date>
+  <Date>Sat, 7 May 2011 12:00:00 UTC</Date>
   <Opposition>WSL 2</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 14 May 2011 12:00:00 UTC</Date>
+  <Opposition>Sulhampstead 3</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
