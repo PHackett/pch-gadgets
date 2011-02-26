@@ -106,14 +106,12 @@ function GGTRCC_Player___Canonical ()
 	//
 	// Trim trailing "_"
 	//
-var lLen=lRet.length;
-var lX=lRet.charAt([lLen - 1]);
-//	if ('_' == lRet[lRet.length - 1])
-//	{
-//		lRet = lRet.substring (0, lRet.length - 1);
-//	}
+	if ('_' == lRet.charAt([lRet.length - 1]))
+	{
+		lRet = lRet.substring (0, lRet.length - 1);
+	}
 	
-	return ("{" + lX + ", lLen=" + lLen + "}" + lRet.toLowerCase());
+	return (lRet.toLowerCase());
 	
 }
 
