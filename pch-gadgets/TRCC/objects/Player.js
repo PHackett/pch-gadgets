@@ -106,7 +106,7 @@ function GGTRCC_Player___Canonical ()
 	//
 	// Trim trailing "_"
 	//
-	if (lRet[lRet.length - 1] == "_")
+	if (lRet[lRet.length - 1] == '_')
 	{
 		lRet = lRet.substring (0, lRet.length - 1);
 	}
