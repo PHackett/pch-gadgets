@@ -4,7 +4,7 @@
 <Fixture>
   <Date>Sat, 7 May 2011 12:00:00 UTC</Date>
   <Opposition>WSL 2</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -12,7 +12,7 @@
 <Fixture>
   <Date>Sat, 14 May 2011 12:00:00 UTC</Date>
   <Opposition>E and B 2</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -124,7 +124,7 @@
 <Fixture>
   <Date>Sat, 20 Aug 2011 12:00:00 UTC</Date>
   <Opposition>Welford Park 2</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -132,7 +132,7 @@
 <Fixture>
   <Date>Sat, 27 Aug 2011 12:00:00 UTC</Date>
   <Opposition>Shinfield 2</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -140,7 +140,7 @@
 <Fixture>
   <Date>Sat, 3 Sep 2011 12:00:00 UTC</Date>
   <Opposition>Knowl Hill 1</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
