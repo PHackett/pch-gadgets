@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Hand written on Mar 29 19:51:45 UTC 2011 -->
 <YearsFixtures>
 
   <Fixture>
-    <Date>Wed, 4 May 2010 12:00:00 UTC</Date>
+    <Date>Wed, 4 May 2011 12:00:00 UTC</Date>
     <Opposition>Farley Hill</Opposition>
     <Time>17:30</Time>
     <Venue>Away</Venue>
@@ -11,7 +10,7 @@
   </Fixture>
 
   <Fixture>
-    <Date>Wed, 18 May 2010 12:00:00 UTC</Date>
+    <Date>Wed, 18 May 2011 12:00:00 UTC</Date>
     <Opposition>Farley Hill</Opposition>
     <Time>18:00</Time>
     <Venue>Away</Venue>
@@ -19,10 +18,18 @@
   </Fixture>
 
   <Fixture>
-    <Date>Wed, 1 Jun 2010 12:00:00 UTC</Date>
+    <Date>Wed, 1 Jun 2011 12:00:00 UTC</Date>
     <Opposition>Farley Hill</Opposition>
     <Time>18:00</Time>
     <Venue>Away</Venue>
+    <Result>NotPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 3 Aug 2011 12:00:00 UTC</Date>
+    <Opposition>RMC CC</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
     <Result>NotPlayed</Result>
   </Fixture>
 
