@@ -87,15 +87,15 @@ function WrContentHeading ()
 
 function MkNavBtns ()
 {
-	new NavB ("Home",			"/index.html",																"Home Page");
-	new NavB ("Fixtures",		"/Fixtures/Fixtures.html",													"Where are we playing?");
-	new NavB ("Stats",			"/Stats/Stats.html",														"Player statistics");
-	new NavB ("Players",		"/Players/players.html",													"Player profiles");
-	new NavB ("Awards",			"/HallOfFame/HallOfFame.html",												"Club awards through the years");
-	new NavB ("Committee",		"/Committee/Committee.html",												"Your Committee");
-	new NavB ("Map",			"/Map/Map.html",															"Where are we?");
+	new NavB ("Home",			"./index.html",																"Home Page");
+	new NavB ("Fixtures",		"./index.html",																"Where are we playing?");
+	new NavB ("Stats",			"./index.html",																"Player statistics");
+	new NavB ("Players",		"./index.html",																"Player profiles");
+	new NavB ("Awards",			"./index.html",																"Club awards through the years");
+	new NavB ("Committee",		"./index.html",																"Your Committee");
+	new NavB ("Map",			"./index.html",																"Where are we?");
 	// new NavB ("@Google",		"http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/Home",	"TRCC @ Google!");
-	new NavB ("@Google",		"http://sites.twyfordcc.org.uk",											"TRCC @ Google!");
+	new NavB ("@Google",		"./index.html",																"TRCC @ Google!");
 
 	// Special for the printable button
 	var lPT=document.URL;
