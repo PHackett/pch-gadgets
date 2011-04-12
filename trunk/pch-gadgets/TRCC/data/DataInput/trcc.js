@@ -87,15 +87,15 @@ function WrContentHeading ()
 
 function MkNavBtns ()
 {
-	new NavB ("Home",			"./index.html",																"Home Page");
-	new NavB ("Fixtures",		"./index.html",																"Where are we playing?");
-	new NavB ("Stats",			"./index.html",																"Player statistics");
-	new NavB ("Players",		"./index.html",																"Player profiles");
-	new NavB ("Awards",			"./index.html",																"Club awards through the years");
-	new NavB ("Committee",		"./index.html",																"Your Committee");
-	new NavB ("Map",			"./index.html",																"Where are we?");
+	// new NavB ("Home",			"./index.html",															"Home Page");
+	// new NavB ("Fixtures",		"./index.html",															"Where are we playing?");
+	// new NavB ("Stats",			"./index.html",															"Player statistics");
+	// new NavB ("Players",		"./index.html",																"Player profiles");
+	// new NavB ("Awards",			"./index.html",															"Club awards through the years");
+	// new NavB ("Committee",		"./index.html",															"Your Committee");
+	// new NavB ("Map",			"./index.html",																"Where are we?");
 	// new NavB ("@Google",		"http://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/Home",	"TRCC @ Google!");
-	new NavB ("@Google",		"./index.html",																"TRCC @ Google!");
+	// new NavB ("@Google",		"./index.html",																"TRCC @ Google!");
 
 	// Special for the printable button
 	var lPT=document.URL;
@@ -111,7 +111,7 @@ function MkNavBtns ()
 
 	lPT += "layout=printable";
 
-	new NavB ("(printable)",	lPT,				"Printable version of this page");
+	// new NavB ("(printable)",	lPT,				"Printable version of this page");
 
 	//
 	// Note: When working as a a filesystem website, for some reason
@@ -120,10 +120,10 @@ function MkNavBtns ()
 	//
 	var lMyCookie = GetMyCookieByName (document, "Secret");
 
-	if (lMyCookie && (lMyCookie.mValue == "ItsMe"))
+	// if (lMyCookie && (lMyCookie.mValue == "ItsMe"))
 	{
-		new NavB ("DataInput",		"/DataInput/index.html",	"Input of game data");
-		new NavB ("Generate",		"/secret/Generate.html",	"Generation of summary data");
+		new NavB ("DataInput",		"./index.html",				"Input of game data");
+		// new NavB ("Generate",	"/secret/Generate.html",	"Generation of summary data");
 	}
 }
 
