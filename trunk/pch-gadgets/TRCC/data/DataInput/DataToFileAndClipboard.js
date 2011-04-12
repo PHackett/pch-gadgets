@@ -15,7 +15,7 @@ function ForwardDataToOutput (aData, aDate, aFile, aFixtureData)
 	//
 	// Generate the full name of the file we want to create
 	//
-	var lOutFile=GetFileSystemRoot() + "Fixtures\\";
+	var lOutFile=GetFileSystemRoot() + "fixtures\\";
 
 	lOutFile += aDate.getFullYear() + "\\" + aFile;
 
