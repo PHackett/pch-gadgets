@@ -14,6 +14,8 @@ function MatchDE_Generate (aOpposition, aDate, aVenue, aResult, aFirstInnings, a
 	var lFile = MonthNumToString (aDate) + "_" + DateNumToString (aDate) + "_" + aOpposition;
 	lFile = SpacesToUnderline (lFile)
 	lFile += ".js";
+	
+	lFile = lFile.toLowerCase();
 
 	//
 	// Start with the preable
