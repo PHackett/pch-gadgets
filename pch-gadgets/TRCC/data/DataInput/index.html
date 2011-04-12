@@ -1,0 +1,497 @@
+<html>
+
+<head>
+<script language="JavaScript">
+<!--
+	//
+	// This is a standard bit of Javascript to get hold of the main javascript file
+	// that has all the standard functions in it. It is here so that we can get that
+	// files from different locations depending upon which webserver we are currently 
+	// being served from. 
+	//
+	var lRootJS="/js/trcc.js";
+	
+	if (0 == document.location.toString().indexOf ("http://twyfordweb.googlecode.com"))
+	{
+		lRootJS = "/svn/trunk/js/trcc.js";
+	}
+	else if (0 == document.location.toString().indexOf ("file:///Z:/TRCCweb/"))
+	{
+		lRootJS = "file:///Z:/TRCCweb/js/trcc.js";
+	}
+	else if (0 == document.location.toString().indexOf ("http://trcc.paulhackett.com/"))
+	{
+		lRootJS = "http://trcc.paulhackett.com/TRCCweb/pch-gadgets/TRCC/data/DataInput/trcc.js";
+	}
+	
+	document.writeln ("<script language=\"JavaScript\" src=\"" + "./trcc.js" + "\"></script>");
+//-->
+</script>
+
+
+<!-- Include various objects -->
+<script language="JavaScript">
+<!--
+	// The players object
+	inclFile ("./Player.js");
+	inclFile ("./TRCCPlayers.js");
+
+	// The TRCC player rollcall
+	// inclFile ("./TRCCRollcall.js");
+	
+	//
+	// Files to parse the XML rollcall
+	inclFile ("/TRCC/objects/Player.js");
+	
+
+	// The base text input control object
+	inclFile ("./TextInputControl.js");
+
+	// Integer input object
+	inclFile ("./IntegerInput.js");
+
+	// Floating point input object
+	inclFile ("./FloatInput.js");
+
+	// <select> style input
+	inclFile ("./SelectInput.js");
+
+	// A number range (<select>) object
+	inclFile ("./NumberRangeInput.js");
+
+	// Month selection (<select>) object
+	inclFile ("./MonthInput.js");
+
+	// Date selection object (composite)
+	inclFile ("./DateInput.js");
+
+	// Overs input object
+	inclFile ("./OversInput.js");
+
+	// "Predictive text" index object
+	inclFile ("./PredictiveInputOptionsIndex.js");
+
+	// "Predictive text" input object
+	inclFile ("./PredictiveInput.js");
+
+	// Opposition name input, <select> & output object
+	inclFile ("./OppositionInput.js");
+
+	// To input a complete player name
+	inclFile ("./FullNameInput.js");
+
+	// To input match location 
+	inclFile ("./MatchPlayedAt.js");
+
+	// To input match result
+	inclFile ("./MatchResult.js");
+
+	// Complete batsman data
+	inclFile ("./HowOutInput.js");
+
+	// Single batsman data
+	inclFile ("./BatsmanDE.js");
+
+	// Single bowler data
+	inclFile ("./BowlerDE.js");
+
+	// Fall Of wickets
+	inclFile ("./FOWDE.js");
+
+	// Team batting data
+	inclFile ("./TeamBattingDE.js");
+
+	// Team bowling data
+	inclFile ("./TeamBowlingDE.js");
+
+	// An entire innings
+	inclFile ("./InningsDE.js");
+
+	// An entire match
+	inclFile ("./MatchDE.js");
+
+
+	//
+	// This is where we actually start writing stuff!!
+	//
+	var lMyCookie = GetMyCookieByName (document, "Secret");
+	var gItsMe=false;
+
+	if (lMyCookie && (lMyCookie.mValue == "ItsMe") && (document.location.host == "trcc.paulhackett.com"))
+	{
+		gItsMe = true;
+	}
+
+	//
+	// Depending upon if its me or not, include a different file to send the 
+	// data to its output
+	//
+	if (gItsMe)
+	{
+		inclFile ("./FileWriter.js");
+		inclFile ("./DataToFileAndClipboard.js");
+	}
+	else
+	{
+		inclFile ("./DataToMailAndClipboard.js");
+	}
+
+//-->
+</script>
+
+</head>
+
+<script language="JavaScript">
+<!--
+	WrPgTop ("DEOnload");
+//-->
+</script>
+
+
+<!-- Page Content itself -->
+
+<script language="javascript">
+<!--
+	//
+	// Read the players from the XML file
+	//
+	if (window.XMLHttpRequest)
+	{
+		// code for IE7+, Firefox, Chrome, Opera, Safari
+		xmlhttp=new XMLHttpRequest();
+	}
+	else
+	{
+		// code for IE6, IE5
+	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	
+	xmlhttp.open("GET","/TRCCweb/pch-gadgets/TRCC/data/players/Rollcall.xml",false);
+	xmlhttp.send();
+	xmlDoc=xmlhttp.responseXML; 
+
+	//
+	// Parse the data
+	//
+	GGTRCC_ParsePlayerRollcallXML (xmlDoc);
+
+	//
+	// Turn the parse data into Player objects
+	//
+	for (i=0;i<GGTRCC_Player_A().length;i++)
+	{
+		new TRCCPlayer (GGTRCC_Player_A()[i].mFirstname + " " + GGTRCC_Player_A()[i].mSurname);
+	} 
+
+	// 
+	// Set up the various controls, callbacks & variables we will need
+	//
+	function DateChangedCB()
+	{
+		var lData = "(" + DOWFromDate (lMatchDate.GetDate()) + ")";
+
+		document.getElementById('DayOfWeek_1').innerHTML = lData;
+		document.getElementById('DayOfWeek_2').innerHTML = lData;
+	}
+
+	function BatFirstChangeCB ()
+	{
+		//
+		// Set the correct batter & bowler player arrays
+		//
+		if (lOpoI.IsTRCCBattingFirst())
+		{
+			lFirstInnings.Setplayers (GetTRCCPlayersSorted(), lOppoPlayers);
+			lFirstInnings.SetIsTRCC (true);
+			lSecondInnings.Setplayers (lOppoPlayers, GetTRCCPlayersSorted());
+			lSecondInnings.SetIsTRCC (false);
+		}
+		else
+		{
+			lFirstInnings.Setplayers (lOppoPlayers, GetTRCCPlayersSorted());
+			lFirstInnings.SetIsTRCC (false);
+			lSecondInnings.Setplayers (GetTRCCPlayersSorted(), lOppoPlayers);
+			lSecondInnings.SetIsTRCC (true);
+		}
+	}
+
+	function FirstInningsDoneFocus()
+	{
+		document[lFormName]["firstInningsDone"].checked = true;
+		FirstInningsDoneClick();
+	}
+
+	function FirstInningsDoneClick()
+	{
+		//
+		// Get the opposition players for the second innings
+		//
+		lOppoPlayers = lFirstInnings.GetOppoPlayers();
+
+		//
+		// Set the oppo players on to the second innings
+		//
+		BatFirstChangeCB ();
+	}
+
+	function DEGenerate()
+	{
+	alert ("In DEGenerate()");
+		MatchDE_Generate (lOpoI.GetOpposition(), 
+						  lMatchDate.GetDate(),
+						  lMatchLocation.GetValueCode(), 
+						  lMatchResult.GetValueCode(), 
+						  lFirstInnings, 
+						  lSecondInnings);
+	}
+
+	//
+	// Form name
+	//
+	var lFormName="test";
+
+	//
+	// Who are the opposition?
+	//
+	var lOpoI = new OppositionInput (lFormName, BatFirstChangeCB);
+
+	//
+	// Date of the match
+	//
+	var lMatchDate = new DateInput (lFormName, DateChangedCB);
+	lMatchDate.SetDisplayClass ("InputSm");
+
+	//
+	// Where the match is played
+	//
+	var lMatchLocation = new MatchPlayedAt (lFormName);
+	lMatchLocation.SetDisplayClass ("InputSm");
+
+	//
+	// Match result
+	//
+	var lMatchResult = new MatchResult (lFormName);
+	lMatchResult.SetDisplayClass ("InputSm");
+
+	//
+	// To hold the opposition players as we discover them
+	//
+	var lOppoPlayers=new Array();
+
+	//
+	// The innings
+	//
+	var lFirstInnings = new InningsDE (lFormName);
+	var lSecondInnings = new InningsDE (lFormName);
+
+	//
+	// By default, TRCC bat first
+	//
+	lFirstInnings.Setplayers (GetTRCCPlayersSorted(), lOppoPlayers);
+	// lFirstInnings.SetIsTRCC (true);
+	lSecondInnings.Setplayers (lOppoPlayers, GetTRCCPlayersSorted());
+	// lSecondInnings.SetIsTRCC (false);
+
+	//
+	// Onload handler
+	//
+	function DEOnload()
+	{
+		lOpoI.FocusOnInput();
+	}
+
+//-->
+</script>
+
+<script language="javascript">
+<!--
+	//
+	// This is where we actually start writing stuff!!
+	//
+	if (gItsMe)
+	{
+		var lOutFile=GetFileSystemRoot() + "Fixtures\\";
+
+		dwln ("<p align='center'>Hello Paul - Direct writing to disk is enabled, output area = " + lOutFile + "</p>");
+		dwln ("<p align='center'>" + GetTRCCPlayersSorted().length + " players names have been read in</p>");
+	}
+	else
+	{
+		dwln ("<p align='center'>Paste results to email is enabled</p>");
+	}
+
+	if ("Microsoft Internet Explorer" != navigator.appName)
+	{
+		dwln ("<p align='center'><span class='FixtureHead'>");
+		dwln ("You must use Internet Explorer for this page to work!<br>");
+		dwln ("Stop now to avoid frustration!");
+		dwln ("</span></p>");
+	}
+
+	//
+	// Start the form
+	//
+	dwln ("<form name='" + lFormName + "'>");
+
+	dwln ("<table width='100%' cellpadding='2' cellspacing='1' border='0'>");
+
+	//
+	// Opposition name
+	//
+	dwln (	"<tr>");
+	dwln (		"<td>");
+					dwln ("<span class='FixtureHead'>TRCC vs. </span>");
+	dwln (		"</td>");
+	dwln (		"<td colspan='2'>");
+					lOpoI.HTMLOppoName();
+	dwln (		"</td>");
+	dwln (	"</tr>");
+
+	//
+	// Match date
+	//
+	dwln (	"<tr>");
+	dwln (		"<td align='right'>");
+	dwln (			"<span class='ScorecardSm'>Date:</span>");
+	dwln (		"</td>");
+	dwln (		"<td>");
+					lMatchDate.HTML();
+	dwln (		"</td>");
+	dwln (		"<td width='20%'>");
+	dwln (			"<span class='ScorecardSm' id='DayOfWeek_1'>(" + DOWFromDate (lMatchDate.GetDate()) + ")</span>");
+	dwln (		"</td>");
+	dwln (	"</tr>");
+
+	//
+	// Match location
+	//
+	dwln (	"<tr>");
+	dwln (		"<td align='right'>");
+	dwln (			"<span class='ScorecardSm'>Venue:</span>");
+	dwln (		"</td>");
+	dwln (		"<td colspan='2'>");
+					lMatchLocation.HTML();
+	dwln (		"</td>");
+	dwln (	"</tr>");
+
+	//
+	// Match result
+	//
+	dwln (	"<tr>");
+	dwln (		"<td align='right'>");
+	dwln (			"<span class='ScorecardSm'>Result:</span>");
+	dwln (		"</td>");
+	dwln (		"<td colspan='2'>");
+					lMatchResult.HTML();
+	dwln (		"</td>");
+	dwln (	"</tr>");
+
+	dwln ("</table");
+
+
+	//
+	// Select first batting team
+	//
+	dwln ("</span><br><br><br>");
+	dwln ("<span class='ScorecardSm'>");
+	dwln ("Innings of ");
+	lOpoI.HTMLBattingTeam1();
+	dwln ("</span>");
+	dwln ("<br><br>");
+
+	//
+	// Input for the first innings
+	//
+	lFirstInnings.HTML();
+
+	//
+	// By default, the first innings is Twyford
+	//
+	lFirstInnings.SetIsTRCC (true);
+
+//-->
+</script>
+<br>
+Tick this box when the first innings is complete: 
+<INPUT	type=CHECKBOX 
+		name='firstInningsDone' 
+		onclick='FirstInningsDoneClick()' 
+		onfocus='FirstInningsDoneFocus()'>
+<script language="JavaScript">
+<!--
+	//
+	// Separator
+	//
+	dwln ("<br><br>");
+	dwln ("<hr class='ScorecardSm' size='1'>");
+	dwln ("<br>");
+
+	//
+	// Who is batting second
+	//
+	dwln ("<span class='ScorecardSm'>");
+	dwln ("Innings of ");
+	lOpoI.HTMLBattingTeam2();
+	dwln ("</span>");
+	dwln ("<br><br>");
+
+	//
+	// Input for the second innings
+	//
+	lSecondInnings.HTML();
+
+	//
+	// By default, the second innings is the opposition
+	//
+	lSecondInnings.SetIsTRCC (false);
+
+	dwln ("<br><br>");
+	dwln ("<hr class='ScorecardSm' size='1'>");
+	dwln ("<br>");
+
+	//
+	// Generate output button
+	//
+	dwln ("<p align='center'>");
+	dwln ("<input type='button' name='DEGenerateButton' value='Generate Data' onclick='DEGenerate()'>");
+
+	dwln ("<p align='center'>");
+	dwln ("<span class='ScorecardSm' id='DayOfWeek_2'>(" + DOWFromDate (lMatchDate.GetDate()) + ")</span>");
+
+	//
+	// Thats it ... Close off the form
+	//
+	dwln ("</form>");
+
+//-->
+</script>
+
+<!-- This last form is to aid in getting the data into the clipboard -->
+<form name='ClipboardHelper'>
+	<input type='hidden' name='data'>
+</form>
+<!-- End Page Content -->
+
+
+<script language="JavaScript">
+<!--
+	WritePageMiddleGlue ();
+//-->
+</script>
+
+
+<!--
+	Note that this has to go in the HMTL as opposed to the 
+	JavaScript, as its a server-side directive
+-->
+
+<!--#easybanner-->
+
+<script language="JavaScript">
+<!--
+	WritePageTrailer ()
+//-->
+</script>
+
+</body>
+</html>
