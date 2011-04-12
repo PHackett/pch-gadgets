@@ -1,0 +1,245 @@
+.DROPCAP 
+{ 
+	font-weight:		bold; 
+	text-align:		center; 
+	font-size:		x-large;
+	font-family:		"Arial", "Comic Sans MS", "Helvetica", "helv", "sans-serif";
+	color:			yellow; 
+	background:		darkblue; 
+	BORDER-BOTTOM-STYLE:	outset;
+	BORDER-LEFT-STYLE:	outset; 
+	BORDER-RIGHT-STYLE:	outset;
+	BORDER-TOP-STYLE:	outset; 
+	FLOAT:			left; 
+	WIDTH:			0.75em 
+}
+
+.PgTop
+{
+	font-family:		"Arial Black", "Arial", "Comic Sans MS", "Helvetica", "helv", "sans-serif";
+	font-size:		x-large;
+	background:		darkblue;
+	color:			white;
+}
+
+.NavBtns
+{
+	font-family:		"Arial Black", "Arial", "Comic Sans MS", "Helvetica", "helv", "sans-serif";
+	font-size:		x-large;
+	background:		yellow;
+	color:			darkblue;
+}
+
+.contentHeading
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		x-large;
+	color:			DarkBlue;
+}
+
+.NavBtnCur
+{
+	background:		darkblue;
+	color:			yellow;
+}
+
+.NavBtnAno
+{
+	background:		lightblue;
+	color:			white;
+}
+
+.NavBtnAno a
+{ 
+	padding:		2px; 
+	display:		block; 
+ }
+
+.NavBtnAno a:Link
+{ 
+	color:			#FFF; 
+	background-color:	lightblue;
+	text-decoration:	none;      
+ }
+
+.NavBtnAno a:visited
+{ 
+	color:			#FFF; 
+	background-color:	lightblue;
+	text-decoration:	none;      
+ }
+
+.NavBtnAno a:hover
+{ 
+	color:			crimson; 
+	background-color:	lightblue;
+	text-decoration:	none;
+ }
+
+pre
+{
+	font-family:		"Terminal", "Helvetica", "system", "Arial", "Comic Sans MS", "helv", "sans-serif";
+	font-weight:		lighter;
+	font-size:		x-small;
+	color:			darkolivegreen;
+}
+
+.liheading
+{
+	color:			dodgerblue;
+	font-family:		"Arial", "Comic Sans MS", "Helvetica", "helv", "sans-serif";
+}
+
+.FixtureHead
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		large;
+	color:			"Crimson";
+}
+
+.FixtureHeadInput
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		large;
+	color:			"darkblue";
+	background-color:	#f7f7f0;
+	border-style:		none;
+	padding:		0;
+	vertical-align:		bottom;
+}
+
+.Scorecard
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		large;
+	color:			Crimson;
+}
+
+.StatsHeading
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		large;
+	color:			darkblue;
+}
+
+.InputSm
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	color:			"darkblue";
+	background-color:	#f7f7f0;
+	font-weight:		bold; 
+}
+
+.ScorecardSm
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	color:			Crimson;
+}
+
+.FixtureAltLine
+{
+	background-color:	lightblue;
+}
+
+.FixtureNotAltLine
+{
+	background:		#fffff0;
+}
+
+.TableMouseOver
+{
+	color:			crimson;
+	background-color:	yellow;
+}
+
+.InputAltLine
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	color:			"darkblue";
+	background-color:	#9cc7d5;
+	border-style:	none;
+}
+
+.InputNotAltLine
+{
+	font-family:		"Comic Sans MS", "Arial Black", "Arial", "Helvetica", "helv", "sans-serif";
+	color:			"darkblue";
+	background-color:	#f7f7f0;
+	border-style:	none;
+}
+
+.TotalsReadOnly
+{
+	font-family:		"Arial", "Helvetica", "helv", "sans-serif";
+	color:			darkblue;
+}
+
+.BatsHeader
+{
+	background:		darkblue;
+	color:			yellow;
+}
+
+.PlayerNameCard
+{
+	font-family:		"Comic Sans MS", "Arial", "Helvetica", "helv", "sans-serif";
+	font-size:		9;
+	background:		white;
+	color:			black;
+}
+
+.CardHeader
+{
+	font-family:		"Helvetica", "helv", "sans-serif";
+	font-size:		12;
+	background:		darkblue;
+	color:			white;
+}
+
+.CardFooter
+{
+	font-family:		"Helvetica", "helv", "sans-serif";
+	font-size:		9;
+	font-weight:		bold; 
+	font-style:		italic; 
+	background:		darkblue;
+	color:			white;
+}
+
+.CardInfo
+{
+	font-family:		"Helvetica", "helv", "sans-serif";
+	font-size:		12;
+	background:		white;
+	color:			black;
+}
+
+.TRCCWin
+{
+	font-family:		"Comic Sans MS", "Arial", "Helvetica", "helv", "sans-serif";
+	font-style:		italic;
+	color:			Crimson;
+}
+.TRCCLose
+{
+	font-family:		"Comic Sans MS", "Arial", "Helvetica", "helv", "sans-serif";
+	color:			darkblue;
+}
+
+.TRCCDraw
+{
+	font-family:		"Comic Sans MS", "Arial", "Helvetica", "helv", "sans-serif";
+	color:			green;
+}
+
+.TableMouseoverHighlight
+{
+	BACKGROUND-COLOR: lightblue; 
+	COLOR: red;
+}
+
+.TableMouseoverNormal
+{
+	BACKGROUND-COLOR: #fffff0; 
+	COLOR: black;
+}
