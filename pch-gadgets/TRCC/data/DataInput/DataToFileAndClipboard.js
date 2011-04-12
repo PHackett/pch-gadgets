@@ -4,7 +4,7 @@
 //
 function ForwardDataToOutput (aData, aDate, aFile, aFixtureData)
 {
-	alert ("In ForwardDataToOutput");
+	// alert ("In ForwardDataToOutput");
 	//
 	// Put the fixture data into the clipboard
 	//
