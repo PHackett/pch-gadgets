@@ -291,12 +291,12 @@ function NavB___Leave()
 function NavB___Press()						{	window.status = "";	return (true);						}
 
 
-function SetWebRoot (aWebRoot)				{	gWebRoot = aWebRoot;																}
-function GetWebRoot ()						{	return (gWebRoot);																	}
-// function GetFileSystemRoot()				{	return ("D:\\Projects\\Websites\\www.twyfordcc.org.uk\\");				}
-function GetFileSystemRoot()				{	return ("Z:\\TRCCweb\\twyford-google\\");				}
-function GetFileSystemGadgetsRoot()			{	return ("Z:\\TRCCweb\\pch-gadgets\\");				}
-function dwln (text)						{	document.writeln (text);															}
+function SetWebRoot (aWebRoot)				{	gWebRoot = aWebRoot;										}
+function GetWebRoot ()						{	return (gWebRoot);											}
+// function GetFileSystemRoot()				{	return ("D:\\Projects\\Websites\\www.twyfordcc.org.uk\\");	}
+function GetFileSystemRoot()				{	return ("Z:\\TRCCweb\\pch-gadgets\\TRCC\\data\\");			}
+function GetFileSystemGadgetsRoot()			{	return ("Z:\\TRCCweb\\pch-gadgets\\");						}
+function dwln (text)						{	document.writeln (text);									}
 function toABS (aURL)
 {
 	if (aURL.charAt (0) == '.')
