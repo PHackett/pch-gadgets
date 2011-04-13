@@ -41,7 +41,7 @@
 	
 	//
 	// Files to parse the XML rollcall
-	inclFile ("/TRCC/objects/Player.js");
+	inclFile ("../../objects/Player.js");
 	
 
 	// The base text input control object
@@ -166,7 +166,7 @@
 	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
 	}
 	
-	xmlhttp.open("GET","/TRCCweb/pch-gadgets/TRCC/data/players/Rollcall.xml",false);
+	xmlhttp.open("GET","../players/Rollcall.xml",false);
 	xmlhttp.send();
 	xmlDoc=xmlhttp.responseXML; 
 
