@@ -42,13 +42,25 @@ function gGGTRCC_Player___sort (aA, aB)
 {
 	var lRet=0;
 	
-	if (aA.mSurname != aB.mSurname)
+	if (aA.mSurname.toLowerCase() > aB.mSurname.toLowerCase())
 	{
-		lRet = (aA.mSurname > aB.mSurname);
+		lRet = 1;
+	}
+	else if (aA.mSurname.toLowerCase() < aB.mSurname.toLowerCase())
+	{
+		lRet = -1
+	}
+	else if (aA.mFirstname.toLowerCase() > aB.mFirstname.toLowerCase())
+	{
+		lRet = 1;
+	}
+	else if (aA.mFirstname.toLowerCase() < aB.mFirstname.toLowerCase())
+	{
+		lRet = -1
 	}
 	else
 	{
-		lRet = (aA.mFirstname > aB.mFirstname);
+		lRet = 0;
 	}
 
 	return (lRet);
