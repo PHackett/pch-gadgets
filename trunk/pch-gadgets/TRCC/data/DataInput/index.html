@@ -321,12 +321,13 @@
 		var lOutFile=GetFileSystemRoot() + "Fixtures\\";
 
 		dwln ("<p align='center'>Hello Paul - Direct writing to disk is enabled, output area = " + lOutFile + "</p>");
-		dwln ("<p align='center'>" + GetTRCCPlayersSorted().length + " players names have been read in</p>");
 	}
 	else
 	{
 		dwln ("<p align='center'>Paste results to email is enabled</p>");
 	}
+
+	dwln ("<p align='center'>" + GetTRCCPlayersSorted().length + " TRCC players names have been read in</p>");
 
 	if ("Microsoft Internet Explorer" != navigator.appName)
 	{
