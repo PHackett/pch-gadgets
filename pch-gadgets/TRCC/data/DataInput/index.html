@@ -166,15 +166,24 @@
 	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
 	}
 	
-	xmlhttp.open("GET","../players/Rollcall.xml",false);
+	var lRelURL="../players/Rollcall.xml";
+	
+	xmlhttp.open("GET", lRelURL, false);
 	xmlhttp.send();
 	xmlDoc=xmlhttp.responseXML; 
 
-	//
-	// Parse the data
-	//
-	GGTRCC_ParsePlayerRollcallXML (xmlDoc);
-
+	if (null != xmlDoc)
+	{
+		//
+		// Parse the data
+		//
+		GGTRCC_ParsePlayerRollcallXML (xmlDoc);
+	}
+	else
+	{
+		alert ("No data was discovered at " + lRelURL);
+	}
+	
 	//
 	// Turn the parse data into Player objects
 	//
