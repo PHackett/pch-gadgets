@@ -2,7 +2,7 @@
 //
 // Send the data to the clipboard & start off email client
 //
-function ForwardDataToOutput (aData, aDate, aFile, aFixtureData)
+function ForwardDataToOutput (aData, aDate, aFile)
 {
 	//
 	// Put the data into the clipboard

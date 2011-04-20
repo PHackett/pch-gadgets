@@ -110,6 +110,8 @@
 	// An entire match
 	inclFile ("./MatchDE.js");
 
+	inclFile ("./GameReport.js");
+
 
 	//
 	// This is where we actually start writing stuff!!
@@ -245,12 +247,71 @@
 
 	function DEGenerate()
 	{
-		MatchDE_Generate (lOpoI.GetOpposition(), 
+		// alert ("In DEGenerate() action");
+		
+		var lX = MatchDE_Generate (lOpoI.GetOpposition(), 
 						  lMatchDate.GetDate(),
 						  lMatchLocation.GetValueCode(), 
 						  lMatchResult.GetValueCode(), 
 						  lFirstInnings, 
 						  lSecondInnings);
+		
+		//
+		// Write it out!
+		//
+		var lFile = MonthNumToString (lMatchDate.GetDate()) + "_" + DateNumToString (lMatchDate.GetDate()) + "_" + lOpoI.GetOpposition();
+		var lFixtureData = "new Fixture (new Date (\"" + lMatchDate.GetDate().toString() + "\"), \"" 
+													+ lOpoI.GetOpposition() + "\",	"
+													+ "null, " 
+													+ lMatchLocation.GetValueCode() + ", " 
+													+ lMatchResult.GetValueCode() + ", true);";
+													
+		lFile = SpacesToUnderline (lFile)
+		lFile += ".js";
+	
+		lFile = lFile.toLowerCase();
+		
+		var lNewMatchDate=lMatchDate.GetDate()
+		
+		//
+		// Turn the string we have just created (The javascript) into your actual 
+		// object by eval()'ing the string
+		//
+		eval (lX);
+		
+		// alert ("GetGameArray().length = " + GetGameArray().length);
+		
+		if (GetGameArray().length > 0)
+		{
+			//
+			// Make the XML
+			//
+			var lXML = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n";
+		
+			lXML +="<!-- Generated on " + new Date() + " -->\n";
+		
+	
+			lXML += GetGameArray()[0].toXML();
+		
+			//
+			// Debug
+			//
+			dwln ("GetGameArray()[0].getXMLFilename() = " + GetGameArray()[0].getXMLFilename());
+			lESC = lXML.split("&").join("&amp;").split("<").join("&lt;").split(">").join("&gt;")
+			dwln ("<pre>");
+			dwln (lESC);
+			dwln ("</pre>");
+		
+			//
+			// Write the XML to a file
+			//
+			ForwardDataToOutput (lXML, lNewMatchDate, GetGameArray()[0].getXMLFilename());
+			// writeDataToFile (lXML, GetGameArray()[0].getXMLFilename());
+		}
+		else
+		{
+			alert ("Something has gone wrong: We did not have a games generated!");
+		}
 	}
 
 	//
