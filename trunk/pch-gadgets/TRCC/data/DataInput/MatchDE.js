@@ -87,7 +87,8 @@ function MatchDE_Generate (aOpposition, aDate, aVenue, aResult, aFirstInnings, a
 	//
 	//
 	//
-	ForwardDataToOutput (MatchDE_GetOutput(), aDate, lFile, lFixtureData);
+	// ForwardDataToOutput (MatchDE_GetOutput(), aDate, lFile, lFixtureData);
+	return (MatchDE_GetOutput());
 }
 
 function MatchDE_GetOutput()
