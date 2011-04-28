@@ -7,6 +7,7 @@ var gGGGadget_NoSchemeSitesRoots =
 	[ 
 		"://sites.google.com/a/trcc.paulhackett.com/trcc-cricket-club/", 
 		"://sites.twyfordcc.org.uk/",
+		"://www.twyfordcc.org.uk/",						// The default site is now on sites
 		"://sites.google.com/a/twyfordcc.org.uk/home/"
 	];
 
