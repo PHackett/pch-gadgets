@@ -79,7 +79,7 @@
   <Innings batting="stonor">
     <Batsman name="B Denton">
       <HowOut how="Caught Peter Woodman"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Joe Downes"/>
       <Runs value="12"/>
     </Batsman>
     <Batsman name="J Powell">
@@ -112,9 +112,9 @@
     <FallOfWicket batsman="4" score="105"/>
     <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="15" wickets="1"/>
     <BowlerSummary name="Steve Beamish" overs="9" maidens="2" runs="33" wickets="1"/>
-    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="14" wickets="1"/>
     <BowlerSummary name="Raja Singh" overs="3" maidens="0" runs="23" wickets="0"/>
-    <BowlerSummary name="Mark Teal" overs="2" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Mark Teal" overs="2" maidens="0" runs="11" wickets="0"/>
     <BowlerSummary name="Tom Downes" overs="2" maidens="0" runs="10" wickets="0"/>
     <BowlerSummary name="Nic Downes" overs="1.3" maidens="0" runs="22" wickets="1"/>
   </Innings>
