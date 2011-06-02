@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 6 21:41:34 UTC+0100 2010 -->
+<CricketMatch oppo="E and B 2" date="Sat May 14 00:00:00 UTC+0100 2011">
+  <MatchReport>
+    <![CDATA[
+      Oppo could not raise a team!
+    ]]>
+  </MatchReport>
+<CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="E and B 2">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
+
