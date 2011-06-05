@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+ 	"Win" / "Won"
+ 	"Lose" / "Lost"
+ 	"Draw"
+ 	""Tie"
+ 	"Rain"
+ 	"Abandonned"
+ 	"NP"
+ 	"Cancelled"
+-->
+
 <YearsFixtures>
 	
 <Fixture>
@@ -74,7 +88,7 @@
   <Opposition>Greys Green</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 
 <Fixture>

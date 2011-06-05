@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+ 	"Win" / "Won"
+ 	"Lose" / "Lost"
+ 	"Draw"
+ 	""Tie"
+ 	"Rain"
+ 	"Abandonned"
+ 	"NP"
+ 	"Cancelled"
+-->
+
 <YearsFixtures>
 
   <Fixture>
