@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 13 20:57:40 UTC+0100 2011 -->
+<CricketMatch oppo="Sulhampstead 3" date="Sat May 21 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sulhampstead 3">
+    <Batsman name="Meacham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Kelly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Waterman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Anuna">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Babu">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Fox">
+      <HowOut how="Caught "/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sharaf">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stanley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Collins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Knapp">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="McDonald">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="2" score="32"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="6" score="101"/>
+    <FallOfWicket batsman="5" score="102"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <FallOfWicket batsman="9" score="147"/>
+    <FallOfWicket batsman="8" score="163"/>
+    <FallOfWicket batsman="11" score="171"/>
+    <BowlerSummary name="Graham Burgess" overs="11" maidens="1" runs="39" wickets="5"/>
+    <BowlerSummary name="Steve Beamish" overs="11" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="9" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="7" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Roberts">
+      <HowOut how="LBW"/>
+      <Bowler name="Sharaf"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="McDonald"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="McDonald"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="Sharaf"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Sharaf"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="6" score="103"/>
+    <BowlerSummary name="Collins" overs="11" maidens="0" runs="61" wickets="0"/>
+    <BowlerSummary name="McDonald" overs="6" maidens="0" runs="40" wickets="2"/>
+    <BowlerSummary name="Sharaf" overs="11" maidens="3" runs="28" wickets="3"/>
+    <BowlerSummary name="Anuna" overs="6" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Stanley" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
