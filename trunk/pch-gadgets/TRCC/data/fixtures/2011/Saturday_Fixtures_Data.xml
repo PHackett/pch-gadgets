@@ -65,7 +65,8 @@
   <Opposition>Bradfield 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -73,7 +74,8 @@
   <Opposition>Purley 3</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Abandonned</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
