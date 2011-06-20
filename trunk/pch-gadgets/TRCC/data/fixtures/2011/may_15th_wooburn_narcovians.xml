@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 20 19:28:00 UTC+0100 2011 -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Wooburn Narcovians" date="Sun May 15 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wooburn Narcovians">
+    <Batsman name="D Rogers">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="K Dolan">
+      <HowOut how="Retired"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="R Barker">
+      <HowOut how="Retired"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="H Winchester">
+      <HowOut how="Retired"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="C Gregory">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Selwood"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="G Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Wheeler">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="34"/>
+    <BowlerSummary name="Tom Downes" overs="9" maidens="0" runs="59" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="M Sellwood" overs="3" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Barker"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Stumped"/>
+      <Bowler name="R Wheeler"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joyce"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="M Sellwood"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Tom Downes"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="5" score="177"/>
+    <FallOfWicket batsman="6" score="177"/>
+    <BowlerSummary name="R Barker" overs="4" maidens="3" runs="5" wickets="1"/>
+    <BowlerSummary name="Smith" overs="8" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="R Wheeler" overs="8" maidens="2" runs="35" wickets="1"/>
+    <BowlerSummary name="Joyce" overs="5" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="C Gregory" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="C Hall" overs="6" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="G Taylor" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
+

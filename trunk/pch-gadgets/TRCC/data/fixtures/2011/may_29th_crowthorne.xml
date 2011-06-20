@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 20 19:54:49 UTC+0100 2011 -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Crowthorne" date="Sun May 29 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crowthorne">
+    <Batsman name="S Sheppard">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Oloughlin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="P Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Shaw">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Rajeeve Narula"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Partridge">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="S Roffey">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="M Sellwood"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="S Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Narula"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="B MacKenzie">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Sellwood"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Stent">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Hester">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Henton">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="56"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="6" score="220"/>
+    <FallOfWicket batsman="8" score="222"/>
+    <FallOfWicket batsman="9" score="244"/>
+    <FallOfWicket batsman="7" score="266"/>
+    <BowlerSummary name="Tom Downes" overs="8" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="M Narula" overs="5" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Rajeeve Narula" overs="7" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="M Sellwood" overs="4" maidens="0" runs="29" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sheppard"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="S Roffey"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Partridge"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sheppard"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Clarke"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="M Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sheppard"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="M Sellwood"/>
+    <Batsman name="Rajeeve Narula"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="42"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="3" score="110"/>
+    <FallOfWicket batsman="6" score="169"/>
+    <BowlerSummary name="J Oloughlin" overs="8" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="S Roffey" overs="6" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="S Sheppard" overs="7" maidens="0" runs="24" wickets="3"/>
+    <BowlerSummary name="P Brown" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="D Partridge" overs="8" maidens="3" runs="19" wickets="1"/>
+    <BowlerSummary name="B MacKenzie" overs="3" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="R Henton" overs="1" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
+
