@@ -56,7 +56,8 @@
   <Opposition>Wooburn Narkovians</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -64,7 +65,8 @@
   <Opposition>Frieth</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -72,7 +74,8 @@
   <Opposition>Crowthorne</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -101,10 +104,11 @@
 
 <Fixture>
   <Date>Sun, 19 Jun 2011 12:00:00 UTC</Date>
-  <Opposition>Bledlow Ridge</Opposition>
+  <Opposition>Waltham St Lawrence</Opposition>
   <Time>14:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Venue>Home</Venue>
+  <Result>Lost</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>

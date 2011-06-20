@@ -29,7 +29,7 @@
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Fox">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Chris Lunnon"/>
       <Bowler name="Graham Burgess"/>
       <Runs value="0"/>
     </Batsman>
