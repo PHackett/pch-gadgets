@@ -31,17 +31,17 @@
     </Batsman>
     <Batsman name="S Roffey">
       <HowOut how="Caught Joe Downes"/>
-      <Bowler name="M Sellwood"/>
+      <Bowler name="Matt Sellwood"/>
       <Runs value="72"/>
     </Batsman>
     <Batsman name="S Clarke">
       <HowOut how="Bowled"/>
-      <Bowler name="M Narula"/>
+      <Bowler name="Manan Narula"/>
       <Runs value="70"/>
     </Batsman>
     <Batsman name="B MacKenzie">
       <HowOut how="Bowled"/>
-      <Bowler name="M Sellwood"/>
+      <Bowler name="Matt Sellwood"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="H Stent">
@@ -69,11 +69,11 @@
     <FallOfWicket batsman="7" score="266"/>
     <BowlerSummary name="Tom Downes" overs="8" maidens="0" runs="33" wickets="3"/>
     <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="1" runs="28" wickets="1"/>
-    <BowlerSummary name="M Narula" overs="5" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="5" maidens="0" runs="34" wickets="1"/>
     <BowlerSummary name="Rajeeve Narula" overs="7" maidens="0" runs="52" wickets="1"/>
     <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="32" wickets="0"/>
     <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="39" wickets="1"/>
-    <BowlerSummary name="M Sellwood" overs="4" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Matt Sellwood" overs="4" maidens="0" runs="29" wickets="2"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Nic Downes">
@@ -105,7 +105,7 @@
       <Bowler name="S Clarke"/>
       <Runs value="20"/>
     </Batsman>
-    <Batsman name="M Narula">
+    <Batsman name="Manan Narula">
       <HowOut how="Caught"/>
       <Bowler name="S Sheppard"/>
       <Runs value="12"/>
@@ -115,7 +115,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Tom Leadbetter"/>
-    <Batsman name="M Sellwood"/>
+    <Batsman name="Matt Sellwood"/>
     <Batsman name="Rajeeve Narula"/>
     <Extras value="26"/>
     <FallOfWicket batsman="2" score="8"/>
