@@ -40,7 +40,7 @@
     <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="44" wickets="1"/>
     <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="40" wickets="0"/>
     <BowlerSummary name="Tom Leadbetter" overs="2" maidens="0" runs="22" wickets="0"/>
-    <BowlerSummary name="M Sellwood" overs="3" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Matt Sellwood" overs="3" maidens="0" runs="45" wickets="0"/>
     <BowlerSummary name="Hugh Fort" overs="1" maidens="0" runs="11" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
@@ -78,7 +78,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Chris Fort"/>
-    <Batsman name="M Sellwood"/>
+    <Batsman name="Matt Sellwood"/>
     <Batsman name="Tom Leadbetter"/>
     <Batsman name="Tom Downes"/>
     <Extras value="19"/>
