@@ -30,7 +30,7 @@ function GGTRCC_BatsmanSummaryO___update (aBatsmanInningsO)
 {
 	this.mGames++;
 	
-	if (null == aBatsmanInningsO.mHowOut)
+	if ((null == aBatsmanInningsO.mHowOut) || ("Did Not Bat" == aBatsmanInningsO.mHowOut))
 	{
 		// Did not bat
 	}

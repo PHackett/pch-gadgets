@@ -79,7 +79,7 @@
 				
 			
 				//--------------------------------------------------------------------
-				// Turn all the fixture information inrto stats HTML
+				// Turn all the fixture information into stats HTML
 				//
 				// @param aMatchDataArray  Array of GGGadget_UrlXml objects, the mXML
 				//                          member of which is the XML from the URL 
@@ -280,7 +280,7 @@
 			
 					//
 					// We have the teams-by-year data - Now load the fixture data for
-					// the year we are interrested in
+					// the year we are interested in
 					//
 					var lFixA=new Array();
 			
