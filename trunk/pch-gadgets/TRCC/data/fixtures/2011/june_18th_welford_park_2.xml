@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Jun 23 21:31:59 UTC+0100 2011 -->
+<!-- Result = Win -->
+<CricketMatch oppo="Welford Park 2" date="Sat Jun 18 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="S Edwards"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Pattamattahill"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="LBW"/>
+      <Bowler name="R Pattamattahill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="S Edwards"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="U Dishpande"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Caught"/>
+      <Bowler name="S Edwards"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Pattamattahill"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="U Dishpande"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="U Dishpande"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sam Young">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Pattamattahill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="40"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="1" score="78"/>
+    <FallOfWicket batsman="4" score="97"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <FallOfWicket batsman="6" score="103"/>
+    <FallOfWicket batsman="8" score="104"/>
+    <FallOfWicket batsman="9" score="108"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="11" score="148"/>
+    <BowlerSummary name="R Pattamattahill" overs="13" maidens="3" runs="25" wickets="4"/>
+    <BowlerSummary name="A Cale" overs="5" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="U Dishpande" overs="10" maidens="3" runs="41" wickets="3"/>
+    <BowlerSummary name="S Edwards" overs="8" maidens="2" runs="19" wickets="3"/>
+    <BowlerSummary name="M Carter" overs="2" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Welford Park 2">
+    <Batsman name="R Pattamattahill">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="S Patta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Sharma">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M George">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="A Chatterge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Jurgens">
+      <HowOut how="Run Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="D Kuzhi">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="U Dishpande">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Cale">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Carter">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="7" score="98"/>
+    <FallOfWicket batsman="8" score="100"/>
+    <FallOfWicket batsman="9" score="110"/>
+    <FallOfWicket batsman="10" score="116"/>
+    <FallOfWicket batsman="6" score="129"/>
+    <BowlerSummary name="Spence Nichols" overs="12" maidens="5" runs="29" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="12" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="10.2" maidens="1" runs="29" wickets="5"/>
+    <BowlerSummary name="Graham Burgess" overs="11" maidens="1" runs="34" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
+
