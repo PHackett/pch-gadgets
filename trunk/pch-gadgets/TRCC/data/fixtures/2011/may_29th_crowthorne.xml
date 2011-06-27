@@ -30,7 +30,7 @@
       <Runs value="42"/>
     </Batsman>
     <Batsman name="S Roffey">
-      <HowOut how="Caught Joe Downes"/>
+      <HowOut how="Caught Tom Downes"/>
       <Bowler name="Matt Sellwood"/>
       <Runs value="72"/>
     </Batsman>
@@ -96,7 +96,7 @@
       <Bowler name="S Sheppard"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Joe Downes">
+    <Batsman name="Tom Downes">
       <HowOut how="Not Out"/>
       <Runs value="58"/>
     </Batsman>
