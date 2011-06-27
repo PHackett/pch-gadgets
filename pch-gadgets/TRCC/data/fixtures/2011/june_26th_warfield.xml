@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 27 20:24:30 UTC+0100 2011 -->
+<!-- Result = Win -->
+<CricketMatch oppo="Warfield" date="Sun Jun 26 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="M Price">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aroun">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="R Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Curran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="I Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="D Torry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Simon Lee"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="J Birchall">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="G Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Farrell"/>
+    <Batsman name="C Martin"/>
+    <Batsman name="D Worchester"/>
+    <Extras value="33"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="2" runs="16" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="2" runs="35" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="6" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Simon Lee" overs="5" maidens="0" runs="32" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Birchall"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Price"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Curran"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="LBW"/>
+      <Bowler name="R Scott"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Scott"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Simon Lee">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Mark Teal"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="72"/>
+    <FallOfWicket batsman="4" score="87"/>
+    <FallOfWicket batsman="5" score="131"/>
+    <FallOfWicket batsman="6" score="154"/>
+    <BowlerSummary name="J Birchall" overs="4" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="C Martin" overs="7" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="M Price" overs="15" maidens="1" runs="54" wickets="1"/>
+    <BowlerSummary name="J Curran" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="R Scott" overs="5.1" maidens="0" runs="38" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
+
