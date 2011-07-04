@@ -123,10 +123,11 @@
 
 <Fixture>
   <Date>Sun, 3 Jul 2011 12:00:00 UTC</Date>
-  <Opposition>Sonning 2nd</Opposition>
+  <Opposition>Waltham St Lawrence</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
