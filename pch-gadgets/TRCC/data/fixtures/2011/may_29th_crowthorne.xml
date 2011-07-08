@@ -6,7 +6,7 @@
   <Innings batting="Crowthorne">
     <Batsman name="S Sheppard">
       <HowOut how="Caught Keeper"/>
-      <Bowler name="Tom Downes"/>
+      <Bowler name="Joe Downes"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="J Oloughlin">
@@ -16,7 +16,7 @@
     </Batsman>
     <Batsman name="P Brown">
       <HowOut how="Bowled"/>
-      <Bowler name="Tom Downes"/>
+      <Bowler name="Joe Downes"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="D Shaw">
@@ -26,11 +26,11 @@
     </Batsman>
     <Batsman name="D Partridge">
       <HowOut how="Caught Nic Downes"/>
-      <Bowler name="Tom Downes"/>
+      <Bowler name="Joe Downes"/>
       <Runs value="42"/>
     </Batsman>
     <Batsman name="S Roffey">
-      <HowOut how="Caught Tom Downes"/>
+      <HowOut how="Caught Joe Downes"/>
       <Bowler name="Matt Sellwood"/>
       <Runs value="72"/>
     </Batsman>
@@ -67,7 +67,7 @@
     <FallOfWicket batsman="8" score="222"/>
     <FallOfWicket batsman="9" score="244"/>
     <FallOfWicket batsman="7" score="266"/>
-    <BowlerSummary name="Tom Downes" overs="8" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="0" runs="33" wickets="3"/>
     <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="1" runs="28" wickets="1"/>
     <BowlerSummary name="Manan Narula" overs="5" maidens="0" runs="34" wickets="1"/>
     <BowlerSummary name="Rajeeve Narula" overs="7" maidens="0" runs="52" wickets="1"/>
@@ -96,7 +96,7 @@
       <Bowler name="S Sheppard"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Tom Downes">
+    <Batsman name="Joe Downes">
       <HowOut how="Not Out"/>
       <Runs value="58"/>
     </Batsman>
