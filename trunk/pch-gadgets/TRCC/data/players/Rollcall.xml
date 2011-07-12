@@ -105,6 +105,7 @@
     <Player surname="Farrar" firstname="Edward"/>
     <Player surname="Farrar" firstname="Simon"/>
     <Player surname="Farrington" firstname="Mark" firstseason="1997" lastseason="1997" catches="3" mostcatchesseason="3"/>
+    <Player surname="Featherstone" firstname="Dan"/>
     <Player surname="Fort" firstname="Chris" firstseason="1997" lastseason="2001"/>
     <Player surname="Fort" firstname="Edward"/>
     <Player surname="Fort" firstname="Hugh" firstseason="1995" catches="10" mostcatchesseason="5"/>
@@ -390,6 +391,7 @@
     <Player surname="Willis" firstname="S"/>
     <Player surname="Willoughby" firstname="Roger" firstseason="1969" lastseason="1982" catches="37" mostcatchesseason="7"/>
     <Player surname="Wood" firstname="P" firstseason="1976" lastseason="1980"/>
+    <Player surname="Woodbridge" firstname="Alan"/>
     <Player surname="Woodbridge" firstname="Oscar"/>
     <Player surname="Woodford" firstname="Paul" firstseason="1983" lastseason="1983" catches="38" mostcatchesseason="9"/>
     <Player surname="Woodhouse" firstname="Graham"/>
