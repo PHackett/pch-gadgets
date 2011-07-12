@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 12 20:04:37 UTC+0100 2011 -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 10 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="R Brown"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="R Brown"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Roberts"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Clark"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Peter Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Knox"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Dan Featherstone">
+      <HowOut how="Stumped"/>
+      <Bowler name="Worlsfold"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Knox"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alan Woodbridge">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="Worlsfold"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="1" score="44"/>
+    <FallOfWicket batsman="3" score="76"/>
+    <FallOfWicket batsman="4" score="99"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <FallOfWicket batsman="5" score="147"/>
+    <FallOfWicket batsman="8" score="150"/>
+    <FallOfWicket batsman="9" score="151"/>
+    <FallOfWicket batsman="7" score="151"/>
+    <FallOfWicket batsman="11" score="166"/>
+    <BowlerSummary name="R Brown" overs="7" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Worlsfold" overs="9.1" maidens="3" runs="22" wickets="2"/>
+    <BowlerSummary name="P Roberts" overs="8" maidens="4" runs="23" wickets="1"/>
+    <BowlerSummary name="Gore" overs="6" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Clark" overs="9" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Knox" overs="9" maidens="1" runs="39" wickets="2"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Batsman name="S Gordon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="S Fuller">
+      <HowOut how="LBW"/>
+      <Bowler name="Alan Woodbridge"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Peates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Gore">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Dan Featherstone"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="J Aldridge">
+      <HowOut how="Caught Dan Featherstone"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Brown">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="P Knox">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="P Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7.4" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="9" maidens="0" runs="56" wickets="2"/>
+    <BowlerSummary name="Alan Woodbridge" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Dan Featherstone" overs="3" maidens="1" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
+
+
