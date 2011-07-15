@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Jul 14 20:35:31 UTC+0100 2011 -->
+<!-- Result = Lose -->
+<CricketMatch oppo="WSL 2" date="Sat Jul 9 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="WSL 2">
+    <Batsman name="Nock">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Campbell">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Riaz">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="C England">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Evans">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Owen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Norman">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="B Riaz">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hartland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kumar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="6" score="65"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <FallOfWicket batsman="5" score="136"/>
+    <FallOfWicket batsman="9" score="136"/>
+    <FallOfWicket batsman="10" score="149"/>
+    <FallOfWicket batsman="11" score="149"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="3" runs="21" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="11" maidens="3" runs="30" wickets="2"/>
+    <BowlerSummary name="Steve Green" overs="9" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="5.5" maidens="1" runs="29" wickets="4"/>
+    <BowlerSummary name="Ken Cochrane" overs="8" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="LBW"/>
+      <Bowler name="Kumar"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kumar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Riaz"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="Evans"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Riaz"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kumar"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="C England"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Evans"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="LBW"/>
+      <Bowler name="C England"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="3" score="43"/>
+    <FallOfWicket batsman="6" score="43"/>
+    <FallOfWicket batsman="7" score="81"/>
+    <FallOfWicket batsman="5" score="108"/>
+    <FallOfWicket batsman="9" score="108"/>
+    <FallOfWicket batsman="10" score="121"/>
+    <FallOfWicket batsman="8" score="146"/>
+    <BowlerSummary name="Kumar" overs="12" maidens="3" runs="35" wickets="3"/>
+    <BowlerSummary name="Hartland" overs="6" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Evans" overs="12" maidens="3" runs="37" wickets="3"/>
+    <BowlerSummary name="B Riaz" overs="5" maidens="2" runs="4" wickets="2"/>
+    <BowlerSummary name="C England" overs="11" maidens="4" runs="45" wickets="2"/>
+  </Innings>
+</CricketMatch>
+
+
