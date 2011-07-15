@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Jul 14 20:24:12 UTC+0100 2011 -->
+<!-- Result = Win -->
+<CricketMatch oppo="Knowl Hill" date="Sat Jul 2 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stoker"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stoker"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="George Wilton">
+      <HowOut how="LBW"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Sabramian">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Harrison"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="5" score="97"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <FallOfWicket batsman="7" score="158"/>
+    <FallOfWicket batsman="8" score="170"/>
+    <FallOfWicket batsman="10" score="183"/>
+    <BowlerSummary name="H Harrison" overs="13" maidens="2" runs="56" wickets="0"/>
+    <BowlerSummary name="J Stoker" overs="7" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="L Duffy" overs="12" maidens="2" runs="49" wickets="1"/>
+    <BowlerSummary name="A Brookman" overs="13" maidens="1" runs="51" wickets="4"/>
+  </Innings>
+  <Innings batting="Knowl Hill">
+    <Batsman name="A Stott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="L Thompson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="T Darvell">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Stoker">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="L Duffy">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Plank">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Duffy">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="N Depledge">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="O Wilson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="A Brookman">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Harrison">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="49"/>
+    <BowlerSummary name="Steve Beamish" overs="10.2" maidens="4" runs="21" wickets="4"/>
+    <BowlerSummary name="Graham Burgess" overs="14" maidens="2" runs="36" wickets="4"/>
+    <BowlerSummary name="Ken Cochrane" overs="8" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="6" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="M Sabramian" overs="3" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="1" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
+

@@ -92,7 +92,8 @@
   <Opposition>Shinfield 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -100,7 +101,8 @@
   <Opposition>Knowl Hill 1</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -108,7 +110,8 @@
   <Opposition>WSL 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
