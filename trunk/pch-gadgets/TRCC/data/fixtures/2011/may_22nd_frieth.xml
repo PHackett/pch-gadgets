@@ -57,13 +57,13 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Oscar Woodbridge">
-      <HowOut how="Not Out"/>
-      <Runs value="1"/>
-    </Batsman>
-    <Batsman name="Adam Smith">
       <HowOut how="Caught"/>
       <Bowler name="K Fraser"/>
       <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not out"/>
+      <Runs value="1"/>
     </Batsman>
     <Batsman name="Simon Farrar">
       <HowOut how="Bowled"/>
