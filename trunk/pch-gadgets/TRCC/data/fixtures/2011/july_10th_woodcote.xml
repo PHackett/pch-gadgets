@@ -42,7 +42,7 @@
       <Bowler name="Worlsfold"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Knox"/>
       <Runs value="1"/>
