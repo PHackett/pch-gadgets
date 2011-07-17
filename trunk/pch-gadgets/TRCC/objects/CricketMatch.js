@@ -168,7 +168,7 @@ function GGTRCC_CricketMatchO___matchHTML()
 	if ((null != this.getTRCCInnings()) && this.getTRCCInnings().hasKeeper())
 	{
 		lRet += "<hr>";
-		lRet += "<em><sup>&#8224;</sup> indicates keeper</em>";		
+		lRet += "<em><sup>&#8224;</sup> Indicates keeper</em>";		
 	}
 	
 	return (lRet);
