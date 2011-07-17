@@ -175,7 +175,10 @@
 								}
 								else
 								{
-									lPSC.updateTRCCKeeping (lKN, lIN.mBatsmen[i]);
+									for (var i=0 ; i<lIN.mBatsmen.length ; ++i)
+									{
+										lPSC.updateTRCCKeeping (lKN, lIN.mBatsmen[i]);
+									}
 								}
 							}
 			
