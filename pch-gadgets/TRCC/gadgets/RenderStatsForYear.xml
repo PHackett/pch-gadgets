@@ -52,6 +52,7 @@
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/BatsmanSummary.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/BowlerStats.js" type="text/javascript"></script>
 			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/CatcherStats.js" type="text/javascript"></script>
+			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/KeeperStats.js" type="text/javascript"></script>
 
 			<script type="text/javascript">
 
@@ -154,6 +155,28 @@
 								{
 									lPSC.updateTRCCCatching (lIN.mBatsmen[i]);
 								}
+								
+								//
+								// Process for the TRCC keeper
+								//
+								var lKN;
+								
+								if (null == lCM.getTRCCInnings())
+								{
+									// No record of who the keeper was
+								}
+								else if (!lCM.getTRCCInnings().hasKeeper())
+								{
+									// No indication of who the keeper was
+								}
+								else if (null == (lKN = lCM.getTRCCInnings().getKeeper().mName))
+								{
+								 	// No name for the keeper - Which is odd ...
+								}
+								else
+								{
+									lPSC.updateTRCCKeeping (lKN, lIN.mBatsmen[i]);
+								}
 							}
 			
 							//
@@ -202,6 +225,14 @@
 			
 						lH += "<span class='GadgetStatsHeading'>Catches</span>";
 						lH += lPSC.catcherHTML();
+			
+						///
+						/// @TODO : Only display the Keeper Stats if there are any to display!
+						///
+						lH += "<br><hr class='GadgetStatsHeading'>";
+			
+						lH += "<span class='GadgetStatsHeading'>Keeping</span>";
+						lH += lPSC.keeperHTML();
 					}
 			
 					if (0 != lFailed.length)

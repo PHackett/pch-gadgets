@@ -20,10 +20,12 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.updateTRCCBatting	= GGTRCC_PlayerStatsCollectionO___updateTRCCBatting;
 	this.updateTRCCBowling	= GGTRCC_PlayerStatsCollectionO___updateTRCCBowling;
 	this.updateTRCCCatching	= GGTRCC_PlayerStatsCollectionO___updateTRCCCatching;
+	this.updateTRCCKeeping	= GGTRCC_PlayerStatsCollectionO___updateTRCCKeeping;
 	
 	this.getOrderedBattingStats		= GGTRCC_PlayerStatsCollectionO___getOrderedBattingStats;
 	this.getOrderedBowlingStats		= GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats;
 	this.getOrderedCatchingStats	= GGTRCC_PlayerStatsCollectionO___getOrderedCatchingStats;
+	this.getOrderedKeepingStats		= GGTRCC_PlayerStatsCollectionO___getOrderedKeepingStats;
 	
 	//
 	// Creation of HTML
@@ -31,6 +33,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.batsmanHTML	= GGTRCC_PlayerStatsCollectionO___batsmanHTML;
 	this.bowlerHTML		= GGTRCC_PlayerStatsCollectionO___bowlerHTML;
 	this.catcherHTML	= GGTRCC_PlayerStatsCollectionO___catcherHTML;
+	this.keeperHTML		= GGTRCC_PlayerStatsCollectionO___keeperHTML;
 
 	//
 	// Ordering functions
@@ -116,6 +119,30 @@ function GGTRCC_PlayerStatsCollectionO___updateTRCCCatching (aBatsmanInningsO)
 		var lCatcher=GGUtils_collapseStringSpaces (lHowOut.slice (lCaught.length));
 		
 		this.find (lCatcher).mCatcherStats.update (false);
+	}
+}
+
+
+//------------------------------------------------------------
+// The incoming batsman _should_ be an oppo batter
+//------------------------------------------------------------
+function GGTRCC_PlayerStatsCollectionO___updateTRCCKeeping (aKeeperName, aBatsmanInningsO)
+{
+	var lHowOut = aBatsmanInningsO.mHowOut;
+	var lStumped="Stumped";
+	var lCaughtKeeper="Caught Keeper";
+	
+	if (null == lHowOut)
+	{
+		// Batsman did not bat
+	}
+	else if (0 == lHowOut.indexOf(lStumped))
+	{
+		this.find (aKeeperName).mKeeperStats.incStumpings();		
+	}
+	else if (0 == lHowOut.indexOf(lCaughtKeeper))
+	{
+		this.find (aKeeperName).mKeeperStats.incCatches();		
 	}
 }
 
@@ -397,4 +424,63 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedCatchingStats()
 function GGTRCC_PlayerStatsCollectionO___catcherOrderFn (aA, aB)
 {
 	return (aB.mCatcherStats.mCatches - aA.mCatcherStats.mCatches);
+}
+
+
+
+function GGTRCC_PlayerStatsCollectionO___keeperHTML()
+{
+	var lHTML="";
+
+	var lKeepers=this.getOrderedKeepingStats();
+
+	lHTML += "<p align='center'>";
+	lHTML += "<table width='100%' border='0' cellspacing='0' cellpadding='0'>";
+	lHTML += "	<tr class=\"GadgetBatsHeader\">";
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "		<th align='left'>Name</th>";
+	lHTML += "		<th align='right'>Catches</th>";
+	lHTML += "		<th align='right'>Stumpings</th>";
+	lHTML += "		<th>&nbsp;</th>";
+	lHTML += "	</tr>";
+
+	for (var i=0 ; i<lKeepers.length ; i++)
+	{
+		var lDefaultTRClass="GadgetFixtureAltLine";
+
+		if (i % 2)
+		{
+			lDefaultTRClass = "GadgetFixtureNotAltLine";
+		}
+
+		lHTML += "<tr class='"						+ lDefaultTRClass	+ "' " 		+
+				 "onmouseout=\"this.className='"	+ lDefaultTRClass	+ "'\" " 	+ 
+				 "onmouseover=\"this.className='"	+ "GadgetTableMouseOver"	+ "'\">";
+
+		lHTML += lKeepers[i].keeperHTML();
+			
+		lHTML += "</tr>";
+	}
+	
+	lHTML += "</table>";
+	
+	return (lHTML);
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___getOrderedKeepingStats()
+{
+	var lBS=new Array(0);
+	
+	for (var i=0 ; i<this.mCollection.length ; i++)
+	{
+		if ((this.mCollection[i].mKeeperStats.mCatches > 0) || (this.mCollection[i].mKeeperStats.mStumpings > 0))
+		{
+			lBS[lBS.length] = this.mCollection[i];
+		}		
+	}
+
+	// lBS.sort (this.catcherOrderFn);
+	
+	return (lBS);
 }
