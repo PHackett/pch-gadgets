@@ -62,6 +62,7 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	//
 	this.HTML 		= GGTRCC_BatsmanInningsO___HTML;
 	this.runs 		= GGTRCC_BatsmanInningsO___runs;
+	this.isKeeper	= GGTRCC_BatsmanInningsO___isKeeper;
 	this.keeperIcon	= GGTRCC_BatsmanInningsO___keeperIcon;
 }
 
@@ -91,6 +92,12 @@ function GGTRCC_BatsmanInningsO___HTML (aNum)
 }
 
 
+function GGTRCC_BatsmanInningsO___isKeeper()
+{
+	return (this.mWasKeeper);
+}
+
+
 //
 // Extra decoration icon if this batsman was the keeper
 //
@@ -98,7 +105,7 @@ function GGTRCC_BatsmanInningsO___keeperIcon()
 {
 	var lRet="";
 	
-	if (this.mWasKeeper)
+	if (this.isKeeper())
 	{
 		lRet = "<sup>&#8224;</sup>";		// 'dagger' code
 	}

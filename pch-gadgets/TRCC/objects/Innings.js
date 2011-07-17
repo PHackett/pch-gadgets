@@ -65,6 +65,8 @@ function GGTRCC_InningsO (aInningsXML)
 	// Methods
 	//
 	this.HTML 		= GGTRCC_InningsO___HTML;
+	this.getKeeper	= GGTRCC_InningsO___getKeeper;
+	this.hasKeeper	= GGTRCC_InningsO___hasKeeper;
 }
 
 
@@ -105,4 +107,27 @@ function GGTRCC_InningsO___HTML()
 	lRet += "<p>";
 
 	return (lRet);
+}
+
+
+function GGTRCC_InningsO___getKeeper ()
+{
+	var lRet=null;
+	
+	for (var i=0 ; i<this.mBatsmen.length ; ++i)
+	{
+		if (this.mBatsmen[i].isKeeper())
+		{
+			lRet = this.mBatsmen[i];
+			break;
+		}
+	}
+	
+	return (lRet);
+}
+
+
+function GGTRCC_InningsO___hasKeeper()
+{
+	return (null != this.getKeeper ());
 }
