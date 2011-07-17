@@ -18,6 +18,7 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	this.mHowOut	= null;
 	this.mBowler	= null;
 	this.mRuns		= null;
+	this.mWasKeeper	= false;
 
 	if (null != aBatsmanXML)
 	{
@@ -25,6 +26,14 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 		// Get the always present batsman attributes
 		//
 		this.mName	= aBatsmanXML.getAttribute ("name");
+		
+		//
+		// Was this player the keper?
+		//
+		if (lCM.getAttribute ("keeper"))
+		{
+			this.mWasKeeper = true;
+		}
 	
 		//
 		// Now the other stuff
@@ -53,6 +62,7 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 	//
 	this.HTML 		= GGTRCC_BatsmanInningsO___HTML;
 	this.runs 		= GGTRCC_BatsmanInningsO___runs;
+	this.keeperIcon	= GGTRCC_BatsmanInningsO___keeperIcon;
 }
 
 
@@ -71,11 +81,27 @@ function GGTRCC_BatsmanInningsO___HTML (aNum)
 	var lRet="";
 	
 	lRet = 	"<td>" 					+ aNum 								+ "</td>" + 
-			"<td>" 					+ this.mName 						+ "</td>" +
+			"<td>" 					+ this.mName + this.keeperIcon()	+ "</td>" +
 			"<td>" 					+ GGUtils_nbspIfNull (this.mHowOut) + "</td>" +
 			"<td>" 					+ GGUtils_nbspIfNull (this.mBowler) + "</td>" +
 			"<td align='right'>" 	+ GGUtils_nbspIfNull (this.mRuns) 	+ "</td>" +
 			"<td>&nbsp;</td>";
+	
+	return (lRet);
+}
+
+
+//
+// Extra decoration icon if this batsman was the keeper
+//
+function GGTRCC_BatsmanInningsO___keeperIcon()
+{
+	var lRet="";
+	
+	if (this.mWasKeeper)
+	{
+		lRet = "<sup>&#8224;</sup>";		// 'dagger' code
+	}
 	
 	return (lRet);
 }
