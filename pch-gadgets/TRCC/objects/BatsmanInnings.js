@@ -30,7 +30,7 @@ function GGTRCC_BatsmanInningsO (aBatsmanXML)
 		//
 		// Was this player the keper?
 		//
-		if (lCM.getAttribute ("keeper"))
+		if (aBatsmanXML.getAttribute ("keeper"))
 		{
 			this.mWasKeeper = true;
 		}
