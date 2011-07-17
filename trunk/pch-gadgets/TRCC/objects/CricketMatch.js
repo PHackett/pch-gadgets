@@ -165,6 +165,12 @@ function GGTRCC_CricketMatchO___matchHTML()
 		lRet += this.mInnings[1].HTML();
 	}
 	
+	if ((null != this.getTRCCInnings()) && this.getTRCCInnings().hasKeeper())
+	{
+		lRet += "<hr>";
+		lRet += "<em><sup>&#8224;</sup> indicates keeper</em>";		
+	}
+	
 	return (lRet);
 }
 

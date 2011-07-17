@@ -66,6 +66,8 @@ function GGTRCC_BowlerStatsO___getAverage()
 
 function GGTRCC_BowlerStatsO___getHTMLAverage()
 {
+	// return (TRCCUtils_getHTMLAverage (this.mWickets, this.mRuns));
+	
 	var lRet="";
 
 	if (this.mWickets > 0)
@@ -102,6 +104,8 @@ function GGTRCC_BowlerStatsO___HTML()
 
 function GGTRCC_BowlerStatsO___getRunsPerOver()
 {
+	// return (TRCCUtils_RunsPerOver (this.mRuns, this.mOvers));
+	
 	var lRPO=(this.mRuns/TRCCUtils_OversToBalls (this.mOvers)) * 6;
 	return (GGUtils_numToString (lRPO, 2));
 }
@@ -109,6 +113,8 @@ function GGTRCC_BowlerStatsO___getRunsPerOver()
 
 function GGTRCC_BowlerStatsO___getStrikeRate()
 {
+	// return (TRCCUtils_getStrikeRate (this.mWickets, this.mOvers));
+	
 	var lRet="-";
 	
 	if (this.mWickets > 0)
