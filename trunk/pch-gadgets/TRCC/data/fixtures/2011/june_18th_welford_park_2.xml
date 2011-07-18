@@ -34,7 +34,7 @@
       <Bowler name="S Edwards"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Adam Smith">
+    <Batsman name="Adam Smith" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="R Pattamattahill"/>
       <Runs value="19"/>

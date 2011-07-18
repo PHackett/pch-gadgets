@@ -50,7 +50,7 @@
       <Bowler name="N Harrison"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Stuart Barrable">
+    <Batsman name="Stuart Barrable" keeper="1">
       <HowOut how="Caught "/>
       <Bowler name="A Brookman"/>
       <Runs value="42"/>

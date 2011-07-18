@@ -8,7 +8,7 @@
       <Bowler name="M Bannister"/>
       <Runs value="27"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="J Medy"/>
       <Runs value="4"/>

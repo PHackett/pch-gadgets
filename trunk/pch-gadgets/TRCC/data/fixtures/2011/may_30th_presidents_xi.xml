@@ -105,7 +105,7 @@
       <Bowler name="Dave Taylor"/>
       <Runs value="25"/>
     </Batsman>
-    <Batsman name="Adam Smith">
+    <Batsman name="Adam Smith" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="Andrew Jackson"/>
       <Runs value="46"/>
