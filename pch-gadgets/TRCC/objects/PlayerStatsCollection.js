@@ -481,7 +481,7 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedKeepingStats()
 	
 	for (var i=0 ; i<this.mCollection.length ; i++)
 	{
-		if ((this.mCollection[i].mKeeperStats.mCatches > 0) || (this.mCollection[i].mKeeperStats.mStumpings > 0))
+		if (this.mCollection[i].mKeeperStats.mGames > 0)
 		{
 			lBS[lBS.length] = this.mCollection[i];
 		}		

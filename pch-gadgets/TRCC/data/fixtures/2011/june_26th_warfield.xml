@@ -89,7 +89,7 @@
       <Runs value="9"/>
     </Batsman>
     <Batsman name="Chris Fort"/>
-    <Batsman name="Mark Teal"/>
+    <Batsman name="Mark Teal" keeper="1"/>
     <Batsman name="Tom Downes"/>
     <Batsman name="Paul Hackett"/>
     <Extras value="29"/>

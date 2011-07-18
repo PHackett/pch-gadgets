@@ -14,7 +14,7 @@
       <Bowler name="S Andrews"/>
       <Runs value="14"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="J Andrews"/>
       <Runs value="4"/>
