@@ -89,7 +89,7 @@
       <HowOut how="Not Out"/>
       <Runs value="24"/>
     </Batsman>
-    <Batsman name="Adam Smith">
+    <Batsman name="Adam Smith" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="J Skinner"/>
       <Runs value="0"/>
