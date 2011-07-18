@@ -380,7 +380,6 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	lHTML += "	<tr class=\"GadgetBatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "		<th align='left'>Name</th>";
-	lHTML += "		<th align='right'>Games as Keeper</th>";
 	lHTML += "		<th align='right'>Total Catches</th>";
 	lHTML += "		<th align='right'>Caught & Bowled</th>";
 	lHTML += "		<th>&nbsp;</th>";
@@ -446,6 +445,7 @@ function GGTRCC_PlayerStatsCollectionO___keeperHTML()
 	lHTML += "	<tr class=\"GadgetBatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "		<th align='left'>Name</th>";
+	lHTML += "		<th align='right'>Games as Keeper</th>";
 	lHTML += "		<th align='right'>Catches</th>";
 	lHTML += "		<th align='right'>Stumpings</th>";
 	lHTML += "		<th>&nbsp;</th>";
