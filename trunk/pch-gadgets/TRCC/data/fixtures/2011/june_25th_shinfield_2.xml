@@ -29,7 +29,7 @@
       <Runs value="33"/>
     </Batsman>
     <Batsman name="M Francis">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="26"/>
     </Batsman>
@@ -39,7 +39,7 @@
       <Runs value="11"/>
     </Batsman>
     <Batsman name="R Suleman">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="0"/>
     </Batsman>
@@ -95,7 +95,7 @@
       <HowOut how="Not Out"/>
       <Runs value="44"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="0"/>
     </Batsman>
