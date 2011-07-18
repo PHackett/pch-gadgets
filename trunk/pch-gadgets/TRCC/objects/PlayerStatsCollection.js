@@ -41,6 +41,7 @@ function GGTRCC_PlayerStatsCollectionO ()
 	this.batterOrderFn		= GGTRCC_PlayerStatsCollectionO___batterOrderFn;
 	this.bowlerOrderFn		= GGTRCC_PlayerStatsCollectionO___bowlerOrderFn;
 	this.catcherOrderFn		= GGTRCC_PlayerStatsCollectionO___catcherOrderFn;
+	this.keeperOrderFn		= GGTRCC_PlayerStatsCollectionO___keeperOrderFn;
 }
 
 
@@ -75,6 +76,11 @@ function GGTRCC_PlayerStatsCollectionO___find (aName)
 function GGTRCC_PlayerStatsCollectionO___updateTRCCBatting (aBatsmanInningsO)
 {
 	this.find (aBatsmanInningsO.mName).mBatsmanSummary.update(aBatsmanInningsO);
+	
+	if (aBatsmanInningsO.isKeeper())
+	{
+		this.find (aBatsmanInningsO.mName).mKeeperStats.incGames();
+	}
 }
 
 function GGTRCC_PlayerStatsCollectionO___updateTRCCBowling (aBowlerSummaryO)
@@ -374,6 +380,7 @@ function GGTRCC_PlayerStatsCollectionO___catcherHTML ()
 	lHTML += "	<tr class=\"GadgetBatsHeader\">";
 	lHTML += "		<th>&nbsp;</th>";
 	lHTML += "		<th align='left'>Name</th>";
+	lHTML += "		<th align='right'>Games as Keeper</th>";
 	lHTML += "		<th align='right'>Total Catches</th>";
 	lHTML += "		<th align='right'>Caught & Bowled</th>";
 	lHTML += "		<th>&nbsp;</th>";
@@ -480,7 +487,13 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedKeepingStats()
 		}		
 	}
 
-	// lBS.sort (this.catcherOrderFn);
+	lBS.sort (this.keeperOrderFn);
 	
 	return (lBS);
+}
+
+
+function GGTRCC_PlayerStatsCollectionO___keeperOrderFn (aA, aB)
+{
+	return ((aB.mKeeperStats.mCatches + aB.mKeeperStats.mStumpings) - (aA.mKeeperStats.mCatches + aA.mKeeperStats.mStumpings));
 }
