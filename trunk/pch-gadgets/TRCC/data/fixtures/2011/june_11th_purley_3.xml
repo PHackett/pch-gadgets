@@ -79,6 +79,7 @@
       <HowOut how="Not Out"/>
       <Runs value="2"/>
     </Batsman>
+    <Batsman name="Mark Teal" keeper="1"/>
     <Extras value="14"/>
     <FallOfWicket batsman="2" score="41"/>
     <BowlerSummary name="K Ahzad" overs="6" maidens="0" runs="29" wickets="0"/>
