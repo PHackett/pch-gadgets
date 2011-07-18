@@ -103,7 +103,7 @@
       <Bowler name="Sharaf"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Adam Smith">
+    <Batsman name="Adam Smith" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="30"/>
     </Batsman>

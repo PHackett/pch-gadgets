@@ -33,7 +33,7 @@
       <Bowler name="Matt Connor"/>
       <Runs value="16"/>
     </Batsman>
-    <Batsman name="Adam Smith">
+    <Batsman name="Adam Smith" keeper="1">
       <HowOut how="Caught Hartland"/>
       <Bowler name="Chris England"/>
       <Runs value="6"/>
