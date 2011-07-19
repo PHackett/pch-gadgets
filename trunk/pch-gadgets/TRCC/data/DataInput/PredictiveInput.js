@@ -5,6 +5,32 @@
 var gPredictiveInputA=new Array();
 
 
+//
+// From http://stackoverflow.com/questions/3085446/selecting-part-of-string-inside-an-input-box-with-jquery
+//
+// Allows us to set a partial selection in an InputBox on browsers other than IE
+//
+function setInputSelection (input, startPos, endPos) 
+{
+        if (typeof input.selectionStart != "undefined") 
+        {
+            input.selectionStart = startPos;
+            input.selectionEnd = endPos;
+        } 
+        else if (document.selection && document.selection.createRange) 
+        {
+            // IE branch
+            input.focus();
+            input.select();
+            var range = document.selection.createRange();
+            range.collapse(true);
+            range.moveEnd("character", endPos);
+            range.moveStart("character", startPos);
+            range.select();
+        }
+
+    }
+
 function PredictiveResult (aValue)
 {
 	this.mValue				= aValue;
@@ -160,11 +186,7 @@ function PredictiveInput___OnKeyUp ()
 			if (lCurVal.length < lPartial.mValue.length)
 			{
 				// Set selection range on the data
-				var lSelStr=lPartial.mValue.substring (lCurVal.length);
-
-				var lR=document[this.mForm][this.mName].createTextRange();
-				lR.findText (lSelStr);
-				lR.select();
+				setInputSelection (document[this.mForm][this.mName], lCurVal.length, lPartial.mValue.length)
 			}
 
 			// Exact ?
