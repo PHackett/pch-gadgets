@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 25 2011 19:40:40 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Wargrave" date="Sun Jul 24 2011 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Doughty"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="T Doughty"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Thomas"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Clark"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Simon Lee">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="134"/>
+    <FallOfWicket batsman="4" score="140"/>
+    <FallOfWicket batsman="5" score="157"/>
+    <FallOfWicket batsman="1" score="177"/>
+    <BowlerSummary name="D Broadley" overs="8" maidens="3" runs="11" wickets="0"/>
+    <BowlerSummary name="T Doughty" overs="8" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Clark" overs="8" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="A Withers" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="N Robinson" overs="6" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Thomas" overs="6" maidens="0" runs="39" wickets="2"/>
+  </Innings>
+  <Innings batting="Wargrave">
+    <Batsman name="P Drew">
+      <HowOut how="Not Out"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="M Townsun">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="T Tabrah">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="N Robinson">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="3" score="124"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Tom Leadbetter" overs="0.5" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
