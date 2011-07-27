@@ -34,12 +34,12 @@
       <Bowler name="A Brookman"/>
       <Runs value="25"/>
     </Batsman>
-    <Batsman name="Adam Smith" keeper="1">
+    <Batsman name="Adam Smith">
       <HowOut how="Bowled"/>
       <Bowler name="H Harrison"/>
       <Runs value="10"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="4"/>
     </Batsman>
