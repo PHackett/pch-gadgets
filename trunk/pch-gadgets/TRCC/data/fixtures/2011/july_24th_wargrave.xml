@@ -9,7 +9,7 @@
       <Bowler name="T Doughty"/>
       <Runs value="50"/>
     </Batsman>
-    <Batsman name="David Downes">
+    <Batsman name="David Downes" keeper="1">
       <HowOut how="Caught Keeper"/>
       <Bowler name="T Doughty"/>
       <Runs value="8"/>
