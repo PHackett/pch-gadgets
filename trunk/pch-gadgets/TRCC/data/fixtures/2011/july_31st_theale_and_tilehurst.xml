@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 02 2011 20:40:01 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun Jul 31 2011 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="M Memta">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="S Rumar">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="C Cooke">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Rajeeve Narula"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="I Malir">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Dimmack"/>
+    <Batsman name="J White"/>
+    <Batsman name="M Holder"/>
+    <Batsman name="B Cooper"/>
+    <Batsman name="J Malik"/>
+    <Batsman name="A Parcell"/>
+    <Batsman name="T Greaves"/>
+    <Extras value="24"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="3" runs="23" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="6.4" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="3" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Simon Farrar" overs="5" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Rajeeve Narula" overs="5" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Ajay Tugnait" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="2" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Stumped"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Ajay Tugnait">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="J Malik"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dimmack"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Downes" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Imran"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dimmack"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajeeve Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="LBW"/>
+      <Bowler name="Imran"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="2" score="88"/>
+    <FallOfWicket batsman="3" score="171"/>
+    <FallOfWicket batsman="5" score="172"/>
+    <FallOfWicket batsman="6" score="172"/>
+    <FallOfWicket batsman="4" score="187"/>
+    <FallOfWicket batsman="8" score="196"/>
+    <FallOfWicket batsman="7" score="200"/>
+    <FallOfWicket batsman="10" score="215"/>
+    <FallOfWicket batsman="9" score="219"/>
+    <BowlerSummary name="M Holder" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="T Greaves" overs="6" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="A Parcell" overs="7" maidens="0" runs="58" wickets="0"/>
+    <BowlerSummary name="B Cooper" overs="10.1" maidens="1" runs="33" wickets="5"/>
+    <BowlerSummary name="J Malik" overs="5" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="R Dimmack" overs="3" maidens="0" runs="7" wickets="2"/>
+    <BowlerSummary name="Imran" overs="4" maidens="0" runs="16" wickets="2"/>
+  </Innings>
+</CricketMatch>
