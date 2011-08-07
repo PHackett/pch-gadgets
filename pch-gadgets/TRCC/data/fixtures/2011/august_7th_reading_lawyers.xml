@@ -51,6 +51,17 @@
     <BowlerSummary name="Edward Farrar" overs="1" maidens="0" runs="7" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
+    <Batsman name="Peter Woodman"/>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Joe Downes"/>
+    <Batsman name="Manan Narula"/>
+    <Batsman name="Oscar Woodbridge"/>
+    <Batsman name="Edward Farrar"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
     <Extras value="0"/>
   </Innings>
 </CricketMatch>
