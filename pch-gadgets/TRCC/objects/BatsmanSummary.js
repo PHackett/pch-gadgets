@@ -59,11 +59,11 @@ function GGTRCC_BatsmanSummaryO___update (aBatsmanInningsO)
 			this.mMaxRunsNotOut	= lNotOut;
 		}
 		
-		if (lRuns > 100)
+		if (lRuns >= 100)
 		{
 			this.m100s++;
 		}
-		else if (lRuns > 50)
+		else if (lRuns >= 50)
 		{
 			this.m50s++;
 		}
