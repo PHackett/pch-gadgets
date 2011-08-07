@@ -1,0 +1,141 @@
+GetGameArray()[0].getXMLFilename() = Z:\TRCCweb\pch-gadgets\TRCC\data\fixtures\2011\july_30th_stratfield2.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Aug 5 21:30:05 UTC+0100 2011 -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Stratfield2" date="Sat Jul 30 00:00:00 UTC+0100 2011">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane keeper="1"">
+      <HowOut how="LBW"/>
+      <Bowler name="D Jones"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Jones"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="106"/>
+    </Batsman>
+    <Batsman name="Peter Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="C Strudley"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Jones"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Cooper"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="C Strudley"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Woodbridge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="1" score="57"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="110"/>
+    <FallOfWicket batsman="7" score="241"/>
+    <BowlerSummary name="C Strudley" overs="14" maidens="1" runs="53" wickets="2"/>
+    <BowlerSummary name="D Jones" overs="11" maidens="2" runs="59" wickets="3"/>
+    <BowlerSummary name="B Reynaldo" overs="7" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="D Reynaldo" overs="6" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="R Cooper" overs="3" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="D Gibbins" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Stratfield2">
+    <Batsman name="I Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="N Stancliffe">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="D Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="G Strudley">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Cooper">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="D Gibbins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Reynaldo">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Turvey">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="P Baldwin">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Reynaldo">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Strudley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="2" score="136"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <FallOfWicket batsman="7" score="154"/>
+    <FallOfWicket batsman="5" score="173"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Graham Burgess" overs="12" maidens="2" runs="73" wickets="3"/>
+    <BowlerSummary name="Alan Woodbridge" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="10" maidens="3" runs="19" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="4" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="1" runs="7" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="4" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="1" maidens="1" runs="0" wickets="0"/>
+  </Innings>
+</CricketMatch>
