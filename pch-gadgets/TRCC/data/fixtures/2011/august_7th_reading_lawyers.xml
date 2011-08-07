@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Aug 07 2011 18:59:23 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Abandonned -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 07 2011 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="M Symons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="W Baker">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="S Clague">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="G Mullett">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C DeWeit">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Harrison">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="B DeWeit">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="2" score="96"/>
+    <FallOfWicket batsman="5" score="100"/>
+    <FallOfWicket batsman="4" score="118"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="9" maidens="2" runs="37" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6.2" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Edward Farrar" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
