@@ -4,7 +4,7 @@
 <CricketMatch oppo="Stratfield2" date="Sat Jul 30 00:00:00 UTC+0100 2011">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Ken Cochrane keeper="1"">
+    <Batsman name="Ken Cochrane keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="D Jones"/>
       <Runs value="15"/>
