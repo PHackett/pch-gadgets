@@ -100,7 +100,7 @@
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Adam Smith">
+    <Batsman name="Adam Smith" keeper="1">
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
