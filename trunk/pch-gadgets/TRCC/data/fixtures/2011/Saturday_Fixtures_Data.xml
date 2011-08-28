@@ -163,7 +163,7 @@
   <Opposition>Welford Park 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Rain</Result>
 </Fixture>
 
 <Fixture>
@@ -171,7 +171,8 @@
   <Opposition>Shinfield 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
