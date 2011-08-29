@@ -14,12 +14,12 @@ var gFixtureResCancelled = "C";
 var gFixtureVenueAwayImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
 var gFixtureVenueHomeImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
 var gFixtureVenueTourImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
-var gFixtureRainImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif alt=\"Rained off\"";
-var gFixtureWinImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif alt=\"Won\"";
-var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif alt=\"Lost\"";
-var gFixtureDrawImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/equals.png alt=\"Draw\"";
-var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif alt=\"Cancelled\"";
-var gFixtureAbandonedImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/abandon-cross.png alt=\"Abandoned\"";
+var gFixtureRainImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
+var gFixtureWinImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
+var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
+var gFixtureDrawImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/equals.png";
+var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
+var gFixtureAbandonedImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/abandon-cross.png";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -310,15 +310,15 @@ function GGTRCC_FixtureO___ResultHTML()
 	
 	if (gFixtureResWin == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureWinImg + "'>";
+		lRet = "<img src='" + gFixtureWinImg + "' alt='Won'>";
 	}
 	else if (gFixtureResLose == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureLoseImg + "'>";
+		lRet = "<img src='" + gFixtureLoseImg + "' alt='Lost'>";
 	}
 	else if (gFixtureResDraw == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureDrawImg + "'>";
+		lRet = "<img src='" + gFixtureDrawImg + "' alt='Drawn'>";
 	}
 	else if (gFixtureResTie == this.mResult)
 	{
@@ -326,11 +326,11 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResRain == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureRainImg + "'>";
+		lRet = "<img src='" + gFixtureRainImg + "' alt='Rained off'>";
 	}
 	else if (gFixtureResAba == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureAbandonedImg + "'>";
+		lRet = "<img src='" + gFixtureAbandonedImg + "' alt='Abandoned'>";
 	}
 	else if (gFixtureResNP == this.mResult)
 	{
@@ -342,7 +342,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResCancelled == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureCancelledImg + "'>";
+		lRet = "<img src='" + gFixtureCancelledImg + "' alt='Cancelled'>";
 	}
 	
 	return (lRet);
