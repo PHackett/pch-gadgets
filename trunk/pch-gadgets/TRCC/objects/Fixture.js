@@ -14,10 +14,12 @@ var gFixtureResCancelled = "C";
 var gFixtureVenueAwayImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
 var gFixtureVenueHomeImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
 var gFixtureVenueTourImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
-var gFixtureRainImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
-var gFixtureWinImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
-var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
-var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
+var gFixtureRainImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif alt=\"Rained off\"";
+var gFixtureWinImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif alt=\"Won\"";
+var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif alt=\"Lost\"";
+var gFixtureDrawImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/equals.png alt=\"Draw\"";
+var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif alt=\"Cancelled\"";
+var gFixtureAbandonedImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/abandon-cross.png alt=\"Abandoned\"";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -316,7 +318,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResDraw == this.mResult)
 	{
-		lRet = "Draw";
+		lRet = "<img src='" + gFixtureDrawImg + "'>";
 	}
 	else if (gFixtureResTie == this.mResult)
 	{
@@ -328,7 +330,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResAba == this.mResult)
 	{
-		lRet = "Abandonned";
+		lRet = "<img src='" + gFixtureAbandonedImg + "'>";
 	}
 	else if (gFixtureResNP == this.mResult)
 	{
