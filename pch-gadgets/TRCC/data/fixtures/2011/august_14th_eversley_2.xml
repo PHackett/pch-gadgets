@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Sep 13 2011 20:07:50 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Eversley 2" date="Sun Aug 14 2011 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Eversley 2">
+    <Batsman name="S Glaze">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Thompson">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="R Brooks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Martin">
+      <HowOut how="Caught Lewis Rudd"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="C Webb">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Whittle">
+      <HowOut how="Caught Simon Farrar"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Sharp">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Beck">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Thompson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="J Glaze">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="L Sharp">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="47"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="1" runs="63" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="0" runs="27" wickets="3"/>
+    <BowlerSummary name="Lewis Rudd" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3.5" maidens="0" runs="12" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="S Glaze"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="Mark Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable"/>
+    <Batsman name="Joe Downes"/>
+    <Batsman name="Oscar Woodbridge"/>
+    <Batsman name="Mark Teal" keeper="1"/>
+    <Batsman name="Simon Farrar"/>
+    <Batsman name="Edward Farrar"/>
+    <Batsman name="Lewis Rudd"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="159"/>
+    <BowlerSummary name="J Glaze" overs="9" maidens="1" runs="42" wickets="0"/>
+    <BowlerSummary name="L Sharp" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="A Martin" overs="6" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="C Webb" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="S Sharp" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="S Glaze" overs="3" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="P Beck" overs="2.4" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
