@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Sep 13 2011 20:31:20 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Chew Magna" date="Mon Aug 29 2011 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Locke"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Thompson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tanner"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Locke"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Ware"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="Croucher"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ware"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Croucher"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Fort"/>
+    <Batsman name="Roger Seymour"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="3" score="106"/>
+    <FallOfWicket batsman="4" score="121"/>
+    <FallOfWicket batsman="1" score="138"/>
+    <FallOfWicket batsman="6" score="145"/>
+    <FallOfWicket batsman="7" score="167"/>
+    <FallOfWicket batsman="5" score="179"/>
+    <FallOfWicket batsman="9" score="189"/>
+    <BowlerSummary name="A Locke" overs="8" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Thompson" overs="6" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Tanner" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="I Locke" overs="8" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Croucher" overs="6" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="Ware" overs="3" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Stowell" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Chew Magna">
+    <Batsman name="Harding">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Croucher">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thompson">
+      <HowOut how="Caught Graham Burgess"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Ware">
+      <HowOut how="Caught Roger Seymour"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Stowell">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="King">
+      <HowOut how="LBW"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Elderidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Roche">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tanner">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Croucher">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Locke"/>
+    <Extras value="0"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="4" runs="46" wickets="0"/>
+    <BowlerSummary name="Graham Burgess" overs="7" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="Luke Fuller" overs="1" maidens="0" runs="8" wickets="3"/>
+    <BowlerSummary name="Tim Hogarth" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
