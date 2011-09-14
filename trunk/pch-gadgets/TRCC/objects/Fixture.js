@@ -20,6 +20,7 @@ var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadge
 var gFixtureDrawImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/equals.png";
 var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
 var gFixtureAbandonedImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/abandon-cross.png";
+var gFixtureTieImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/tie.gif";
 
 //
 // For the loading of multiple sets of fixture dats
@@ -322,7 +323,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResTie == this.mResult)
 	{
-		lRet = "Tie";
+		lRet = "<img src='" + gFixtureTieImg + "' alt='Tie'>";
 	}
 	else if (gFixtureResRain == this.mResult)
 	{
@@ -622,7 +623,7 @@ function GGTRCC_FixturesToHTML (aFixtures, aUSD, aDisplayTeam)
 			lHTML += "<td>" + aFixtures[i].DateHTML(lUSD) + "</td>";
 			lHTML += "<td>" + aFixtures[i].OppoHTML()     + "</td>";
 			lHTML += "<td>" + aFixtures[i].TimeHTML()     + "</td>";
-			lHTML += "<td>" + aFixtures[i].ResultHTML()   + "</td>";
+			lHTML += "<td align='right'>" + aFixtures[i].ResultHTML()   + "</td>";
 		}
 		
 		//
