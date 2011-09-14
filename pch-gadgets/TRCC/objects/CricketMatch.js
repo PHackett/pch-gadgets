@@ -152,7 +152,15 @@ function GGTRCC_CricketMatchO___matchHTML()
 		lRet += "<p><hr>";
 	}
 	
-	lRet += "<span class='Scorecard'>Scorecard</span><p>";
+	lRet += "<span class='Scorecard'>Scorecard";
+	
+	if (!this.mCountsTowardsStats)
+	{
+		lRet += " (This match does not count towards the season stats)";
+	}
+	
+	lRet += "</span><p>";
+
 	
 	if (null != this.mInnings[0])
 	{
