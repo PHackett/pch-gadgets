@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 14 2011 19:11:55 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Bathford" date="Tue Aug 30 2011 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Vaughn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prall"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaughn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Mackenzie"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Merritt"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaughn"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Vaughn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Greenhalgh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Extras value="34"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="2" score="61"/>
+    <FallOfWicket batsman="4" score="97"/>
+    <FallOfWicket batsman="6" score="192"/>
+    <FallOfWicket batsman="5" score="192"/>
+    <FallOfWicket batsman="8" score="193"/>
+    <FallOfWicket batsman="9" score="201"/>
+    <BowlerSummary name="Vaughn" overs="8" maidens="4" runs="17" wickets="4"/>
+    <BowlerSummary name="Merritt" overs="8" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Duffield" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Prall" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="S Mackenzie" overs="6" maidens="0" runs="52" wickets="0"/>
+    <BowlerSummary name="J Mackenzie" overs="5" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Bowles" overs="2" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Greenhalgh" overs="3" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+  <Innings batting="Bathford">
+    <Batsman name="H Desai">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="96"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gover">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Edward Farrar"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Vowles">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Prall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Merritt">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Mackenzie">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Luke Fuller"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="L Mackenzie">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vaughn">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Greenhalgh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Duffield">
+      <HowOut how="LBW"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="4" score="100"/>
+    <FallOfWicket batsman="5" score="112"/>
+    <FallOfWicket batsman="6" score="129"/>
+    <FallOfWicket batsman="1" score="168"/>
+    <FallOfWicket batsman="8" score="176"/>
+    <FallOfWicket batsman="7" score="179"/>
+    <FallOfWicket batsman="10" score="188"/>
+    <FallOfWicket batsman="11" score="193"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="1" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="8" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="4" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="0" runs="30" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="9" wickets="2"/>
+    <BowlerSummary name="Luke Fuller" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+</CricketMatch>

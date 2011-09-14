@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 14 2011 19:41:14 GMT+0100 (BST) -->
+<!-- Result = Tie -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 11 2011 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Lower Earley">
+    <Batsman name="A Khan">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="KH Hussain">
+      <HowOut how="Caught Luke Fuller"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Chowdry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="S Gomes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="H Spalding">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Y Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Karamat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="C Hudson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Harwood"/>
+    <Extras value="28"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="28" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="8" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Ajay Tugnait" overs="4" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Harwood"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Harwood"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ajay Tugnait">
+      <HowOut how="LBW"/>
+      <Bowler name="R Harwood"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="C Hudson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Gomes"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="H Spalding"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Karamat"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="KH Hussain"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="6" score="62"/>
+    <FallOfWicket batsman="7" score="72"/>
+    <BowlerSummary name="A Khan" overs="8" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="R Harwood" overs="8" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="C Hudson" overs="3" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="R Karamat" overs="5" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="H Spalding" overs="4" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="S Maynard" overs="4" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="S Gomes" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="KH Hussain" overs="3" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+</CricketMatch>

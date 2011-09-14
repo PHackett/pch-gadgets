@@ -182,6 +182,15 @@
   <Venue>Away</Venue>
   <Result>Lose</Result>
   <HasLink/>
-  </Fixture>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 10 Sep 2011 12:00:00 UTC</Date>
+  <Opposition>Cleeve</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
 
 </YearsFixtures>
