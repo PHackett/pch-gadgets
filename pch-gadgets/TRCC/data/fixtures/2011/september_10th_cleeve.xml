@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 14 2011 19:29:35 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Cleeve" date="Sat Sep 10 2011 00:00:00 GMT+0100 (BST)" notforstats="true">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cleeve">
+    <Batsman name="M Want">
+      <HowOut how="Caught J Cole"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Wait">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="D Barnsley"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Burell">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="D Barnsley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Ball">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Cornelius">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="T Birt">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="D Barnsley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Hance">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Carpeter">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Tim Birt">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Barnsley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Cave">
+      <HowOut how="Caught D Barnsley"/>
+      <Bowler name="J Barnsley"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="D Barnsley" overs="6" maidens="4" runs="8" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="J Barnsley" overs="5" maidens="0" runs="38" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="J Cole">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cave"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="C James"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Hance"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Morris">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hance"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Cronin">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Smith"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Barnsley">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hance"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Hance"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="M Carpeter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Barnsley">
+      <HowOut how="Caught"/>
+      <Bowler name="S Cornelius"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Want"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Cornelius"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="C James" overs="4" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="B Cave" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="J Hance" overs="5" maidens="0" runs="12" wickets="4"/>
+    <BowlerSummary name="M Smith" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="M Carpeter" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="S Cornelius" overs="2" maidens="0" runs="11" wickets="2"/>
+    <BowlerSummary name="M Want" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="J Wait" overs="2" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
