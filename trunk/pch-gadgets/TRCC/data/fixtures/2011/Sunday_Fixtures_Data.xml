@@ -241,8 +241,9 @@
   <Opposition>Cranbourne</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Lose</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sun, 25 Sep 2011 12:00:00 UTC</Date>
