@@ -452,6 +452,7 @@ public class GeneratePlayerStats
 		
 		for (PlayerStats lPS : PlayerStats.GetStats().values())
 		{
+			System.out.println (lPS.GetURL(sRootURL));
 			System.out.println (lPS.toXML("    ", sYear));
 		}
 		

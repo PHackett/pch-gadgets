@@ -25,6 +25,7 @@ public class PlayerStats
 		
 		return (lRet);
 	}
+	
 
 	public static Map<String, PlayerStats> GetStats()	{ return (sPlayerDB);	}
 
@@ -244,4 +245,38 @@ public class PlayerStats
 		
 		return (lRet.toString());
 	}
+
+	
+	/**
+	 * The URL of this player data on the web
+	 * 
+	 * @param aBaseURL
+	 * @return
+	 */
+	public String GetURL (String aBaseURL)
+	{
+		String	lRet = aBaseURL + "players/";
+		int		lIndex=mName.indexOf(" ");
+		
+		if (-1 == lIndex)
+		{
+			System.out.println ("ERROR: Can parse player name " + mName);
+		}
+		else
+		{
+			String lFirstName	= mName.substring(0, lIndex);
+			String lSurName		= mName.substring(lIndex+1);
+			
+			// System.out.println ("DEBUG: Player: FirstName='" + lFirstName + "' SurName='" + lSurName + "'");
+			
+			String lName = lSurName + "_" + lFirstName;
+			
+			lName = lName.toLowerCase().replace(" ", "_") + ".xml";
+			
+			lRet = lRet + lName;
+		}
+		
+		return (lRet);
+	}
+
 }
