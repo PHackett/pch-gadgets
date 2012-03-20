@@ -3,14 +3,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class PlayerStats
+public class PlayerYearStats
 {
 
-	static Map<String, PlayerStats> sPlayerDB = new HashMap<String, PlayerStats>();
+	static Map<String, PlayerYearStats> sPlayerDB = new HashMap<String, PlayerYearStats>();
 	
-	public static PlayerStats GetPlayerStats (String aPlayerName)
+	public static PlayerYearStats GetPlayerStats (String aPlayerName)
 	{
-		PlayerStats lRet;
+		PlayerYearStats lRet;
 		
 		if (sPlayerDB.containsKey(aPlayerName))
 		{
@@ -18,7 +18,7 @@ public class PlayerStats
 		}
 		else
 		{
-			lRet = new PlayerStats(aPlayerName);
+			lRet = new PlayerYearStats(aPlayerName);
 			
 			sPlayerDB.put(aPlayerName, lRet);
 		}
@@ -27,7 +27,7 @@ public class PlayerStats
 	}
 	
 
-	public static Map<String, PlayerStats> GetStats()	{ return (sPlayerDB);	}
+	public static Map<String, PlayerYearStats> GetStats()	{ return (sPlayerDB);	}
 
 	
 	//
@@ -52,7 +52,7 @@ public class PlayerStats
 	ArrayList<BattingMatchData>	mBattingHighlights;
 
 
-	public PlayerStats (String aName)
+	public PlayerYearStats (String aName)
 	{
 		mName					= aName;
 		mFirstRecordedGame		= null;
@@ -71,7 +71,9 @@ public class PlayerStats
 		mBattingBest			= null;
 		mBattingHighlights		= new ArrayList<BattingMatchData> ();
 	}
-	
+
+	String	Name ()			{ return (mName);		}
+
 	
 	public boolean AddBowlingSummary (MatchID aMID, BowlerGameSummary aBGS)
 	{
@@ -245,38 +247,4 @@ public class PlayerStats
 		
 		return (lRet.toString());
 	}
-
-	
-	/**
-	 * The URL of this player data on the web
-	 * 
-	 * @param aBaseURL
-	 * @return
-	 */
-	public String GetURL (String aBaseURL)
-	{
-		String	lRet = aBaseURL + "players/";
-		int		lIndex=mName.indexOf(" ");
-		
-		if (-1 == lIndex)
-		{
-			System.out.println ("ERROR: Can parse player name " + mName);
-		}
-		else
-		{
-			String lFirstName	= mName.substring(0, lIndex);
-			String lSurName		= mName.substring(lIndex+1);
-			
-			// System.out.println ("DEBUG: Player: FirstName='" + lFirstName + "' SurName='" + lSurName + "'");
-			
-			String lName = lSurName + "_" + lFirstName;
-			
-			lName = lName.toLowerCase().replace(" ", "_") + ".xml";
-			
-			lRet = lRet + lName;
-		}
-		
-		return (lRet);
-	}
-
 }

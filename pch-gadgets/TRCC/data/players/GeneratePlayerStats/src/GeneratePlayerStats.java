@@ -78,6 +78,12 @@ public class GeneratePlayerStats
 		{
 			System.out.println ("ERROR: Failed logging number of players processed");
 		}
+		else if (!LoadOnlinePlayerLifetimeData())
+		{
+			System.out.println ("ERROR: Failed logging number of players processed");			
+		}
+		
+		System.out.println ("INFO: Processing complete");
 	}
 	
 	private static boolean ProcessAllMatchData (ArrayList<MatchReport> aMDA)
@@ -147,7 +153,7 @@ public class GeneratePlayerStats
 	private static boolean ProcessTrccBatterSummary (MatchID aMID, BatterGameSummary aBGS)
 	{
 		boolean 	lRet=false;
-		PlayerStats lPS=PlayerStats.GetPlayerStats (aBGS.GetName());
+		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName());
 
 		lRet = lPS.AddBattingSummary (aMID, aBGS);
 				
@@ -174,10 +180,32 @@ public class GeneratePlayerStats
 	private static boolean ProcessTrccBowlerSummary (MatchID aMID, BowlerGameSummary aBGS)
 	{
 		boolean 	lRet=false;
-		PlayerStats lPS=PlayerStats.GetPlayerStats (aBGS.GetName());
+		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName());
 
 		lRet = lPS.AddBowlingSummary (aMID, aBGS);
 				
+		return (lRet);
+	}
+	
+	
+	/**
+	 * Load all the player lifetime statistics for the players we have found
+	 * @return
+	 */
+	private static boolean LoadOnlinePlayerLifetimeData ()
+	{
+		boolean lRet = true;
+		
+		for (PlayerYearStats lPS : PlayerYearStats.GetStats().values())
+		{
+			PlayerLifetimeStats lPLS = PlayerLifetimeStats.Get(lPS.Name());
+			
+			if (!lPLS.LoadFromURL())
+			{
+				System.out.println ("ERROR: Failed to load PlayerLifetimeStats for player = '" + lPS.Name() + "'");									
+			}
+		}
+		
 		return (lRet);
 	}
 	
@@ -372,7 +400,7 @@ public class GeneratePlayerStats
 		return (lRetA);
 	}
 
-	private static Document LoadXMLFromURL (String aUrlFragment) throws ParserConfigurationException, SAXException, IOException
+	public static Document LoadXMLFromURL (String aUrlFragment) throws ParserConfigurationException, SAXException, IOException
 	{
 		DocumentBuilderFactory	lDocBuilderFactory = DocumentBuilderFactory.newInstance();
 	    DocumentBuilder 		lDocBuilder = lDocBuilderFactory.newDocumentBuilder();
@@ -448,11 +476,10 @@ public class GeneratePlayerStats
 	{
 		boolean lRet=true;
 
-		System.out.println ("INFO: Processed a total of " + PlayerStats.GetStats().size() + " players for year " + sYear);
+		System.out.println ("INFO: Processed a total of " + PlayerYearStats.GetStats().size() + " players for year " + sYear);
 		
-		for (PlayerStats lPS : PlayerStats.GetStats().values())
+		for (PlayerYearStats lPS : PlayerYearStats.GetStats().values())
 		{
-			System.out.println (lPS.GetURL(sRootURL));
 			System.out.println (lPS.toXML("    ", sYear));
 		}
 		
