@@ -124,6 +124,13 @@ public class PlayerLifetimeStats
 	        {
             	Element 		lYearElement = (Element)lYearList.item(i);
             	PlayerYearStats	lPYS = new PlayerYearStats(mName);
+            	
+            	if (!lPYS.ParseFromXML (lYearElement))
+            	{
+                	System.out.println ("ERROR: Failed parsing the year stats from XML for player = '" + mName + "'");
+            	}
+            	
+            	mPlayerStatsDB.put(mName, lPYS);
 	        }
 	        
 	        //

@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.w3c.dom.Element;
+
 
 public class PlayerYearStats
 {
@@ -173,6 +175,21 @@ public class PlayerYearStats
 				mBattingHighlights.add (new BattingMatchData (aMID, aBGS));
 			}
 		}
+		
+		return (lRet);
+	}
+
+
+	/**
+	 * Parse the yesr stats from XML
+	 * 
+	 * @param aEle
+	 * @return
+	 */
+	public boolean ParseFromXML (Element aEle)
+	{
+		boolean lRet = false;
+		
 		
 		return (lRet);
 	}
