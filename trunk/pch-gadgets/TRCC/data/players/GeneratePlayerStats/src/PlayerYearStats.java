@@ -3,6 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.w3c.dom.Element;
+import org.w3c.dom.NodeList;
 
 
 public class PlayerYearStats
@@ -10,7 +11,7 @@ public class PlayerYearStats
 
 	static Map<String, PlayerYearStats> sPlayerDB = new HashMap<String, PlayerYearStats>();
 	
-	public static PlayerYearStats GetPlayerStats (String aPlayerName)
+	public static PlayerYearStats GetPlayerStats (String aPlayerName, int aYear)
 	{
 		PlayerYearStats lRet;
 		
@@ -20,7 +21,7 @@ public class PlayerYearStats
 		}
 		else
 		{
-			lRet = new PlayerYearStats(aPlayerName);
+			lRet = new PlayerYearStats(aPlayerName, aYear);
 			
 			sPlayerDB.put(aPlayerName, lRet);
 		}
@@ -35,6 +36,7 @@ public class PlayerYearStats
 	//
 	//
 	//
+	int 						mYear;
 	String						mName;
 	MatchID						mFirstRecordedGame;
 	
@@ -54,9 +56,10 @@ public class PlayerYearStats
 	ArrayList<BattingMatchData>	mBattingHighlights;
 
 
-	public PlayerYearStats (String aName)
+	public PlayerYearStats (String aName, int aYear)
 	{
 		mName					= aName;
+		mYear					= aYear;
 		mFirstRecordedGame		= null;
 		mBowlerSummary			= new BowlerStats();
 		mBowlerGames			= 0;
@@ -188,18 +191,55 @@ public class PlayerYearStats
 	 */
 	public boolean ParseFromXML (Element aEle)
 	{
-		boolean lRet = false;
+		boolean 	lRet = true;
 		
+		//
+		// Process the Batting data
+		//
+        NodeList	lBattingList	= aEle.getElementsByTagName("Batting");
+
+        if (lBattingList.getLength() > 1)
+        {
+        	System.out.println ("ERROR: We have " + lBattingList.getLength() + " Bowling data for '" + mName + "' in year " + mYear);
+        	lRet = false;	        	
+        }
+        else if (lBattingList.getLength() == 1)
+        {
+        	Element lBattingElement = (Element)lBattingList.item(0);
+
+        	mBattingInnings			= Integer.parseInt(lBattingElement.getAttribute("innings"));
+        	mBattingTotalRuns		= Integer.parseInt(lBattingElement.getAttribute("runs"));
+        	mBattingTotalNotOuts	= Integer.parseInt(lBattingElement.getAttribute("notouts"));
+        	mBatting100s			= Integer.parseInt(lBattingElement.getAttribute("hundreds"));
+        	mBatting50s				= Integer.parseInt(lBattingElement.getAttribute("fifties"));
+        	mBattingDucks			= Integer.parseInt(lBattingElement.getAttribute("ducks"));
+        	
+    		mBattingBest = new BattingMatchData();
+    		mBattingBest.ParseFromXML(lBattingElement, "BattingBest");
+
+        }
+        else
+        {
+        	//
+        	// No batting information
+        	//
+        }
+        
+		//
+		// Process the Bowling data
+		//
+        // TODO
+
 		
 		return (lRet);
 	}
 
 
-	public String toXML (String aINdent, int aYear)
+	public String toXML (String aINdent)
 	{
 		StringBuffer lRet = new StringBuffer();
 		
-		lRet.append (aINdent + "<YearData year=\"" + aYear + "\">"														+ "\n");
+		lRet.append (aINdent + "<YearData year=\"" + mYear + "\">"														+ "\n");
 		
 		if (0 < mBowlerGames)
 		{

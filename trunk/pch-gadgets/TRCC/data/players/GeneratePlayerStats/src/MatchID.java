@@ -21,14 +21,60 @@ public class MatchID
 	{
 		boolean lRet = true;
 		
-    	mOppo = aCricketMatchElement.getAttribute("oppo");
-    	
     	if (!aCricketMatchElement.getAttribute("notforstats").isEmpty())
     	{
     		mCountsTowardsStats = false;
     	}
+
+    	if (!ParseDateAndOppo (aCricketMatchElement))
+    	{
+        	System.out.println ("ERROR: Failed to parse Date & Oppo from match data");
+    		lRet = false;
+    	}
+		
+		return (lRet);
+	}
+
+	public boolean parseFromYearStatsXML (Element aMID)
+	{
+		boolean	lRet = true;
+		
+		mCountsTowardsStats	= true;
+		
+    	if (!ParseDateAndOppo (aMID))
+    	{
+        	System.out.println ("ERROR: Failed to parse Date & Oppo from YearStats");
+    		lRet = false;    		
+    	}
+		
+		return (lRet);
+	}
+
+
+	public boolean	NotForStats ()		{ return (!mCountsTowardsStats);	}
+	public String	Oppo ()				{ return (mOppo);					}
+	public Date		Date ()				{ return (mDate);					}
+	
+	public String toXML ()
+	{
+		SimpleDateFormat lSDF = new SimpleDateFormat("EEE MMM dd 12:00:00 z");
+		String lRet = "";
+		
+		lRet = lRet + "<MatchId ";
+		lRet = lRet + "Date=\"" + lSDF.format(mDate) + "\" ";
+		lRet = lRet + "oppo=\"" + mOppo + "\"";
+		lRet = lRet + "/>";
+		
+		return (lRet);
+	}
+	
+	private boolean ParseDateAndOppo (Element aEle)
+	{
+		boolean lRet = true;
+		
+    	mOppo = aEle.getAttribute("oppo");
     	
-    	String lDateStr = aCricketMatchElement.getAttribute("date");
+    	String lDateStr = aEle.getAttribute("date");
     	
     	//
     	// To parse dates of the form "Sat Apr 30 00:00:00 UTC+0100 2011"
@@ -55,24 +101,7 @@ public class MatchID
 	        	lRet = false;
 			}
 		}
-		
-		return (lRet);
-	}
 
-	public boolean	NotForStats ()		{ return (!mCountsTowardsStats);	}
-	public String	Oppo ()				{ return (mOppo);					}
-	public Date		Date ()				{ return (mDate);					}
-	
-	public String toXML ()
-	{
-		SimpleDateFormat lSDF = new SimpleDateFormat("EEE MMM dd 12:00:00 z");
-		String lRet = "";
-		
-		lRet = lRet + "<MatchId ";
-		lRet = lRet + "Date=\"" + lSDF.format(mDate) + "\" ";
-		lRet = lRet + "oppo=\"" + mOppo + "\"";
-		lRet = lRet + "/>";
-		
 		return (lRet);
 	}
 }
