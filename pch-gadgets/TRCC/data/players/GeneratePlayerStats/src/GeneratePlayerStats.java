@@ -153,7 +153,7 @@ public class GeneratePlayerStats
 	private static boolean ProcessTrccBatterSummary (MatchID aMID, BatterGameSummary aBGS)
 	{
 		boolean 	lRet=false;
-		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName());
+		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName(), sYear);
 
 		lRet = lPS.AddBattingSummary (aMID, aBGS);
 				
@@ -180,7 +180,7 @@ public class GeneratePlayerStats
 	private static boolean ProcessTrccBowlerSummary (MatchID aMID, BowlerGameSummary aBGS)
 	{
 		boolean 	lRet=false;
-		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName());
+		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName(), sYear);
 
 		lRet = lPS.AddBowlingSummary (aMID, aBGS);
 				
@@ -480,7 +480,7 @@ public class GeneratePlayerStats
 		
 		for (PlayerYearStats lPS : PlayerYearStats.GetStats().values())
 		{
-			System.out.println (lPS.toXML("    ", sYear));
+			System.out.println (lPS.toXML("    "));
 		}
 		
 		return (lRet);

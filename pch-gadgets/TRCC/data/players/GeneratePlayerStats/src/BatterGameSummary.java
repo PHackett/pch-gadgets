@@ -8,6 +8,7 @@ public class BatterGameSummary
 	String	mName;
 	int		mRuns;
 	boolean	mNotOut;
+	int		mNotOuts;
 	boolean	mDidNotBat;
 	
 	public BatterGameSummary ()
@@ -115,6 +116,19 @@ public class BatterGameSummary
     		}
         }
 
+		return (lRet);
+	}
+	
+	public boolean LoadFromYearStatsXML (Element aBatYS)
+	{
+		boolean lRet = true;
+
+		mNotOut		= false;
+		mDidNotBat	= false;
+    	mRuns		= Integer.parseInt(aBatYS.getAttribute("runs"));
+    	mNotOuts	= Integer.parseInt(aBatYS.getAttribute("notouts"));
+
+		
 		return (lRet);
 	}
 }

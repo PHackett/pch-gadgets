@@ -99,7 +99,7 @@ public class PlayerLifetimeStats
 	 */
 	public boolean ParsePlayerYearStats (Document aDoc)
 	{
-		boolean 	lRet = false;
+		boolean 	lRet = true;
         NodeList	lPS	= aDoc.getElementsByTagName("PlayerStats");
 
         if (1 != lPS.getLength())
@@ -123,11 +123,14 @@ public class PlayerLifetimeStats
 	        for (int i=0 ; i<lYearList.getLength() ; ++i)
 	        {
             	Element 		lYearElement = (Element)lYearList.item(i);
-            	PlayerYearStats	lPYS = new PlayerYearStats(mName);
+            	int				lYear=Integer.parseInt(lYearElement.getAttribute("year"));
+            	
+            	PlayerYearStats	lPYS = new PlayerYearStats(mName, lYear);
             	
             	if (!lPYS.ParseFromXML (lYearElement))
             	{
                 	System.out.println ("ERROR: Failed parsing the year stats from XML for player = '" + mName + "'");
+                	lRet = false;
             	}
             	
             	mPlayerStatsDB.put(mName, lPYS);
