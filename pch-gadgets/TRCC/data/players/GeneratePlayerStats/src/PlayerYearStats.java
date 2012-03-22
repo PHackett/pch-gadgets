@@ -200,29 +200,19 @@ public class PlayerYearStats
 
         if (lBattingList.getLength() > 1)
         {
-        	System.out.println ("ERROR: We have " + lBattingList.getLength() + " Bowling data for '" + mName + "' in year " + mYear);
+        	System.out.println ("ERROR: We have " + lBattingList.getLength() + " Batting data for '" + mName + "' in year " + mYear);
         	lRet = false;	        	
         }
-        else if (lBattingList.getLength() == 1)
-        {
-        	Element lBattingElement = (Element)lBattingList.item(0);
-
-        	mBattingInnings			= Integer.parseInt(lBattingElement.getAttribute("innings"));
-        	mBattingTotalRuns		= Integer.parseInt(lBattingElement.getAttribute("runs"));
-        	mBattingTotalNotOuts	= Integer.parseInt(lBattingElement.getAttribute("notouts"));
-        	mBatting100s			= Integer.parseInt(lBattingElement.getAttribute("hundreds"));
-        	mBatting50s				= Integer.parseInt(lBattingElement.getAttribute("fifties"));
-        	mBattingDucks			= Integer.parseInt(lBattingElement.getAttribute("ducks"));
-        	
-    		mBattingBest = new BattingMatchData();
-    		mBattingBest.ParseFromXML(lBattingElement, "BattingBest");
-
-        }
-        else
+        else if (0 == lBattingList.getLength())
         {
         	//
         	// No batting information
         	//
+        }
+        else if (!ParseBattingYearStats((Element)lBattingList.item(0)))
+        {
+        	System.out.println ("ERROR: Failed parsing lifetime bowling data for '" + mName + "' in year " + mYear);
+        	lRet = false;	        	
         }
         
 		//
@@ -234,6 +224,62 @@ public class PlayerYearStats
 		return (lRet);
 	}
 
+	
+	private boolean ParseBattingYearStats (Element aBattingElement)
+	{
+		boolean lRet = true;
+		
+    	mBattingInnings			= Integer.parseInt(aBattingElement.getAttribute("innings"));
+    	mBattingTotalRuns		= Integer.parseInt(aBattingElement.getAttribute("runs"));
+    	mBattingTotalNotOuts	= Integer.parseInt(aBattingElement.getAttribute("notouts"));
+    	mBatting100s			= Integer.parseInt(aBattingElement.getAttribute("hundreds"));
+    	mBatting50s				= Integer.parseInt(aBattingElement.getAttribute("fifties"));
+    	mBattingDucks			= Integer.parseInt(aBattingElement.getAttribute("ducks"));
+
+    	//
+    	// Parse the 'BattingBest'
+    	//
+        NodeList	lBMD = aBattingElement.getElementsByTagName("BattingBest");
+        
+        if (lBMD.getLength() != 1)
+        {
+        	System.out.println ("ERROR: We have " + lBMD.getLength() + " 'BattingBest' records");
+        	lRet = false;	        	
+        }
+        else
+        {
+        	Element lBBElement = (Element)lBMD.item(0);
+
+    		mBattingBest = new BattingMatchData();
+    		mBattingBest.ParseFromXML (lBBElement);
+        }
+
+		//
+		// All the batting highlights TODO
+		//
+        NodeList	lBBList	= aBattingElement.getElementsByTagName("BattingHighlight");
+        
+        if (0 == lBBList.getLength())
+        {
+        	//
+        	// No highlights to process
+        	//
+        }
+        else
+        {
+        	for (int i=0 ; i<lBBList.getLength() ; ++i)
+        	{
+            	Element 			lBBElement = (Element)lBBList.item(i);
+            	BattingMatchData	lBMH = new BattingMatchData();
+        	
+            	lBMH.ParseFromXML(lBBElement);
+            	
+            	mBattingHighlights.add(lBMH);
+        	}
+        }
+		
+		return (lRet);
+	}
 
 	public String toXML (String aINdent)
 	{
