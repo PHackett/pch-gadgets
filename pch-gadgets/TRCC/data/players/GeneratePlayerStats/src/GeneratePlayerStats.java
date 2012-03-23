@@ -53,6 +53,15 @@ public class GeneratePlayerStats
 	{
 		ArrayList<String>	lRetA;
 		ArrayList<MatchReport> lMRA;
+
+		{
+			PlayerLifetimeStats lPLS = PlayerLifetimeStats.Get("Paul Hackett");
+			
+			lPLS.LoadFromURL();
+			
+			System.out.println ("TEST: This is the XML ...");
+			System.out.println (lPLS.toXML());
+		}
 		
 		if (0 == (lRetA = ReadFixtureYearData(sYear)).size())
 		{

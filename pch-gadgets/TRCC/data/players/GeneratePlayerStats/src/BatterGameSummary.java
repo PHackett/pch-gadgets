@@ -127,7 +127,6 @@ public class BatterGameSummary
 		mDidNotBat	= false;
     	mRuns		= Integer.parseInt(aBatYS.getAttribute("runs"));
     	mNotOuts	= Integer.parseInt(aBatYS.getAttribute("notouts"));
-
 		
 		return (lRet);
 	}

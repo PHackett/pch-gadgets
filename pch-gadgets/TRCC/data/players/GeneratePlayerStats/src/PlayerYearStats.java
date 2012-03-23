@@ -193,6 +193,8 @@ public class PlayerYearStats
 	{
 		boolean 	lRet = true;
 		
+		System.out.println ("DEBUG: Parsing lifetime stats data for year " + mYear);
+		
 		//
 		// Process the Batting data
 		//
@@ -211,19 +213,68 @@ public class PlayerYearStats
         }
         else if (!ParseBattingYearStats((Element)lBattingList.item(0)))
         {
-        	System.out.println ("ERROR: Failed parsing lifetime bowling data for '" + mName + "' in year " + mYear);
+        	System.out.println ("ERROR: Failed parsing lifetime batting data for '" + mName + "' in year " + mYear);
         	lRet = false;	        	
         }
         
 		//
 		// Process the Bowling data
 		//
-        // TODO
+        NodeList	lBowlingList	= aEle.getElementsByTagName("Bowling");
 
+        if (lBowlingList.getLength() > 1)
+        {
+        	System.out.println ("ERROR: We have " + lBowlingList.getLength() + " Bowling data for '" + mName + "' in year " + mYear);
+        	lRet = false;	        	
+        }
+        else if (0 == lBowlingList.getLength())
+        {
+        	//
+        	// No bowling information
+        	//
+        }
+        else if (!ParseBowlingYearStats((Element)lBowlingList.item(0)))
+        {
+        	System.out.println ("ERROR: Failed parsing lifetime bowling data for '" + mName + "' in year " + mYear);
+        	lRet = false;	        	
+        }
 		
 		return (lRet);
 	}
 
+	
+	private boolean ParseBowlingYearStats (Element aBowlingElement)
+	{
+		boolean lRet = true;
+		
+		//
+		// TODO
+		//
+		
+		mBowlerGames			= Integer.parseInt(aBowlingElement.getAttribute("games"));
+		mBowlerFivePlus			= Integer.parseInt(aBowlingElement.getAttribute("fiveplus"));
+		
+		//
+		// Parse the 'BowlingBest
+		//
+        NodeList	lBMD = aBowlingElement.getElementsByTagName("BowlingBest");
+
+        if (lBMD.getLength() != 1)
+        {
+        	System.out.println ("ERROR: We have " + lBMD.getLength() + " 'BowlingBest' records");
+        	lRet = false;	        	
+        }
+        else
+        {
+        	Element lBBElement = (Element)lBMD.item(0);
+
+        	mBowlingBest = new BowlingMatchData();
+    		mBowlingBest.ParseFromXML (lBBElement);
+        }
+
+		return (lRet);
+	}
+	
 	
 	private boolean ParseBattingYearStats (Element aBattingElement)
 	{
