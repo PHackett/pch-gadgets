@@ -1,3 +1,5 @@
+import org.w3c.dom.Element;
+
 
 public class BowlerStats
 {
@@ -64,6 +66,20 @@ public class BowlerStats
 		
 		return (lRet);
 	}
+
+	
+	public boolean LoadFromYearStatsXML (Element aBSElement)
+	{
+		boolean lRet = true;
+
+		mOvers		= new Overs (aBSElement.getAttribute("overs"));
+		mMaidens	= Integer.parseInt(aBSElement.getAttribute("maidens"));
+		mRuns		= Integer.parseInt(aBSElement.getAttribute("runs"));
+		mWickets	= Integer.parseInt(aBSElement.getAttribute("wickets"));
+
+		return (lRet);
+	}
+
 	
 	public String toXML()
 	{

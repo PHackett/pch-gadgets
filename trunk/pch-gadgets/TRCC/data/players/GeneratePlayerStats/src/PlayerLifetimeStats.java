@@ -1,6 +1,11 @@
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Collection;
+import java.util.Date;
+import java.util.Iterator;
 import java.util.Map;
+import java.util.NavigableMap;
 import java.util.TreeMap;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -33,8 +38,8 @@ public class PlayerLifetimeStats
 	//
 	// Members
 	//
-	String							mName;
-	Map<String, PlayerYearStats>	mPlayerStatsDB;
+	String								mName;
+	TreeMap<Integer, PlayerYearStats>	mPlayerStatsDB;
 
 	
 	/**
@@ -45,7 +50,7 @@ public class PlayerLifetimeStats
 	public PlayerLifetimeStats (String aName)
 	{
 		mName = aName;
-		mPlayerStatsDB = new TreeMap<String, PlayerYearStats>();
+		mPlayerStatsDB = new TreeMap<Integer, PlayerYearStats>();
 	}
 
 	
@@ -133,7 +138,7 @@ public class PlayerLifetimeStats
                 	lRet = false;
             	}
             	
-            	mPlayerStatsDB.put(mName, lPYS);
+            	mPlayerStatsDB.put (lYear, lPYS);
 	        }
 	        
 	        //
@@ -173,6 +178,45 @@ public class PlayerLifetimeStats
 			
 			lRet = lRet + lName;
 		}
+		
+		return (lRet);
+	}
+	
+	
+	/**
+	 * 
+	 */
+	public String toXML ()
+	{
+		String 				lRet  = "";
+		Date				lDate = new Date();
+		SimpleDateFormat	lDF   = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss zzz");
+		
+		lRet += "<PlayerStats name=\"" + mName + "\" generated=\"" + lDF.format(lDate) + "\">"	+ "\n";
+
+		boolean									lF   = true;
+		NavigableMap<Integer, PlayerYearStats>	lROM = mPlayerStatsDB.descendingMap();
+		Collection<PlayerYearStats>				lCol = lROM.values();
+		Iterator<PlayerYearStats>				lItr = lCol.iterator();
+		
+		while (lItr.hasNext())
+		{
+			if (lF)
+			{
+				lF = false;
+			}
+			else
+			{
+				lRet += "\n";
+			}
+			
+			lRet += lItr.next().toXML("    ");
+		}
+		
+		
+		
+		lRet += "</PlayerStats>";
+
 		
 		return (lRet);
 	}
