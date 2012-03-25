@@ -62,11 +62,11 @@ public class BatterSummary
 						
 		if (aClose)
 		{
-			lRet += "/>\n";
+			lRet += "/>";
 		}
 		else
 		{
-			lRet += ">\n";
+			lRet += ">";
 		}
 						
 		return (lRet);

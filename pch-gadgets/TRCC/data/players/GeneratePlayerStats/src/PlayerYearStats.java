@@ -237,10 +237,6 @@ public class PlayerYearStats
 	{
 		boolean lRet = true;
 		
-		//
-		// TODO
-		//
-		
 		mBowlerGames			= Integer.parseInt(aBowlingElement.getAttribute("games"));
 		mBowlerFivePlus			= Integer.parseInt(aBowlingElement.getAttribute("fiveplus"));
 		
@@ -334,7 +330,7 @@ public class PlayerYearStats
         }
 
 		//
-		// All the batting highlights TODO
+		// All the batting highlights
 		//
         NodeList	lBBList	= aBattingElement.getElementsByTagName("BattingHighlight");
         
@@ -396,7 +392,7 @@ public class PlayerYearStats
 
 		if (0 < mBatterSummary.Innings())
 		{
-			lRet.append (aINdent + "    " + mBatterSummary.toXML(false)); 
+			lRet.append (aINdent + "    " + mBatterSummary.toXML(false)													+ "\n");
 		
 			lRet.append (aINdent + "        <BattingBest>"																+ "\n");
 			lRet.append (aINdent + "            " + mBattingBest.MatchID().toXML()										+ "\n");
