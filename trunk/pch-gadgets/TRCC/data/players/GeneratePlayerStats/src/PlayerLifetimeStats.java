@@ -41,6 +41,11 @@ public class PlayerLifetimeStats
 	String								mName;
 	MatchID								mFirstRecordedGame;
 	TreeMap<Integer, PlayerYearStats>	mPlayerStatsDB;
+	BatterSummary						mBattingStats1969to1997;
+
+	int 								mBowlingStats1969to1997Games;
+	int 								mBowlingStats1969to1997FivePlus;
+	BowlerStats							mBowlingStats1969to1997Summary;
 
 	
 	/**
@@ -52,6 +57,9 @@ public class PlayerLifetimeStats
 	{
 		mName = aName;
 		mPlayerStatsDB = new TreeMap<Integer, PlayerYearStats>();
+		
+		mBowlingStats1969to1997Games	= 0;
+		mBowlingStats1969to1997FivePlus	= 0;
 	}
 
 	
@@ -243,7 +251,29 @@ public class PlayerLifetimeStats
 			lRet += lItr.next().toXML("    ");
 		}
 		
+		//
+		// BattingStats1969to1997
+		//
+		if (null != mBattingStats1969to1997)
+		{
+			lRet += ""													+ "\n";
+			lRet += "    <BattingStats1969to1997>"						+ "\n";
+			lRet += "        " + mBattingStats1969to1997.toXML(true)	+ "\n";
+			lRet += "    </BattingStats1969to1997>"						+ "\n";
+		}
 		
+		//
+		// BowlingStats1969to1997
+		//
+		if (null != mBowlingStats1969to1997Summary)
+		{
+			lRet += ""															+ "\n";
+			lRet += "    <BowlingStats1969to1997>"								+ "\n";
+			lRet += "        <Bowling games=\"" + mBowlingStats1969to1997Games + "\" fiveplus=\"" + mBowlingStats1969to1997FivePlus + "\">"	+ "\n";
+			lRet += "            " + mBowlingStats1969to1997Summary.toXML()		+ "\n";
+			lRet += "        </Bowling>"										+ "\n";
+			lRet += "    </BowlingStats1969to1997>"								+ "\n";			
+		}
 		
 		lRet += "</PlayerStats>";
 
@@ -305,14 +335,46 @@ public class PlayerLifetimeStats
         	System.out.println ("ERROR: We have " + lOldBatStatsList.getLength() + " 'BattingStats1969to1997' records for player '" + mName + "'");
         	lRet = false;
         }
+        else if (0 == lOldBatStatsList.getLength())
+        {
+        	//
+        	// No problem - The person did not play in the relevant years
+        	//
+        }
         else if (1 == lOldBatStatsList.getLength())
         {
+        	Element 	lOBSElement = (Element)lOldBatStatsList.item(0);
         	
+        	NodeList	lBIList=lOBSElement.getElementsByTagName("Batting");
+
+        	if (lBIList.getLength() != 1)
+        	{
+            	System.out.println ("ERROR: We have " + lBIList.getLength() + " 'Batting 'elements in 'BattingStats1969to1997' for player '" + mName + "'");
+            	lRet = false;        		
+        	}
+        	else
+        	{
+        		mBattingStats1969to1997 = new BatterSummary();
+        		mBattingStats1969to1997.parseFromXML((Element)lBIList.item(0));
+        	}
         }
 
 		return (lRet);
     }
     
+    
+    /**
+     * Expected to took something like -
+     * 
+     *     <BowlingStats1969to1997>
+     *         <Bowling games="0" fiveplus="0">
+     *             <BowlingData overs="411" maidens="103" runs="1184" wickets="72"/>
+     *         </Bowling>
+     *     </BowlingStats1969to1997>
+     * 
+     * @param aPSElement
+     * @return
+     */
     public boolean LoadBowlingStats1969to1997 (Element aPSElement)
     {
 		boolean lRet = true;
@@ -326,7 +388,37 @@ public class PlayerLifetimeStats
         }
         else if (1 == lOldBowlStatsList.getLength())
         {
+        	Element 	lOBSElement = (Element)lOldBowlStatsList.item(0);
         	
+        	NodeList	lBIList=lOBSElement.getElementsByTagName("Bowling");
+        	
+        	if (lBIList.getLength() != 1)
+        	{
+            	System.out.println ("ERROR: We have " + lBIList.getLength() + " Bowling elements for 'BowlingStats1969to1997' for player '" + mName + "'");
+            	lRet = false;        		
+        	}
+        	else
+        	{
+            	Element 	lOBILElement = (Element)lBIList.item(0);
+
+            	mBowlingStats1969to1997Games	= Integer.parseInt(lOBILElement.getAttribute("games"));
+            	mBowlingStats1969to1997FivePlus	= Integer.parseInt(lOBILElement.getAttribute("fiveplus"));
+            	
+    			NodeList	lBD = lOBILElement.getElementsByTagName("BowlingData");
+    			
+    	        if (lBD.getLength() != 1)
+    	        {
+    	        	System.out.println ("ERROR: We have " + lBD.getLength() + " BowlingStats1969to1997 'BowlingData' records for '" + mName + "'");
+    	        	lRet = false;	        	
+    	        }
+    	        else
+    	        {
+    	        	Element lBBElement = (Element)lBD.item(0);
+
+    	        	mBowlingStats1969to1997Summary	= new BowlerStats();
+    	        	mBowlingStats1969to1997Summary.LoadFromYearStatsXML(lBBElement);
+    	        }
+        	}
         }
 
 		return (lRet);
