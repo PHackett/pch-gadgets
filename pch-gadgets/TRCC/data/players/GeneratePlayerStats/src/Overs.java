@@ -26,7 +26,15 @@ public class Overs
 		{
 			String lA[] = aOS.split("\\.");
 
-			mOvers = Integer.parseInt (lA[0]);
+			if (0 == lIN)
+			{
+				mOvers = 0;
+			}
+			else
+			{
+				mOvers = Integer.parseInt (lA[0]);
+			}
+			
 			mBalls = Integer.parseInt (lA[1]);
 		}
 	}

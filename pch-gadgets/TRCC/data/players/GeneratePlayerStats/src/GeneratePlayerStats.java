@@ -1,3 +1,5 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
@@ -43,6 +45,7 @@ import org.xml.sax.SAXException;
 public class GeneratePlayerStats 
 {
 	public static final String	sRootURL = "http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/data/";
+	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime";
 
 	private static int 			sYear = 2010;
 	
@@ -55,12 +58,14 @@ public class GeneratePlayerStats
 		ArrayList<MatchReport> lMRA;
 
 		{
+			/*
 			PlayerLifetimeStats lPLS = PlayerLifetimeStats.Get("Paul Hackett");
 			
 			lPLS.LoadFromURL();
 			
 			System.out.println ("TEST: This is the XML ...");
 			System.out.println (lPLS.toXML());
+			*/
 		}
 		
 		if (0 == (lRetA = ReadFixtureYearData(sYear)).size())
@@ -90,6 +95,14 @@ public class GeneratePlayerStats
 		else if (!LoadOnlinePlayerLifetimeData())
 		{
 			System.out.println ("ERROR: Failed logging number of players processed");			
+		}
+		else if (!UpdatePlayerLifetimeData())
+		{
+			System.out.println ("ERROR: Failed updating player lifetime data");
+		}
+		else if (!WriteNewPlayerLifetimeFiles())
+		{
+			System.out.println ("ERROR: Failed writing player lifetime data");
 		}
 		
 		System.out.println ("INFO: Processing complete");
@@ -492,6 +505,51 @@ public class GeneratePlayerStats
 			System.out.println (lPS.toXML("    "));
 		}
 		
+		return (lRet);
+	}
+	
+	private static boolean UpdatePlayerLifetimeData()
+	{
+		boolean lRet = true;
+		
+		//
+		// TODO
+		//
+		
+		return (lRet);
+	}
+	
+	private static boolean WriteNewPlayerLifetimeFiles()
+	{
+		boolean lRet = true;
+		
+		//
+		// TODO
+		//
+		String lUserHomeDir = System.getProperty("user.home");
+		String lOutDir      = lUserHomeDir + "/" + sOutDir + "/";
+		
+		System.out.println ("INFO: Generated Player lifetime XML files will be written to " + lOutDir);
+
+		for (PlayerLifetimeStats lPLS : PlayerLifetimeStats.GetStats().values())
+		{
+			String lOutFileName = lOutDir + lPLS.GetFilename();
+			
+			try 
+			{
+				BufferedWriter lOut = new BufferedWriter(new FileWriter(lOutFileName));
+				
+				lOut.write(lPLS.toXML());
+				lOut.close();
+			} 
+			catch (IOException e) 
+			{
+				System.out.println ("ERROR: Failed opening/writing to file '" + lOutFileName + "'");
+				
+				e.printStackTrace();
+			}
+		}
+
 		return (lRet);
 	}
 }
