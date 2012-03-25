@@ -22,7 +22,7 @@ public class BowlingMatchData
 	
 	
 	/**
-	 * Parse bowl data from the year stats XML
+	 * Parse bowling data from the year stats XML
 	 * @param aBowlingElement
 	 * @return
 	 */

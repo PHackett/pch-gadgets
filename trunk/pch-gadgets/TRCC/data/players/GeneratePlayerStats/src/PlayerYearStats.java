@@ -184,7 +184,7 @@ public class PlayerYearStats
 
 
 	/**
-	 * Parse the yesr stats from XML
+	 * Parse the year stats from XML
 	 * 
 	 * @param aEle
 	 * @return
@@ -255,6 +255,27 @@ public class PlayerYearStats
 		mBowlerFivePlus			= Integer.parseInt(aBowlingElement.getAttribute("fiveplus"));
 		
 		//
+		// Parse the bowling data
+		//
+		{
+			NodeList	lBD = aBowlingElement.getElementsByTagName("BowlingData");
+			
+	        if (lBD.getLength() == 1)
+	        {
+	        	System.out.println ("ERROR: We have " + lBD.getLength() + " 'BowlingData' records for '" + mName + "' in year " + mYear);
+	        	lRet = false;	        	
+	        }
+	        else
+	        {
+	        	Element lBBElement = (Element)lBD.item(0);
+
+	        	
+	        	mBowlerSummary = new BowlerStats();
+	        	mBowlerSummary.LoadFromYearStatsXML(lBBElement);
+	        }
+		}
+		
+		//
 		// Parse the 'BowlingBest
 		//
         NodeList	lBMD = aBowlingElement.getElementsByTagName("BowlingBest");
@@ -270,6 +291,28 @@ public class PlayerYearStats
 
         	mBowlingBest = new BowlingMatchData();
     		mBowlingBest.ParseFromXML (lBBElement);
+        }
+        
+		//
+		// Parse the 'BowlingHighlights'
+		//
+        NodeList	lBMH = aBowlingElement.getElementsByTagName("BowlingHighlight");
+
+        if (lBMH.getLength() == 0)
+        {
+        	System.out.println ("DEBUG: We have " + lBMH.getLength() + " 'BowlingHightlight' records for '" + mName + "' in year " + mYear);
+        }
+        else
+        {
+        	for (int i=0 ; i<lBMH.getLength() ; ++i)
+        	{
+	        	Element 			lBHElement = (Element)lBMH.item(i);
+	        	BowlingMatchData	lBmData = new BowlingMatchData();
+	        	
+	        	lBmData.ParseFromXML (lBHElement);
+	        	
+	        	mBowlingHighlights.add(lBmData);
+        	}
         }
 
 		return (lRet);
@@ -379,7 +422,7 @@ public class PlayerYearStats
 			lRet.append (aINdent + "        <BattingBest>"																+ "\n");
 			lRet.append (aINdent + "            " + mBattingBest.MatchID().toXML()										+ "\n");
 			lRet.append (aINdent + "            " + mBattingBest.GetBGS().toXML()										+ "\n");
-			lRet.append (aINdent + "        <BattingBest>"																+ "\n");
+			lRet.append (aINdent + "        </BattingBest>"																+ "\n");
 			
 			if (0 < mBattingHighlights.size())
 			{

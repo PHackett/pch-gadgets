@@ -57,11 +57,12 @@ public class MatchID
 	
 	public String toXML ()
 	{
-		SimpleDateFormat lSDF = new SimpleDateFormat("EEE MMM dd 12:00:00 z");
+		// SimpleDateFormat lSDF = new SimpleDateFormat("EEE MMM dd 12:00:00 z yyyy");
+		SimpleDateFormat lSDF = new SimpleDateFormat("EEE MMM d 00:00:00");
 		String lRet = "";
 		
 		lRet = lRet + "<MatchId ";
-		lRet = lRet + "Date=\"" + lSDF.format(mDate) + "\" ";
+		lRet = lRet + "date=\"" + lSDF.format(mDate) + " UTC+0100 " + (mDate.getYear() + 1900) + "\" ";
 		lRet = lRet + "oppo=\"" + mOppo + "\"";
 		lRet = lRet + "/>";
 		
