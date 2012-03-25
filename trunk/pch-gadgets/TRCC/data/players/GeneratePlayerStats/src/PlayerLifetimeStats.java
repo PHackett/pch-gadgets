@@ -34,6 +34,8 @@ public class PlayerLifetimeStats
 		return (lRet);
 	}
 
+	public static Map<String, PlayerLifetimeStats> GetStats()	{ return (sPlayerDB);	}
+
 	
 	//
 	// Members
@@ -184,7 +186,14 @@ public class PlayerLifetimeStats
 	 */
 	public String GetURLFragment ()
 	{
-		String	lRet = "players/";
+		String	lRet = "players/" + GetFilename();
+		
+		return (lRet);
+	}
+
+	public String GetFilename ()
+	{
+		String	lRet = "";
 		int		lIndex=mName.indexOf(" ");
 		
 		if (-1 == lIndex)
@@ -207,7 +216,7 @@ public class PlayerLifetimeStats
 		
 		return (lRet);
 	}
-	
+
 	
 	/**
 	 * 
