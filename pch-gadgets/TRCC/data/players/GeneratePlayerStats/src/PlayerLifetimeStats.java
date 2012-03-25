@@ -39,6 +39,7 @@ public class PlayerLifetimeStats
 	// Members
 	//
 	String								mName;
+	MatchID								mFirstRecordedGame;
 	TreeMap<Integer, PlayerYearStats>	mPlayerStatsDB;
 
 	
@@ -119,6 +120,11 @@ public class PlayerLifetimeStats
         	//
         	// Load the first recorded data
         	//
+        	if (!LoadFirstRecordedGame (lPSElement))
+        	{
+        		System.out.println ("ERROR: Failed loading 'First Recorded Game' for player = '" + mName + "'");
+            	lRet = false;
+        	}
         	
 			//
 			// Now load the year data
@@ -142,8 +148,20 @@ public class PlayerLifetimeStats
 	        }
 	        
 	        //
-	        // Load the old, incomplete data
+	        // Load the old, incomplete data. This relates to statistics kept by 
+	        // D Downes, but for which the match data is not available
 	        //
+	        if (!LoadBattingStats1969to1997 (lPSElement))
+	        {
+	        	System.out.println ("ERROR: Failed loading 'BattingStats1969to1997' for player = '" + mName + "'");
+	        	lRet = false;
+	        }
+	        
+	        if (!LoadBowlingStats1969to1997 (lPSElement))
+	        {
+	        	System.out.println ("ERROR: Failed loading 'BowlingStats1969to1997' for player = '" + mName + "'");
+	        	lRet = false;
+	        }
         }
 		
 		return (lRet);
@@ -194,6 +212,18 @@ public class PlayerLifetimeStats
 		
 		lRet += "<PlayerStats name=\"" + mName + "\" generated=\"" + lDF.format(lDate) + "\">"	+ "\n";
 
+		if (null == mFirstRecordedGame)
+		{
+			System.out.println ("ERROR: No FirstRecordedGame data for player '" + mName + "'");			
+		}
+		else
+		{
+			lRet += "    <FirstRecordedGame>"														+ "\n";
+			lRet += "        " + mFirstRecordedGame.toXML()											+ "\n";
+			lRet += "    </FirstRecordedGame>"														+ "\n";
+			lRet += ""																				+ "\n";
+		}
+		
 		boolean									lF   = true;
 		NavigableMap<Integer, PlayerYearStats>	lROM = mPlayerStatsDB.descendingMap();
 		Collection<PlayerYearStats>				lCol = lROM.values();
@@ -220,4 +250,85 @@ public class PlayerLifetimeStats
 		
 		return (lRet);
 	}
+	
+
+	/**
+	 * Load the first recorded game from the player liftime stats XML
+	 * 
+	 * @return
+	 */
+	public boolean LoadFirstRecordedGame (Element aPSElement)
+	{
+		boolean lRet = true;
+
+        NodeList	lFRGList	= aPSElement.getElementsByTagName("FirstRecordedGame");
+        
+        if (lFRGList.getLength() != 1)
+        {
+			System.out.println ("ERROR: FirstRecordedGame elements for player '" + mName + "' has " + lFRGList.getLength() + " entries");
+			lRet = false;
+        }
+        else
+        {
+        	Element 	lFRGElement = (Element)lFRGList.item(0);
+        	
+        	NodeList	lMID=lFRGElement.getElementsByTagName("MatchId");
+        	
+            if (lMID.getLength() != 1)
+            {
+            	System.out.println ("ERROR: We have " + lMID.getLength() + " 'MatchId' records for FirstRecordedGame");
+            	lRet = false;	        	
+            }
+            else
+            {
+            	Element lMIDElement = (Element)lMID.item(0);
+
+            	mFirstRecordedGame = new MatchID();
+
+            	mFirstRecordedGame.parseFromYearStatsXML(lMIDElement);
+            }
+
+        }
+		
+		return (lRet);
+	}
+
+	
+    public boolean LoadBattingStats1969to1997 (Element aPSElement)
+    {
+		boolean lRet = true;
+
+        NodeList	lOldBatStatsList	= aPSElement.getElementsByTagName("BattingStats1969to1997");
+        
+        if (lOldBatStatsList.getLength() > 1)
+        {
+        	System.out.println ("ERROR: We have " + lOldBatStatsList.getLength() + " 'BattingStats1969to1997' records for player '" + mName + "'");
+        	lRet = false;
+        }
+        else if (1 == lOldBatStatsList.getLength())
+        {
+        	
+        }
+
+		return (lRet);
+    }
+    
+    public boolean LoadBowlingStats1969to1997 (Element aPSElement)
+    {
+		boolean lRet = true;
+
+        NodeList	lOldBowlStatsList	= aPSElement.getElementsByTagName("BowlingStats1969to1997");
+        
+        if (lOldBowlStatsList.getLength() > 1)
+        {
+        	System.out.println ("ERROR: We have " + lOldBowlStatsList.getLength() + " 'BowlingStats1969to1997' records for player '" + mName + "'");
+        	lRet = false;
+        }
+        else if (1 == lOldBowlStatsList.getLength())
+        {
+        	
+        }
+
+		return (lRet);
+    }
 }

@@ -46,12 +46,7 @@ public class PlayerYearStats
 	BowlingMatchData			mBowlingBest;
 	ArrayList<BowlingMatchData>	mBowlingHighlights;
 	
-	int							mBattingInnings;
-	int							mBattingTotalRuns;
-	int							mBattingTotalNotOuts;
-	int							mBatting50s;
-	int							mBatting100s;
-	int							mBattingDucks;
+	BatterSummary				mBatterSummary;
 	BattingMatchData			mBattingBest;
 	ArrayList<BattingMatchData>	mBattingHighlights;
 
@@ -67,12 +62,7 @@ public class PlayerYearStats
 		mBowlingBest			= null;
 		mBowlingHighlights		= new ArrayList<BowlingMatchData> ();
 		
-		mBattingInnings			= 0;
-		mBattingTotalRuns		= 0;
-		mBattingTotalNotOuts	= 0;
-		mBatting50s				= 0;
-		mBatting100s			= 0;
-		mBattingDucks			= 0;
+		mBatterSummary			= new BatterSummary();
 		mBattingBest			= null;
 		mBattingHighlights		= new ArrayList<BattingMatchData> ();
 	}
@@ -140,25 +130,25 @@ public class PlayerYearStats
 		}
 		else
 		{
-			mBattingInnings++;
-			mBattingTotalRuns		+= aBGS.Runs();
+			mBatterSummary.IncInnings();
+			mBatterSummary.IncRuns(aBGS.Runs());
 			
 			if (aBGS.NotOut())
 			{
-				mBattingTotalNotOuts++;				
+				mBatterSummary.IncNotouts();
 			}
 			
 			if (aBGS.Runs() >= 100)
 			{
-				mBatting100s++;
+				mBatterSummary.IncHundreds();
 			}
 			else if (aBGS.Runs() >= 50)
 			{
-				mBatting50s++;
+				mBatterSummary.IncFifties();
 			}
 			else if (0 == aBGS.Runs())
 			{
-				mBattingDucks++;
+				mBatterSummary.IncDucks();
 			}
 			
 			if (null == mBattingBest)
@@ -323,12 +313,7 @@ public class PlayerYearStats
 	{
 		boolean lRet = true;
 		
-    	mBattingInnings			= Integer.parseInt(aBattingElement.getAttribute("innings"));
-    	mBattingTotalRuns		= Integer.parseInt(aBattingElement.getAttribute("runs"));
-    	mBattingTotalNotOuts	= Integer.parseInt(aBattingElement.getAttribute("notouts"));
-    	mBatting100s			= Integer.parseInt(aBattingElement.getAttribute("hundreds"));
-    	mBatting50s				= Integer.parseInt(aBattingElement.getAttribute("fifties"));
-    	mBattingDucks			= Integer.parseInt(aBattingElement.getAttribute("ducks"));
+		mBatterSummary.parseFromXML(aBattingElement);
 
     	//
     	// Parse the 'BattingBest'
@@ -404,21 +389,15 @@ public class PlayerYearStats
 			lRet.append (aINdent + "    </Bowling>"																		+ "\n");
 		}
 		
-		if ((0 < mBowlerGames) && (0 < mBattingInnings))
+		if ((0 < mBowlerGames) && (0 < mBatterSummary.Innings()))
 		{
 			lRet.append (aINdent  																						+ "\n");			
 		}
 
-		if (0 < mBattingInnings)
+		if (0 < mBatterSummary.Innings())
 		{
-			lRet.append (aINdent + "    <Batting "																		+ 
-											"innings=\""	+ mBattingInnings		+ "\" " 							+ 
-											"runs=\""		+ mBattingTotalRuns		+ "\" "								+ 
-											"notouts=\""	+ mBattingTotalNotOuts	+ "\" "								+ 
-											"hundreds=\""	+ mBatting100s			+ "\" "								+ 
-											"fifties=\""	+ mBatting50s			+ "\" "								+ 
-											"ducks=\""		+ mBattingDucks			+ "\""								+ 
-											">"																			+ "\n");
+			lRet.append (aINdent + "    " + mBatterSummary.toXML(false)); 
+		
 			lRet.append (aINdent + "        <BattingBest>"																+ "\n");
 			lRet.append (aINdent + "            " + mBattingBest.MatchID().toXML()										+ "\n");
 			lRet.append (aINdent + "            " + mBattingBest.GetBGS().toXML()										+ "\n");
