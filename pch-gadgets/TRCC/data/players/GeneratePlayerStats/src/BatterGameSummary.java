@@ -49,7 +49,7 @@ public class BatterGameSummary
 	
 	public String toXML()
 	{
-		String lRet = "<BattingData runs=\"" + mRuns + " notouts=\"";
+		String lRet = "<BattingData runs=\"" + mRuns + "\" notouts=\"";
 
 		if (mNotOut)
 		{
@@ -123,10 +123,10 @@ public class BatterGameSummary
 	{
 		boolean lRet = true;
 
-		mNotOut		= false;
+    	mNotOuts	= 0;
+		mNotOut		= (1 == Integer.parseInt(aBatYS.getAttribute("notouts")));
 		mDidNotBat	= false;
     	mRuns		= Integer.parseInt(aBatYS.getAttribute("runs"));
-    	mNotOuts	= Integer.parseInt(aBatYS.getAttribute("notouts"));
 		
 		return (lRet);
 	}
