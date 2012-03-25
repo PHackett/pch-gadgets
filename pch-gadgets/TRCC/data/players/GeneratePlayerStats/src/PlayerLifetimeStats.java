@@ -72,7 +72,7 @@ public class PlayerLifetimeStats
 	 */
 	public boolean LoadFromURL ()
 	{
-		boolean lRet = false;
+		boolean lRet = true;
 		String	lURL = GetURLFragment ();
 		
 		try 
@@ -81,7 +81,8 @@ public class PlayerLifetimeStats
 			
 			if (!ParsePlayerYearStats (lDoc))
 			{
-				System.out.println ("ERROR: Failed to parse lifetime stats for player = '" + mName + "'");				
+				System.out.println ("ERROR: Failed to parse lifetime stats for player = '" + mName + "'");
+				lRet = false;
 			}
 		} 
 		catch (ParserConfigurationException e) 
