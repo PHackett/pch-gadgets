@@ -1,7 +1,24 @@
-<PlayerStats name="Tom Downes" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+<PlayerStats name="Tom Downes" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 9 00:00:00 UTC+0100 2006" oppo="Cookham Dean"/>
     </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="46.0" maidens="1" runs="265" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 18 00:00:00 UTC+0100 2011" oppo="Cranbourne"/>
+                <BowlingData overs="4.0" maidens="1" runs="12" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="49" notouts="1" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Tue Aug 30 00:00:00 UTC+0100 2011" oppo="Bathford"/>
+                <BattingData runs="26" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2010">
         <Bowling games="7" fiveplus="0">
@@ -11,7 +28,7 @@
                 <BowlingData overs="4.3" maidens="0" runs="20" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="6" runs="32" notouts="2" hundreds="0" fifties="0" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Jun 27 00:00:00 UTC+0100 2010" oppo="Warfield"/>
@@ -22,13 +39,13 @@
 
     <YearData year="2009">
         <Bowling games="8" fiveplus="0">
-            <BowlingData overs="40" maidens="5" runs="237" wickets="5"/>
+            <BowlingData overs="40.0" maidens="5" runs="237" wickets="5"/>
             <BowlingBest>
                 <MatchId date="Sun Jul 12 00:00:00 UTC+0100 2009" oppo="Woodcote"/>
                 <BowlingData overs="5.0" maidens="0" runs="24" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="6" runs="45" notouts="4" hundreds="0" fifties="0" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Aug 30 00:00:00 UTC+0100 2009" oppo="Twyford House"/>
@@ -45,7 +62,7 @@
                 <BowlingData overs="7.5" maidens="1" runs="30" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="8" runs="13" notouts="0" hundreds="0" fifties="0" ducks="4">
             <BattingBest>
                 <MatchId date="Sun May 11 00:00:00 UTC+0100 2008" oppo="Penn Street"/>
@@ -71,6 +88,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

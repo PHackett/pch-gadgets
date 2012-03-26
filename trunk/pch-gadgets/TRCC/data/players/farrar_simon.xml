@@ -1,7 +1,24 @@
-<PlayerStats name="Simon Farrar" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+<PlayerStats name="Simon Farrar" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 23 00:00:00 UTC+0100 2010" oppo="Freith"/>
     </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="9.0" maidens="0" runs="70" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Apr 30 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+                <BowlingData overs="3.0" maidens="0" runs="21" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="24" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
+                <BattingData runs="12" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2010">
         <Bowling games="2" fiveplus="0">
@@ -11,7 +28,7 @@
                 <BowlingData overs="2.0" maidens="0" runs="6" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="6" runs="31" notouts="3" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Sep 5 00:00:00 UTC+0100 2010" oppo="Yateley"/>
@@ -19,6 +36,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

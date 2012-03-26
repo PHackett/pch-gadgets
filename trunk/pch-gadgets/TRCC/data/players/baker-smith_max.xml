@@ -1,0 +1,14 @@
+<PlayerStats name="Max Baker-Smith" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 13 00:00:00 UTC+0100 2011" oppo="Purley 3"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Batting innings="2" runs="25" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 13 00:00:00 UTC+0100 2011" oppo="Purley 3"/>
+                <BattingData runs="20" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

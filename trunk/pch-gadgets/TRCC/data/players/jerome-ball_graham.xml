@@ -1,0 +1,14 @@
+<PlayerStats name="Graham Jerome-Ball" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 28 00:00:00 UTC+0100 2011" oppo="Stratfield 2"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 28 00:00:00 UTC+0100 2011" oppo="Stratfield 2"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

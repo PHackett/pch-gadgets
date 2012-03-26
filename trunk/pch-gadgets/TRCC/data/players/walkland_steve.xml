@@ -1,11 +1,32 @@
-<PlayerStats name="Steve Walkland" generated="Thu, 10 Feb 2011 20:35:17 UTC">
+<PlayerStats name="Steve Walkland" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 13 00:00:00 UTC+0100 2003" oppo="Woodcote"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="27.0" maidens="0" runs="101" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 11 00:00:00 UTC+0100 2011" oppo="Purley 3"/>
+                <BowlingData overs="6.0" maidens="0" runs="22" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="78" notouts="0" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 11 00:00:00 UTC+0100 2011" oppo="Lower Earley"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 11 00:00:00 UTC+0100 2011" oppo="Lower Earley"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="5" fiveplus="1">
-            <BowlingData overs="42" maidens="3" runs="155" wickets="14"/>
+            <BowlingData overs="42.0" maidens="3" runs="155" wickets="14"/>
             <BowlingBest>
                 <MatchId date="Sat Jul 17 00:00:00 UTC+0100 2010" oppo="Catcliffe Way"/>
                 <BowlingData overs="10.0" maidens="1" runs="23" wickets="6"/>
@@ -15,7 +36,7 @@
                 <BowlingData overs="10.0" maidens="1" runs="23" wickets="6"/>
             </BowlingHighlight>
         </Bowling>
-
+    
         <Batting innings="5" runs="126" notouts="2" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun May 16 00:00:00 UTC+0100 2010" oppo="Wooburn Narcovians"/>
@@ -26,13 +47,13 @@
 
     <YearData year="2009">
         <Bowling games="8" fiveplus="0">
-            <BowlingData overs="66" maidens="7" runs="243" wickets="15"/>
+            <BowlingData overs="66.0" maidens="7" runs="243" wickets="15"/>
             <BowlingBest>
                 <MatchId date="Sun May 3 00:00:00 UTC+0100 2009" oppo="Odney"/>
                 <BowlingData overs="7.0" maidens="0" runs="14" wickets="4"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="8" runs="244" notouts="3" hundreds="0" fifties="1" ducks="0">
             <BattingBest>
                 <MatchId date="Sat Jun 27 00:00:00 UTC+0100 2009" oppo="Mortimer"/>
@@ -57,7 +78,7 @@
                 <BowlingData overs="13.0" maidens="1" runs="38" wickets="5"/>
             </BowlingHighlight>
         </Bowling>
-
+    
         <Batting innings="6" runs="111" notouts="2" hundreds="0" fifties="1" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Jun 8 00:00:00 UTC+0100 2008" oppo="Greys Green"/>
@@ -72,7 +93,7 @@
 
     <YearData year="2007">
         <Bowling games="7" fiveplus="1">
-            <BowlingData overs="62" maidens="11" runs="209" wickets="13"/>
+            <BowlingData overs="62.0" maidens="11" runs="209" wickets="13"/>
             <BowlingBest>
                 <MatchId date="Sat Sep 1 00:00:00 UTC+0100 2007" oppo="Sulhampstead"/>
                 <BowlingData overs="10.0" maidens="2" runs="31" wickets="5"/>
@@ -82,7 +103,7 @@
                 <BowlingData overs="10.0" maidens="2" runs="31" wickets="5"/>
             </BowlingHighlight>
         </Bowling>
-
+    
         <Batting innings="6" runs="188" notouts="2" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sat Sep 1 00:00:00 UTC+0100 2007" oppo="Sulhampstead"/>
@@ -93,13 +114,13 @@
 
     <YearData year="2006">
         <Bowling games="10" fiveplus="0">
-            <BowlingData overs="94" maidens="13" runs="373" wickets="13"/>
+            <BowlingData overs="94.0" maidens="13" runs="373" wickets="13"/>
             <BowlingBest>
                 <MatchId date="Sun May 7 00:00:00 UTC+0100 2006" oppo="Odney"/>
                 <BowlingData overs="13.0" maidens="1" runs="31" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="7" runs="190" notouts="3" hundreds="0" fifties="1" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Jun 25 00:00:00 UTC+0100 2006" oppo="Penn Street"/>
@@ -114,13 +135,13 @@
 
     <YearData year="2005">
         <Bowling games="8" fiveplus="0">
-            <BowlingData overs="90" maidens="16" runs="310" wickets="12"/>
+            <BowlingData overs="90.0" maidens="16" runs="310" wickets="12"/>
             <BowlingBest>
                 <MatchId date="Sun May 22 00:00:00 UTC+0100 2005" oppo="Frimley"/>
                 <BowlingData overs="16.0" maidens="5" runs="41" wickets="4"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="5" runs="61" notouts="3" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sat May 7 00:00:00 UTC+0100 2005" oppo="West Reading"/>
@@ -131,13 +152,13 @@
 
     <YearData year="2004">
         <Bowling games="4" fiveplus="0">
-            <BowlingData overs="49" maidens="7" runs="240" wickets="5"/>
+            <BowlingData overs="49.0" maidens="7" runs="240" wickets="5"/>
             <BowlingBest>
                 <MatchId date="Sun Jul 11 00:00:00 UTC+0100 2004" oppo="Woodcote"/>
                 <BowlingData overs="15.0" maidens="2" runs="83" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="3" runs="41" notouts="2" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Jul 11 00:00:00 UTC+0100 2004" oppo="Woodcote"/>
@@ -148,7 +169,7 @@
 
     <YearData year="2003">
         <Bowling games="4" fiveplus="1">
-            <BowlingData overs="34" maidens="8" runs="109" wickets="8"/>
+            <BowlingData overs="34.0" maidens="8" runs="109" wickets="8"/>
             <BowlingBest>
                 <MatchId date="Sun Jul 27 00:00:00 UTC+0100 2003" oppo="Wargrave"/>
                 <BowlingData overs="8.0" maidens="1" runs="23" wickets="5"/>
@@ -158,7 +179,7 @@
                 <BowlingData overs="8.0" maidens="1" runs="23" wickets="5"/>
             </BowlingHighlight>
         </Bowling>
-
+    
         <Batting innings="4" runs="50" notouts="1" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Aug 3 00:00:00 UTC+0100 2003" oppo="Embrook"/>
@@ -166,6 +187,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

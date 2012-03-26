@@ -1,0 +1,30 @@
+<PlayerStats name="Oscar Woodbridge" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="14" fiveplus="0">
+            <BowlingData overs="81.0" maidens="8" runs="386" wickets="13"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 14 00:00:00 UTC+0100 2011" oppo="Eversley 2"/>
+                <BowlingData overs="7.0" maidens="0" runs="27" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="14" runs="378" notouts="3" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 3 00:00:00 UTC+0100 2011" oppo="Waltham St Lawrence"/>
+                <BattingData runs="85" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 13 00:00:00 UTC+0100 2011" oppo="Purley 3"/>
+                <BattingData runs="58" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 3 00:00:00 UTC+0100 2011" oppo="Waltham St Lawrence"/>
+                <BattingData runs="85" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>

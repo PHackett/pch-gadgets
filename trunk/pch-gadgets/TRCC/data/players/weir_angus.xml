@@ -1,17 +1,38 @@
-<PlayerStats name="Angus Weir" generated="Thu, 10 Feb 2011 20:35:18 UTC">
+<PlayerStats name="Angus Weir" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 26 00:00:00 UTC+0100 2009" oppo="Wargrave"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="7.0" maidens="0" runs="40" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat May 28 00:00:00 UTC+0100 2011" oppo="Stratfield 2"/>
+                <BowlingData overs="3.0" maidens="0" runs="3" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="143" notouts="0" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 2 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+                <BattingData runs="94" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 2 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+                <BattingData runs="94" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="2" fiveplus="0">
-            <BowlingData overs="5" maidens="0" runs="23" wickets="1"/>
+            <BowlingData overs="5.0" maidens="0" runs="23" wickets="1"/>
             <BowlingBest>
                 <MatchId date="Sun Sep 19 00:00:00 UTC+0100 2010" oppo="Cranbourne"/>
                 <BowlingData overs="3.0" maidens="0" runs="13" wickets="1"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="2" runs="11" notouts="0" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Sep 19 00:00:00 UTC+0100 2010" oppo="Cranbourne"/>
@@ -22,13 +43,13 @@
 
     <YearData year="2009">
         <Bowling games="3" fiveplus="0">
-            <BowlingData overs="24" maidens="1" runs="129" wickets="7"/>
+            <BowlingData overs="24.0" maidens="1" runs="129" wickets="7"/>
             <BowlingBest>
                 <MatchId date="Sun Aug 23 00:00:00 UTC+0100 2009" oppo="Falkland"/>
                 <BowlingData overs="10.0" maidens="1" runs="49" wickets="4"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="3" runs="48" notouts="0" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Jul 26 00:00:00 UTC+0100 2009" oppo="Wargrave"/>
@@ -36,6 +57,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

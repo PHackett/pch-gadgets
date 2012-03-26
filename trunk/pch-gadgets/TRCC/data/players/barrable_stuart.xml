@@ -1,17 +1,42 @@
-<PlayerStats name="Stuart Barrable" generated="Thu, 10 Feb 2011 20:35:07 UTC">
+<PlayerStats name="Stuart Barrable" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="18.0" maidens="2" runs="79" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat May 28 00:00:00 UTC+0100 2011" oppo="Stratfield 2"/>
+                <BowlingData overs="3.0" maidens="1" runs="12" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="13" runs="413" notouts="3" hundreds="1" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 2011" oppo="Stratfield2"/>
+                <BattingData runs="106" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 2011" oppo="Stratfield2"/>
+                <BattingData runs="106" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 24 00:00:00 UTC+0100 2011" oppo="Wargrave"/>
+                <BattingData runs="76" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="2" fiveplus="0">
-            <BowlingData overs="7" maidens="1" runs="25" wickets="0"/>
+            <BowlingData overs="7.0" maidens="1" runs="25" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sun Sep 12 00:00:00 UTC+0100 2010" oppo="Lower Earley"/>
                 <BowlingData overs="4.0" maidens="1" runs="12" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="12" runs="179" notouts="0" hundreds="0" fifties="1" ducks="3">
             <BattingBest>
                 <MatchId date="Sun Jun 13 00:00:00 UTC+0100 2010" oppo="Wokingham 2nd"/>
@@ -32,7 +57,7 @@
                 <BowlingData overs="3.2" maidens="0" runs="3" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="4" runs="35" notouts="1" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Aug 2 00:00:00 UTC+0100 2009" oppo="Theale and Tilehurst"/>
@@ -40,6 +65,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

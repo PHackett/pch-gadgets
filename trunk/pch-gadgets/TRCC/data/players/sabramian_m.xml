@@ -1,0 +1,22 @@
+<PlayerStats name="M Sabramian" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 2 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="3.0" maidens="1" runs="8" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 2 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+                <BowlingData overs="3.0" maidens="1" runs="8" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="1" runs="25" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 2 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+                <BattingData runs="25" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

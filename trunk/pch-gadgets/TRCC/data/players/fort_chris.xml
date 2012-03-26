@@ -1,17 +1,34 @@
-<PlayerStats name="Chris Fort" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+<PlayerStats name="Chris Fort" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="38.0" maidens="1" runs="238" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 26 00:00:00 UTC+0100 2011" oppo="Warfield"/>
+                <BowlingData overs="6.0" maidens="0" runs="21" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="13" runs="102" notouts="3" hundreds="0" fifties="0" ducks="6">
+            <BattingBest>
+                <MatchId date="Sun Sep 11 00:00:00 UTC+0100 2011" oppo="Lower Earley"/>
+                <BattingData runs="33" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="10" fiveplus="0">
-            <BowlingData overs="49" maidens="0" runs="292" wickets="7"/>
+            <BowlingData overs="49.0" maidens="0" runs="292" wickets="7"/>
             <BowlingBest>
                 <MatchId date="Sun May 9 00:00:00 UTC+0100 2010" oppo="Penn Street"/>
                 <BowlingData overs="6.0" maidens="0" runs="30" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="18" runs="127" notouts="3" hundreds="0" fifties="0" ducks="3">
             <BattingBest>
                 <MatchId date="Sun Jun 27 00:00:00 UTC+0100 2010" oppo="Warfield"/>
@@ -32,7 +49,7 @@
                 <BowlingData overs="11.2" maidens="2" runs="43" wickets="7"/>
             </BowlingHighlight>
         </Bowling>
-
+    
         <Batting innings="21" runs="188" notouts="5" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sat Aug 8 00:00:00 UTC+0100 2009" oppo="Knowl Hill"/>
@@ -43,13 +60,13 @@
 
     <YearData year="2008">
         <Bowling games="12" fiveplus="0">
-            <BowlingData overs="67" maidens="3" runs="398" wickets="17"/>
+            <BowlingData overs="67.0" maidens="3" runs="398" wickets="17"/>
             <BowlingBest>
                 <MatchId date="Sun May 18 00:00:00 UTC+0100 2008" oppo="Wooburn Narkovians"/>
                 <BowlingData overs="9.0" maidens="0" runs="38" wickets="4"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="17" runs="49" notouts="5" hundreds="0" fifties="0" ducks="7">
             <BattingBest>
                 <MatchId date="Sun Jul 20 00:00:00 UTC+0100 2008" oppo="Moulsford"/>
@@ -60,13 +77,13 @@
 
     <YearData year="2007">
         <Bowling games="6" fiveplus="0">
-            <BowlingData overs="28" maidens="0" runs="178" wickets="3"/>
+            <BowlingData overs="28.0" maidens="0" runs="178" wickets="3"/>
             <BowlingBest>
                 <MatchId date="Sun Sep 16 00:00:00 UTC+0100 2007" oppo="Lower Earley"/>
                 <BowlingData overs="5.0" maidens="0" runs="20" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="7" runs="17" notouts="2" hundreds="0" fifties="0" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Sep 9 00:00:00 UTC+0100 2007" oppo="Embrook and Bearwood"/>
@@ -95,13 +112,13 @@
 
     <YearData year="2001">
         <Bowling games="2" fiveplus="0">
-            <BowlingData overs="7" maidens="0" runs="71" wickets="0"/>
+            <BowlingData overs="7.0" maidens="0" runs="71" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sun May 27 00:00:00 UTC+0100 2001" oppo="Cookham Dean"/>
                 <BowlingData overs="3.0" maidens="0" runs="19" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="3" runs="3" notouts="1" hundreds="0" fifties="0" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Sep 23 00:00:00 UTC+0100 2001" oppo="Cranbourne"/>
@@ -112,7 +129,7 @@
 
     <YearData year="2000">
         <Bowling games="1" fiveplus="0">
-            <BowlingData overs="7" maidens="0" runs="42" wickets="0"/>
+            <BowlingData overs="7.0" maidens="0" runs="42" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sun Aug 6 00:00:00 UTC+0100 2000" oppo="Hambleden"/>
                 <BowlingData overs="7.0" maidens="0" runs="42" wickets="0"/>
@@ -122,13 +139,13 @@
 
     <YearData year="1999">
         <Bowling games="8" fiveplus="0">
-            <BowlingData overs="31" maidens="2" runs="164" wickets="5"/>
+            <BowlingData overs="31.0" maidens="2" runs="164" wickets="5"/>
             <BowlingBest>
                 <MatchId date="Sun May 30 00:00:00 UTC+0100 1999" oppo="Hawley"/>
                 <BowlingData overs="5.0" maidens="2" runs="12" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="9" runs="14" notouts="2" hundreds="0" fifties="0" ducks="5">
             <BattingBest>
                 <MatchId date="Sun Jun 20 00:00:00 UTC+0100 1999" oppo="Farley Hill"/>
@@ -139,13 +156,13 @@
 
     <YearData year="1998">
         <Bowling games="7" fiveplus="0">
-            <BowlingData overs="32" maidens="1" runs="123" wickets="4"/>
+            <BowlingData overs="32.0" maidens="1" runs="123" wickets="4"/>
             <BowlingBest>
                 <MatchId date="Sun May 10 00:00:00 UTC+0100 1998" oppo="Oddfellows"/>
                 <BowlingData overs="4.0" maidens="0" runs="16" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="2" runs="0" notouts="0" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Sep 13 00:00:00 UTC+0100 1998" oppo="Woodcote"/>
@@ -156,13 +173,13 @@
 
     <YearData year="1997">
         <Bowling games="3" fiveplus="0">
-            <BowlingData overs="7" maidens="0" runs="36" wickets="1"/>
+            <BowlingData overs="7.0" maidens="0" runs="36" wickets="1"/>
             <BowlingBest>
                 <MatchId date="Sun Sep 21 00:00:00 UTC+0100 1997" oppo="Datchet"/>
                 <BowlingData overs="3.0" maidens="0" runs="17" wickets="1"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="4" runs="4" notouts="2" hundreds="0" fifties="0" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Aug 31 00:00:00 UTC+0100 1997" oppo="Crowthorne"/>
@@ -176,10 +193,10 @@
             <BowlingData overs="0.3" maidens="0" runs="6" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sun May 19 00:00:00 UTC+0100 1996" oppo="Eton Cavaliers"/>
-                <BowlingData overs=".3" maidens="0" runs="6" wickets="0"/>
+                <BowlingData overs="0.3" maidens="0" runs="6" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="5" runs="2" notouts="0" hundreds="0" fifties="0" ducks="4">
             <BattingBest>
                 <MatchId date="Sun May 12 00:00:00 UTC+0100 1996" oppo="Cookham"/>
@@ -203,8 +220,7 @@
 
     <BowlingStats1969to1997>
         <Bowling games="0" fiveplus="0">
-            <BowlingData overs="8" maidens="0" runs="42" wickets="1"/>
+            <BowlingData overs="8.0" maidens="0" runs="42" wickets="1"/>
         </Bowling>
     </BowlingStats1969to1997>
 </PlayerStats>
-
