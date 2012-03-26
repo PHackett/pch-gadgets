@@ -67,7 +67,8 @@ public class PlayerYearStats
 		mBattingHighlights		= new ArrayList<BattingMatchData> ();
 	}
 
-	String	Name ()			{ return (mName);		}
+	String	Name ()				{ return (mName);		}
+	MatchID	FirstRecordedGame()	{ return (mFirstRecordedGame);	}
 
 	
 	public boolean AddBowlingSummary (MatchID aMID, BowlerGameSummary aBGS)
@@ -116,6 +117,8 @@ public class PlayerYearStats
 	{
 		boolean lRet=true;
 		
+		// System.out.println ("DEBUG: Processing BatterGameSummary for player '" + mName + "'");
+		
 		//
 		// Is this the earliest game recorded in this year for this player?
 		//
@@ -146,7 +149,7 @@ public class PlayerYearStats
 			{
 				mBatterSummary.IncFifties();
 			}
-			else if (0 == aBGS.Runs())
+			else if (0 == aBGS.Runs() && !aBGS.NotOut())
 			{
 				mBatterSummary.IncDucks();
 			}
@@ -183,7 +186,7 @@ public class PlayerYearStats
 	{
 		boolean 	lRet = true;
 		
-		System.out.println ("DEBUG: Parsing lifetime stats data for year " + mYear);
+		// System.out.println ("DEBUG: Parsing lifetime stats data for year " + mYear);
 		
 		//
 		// Process the Batting data
@@ -286,7 +289,7 @@ public class PlayerYearStats
 
         if (lBMH.getLength() == 0)
         {
-        	System.out.println ("DEBUG: We have " + lBMH.getLength() + " 'BowlingHightlight' records for '" + mName + "' in year " + mYear);
+        	// System.out.println ("DEBUG: We have " + lBMH.getLength() + " 'BowlingHightlight' records for '" + mName + "' in year " + mYear);
         }
         else
         {
