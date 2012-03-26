@@ -45,9 +45,13 @@ import org.xml.sax.SAXException;
 public class GeneratePlayerStats 
 {
 	public static final String	sRootURL = "http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/data/";
+	
+	/**
+	 * These are the big two - The year for which you want to add the statistics to the 
+	 * player lifetime, and where the output files should be written
+	 */
+	private static int 			sYear    = 2011;
 	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime";
-
-	private static int 			sYear = 2010;
 	
 	/**
 	 * @param args
@@ -175,9 +179,11 @@ public class GeneratePlayerStats
 	private static boolean ProcessTrccBatterSummary (MatchID aMID, BatterGameSummary aBGS)
 	{
 		boolean 	lRet=false;
-		PlayerYearStats lPS=PlayerYearStats.GetPlayerStats (aBGS.GetName(), sYear);
+		PlayerYearStats lPYS=PlayerYearStats.GetPlayerStats (aBGS.GetName(), sYear);
 
-		lRet = lPS.AddBattingSummary (aMID, aBGS);
+		// System.out.println ("DEBUG: Processing TRCC Batter information for '" + aBGS.GetName());
+		
+		lRet = lPYS.AddBattingSummary (aMID, aBGS);
 				
 		return (lRet);
 	}
@@ -500,9 +506,9 @@ public class GeneratePlayerStats
 
 		System.out.println ("INFO: Processed a total of " + PlayerYearStats.GetStats().size() + " players for year " + sYear);
 		
-		for (PlayerYearStats lPS : PlayerYearStats.GetStats().values())
+		for (PlayerYearStats lPYS : PlayerYearStats.GetStats().values())
 		{
-			System.out.println (lPS.toXML("    "));
+			// System.out.println (lPYS.toXML("    "));
 		}
 		
 		return (lRet);
@@ -515,6 +521,18 @@ public class GeneratePlayerStats
 		//
 		// TODO
 		//
+		
+		for (PlayerYearStats lPYS : PlayerYearStats.GetStats().values())
+		{
+			//
+			// Get the matching entry from the playerLifetieStats
+			//
+			if (!PlayerLifetimeStats.GetStats().get(lPYS.Name()).Replace(sYear, lPYS))
+			{
+				System.out.println ("ERROR: Failed to replace year stats for '" + lPYS.Name() + "'");					
+				lRet = false;
+			}
+		}
 		
 		return (lRet);
 	}

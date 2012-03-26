@@ -66,6 +66,28 @@ public class PlayerLifetimeStats
 
 	
 	/**
+	 * Replace the entry for the year aYear
+	 *  
+	 * @param aYear
+	 * @param aPLS
+	 * @return
+	 */
+	public boolean Replace (int aYear, PlayerYearStats aPLS)
+	{
+		boolean lRet = true;
+		Integer	lYear = new Integer(aYear);
+		
+		if (mPlayerStatsDB.containsKey(lYear))
+		{
+			mPlayerStatsDB.remove(lYear);
+		}
+		
+		mPlayerStatsDB.put(lYear, aPLS);
+		
+		return (lRet);
+	}
+	
+	/**
 	 * Load the Player Year Stats from the XML online
 	 * 
 	 * @return
@@ -230,6 +252,23 @@ public class PlayerLifetimeStats
 		
 		lRet += "<PlayerStats name=\"" + mName + "\" generated=\"" + lDF.format(lDate) + "\">"	+ "\n";
 
+		if (null == mFirstRecordedGame)
+		{
+			//
+			// This should only be the case for new players for whom there was not an 
+			// existing PlayerLifetimeStats XML file on the web. Thus we should have just 
+			// a single year of data available for this player 
+			//
+			if (1 != mPlayerStatsDB.size())
+			{
+				System.out.println ("ERROR: (New) Player '" + mName + "' has " + mPlayerStatsDB.size() + " years of data!");				
+			}
+			else
+			{
+				mFirstRecordedGame = mPlayerStatsDB.firstEntry().getValue().FirstRecordedGame();
+			}
+		}
+		
 		if (null == mFirstRecordedGame)
 		{
 			System.out.println ("ERROR: No FirstRecordedGame data for player '" + mName + "'");			
