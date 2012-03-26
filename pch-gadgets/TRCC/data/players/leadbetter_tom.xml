@@ -1,17 +1,34 @@
-<PlayerStats name="Tom Leadbetter" generated="Thu, 10 Feb 2011 20:35:15 UTC">
+<PlayerStats name="Tom Leadbetter" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 19 00:00:00 UTC+0100 2006" oppo="Sonning 3rds"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="6.5" maidens="0" runs="75" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 31 00:00:00 UTC+0100 2011" oppo="Theale and Tilehurst"/>
+                <BowlingData overs="2.0" maidens="0" runs="5" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="3" runs="6" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 19 00:00:00 UTC+0100 2011" oppo="Waltham St Lawrence"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="3" fiveplus="0">
-            <BowlingData overs="7" maidens="0" runs="50" wickets="1"/>
+            <BowlingData overs="7.0" maidens="0" runs="50" wickets="1"/>
             <BowlingBest>
                 <MatchId date="Sun Apr 18 00:00:00 UTC+0100 2010" oppo="Big Hammer"/>
                 <BowlingData overs="4.0" maidens="0" runs="29" wickets="1"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="3" runs="0" notouts="3" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Jun 6 00:00:00 UTC+0100 2010" oppo="Greys Green"/>
@@ -28,7 +45,7 @@
                 <BowlingData overs="3.0" maidens="0" runs="18" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="5" runs="10" notouts="2" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Sep 20 00:00:00 UTC+0100 2009" oppo="Cranbourne"/>
@@ -45,7 +62,7 @@
                 <BowlingData overs="1.2" maidens="0" runs="12" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="6" runs="5" notouts="2" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2008" oppo="Yateley"/>
@@ -68,10 +85,10 @@
             <BowlingData overs="0.3" maidens="0" runs="5" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2006" oppo="Newbury 3rds"/>
-                <BowlingData overs=".3" maidens="0" runs="5" wickets="0"/>
+                <BowlingData overs="0.3" maidens="0" runs="5" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="2" runs="0" notouts="0" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2006" oppo="Newbury 3rds"/>
@@ -79,6 +96,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

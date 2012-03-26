@@ -1,0 +1,15 @@
+<PlayerStats name="Matt Sellwood" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 15 00:00:00 UTC+0100 2011" oppo="Wooburn Narcovians"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="7.0" maidens="0" runs="74" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun May 29 00:00:00 UTC+0100 2011" oppo="Crowthorne"/>
+                <BowlingData overs="4.0" maidens="0" runs="29" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+</PlayerStats>

@@ -1,17 +1,34 @@
-<PlayerStats name="Tim Hogarth" generated="Thu, 10 Feb 2011 20:35:14 UTC">
+<PlayerStats name="Tim Hogarth" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1999" oppo="Odney"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="7.0" maidens="0" runs="46" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Apr 17 00:00:00 UTC+0100 2011" oppo="Big Hammer"/>
+                <BowlingData overs="3.0" maidens="0" runs="9" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="15" runs="106" notouts="2" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sat May 7 00:00:00 UTC+0100 2011" oppo="WSL 2"/>
+                <BattingData runs="31" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="1" fiveplus="0">
-            <BowlingData overs="3" maidens="1" runs="10" wickets="0"/>
+            <BowlingData overs="3.0" maidens="1" runs="10" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sat Jun 5 00:00:00 UTC+0100 2010" oppo="Waltham St Lawrence 2"/>
                 <BowlingData overs="3.0" maidens="1" runs="10" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="14" runs="275" notouts="2" hundreds="0" fifties="1" ducks="0">
             <BattingBest>
                 <MatchId date="Tue Aug 31 00:00:00 UTC+0100 2010" oppo="Bathford"/>
@@ -26,13 +43,13 @@
 
     <YearData year="2009">
         <Bowling games="2" fiveplus="0">
-            <BowlingData overs="5" maidens="0" runs="23" wickets="0"/>
+            <BowlingData overs="5.0" maidens="0" runs="23" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sat May 2 00:00:00 UTC+0100 2009" oppo="Waltham 2"/>
                 <BowlingData overs="2.0" maidens="0" runs="6" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="14" runs="283" notouts="1" hundreds="0" fifties="2" ducks="0">
             <BattingBest>
                 <MatchId date="Sat May 23 00:00:00 UTC+0100 2009" oppo="Grouse and Label 2"/>
@@ -60,13 +77,13 @@
 
     <YearData year="2007">
         <Bowling games="6" fiveplus="0">
-            <BowlingData overs="27" maidens="5" runs="108" wickets="3"/>
+            <BowlingData overs="27.0" maidens="5" runs="108" wickets="3"/>
             <BowlingBest>
                 <MatchId date="Sat Jun 2 00:00:00 UTC+0100 2007" oppo="Crown Wood"/>
                 <BowlingData overs="4.0" maidens="0" runs="18" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="13" runs="65" notouts="0" hundreds="0" fifties="0" ducks="4">
             <BattingBest>
                 <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2007" oppo="Hawley"/>
@@ -77,13 +94,13 @@
 
     <YearData year="2006">
         <Bowling games="6" fiveplus="0">
-            <BowlingData overs="27" maidens="2" runs="127" wickets="7"/>
+            <BowlingData overs="27.0" maidens="2" runs="127" wickets="7"/>
             <BowlingBest>
                 <MatchId date="Sat Aug 5 00:00:00 UTC+0100 2006" oppo="Welford Park"/>
                 <BowlingData overs="3.0" maidens="0" runs="11" wickets="2"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="14" runs="213" notouts="2" hundreds="0" fifties="2" ducks="1">
             <BattingBest>
                 <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2006" oppo="Purley "/>
@@ -115,13 +132,13 @@
 
     <YearData year="2000">
         <Bowling games="15" fiveplus="0">
-            <BowlingData overs="73" maidens="7" runs="329" wickets="14"/>
+            <BowlingData overs="73.0" maidens="7" runs="329" wickets="14"/>
             <BowlingBest>
                 <MatchId date="Sun May 7 00:00:00 UTC+0100 2000" oppo="Odney"/>
                 <BowlingData overs="5.0" maidens="0" runs="25" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="13" runs="96" notouts="2" hundreds="0" fifties="1" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Aug 20 00:00:00 UTC+0100 2000" oppo="Sandhurst"/>
@@ -142,7 +159,7 @@
                 <BowlingData overs="3.5" maidens="1" runs="2" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="11" runs="87" notouts="1" hundreds="0" fifties="0" ducks="4">
             <BattingBest>
                 <MatchId date="Sun May 9 00:00:00 UTC+0100 1999" oppo="Oddfellows"/>
@@ -150,6 +167,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

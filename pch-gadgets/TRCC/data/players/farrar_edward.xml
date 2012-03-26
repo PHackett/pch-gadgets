@@ -1,17 +1,34 @@
-<PlayerStats name="Edward Farrar" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+<PlayerStats name="Edward Farrar" generated="Mon, 26 Mar 2012 20:35:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 4 00:00:00 UTC+0100 2010" oppo="Harpsden"/>
     </FirstRecordedGame>
 
+    <YearData year="2011">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="13.0" maidens="0" runs="74" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Tue Aug 30 00:00:00 UTC+0100 2011" oppo="Bathford"/>
+                <BowlingData overs="4.0" maidens="0" runs="27" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="0" notouts="0" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sat Apr 30 00:00:00 UTC+0100 2011" oppo="Knowl Hill"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
     <YearData year="2010">
         <Bowling games="4" fiveplus="0">
-            <BowlingData overs="9" maidens="0" runs="62" wickets="1"/>
+            <BowlingData overs="9.0" maidens="0" runs="62" wickets="1"/>
             <BowlingBest>
                 <MatchId date="Sun Aug 1 00:00:00 UTC+0100 2010" oppo="Theale and Tilehurst"/>
                 <BowlingData overs="3.0" maidens="0" runs="31" wickets="1"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="4" runs="0" notouts="2" hundreds="0" fifties="0" ducks="2">
             <BattingBest>
                 <MatchId date="Sun Aug 1 00:00:00 UTC+0100 2010" oppo="Theale and Tilehurst"/>
@@ -19,6 +36,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

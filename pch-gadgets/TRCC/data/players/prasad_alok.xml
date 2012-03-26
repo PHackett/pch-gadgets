@@ -1,0 +1,14 @@
+<PlayerStats name="Alok Prasad" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

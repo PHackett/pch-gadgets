@@ -1,0 +1,22 @@
+<PlayerStats name="Rajeeve Narula" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 8 00:00:00 UTC+0100 2011" oppo="Penn Street"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="16.0" maidens="0" runs="133" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 31 00:00:00 UTC+0100 2011" oppo="Theale and Tilehurst"/>
+                <BowlingData overs="5.0" maidens="0" runs="27" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="3" runs="18" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 31 00:00:00 UTC+0100 2011" oppo="Theale and Tilehurst"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

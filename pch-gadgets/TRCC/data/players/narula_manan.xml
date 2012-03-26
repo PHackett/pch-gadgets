@@ -1,0 +1,22 @@
+<PlayerStats name="Manan Narula" generated="Mon, 26 Mar 2012 20:35:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 29 00:00:00 UTC+0100 2011" oppo="Crowthorne"/>
+    </FirstRecordedGame>
+
+    <YearData year="2011">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="10.5" maidens="0" runs="95" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun May 29 00:00:00 UTC+0100 2011" oppo="Crowthorne"/>
+                <BowlingData overs="5.0" maidens="0" runs="34" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="107" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 31 00:00:00 UTC+0100 2011" oppo="Theale and Tilehurst"/>
+                <BattingData runs="47" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>
