@@ -10,6 +10,7 @@
         "Rain"
         "Abandonned"
         "NP"
+		"NotYetPlayed"
         "Cancelled"
 -->
 
@@ -19,7 +20,7 @@
   <Date>Sun, 28 Apr 2012 12:00:00 UTC</Date>
   <Opposition>Stonor</Opposition>
   <Time>14:00</Time>
-  <Venue>Away</Venue>
+  <Venue>Rain</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
