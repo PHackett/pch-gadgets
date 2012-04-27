@@ -10,6 +10,7 @@
  	"Rain"
  	"Abandonned"
  	"NP"
+	"NotYetPlayed"
  	"Cancelled"
 -->
 
@@ -20,7 +21,7 @@
     <Opposition>Farley Hill</Opposition>
     <Time>17:30</Time>
     <Venue>Away</Venue>
-    <Result>NP</Result>
+    <Result>NotYetPlayed</Result>
   </Fixture>
 
   <Fixture>
@@ -28,7 +29,7 @@
     <Opposition>Farley Hill</Opposition>
     <Time>18:00</Time>
     <Venue>Away</Venue>
-    <Result>NP</Result>
+    <Result>NotYetPlayed</Result>
   </Fixture>
 
   <Fixture>
@@ -36,7 +37,7 @@
     <Opposition>Farley Hill</Opposition>
     <Time>18:00</Time>
     <Venue>Away</Venue>
-    <Result>NP</Result>
+    <Result>NotYetPlayed</Result>
   </Fixture>
 
 </YearsFixtures>
