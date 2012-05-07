@@ -181,6 +181,7 @@
     <Player surname="Houghton" firstname="M"/>
     <Player surname="Houlton" firstname="Mick" firstseason="1979" lastseason="1983" catches="118" mostcatchesseason="21"/>
     <Player surname="Howard" firstname="Simon" firstseason="1992" lastseason="1992" catches="2" mostcatchesseason="2"/>
+    <Player surname="Howard-Jones" firstname="Will"/>
     <Player surname="Howells" firstname="John" firstseason="1981" lastseason="1987" catches="22" mostcatchesseason="4"/>
     <Player surname="Howells" firstname="Paul" firstseason="1979" lastseason="1992" catches="68" mostcatchesseason="12"/>
     <Player surname="Hoy" firstname="Phillip"/>
@@ -411,4 +412,6 @@
     <Player surname="Young" firstname="Sam"/>
     
     <!-- Z -->
+    <Player surname="Zahid" firstname="Mustafa"/>
+    <Player surname="Zahid" firstname="Waheed"/>
 </Rollcall>
