@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 21 2012 21:33:56 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Wooburn Narkovians" date="Sun May 20 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Kayne"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Waheed Zahid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kayne"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Green"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Green"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barker"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Adam Smith" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barker"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mustafa Zahid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Taylor"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="4" score="114"/>
+    <FallOfWicket batsman="5" score="141"/>
+    <FallOfWicket batsman="3" score="145"/>
+    <FallOfWicket batsman="6" score="156"/>
+    <FallOfWicket batsman="7" score="172"/>
+    <FallOfWicket batsman="8" score="190"/>
+    <BowlerSummary name="Kayne" overs="8" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="Gerish" overs="8" maidens="1" runs="50" wickets="1"/>
+    <BowlerSummary name="Wheeler" overs="8" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Adams" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Green" overs="5" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Barker" overs="4" maidens="1" runs="8" wickets="2"/>
+    <BowlerSummary name="Taylor" overs="2" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+  <Innings batting="Wooburn Narkovians">
+    <Batsman name="D Rogers">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="K Dolan">
+      <HowOut how="Stumped"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="R Wheeler">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Small">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="A Adams">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Barker">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="N Green">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="76"/>
+    <FallOfWicket batsman="3" score="89"/>
+    <FallOfWicket batsman="2" score="148"/>
+    <FallOfWicket batsman="5" score="154"/>
+    <FallOfWicket batsman="4" score="198"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="3" runs="21" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Mustafa Zahid" overs="5.3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
