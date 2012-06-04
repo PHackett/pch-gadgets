@@ -88,7 +88,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Mustafa Zahid"/>
-    <Batsman name="Simon Farrar"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Edward Farrar"/>
     <Batsman name="Paul Hackett"/>
     <Extras value="17"/>
