@@ -104,8 +104,9 @@
   <Opposition>Warfield</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Win</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sun, 8 Jul 2012 12:00:00 UTC</Date>
