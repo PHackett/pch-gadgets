@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 16 2012 19:13:28 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 15 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="Gordon">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="J P">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Fuller">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Strokes">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Aldridge">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Pearson">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Worsfold">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Brown"/>
+    <Batsman name="Edward Farrah"/>
+    <Batsman name="Mattimore"/>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="6"/>
+    <FallOfWicket batsman="4" score="86"/>
+    <FallOfWicket batsman="2" score="124"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <FallOfWicket batsman="5" score="195"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="3" runs="29" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="5" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Mustafa Zahid" overs="7" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="Waheed Zahid" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Mattimore"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Waheed Zahid">
+      <HowOut how="Caught"/>
+      <Bowler name="M Pearson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Pearson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Brown"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="R Brown"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Mustafa Zahid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Edward Farrah"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="Worsfold"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="5" score="48"/>
+    <FallOfWicket batsman="6" score="48"/>
+    <FallOfWicket batsman="4" score="85"/>
+    <FallOfWicket batsman="8" score="86"/>
+    <FallOfWicket batsman="6" score="89"/>
+    <FallOfWicket batsman="9" score="91"/>
+    <FallOfWicket batsman="11" score="94"/>
+    <BowlerSummary name="M Pearson" overs="7" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="Mattimore" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="R Brown" overs="8" maidens="3" runs="26" wickets="2"/>
+    <BowlerSummary name="Worsfold" overs="6.3" maidens="2" runs="15" wickets="4"/>
+    <BowlerSummary name="Edward Farrah" overs="2" maidens="1" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
