@@ -121,8 +121,9 @@
   <Opposition>Woodcote</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Lose</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sun, 22 Jul 2012 12:00:00 UTC</Date>
