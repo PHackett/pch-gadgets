@@ -69,7 +69,7 @@
   <Opposition>Sulhampstead</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
@@ -85,7 +85,7 @@
   <Opposition>Warfield</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
@@ -93,7 +93,7 @@
   <Opposition>Sandhurst 2</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Rain</Result>
 </Fixture>
 
 <Fixture>
@@ -101,7 +101,7 @@
   <Opposition>Ruislip Victoria</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Rain</Result>
 </Fixture>
 
 <Fixture>
