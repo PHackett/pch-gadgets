@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 31 2012 19:54:24 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Waltham St Lawrence 2" date="Sun Jul 22 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Waltham St Lawrence 2">
+    <Batsman name="S Nock">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="W Staig">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="J Duffy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="D Owen">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Davies">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="C Staig">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="L Duffy">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="J Worth">
+      <HowOut how="LBW"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Hartland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Herbert">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="0" runs="31" wickets="4"/>
+    <BowlerSummary name="Adam Smith" overs="6" maidens="1" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Herbert"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="LBW"/>
+      <Bowler name="C Herbert"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Duffy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Simon Farrar"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="1" score="99"/>
+    <FallOfWicket batsman="5" score="101"/>
+    <BowlerSummary name="A Hartland" overs="8" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="C Herbert" overs="8" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="J Duffy" overs="5" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="C Staig" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="W Staig" overs="6" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
