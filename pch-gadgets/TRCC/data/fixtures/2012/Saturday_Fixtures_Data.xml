@@ -117,7 +117,7 @@
   <Opposition>Hawley</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
@@ -125,7 +125,7 @@
   <Opposition>Sonning 3</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
@@ -133,7 +133,7 @@
   <Opposition>Waltham S L 2</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
 </Fixture>
 
 <Fixture>
@@ -141,7 +141,7 @@
   <Opposition>Sulhampstead 2</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
