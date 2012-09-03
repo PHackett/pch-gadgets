@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 03 2012 19:15:54 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Chew Magna" date="Sun Aug 26 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Chew Magna">
+    <Batsman name="S DustMason">
+      <HowOut how="Caught Graham Burgess"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="C Thompson">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="K Monair">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="E Stowell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Witcombe">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="M Scoble">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="I Locke">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A DustMason">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Tanner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Thomas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J ThursbyPelham">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Luke Fuller" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A DustMason"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="I Locke"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Thompson"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Caught"/>
+      <Bowler name="A Thomas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nigel Sherratt">
+      <HowOut how="Caught"/>
+      <Bowler name="I Locke"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Locke"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Monair"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Locke"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="K Monair"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="2" score="93"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="8" score="97"/>
+    <FallOfWicket batsman="7" score="97"/>
+    <FallOfWicket batsman="10" score="97"/>
+    <FallOfWicket batsman="11" score="109"/>
+    <BowlerSummary name="M Tanner" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="A DustMason" overs="6" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="A Thomas" overs="4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="C Thompson" overs="5" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="E Stowell" overs="4" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="I Locke" overs="5" maidens="3" runs="13" wickets="4"/>
+    <BowlerSummary name="K Monair" overs="4" maidens="0" runs="7" wickets="2"/>
+  </Innings>
+</CricketMatch>

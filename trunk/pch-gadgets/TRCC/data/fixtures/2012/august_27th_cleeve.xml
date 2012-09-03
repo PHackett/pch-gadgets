@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 03 2012 19:21:44 GMT+0100 (BST) -->
+<!-- Result = Abandonned -->
+<CricketMatch oppo="Cleeve" date="Mon Aug 27 2012 00:00:00 GMT+0100 (BST)" notforstats="true">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="2"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Want"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Want"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="54"/>
+    <BowlerSummary name="2" overs="2" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="6" overs="0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Cole" overs="2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="2" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Luke Fuller" overs="1" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="Want" overs="2" maidens="0" runs="2" wickets="2"/>
+  </Innings>
+  <Innings batting="Cleeve">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
