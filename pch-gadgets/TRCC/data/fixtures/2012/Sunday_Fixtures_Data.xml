@@ -172,23 +172,25 @@
   <Opposition>Chew Magna</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Lose</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Mon, 27 Aug 2012 12:00:00 UTC</Date>
   <Opposition>Cleeve</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Abandonned</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Tue, 28 Aug 2012 12:00:00 UTC</Date>
   <Opposition>Bathford</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 
 <Fixture>
@@ -196,8 +198,9 @@
   <Opposition>Eversley</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Win</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sun, 9 Sep 2012 12:00:00 UTC</Date>

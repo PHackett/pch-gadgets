@@ -39,7 +39,7 @@
       <Bowler name="Mahmood"/>
       <Runs value="13"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="Travers"/>
       <Runs value="6"/>
