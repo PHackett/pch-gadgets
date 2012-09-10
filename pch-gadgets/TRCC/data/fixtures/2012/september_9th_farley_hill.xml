@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 10 2012 19:29:25 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Farley Hill" date="Sun Sep 09 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="S Longfield">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="P Holland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Jalil">
+      <HowOut how="Run Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Ad">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="K Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Dudding">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A Malik">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Paulley">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="B Jones"/>
+    <Batsman name="M Harvey"/>
+    <Batsman name="P Shaw"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="1" score="64"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <FallOfWicket batsman="5" score="152"/>
+    <FallOfWicket batsman="3" score="152"/>
+    <FallOfWicket batsman="7" score="160"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="8" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Mustafa Zahid" overs="8" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="B Jones"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Waheed Zahid">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Shaw"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Shaw"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Shaw"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Malik"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="A Jalil"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Mustafa Zahid">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Jalil"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="44"/>
+    <FallOfWicket batsman="3" score="53"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <FallOfWicket batsman="5" score="97"/>
+    <FallOfWicket batsman="1" score="99"/>
+    <FallOfWicket batsman="6" score="141"/>
+    <FallOfWicket batsman="7" score="150"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <BowlerSummary name="P Shaw" overs="8" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="M Harvey" overs="8" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="B Jones" overs="8" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="A Malik" overs="8" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="A Jalil" overs="7" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="K Ali" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="P Holland" overs="1" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
