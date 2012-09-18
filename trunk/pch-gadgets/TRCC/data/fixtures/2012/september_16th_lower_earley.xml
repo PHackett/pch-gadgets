@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Sep 18 2012 20:35:47 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 16 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Lower Earley">
+    <Batsman name="I Hussein">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="O Neal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Ogrady">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mustafa Zahid"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mustafa Zahid"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Y Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Davison"/>
+    <Batsman name="G Hunt"/>
+    <Batsman name="R Karamat"/>
+    <Batsman name="O Prakash"/>
+    <Extras value="33"/>
+    <BowlerSummary name="Paul Hackett" overs="13" maidens="1" runs="65" wickets="2"/>
+    <BowlerSummary name="Mustafa Zahid" overs="14" maidens="0" runs="69" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Waheed Zahid" overs="6" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Waheed Zahid">
+      <HowOut how="Caught"/>
+      <Bowler name="G Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Hunt"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ajay Tugnait">
+      <HowOut how="Caught"/>
+      <Bowler name="G Hunt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Maynard"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="G Hunt"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Hunt"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Mustafa Zahid"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="34"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="5" score="58"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <FallOfWicket batsman="7" score="119"/>
+    <BowlerSummary name="G Hunt" overs="8" maidens="2" runs="18" wickets="5"/>
+    <BowlerSummary name="O Prakash" overs="9" maidens="2" runs="32" wickets="0"/>
+    <BowlerSummary name="Y Khan" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="R Karamat" overs="5" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="S Maynard" overs="7" maidens="3" runs="10" wickets="1"/>
+    <BowlerSummary name="A Davison" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
+
