@@ -322,6 +322,7 @@
     <!-- S -->
     <Player surname="Sabir" firstname="Aneel"/>
     <Player surname="Scott" firstname="Andy" firstseason="1979" lastseason="1989" catches="50" mostcatchesseason="10"/>
+    <Player surname="Scott" firstname="Tony"/>
     <Player surname="Seabrook" firstname="I"/>
     <Player surname="Searby" firstname="Dave" firstseason="1976" lastseason="1997"/>
     <Player surname="Sellers" firstname="Chris" firstseason="1982" lastseason="1991" catches="37" mostcatchesseason="9"/>
