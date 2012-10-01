@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Oct 01 2012 20:03:18 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Binfield" date="Sun Sep 30 2012 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="S York">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="135"/>
+    </Batsman>
+    <Batsman name="I Goddard">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mustafa Zahid"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Marshall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="C Canty">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="R Carson"/>
+    <Batsman name="S Watt"/>
+    <Batsman name="J Collett"/>
+    <Batsman name="N Jones"/>
+    <Batsman name="S Collett"/>
+    <Batsman name="M Wellsteed"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="2" score="209"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="4" runs="25" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7.1" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Mustafa Zahid" overs="10" maidens="1" runs="50" wickets="1"/>
+    <BowlerSummary name="Steve Green" overs="9" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="1" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Jones"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Waheed Zahid">
+      <HowOut how="Caught"/>
+      <Bowler name="N Jones"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Collett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Carson"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Mustafa Zahid">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Watt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Collett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="A Marshall"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Collett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="2" score="33"/>
+    <FallOfWicket batsman="3" score="53"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="7" score="88"/>
+    <FallOfWicket batsman="8" score="90"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <FallOfWicket batsman="10" score="149"/>
+    <FallOfWicket batsman="11" score="153"/>
+    <BowlerSummary name="M Wellsteed" overs="7" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="N Jones" overs="7" maidens="2" runs="9" wickets="2"/>
+    <BowlerSummary name="J Collett" overs="8" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="S Collett" overs="9" maidens="0" runs="30" wickets="4"/>
+    <BowlerSummary name="S Watt" overs="6" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="R Carson" overs="5" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="A Marshall" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
