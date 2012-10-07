@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Oct 07 2012 12:20:55 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Sulhamstead" date="Sat Jun 16 2012 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sulhamstead">
+    <Batsman name="Steve Belcher">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Jason Doole">
+      <HowOut how="Caught Ollie Wade"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Nabeer Mughal">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Mark Godfrey">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="James Latimer">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Matt Burows">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="1" score="140"/>
+    <FallOfWicket batsman="4" score="196"/>
+    <FallOfWicket batsman="3" score="224"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="0" runs="77" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="12" maidens="2" runs="25" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="10" maidens="0" runs="57" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="3" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Ollie Wade" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Pavan Arvapally" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Latimore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Latimore"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Latimore"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pavan Arvapally">
+      <HowOut how="Caught"/>
+      <Bowler name="R Latimore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="M Godfrey"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Caught"/>
+      <Bowler name="N Mughal"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Mughal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ollie Wade">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Mughal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Burrows"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farra" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="5" score="28"/>
+    <FallOfWicket batsman="7" score="32"/>
+    <FallOfWicket batsman="8" score="32"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="9" score="44"/>
+    <FallOfWicket batsman="10" score="47"/>
+    <BowlerSummary name="R Latimore" overs="7" maidens="0" runs="11" wickets="4"/>
+    <BowlerSummary name="R Hill" overs="7" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="M Godfrey" overs="2" maidens="0" runs="4" wickets="1"/>
+    <BowlerSummary name="N Mughal" overs="5.5" maidens="4" runs="5" wickets="3"/>
+    <BowlerSummary name="J Stanley" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="M Burrows" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
