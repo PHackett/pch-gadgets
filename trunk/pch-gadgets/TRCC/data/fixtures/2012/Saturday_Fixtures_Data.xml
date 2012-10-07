@@ -71,7 +71,8 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
-</Fixture>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sat, 23 Jun 2012 12:00:00 UTC</Date>
@@ -79,7 +80,8 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
-</Fixture>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sat, 30 Jun 2012 12:00:00 UTC</Date>
