@@ -81,7 +81,7 @@
   <Venue>Home</Venue>
   <Result>Win</Result>
   <HasLink/>
-  </Fixture>
+</Fixture>
 
 <Fixture>
   <Date>Sat, 30 Jun 2012 12:00:00 UTC</Date>
@@ -89,6 +89,7 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -121,6 +122,7 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -129,6 +131,7 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -145,6 +148,7 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
