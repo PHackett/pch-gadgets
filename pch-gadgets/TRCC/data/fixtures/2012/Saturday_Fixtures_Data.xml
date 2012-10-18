@@ -127,7 +127,7 @@
 
 <Fixture>
   <Date>Sat, 4 Aug 2012 12:00:00 UTC</Date>
-  <Opposition>Sonning 3</Opposition>
+  <Opposition>Sonning</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>Lose</Result>
@@ -144,7 +144,7 @@
 
 <Fixture>
   <Date>Sat, 18 Aug 2012 12:00:00 UTC</Date>
-  <Opposition>Sulhampstead 2</Opposition>
+  <Opposition>Sulhampstead</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>Lose</Result>
