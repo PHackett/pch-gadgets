@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Oct 18 2012 18:15:59 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Warfield" date="Sat Jun 30 2012 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="Jim Moulder">
+      <HowOut how="Run Out"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Richard Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dave Wilson">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Tony Moss">
+      <HowOut how="Run Out"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ashley Gander">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Tory">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Harvey Fuller">
+      <HowOut how="C+B"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Steve Thompson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Morris"/>
+    <Batsman name="Tak Pswarayi"/>
+    <Batsman name="Steve Ruddle"/>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="115"/>
+    <FallOfWicket batsman="4" score="115"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="1" score="129"/>
+    <FallOfWicket batsman="6" score="164"/>
+    <FallOfWicket batsman="8" score="171"/>
+    <FallOfWicket batsman="7" score="174"/>
+    <BowlerSummary name="Steve Beamish" overs="11" maidens="2" runs="35" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Graham Burgess" overs="7" maidens="2" runs="19" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="6" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="10" maidens="0" runs="46" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Ashley Gander"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ashley Gander"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ashley Gander"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tak Pswarayi"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="Steve Ruddle"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Steve Ruddle"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Pavan Arvapally">
+      <HowOut how="Caught"/>
+      <Bowler name="Harvey Fuller"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey Fuller"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Ruddle"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Burgess"/>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harvey Fuller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="6" score="24"/>
+    <FallOfWicket batsman="7" score="67"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <FallOfWicket batsman="5" score="106"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="11" score="130"/>
+    <BowlerSummary name="Ashley Gander" overs="9" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Tak Pswarayi" overs="9" maidens="3" runs="20" wickets="1"/>
+    <BowlerSummary name="Steve Ruddle" overs="9" maidens="2" runs="33" wickets="3"/>
+    <BowlerSummary name="Harvey Fuller" overs="9" maidens="0" runs="39" wickets="3"/>
+  </Innings>
+</CricketMatch>
