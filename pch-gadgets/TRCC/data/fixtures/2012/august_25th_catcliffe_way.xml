@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Oct 18 2012 21:50:52 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Catcliffe Way" date="Sat Aug 25 2012 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Catcliffe Way">
+    <Batsman name="O Bye">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="R Hyde">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Verma">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="G Shacklady"/>
+    <Batsman name="A Brooker">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Lean">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="N Schippers"/>
+    <Extras value="36"/>
+    <BowlerSummary name="Akshay Apte" overs="11" maidens="2" runs="59" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="12" maidens="3" runs="23" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="11" maidens="3" runs="40" wickets="2"/>
+    <BowlerSummary name="Graham Burgess" overs="6" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Akshay Apte">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Luis"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="R Hyde"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="LBW"/>
+      <Bowler name="G Shacklady"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="D Luis"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Luis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Adam Smith" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Gore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Gore"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Burgess"/>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Gore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="George Wilton"/>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="3" score="99"/>
+    <FallOfWicket batsman="1" score="157"/>
+    <FallOfWicket batsman="5" score="167"/>
+    <FallOfWicket batsman="6" score="179"/>
+    <FallOfWicket batsman="7" score="203"/>
+    <FallOfWicket batsman="8" score="210"/>
+    <FallOfWicket batsman="4" score="210"/>
+    <FallOfWicket batsman="10" score="212"/>
+    <BowlerSummary name="D Luis" overs="11" maidens="2" runs="60" wickets="3"/>
+    <BowlerSummary name="P Gore" overs="9" maidens="2" runs="36" wickets="3"/>
+    <BowlerSummary name="S Mapes" overs="7" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="N Schippers" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="G Shacklady" overs="5" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="O Bye" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="R Hyde" overs="0" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
