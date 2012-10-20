@@ -140,6 +140,7 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -156,7 +157,8 @@
   <Opposition>Catcliffe Way</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -164,7 +166,8 @@
   <Opposition>Warfield</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 </YearsFixtures>
