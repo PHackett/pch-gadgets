@@ -44,8 +44,14 @@
       <Bowler name="Spence Nichols"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Graham Morris"/>
-    <Batsman name="Tak Pswarayi"/>
+    <Batsman name="Graham Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tak Pswarayi">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
     <Batsman name="Steve Ruddle"/>
     <Extras value="25"/>
     <FallOfWicket batsman="2" score="10"/>
@@ -109,7 +115,10 @@
       <Bowler name="Steve Ruddle"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Graham Burgess"/>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
     <Batsman name="Steve Beamish">
       <HowOut how="Bowled"/>
       <Bowler name="Harvey Fuller"/>
