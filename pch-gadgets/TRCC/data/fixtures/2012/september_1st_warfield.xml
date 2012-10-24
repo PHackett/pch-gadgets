@@ -9,7 +9,10 @@
       <Bowler name="T Pswaraya"/>
       <Runs value="18"/>
     </Batsman>
-    <Batsman name="Stuart Barrable"/>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="99"/>
+    </Batsman>    
     <Batsman name="Ken Cochrane">
       <HowOut how="Caught"/>
       <Bowler name="T Pswaraya"/>
@@ -45,7 +48,10 @@
       <Bowler name="A Littlejohns"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Chris Fort"/>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
     <Batsman name="Sam Young"/>
     <Extras value="18"/>
     <FallOfWicket batsman="1" score="29"/>
@@ -73,8 +79,14 @@
       <Bowler name="Graham Burgess"/>
       <Runs value="8"/>
     </Batsman>
-    <Batsman name="D Wilson"/>
-    <Batsman name="T Moss"/>
+    <Batsman name="D Wilson">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="T Moss">
+      <HowOut how="Not Out"/>
+      <Runs value="74"/>
+    </Batsman>
     <Extras value="20"/>
     <FallOfWicket batsman="1" score="11"/>
     <FallOfWicket batsman="2" score="16"/>

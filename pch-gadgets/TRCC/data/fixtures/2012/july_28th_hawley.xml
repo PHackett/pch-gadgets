@@ -48,7 +48,10 @@
       <Bowler name="Adams"/>
       <Runs value="27"/>
     </Batsman>
-    <Batsman name="Chris Fort"/>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
     <Batsman name="Steve Greene">
       <HowOut how="Bowled"/>
       <Bowler name="Adams"/>

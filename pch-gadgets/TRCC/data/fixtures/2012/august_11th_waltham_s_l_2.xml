@@ -3,7 +3,7 @@
 <!-- Result = Lose -->
 <CricketMatch oppo="WSL" date="Sat Aug 11 2012 00:00:00 GMT+0100 (GMT Daylight Time)">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Twyford">
+  <Innings batting="WSL">
     <Batsman name="P Ashton">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Beamish"/>
@@ -49,7 +49,10 @@
       <Bowler name="Josh Baker"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="B Riazzudin"/>
+    <Batsman name="B Riazzudin">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
     <Extras value="52"/>
     <FallOfWicket batsman="2" score="5"/>
     <FallOfWicket batsman="3" score="95"/>
@@ -67,7 +70,7 @@
     <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="20" wickets="0"/>
     <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="12" wickets="2"/>
   </Innings>
-  <Innings batting="WSL">
+  <Innings batting="Twyford">
     <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="9"/>
@@ -92,7 +95,10 @@
       <Bowler name="B Riazzudin"/>
       <Runs value="26"/>
     </Batsman>
-    <Batsman name="Ken Cochrane"/>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
     <Batsman name="Jim Lappin">
       <HowOut how="Caught "/>
       <Bowler name="B Riazzudin"/>
@@ -103,7 +109,10 @@
       <Bowler name="T Choudray"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="Steve Beamish"/>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
     <Batsman name="R Seymour"/>
     <Batsman name="S Green"/>
     <Extras value="22"/>

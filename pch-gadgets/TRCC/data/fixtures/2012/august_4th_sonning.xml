@@ -36,7 +36,7 @@
     <Batsman name="W Tahir">
       <HowOut how="Bowled"/>
       <Bowler name="Ken Cochrane"/>
-      <Runs value="0"/>
+      <Runs value="15"/>
     </Batsman>
     <Batsman name="S Swatantra">
       <HowOut how="Bowled"/>
@@ -109,7 +109,10 @@
       <Bowler name="Craig Rintoul"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Steve Green"/>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
     <Extras value="15"/>
     <FallOfWicket batsman="1" score="0"/>
     <FallOfWicket batsman="3" score="15"/>
