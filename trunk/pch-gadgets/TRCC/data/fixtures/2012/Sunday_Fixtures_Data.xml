@@ -164,8 +164,9 @@
   <Opposition>Falkland 3rd</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Result>Lost</Result>
+  <HasLink/>
+  </Fixture>
 
 <Fixture>
   <Date>Sun, 26 Aug 2012 12:00:00 UTC</Date>
