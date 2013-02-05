@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sat, 4 May 2013 12:00:00 UTC</Date>
+  <Opposition>Sandhurst 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 11 May 2013 12:00:00 UTC</Date>
+  <Opposition>Ruislip Victoria 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 18 May 2013 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 25 May 2013 12:00:00 UTC</Date>
+  <Opposition>Catcliffe Way</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  </Fixture>
+
+<Fixture>
+  <Date>Sat, 1 Jun 2013 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 8 Jun 2013 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 15 Jun 2013 12:00:00 UTC</Date>
+  <Opposition>Shinfield 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+  </Fixture>
+
+<Fixture>
+  <Date>Sat, 22 Jun 2013 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 29 Jun 2013 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 6 Jul 2013 12:00:00 UTC</Date>
+  <Opposition>Sandhurst 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 13 Jul 2013 12:00:00 UTC</Date>
+  <Opposition>Ruislip Victoria</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 20 Jul 2013 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 27 Jul 2013 12:00:00 UTC</Date>
+  <Opposition>Catcliffe Way</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 3 Aug 2013 12:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 10 Aug 2013 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 17 Aug 2013 12:00:00 UTC</Date>
+  <Opposition>Shinfield 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 24 Aug 2013 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 31 Aug 2013 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+</YearsFixtures>
+
