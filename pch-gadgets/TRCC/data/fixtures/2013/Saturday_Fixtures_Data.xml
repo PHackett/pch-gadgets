@@ -19,7 +19,7 @@
 <Fixture>
   <Date>Sat, 4 May 2013 12:00:00 UTC</Date>
   <Opposition>Sandhurst 2</Opposition>
-  <Time>13:30</Time>
+  <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -27,7 +27,7 @@
 <Fixture>
   <Date>Sat, 11 May 2013 12:00:00 UTC</Date>
   <Opposition>Ruislip Victoria 2</Opposition>
-  <Time>13:30</Time>
+  <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -147,7 +147,7 @@
 <Fixture>
   <Date>Sat, 24 Aug 2013 12:00:00 UTC</Date>
   <Opposition>Woodley 2</Opposition>
-  <Time>13:30</Time>
+  <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -155,7 +155,7 @@
 <Fixture>
   <Date>Sat, 31 Aug 2013 12:00:00 UTC</Date>
   <Opposition>Waltham St Lawrence 2</Opposition>
-  <Time>13:30</Time>
+  <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
