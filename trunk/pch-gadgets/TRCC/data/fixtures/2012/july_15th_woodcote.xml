@@ -43,7 +43,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="R Brown"/>
-    <Batsman name="Edward Farrah"/>
+    <Batsman name="Edward Farrar"/>
     <Batsman name="Mattimore"/>
     <Extras value="24"/>
     <FallOfWicket batsman="1" score="0"/>
@@ -102,7 +102,7 @@
     </Batsman>
     <Batsman name="Tom Leadbetter">
       <HowOut how="Bowled"/>
-      <Bowler name="Edward Farrah"/>
+      <Bowler name="Edward Farrar"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Simon Farrar" keeper="1">
@@ -129,6 +129,6 @@
     <BowlerSummary name="Mattimore" overs="7" maidens="1" runs="22" wickets="1"/>
     <BowlerSummary name="R Brown" overs="8" maidens="3" runs="26" wickets="2"/>
     <BowlerSummary name="Worsfold" overs="6.3" maidens="2" runs="15" wickets="4"/>
-    <BowlerSummary name="Edward Farrah" overs="2" maidens="1" runs="1" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="2" maidens="1" runs="1" wickets="1"/>
   </Innings>
 </CricketMatch>
