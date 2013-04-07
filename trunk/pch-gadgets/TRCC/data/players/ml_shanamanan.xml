@@ -1,0 +1,14 @@
+<PlayerStats name="Shanamanan ML" generated="Sun, 07 Apr 2013 14:38:38 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 23 00:00:00 UTC+0100 2012" oppo="Catcliffe Way"/>
+    </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Batting innings="1" runs="8" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 23 00:00:00 UTC+0100 2012" oppo="Catcliffe Way"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

@@ -1,7 +1,24 @@
-<PlayerStats name="Steve Green" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Steve Green" generated="Sun, 07 Apr 2013 14:38:39 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2003" oppo="Harpsden"/>
     </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="54.3" maidens="8" runs="205" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 26 00:00:00 UTC+0100 2012" oppo="Chew Magna"/>
+                <BowlingData overs="8.0" maidens="2" runs="24" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="6" runs="31" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Sep 9 00:00:00 UTC+0100 2012" oppo="Farley Hill"/>
+                <BattingData runs="16" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2011">
         <Bowling games="9" fiveplus="1">
