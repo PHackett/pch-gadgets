@@ -1,7 +1,16 @@
-<PlayerStats name="Ajay Tugnait" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Ajay Tugnait" generated="Sun, 07 Apr 2013 14:38:38 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 3 00:00:00 UTC+0100 2011" oppo="Waltham St Lawrence"/>
     </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Batting innings="2" runs="19" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 2012" oppo="Sonning"/>
+                <BattingData runs="14" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2011">
         <Bowling games="2" fiveplus="0">

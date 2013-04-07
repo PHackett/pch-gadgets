@@ -1,0 +1,14 @@
+<PlayerStats name="Tony Scott" generated="Sun, 07 Apr 2013 14:38:39 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 16 00:00:00 UTC+0100 2012" oppo="Lower Earley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Batting innings="1" runs="6" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 16 00:00:00 UTC+0100 2012" oppo="Lower Earley"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

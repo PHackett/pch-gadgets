@@ -1,7 +1,24 @@
-<PlayerStats name="Tim Hogarth" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Tim Hogarth" generated="Sun, 07 Apr 2013 14:38:39 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1999" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="3.0" maidens="0" runs="20" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 1 00:00:00 UTC+0100 2012" oppo="Warfield"/>
+                <BowlingData overs="3.0" maidens="0" runs="20" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="9" runs="77" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 26 00:00:00 UTC+0100 2012" oppo="Chew Magna"/>
+                <BattingData runs="49" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2011">
         <Bowling games="3" fiveplus="0">

@@ -1,0 +1,14 @@
+<PlayerStats name="Jim Lappin" generated="Sun, 07 Apr 2013 14:38:38 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2012" oppo="WSL"/>
+    </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2012" oppo="WSL"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

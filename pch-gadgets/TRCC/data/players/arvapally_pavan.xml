@@ -1,0 +1,22 @@
+<PlayerStats name="Pavan Arvapally" generated="Sun, 07 Apr 2013 14:38:38 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 26 00:00:00 UTC+0100 2012" oppo="Hawley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="6.4" maidens="0" runs="47" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 1 00:00:00 UTC+0100 2012" oppo="Warfield"/>
+                <BowlingData overs="2.4" maidens="0" runs="18" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="43" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 30 00:00:00 UTC+0100 2012" oppo="Warfield"/>
+                <BattingData runs="22" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

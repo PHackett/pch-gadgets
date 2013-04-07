@@ -1,7 +1,36 @@
-<PlayerStats name="Akshay Apte" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Akshay Apte" generated="Sun, 07 Apr 2013 14:38:38 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 6 00:00:00 UTC+0100 2011" oppo="Bradfield 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2012">
+        <Bowling games="4" fiveplus="1">
+            <BowlingData overs="44.1" maidens="6" runs="176" wickets="11"/>
+            <BowlingBest>
+                <MatchId date="Sat May 26 00:00:00 UTC+0100 2012" oppo="Hawley"/>
+                <BowlingData overs="11.1" maidens="2" runs="42" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat May 26 00:00:00 UTC+0100 2012" oppo="Hawley"/>
+                <BowlingData overs="11.1" maidens="2" runs="42" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="4" runs="143" notouts="0" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 25 00:00:00 UTC+0100 2012" oppo="Catcliffe Way"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2012" oppo="WSL"/>
+                <BattingData runs="56" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 25 00:00:00 UTC+0100 2012" oppo="Catcliffe Way"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2011">
         <Bowling games="4" fiveplus="1">

@@ -1,7 +1,10 @@
-<PlayerStats name="Sam Young" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Sam Young" generated="Sun, 07 Apr 2013 14:38:38 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Aug 22 00:00:00 UTC+0100 2010" oppo="Falkland 3rd"/>
     </FirstRecordedGame>
+
+    <YearData year="2012">
+    </YearData>
 
     <YearData year="2011">
         <Batting innings="3" runs="0" notouts="1" hundreds="0" fifties="0" ducks="2">
