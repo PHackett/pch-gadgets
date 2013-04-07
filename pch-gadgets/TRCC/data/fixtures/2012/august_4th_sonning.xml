@@ -75,7 +75,7 @@
       <HowOut how="Run Out"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="Marc Teal">
+    <Batsman name="Mark Teal">
       <HowOut how="LBW"/>
       <Bowler name="S Gallipolli"/>
       <Runs value="1"/>
@@ -95,7 +95,7 @@
       <Bowler name="S Gallipolli"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Ed Farrar">
+    <Batsman name="Edward Farrar">
       <HowOut how="Caught"/>
       <Bowler name="Craig Rintoul"/>
       <Runs value="3"/>

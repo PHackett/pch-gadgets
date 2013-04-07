@@ -71,7 +71,7 @@
     <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="12" wickets="2"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Marc Teal" keeper="1">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="9"/>
     </Batsman>
@@ -113,8 +113,8 @@
       <HowOut how="Not Out"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="R Seymour"/>
-    <Batsman name="S Green"/>
+    <Batsman name="Roger Seymour"/>
+    <Batsman name="Steve Green"/>
     <Extras value="22"/>
     <FallOfWicket batsman="1" score="15"/>
     <FallOfWicket batsman="3" score="25"/>

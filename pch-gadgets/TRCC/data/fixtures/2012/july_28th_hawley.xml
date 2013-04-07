@@ -38,12 +38,12 @@
       <Bowler name="Adams"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Alok">
+    <Batsman name="Alok Prasad">
       <HowOut how="Bowled"/>
       <Bowler name="Jamil"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="Marc Teal">
+    <Batsman name="Mark Teal">
       <HowOut how="Caught"/>
       <Bowler name="Adams"/>
       <Runs value="27"/>
@@ -52,7 +52,7 @@
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Steve Greene">
+    <Batsman name="Steve Green">
       <HowOut how="Bowled"/>
       <Bowler name="Adams"/>
       <Runs value="0"/>
