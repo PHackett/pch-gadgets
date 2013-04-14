@@ -50,6 +50,7 @@ public class PlayerYearStats
 	BattingMatchData			mBattingBest;
 	ArrayList<BattingMatchData>	mBattingHighlights;
 
+	public int Year()			{ return (mYear);	}
 
 	public PlayerYearStats (String aName, int aYear)
 	{

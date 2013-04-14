@@ -10,6 +10,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Map;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -50,7 +51,7 @@ public class GeneratePlayerStats
 	 * These are the big two - The year for which you want to add the statistics to the 
 	 * player lifetime, and where the output files should be written
 	 */
-	private static int 			sYear    = 2011;
+	private static int 			sYear    = 2012;
 	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime";
 	
 	/**
@@ -58,6 +59,28 @@ public class GeneratePlayerStats
 	 */
 	public static void main(String[] args) 
 	{
+		//
+		// Comment in which one you want - Plater stats XML or all-time csv
+		//
+		
+		// GenerateIndividualPlayerStats();
+		
+		GeneratePlayerStatsSpreatsheets();
+		
+		System.out.println ("INFO: Processing complete");
+	}
+	
+	/**
+	 * Generate the XML files for all players.
+	 * This will generate the XML files related to the stats for 
+	 * those who played in the given year
+	 * @return
+	 */
+	private static boolean GenerateIndividualPlayerStats()
+	{
+		System.out.println ("INFO: Generating individual player stats for year " + sYear);
+		
+		boolean lRet=true;
 		ArrayList<String>	lRetA;
 		ArrayList<MatchReport> lMRA;
 
@@ -109,9 +132,108 @@ public class GeneratePlayerStats
 			System.out.println ("ERROR: Failed writing player lifetime data");
 		}
 		
-		System.out.println ("INFO: Processing complete");
+		return (lRet);
 	}
+
 	
+	/**
+	 * Generate the all-time batting & bowling statistics as
+	 * csv files for importing into a google spreadsheet, and
+	 * eventually posting on the website.
+	 * 
+	 * @return
+	 */
+	private static boolean GeneratePlayerStatsSpreatsheets()
+	{
+		System.out.println ("INFO: Generating all-time player stats spreadsheets");
+		
+		boolean 		lRet=true;
+		PlayerRollcall	lPR = new PlayerRollcall();
+
+		//
+		// Load the rollcall XML, and load the individual
+		// player stats
+		//
+		if (!lPR.LoadFromUrl())
+		{
+    		System.out.println ("ERROR: Failed loading rollcall data");
+		}
+		else
+		{
+			//
+			// Write out the spreadsheets
+			//
+			String lUserHomeDir = System.getProperty("user.home");
+			String lOutDir      = lUserHomeDir + "/" + sOutDir + "/";
+			
+			System.out.println ("INFO: Player CSV files will be written to " + lOutDir);
+
+			{
+				//
+				// Batting
+				//
+				String lOutFileName = lOutDir + "AllTimeBatting.csv";
+				
+				try
+				{
+					BufferedWriter	lOut = new BufferedWriter(new FileWriter(lOutFileName));
+
+					for (PlayerLifetimeStats lPS : PlayerLifetimeStats.GetStats().values())
+					{
+						String lPlayerBattingCSV = lPS.GetBattingCSV();
+						// System.out.println ("DEBUG: Batting csv = " + lPlayerBattingCSV);
+						
+						lOut.write(lPlayerBattingCSV);
+					}
+					
+					lOut.close();
+				}
+				catch (IOException e) 
+				{
+					System.out.println ("ERROR: Failed opening/writing to file '" + lOutFileName + "'");
+					
+					e.printStackTrace();
+				}
+			}
+			
+			{
+				//
+				// Bowling
+				//
+				String lOutFileName = lOutDir + "AllTimeBowling.csv";
+				
+				try
+				{
+					BufferedWriter	lOut = new BufferedWriter(new FileWriter(lOutFileName));
+
+					for (PlayerLifetimeStats lPS : PlayerLifetimeStats.GetStats().values())
+					{
+						String lPlayerBowlingCSV = lPS.GetBowlingCSV();
+						// System.out.println ("DEBUG: Bowling csv = " + lPlayerBowlingCSV);
+						
+						lOut.write(lPlayerBowlingCSV);
+					}
+					
+					lOut.close();
+				}
+				catch (IOException e) 
+				{
+					System.out.println ("ERROR: Failed opening/writing to file '" + lOutFileName + "'");
+					
+					e.printStackTrace();
+				}
+			}
+		}
+		
+		return (lRet);
+	}
+
+	
+	/**
+	 * 
+	 * @param aMDA
+	 * @return
+	 */
 	private static boolean ProcessAllMatchData (ArrayList<MatchReport> aMDA)
 	{
 		boolean lRet=true;

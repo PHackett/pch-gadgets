@@ -155,8 +155,12 @@ public class PlayerLifetimeStats
         	//
         	if (!LoadFirstRecordedGame (lPSElement))
         	{
-        		System.out.println ("ERROR: Failed loading 'First Recorded Game' for player = '" + mName + "'");
-            	lRet = false;
+        		System.out.println ("WARN: Failed loading 'First Recorded Game' for player = '" + mName + "'");
+        		
+        		//
+        		// So - There is no first recorded game ...
+        		// 
+            	// lRet = false;
         	}
         	
 			//
@@ -344,8 +348,9 @@ public class PlayerLifetimeStats
         
         if (lFRGList.getLength() != 1)
         {
-			System.out.println ("ERROR: FirstRecordedGame elements for player '" + mName + "' has " + lFRGList.getLength() + " entries");
-			lRet = false;
+			System.out.println ("WARN: FirstRecordedGame elements for player '" + mName + "' has " + lFRGList.getLength() + " entries");
+			
+			//lRet = false;
         }
         else
         {
@@ -472,4 +477,133 @@ public class PlayerLifetimeStats
 
 		return (lRet);
     }
+    
+    
+    /**
+     * Get the 'grand totals' for batting
+     * 
+     * @return
+     */
+	private BatterSummary GetLifetimeBatterSummary()
+	{
+		BatterSummary lRet = new BatterSummary();
+		
+		//
+		// Do we have the David Downes "special" stats.
+		// These are stats compiled by D Downes that stretch back
+		// a lot further in time that the surviving scorebooks.
+		// If those stats are present for this player, then they 
+		// take precedence over the other stats (as they will be 
+		// more complete.
+		//
+		if (null != mBattingStats1969to1997)
+		{
+			lRet.Add (mBattingStats1969to1997);
+		}
+
+		//
+		// Down all the years we have
+		//
+		NavigableMap<Integer, PlayerYearStats>	lROM = mPlayerStatsDB.descendingMap();
+		Collection<PlayerYearStats>				lCol = lROM.values();
+		Iterator<PlayerYearStats>				lItr = lCol.iterator();
+		
+		while (lItr.hasNext())
+		{
+			PlayerYearStats lPYS = lItr.next();
+			
+			//
+			// DO we have D DOwnes's data?
+			//
+			if ((null != mBattingStats1969to1997) && ((lPYS.Year() - 0) <= 1997))
+			{
+				// We have cumulative stats for 1969 to 1997, and this year falls into that range
+			}
+			else
+			{
+				lRet.Add (lPYS.mBatterSummary);
+			}
+		}
+
+		return (lRet);
+	}
+
+	
+    /**
+     * Get the 'grand totals' for bowling
+     * 
+     * @return
+     */
+	private BowlerStats GetLifetimeBowlerSummary()
+	{
+		BowlerStats lRet = new BowlerStats();
+		
+		//
+		// Do we have the David Downes "special" stats.
+		// These are stats compiled by D Downes that stretch back
+		// a lot further in time that the surviving scorebooks.
+		// If those stats are present for this player, then they 
+		// take precedence over the other stats (as they will be 
+		// more complete.
+		//
+		if (null != mBowlingStats1969to1997Summary)
+		{
+			lRet.Add (mBowlingStats1969to1997Summary);
+		}
+
+		//
+		// Down all the years we have
+		//
+		NavigableMap<Integer, PlayerYearStats>	lROM = mPlayerStatsDB.descendingMap();
+		Collection<PlayerYearStats>				lCol = lROM.values();
+		Iterator<PlayerYearStats>				lItr = lCol.iterator();
+		
+		while (lItr.hasNext())
+		{
+			PlayerYearStats lPYS = lItr.next();
+			
+			//
+			// DO we have D DOwnes's data?
+			//
+			if ((null != mBowlingStats1969to1997Summary) && ((lPYS.Year() - 0) <= 1997))
+			{
+				// We have cumulative stats for 1969 to 1997, and this year falls into that range
+			}
+			else
+			{
+				lRet.Add (lPYS.mBowlerSummary);
+			}
+		}
+
+		return (lRet);
+	}
+
+	
+	public String GetBattingCSV ()
+	{
+		BatterSummary 	lBS = GetLifetimeBatterSummary();
+		
+		String			lRet = 	mName 			+ ", " + 
+								lBS.Innings()	+ ", " +
+								lBS.NotOuts()	+ ", " + 
+								lBS.Hundreds()  + ", " +
+								lBS.Fifties()	+ ", " +
+								lBS.Runs()		+ "\n";
+		
+		return (lRet);
+	}
+
+
+	public String GetBowlingCSV ()
+	{
+		BowlerStats 	lBS = GetLifetimeBowlerSummary();
+		
+		String			lRet = 	mName 			+ ", " + 
+								lBS.Overs()		+ ", " +
+								lBS.Maidens()	+ ", " + 
+								lBS.Runs()		+ ", " +
+								lBS.Wickets()	+ "\n";
+		
+		return (lRet);
+	}
 }

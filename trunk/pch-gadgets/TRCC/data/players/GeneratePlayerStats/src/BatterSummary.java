@@ -29,12 +29,29 @@ public class BatterSummary
 	public int		Ducks()		{ return (mDucks);		}
 
 	
-	public void IncInnings ()		{ mInnings++;		}
-	public void IncRuns (int aR)	{ mRuns += aR;		}
-	public void IncNotouts ()		{ mNotOuts++;		}
-	public void IncHundreds ()		{ mHundreds++;		}
-	public void IncFifties ()		{ mFifties++;		}
+	public void IncInnings ()			{ mInnings++;		}
+	public void IncInnings (int aI)	{ mInnings += aI;	}
+	public void IncRuns (int aR)		{ mRuns += aR;		}
+	public void IncNotouts ()			{ mNotOuts++;		}
+	public void IncNotouts (int aN)	{ mNotOuts += aN;	}
+	public void IncHundreds ()			{ mHundreds++;		}
+	public void IncHundreds (int aH)	{ mHundreds += aH;	}
+	public void IncFifties ()			{ mFifties++;		}
+	public void IncFifties (int aF)	{ mFifties += aF;	}
 	public void IncDucks ()			{ mDucks++;			}
+	public void IncDucks (int aD)		{ mDucks += aD;		}
+	
+	
+	public void Add (BatterSummary aBS)
+	{
+		IncInnings(aBS.Innings());
+		IncRuns (aBS.Runs());
+		IncNotouts(aBS.NotOuts());
+		IncHundreds(aBS.Hundreds());
+		IncFifties(aBS.Fifties());
+		IncDucks(aBS.Ducks());
+	}
+	
 	
 	public boolean parseFromXML (Element aBattingElement)
 	{
