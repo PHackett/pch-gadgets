@@ -88,7 +88,7 @@
       <Bowler name="J Mayo"/>
       <Runs value="16"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="J Mayo"/>
       <Runs value="9"/>
