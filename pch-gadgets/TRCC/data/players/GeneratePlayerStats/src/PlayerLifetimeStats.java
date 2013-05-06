@@ -513,6 +513,14 @@ public class PlayerLifetimeStats
 			PlayerYearStats lPYS = lItr.next();
 			
 			//
+			// Remember the latest year for which we have data
+			//
+			if (lPYS.Year() > lRet.Year())
+			{
+				lRet.SetYear(lPYS.Year());
+			}
+			
+			//
 			// DO we have D DOwnes's data?
 			//
 			if ((null != mBattingStats1969to1997) && ((lPYS.Year() - 0) <= 1997))
@@ -563,7 +571,15 @@ public class PlayerLifetimeStats
 			PlayerYearStats lPYS = lItr.next();
 			
 			//
-			// DO we have D DOwnes's data?
+			// Remember the latest year for which we have data
+			//
+			if (lPYS.Year() > lRet.Year())
+			{
+				lRet.SetYear(lPYS.Year());
+			}
+			
+			//
+			// Do we have D Downes's data?
 			//
 			if ((null != mBowlingStats1969to1997Summary) && ((lPYS.Year() - 0) <= 1997))
 			{
@@ -584,6 +600,7 @@ public class PlayerLifetimeStats
 		BatterSummary 	lBS = GetLifetimeBatterSummary();
 		
 		String			lRet = 	mName 			+ ", " + 
+								lBS.Year()		+ ", " +
 								lBS.Innings()	+ ", " +
 								lBS.NotOuts()	+ ", " + 
 								lBS.Hundreds()  + ", " +
@@ -599,6 +616,7 @@ public class PlayerLifetimeStats
 		BowlerStats 	lBS = GetLifetimeBowlerSummary();
 		
 		String			lRet = 	mName 			+ ", " + 
+								lBS.Year()		+ ", " +
 								lBS.Overs()		+ ", " +
 								lBS.Maidens()	+ ", " + 
 								lBS.Runs()		+ ", " +
