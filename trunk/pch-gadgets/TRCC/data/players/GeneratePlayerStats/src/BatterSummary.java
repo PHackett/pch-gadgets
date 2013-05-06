@@ -10,6 +10,9 @@ public class BatterSummary
 	int		mHundreds;
 	int		mFifties;
 	int		mDucks;
+	int		mYear;			// This is used during the production of the all-time
+							//  spreadsheets to hold the last year for which we have
+							//  data for this player
 	
 	public BatterSummary ()
 	{
@@ -19,6 +22,7 @@ public class BatterSummary
 		mHundreds	= 0;
 		mFifties	= 0;
 		mDucks		= 0;
+		mYear		= 1970;
 	}
 
 	public int		Innings()	{ return (mInnings);	}
@@ -27,6 +31,7 @@ public class BatterSummary
 	public int		Hundreds()	{ return (mHundreds);	}
 	public int		Fifties()	{ return (mFifties);	}
 	public int		Ducks()		{ return (mDucks);		}
+	public int		Year()		{ return (mYear);		}
 
 	
 	public void IncInnings ()			{ mInnings++;		}
@@ -40,6 +45,7 @@ public class BatterSummary
 	public void IncFifties (int aF)	{ mFifties += aF;	}
 	public void IncDucks ()			{ mDucks++;			}
 	public void IncDucks (int aD)		{ mDucks += aD;		}
+	public void SetYear (int aY)		{ mYear = aY;		}
 	
 	
 	public void Add (BatterSummary aBS)

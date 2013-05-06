@@ -7,7 +7,9 @@ public class BowlerStats
 	int		mMaidens;
 	int		mRuns;
 	int		mWickets;
-	
+	int		mYear;			// This is used during the production of the all-time
+							//  spreadsheets to hold the last year for which we have
+							//  data for this player
 	
 	public BowlerStats ()
 	{
@@ -15,6 +17,7 @@ public class BowlerStats
 		mMaidens	= 0;
 		mRuns		= 0;
 		mWickets	= 0;
+		mYear		= 1970;
 	}
 	
 	public BowlerStats (Overs aO, int aM, int aR, int aW)
@@ -25,10 +28,13 @@ public class BowlerStats
 		mWickets	= aW;
 	}
 
-	public Overs	Overs()		{ return (mOvers);		}
-	public int		Maidens()	{ return (mMaidens);	}
-	public int		Runs()		{ return (mRuns);		}
-	public int		Wickets()	{ return (mWickets);	}
+	public Overs	Overs()				{ return (mOvers);		}
+	public int		Maidens()			{ return (mMaidens);	}
+	public int		Runs()				{ return (mRuns);		}
+	public int		Wickets()			{ return (mWickets);	}
+	public int		Year()				{ return (mYear);		}
+
+	public void 	SetYear (int aY)	{ mYear = aY;			}
 
 	
 	public void Add (BowlerStats aBS)
