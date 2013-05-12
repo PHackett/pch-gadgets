@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun May 12 2013 18:51:02 GMT+0100 (BST) -->
+<!-- Result = Abandonned -->
+<CricketMatch oppo="Wargrave" date="Sun May 12 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="T Tabrah">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Howard-Jones"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Walker">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="E Woods">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="D Jeary">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Howard-Jones"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Hattey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Howard-Jones"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Woods">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="J Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Howard-Jones"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Thomas">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Davies"/>
+    <Batsman name="A Withers"/>
+    <Batsman name="C Moss"/>
+    <Extras value="35"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="4" score="99"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Ian Evans" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="1" runs="46" wickets="1"/>
+    <BowlerSummary name="Will Howard-Jones" overs="5" maidens="0" runs="44" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Tom Fort"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Will Howard-Jones"/>
+    <Batsman name="Ian Evans"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Daniel Ianson" keeper="1"/>
+    <Batsman name="Mark Teal"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>

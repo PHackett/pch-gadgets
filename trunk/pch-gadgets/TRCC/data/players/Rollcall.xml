@@ -101,6 +101,7 @@
     <Player surname="Edney" firstname="Rod" firstseason="1987" lastseason="2002" catches="46" mostcatchesseason="10"/>
     <Player surname="Elliot" firstname="S" firstseason="1979" lastseason="1979"/>
     <Player surname="Evans" firstname="Chris"/>
+    <Player surname="Evans" firstname="Ian"/>
     <Player surname="Evans" firstname="Drew"/>
     <Player surname="Evans" firstname="Jamie" firstseason="1987" lastseason="1991" catches="2" mostcatchesseason="1"/>
     
@@ -192,6 +193,7 @@
     
     <!-- I -->
     <Player surname="Imms" firstname="A"/>
+    <Player surname="Ianson" firstname="Daniel"/>
     <Player surname="Ison" firstname="Ren" firstseason="1987" lastseason="1988" catches="1" mostcatchesseason="1"/>
     
     <!-- J -->
