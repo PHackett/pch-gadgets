@@ -4,7 +4,55 @@
 <CricketMatch oppo="Falkland 3rd" date="Sun Aug 19 2012 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Horn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Horn"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Goral"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Horn"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ajay Tugnait">
+      <HowOut how="Bowled"/>
+      <Bowler name="Goral"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Lappin">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Horn" overs="9" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="Gullie" overs="5" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Day" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="R Horn" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Netheroot" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Roberts" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Goral" overs="6" maidens="2" runs="14" wickets="2"/>
   </Innings>
   <Innings batting="Falkland 3rd">
     <Extras value="0"/>
