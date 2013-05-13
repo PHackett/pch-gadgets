@@ -1,10 +1,10 @@
-<PlayerStats name="Hugh Fort" generated="Sun, 07 Apr 2013 14:38:38 BST">
+<PlayerStats name="Hugh Fort" generated="Mon, 13 May 2013 19:34:44 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
 
     <YearData year="2012">
-        <Batting innings="13" runs="134" notouts="0" hundreds="0" fifties="0" ducks="5">
+        <Batting innings="14" runs="143" notouts="0" hundreds="0" fifties="0" ducks="5">
             <BattingBest>
                 <MatchId date="Sun Sep 30 00:00:00 UTC+0100 2012" oppo="Binfield"/>
                 <BattingData runs="45" notouts="0"/>

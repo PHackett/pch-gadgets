@@ -1,4 +1,4 @@
-<PlayerStats name="Nic Downes" generated="Sun, 07 Apr 2013 14:38:38 BST">
+<PlayerStats name="Nic Downes" generated="Mon, 13 May 2013 19:34:44 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
     </FirstRecordedGame>
@@ -12,7 +12,7 @@
             </BowlingBest>
         </Bowling>
     
-        <Batting innings="11" runs="180" notouts="2" hundreds="0" fifties="1" ducks="1">
+        <Batting innings="12" runs="197" notouts="2" hundreds="0" fifties="1" ducks="1">
             <BattingBest>
                 <MatchId date="Sun May 20 00:00:00 UTC+0100 2012" oppo="Wooburn Narkovians"/>
                 <BattingData runs="57" notouts="0"/>
