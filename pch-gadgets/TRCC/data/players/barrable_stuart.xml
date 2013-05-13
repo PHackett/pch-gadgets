@@ -1,4 +1,4 @@
-<PlayerStats name="Stuart Barrable" generated="Sun, 07 Apr 2013 14:38:39 BST">
+<PlayerStats name="Stuart Barrable" generated="Mon, 13 May 2013 19:34:44 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
@@ -12,7 +12,7 @@
             </BowlingBest>
         </Bowling>
     
-        <Batting innings="10" runs="263" notouts="2" hundreds="0" fifties="1" ducks="0">
+        <Batting innings="11" runs="310" notouts="3" hundreds="0" fifties="1" ducks="0">
             <BattingBest>
                 <MatchId date="Sat Sep 1 00:00:00 UTC+0100 2012" oppo="Warfield"/>
                 <BattingData runs="99" notouts="1"/>

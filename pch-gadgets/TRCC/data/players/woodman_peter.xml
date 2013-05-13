@@ -1,10 +1,10 @@
-<PlayerStats name="Peter Woodman" generated="Sun, 07 Apr 2013 14:38:38 BST">
+<PlayerStats name="Peter Woodman" generated="Mon, 13 May 2013 19:34:44 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
     </FirstRecordedGame>
 
     <YearData year="2012">
-        <Batting innings="11" runs="220" notouts="2" hundreds="0" fifties="1" ducks="1">
+        <Batting innings="12" runs="221" notouts="2" hundreds="0" fifties="1" ducks="1">
             <BattingBest>
                 <MatchId date="Sun Jul 22 00:00:00 UTC+0100 2012" oppo="Waltham St Lawrence 2"/>
                 <BattingData runs="52" notouts="0"/>

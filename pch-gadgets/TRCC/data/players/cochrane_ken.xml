@@ -1,4 +1,4 @@
-<PlayerStats name="Ken Cochrane" generated="Sun, 07 Apr 2013 14:38:38 BST">
+<PlayerStats name="Ken Cochrane" generated="Mon, 13 May 2013 19:34:44 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 30 00:00:00 UTC+0100 1992" oppo="Reading University"/>
     </FirstRecordedGame>
@@ -12,11 +12,15 @@
             </BowlingBest>
         </Bowling>
     
-        <Batting innings="8" runs="106" notouts="2" hundreds="0" fifties="0" ducks="1">
+        <Batting innings="9" runs="164" notouts="2" hundreds="0" fifties="1" ducks="1">
             <BattingBest>
-                <MatchId date="Sat Aug 11 00:00:00 UTC+0100 2012" oppo="WSL"/>
-                <BattingData runs="35" notouts="1"/>
+                <MatchId date="Sun Aug 19 00:00:00 UTC+0100 2012" oppo="Falkland 3rd"/>
+                <BattingData runs="58" notouts="0"/>
             </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 19 00:00:00 UTC+0100 2012" oppo="Falkland 3rd"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
         </Batting>
     </YearData>
 
