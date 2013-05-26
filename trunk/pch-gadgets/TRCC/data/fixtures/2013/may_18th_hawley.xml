@@ -70,7 +70,7 @@
     <BowlerSummary name="Andy Wilkinson" overs="11" maidens="3" runs="19" wickets="2"/>
     <BowlerSummary name="Imran Gani" overs="3" maidens="0" runs="14" wickets="0"/>
   </Innings>
-  <Innings batting="">
+  <Innings batting="Hawley">
     <Batsman name="GP Singh">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Walkland"/>
