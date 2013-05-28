@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Tue May 28 2013 19:59:49 GMT+0100 (BST) -->
 <!-- Result = Lose -->
-<CricketMatch oppo="Freith" date="Sun May 26 2013 00:00:00 GMT+0100 (BST)">
+<CricketMatch oppo="Frieth" date="Sun May 26 2013 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Freith">
+  <Innings batting="Frieth">
     <Batsman name="G Swales">
       <HowOut how="Bowled"/>
       <Bowler name="Nic Downes"/>
