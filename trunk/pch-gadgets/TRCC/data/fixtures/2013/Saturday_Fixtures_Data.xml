@@ -48,8 +48,9 @@
   <Opposition>Earley</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  </Fixture>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
 
 <Fixture>
   <Date>Sat, 1 Jun 2013 12:00:00 UTC</Date>

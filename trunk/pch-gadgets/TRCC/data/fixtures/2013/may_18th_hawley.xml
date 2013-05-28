@@ -38,7 +38,7 @@
       <HowOut how="Run Out"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="8"/>
     </Batsman>
