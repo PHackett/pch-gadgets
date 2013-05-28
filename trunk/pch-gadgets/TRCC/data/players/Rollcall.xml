@@ -8,6 +8,7 @@
     <Player surname="Allardyce" firstname="I" firstseason="1997" lastseason="1997"/>
     <Player surname="Allsop" firstname="Jeff" firstseason="1996" lastseason="1996"/>
     <Player surname="Amos-Yeo" firstname="Barry"/>
+    <Player surname="Amos-Yeo" firstname="K"/>
     <Player surname="Anderson" firstname="Richard" firstseason="1983" lastseason="1984"/>
     <Player surname="Appaloosa" firstname="Paul" firstseason="1976" lastseason="1979"/>
     <Player surname="Apps" firstname="Chris"/>
@@ -173,6 +174,7 @@
     <Player surname="Hewitson" firstname="Mark"/>
     <Player surname="Hewitson" firstname="Mathew"/>
     <Player surname="Higgins" firstname="Andy"/>
+    <Player surname="Higgins" firstname="Mark"/>
     <Player surname="Hill" firstname="Peter"/>
     <Player surname="Hill" firstname="Steve" firstseason="1981" lastseason="1988" catches="53" mostcatchesseason="11"/>
     <Player surname="Hobson" firstname="Eddie"/>
@@ -247,6 +249,7 @@
     <!-- M -->
     <Player surname="Mahmood" firstname="A"/>
     <Player surname="Major" firstname="Dave" firstseason="1988" lastseason="1989" catches="4" mostcatchesseason="4"/>
+    <Player surname="Manthorpe" firstname="Richard"/>
     <Player surname="Markham" firstname="Phil"/>
     <Player surname="Martin" firstname="Chris"/>
     <Player surname="Martin" firstname="Seth"/>
