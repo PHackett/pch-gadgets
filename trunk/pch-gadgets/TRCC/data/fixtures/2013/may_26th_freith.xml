@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 28 2013 19:59:49 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Freith" date="Sun May 26 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Freith">
+    <Batsman name="G Swales">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="B Smiley">
+      <HowOut how="Not Out"/>
+      <Runs value="107"/>
+    </Batsman>
+    <Batsman name="G Boyce">
+      <HowOut how="Caught Peter Dean"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Ashworth">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="P Somes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Martin">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Peter Dean" overs="7" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="2" runs="77" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="10" maidens="0" runs="60" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Boyce"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Peter Dean">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Swales"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Boyce"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Boyce"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="G Swales"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Swales"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="G Swales"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="K Amos-Yeo">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Boyce"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="G Boyce"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Boyce"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="2" score="145"/>
+    <FallOfWicket batsman="6" score="147"/>
+    <FallOfWicket batsman="7" score="151"/>
+    <FallOfWicket batsman="8" score="160"/>
+    <FallOfWicket batsman="5" score="160"/>
+    <FallOfWicket batsman="10" score="160"/>
+    <FallOfWicket batsman="9" score="163"/>
+    <BowlerSummary name="G Boyce" overs="18" maidens="2" runs="69" wickets="6"/>
+    <BowlerSummary name="P Somes" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="G Swales" overs="13" maidens="2" runs="54" wickets="4"/>
+  </Innings>
+</CricketMatch>

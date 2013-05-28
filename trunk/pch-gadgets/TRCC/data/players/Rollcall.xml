@@ -87,6 +87,7 @@
     <Player surname="Davies" firstname="Hugh" firstseason="1979" lastseason="1987" catches="24" mostcatchesseason="4"/>
     <Player surname="Davies" firstname="J"/>
     <Player surname="Davis" firstname="F"/>
+    <Player surname="Dean" firstname="Peter"/>
     <Player surname="Dawson" firstname="Peter" firstseason="1994" lastseason="1997" catches="8" mostcatchesseason="4"/>
     <Player surname="Downes" firstname="David" firstseason="1983" catches="162" mostcatchesseason="20"/>
     <Player surname="Downes" firstname="Joe"/>
@@ -329,6 +330,7 @@
     
     <!-- S -->
     <Player surname="Sabir" firstname="Aneel"/>
+    <Player surname="Schofield" firstname="Pete"/>
     <Player surname="Scott" firstname="Andy" firstseason="1979" lastseason="1989" catches="50" mostcatchesseason="10"/>
     <Player surname="Scott" firstname="Tony"/>
     <Player surname="Seabrook" firstname="I"/>
