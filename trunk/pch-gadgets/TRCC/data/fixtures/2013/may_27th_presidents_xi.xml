@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 28 2013 20:24:47 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Presidents XI" date="Mon May 27 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Presidents XI">
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nathan Eddy">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Richard Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Luke Fuller">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Mark Farrington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Andy Wilkinson">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mick Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave Taylor"/>
+    <Batsman name="David Downes"/>
+    <Extras value="17"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="24" wickets="2"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="7" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="Mark Higgins" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="22" wickets="1"/>
+      </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Mark Teal"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="LBW"/>
+      <Bowler name="Richard Lawrence"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught"/>
+      <Bowler name="Richard Lawrence"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Lawrence"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="3" score="126"/>
+    <FallOfWicket batsman="5" score="140"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <BowlerSummary name="Mick Taylor" overs="5" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="David Downes" overs="2" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Dave Taylor" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Mark Farrington" overs="2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Luke Fuller" overs="2" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="Nathan Eddy" overs="2" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Richard Lawrence" overs="4" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Andy Wilkinson" overs="2" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="2" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+</CricketMatch>
