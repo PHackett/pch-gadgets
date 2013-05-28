@@ -52,10 +52,11 @@
 
 <Fixture>
   <Date>Sun, 19 May 2013 12:00:00 UTC</Date>
-  <Opposition>Wooburn Narkovians</Opposition>
+  <Opposition>Swyncombe</Opposition>
   <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>

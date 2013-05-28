@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 28 2013 19:46:05 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Swyncombe" date="Sun May 19 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="T Bailey"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Collins"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Will Howard-Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Keeble"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Collins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Caught"/>
+      <Bowler name="A Keeble"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Barry Amos-Yeo">
+      <HowOut how="LBW"/>
+      <Bowler name="P Collins"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Trinder"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="K Amos-Yeo">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Collins"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Dominick"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe">
+      <HowOut how="Caught"/>
+      <Bowler name="N Trinder"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="4" score="18"/>
+    <FallOfWicket batsman="5" score="20"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="7" score="43"/>
+    <FallOfWicket batsman="8" score="89"/>
+    <FallOfWicket batsman="9" score="93"/>
+    <FallOfWicket batsman="6" score="97"/>
+    <FallOfWicket batsman="10" score="107"/>
+    <BowlerSummary name="P Collins" overs="8" maidens="6" runs="4" wickets="4"/>
+    <BowlerSummary name="T Bailey" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="A Keeble" overs="9" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="N Trinder" overs="6.2" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="P Day" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="I Hunt" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Dominick" overs="3" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="C Goodall" overs="2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+  <Innings batting="Swyncombe">
+    <Batsman name="C Dominick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Manthorpe"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="C Goodall">
+      <HowOut how="LBW"/>
+      <Bowler name="Richard Manthorpe"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Keeble">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="N Trinder">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="L Percivale">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="I Hunt">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="104"/>
+    <BowlerSummary name="Richard Manthorpe" overs="8" maidens="2" runs="18" wickets="2"/>
+    <BowlerSummary name="Edward Farrar" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Mark Higgins" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3.4" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+</CricketMatch>
