@@ -19,7 +19,7 @@
       <Bowler name="Simon Coxwell"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Mark Teale" keeper="1">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Caught Pharo"/>
       <Bowler name="Simon Coxwell"/>
       <Runs value="0"/>
