@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Jun 2 09:49:25 UTC+0100 2013 -->
+<!-- Result = Win -->
+<CricketMatch oppo="Welford Park" date="Sat Jun 1 00:00:00 UTC+0100 2013">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Welford Park">
+    <Batsman name="Upendra Deshpande">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Peter Dean"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Mike Brook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pawan Sharma">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mandi George">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Bala Marugesh">
+      <HowOut how="Caught Ian Evans"/>
+      <Bowler name="Peter Dean"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Mark Jungens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Tempest">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Herrington">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Manu Chadha">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Karthick Mani">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Mike Carter">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="6" score="110"/>
+    <FallOfWicket batsman="7" score="111"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="3" runs="41" wickets="3"/>
+    <BowlerSummary name="Pete Schofield" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Ian Evans" overs="4" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="11" maidens="3" runs="39" wickets="2"/>
+    <BowlerSummary name="Peter Dean" overs="8" maidens="2" runs="22" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Dean">
+      <HowOut how="Bowled"/>
+      <Bowler name="Upendra Deshpande"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Carter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught"/>
+      <Bowler name="Upendra Deshpande"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Upendra Deshpande"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Harikrishna Mamillapally">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Tempest"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Karthick Mani"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Carter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Tom Tempest"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="50"/>
+    <FallOfWicket batsman="3" score="53"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="6" score="101"/>
+    <FallOfWicket batsman="8" score="105"/>
+    <FallOfWicket batsman="9" score="154"/>
+    <BowlerSummary name="Tom Tempest" overs="11" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Mike Carter" overs="8" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Upendra Deshpande" overs="12" maidens="3" runs="50" wickets="3"/>
+    <BowlerSummary name="Karthick Mani" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Manu Chadha" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Tom Herrington" overs="0.1" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
