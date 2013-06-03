@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 03 2013 19:18:21 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun Jun 02 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="D Robertson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="R Puri">
+      <HowOut how="Caught Dan Featherstone"/>
+      <Bowler name="Richard Manthorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Osbourne">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="R Dimmock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Colam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Parker">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="E Smyth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="G Coker">
+      <HowOut how="Caught Richard Manthorpe"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Smyth">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="2" runs="30" wickets="2"/>
+    <BowlerSummary name="Richard Manthorpe" overs="8" maidens="2" runs="33" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="14" maidens="2" runs="36" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="13" maidens="7" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dimmock"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Dan Featherstone">
+      <HowOut how="LBW"/>
+      <Bowler name="E Smyth"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Coker"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Barry Amos-Yeo">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Coker"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Philip Adamson">
+      <HowOut how="Caught"/>
+      <Bowler name="G Coker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dimmock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dimmock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dimmock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dimmock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="49"/>
+    <FallOfWicket batsman="2" score="63"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="4" score="104"/>
+    <FallOfWicket batsman="7" score="109"/>
+    <FallOfWicket batsman="8" score="114"/>
+    <FallOfWicket batsman="9" score="122"/>
+    <FallOfWicket batsman="10" score="122"/>
+    <FallOfWicket batsman="11" score="122"/>
+    <BowlerSummary name="R Dimmock" overs="14.5" maidens="2" runs="35" wickets="5"/>
+    <BowlerSummary name="E Smyth" overs="11" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="B Cooper" overs="7" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="H Osbourne" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="G Coker" overs="4" maidens="0" runs="5" wickets="3"/>
+  </Innings>
+</CricketMatch>
