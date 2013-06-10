@@ -79,6 +79,7 @@
     <Player surname="Cox" firstname="Ray" firstseason="1979" lastseason="1987" catches="60" mostcatchesseason="9"/>
     <Player surname="Crawford" firstname="Dave" firstseason="1992" lastseason="1992"/>
     <Player surname="Crawford" firstname="K" firstseason="1992" lastseason="1992"/>
+    <Player surname="Cross" firstname="Richard"/>
     <Player surname="Cruceon" firstname="M"/>
     
     <!-- D -->
@@ -246,6 +247,7 @@
     <Player surname="Lines" firstname="Dave" firstseason="1988" lastseason="1988" catches="3" mostcatchesseason="3"/>
     <Player surname="Lines" firstname="Jonny"/>
     <Player surname="Longmuir" firstname="Richard" firstseason="1984" lastseason="1984" catches="4" mostcatchesseason="4"/>
+    <Player surname="Low" firstname="Jonathan"/>
     <Player surname="Lunnon" firstname="Chris"/>
     
     <!-- M -->
