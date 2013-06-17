@@ -75,8 +75,9 @@
   <Opposition>Shinfield 2</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-  </Fixture>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
 
 <Fixture>
   <Date>Sat, 22 Jun 2013 12:00:00 UTC</Date>
