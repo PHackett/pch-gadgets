@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 17 2013 18:50:44 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Sonning" date="Sun Jun 16 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="Lanham">
+      <HowOut how="Caught Lewis Rudd"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Driver">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Whitmore">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mankee">
+      <HowOut how="Not Out"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="Anis">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Johnston">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Zagorski">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Travers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Bews">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Wilton"/>
+    <Batsman name="Bhamidipati"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="64"/>
+    <FallOfWicket batsman="2" score="79"/>
+    <FallOfWicket batsman="3" score="132"/>
+    <FallOfWicket batsman="5" score="149"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <FallOfWicket batsman="4" score="171"/>
+    <FallOfWicket batsman="8" score="181"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Pete Schofield" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Will Howard-Jones" overs="5" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="10" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="10" maidens="0" runs="62" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilton"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="Lanham"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Will Howard-Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Jonathan Low"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Lewis Rudd"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="50"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="2" score="156"/>
+    <BowlerSummary name="Lanham" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Bews" overs="4" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Wilton" overs="4" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Travers" overs="14" maidens="0" runs="61" wickets="0"/>
+    <BowlerSummary name="Bhamidipati" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Zagorski" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Johnston" overs="3" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+</CricketMatch>
