@@ -73,7 +73,7 @@
     <BowlerSummary name="Peter Dean" overs="6.2" maidens="0" runs="26" wickets="2"/>
     <BowlerSummary name="Spence Nichols" overs="7" maidens="0" runs="29" wickets="1"/>
     <BowlerSummary name="Ken Cochrane" overs="11" maidens="4" runs="18" wickets="1"/>
-    <BowlerSummary name="Ed Farrar" overs="5" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="5" maidens="1" runs="23" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Oscar Woodbridge" keeper="1">
