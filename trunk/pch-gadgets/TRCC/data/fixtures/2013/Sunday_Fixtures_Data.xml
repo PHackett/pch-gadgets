@@ -115,11 +115,12 @@
 
 <Fixture>
   <Date>Sun, 30 Jun 2013 12:00:00 UTC</Date>
-  <Opposition>Waltham St Lawrence</Opposition>
+  <Opposition>Ipsden</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-  </Fixture>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
 
 <Fixture>
   <Date>Sun, 7 Jul 2013 12:00:00 UTC</Date>

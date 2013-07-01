@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 01 2013 19:07:01 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Ipsden" date="Sun Jun 30 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="M Hugheston"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="135"/>
+    <FallOfWicket batsman="4" score="143"/>
+    <FallOfWicket batsman="5" score="144"/>
+    <FallOfWicket batsman="6" score="161"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <FallOfWicket batsman="8" score="173"/>
+    <FallOfWicket batsman="9" score="173"/>
+    <FallOfWicket batsman="3" score="180"/>
+    <BowlerSummary name="M Hugheston" overs="14" maidens="4" runs="37" wickets="7"/>
+    <BowlerSummary name="D Houseman" overs="19" maidens="2" runs="70" wickets="2"/>
+    <BowlerSummary name="A Simmonds" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Ploszynski" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="C Hugheston" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Ipsden">
+    <Batsman name="Wood">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Veitsch">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bennett">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="D Houseman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="C Hugheston">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Simmonds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Hugheston">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ploszynski">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Bennett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="9" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="11" maidens="2" runs="30" wickets="3"/>
+    <BowlerSummary name="Adam Smith" overs="5" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="30" wickets="3"/>
+  </Innings>
+</CricketMatch>
