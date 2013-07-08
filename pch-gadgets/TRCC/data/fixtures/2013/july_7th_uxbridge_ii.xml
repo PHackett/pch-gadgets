@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 08 2013 20:11:31 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Uxbridge II" date="Sun Jul 07 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Uxbridge II">
+    <Batsman name="W Spicer">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Jim Quartermain"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="K Sandhu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Leo">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Will Howard-Jones"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="S Nag">
+      <HowOut how="Run Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="N Suleman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="M Sherali">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <FallOfWicket batsman="1" score="66"/>
+    <FallOfWicket batsman="3" score="176"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="6" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="5" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="5" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="5.1" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Will Howard-Jones" overs="4" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Mangat"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mangan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Caught"/>
+      <Bowler name="Mangat"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Daniel Ianson" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Marilli"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Will Howard-Jones">
+      <HowOut how="Caught"/>
+      <Bowler name="Mangat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mangat"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="I Hari">
+      <HowOut how="Caught"/>
+      <Bowler name="Mangat"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="5" score="103"/>
+    <FallOfWicket batsman="6" score="136"/>
+    <FallOfWicket batsman="3" score="149"/>
+    <FallOfWicket batsman="7" score="149"/>
+    <BowlerSummary name="Mohamed" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Mangan" overs="6" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Mangat" overs="13" maidens="5" runs="30" wickets="5"/>
+    <BowlerSummary name="Marilli" overs="7" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Leo" overs="4" maidens="1" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
