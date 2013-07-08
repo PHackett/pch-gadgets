@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Jul 7 23:45:49 UTC+0100 2013 -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Sandhurst 2" date="Sat Jul 6 00:00:00 UTC+0100 2013">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sandhurst 2">
+    <Batsman name="D Sussex">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Seeburg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="K Spearman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="N Birt">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Birch (snr)">
+      <HowOut how="LBW"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="N Razlawat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="R Stone">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="C Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Oneill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="M Clapham">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Coxwell">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Extras value="39"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="3" runs="17" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="Akshay Apte" overs="10" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="9" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="8" maidens="2" runs="13" wickets="3"/>
+    <BowlerSummary name="Graham Burgess" overs="3" maidens="1" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="D Sussex"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Coxwell"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Clapham"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="LBW"/>
+      <Bowler name="D Sussex"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="D Sussex"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Oneill"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="R Stone"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="J Oneill"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Oneill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="4" score="20"/>
+    <FallOfWicket batsman="5" score="52"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <BowlerSummary name="S Coxwell" overs="6" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="D Sussex" overs="11" maidens="3" runs="31" wickets="3"/>
+    <BowlerSummary name="M Clapham" overs="7" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="R Stone" overs="4" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="J Oneill" overs="3" maidens="0" runs="13" wickets="3"/>
+  </Innings>
+</CricketMatch>
