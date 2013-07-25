@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Jul 25 2013 19:48:41 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 14 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodcote">
+    <Batsman name="Crawford">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Ravenhill">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Quastm">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Stroker">
+      <HowOut how="Run Out"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="Fahad">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Jamal">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Padwick">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Roberts"/>
+    <Batsman name="Simpson"/>
+    <Batsman name="Peates"/>
+    <Extras value="15"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="8" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="9.2" maidens="0" runs="46" wickets="4"/>
+    <BowlerSummary name="Dan Featherstone" overs="3" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="54" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stroker"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stroker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stroker"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Quastm"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Dan Featherstone">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stroker"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stroker"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stroker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="38"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="4" score="99"/>
+    <FallOfWicket batsman="1" score="138"/>
+    <FallOfWicket batsman="6" score="140"/>
+    <FallOfWicket batsman="7" score="144"/>
+    <FallOfWicket batsman="5" score="163"/>
+    <BowlerSummary name="Stroker" overs="11" maidens="7" runs="0" wickets="6"/>
+    <BowlerSummary name="Simpson" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Roberts" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Quastm" overs="7" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Padwick" overs="1" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Jamal" overs="7" maidens="1" runs="35" wickets="0"/>
+    <BowlerSummary name="Fahad" overs="2" maidens="1" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
