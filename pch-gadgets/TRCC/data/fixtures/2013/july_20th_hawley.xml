@@ -1,0 +1,67 @@
+<!-- Generated on Mon Jul 22 20:38:46 UTC+0100 2013 -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Hawley" date="Sat Jul 20 00:00:00 UTC+0100 2013">
+<MatchReport/>
+<CountsToStats/>
+<Innings batting="Twyford">
+	<Batsman name="Tim Hogarth">
+		<HowOut how="Caught"/>
+		<Bowler name="J Adams"/>
+		<Runs value="2"/>
+	</Batsman>
+	<Batsman name="Hamish Pringle"><HowOut how="Retired Hurt"/><Runs value="90"/></Batsman>
+	<Batsman name="Ken Cochrane"><HowOut how="Caught"/><Bowler name="S Thompson"/><Runs value="12"/></Batsman>
+	<Batsman name="Akshay Apte"><HowOut how="Bowled"/><Bowler name="R Rana"/><Runs value="0"/></Batsman>
+	<Batsman name="Dan Featherstone"><HowOut how="LBW"/><Bowler name="R Rana"/><Runs value="5"/></Batsman>
+	<Batsman name="Steve Walkland"><HowOut how="Caught"/><Bowler name="R Miles"/><Runs value="30"/></Batsman>
+	<Batsman name="Spence Nichols"><HowOut how="Caught"/><Bowler name="R Rana"/><Runs value="1"/></Batsman>
+	<Batsman name="Graham Burgess"><HowOut how="Bowled"/><Bowler name="J Adams"/><Runs value="4"/></Batsman>
+	<Batsman name="Steve Beamish"><HowOut how="Not Out"/><Runs value="11"/></Batsman>
+	<Batsman name="Chris Fort"><HowOut how="Not Out"/><Runs value="5"/></Batsman>
+	<Batsman name="Edward Farrar"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	
+	<Extras value="19"/>
+	
+	<FallOfWicket batsman="1" score="9"/>
+	<FallOfWicket batsman="3" score="43"/>
+	<FallOfWicket batsman="4" score="43"/>
+	<FallOfWicket batsman="5" score="76"/>
+	<FallOfWicket batsman="6" score="148"/>
+	<FallOfWicket batsman="7" score="150"/>
+	<FallOfWicket batsman="8" score="156"/>
+	
+	<BowlerSummary name="J Adams" overs="9" maidens="0" runs="24" wickets="2"/>
+	<BowlerSummary name="R Miles" overs="10" maidens="1" runs="32" wickets="1"/>
+	<BowlerSummary name="S Thompson" overs="4" maidens="0" runs="29" wickets="0"/>
+	<BowlerSummary name="R Rana" overs="11" maidens="2" runs="42" wickets="0"/>
+	<BowlerSummary name="C Adams" overs="8" maidens="2" runs="22" wickets="0"/>
+	<BowlerSummary name="Hayes" overs="3" maidens="0" runs="21" wickets="0"/>
+</Innings>
+<Innings batting="Hawley">
+	<Batsman name="D Huntingford"><HowOut how="Bowled"/><Bowler name="Spence Nichols"/><Runs value="38"/></Batsman>
+	<Batsman name="J Adams"><HowOut how="Bowled"/><Bowler name="Graham Burgess"/><Runs value="47"/></Batsman>
+	<Batsman name="P Curtis"><HowOut how="Not Out"/><Runs value="42"/></Batsman>
+	<Batsman name="C Adams"><HowOut how="Caught Tim Hogarth"/><Bowler name="Spence Nichols"/><Runs value="16"/></Batsman>
+	<Batsman name="M Tiley"><HowOut how="Not Out"/><Runs value="19"/></Batsman>
+	<Batsman name="A Sinclair"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	<Batsman name="R Miles"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	<Batsman name="A Murtboys"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	<Batsman name="R Rana"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	<Batsman name="S Thompson"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	<Batsman name="T Heighes"><HowOut how="Did Not Bat"/><Runs value="0"/></Batsman>
+	
+	<Extras value="20"/>
+	
+	<FallOfWicket batsman="1" score="80"/>
+	<FallOfWicket batsman="2" score="108"/>
+	<FallOfWicket batsman="4" score="151"/>
+	
+	<BowlerSummary name="Steve Beamish" overs="7" maidens="1" runs="38" wickets="0"/>
+	<BowlerSummary name="Akshay Apte" overs="7.2" maidens="3" runs="34" wickets="0"/>
+	<BowlerSummary name="Graham Burgess" overs="8" maidens="1" runs="26" wickets="1"/>
+	<BowlerSummary name="Spence Nichols" overs="7" maidens="0" runs="41" wickets="2"/>
+	<BowlerSummary name="Edward Farrar" overs="3" maidens="0" runs="13" wickets="0"/>
+	<BowlerSummary name="Steve Walkland" overs="2" maidens="0" runs="5" wickets="0"/>
+	<BowlerSummary name="Ken Cochrane" overs="3" maidens="0" runs="9" wickets="0"/>
+</Innings>
+</CricketMatch>
