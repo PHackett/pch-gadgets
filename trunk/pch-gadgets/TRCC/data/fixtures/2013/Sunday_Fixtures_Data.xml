@@ -145,8 +145,9 @@
   <Opposition>Woodley</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-  </Fixture>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
 
 <Fixture>
   <Date>Sun, 28 Jul 2013 12:00:00 UTC</Date>
