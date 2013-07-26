@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Jul 26 2013 14:42:14 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Woodley" date="Sun Jul 21 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Asghar"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="LBW"/>
+      <Bowler name="N Asghar"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Daniel Ianson">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Asghar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="N Asghar"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Asghar"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="LBW"/>
+      <Bowler name="N Asghar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Caught"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="LBW"/>
+      <Bowler name="Khaliq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="47"/>
+    <FallOfWicket batsman="2" score="79"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="3" score="93"/>
+    <FallOfWicket batsman="4" score="136"/>
+    <FallOfWicket batsman="6" score="136"/>
+    <FallOfWicket batsman="5" score="145"/>
+    <FallOfWicket batsman="7" score="146"/>
+    <FallOfWicket batsman="9" score="155"/>
+    <FallOfWicket batsman="8" score="165"/>
+    <BowlerSummary name="M Munir" overs="6" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="D Talib" overs="6" maidens="2" runs="21" wickets="0"/>
+    <BowlerSummary name="N Asghar" overs="4" maidens="0" runs="14" wickets="5"/>
+    <BowlerSummary name="Z Asghar" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="S Waheed" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Khaliq" overs="5" maidens="2" runs="12" wickets="1"/>
+    <BowlerSummary name="Y Khan" overs="2.1" maidens="1" runs="4" wickets="2"/>
+  </Innings>
+  <Innings batting="Woodley">
+    <Batsman name="A Qayyun">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Sisson">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Richard Manthorpe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Ali">
+      <HowOut how="Caught Daniel Ianson"/>
+      <Bowler name="Ian Evans"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Z Asghar">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Richard Manthorpe"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Raja">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Asghar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Khaliq">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="M Munir">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Y Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Waheed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Talib">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="6" score="83"/>
+    <FallOfWicket batsman="8" score="111"/>
+    <FallOfWicket batsman="7" score="122"/>
+    <FallOfWicket batsman="10" score="126"/>
+    <FallOfWicket batsman="11" score="126"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="0" runs="38" wickets="3"/>
+    <BowlerSummary name="Richard Manthorpe" overs="7" maidens="3" runs="27" wickets="2"/>
+    <BowlerSummary name="Ian Evans" overs="2" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Jim Quartermain" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2.4" maidens="0" runs="7" wickets="4"/>
+  </Innings>
+</CricketMatch>
