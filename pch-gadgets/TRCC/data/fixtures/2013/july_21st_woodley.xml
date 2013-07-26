@@ -14,7 +14,7 @@
       <Bowler name="N Asghar"/>
       <Runs value="35"/>
     </Batsman>
-    <Batsman name="Daniel Ianson">
+    <Batsman name="Daniel Ianson" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="N Asghar"/>
       <Runs value="4"/>
