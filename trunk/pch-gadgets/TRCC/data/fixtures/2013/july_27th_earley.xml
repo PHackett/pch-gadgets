@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Jul 28 23:21:55 UTC+0100 2013 -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Earley" date="Sat Jul 27 00:00:00 UTC+0100 2013">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Earley">
+    <Batsman name="R Casey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="G Shacklady">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="99"/>
+    </Batsman>
+    <Batsman name="D Howard">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="V Aduri">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="R Lean">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="M Schippers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="O Bye">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="L Verma">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Westbury">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Luis">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Hyde">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="145"/>
+    <FallOfWicket batsman="3" score="145"/>
+    <FallOfWicket batsman="2" score="202"/>
+    <FallOfWicket batsman="5" score="260"/>
+    <FallOfWicket batsman="6" score="267"/>
+    <FallOfWicket batsman="7" score="274"/>
+    <BowlerSummary name="Steve Beamish" overs="12" maidens="1" runs="55" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="11" maidens="1" runs="43" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="10" maidens="1" runs="79" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="6" maidens="0" runs="45" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Chris Lunnon">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Luis"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="R Hyde"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Lean"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Lean"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Lean"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="G Shacklady"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Caught"/>
+      <Bowler name="M Schippers"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="D Luis"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Run Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="43"/>
+    <FallOfWicket batsman="4" score="85"/>
+    <FallOfWicket batsman="6" score="85"/>
+    <FallOfWicket batsman="7" score="100"/>
+    <FallOfWicket batsman="8" score="124"/>
+    <FallOfWicket batsman="9" score="150"/>
+    <FallOfWicket batsman="10" score="187"/>
+    <FallOfWicket batsman="11" score="243"/>
+    <BowlerSummary name="D Luis" overs="12" maidens="3" runs="69" wickets="2"/>
+    <BowlerSummary name="R Hyde" overs="11" maidens="0" runs="61" wickets="1"/>
+    <BowlerSummary name="M Schippers" overs="5" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="R Lean" overs="8" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="G Shacklady" overs="5.5" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="D Howard" overs="0.1" maidens="0" runs="0" wickets="0"/>
+    <BowlerSummary name="L Verma" overs="0.2" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
