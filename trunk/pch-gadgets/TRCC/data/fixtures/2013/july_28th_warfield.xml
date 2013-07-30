@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 30 2013 19:32:29 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Warfield" date="Sun Jul 28 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Atkins"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Price"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Daniel Ianson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Atkins"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Scott"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Morris"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Scott"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="61"/>
+    <FallOfWicket batsman="4" score="62"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="7" score="78"/>
+    <FallOfWicket batsman="8" score="113"/>
+    <FallOfWicket batsman="6" score="113"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="11" score="127"/>
+    <BowlerSummary name="Martin" overs="8" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Price" overs="6" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Atkins" overs="6" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Ruddle" overs="8" maidens="5" runs="9" wickets="1"/>
+    <BowlerSummary name="Scott" overs="7.4" maidens="2" runs="29" wickets="4"/>
+    <BowlerSummary name="Morris" overs="5" maidens="2" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="I Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="M Price">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Aran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Birchall">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Torrey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Mardle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Atkins">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="12.2" maidens="0" runs="40" wickets="5"/>
+    <BowlerSummary name="Richard Manthorpe" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="28" wickets="0"/>
+  </Innings>
+</CricketMatch>
