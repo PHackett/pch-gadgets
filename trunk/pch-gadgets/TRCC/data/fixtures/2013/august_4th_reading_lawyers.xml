@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 05 2013 18:41:20 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 04 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="W Bakers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="D Loosemere">
+      <HowOut how="Not Out"/>
+      <Runs value="107"/>
+    </Batsman>
+    <Batsman name="P Mayer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="W Lake">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="P Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="G Mullett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bernstien"/>
+    <Batsman name="Asaal"/>
+    <Extras value="28"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="5" runs="32" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="12" maidens="1" runs="63" wickets="2"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="7" maidens="1" runs="42" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Burrows"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Daniel Ianson">
+      <HowOut how="LBW"/>
+      <Bowler name="Bernstien"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Lake"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Burrows"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Richard Cross">
+      <HowOut how="Caught"/>
+      <Bowler name="M Burrows"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="60"/>
+    <FallOfWicket batsman="3" score="119"/>
+    <FallOfWicket batsman="4" score="123"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <BowlerSummary name="Bernstien" overs="7" maidens="4" runs="10" wickets="1"/>
+    <BowlerSummary name="Asaal" overs="10" maidens="2" runs="24" wickets="0"/>
+    <BowlerSummary name="M Burrows" overs="10" maidens="0" runs="43" wickets="3"/>
+    <BowlerSummary name="P Mayer" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="W Lake" overs="7" maidens="0" runs="32" wickets="1"/>
+  </Innings>
+</CricketMatch>
