@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 5 00:16:33 UTC+0100 2013 -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Welford Park" date="Sat Aug 3 00:00:00 UTC+0100 2013">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ken Cochrane" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="M Singh"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="U Deshpande"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Chris Lunnon">
+      <HowOut how="LBW"/>
+      <Bowler name="M Singh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Chapman">
+      <HowOut how="Caught"/>
+      <Bowler name="U Deshpande"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="U Deshpande"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Stumped"/>
+      <Bowler name="U Deshpande"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pavan Arvapally">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="2" score="75"/>
+    <FallOfWicket batsman="5" score="179"/>
+    <FallOfWicket batsman="6" score="180"/>
+    <FallOfWicket batsman="4" score="183"/>
+    <FallOfWicket batsman="7" score="185"/>
+    <FallOfWicket batsman="9" score="187"/>
+    <BowlerSummary name="A Cale" overs="10" maidens="2" runs="53" wickets="0"/>
+    <BowlerSummary name="S Parto" overs="10" maidens="3" runs="22" wickets="0"/>
+    <BowlerSummary name="M Singh" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="K Mani" overs="11" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="U Deshpande" overs="7" maidens="0" runs="36" wickets="4"/>
+  </Innings>
+  <Innings batting="Welford Park">
+    <Batsman name="U Deshpande">
+      <HowOut how="Stumped"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="M Brook">
+      <HowOut how="Caught Chris Lunnon"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sharma">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="M George">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="M Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Chapman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Y Yalambasi">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="1" score="109"/>
+    <FallOfWicket batsman="5" score="140"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Ian Evans" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="James Chapman" overs="8" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="1.5" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
