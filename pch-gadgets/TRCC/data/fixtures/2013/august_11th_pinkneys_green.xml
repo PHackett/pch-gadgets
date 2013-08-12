@@ -110,7 +110,7 @@
     </Batsman>
     <Batsman name="Steve Green"/>
     <Batsman name="Paul Hackett"/>
-    <Extras value="0"/>
+    <Extras value="26"/>
     <FallOfWicket batsman="1" score="8"/>
     <FallOfWicket batsman="2" score="23"/>
     <FallOfWicket batsman="3" score="62"/>
