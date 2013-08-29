@@ -187,10 +187,11 @@
 
 <Fixture>
   <Date>Sun, 25 Aug 2013 12:00:00 UTC</Date>
-  <Opposition>Frampton Cottrell</Opposition>
+  <Opposition>Harptree Villages</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -198,15 +199,17 @@
   <Opposition>Cleeve</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Tue, 27 Aug 2013 12:00:00 UTC</Date>
   <Opposition>Harptree Villages</Opposition>
-  <Time>14:00</Time>
+  <Time>13:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
