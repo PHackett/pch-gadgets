@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Aug 29 2013 19:32:19 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Cleeve" date="Mon Aug 26 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cleeve">
+    <Batsman name="Anup">
+      <HowOut how="Retired"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="T Carpenter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="J Wilkins">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Lewin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Lock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Want">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="C Parsons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Cagpenter">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="J Cole">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="C James">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="3" score="74"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="5" score="115"/>
+    <FallOfWicket batsman="2" score="127"/>
+    <FallOfWicket batsman="6" score="160"/>
+    <FallOfWicket batsman="8" score="176"/>
+    <FallOfWicket batsman="10" score="250"/>
+    <FallOfWicket batsman="11" score="265"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Pete Schofield" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="2" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="6" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="41" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Carpenter"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Carpenter"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="S Lewin"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Want"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Cole"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Anup"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Want"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Caught"/>
+      <Bowler name="Anup"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anup"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="3" score="48"/>
+    <FallOfWicket batsman="4" score="66"/>
+    <FallOfWicket batsman="6" score="68"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="8" score="120"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="11" score="123"/>
+    <BowlerSummary name="J Wilkins" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="C James" overs="4" maidens="2" runs="6" wickets="0"/>
+    <BowlerSummary name="M Carpenter" overs="4" maidens="2" runs="6" wickets="2"/>
+    <BowlerSummary name="M Smith" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="J Cole" overs="4" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="S Lewin" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="C Parsons" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="T Lock" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="T Carpenter" overs="1" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="Anup" overs="2" maidens="0" runs="7" wickets="3"/>
+    <BowlerSummary name="M Want" overs="1" maidens="0" runs="2" wickets="2"/>
+  </Innings>
+</CricketMatch>

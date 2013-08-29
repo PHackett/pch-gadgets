@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Aug 29 2013 19:19:25 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Harptree Villages" date="Sun Aug 25 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Harptree Villages">
+    <Batsman name="Harry">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Hill">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="M Marsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jason">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Kelvin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Henry">
+      <HowOut how="Caught Graham Burgess"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Alex">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="P Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="A Cook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Graham Burgess" overs="7.3" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="49" wickets="4"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="George"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Hogarth"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Hogarth"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Henry"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="George"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nigel Sherratt">
+      <HowOut how="Caught"/>
+      <Bowler name="Parker"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kelvin"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Bowled"/>
+      <Bowler name="Parker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hill"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Roger Seymour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="P Hogarth" overs="4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Henry" overs="4" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="George" overs="6" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="Parker" overs="6" maidens="2" runs="13" wickets="2"/>
+    <BowlerSummary name="Kelvin" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Manish" overs="3" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Harry" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="S Hill" overs="1" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
