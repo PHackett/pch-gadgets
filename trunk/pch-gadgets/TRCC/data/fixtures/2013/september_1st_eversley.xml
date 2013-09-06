@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Sep 06 2013 20:21:44 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Eversley" date="Sun Sep 01 2013 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manning"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manning"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Manning"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Glaze"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Webb"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Mustafa Zahid">
+      <HowOut how="Caught"/>
+      <Bowler name="Howath"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Webb"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="Edwards"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Webb"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Webb"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="59"/>
+    <FallOfWicket batsman="6" score="60"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="9" score="87"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="11" score="129"/>
+    <BowlerSummary name="Glaze" overs="10" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Manning" overs="4" maidens="2" runs="11" wickets="3"/>
+    <BowlerSummary name="Howath" overs="9" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="A Webb" overs="4" maidens="2" runs="6" wickets="3"/>
+    <BowlerSummary name="Edwards" overs="3" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="C Webb" overs="1.2" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+  <Innings batting="Eversley">
+    <Batsman name="T Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="T Howath">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="A Urath">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="K Manning">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Martin">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="2" score="117"/>
+    <FallOfWicket batsman="4" score="125"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Mustafa Zahid" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="2" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="2.4" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Tom Leadbetter" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
