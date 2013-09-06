@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Sep 06 2013 10:11:42 GMT+0100 (GMT Standard Time) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="WSL" date="Sat Aug 31 2013 00:00:00 GMT+0100 (GMT Standard Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Ct"/>
+      <Bowler name="William Reid"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Ct"/>
+      <Bowler name="Ed Davies"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Ct"/>
+      <Bowler name="Richard Williams"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tia Veevers"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Mike Leigh">
+      <HowOut how="Stumped"/>
+      <Bowler name="Katie Davies"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Peter Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Katie Davies"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Retired Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="37"/>
+    <BowlerSummary name="Andrew Hartland" overs="8" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="William Reid" overs="4" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Richard Williams" overs="9" maidens="4" runs="29" wickets="1"/>
+    <BowlerSummary name="Tia Veevers" overs="7" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Katie Davies" overs="5" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Ed Davies" overs="3" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Kit Norman" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="WSL">
+    <Batsman name="Colin Parker">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Andrew Hartland">
+      <HowOut how="Not Out"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Mike Leigh" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Graham Burgess" overs="8" maidens="2" runs="51" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="7" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Peter Schofield" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="6" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Ian Evans" overs="2.4" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+</CricketMatch>
