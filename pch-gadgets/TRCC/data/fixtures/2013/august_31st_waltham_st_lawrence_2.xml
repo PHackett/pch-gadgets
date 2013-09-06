@@ -4,7 +4,7 @@
 <CricketMatch oppo="WSL" date="Sat Aug 31 2013 00:00:00 GMT+0100 (GMT Standard Time)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Oscar Woodbridge">
+    <Batsman name="Oscar Woodbridge" keeper="1">
       <HowOut how="Ct"/>
       <Bowler name="William Reid"/>
       <Runs value="4"/>
