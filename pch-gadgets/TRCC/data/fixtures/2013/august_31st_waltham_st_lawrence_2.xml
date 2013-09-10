@@ -29,7 +29,7 @@
       <Bowler name="Katie Davies"/>
       <Runs value="18"/>
     </Batsman>
-    <Batsman name="Peter Schofield">
+    <Batsman name="Pete Schofield">
       <HowOut how="Bowled"/>
       <Bowler name="Katie Davies"/>
       <Runs value="50"/>
@@ -68,7 +68,7 @@
     <BowlerSummary name="Mike Leigh" overs="3" maidens="0" runs="23" wickets="0"/>
     <BowlerSummary name="Graham Burgess" overs="8" maidens="2" runs="51" wickets="0"/>
     <BowlerSummary name="Steve Green" overs="7" maidens="0" runs="20" wickets="0"/>
-    <BowlerSummary name="Peter Schofield" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="2" maidens="0" runs="21" wickets="0"/>
     <BowlerSummary name="Stuart Barrable" overs="6" maidens="1" runs="23" wickets="0"/>
     <BowlerSummary name="Tim Hogarth" overs="2" maidens="0" runs="18" wickets="0"/>
     <BowlerSummary name="Oscar Woodbridge" overs="4" maidens="0" runs="18" wickets="0"/>
