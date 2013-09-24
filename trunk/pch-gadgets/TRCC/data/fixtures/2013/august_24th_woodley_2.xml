@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 23 23:14:01 UTC+0100 2013 -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Woodley 2" date="Sat Aug 24 00:00:00 UTC+0100 2013">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodley 2">
+    <Batsman name="J Raja">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="R Mubashar">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="M Munir">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Qayyum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Iqbal">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="J Anjum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Sisson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Kumar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Y Khan">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Mubasher">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Q Rehman">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="4" score="59"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="6" score="105"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <FallOfWicket batsman="9" score="161"/>
+    <FallOfWicket batsman="2" score="169"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="0" runs="53" wickets="3"/>
+    <BowlerSummary name="Akshay Apte" overs="5" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Graham Burgess" overs="9" maidens="2" runs="22" wickets="3"/>
+    <BowlerSummary name="Pete Schofield" overs="9" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="17" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Akshay Apte">
+      <HowOut how="Caught"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Y Khan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Raja"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="R Mubashar"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Raja"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="J Raja"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Anjum"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="4" score="66"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="8" score="109"/>
+    <BowlerSummary name="J Anjum" overs="8" maidens="2" runs="28" wickets="1"/>
+    <BowlerSummary name="Y Khan" overs="9" maidens="2" runs="25" wickets="4"/>
+    <BowlerSummary name="J Raja" overs="9" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="A Qayyum" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="R Mubashar" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="A Iqbal" overs="1" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
