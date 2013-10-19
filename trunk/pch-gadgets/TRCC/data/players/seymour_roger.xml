@@ -1,7 +1,16 @@
-<PlayerStats name="Roger Seymour" generated="Mon, 13 May 2013 19:34:44 BST">
+<PlayerStats name="Roger Seymour" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Fri Aug 25 00:00:00 UTC+0100 1995" oppo="Westland"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="2" runs="1" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 25 00:00:00 UTC+0100 2013" oppo="Harptree Villages"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2012">
     </YearData>

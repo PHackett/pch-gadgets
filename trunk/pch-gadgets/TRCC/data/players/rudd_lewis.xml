@@ -1,7 +1,10 @@
-<PlayerStats name="Lewis Rudd" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Lewis Rudd" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 28 00:00:00 UTC+0100 2009" oppo="Warfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+    </YearData>
 
     <YearData year="2011">
         <Bowling games="1" fiveplus="0">

@@ -1,0 +1,42 @@
+<PlayerStats name="Peter Dean" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 26 00:00:00 UTC+0100 2013" oppo="Frieth"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="42.2" maidens="5" runs="191" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 1 00:00:00 UTC+0100 2013" oppo="Welford Park"/>
+                <BowlingData overs="8.0" maidens="2" runs="22" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="6" runs="406" notouts="2" hundreds="0" fifties="5" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 15 00:00:00 UTC+0100 2013" oppo="Shinfield 2"/>
+                <BattingData runs="82" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 8 00:00:00 UTC+0100 2013" oppo="Knowl Hill"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 15 00:00:00 UTC+0100 2013" oppo="Shinfield 2"/>
+                <BattingData runs="82" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 22 00:00:00 UTC+0100 2013" oppo="Woodley 2"/>
+                <BattingData runs="76" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 29 00:00:00 UTC+0100 2013" oppo="Waltham St Lawrence 2"/>
+                <BattingData runs="74" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 26 00:00:00 UTC+0100 2013" oppo="Frieth"/>
+                <BattingData runs="80" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>

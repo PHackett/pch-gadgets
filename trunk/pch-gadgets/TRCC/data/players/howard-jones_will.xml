@@ -1,0 +1,22 @@
+<PlayerStats name="Will Howard-Jones" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 12 00:00:00 UTC+0100 2013" oppo="Wargrave"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="14.0" maidens="0" runs="118" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun May 12 00:00:00 UTC+0100 2013" oppo="Wargrave"/>
+                <BowlingData overs="5.0" maidens="0" runs="44" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="63" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 8 00:00:00 UTC+0100 2013" oppo="Farley Hill"/>
+                <BattingData runs="35" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

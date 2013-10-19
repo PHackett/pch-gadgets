@@ -1,7 +1,16 @@
-<PlayerStats name="Neil Weir" generated="Thu, 10 Feb 2011 20:35:18 UTC">
+<PlayerStats name="Neil Weir" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 4 00:00:00 UTC+0100 2008" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="2" runs="0" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 11 00:00:00 UTC+0100 2013" oppo="Pinkneys Green"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2009">
         <Batting innings="1" runs="4" notouts="1" hundreds="0" fifties="0" ducks="0">
@@ -20,6 +29,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

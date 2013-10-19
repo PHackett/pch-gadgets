@@ -1,0 +1,14 @@
+<PlayerStats name="Jonathon Low" generated="Sat, 19 Oct 2013 15:06:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2013" oppo="Greys Green"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="1" runs="3" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2013" oppo="Greys Green"/>
+                <BattingData runs="3" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

@@ -1,0 +1,22 @@
+<PlayerStats name="Hamish Pringle" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 20 00:00:00 UTC+0100 2013" oppo="Hawley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="4" runs="155" notouts="0" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 20 00:00:00 UTC+0100 2013" oppo="Hawley"/>
+                <BattingData runs="90" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 20 00:00:00 UTC+0100 2013" oppo="Hawley"/>
+                <BattingData runs="90" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 31 00:00:00 UTC+0100 2013" oppo="WSL"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>

@@ -1,0 +1,14 @@
+<PlayerStats name="Philip Adamson" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 2 00:00:00 UTC+0100 2013" oppo="Theale and Tilehurst"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 2 00:00:00 UTC+0100 2013" oppo="Theale and Tilehurst"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

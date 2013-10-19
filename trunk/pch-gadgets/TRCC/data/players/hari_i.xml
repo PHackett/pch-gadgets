@@ -1,0 +1,14 @@
+<PlayerStats name="I Hari" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 7 00:00:00 UTC+0100 2013" oppo="Uxbridge II"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="1" runs="5" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 7 00:00:00 UTC+0100 2013" oppo="Uxbridge II"/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

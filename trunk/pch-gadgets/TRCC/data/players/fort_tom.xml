@@ -1,7 +1,16 @@
-<PlayerStats name="Tom Fort" generated="Mon, 13 May 2013 19:34:44 BST">
+<PlayerStats name="Tom Fort" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1975" oppo="Ibis"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="11" runs="181" notouts="1" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Sep 29 00:00:00 UTC+0100 2013" oppo="Binfield"/>
+                <BattingData runs="45" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2012">
         <Batting innings="6" runs="55" notouts="1" hundreds="0" fifties="0" ducks="0">
