@@ -1,0 +1,14 @@
+<PlayerStats name="Daniel Ianson" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 12 00:00:00 UTC+0100 2013" oppo="Wargrave"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="4" runs="47" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 28 00:00:00 UTC+0100 2013" oppo="Warfield"/>
+                <BattingData runs="27" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

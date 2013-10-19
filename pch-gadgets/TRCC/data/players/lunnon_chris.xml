@@ -1,7 +1,20 @@
-<PlayerStats name="Chris Lunnon" generated="Mon, 13 May 2013 19:34:44 BST">
+<PlayerStats name="Chris Lunnon" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 2 00:00:00 UTC+0100 2009" oppo="Waltham 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="6" runs="112" notouts="0" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 10 00:00:00 UTC+0100 2013" oppo="Knowl Hill"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 10 00:00:00 UTC+0100 2013" oppo="Knowl Hill"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2012">
         <Batting innings="2" runs="64" notouts="0" hundreds="0" fifties="0" ducks="0">

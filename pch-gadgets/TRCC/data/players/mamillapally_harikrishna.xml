@@ -1,0 +1,14 @@
+<PlayerStats name="Harikrishna Mamillapally" generated="Sat, 19 Oct 2013 15:11:01 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 1 00:00:00 UTC+0100 2013" oppo="Welford Park"/>
+    </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="2" runs="7" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 22 00:00:00 UTC+0100 2013" oppo="Woodley 2"/>
+                <BattingData runs="4" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

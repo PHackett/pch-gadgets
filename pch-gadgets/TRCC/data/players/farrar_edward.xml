@@ -1,7 +1,24 @@
-<PlayerStats name="Edward Farrar" generated="Mon, 13 May 2013 19:34:44 BST">
+<PlayerStats name="Edward Farrar" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 4 00:00:00 UTC+0100 2010" oppo="Harpsden"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="32.3" maidens="2" runs="193" wickets="8"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 8 00:00:00 UTC+0100 2013" oppo="Farley Hill"/>
+                <BowlingData overs="5.0" maidens="0" runs="36" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="30" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Jul 27 00:00:00 UTC+0100 2013" oppo="Earley"/>
+                <BattingData runs="19" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2012">
         <Bowling games="3" fiveplus="0">

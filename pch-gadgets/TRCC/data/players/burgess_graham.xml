@@ -1,7 +1,24 @@
-<PlayerStats name="Graham Burgess" generated="Mon, 13 May 2013 19:34:44 BST">
+<PlayerStats name="Graham Burgess" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 17 00:00:00 UTC+0100 2011" oppo="Big Hammer"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Bowling games="22" fiveplus="0">
+            <BowlingData overs="186.3" maidens="31" runs="722" wickets="31"/>
+            <BowlingBest>
+                <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2013" oppo="Harptree Villages"/>
+                <BowlingData overs="6.1" maidens="3" runs="10" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="22" runs="172" notouts="5" hundreds="0" fifties="0" ducks="6">
+            <BattingBest>
+                <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2013" oppo="Harptree Villages"/>
+                <BattingData runs="37" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2012">
         <Bowling games="8" fiveplus="0">

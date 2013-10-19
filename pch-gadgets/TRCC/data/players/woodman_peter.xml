@@ -1,7 +1,20 @@
-<PlayerStats name="Peter Woodman" generated="Mon, 13 May 2013 19:34:44 BST">
+<PlayerStats name="Peter Woodman" generated="Sat, 19 Oct 2013 15:11:01 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
     </FirstRecordedGame>
+
+    <YearData year="2013">
+        <Batting innings="14" runs="275" notouts="0" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 14 00:00:00 UTC+0100 2013" oppo="Woodcote"/>
+                <BattingData runs="79" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 14 00:00:00 UTC+0100 2013" oppo="Woodcote"/>
+                <BattingData runs="79" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2012">
         <Batting innings="12" runs="221" notouts="2" hundreds="0" fifties="1" ducks="1">
