@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sat, 3 May 2014 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 10 May 2014 12:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 17 May 2014 12:00:00 UTC</Date>
+  <Opposition>No Game</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 24 May 2014 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 31 May 2014 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 7 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 14 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>BCS Grosvenor 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 21 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 28 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 5 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 12 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 19 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>No game</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 26 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 2 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 9 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 16 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>BCS Grosvenor 2</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 23 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 30 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+</YearsFixtures>
+
