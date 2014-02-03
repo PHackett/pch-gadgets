@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sun, 27 Apr 2014 12:00:00 UTC</Date>
+  <Opposition>Stonor</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 4 May 2014 12:00:00 UTC</Date>
+  <Opposition>Ascot</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 11 May 2014 12:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 18 May 2014 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 25 May 2014 12:00:00 UTC</Date>
+  <Opposition>Frieth</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 26 May 2014 12:00:00 UTC</Date>
+  <Opposition>Presidents XI</Opposition>
+  <Time>12:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 1 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Theale and Tilehurst</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 8 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 15 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 22 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 29 Jun 2014 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 6 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Uxbridge II</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 13 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 20 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Woodley</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 27 Jul 2014 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 3 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 10 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Pinkneys Green</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 17 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Falkland</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 24 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Harptree Villages</Opposition>
+  <Time>14:00</Time>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 25 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Cleeve</Opposition>
+  <Time>14:00</Time>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Tue, 26 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Harptree Villages</Opposition>
+  <Time>13:00</Time>
+  <Venue>Tour</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 31 Aug 2014 12:00:00 UTC</Date>
+  <Opposition>Eversley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 7 Sep 2014 12:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 14 Sep 2014 12:00:00 UTC</Date>
+  <Opposition>Lower Earley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 21 Sep 2014 12:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 28 Sep 2014 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+</YearsFixtures>
+
