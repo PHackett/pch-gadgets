@@ -3,7 +3,7 @@
   <Fixture>
     <Date>Sun, 18 May 2014 12:00:00 GMT</Date>
     <Opposition>Hurst</Opposition>
-    <Time>10:30</Time>
+    <Time>10:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
@@ -19,7 +19,7 @@
   <Fixture>
     <Date>Sun, 8 Jun 2014 12:00:00 GMT</Date>
     <Opposition>Shinfield 1</Opposition>
-    <Time>9:30</Time>
+    <Time>09:30</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
@@ -51,7 +51,7 @@
   <Fixture>
     <Date>Sun, 6 Jul 2014 12:00:00 GMT</Date>
     <Opposition>Crownwood and Crowthorne</Opposition>
-    <Time>9:30</Time>
+    <Time>09:30</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
@@ -59,7 +59,7 @@
   <Fixture>
     <Date>Sun, 13 Jul 2014 12:00:00 GMT</Date>
     <Opposition>Finchampstead Falcons</Opposition>
-    <Time>9:30</Time>
+    <Time>09:30</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
@@ -67,7 +67,7 @@
   <Fixture>
     <Date>Sun, 20 Jul 2014 12:00:00 GMT</Date>
     <Opposition>Sonning and Charvil 1</Opposition>
-    <Time>9:30</Time>
+    <Time>09:30</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
