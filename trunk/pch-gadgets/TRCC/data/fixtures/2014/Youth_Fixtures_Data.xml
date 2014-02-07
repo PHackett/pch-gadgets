@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<YearsFixtures>
+  <Fixture>
+    <Date>Sun, 18 May 2014 12:00:00 GMT</Date>
+    <Opposition>Hurst</Opposition>
+    <Time>10:30</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Thu, 5 Jun 2014 12:00:00 GMT</Date>
+    <Opposition>Hurley</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 8 Jun 2014 12:00:00 GMT</Date>
+    <Opposition>Shinfield 1</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 15 Jun 2014 12:00:00 GMT</Date>
+    <Opposition>Maidenhead and Bray 2</Opposition>
+    <Time>10:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Thu, 26 Jun 2014 12:00:00 GMT</Date>
+    <Opposition>Wokingham</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 29 Jun 2014 12:00:00 GMT</Date>
+    <Opposition>Wargrave</Opposition>
+    <Time>09:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 6 Jul 2014 12:00:00 GMT</Date>
+    <Opposition>Crownwood and Crowthorne</Opposition>
+    <Time>9:30</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 13 Jul 2014 12:00:00 GMT</Date>
+    <Opposition>Finchampstead Falcons</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 20 Jul 2014 12:00:00 GMT</Date>
+    <Opposition>Sonning and Charvil 1</Opposition>
+    <Time>9:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+</YearsFixtures>
