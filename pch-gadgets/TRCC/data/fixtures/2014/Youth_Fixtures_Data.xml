@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+        "NotYetPlayed"
+        "Cancelled"
+-->
+
 <YearsFixtures>
   <Fixture>
     <Date>Sun, 18 May 2014 12:00:00 GMT</Date>
