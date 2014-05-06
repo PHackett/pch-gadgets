@@ -22,14 +22,15 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>Rain</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sun, 4 May 2014 12:00:00 UTC</Date>
-  <Opposition>TBC</Opposition>
+  <Opposition>Bracknell</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
