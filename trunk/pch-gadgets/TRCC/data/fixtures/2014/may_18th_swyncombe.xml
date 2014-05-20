@@ -85,7 +85,7 @@
       <Bowler name="P Collins"/>
       <Runs value="26"/>
     </Batsman>
-    <Batsman name="Jim Quartermain">
+    <Batsman name="Jim Quartermain" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="P Collins"/>
       <Runs value="12"/>
