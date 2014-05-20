@@ -56,6 +56,14 @@
   </Fixture>
   
   <Fixture>
+    <Date>Sun, 22 Jun 2014 12:00:00 GMT</Date>
+    <Opposition>Sonning and Charvil 1</Opposition>
+    <Time>09:30</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
     <Date>Sun, 29 Jun 2014 12:00:00 GMT</Date>
     <Opposition>Wargrave</Opposition>
     <Time>09:30</Time>
@@ -74,14 +82,6 @@
   <Fixture>
     <Date>Sun, 13 Jul 2014 12:00:00 GMT</Date>
     <Opposition>Finchampstead Falcons</Opposition>
-    <Time>09:30</Time>
-    <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
-  </Fixture>
-  
-  <Fixture>
-    <Date>Sun, 20 Jul 2014 12:00:00 GMT</Date>
-    <Opposition>Sonning and Charvil 1</Opposition>
     <Time>09:30</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
