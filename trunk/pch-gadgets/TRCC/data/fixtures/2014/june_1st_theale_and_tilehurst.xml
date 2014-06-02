@@ -108,7 +108,7 @@
       <Bowler name="D Reid"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="T Kasozimusoke"/>
       <Runs value="2"/>
