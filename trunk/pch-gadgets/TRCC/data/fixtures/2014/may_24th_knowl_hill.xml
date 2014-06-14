@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Jun 14 2014 16:37:57 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Knowl Hill" date="Sat May 24 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Knowl Hill">
+    <Batsman name="D Gordon">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="A Stott">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Ian Evans"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="I Millson">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="M Crawcour">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="T Darvell">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Brookman">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Stoker">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="N Hopper">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Plank"/>
+    <Batsman name="N Depledge"/>
+    <Batsman name="J Randall"/>
+    <Extras value="8"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="9" maidens="4" runs="17" wickets="0"/>
+    <BowlerSummary name="Ian Evans" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="9" maidens="2" runs="39" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="10" maidens="1" runs="46" wickets="4"/>
+    <BowlerSummary name="Pete Schofield" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Simon Burr" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Hopper"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stoker"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="M Crawcour"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="N Hopper"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stoker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Evans"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="7" score="118"/>
+    <FallOfWicket batsman="8" score="124"/>
+    <FallOfWicket batsman="9" score="125"/>
+    <BowlerSummary name="A Brookman" overs="10" maidens="5" runs="15" wickets="3"/>
+    <BowlerSummary name="J Stoker" overs="7.4" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="N Hopper" overs="10" maidens="0" runs="53" wickets="2"/>
+    <BowlerSummary name="M Crawcour" overs="8" maidens="0" runs="37" wickets="1"/>
+  </Innings>
+</CricketMatch>
