@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Jun 14 2014 16:47:51 GMT+0100 (BST) -->
+<!-- Result = Abandonned -->
+<CricketMatch oppo="Stratfield Turgis 2" date="Sat May 10 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Stratfield Turgis 2">
+    <Batsman name="T Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="I Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="R Kennedy">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Gedded">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Steve Beamish" overs="6.2" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="5" maidens="2" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
