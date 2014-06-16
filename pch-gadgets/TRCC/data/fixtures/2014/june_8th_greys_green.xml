@@ -1,12 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Sun Jun 15 2014 09:05:11 GMT+0100 (BST) -->
+<!-- Generated on Mon Jun 16 2014 19:12:15 GMT+0100 (BST) -->
 <!-- Result = Lose -->
 <CricketMatch oppo="Greys Green" date="Sun Jun 08 2014 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Shafqat"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Yasar Khan">
+      <HowOut how="Caught"/>
+      <Bowler name="Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Shafqat"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruan"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Ruan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Ruan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="Cross"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Run Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cross"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Caught"/>
+      <Bowler name="Perry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Rooke" overs="6" maidens="5" runs="5" wickets="0"/>
+    <BowlerSummary name="Ahmed" overs="7" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Shafqat" overs="6" maidens="4" runs="11" wickets="2"/>
+    <BowlerSummary name="Ruan" overs="7" maidens="3" runs="17" wickets="3"/>
+    <BowlerSummary name="Perry" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Cross" overs="2.4" maidens="0" runs="8" wickets="2"/>
   </Innings>
   <Innings batting="Greys Green">
-    <Extras value="0"/>
+    <Batsman name="N Dennis">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="S Perry">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Extras value="5"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Yasar Khan" overs="7" maidens="2" runs="11" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="2.4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="2" maidens="0" runs="21" wickets="0"/>
   </Innings>
 </CricketMatch>
