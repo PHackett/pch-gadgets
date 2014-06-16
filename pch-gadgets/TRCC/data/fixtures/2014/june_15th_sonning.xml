@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 16 2014 19:20:51 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Sonning" date="Sun Jun 15 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="R Shaker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="B Zagorski">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Blakey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Dave">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Holland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Dave">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="G Wilton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Bhamidipati">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Bews">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Travers">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="2" runs="24" wickets="5"/>
+    <BowlerSummary name="Steve Green" overs="4" maidens="1" runs="5" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="2" maidens="0" runs="2" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Daniel Ianson"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Alan Woodbridge"/>
+    <Batsman name="Rajeeve Narula"/>
+    <Batsman name="Oscar Woodbridge"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="8"/>
+    <BowlerSummary name="M Bews" overs="3" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="B Travers" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="R Shaker" overs="3" maidens="1" runs="3" wickets="0"/>
+    <BowlerSummary name="G Wilton" overs="2.5" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
