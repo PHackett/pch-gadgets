@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jun 24 2014 07:33:18 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Crowthorne" date="Sun Jun 22 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crowthorne">
+    <Batsman name="D Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Bairnes">
+      <HowOut how="LBW"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Davies">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="N McDonagh">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="B McKenzie">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Storey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="A Wr">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Golding">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Miller">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="4" score="35"/>
+    <FallOfWicket batsman="5" score="42"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="7" score="42"/>
+    <FallOfWicket batsman="8" score="61"/>
+    <FallOfWicket batsman="9" score="63"/>
+    <FallOfWicket batsman="11" score="65"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="5" maidens="2" runs="8" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="0" runs="10" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="15" wickets="3"/>
+    <BowlerSummary name="Pete Schofield" overs="3" maidens="1" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Miller"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="P Clarke"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Bairnes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="J Davies"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pete Schofield"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="7" score="55"/>
+    <BowlerSummary name="M Miller" overs="7" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="P Clarke" overs="6" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="N McDonagh" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="A Bairnes" overs="5" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="S Clarke" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="J Davies" overs="2.4" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+</CricketMatch>
