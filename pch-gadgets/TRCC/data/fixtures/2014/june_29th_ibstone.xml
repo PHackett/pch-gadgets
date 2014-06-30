@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 30 2014 18:32:34 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Ibstone" date="Sun Jun 29 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="A Ali"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A North"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="A Ali"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lee"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="A Ali"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Yasar Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Edward Farrar"/>
+    <Batsman name="Simon Farrar"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="3" score="98"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="4" score="128"/>
+    <BowlerSummary name="A North" overs="7" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="A Ali" overs="10" maidens="1" runs="35" wickets="3"/>
+    <BowlerSummary name="M Hunt" overs="3" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="P Roberts" overs="9" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="T Hester" overs="8" maidens="2" runs="21" wickets="0"/>
+    <BowlerSummary name="Lee" overs="6" maidens="0" runs="34" wickets="1"/>
+  </Innings>
+  <Innings batting="Ibstone">
+    <Batsman name="N Nester">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="T Nester">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="90"/>
+    </Batsman>
+    <Batsman name="A Jackson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A North">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Maclelian">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Hunt">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="R Wilson">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Saunders">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Ali">
+      <HowOut how="Bowled"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Roberts"/>
+    <Extras value="11"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="11" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="Yasar Khan" overs="7" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="0" runs="45" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+</CricketMatch>
