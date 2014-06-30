@@ -38,7 +38,7 @@
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Edward Farrar"/>
-    <Batsman name="Simon Farrar"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Tom Downes"/>
     <Batsman name="Paul Hackett"/>
     <Extras value="13"/>
