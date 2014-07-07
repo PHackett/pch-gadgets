@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 07 2014 18:26:08 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Joe Downes XI" date="Sun Jul 06 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Joe Downes XI">
+    <Batsman name="M Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Manthorpe"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Pranav">
+      <HowOut how="Retired"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Dav">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Varun">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Doughty">
+      <HowOut how="Run Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Shank">
+      <HowOut how="Retired"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Gannon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kelkar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="B Jones"/>
+    <Batsman name="Smith"/>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="80"/>
+    <FallOfWicket batsman="4" score="147"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Richard Manthorpe" overs="3" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="6" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="5" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Kelkar"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Smith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Smith"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pranav"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Pranav"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="42"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="4" score="113"/>
+    <FallOfWicket batsman="5" score="132"/>
+    <FallOfWicket batsman="2" score="173"/>
+    <FallOfWicket batsman="7" score="173"/>
+    <FallOfWicket batsman="6" score="177"/>
+    <FallOfWicket batsman="8" score="182"/>
+    <FallOfWicket batsman="10" score="182"/>
+    <BowlerSummary name="Joe Downes" overs="9" maidens="2" runs="26" wickets="4"/>
+    <BowlerSummary name="Kelkar" overs="8" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Doughty" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="B Jones" overs="2" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Smith" overs="4" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Varun" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Pranav" overs="6" maidens="1" runs="24" wickets="2"/>
+  </Innings>
+</CricketMatch>
