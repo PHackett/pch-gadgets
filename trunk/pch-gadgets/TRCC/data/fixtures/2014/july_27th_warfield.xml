@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 28 2014 20:10:00 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Warfield" date="Sun Jul 27 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="J Birchall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="I Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="L Pollard">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="H Fuller">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Sutcliffe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="K Fuller">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="D Torry">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="M Price">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="E Puller">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Atkins"/>
+    <Batsman name="C Martin"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="1" score="46"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="8" score="94"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="4" runs="9" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="2" runs="31" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="10" maidens="2" runs="47" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="8" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Price"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Price"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Fuller"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Atkins"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Fuller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Raja Singh" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="M Price"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="M Price"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="4" score="60"/>
+    <FallOfWicket batsman="3" score="101"/>
+    <FallOfWicket batsman="6" score="103"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="8" score="124"/>
+    <BowlerSummary name="M Price" overs="9" maidens="2" runs="35" wickets="4"/>
+    <BowlerSummary name="K Fuller" overs="9.3" maidens="2" runs="45" wickets="2"/>
+    <BowlerSummary name="J Atkins" overs="6" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="E Puller" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="D Torry" overs="5" maidens="2" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
