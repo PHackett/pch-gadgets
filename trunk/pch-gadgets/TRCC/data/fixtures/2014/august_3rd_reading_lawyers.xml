@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 04 2014 20:30:07 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Reading Lawyers" date="Sun Aug 03 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="G Ashby">
+      <HowOut how="Not Out"/>
+      <Runs value="133"/>
+    </Batsman>
+    <Batsman name="Aqiba">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Baker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Platt">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Symons">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lawrence">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Meyer"/>
+    <Batsman name="Frost"/>
+    <Batsman name="Seymour"/>
+    <Batsman name="Taylor"/>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="82"/>
+    <FallOfWicket batsman="3" score="98"/>
+    <FallOfWicket batsman="4" score="186"/>
+    <FallOfWicket batsman="5" score="192"/>
+    <FallOfWicket batsman="6" score="246"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="54" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="12" maidens="0" runs="75" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="9" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Angus Weir" overs="4" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="2" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Bowler name="Frost"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="Seymour"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught"/>
+      <Bowler name="Meyer"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Run Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aqiba"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Frost"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Meyer"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Meyer"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Meyer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="4" score="84"/>
+    <FallOfWicket batsman="6" score="88"/>
+    <FallOfWicket batsman="7" score="97"/>
+    <FallOfWicket batsman="8" score="136"/>
+    <FallOfWicket batsman="9" score="143"/>
+    <BowlerSummary name="Seymour" overs="8" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Frost" overs="10" maidens="4" runs="30" wickets="2"/>
+    <BowlerSummary name="Meyer" overs="10" maidens="2" runs="40" wickets="4"/>
+    <BowlerSummary name="Aqiba" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Platt" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="G Ashby" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Taylor" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
