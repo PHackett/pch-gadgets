@@ -57,7 +57,7 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
-      <HowOut how="Not Out"/>
+      <HowOut how="Bowled"/>
       <Bowler name="Frost"/>
       <Runs value="4"/>
     </Batsman>
