@@ -179,7 +179,7 @@
   <Opposition>TBC</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 
 <Fixture>
@@ -187,7 +187,7 @@
   <Opposition>Cleeve</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Rain</Result>
 </Fixture>
 
 <Fixture>
@@ -195,7 +195,8 @@
   <Opposition>Harptree</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
