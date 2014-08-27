@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Aug 27 2014 19:44:25 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Harptree" date="Tue Aug 26 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught"/>
+      <Bowler name="T Hogarth"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hogarth"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Hogarth"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Marsh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Hill"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Nigel Sherratt">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Hill"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="S Hill"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Theo Hosegood">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Marsh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lyons">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="2" score="62"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="6" score="133"/>
+    <FallOfWicket batsman="7" score="133"/>
+    <FallOfWicket batsman="4" score="137"/>
+    <FallOfWicket batsman="9" score="140"/>
+    <BowlerSummary name="S Hill" overs="7" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="R Currel" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="T Hogarth" overs="6" maidens="0" runs="18" wickets="3"/>
+    <BowlerSummary name="P Hogarth" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="M Ward" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="S Cook" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="M Marsh" overs="5" maidens="0" runs="5" wickets="2"/>
+  </Innings>
+  <Innings batting="Harptree">
+    <Batsman name="P Haige">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="P Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Hill">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Cook">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Theo Hosegood"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Thomas">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="T Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="M Marsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="R Currel">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="M Ward">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Cook">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="9" wickets="2"/>
+    <BowlerSummary name="Theo Hosegood" overs="7" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="7" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Angus Weir" overs="4" maidens="1" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>
