@@ -104,10 +104,11 @@
 
 <Fixture>
   <Date>Sat, 5 Jul 2014 12:00:00 UTC</Date>
-  <Opposition>Woodley 2</Opposition>
+  <Opposition>Woodley</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
