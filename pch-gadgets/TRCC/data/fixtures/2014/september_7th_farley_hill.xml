@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 08 2014 19:38:33 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Farley Hill" date="Sun Sep 07 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jalil"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="Phaal"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="T Khan"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jalil"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phaal"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Hussain"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Raja Singh" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Khan"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Jalil"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="2" score="52"/>
+    <FallOfWicket batsman="6" score="53"/>
+    <FallOfWicket batsman="5" score="106"/>
+    <FallOfWicket batsman="7" score="169"/>
+    <FallOfWicket batsman="9" score="182"/>
+    <FallOfWicket batsman="8" score="183"/>
+    <BowlerSummary name="Jalil" overs="10" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="T Khan" overs="10" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="M Khan" overs="7" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Phaal" overs="6" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Hussain" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Henry" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Tim" overs="2" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Farley Hill">
+    <Batsman name="A Khokhar">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="M Worsley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="B Hussain">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="T DeMeyer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Phaal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Jalil">
+      <HowOut how="Not Out"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="S Henry">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Loney">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="An Other">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="3" score="82"/>
+    <FallOfWicket batsman="7" score="177"/>
+    <FallOfWicket batsman="8" score="181"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="1" runs="45" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="11" maidens="1" runs="42" wickets="3"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="3" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
