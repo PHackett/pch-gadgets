@@ -108,12 +108,12 @@
     <Batsman name="S Henry">
       <HowOut how="Caught Pete Schofield"/>
       <Bowler name="Joe Downes"/>
-      <Runs value="4"/>
+      <Runs value="34"/>
     </Batsman>
     <Batsman name="G Loney">
       <HowOut how="Caught Pete Schofield"/>
       <Bowler name="Paul Hackett"/>
-      <Runs value="34"/>
+      <Runs value="4"/>
     </Batsman>
     <Batsman name="An Other">
       <HowOut how="Not Out"/>
