@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 15 2014 19:12:11 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<CricketMatch oppo="Lower Earley" date="Sun Sep 14 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hunt"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Davidson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Davidson"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Davidson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Yasar Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Jonathan Low"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="35"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="5" score="138"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <BowlerSummary name="Hunt" overs="10" maidens="3" runs="32" wickets="1"/>
+    <BowlerSummary name="Karamat" overs="8" maidens="2" runs="33" wickets="0"/>
+    <BowlerSummary name="Davidson" overs="9" maidens="2" runs="42" wickets="3"/>
+    <BowlerSummary name="Sharmer" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Harwood" overs="3" maidens="0" runs="35" wickets="0"/>
+  </Innings>
+  <Innings batting="Lower Earley">
+    <Batsman name="S Gomes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="S Maynard">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Khan">
+      <HowOut how="LBW"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Sharmer">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="A Chowdhary">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="G OGrady">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Karamat">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Davidson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hunt">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Harwood"/>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="1" score="99"/>
+    <FallOfWicket batsman="6" score="116"/>
+    <FallOfWicket batsman="8" score="117"/>
+    <FallOfWicket batsman="9" score="134"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="11" maidens="1" runs="40" wickets="3"/>
+    <BowlerSummary name="Yasar Khan" overs="6" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
