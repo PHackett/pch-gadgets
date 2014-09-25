@@ -1,12 +1,93 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Thu Jul 31 2014 20:11:55 GMT+0100 (BST) -->
+<!-- Generated on Wed Sep 24 2014 21:43:35 GMT+0100 (GMT Daylight Time) -->
 <!-- Result = Lose -->
-<CricketMatch oppo="Stratfield Turgis 2" date="Sat Jul 12 2014 00:00:00 GMT+0100 (BST)">
+<CricketMatch oppo="Stratfield Turgid" date="Sat Jul 12 2014 00:00:00 GMT+0100 (GMT Daylight Time)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="C Strudley"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Myson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Javeed Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Figzal"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="L Figzal"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="J Ormston"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Dyson"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Dyson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Figzal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="C Myson" overs="10" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="C Strudley" overs="10" maidens="2" runs="48" wickets="1"/>
+    <BowlerSummary name="L Figzal" overs="9" maidens="1" runs="59" wickets="3"/>
+    <BowlerSummary name="A Roberts" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="J Ormston" overs="3" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="M Dyson" overs="2" maidens="0" runs="15" wickets="2"/>
   </Innings>
-  <Innings batting="Stratfield Turgis 2">
-    <Extras value="0"/>
+  <Innings batting="Stratfield Turgid">
+    <Batsman name="T Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="R Kennedy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Ormston">
+      <HowOut how="Caught "/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="M Dyson">
+      <HowOut how="Not Out"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="A Roberts">
+      <HowOut how="Caught "/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="I Geddes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="8" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Javeed Khan" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="9" maidens="0" runs="61" wickets="2"/>
+    <BowlerSummary name="Angus Weir" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Mark Higgins" overs="3" maidens="0" runs="25" wickets="0"/>
   </Innings>
 </CricketMatch>
