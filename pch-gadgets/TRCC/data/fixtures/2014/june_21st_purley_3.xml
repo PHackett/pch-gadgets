@@ -48,7 +48,11 @@
       <Bowler name="Nufail"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="Chris Fort"/>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+      
     <Batsman name="Ian Evans">
       <HowOut how="LBW"/>
       <Bowler name="Pahi Selveratnam"/>
@@ -69,13 +73,19 @@
       <Bowler name="Steve Walkland"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="James Denton"/>
+    <Batsman name="James Denton">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
     <Batsman name="Pahi Selveratnam">
       <HowOut how="Bowled"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="20"/>
     </Batsman>
-    <Batsman name="Arshad Mohamed"/>
+    <Batsman name="Arshad Mohamed">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
     <Extras value="17"/>
     <BowlerSummary name="Steve Walkland" overs="8" maidens="1" runs="18" wickets="1"/>
     <BowlerSummary name="Oscar Woodbridge" overs="8.1" maidens="1" runs="24" wickets="0"/>
