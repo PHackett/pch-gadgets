@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 24 2014 21:40:10 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Knowl Hill" date="Sat Jul 26 2014 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hamish Pringle">
+      <HowOut how="LBW"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught"/>
+      <Bowler name="T Goodlock"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="M Crancour"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Crancour"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Javeed Khan">
+      <HowOut how="Stumped"/>
+      <Bowler name="I Thompson"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Caught"/>
+      <Bowler name="I Thompson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Goodlock"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Brookman"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Graham Burgess">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Hopper"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="N Hopper" overs="10" maidens="1" runs="52" wickets="1"/>
+    <BowlerSummary name="I Thompson" overs="10" maidens="0" runs="59" wickets="2"/>
+    <BowlerSummary name="A Brookman" overs="9" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="T Goodlock" overs="10" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="M Crancour" overs="6" maidens="0" runs="34" wickets="2"/>
+  </Innings>
+  <Innings batting="Knowl Hill">
+    <Batsman name="D Gordon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Plank">
+      <HowOut how="Caught "/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Stott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="M Crancour">
+      <HowOut how="Caught "/>
+      <Bowler name="Graham Burgess"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Darvell">
+      <HowOut how="Caught "/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="I Millson">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="N Depledge">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="31"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Graham Burgess" overs="7" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="7" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="5" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Pete Schofield" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
