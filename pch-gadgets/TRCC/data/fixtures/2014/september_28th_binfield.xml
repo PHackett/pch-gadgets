@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 29 2014 19:13:43 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Binfield" date="Sun Sep 28 2014 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="M Hayman">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Higginson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="T Boad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Not Out"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="M York">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Adam Smith"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Allan-Canty">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="S York">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="W Guest">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Goddard"/>
+    <Batsman name="S Andrews"/>
+    <Batsman name="S Collett"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="8" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Adam Smith" overs="9" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="2" runs="27" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="P Edgington"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="S Collett"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Collett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hayman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hayman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S York"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="S York"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <FallOfWicket batsman="2" score="141"/>
+    <FallOfWicket batsman="6" score="141"/>
+    <FallOfWicket batsman="7" score="142"/>
+    <FallOfWicket batsman="8" score="157"/>
+    <FallOfWicket batsman="5" score="170"/>
+    <FallOfWicket batsman="9" score="173"/>
+    <BowlerSummary name="I Goddard" overs="9" maidens="2" runs="42" wickets="2"/>
+    <BowlerSummary name="S Collett" overs="7" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="S Andrews" overs="6" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="W Guest" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="M Hayman" overs="2" maidens="0" runs="4" wickets="2"/>
+    <BowlerSummary name="P Edgington" overs="2" maidens="1" runs="5" wickets="1"/>
+    <BowlerSummary name="S York" overs="2.3" maidens="0" runs="16" wickets="2"/>
+  </Innings>
+</CricketMatch>
