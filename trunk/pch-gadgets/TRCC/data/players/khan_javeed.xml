@@ -1,0 +1,22 @@
+<PlayerStats name="Javeed Khan" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 5 00:00:00 UTC+0100 2014" oppo="Woodley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2.0" maidens="0" runs="15" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 12 00:00:00 UTC+0100 2014" oppo="Stratfield Turgid"/>
+                <BowlingData overs="2.0" maidens="0" runs="15" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="78" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 12 00:00:00 UTC+0100 2014" oppo="Stratfield Turgid"/>
+                <BattingData runs="48" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

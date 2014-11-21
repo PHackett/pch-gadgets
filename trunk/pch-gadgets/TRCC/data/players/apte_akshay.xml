@@ -1,7 +1,24 @@
-<PlayerStats name="Akshay Apte" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Akshay Apte" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 6 00:00:00 UTC+0100 2011" oppo="Bradfield 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="15.5" maidens="4" runs="27" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 2014" oppo="Welford Park 2"/>
+                <BowlingData overs="8.5" maidens="2" runs="13" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="2" runs="24" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 2014" oppo="Welford Park 2"/>
+                <BattingData runs="15" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="9" fiveplus="0">

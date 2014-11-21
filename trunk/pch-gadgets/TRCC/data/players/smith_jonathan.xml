@@ -1,0 +1,14 @@
+<PlayerStats name="Jonathan Smith" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 21 00:00:00 UTC+0100 2014" oppo=""/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Batting innings="1" runs="5" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 21 00:00:00 UTC+0100 2014" oppo=""/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

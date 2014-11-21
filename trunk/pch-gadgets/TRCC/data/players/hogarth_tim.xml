@@ -1,7 +1,16 @@
-<PlayerStats name="Tim Hogarth" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Tim Hogarth" generated="Fri, 21 Nov 2014 19:55:44 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1999" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Batting innings="3" runs="1" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Tue Aug 26 00:00:00 UTC+0100 2014" oppo="Harptree"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="3" fiveplus="0">

@@ -1,7 +1,32 @@
-<PlayerStats name="Tom Fort" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Tom Fort" generated="Fri, 21 Nov 2014 19:55:44 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1975" oppo="Ibis"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="20.0" maidens="2" runs="121" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 2014" oppo="Binfield"/>
+                <BowlingData overs="5.0" maidens="2" runs="27" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="149" notouts="1" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 2014" oppo="Binfield"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 29 00:00:00 UTC+0100 2014" oppo="Ibstone"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 2014" oppo="Binfield"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Batting innings="11" runs="181" notouts="1" hundreds="0" fifties="0" ducks="3">

@@ -1,7 +1,24 @@
-<PlayerStats name="Peter Woodman" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Peter Woodman" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Batting innings="17" runs="267" notouts="2" hundreds="0" fifties="2" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 2014" oppo="Woodley"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2014" oppo="Theale and Tilehurst"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 20 00:00:00 UTC+0100 2014" oppo="Woodley"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Batting innings="14" runs="275" notouts="0" hundreds="0" fifties="1" ducks="1">

@@ -1,7 +1,28 @@
-<PlayerStats name="Steve Walkland" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Steve Walkland" generated="Fri, 21 Nov 2014 19:55:44 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 13 00:00:00 UTC+0100 2003" oppo="Woodcote"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="38.0" maidens="4" runs="159" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 2014" oppo="Welford Park 2"/>
+                <BowlingData overs="8.0" maidens="2" runs="20" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="70" notouts="1" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 9 00:00:00 UTC+0100 2014" oppo="Hawley"/>
+                <BattingData runs="50" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 9 00:00:00 UTC+0100 2014" oppo="Hawley"/>
+                <BattingData runs="50" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="4" fiveplus="0">

@@ -1,7 +1,10 @@
-<PlayerStats name="Alan Woodbridge" generated="Mon, 26 Mar 2012 20:35:57 BST">
+<PlayerStats name="Alan Woodbridge" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 10 00:00:00 UTC+0100 2011" oppo="Woodcote"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+    </YearData>
 
     <YearData year="2011">
         <Bowling games="2" fiveplus="0">

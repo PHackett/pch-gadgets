@@ -1,7 +1,16 @@
-<PlayerStats name="Simon Farrar" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Simon Farrar" generated="Fri, 21 Nov 2014 19:55:44 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 23 00:00:00 UTC+0100 2010" oppo="Freith"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Batting innings="7" runs="33" notouts="3" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 13 00:00:00 UTC+0100 2014" oppo="Woodcote"/>
+                <BattingData runs="21" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Batting innings="14" runs="98" notouts="7" hundreds="0" fifties="0" ducks="3">

@@ -1,7 +1,36 @@
-<PlayerStats name="Jim Quartermain" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Jim Quartermain" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat May 2 00:00:00 UTC+0100 2009" oppo="Waltham 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="2" fiveplus="1">
+            <BowlingData overs="16.0" maidens="0" runs="62" wickets="7"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2014" oppo="Theale and Tilehurst"/>
+                <BowlingData overs="12.0" maidens="0" runs="43" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2014" oppo="Theale and Tilehurst"/>
+                <BowlingData overs="12.0" maidens="0" runs="43" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="5" runs="156" notouts="1" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 14 00:00:00 UTC+0100 2014" oppo="Lower Earley"/>
+                <BattingData runs="81" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 6 00:00:00 UTC+0100 2014" oppo="Joe Downes XI"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 14 00:00:00 UTC+0100 2014" oppo="Lower Earley"/>
+                <BattingData runs="81" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="5" fiveplus="0">

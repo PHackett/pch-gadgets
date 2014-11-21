@@ -1,0 +1,15 @@
+<PlayerStats name="Max Mortimer" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2014" oppo="Falkland"/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2.1" maidens="0" runs="8" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2014" oppo="Falkland"/>
+                <BowlingData overs="2.1" maidens="0" runs="8" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
+</PlayerStats>
