@@ -1,0 +1,14 @@
+<PlayerStats name="A Khan" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 8 00:00:00 UTC+0100 2014" oppo="Greys Green"/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Batting innings="1" runs="0" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 8 00:00:00 UTC+0100 2014" oppo="Greys Green"/>
+                <BattingData runs="0" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

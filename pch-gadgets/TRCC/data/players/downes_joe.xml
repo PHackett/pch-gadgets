@@ -1,7 +1,32 @@
-<PlayerStats name="Joe Downes" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Joe Downes" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 9 00:00:00 UTC+0100 2006" oppo="Cookham Dean"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="85.0" maidens="9" runs="362" wickets="24"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 22 00:00:00 UTC+0100 2014" oppo="Crowthorne"/>
+                <BowlingData overs="6.0" maidens="0" runs="10" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="11" runs="246" notouts="1" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 31 00:00:00 UTC+0100 2014" oppo="Stokenchurch"/>
+                <BattingData runs="79" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Tue Aug 26 00:00:00 UTC+0100 2014" oppo="Harptree"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 31 00:00:00 UTC+0100 2014" oppo="Stokenchurch"/>
+                <BattingData runs="79" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="4" fiveplus="1">

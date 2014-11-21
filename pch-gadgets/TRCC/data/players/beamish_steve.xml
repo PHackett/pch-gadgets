@@ -1,7 +1,24 @@
-<PlayerStats name="Steve Beamish" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Steve Beamish" generated="Fri, 21 Nov 2014 19:55:44 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 6 00:00:00 UTC+0100 2001" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="72.4" maidens="11" runs="225" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 30 00:00:00 UTC+0100 2014" oppo="Waltham St Lawrence"/>
+                <BowlingData overs="7.0" maidens="4" runs="10" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="1" notouts="3" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 28 00:00:00 UTC+0100 2014" oppo="Binfield"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="19" fiveplus="0">

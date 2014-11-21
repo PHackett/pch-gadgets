@@ -1,0 +1,22 @@
+<PlayerStats name="Simon Burr" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 3 00:00:00 UTC+0100 2014" oppo="Woodley 2"/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="6.0" maidens="0" runs="24" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun May 25 00:00:00 UTC+0100 2014" oppo="Frieth"/>
+                <BowlingData overs="5.0" maidens="0" runs="18" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="9" runs="53" notouts="0" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 2014" oppo="Welford Park 2"/>
+                <BattingData runs="24" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

@@ -1,0 +1,14 @@
+<PlayerStats name="M Lyons" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Tue Aug 26 00:00:00 UTC+0100 2014" oppo="Harptree"/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Batting innings="1" runs="1" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Tue Aug 26 00:00:00 UTC+0100 2014" oppo="Harptree"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

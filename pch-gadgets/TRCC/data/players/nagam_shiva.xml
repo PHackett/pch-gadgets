@@ -1,0 +1,22 @@
+<PlayerStats name="Shiva Nagam" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 16 00:00:00 UTC+0100 2014" oppo="BCS Grosvenor"/>
+    </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="19.2" maidens="2" runs="56" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 2014" oppo="BCS Grosvenor"/>
+                <BowlingData overs="10.0" maidens="1" runs="35" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="2" runs="39" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 16 00:00:00 UTC+0100 2014" oppo="BCS Grosvenor"/>
+                <BattingData runs="25" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

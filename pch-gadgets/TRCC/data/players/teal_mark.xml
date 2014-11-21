@@ -1,7 +1,24 @@
-<PlayerStats name="Mark Teal" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Mark Teal" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Jul 17 00:00:00 UTC+0100 2010" oppo="Catcliffe Way"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2.0" maidens="0" runs="21" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 8 00:00:00 UTC+0100 2014" oppo="Greys Green"/>
+                <BowlingData overs="2.0" maidens="0" runs="21" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="12" runs="117" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 30 00:00:00 UTC+0100 2014" oppo="Waltham St Lawrence"/>
+                <BattingData runs="36" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Batting innings="20" runs="123" notouts="2" hundreds="0" fifties="0" ducks="10">

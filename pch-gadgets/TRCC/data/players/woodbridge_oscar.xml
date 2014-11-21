@@ -1,7 +1,40 @@
-<PlayerStats name="Oscar Woodbridge" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Oscar Woodbridge" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="20" fiveplus="2">
+            <BowlingData overs="161.3" maidens="27" runs="508" wickets="33"/>
+            <BowlingBest>
+                <MatchId date="Sun May 4 00:00:00 UTC+0100 2014" oppo="Bracknell"/>
+                <BowlingData overs="8.0" maidens="2" runs="11" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun May 4 00:00:00 UTC+0100 2014" oppo="Bracknell"/>
+                <BowlingData overs="8.0" maidens="2" runs="11" wickets="6"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 15 00:00:00 UTC+0100 2014" oppo="Sonning"/>
+                <BowlingData overs="8.0" maidens="2" runs="24" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="17" runs="374" notouts="1" hundreds="0" fifties="2" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 24 00:00:00 UTC+0100 2014" oppo="Knowl Hill"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 24 00:00:00 UTC+0100 2014" oppo="Knowl Hill"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 26 00:00:00 UTC+0100 2014" oppo="Knowl Hill"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="5" fiveplus="0">

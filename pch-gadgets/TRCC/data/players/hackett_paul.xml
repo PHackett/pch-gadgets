@@ -1,7 +1,28 @@
-<PlayerStats name="Paul Hackett" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="Paul Hackett" generated="Fri, 21 Nov 2014 19:55:43 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 23 00:00:00 UTC+0100 1989" oppo="Twyford Saturday"/>
     </FirstRecordedGame>
+
+    <YearData year="2014">
+        <Bowling games="16" fiveplus="1">
+            <BowlingData overs="112.0" maidens="24" runs="322" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2014" oppo="Falkland"/>
+                <BowlingData overs="5.0" maidens="2" runs="5" wickets="6"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Aug 17 00:00:00 UTC+0100 2014" oppo="Falkland"/>
+                <BowlingData overs="5.0" maidens="2" runs="5" wickets="6"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="4" runs="1" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Sep 7 00:00:00 UTC+0100 2014" oppo="Farley Hill"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Bowling games="21" fiveplus="1">
