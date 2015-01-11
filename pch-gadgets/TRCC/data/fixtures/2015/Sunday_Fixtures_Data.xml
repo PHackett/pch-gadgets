@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+        "NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sun, 26 Apr 2015 12:00:00 UTC</Date>
+  <Opposition>Stonor</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 3 May 2015 12:00:00 UTC</Date>
+  <Opposition>Bracknell</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 10 May 2015 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 17 May 2015 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 24 May 2015 12:00:00 UTC</Date>
+  <Opposition>Frieth</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 25 May 2015 12:00:00 UTC</Date>
+  <Opposition>Presidents XI</Opposition>
+  <Time>12:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 31 May 2015 12:00:00 UTC</Date>
+  <Opposition>Theale and Tilehurst</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 7 Jun 2015 12:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 14 Jun 2015 12:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 21 Jun 2015 12:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 28 Jun 2015 12:00:00 UTC</Date>
+  <Opposition>Ibstone</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 5 Jul 2015 12:00:00 UTC</Date>
+  <Opposition>Hurst</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 12 Jul 2015 12:00:00 UTC</Date>
+  <Opposition>Woodcote</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 19 Jul 2015 12:00:00 UTC</Date>
+  <Opposition>Woodley</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 26  Jul 2015 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 2 Aug 2015 12:00:00 UTC</Date>
+  <Opposition>Holyport</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 9 Aug 2015 12:00:00 UTC</Date>
+  <Opposition>Pinkneys Green</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 16 Aug 2015 12:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 23 Aug 2015 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 30 Aug 2015 12:00:00 UTC</Date>
+  <Opposition>Failand and Portbury</Opposition>
+  <Time>13:30</Time>
+  <Venue>Tour</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Tue, 31 Aug 2015 12:00:00 UTC</Date>
+  <Opposition>Cleeve</Opposition>
+  <Time>14:00</Time>
+  <Venue>Tour</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 1 Sep 2015 12:00:00 UTC</Date>
+  <Opposition>Harptree</Opposition>
+  <Time>14:00</Time>
+  <Venue>Tour</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 6 Sep 2015 12:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 13 Sep 2015 12:00:00 UTC</Date>
+  <Opposition>Lower Earley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 20 Sep 2015 12:00:00 UTC</Date>
+  <Opposition>Cranbourne</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 26 Sep 2015 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+</YearsFixtures>
+
