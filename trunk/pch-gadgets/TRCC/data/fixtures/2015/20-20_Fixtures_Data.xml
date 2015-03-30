@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+ 	"Win" / "Won"
+ 	"Lose" / "Lost"
+ 	"Draw"
+ 	""Tie"
+ 	"Rain"
+ 	"Abandonned"
+ 	"NP"
+	"NotYetPlayed"
+ 	"Cancelled"
+-->
+
+<YearsFixtures>
+
+  <Fixture>
+    <Date>Wed, 10 Jun 2015 12:00:00 UTC</Date>
+    <Opposition>TBC</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 15 July 2015 12:00:00 UTC</Date>
+    <Opposition>TBC</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 12 Aug 2015 12:00:00 UTC</Date>
+    <Opposition>TBC</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+</YearsFixtures>
+
