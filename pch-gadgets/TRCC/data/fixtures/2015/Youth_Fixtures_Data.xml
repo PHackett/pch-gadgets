@@ -33,6 +33,14 @@
   </Fixture>
     
   <Fixture>
+    <Date>Sun, 24 May 2015 12:00:00 GMT</Date>
+    <Opposition>Sonning and Charvil</Opposition>
+    <Time>10:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+    
+  <Fixture>
     <Date>Sun, 31 May 2015 12:00:00 GMT</Date>
     <Opposition>Sonning and Charvil</Opposition>
     <Time>10:00</Time>
@@ -45,6 +53,14 @@
     <Opposition>Wargrave</Opposition>
     <Time>10:00</Time>
     <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+    
+  <Fixture>
+    <Date>Sat, 6 Jun 2015 12:00:00 GMT</Date>
+    <Opposition>Sonning and Charvil</Opposition>
+    <Time>10:00</Time>
+    <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
     
