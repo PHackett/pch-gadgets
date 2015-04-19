@@ -18,7 +18,7 @@
 
   <Fixture>
     <Date>Sun, 10 May 2015 12:00:00 GMT</Date>
-    <Opposition>Wokingham</Opposition>
+    <Opposition>Wokingham (Under 11)</Opposition>
     <Time>10:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -26,7 +26,7 @@
     
   <Fixture>
     <Date>Thu, 21 May 2015 12:00:00 GMT</Date>
-    <Opposition>Shinfield</Opposition>
+    <Opposition>Shinfield (Under 11)</Opposition>
     <Time>18:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -34,7 +34,7 @@
     
   <Fixture>
     <Date>Sun, 24 May 2015 12:00:00 GMT</Date>
-    <Opposition>Sonning and Charvil</Opposition>
+    <Opposition>Sonning and Charvil (Under 9)</Opposition>
     <Time>10:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -42,7 +42,15 @@
     
   <Fixture>
     <Date>Sun, 31 May 2015 12:00:00 GMT</Date>
-    <Opposition>Sonning and Charvil</Opposition>
+    <Opposition>Sonning and Charvil (Under 11)</Opposition>
+    <Time>10:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+    
+  <Fixture>
+    <Date>Sat, 6 Jun 2015 12:00:00 GMT</Date>
+    <Opposition>Sonning and Charvil (Under 9)</Opposition>
     <Time>10:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -50,23 +58,15 @@
     
   <Fixture>
     <Date>Sun, 7 Jun 2015 12:00:00 GMT</Date>
-    <Opposition>Wargrave</Opposition>
+    <Opposition>Wargrave (Under 11)</Opposition>
     <Time>10:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
     
   <Fixture>
-    <Date>Sat, 6 Jun 2015 12:00:00 GMT</Date>
-    <Opposition>Sonning and Charvil</Opposition>
-    <Time>10:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
-  </Fixture>
-    
-  <Fixture>
     <Date>Sun, 21 Jun 2015 12:00:00 GMT</Date>
-    <Opposition>Crownwood and Crowthorne</Opposition>
+    <Opposition>Crownwood and Crowthorne (Under 11)</Opposition>
     <Time>10:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -74,7 +74,7 @@
     
   <Fixture>
     <Date>Sun, 28 Jun 2015 12:00:00 GMT</Date>
-    <Opposition>Finchampstead</Opposition>
+    <Opposition>Finchampstead (Under 11)</Opposition>
     <Time>10:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -82,7 +82,7 @@
     
   <Fixture>
     <Date>Sun, 12 Jul 2015 12:00:00 GMT</Date>
-    <Opposition>Henley</Opposition>
+    <Opposition>Henley (Under 11)</Opposition>
     <Time>10:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
