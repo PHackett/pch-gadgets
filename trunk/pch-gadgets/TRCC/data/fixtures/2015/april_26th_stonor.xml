@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Apr 27 2015 19:17:42 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Stonor" date="Sun Apr 26 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mayo"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mayo"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Ian Evans"/>
+    <Batsman name="Manglesh Sharma"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="3" score="172"/>
+    <FallOfWicket batsman="2" score="189"/>
+    <BowlerSummary name="Powell" overs="10" maidens="1" runs="60" wickets="1"/>
+    <BowlerSummary name="Maidlow" overs="11" maidens="0" runs="65" wickets="0"/>
+    <BowlerSummary name="Kavanaugh" overs="7" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Stuart" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Mayo" overs="5" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="G Mayo" overs="2" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="W Lovatl" overs="2" maidens="1" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Stonor">
+    <Batsman name="J Mayo">
+      <HowOut how="Caught Manglesh Sharma"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="J Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="D Stuart">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="N Williams">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lomatt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Maidlow">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="C Kavanaugh">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="O Kavanaugh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="W Lovatl">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Hunt">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Mayo"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="Ian Evans" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="2" runs="31" wickets="4"/>
+    <BowlerSummary name="Chris Fort" overs="8.1" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="18" wickets="2"/>
+  </Innings>
+</CricketMatch>
