@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Apr 25 2015 19:37:54 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Farley Hill" date="Sat Apr 25 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="Ross Ditchburn">
+      <HowOut how="Caught Rob Barrett"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Akesh Khar">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sam Henry">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Simon Longfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Teal"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Will Wortham">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Rob Barrett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Greg Corvey">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Bill Stanton">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Shaun Phall">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kieran Thorne">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Potts">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Akshay Apte" overs="5" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="Mark Teal" overs="5" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Rob Barrett" overs="3" maidens="1" runs="4" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Stuart Barrable" overs="7" maidens="2" runs="21" wickets="3"/>
+    <BowlerSummary name="Tom Leadbetter" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Simon Burr" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shaun Phall"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Rob Barrett">
+      <HowOut how="Caught"/>
+      <Bowler name="Kieran Thorne"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Ali Jalil"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Potts"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="Caught"/>
+      <Bowler name="Potts"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="DNB"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="DNB"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="DNB"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Kieran Thorne" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Shaun Phall" overs="6.1" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Ali Jalil" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Potts" overs="6" maidens="2" runs="38" wickets="2"/>
+    <BowlerSummary name="Akesh Khan" overs="3" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>
