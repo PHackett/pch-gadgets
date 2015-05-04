@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 04 2015 15:34:55 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Bracknell" date="Sun May 03 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bracknell">
+    <Batsman name="Shafiq">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Martindale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pradeep">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="P Waring">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Ravi">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Ardil">
+      <HowOut how="Caught Hari Gurung"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rizwan">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tyrone">
+      <HowOut how="Not Out"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="C White">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="P Henley">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nippon">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="23" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="2" runs="22" wickets="5"/>
+    <BowlerSummary name="Richard Manthorpe" overs="8" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="6" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Hari Gurung" overs="2" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="C White"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Nippon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Ardil"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="LBW"/>
+      <Bowler name="P Henley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Rob Harding">
+      <HowOut how="Caught"/>
+      <Bowler name="Shafiq"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Ardil"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Hari Gurung">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ardil"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="5" score="43"/>
+    <FallOfWicket batsman="1" score="135"/>
+    <FallOfWicket batsman="6" score="148"/>
+    <FallOfWicket batsman="8" score="163"/>
+    <BowlerSummary name="C White" overs="6" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Nippon" overs="6" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Ardil" overs="6" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="P Henley" overs="8" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="Shafiq" overs="5" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Rizwan" overs="3" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Tyrone" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Ravi" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
