@@ -45,7 +45,7 @@ import org.xml.sax.SAXException;
  */
 public class GeneratePlayerStats 
 {
-	public static final String	sRootURL = "http://raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/data/";
+	public static final String	sRootURL = "http://rawgit.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/data/";
 	
 	/**
 	 * These are the big two - The year for which you want to add the statistics to the 

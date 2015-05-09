@@ -11,7 +11,7 @@ var gFixtureResNP = "N";
 var gFixtureResWasNotPlayed = "U";
 var gFixtureResCancelled = "C";
 
-var gFixtureInageRoot    ="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/images/";
+var gFixtureInageRoot    ="//rawgit.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/images/";
 var gFixtureVenueAwayImg = gFixtureInageRoot + "VenueAway.gif";
 var gFixtureVenueHomeImg = gFixtureInageRoot + "VenueHome.gif";
 var gFixtureVenueTourImg = gFixtureInageRoot + "VenueTour.gif";
