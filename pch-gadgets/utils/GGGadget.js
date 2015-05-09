@@ -1,7 +1,7 @@
 //
 // Some statics for my Google gadgets
 //
-var gGGGadget_Root="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/";
+var gGGGadget_Root="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/";
 
 var gGGGadget_NoSchemeSitesRoots = 
 	[ 

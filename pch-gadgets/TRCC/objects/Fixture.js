@@ -11,16 +11,17 @@ var gFixtureResNP = "N";
 var gFixtureResWasNotPlayed = "U";
 var gFixtureResCancelled = "C";
 
-var gFixtureVenueAwayImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueAway.gif";
-var gFixtureVenueHomeImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueHome.gif";
-var gFixtureVenueTourImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/VenueTour.gif";
-var gFixtureRainImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/rain.gif";
-var gFixtureWinImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greentick.gif";
-var gFixtureLoseImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/redcross.gif";
-var gFixtureDrawImg      ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/equals.png";
-var gFixtureCancelledImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/greycross.gif";
-var gFixtureAbandonedImg ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/abandon-cross.png";
-var gFixtureTieImg       ="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/tie.gif";
+var gFixtureInageRoot    ="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/images/";
+var gFixtureVenueAwayImg = gFixtureInageRoot + "VenueAway.gif";
+var gFixtureVenueHomeImg = gFixtureInageRoot + "VenueHome.gif";
+var gFixtureVenueTourImg = gFixtureInageRoot + "VenueTour.gif";
+var gFixtureRainImg      = gFixtureInageRoot + "rain.gif";
+var gFixtureWinImg       = gFixtureInageRoot + "greentick.gif";
+var gFixtureLoseImg      = gFixtureInageRoot + "redcross.gif";
+var gFixtureDrawImg      = gFixtureInageRoot + "equals.png";
+var gFixtureCancelledImg = gFixtureInageRoot + "greycross.gif";
+var gFixtureAbandonedImg = gFixtureInageRoot + "abandon-cross.png";
+var gFixtureTieImg       = gFixtureInageRoot + "tie.gif";
 
 //
 // For the loading of multiple sets of fixture dats

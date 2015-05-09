@@ -29,11 +29,11 @@ import org.xml.sax.SAXException;
  * 
  * The process is a follows:
  * 		Input is the year e.g. 2011
- * 		Determine all the teams active in that year by reading http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/data/fixtures/fixtureYearsDB.xml
- * 		Load the list of the games for each team. For example from http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/data/fixtures/2011/Saturday_Fixtures_Data.xml
+ * 		Determine all the teams active in that year by reading /pch-gadgets/TRCC/data/fixtures/fixtureYearsDB.xml
+ * 		Load the list of the games for each team. For example from /pch-gadgets/TRCC/data/fixtures/2011/Saturday_Fixtures_Data.xml
  * 		Load each of games for the entire year into objects
  * 		Traverse all the MatchReport objects to generate the statistics for the individual players
- * 		For each player for which we have statistics load the existing player stats for that person. For example from http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/data/players/hackett_paul.xml
+ * 		For each player for which we have statistics load the existing player stats for that person. For example from /pch-gadgets/TRCC/data/players/hackett_paul.xml
  * 		Add the newly generated statistics to the all-time player stats
  * 		Write out the new stats to a fresh XML file
  * 
@@ -45,7 +45,7 @@ import org.xml.sax.SAXException;
  */
 public class GeneratePlayerStats 
 {
-	public static final String	sRootURL = "http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/data/";
+	public static final String	sRootURL = "http://raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/data/";
 	
 	/**
 	 * These are the big two - The year for which you want to add the statistics to the 

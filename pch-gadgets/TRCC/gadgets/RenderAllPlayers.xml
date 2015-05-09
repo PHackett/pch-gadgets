@@ -6,7 +6,7 @@
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of all the TRCC players names on one page."
-		thumbnail="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/images/TRCC-Shield.png"
+		thumbnail="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/images/TRCC-Shield.png"
 		width="700"
 		height="500"
 		scrolling="true">
@@ -21,7 +21,7 @@
 			<!--
 			Global CSS 
 			-->
-			<link href="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/css/trcc.css" rel="stylesheet" type="text/css">
+			<link href="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/css/trcc.css" rel="stylesheet" type="text/css">
 
 			<!--
 			Placeholder where the generated content will be placed 
@@ -31,11 +31,11 @@
 			<!--
 			Include my utilities libraries
 			-->
-			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/objects/Player.js" type="text/javascript"></script>
+			<script src="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/objects/Player.js" type="text/javascript"></script>
 			
-			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/TRCC/utils/TRCCUtils.js" type="text/javascript"></script>
-			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
-			<script src="http://pch-gadgets.googlecode.com/svn/trunk/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
+			<script src="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/utils/TRCCUtils.js" type="text/javascript"></script>
+			<script src="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/utils/GGUtils.js" type="text/javascript"></script>
+			<script src="//raw.githubusercontent.com/PHackett/pch-gadgets/master/pch-gadgets/utils/GGGadget.js" type="text/javascript"></script>
 
 
 			<script type="text/javascript">
