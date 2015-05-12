@@ -15,8 +15,8 @@
       <Runs value="63"/>
     </Batsman>
     <Batsman name="D Anderson">
-      <HowOut how="F"/>
-      <Bowler name="Hugh Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Chris Fort"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="S Brooks">
