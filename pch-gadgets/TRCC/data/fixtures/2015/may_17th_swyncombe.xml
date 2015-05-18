@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 18 2015 19:17:33 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Swyncombe" date="Sun May 17 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Day"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Keeble"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Rob Harding">
+      <HowOut how="Bowled"/>
+      <Bowler name="K Domnick"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pete Schofieldh">
+      <HowOut how="Caught"/>
+      <Bowler name="P Day"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Goodall"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Goodall"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Manglesh Sharma"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="138"/>
+    <FallOfWicket batsman="1" score="147"/>
+    <FallOfWicket batsman="3" score="194"/>
+    <FallOfWicket batsman="4" score="196"/>
+    <FallOfWicket batsman="6" score="207"/>
+    <FallOfWicket batsman="7" score="209"/>
+    <BowlerSummary name="N Bemrose" overs="5" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="I Hunt" overs="7" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="J Percival" overs="5" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="A Keeble" overs="7" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="P Day" overs="7" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="K Domnick" overs="3" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="C Goodall" overs="1" maidens="0" runs="6" wickets="2"/>
+  </Innings>
+  <Innings batting="Swyncombe">
+    <Batsman name="C Domnick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="C Goodall">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Keeble">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="K Domnick">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Manglesh Sharma"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="M Lewis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Percival">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Hunt">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Manglesh Sharma"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="N Bemrose">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Teal"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Regent">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Day">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="6.1" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Manglesh Sharma" overs="2" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Pete Schofield" overs="3" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+</CricketMatch>
