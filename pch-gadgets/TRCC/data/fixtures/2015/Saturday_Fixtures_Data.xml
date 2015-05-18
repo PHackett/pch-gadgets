@@ -53,10 +53,11 @@
 
 <Fixture>
   <Date>Sat, 16 May 2015 12:00:00 UTC</Date>
-  <Opposition>WSL Friendly</Opposition>
+  <Opposition>WSL</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -125,7 +126,7 @@
 
 <Fixture>
   <Date>Sat, 18 Jul 2015 12:00:00 UTC</Date>
-  <Opposition>WSL Friendly</Opposition>
+  <Opposition>WSL</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
