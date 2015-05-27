@@ -65,7 +65,7 @@
     <BowlerSummary name="Raja Singh" overs="7" maidens="3" runs="13" wickets="4"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Mark Higgins">
+    <Batsman name="Mark Higgins" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="C Carter"/>
       <Runs value="25"/>
