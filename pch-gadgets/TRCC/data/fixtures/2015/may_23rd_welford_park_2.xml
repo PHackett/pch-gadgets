@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 26 2015 21:06:50 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Welford Park 2" date="Sat May 23 2015 00:00:00 GMT+0100 (GMT Daylight Time)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Caught"/>
+      <Bowler name="Matt Bullock"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Bullock"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Shiva Nagum">
+      <HowOut how="LBW"/>
+      <Bowler name="Ian Herrington"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Carter"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Mike Carter"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Carter"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Prasad Gummidi">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <FallOfWicket batsman="2" score="78"/>
+    <FallOfWicket batsman="1" score="98"/>
+    <FallOfWicket batsman="3" score="108"/>
+    <FallOfWicket batsman="4" score="195"/>
+    <FallOfWicket batsman="7" score="234"/>
+    <FallOfWicket batsman="5" score="237"/>
+    <BowlerSummary name="Andy Cale" overs="8" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Mike Carter" overs="10" maidens="2" runs="42" wickets="3"/>
+    <BowlerSummary name="Matt Bullock" overs="10" maidens="0" runs="70" wickets="2"/>
+    <BowlerSummary name="Ian Herrington" overs="10" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Aseem Sharma" overs="7" maidens="0" runs="35" wickets="0"/>
+  </Innings>
+  <Innings batting="Welford Park 2">
+    <Batsman name="John Westbrook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Greg Griffith">
+      <HowOut how="Caught Prasad Gummidi"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Gandhrav Verma">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Rob Higgs">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Matt Bullock">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagum"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Herrington">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Shiva Nagum"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aseem Sharma">
+      <HowOut how="Caught Shiva Nagum"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mark Jurgens">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagum"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Cale">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="5" score="50"/>
+    <FallOfWicket batsman="6" score="51"/>
+    <FallOfWicket batsman="4" score="51"/>
+    <FallOfWicket batsman="8" score="51"/>
+    <FallOfWicket batsman="9" score="57"/>
+    <FallOfWicket batsman="7" score="76"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="5" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Shiva Nagum" overs="4" maidens="2" runs="9" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="1" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="0.1" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
