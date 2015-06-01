@@ -43,7 +43,7 @@
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" Keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Simpson"/>
       <Runs value="3"/>
@@ -79,7 +79,7 @@
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Cbatsman">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Mark Teal"/>
       <Bowler name="Edward Farrar"/>
       <Runs value="96"/>
     </Batsman>
