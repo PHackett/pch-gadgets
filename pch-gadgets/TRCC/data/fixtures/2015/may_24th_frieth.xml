@@ -1,12 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Mon Jun 01 2015 18:46:17 GMT+0100 (BST) -->
+<!-- Generated on Mon Jun 01 2015 19:56:34 GMT+0100 (BST) -->
 <!-- Result = Lose -->
 <CricketMatch oppo="Frieth" date="Sun May 24 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Avery"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Botha"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Simpson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Caught"/>
+      <Bowler name="Ryan"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Avery"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Steve Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Williams"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Rob Harding">
+      <HowOut how="Bowled"/>
+      <Bowler name="Botha"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Caught"/>
+      <Bowler name="Simpson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="46"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="3" score="63"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="5" score="135"/>
+    <FallOfWicket batsman="1" score="165"/>
+    <FallOfWicket batsman="6" score="184"/>
+    <BowlerSummary name="Williams" overs="9" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Botha" overs="11" maidens="1" runs="35" wickets="2"/>
+    <BowlerSummary name="Tanbir" overs="6" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Simpson" overs="5" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Ryan" overs="4" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Buckle" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Avery" overs="2" maidens="0" runs="11" wickets="2"/>
   </Innings>
   <Innings batting="Frieth">
-    <Extras value="0"/>
+    <Batsman name="Abatsman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bbatsman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Cbatsman">
+      <HowOut how="Caught "/>
+      <Bowler name="Edward Farrar"/>
+      <Runs value="96"/>
+    </Batsman>
+    <Batsman name="Dbatsman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ebatsman">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Fbatsman">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="44"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="13" maidens="0" runs="68" wickets="3"/>
+    <BowlerSummary name="Matt Berry" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="6" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Edward Farrar" overs="5.4" maidens="0" runs="31" wickets="1"/>
   </Innings>
 </CricketMatch>
