@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 01 2015 18:46:17 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Frieth" date="Sun May 24 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Frieth">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
