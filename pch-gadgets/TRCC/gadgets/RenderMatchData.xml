@@ -2,7 +2,7 @@
 <Module>
 
 	<ModulePrefs
-		title="Match data"
+		title="(GIT) Match data"
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of a single TRCC match result."
