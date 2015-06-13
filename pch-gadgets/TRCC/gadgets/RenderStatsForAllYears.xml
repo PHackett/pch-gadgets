@@ -2,7 +2,7 @@
 <Module>
 
 	<ModulePrefs
-		title="Stats - All years"
+		title="(GIT) Stats - All years"
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of a page that lists all the years for which stats are available"
