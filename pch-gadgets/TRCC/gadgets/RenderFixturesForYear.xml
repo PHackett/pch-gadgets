@@ -2,7 +2,7 @@
 <Module>
 
 	<ModulePrefs
-		title="Fixtures for a given year"
+		title="(GIT) Fixtures for a given year"
 		author="Paul Hackett"
 		author_email="TRCCGadgets@paulhackett.com"
 		description="For the rendering of TRCC fixure lists for a specific year."
