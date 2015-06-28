@@ -1,7 +1,7 @@
 // Entire innings bowling input
 var gTeamBowlingDEA=new Array();
 var gRTrail=5;
-var gNumBowlers=8;
+var gNumBowlers=10;
 
 function TeamBowlingDE (aForm, aBowlerNameBlurCB, aBowlerNameBlurCBParam)
 {
