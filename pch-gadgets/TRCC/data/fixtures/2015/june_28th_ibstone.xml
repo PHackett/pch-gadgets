@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Jul 04 2015 08:34:06 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<CricketMatch oppo="Ibstone" date="Sun Jun 28 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ibstone">
+    <Batsman name="N Hester">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="J Lee">
+      <HowOut how="Caught Jim Quartermain"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="P Downing">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="H Ali">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="O Hearndon">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="R Wilson">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Hearndon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lamborn">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Joe Downes" overs="10" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="7" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="Raja Singh" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Richard Manthorpe" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="40" wickets="6"/>
+    <BowlerSummary name="Jim Quartermain" overs="4" maidens="1" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="A Ali"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Ali"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Downing"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Raja Singh"/>
+    <Batsman name="Tom Downes"/>
+    <Batsman name="Simon Farrar" Keeper="1"/>
+    <Batsman name="Richard Manthorpe"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="28"/>
+    <FallOfWicket batsman="1" score="44"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <BowlerSummary name="M Lamborn" overs="7.3" maidens="0" runs="50" wickets="0"/>
+    <BowlerSummary name="A Ali" overs="9" maidens="2" runs="28" wickets="2"/>
+    <BowlerSummary name="J Lee" overs="4" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="P Downing" overs="8" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="A Hearndon" overs="6" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+</CricketMatch>
