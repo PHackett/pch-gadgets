@@ -4,7 +4,7 @@
 <CricketMatch oppo="Woodley" date="Sat Jul 04 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Hamish Pringle">
+    <Batsman name="Hamish Pringle" Keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Ul-Din"/>
       <Runs value="34"/>
