@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 14 2015 19:12:09 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Hurst" date="Sun Jul 05 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hurst">
+    <Batsman name="R Head">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Mark Teal"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Bradley">
+      <HowOut how="Not Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="C White">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="S Hawkes">
+      <HowOut how="b"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="L Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="N Reynalds"/>
+    <Batsman name="W Bateman"/>
+    <Batsman name="Wiggins"/>
+    <Batsman name="L Redman"/>
+    <Batsman name="G Smith"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Mark Teal" overs="10" maidens="1" runs="55" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="10" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Richard Manthorpe" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Reynalds"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mark Teal">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="W Bateman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Reynalds"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Bateman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="L Redman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wiggins"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hari Gurung">
+      <HowOut how="Caught"/>
+      <Bowler name="G Smith"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" Keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Manthorpe">
+      <HowOut how="LBW"/>
+      <Bowler name="L Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="L Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="23"/>
+    <FallOfWicket batsman="5" score="28"/>
+    <FallOfWicket batsman="6" score="29"/>
+    <FallOfWicket batsman="7" score="62"/>
+    <FallOfWicket batsman="9" score="62"/>
+    <FallOfWicket batsman="10" score="66"/>
+    <FallOfWicket batsman="11" score="70"/>
+    <BowlerSummary name="N Reynalds" overs="3" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="W Bateman" overs="4" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Wiggins" overs="4" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="L Redman" overs="3" maidens="1" runs="5" wickets="1"/>
+    <BowlerSummary name="G Smith" overs="7" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="S Hawkes" overs="4" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="L Smith" overs="4" maidens="0" runs="10" wickets="2"/>
+  </Innings>
+</CricketMatch>
