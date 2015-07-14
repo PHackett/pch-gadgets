@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 14 2015 19:24:03 GMT+0100 (BST) -->
+<!-- Result = Rain -->
+<CricketMatch oppo="Woodcote" date="Sun Jul 12 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clarke"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Burgess"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Burgess"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Pete Schofield"/>
+    <Batsman name="Mark Higgins"/>
+    <Batsman name="Matt Berry"/>
+    <Batsman name="Simon Farrar" Keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Woodcote">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
