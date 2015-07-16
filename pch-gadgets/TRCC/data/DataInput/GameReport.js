@@ -129,10 +129,10 @@ function Game___toXML ()
 		//
 		lMR = stripMultipleSpaces (lMR);
 		lMR = lMR.split("<p>").join("\n      <p>\n      ");
-		lMR = lMR.split("–").join("-");						// This is a M$Word character that does not work in XML
-		lMR = lMR.split("’").join("'");						// This is a M$Word character that does not work in XML
-		lMR = lMR.split("‘").join("'");						// This is a M$Word character that does not work in XML
-		lMR = lMR.split("…").join("...");					// This is a M$Word character that does not work in XML
+		lMR = lMR.split("ï¿½").join("-");						// This is a M$Word character that does not work in XML
+		lMR = lMR.split("ï¿½").join("'");						// This is a M$Word character that does not work in XML
+		lMR = lMR.split("ï¿½").join("'");						// This is a M$Word character that does not work in XML
+		lMR = lMR.split("ï¿½").join("...");					// This is a M$Word character that does not work in XML
 		lMR = breakStringIntoLines (lMR, 100, "      ");
 		
 		lRet += lMR;
@@ -612,11 +612,12 @@ function Game___getXMLFilename()
 {
 	// var lRoot="Y:\\MyDocuments\\projects\\eclipse\\pch-gadgets\\TRCC\\data\\fixtures\\";
 	// var lRoot="J:\\Projects\\eclipse\\TRCC\\pch-gadgets\\TRCC\\data\\fixtures\\";
-	var lRoot="Z:\\TRCCweb\\pch-gadgets\\TRCC\\data\\fixtures\\";
+	// var lRoot="Z:\\TRCCweb\\pch-gadgets\\TRCC\\data\\fixtures\\";
+	var lRoot="";
 	
 	var lRet="";
 	
-	lRet += this.mDate.getFullYear() + "\\";
+	lRet += this.mDate.getFullYear() + "/";
 	
 	lRet += MonthNumToString(this.mDate);
 	lRet += "_";

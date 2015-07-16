@@ -288,16 +288,15 @@
 			//
 			var lXML = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n";
 		
-			lXML +="<!-- Generated on " + new Date() + " -->\n";
-			lXML +="<!-- Result = " + lMatchResult.GetValue() + " -->\n";
-		
+			lXML +="<!-- Generated on " + new Date()							+ " -->\n";
+			lXML +="<!-- Result = " + lMatchResult.GetValue()					+ " -->\n";
+			lXML +="<!-- XMLFilename = " + GetGameArray()[0].getXMLFilename()	+ " -->\n";
 	
 			lXML += GetGameArray()[0].toXML();
 		
 			//
 			// Debug
 			//
-			dwln ("GetGameArray()[0].getXMLFilename() = " + GetGameArray()[0].getXMLFilename());
 			lESC = lXML.split("&").join("&amp;").split("<").join("&lt;").split(">").join("&gt;")
 			dwln ("<pre>");
 			dwln (lESC);
