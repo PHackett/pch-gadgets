@@ -4,7 +4,7 @@
 <CricketMatch oppo="Knowl Hill" date="Sat Jun 27 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Marc Teal" Keeper="1">
+    <Batsman name="Mark Teal" Keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Brookman"/>
       <Runs value="8"/>
