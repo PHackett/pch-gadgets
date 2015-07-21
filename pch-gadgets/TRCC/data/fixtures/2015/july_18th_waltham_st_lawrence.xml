@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 21 2015 08:58:28 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2015/july_18th_waltham_st_lawrence.xml -->
+<CricketMatch oppo="Waltham St Lawrence" date="Sat Jul 18 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Waltham St Lawrence">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
