@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 21 2015 08:56:44 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2015/july_19th_woodley.xml -->
+<CricketMatch oppo="Woodley" date="Sun Jul 19 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodley">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
