@@ -1,13 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Tue Jul 21 2015 08:58:28 GMT+0100 (BST) -->
+<!-- Generated on Sun Jul 26 2015 12:10:55 GMT+0100 (BST) -->
 <!-- Result = Win -->
-<!-- XMLFilename = 2015/july_18th_waltham_st_lawrence.xml -->
-<CricketMatch oppo="Waltham St Lawrence" date="Sat Jul 18 2015 00:00:00 GMT+0100 (BST)">
+<CricketMatch oppo="WSL" date="Sat Jul 18 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Twyford">
-    <Extras value="0"/>
+  <Innings batting="WSL">
+    <Batsman name="Hartland">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Nock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Staig">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jackson">
+      <HowOut how="Stumped"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="130"/>
+    </Batsman>
+    <Batsman name="Javeed">
+      <HowOut how="Stumped"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Simpson">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Guijar">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jones"/>
+    <Batsman name="Herbert"/>
+    <Batsman name="Savva"/>
+    <Batsman name="Kumar"/>
+    <Extras value="36"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="10" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="9" maidens="1" runs="55" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="8" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Ian Evans" overs="5" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="16" wickets="0"/>
   </Innings>
-  <Innings batting="Waltham St Lawrence">
-    <Extras value="0"/>
+  <Innings batting="Twyford">
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jackson"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught"/>
+      <Bowler name="Jackson"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jackson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jackson"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Herbert"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Hartland"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jackson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Run Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="Hartland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="89"/>
+    <FallOfWicket batsman="3" score="109"/>
+    <FallOfWicket batsman="1" score="148"/>
+    <FallOfWicket batsman="5" score="157"/>
+    <FallOfWicket batsman="4" score="187"/>
+    <FallOfWicket batsman="7" score="195"/>
+    <FallOfWicket batsman="6" score="234"/>
+    <FallOfWicket batsman="8" score="237"/>
+    <FallOfWicket batsman="7" score="266"/>
+    <BowlerSummary name="Javeed" overs="7" maidens="2" runs="38" wickets="0"/>
+    <BowlerSummary name="Guijar" overs="10" maidens="1" runs="51" wickets="0"/>
+    <BowlerSummary name="Kumar" overs="8" maidens="1" runs="56" wickets="0"/>
+    <BowlerSummary name="Jackson" overs="10" maidens="0" runs="39" wickets="5"/>
+    <BowlerSummary name="Herbert" overs="5" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Hartland" overs="4.5" maidens="0" runs="35" wickets="2"/>
   </Innings>
 </CricketMatch>
