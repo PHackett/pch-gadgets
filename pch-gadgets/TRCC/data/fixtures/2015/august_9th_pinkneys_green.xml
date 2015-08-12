@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Aug 12 2015 08:45:47 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2015/august_9th_pinkneys_green.xml -->
+<CricketMatch oppo="Pinkneys Green" date="Sun Aug 09 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Pinkneys Green">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
