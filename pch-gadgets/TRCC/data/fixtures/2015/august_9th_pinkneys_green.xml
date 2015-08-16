@@ -1,13 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Wed Aug 12 2015 08:45:47 GMT+0100 (BST) -->
+<!-- Generated on Sun Aug 16 2015 19:20:32 GMT+0100 (BST) -->
 <!-- Result = Lose -->
 <!-- XMLFilename = 2015/august_9th_pinkneys_green.xml -->
 <CricketMatch oppo="Pinkneys Green" date="Sun Aug 09 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Pinkneys Green">
-    <Extras value="0"/>
+    <Batsman name="A Purchase">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="T Snapes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="N Jones">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="A Ryan">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="G Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="D Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Juiman">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Heyes"/>
+    <Batsman name="Fuller"/>
+    <Batsman name="Playford"/>
+    <Batsman name="Harden"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Tom Downes" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="6" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Adam Smith" overs="2" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="46" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Fuller"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Raja Singh" Keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heyes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heyes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heyes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Purchase"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fuller"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Purchase"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Purchase"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heyes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="41"/>
+    <BowlerSummary name="Heyes" overs="7" maidens="3" runs="9" wickets="4"/>
+    <BowlerSummary name="Playford" overs="8" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="D Smith" overs="4" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Fuller" overs="8" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="Harden" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="A Purchase" overs="4.4" maidens="1" runs="16" wickets="3"/>
   </Innings>
 </CricketMatch>
