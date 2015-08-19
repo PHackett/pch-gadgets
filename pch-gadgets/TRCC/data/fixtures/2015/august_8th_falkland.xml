@@ -62,7 +62,7 @@
     <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="13" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Hamish Pringle" Keeper="1">
+    <Batsman name="Hamish Pringle" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="Neethercroft"/>
       <Runs value="34"/>

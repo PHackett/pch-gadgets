@@ -66,7 +66,7 @@
     <BowlerSummary name="Spence Nichols" overs="3" maidens="1" runs="15" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Mark Teal" Keeper="1">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Ashley Gander"/>
       <Runs value="16"/>

@@ -74,7 +74,7 @@
       <Bowler name="Akram"/>
       <Runs value="30"/>
     </Batsman>
-    <Batsman name="Mark Teal" Keeper="1">
+    <Batsman name="Mark Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="H Tariq"/>
       <Runs value="31"/>

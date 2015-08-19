@@ -80,7 +80,7 @@
       <HowOut how="Not Out"/>
       <Runs value="11"/>
     </Batsman>
-    <Batsman name="Simon Farrar" Keeper="1">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="G Smith"/>
       <Runs value="0"/>

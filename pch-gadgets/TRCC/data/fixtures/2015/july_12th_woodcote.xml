@@ -30,7 +30,7 @@
     <Batsman name="Pete Schofield"/>
     <Batsman name="Mark Higgins"/>
     <Batsman name="Matt Berry"/>
-    <Batsman name="Simon Farrar" Keeper="1"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Paul Hackett"/>
     <Extras value="0"/>
   </Innings>

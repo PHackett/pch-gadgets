@@ -99,7 +99,7 @@
       <Bowler name="Baines"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Simon Farrar" Keeper="1">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="M Brundish"/>
       <Runs value="3"/>

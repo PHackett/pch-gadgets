@@ -88,7 +88,7 @@
     <Batsman name="Hugh Fort"/>
     <Batsman name="Raja Singh"/>
     <Batsman name="Tom Downes"/>
-    <Batsman name="Simon Farrar" Keeper="1"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Richard Manthorpe"/>
     <Batsman name="Nic Downes"/>
     <Extras value="28"/>

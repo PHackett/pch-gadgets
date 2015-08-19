@@ -56,7 +56,7 @@
       <Bowler name="Fuller"/>
       <Runs value="21"/>
     </Batsman>
-    <Batsman name="Raja Singh" Keeper="1">
+    <Batsman name="Raja Singh" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Heyes"/>
       <Runs value="0"/>
