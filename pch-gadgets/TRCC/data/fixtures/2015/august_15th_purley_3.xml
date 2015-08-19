@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Aug 19 2015 12:05:29 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<CricketMatch oppo="Purley" date="Sat Aug 15 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jugg"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mark Higgins" Keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Hinds"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Junees"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Wood"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Pahi"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Pahi"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pahi"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pahi"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hinds"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Poulter"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <FallOfWicket batsman="2" score="133"/>
+    <FallOfWicket batsman="6" score="146"/>
+    <FallOfWicket batsman="5" score="150"/>
+    <FallOfWicket batsman="7" score="165"/>
+    <FallOfWicket batsman="9" score="168"/>
+    <FallOfWicket batsman="9" score="170"/>
+    <FallOfWicket batsman="10" score="184"/>
+    <BowlerSummary name="Jugg" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Junees" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Wood" overs="5" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Nufail" overs="6" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Hinds" overs="10" maidens="1" runs="49" wickets="2"/>
+    <BowlerSummary name="Pahi" overs="9" maidens="3" runs="23" wickets="4"/>
+    <BowlerSummary name="Poulter" overs="1.3" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+  <Innings batting="Purley">
+    <Batsman name="Denton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Raw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Nufaill">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Mugford">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="Pahi">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Poulter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hinds">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Wood">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Junees">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jugg">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="9" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Steve Green" overs="6" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="2" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Ian Evans" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
