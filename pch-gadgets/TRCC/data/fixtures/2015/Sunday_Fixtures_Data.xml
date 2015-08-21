@@ -168,10 +168,11 @@
 
 <Fixture>
   <Date>Sun, 16 Aug 2015 12:00:00 UTC</Date>
-  <Opposition>TBC</Opposition>
+  <Opposition>Taplow</Opposition>
   <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
