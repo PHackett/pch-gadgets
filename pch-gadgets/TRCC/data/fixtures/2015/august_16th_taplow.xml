@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Aug 21 2015 09:01:34 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2015/august_16th_taplow.xml -->
+<CricketMatch oppo="Taplow" date="Sun Aug 16 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Taplow">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
