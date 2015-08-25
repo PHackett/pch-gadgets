@@ -1,13 +1,132 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Mon Aug 24 2015 08:34:27 GMT+0100 (BST) -->
+<!-- Generated on Tue Aug 25 2015 10:45:38 GMT+0100 (BST) -->
 <!-- Result = Win -->
-<!-- XMLFilename = 2015/august_22nd_warfield_1.xml -->
-<CricketMatch oppo="Warfield 1" date="Sat Aug 22 2015 00:00:00 GMT+0100 (BST)">
+<CricketMatch oppo="Warfield" date="Sat Aug 22 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Ian Evans">
+      <HowOut how="Caught"/>
+      <Bowler name="Takunda"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Takunda"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Morris"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught"/>
+      <Bowler name="Morris"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Fuller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Morris"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Stumped"/>
+      <Bowler name="Morris"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Takunda"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="6" score="185"/>
+    <FallOfWicket batsman="7" score="202"/>
+    <FallOfWicket batsman="2" score="206"/>
+    <FallOfWicket batsman="9" score="206"/>
+    <BowlerSummary name="Takunda" overs="10" maidens="4" runs="36" wickets="3"/>
+    <BowlerSummary name="Tisshaw" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Morris" overs="9" maidens="2" runs="21" wickets="4"/>
+    <BowlerSummary name="Ganesh" overs="4" maidens="2" runs="8" wickets="0"/>
+    <BowlerSummary name="Rajab" overs="9" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Fuller" overs="7" maidens="1" runs="35" wickets="1"/>
   </Innings>
-  <Innings batting="Warfield 1">
-    <Extras value="0"/>
+  <Innings batting="Warfield">
+    <Batsman name="Birchall">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Torry">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dollard">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Fuller">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="David Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tisshaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ganesh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Morris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Rajab">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Ian Evans"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Foley">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Takunda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Martin">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Ian Evans" overs="5" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="6.4" maidens="0" runs="47" wickets="4"/>
   </Innings>
 </CricketMatch>
