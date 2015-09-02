@@ -80,8 +80,9 @@
       <Runs value="64"/>
     </Batsman>
     <Batsman name="Simon Burr">
-      <HowOut how="Not Out"/>
-      <Runs value="3"/>
+      <HowOut how="Bowled"/>
+      <Bowler name="M Noble"/>
+      <Runs value="10"/>
     </Batsman>
     <Batsman name="Hugh Fort">
       <HowOut how="LBW"/>
@@ -102,6 +103,7 @@
       <HowOut how="Run Out"/>
       <Runs value="6"/>
     </Batsman>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Steve Green"/>
     <Batsman name="Paul Hackett"/>
     <Extras value="13"/>
