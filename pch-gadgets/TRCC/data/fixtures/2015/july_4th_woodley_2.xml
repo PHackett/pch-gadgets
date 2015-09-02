@@ -87,8 +87,8 @@
       <Runs value="64"/>
     </Batsman>
     <Batsman name="Sharma">
-      <HowOut how="Caught Teal Marc"/>
-      <Bowler name="Teal Marc"/>
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Mark Teal"/>
       <Runs value="27"/>
     </Batsman>
     <Batsman name="Ul-Din">
@@ -106,6 +106,6 @@
     <BowlerSummary name="Mark Higgins" overs="4" maidens="0" runs="38" wickets="1"/>
     <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="20" wickets="0"/>
     <BowlerSummary name="Manan Narula" overs="3" maidens="0" runs="19" wickets="0"/>
-    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="3" maidens="0" runs="15" wickets="0"/>
   </Innings>
 </CricketMatch>
