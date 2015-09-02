@@ -188,7 +188,8 @@
   <Opposition>Failand and Portbury</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -196,7 +197,8 @@
   <Opposition>Cleeve</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -204,7 +206,8 @@
   <Opposition>Harptree</Opposition>
   <Time>14:00</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Rain</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
