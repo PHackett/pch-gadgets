@@ -1,13 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Fri Aug 21 2015 09:01:34 GMT+0100 (BST) -->
+<!-- Generated on Wed Sep 02 2015 18:32:15 GMT+0100 (BST) -->
 <!-- Result = Lose -->
 <!-- XMLFilename = 2015/august_16th_taplow.xml -->
 <CricketMatch oppo="Taplow" date="Sun Aug 16 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Milling"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Mark Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Lahim"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="Lahim"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Milling"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="P Milling"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Yasar Khan">
+      <HowOut how="Caught"/>
+      <Bowler name="Dabinett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dabinett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Manglesh Sharma">
+      <HowOut how="Caught"/>
+      <Bowler name="Sri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matt Berry"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="4" score="84"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="5" score="113"/>
+    <FallOfWicket batsman="7" score="127"/>
+    <FallOfWicket batsman="6" score="160"/>
+    <FallOfWicket batsman="9" score="165"/>
+    <BowlerSummary name="Raj" overs="7" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Sri" overs="8" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Lahim" overs="8" maidens="3" runs="32" wickets="2"/>
+    <BowlerSummary name="T Milling" overs="7" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="P Milling" overs="7" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Dabinett" overs="3" maidens="0" runs="27" wickets="2"/>
   </Innings>
   <Innings batting="Taplow">
-    <Extras value="0"/>
+    <Batsman name="T Betts">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="S Hollister">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="S Datta">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="S Lahim">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="82"/>
+    <FallOfWicket batsman="3" score="105"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Yasar Khan" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Mark Teal" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="6" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="2" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Tom Leadbetter" overs="0.1" maidens="0" runs="4" wickets="0"/>
   </Innings>
 </CricketMatch>
