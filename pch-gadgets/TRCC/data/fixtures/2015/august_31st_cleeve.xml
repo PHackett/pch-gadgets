@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 02 2015 19:06:01 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2015/august_31st_cleeve.xml -->
+<CricketMatch oppo="Cleeve" date="Mon Aug 31 2015 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cleeve">
+    <Batsman name="J Wilkins">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Want">
+      <HowOut how="Retired"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="T Carpenter">
+      <HowOut how="LBW"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Jones">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Jones">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="G Lewin">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Daley">
+      <HowOut how="Stumped"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Carpenter">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="C Harce">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="J Case">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="41"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="3" score="104"/>
+    <FallOfWicket batsman="6" score="113"/>
+    <FallOfWicket batsman="4" score="114"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="9" score="149"/>
+    <FallOfWicket batsman="8" score="154"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Adam Smith" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Angus Weir" overs="5" maidens="0" runs="17" wickets="3"/>
+    <BowlerSummary name="Pete Schofield" overs="6" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="B Jones"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Harce"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Jones"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="D Jones"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Jones"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="J Case"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="5" score="40"/>
+    <FallOfWicket batsman="7" score="41"/>
+    <FallOfWicket batsman="8" score="119"/>
+    <BowlerSummary name="M Smith" overs="4" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="C Harce" overs="4" maidens="2" runs="8" wickets="1"/>
+    <BowlerSummary name="D Jones" overs="5" maidens="1" runs="12" wickets="2"/>
+    <BowlerSummary name="B Jones" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="G Lewin" overs="1" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="M Want" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="A Daley" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="J Case" overs="4" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="J Wilkins" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="T Carpenter" overs="3" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
