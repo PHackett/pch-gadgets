@@ -87,7 +87,7 @@
       <Runs value="64"/>
     </Batsman>
     <Batsman name="Sharma">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="Mark Teal"/>
       <Runs value="27"/>
     </Batsman>
