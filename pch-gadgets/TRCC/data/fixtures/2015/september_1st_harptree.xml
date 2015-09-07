@@ -69,7 +69,7 @@
     <BowlerSummary name="Adam Smith" overs="2" maidens="0" runs="11" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Adam Smith" keeper="1">
+    <Batsman name="Adam Smith" keeper="1" />
     <Extras value="0"/>
   </Innings>
 </CricketMatch>
