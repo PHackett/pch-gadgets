@@ -5,22 +5,22 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="Woodley">
     <Batsman name="Jordan Goddard">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Vinay Kumar">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="15"/>
     </Batsman>
     <Batsman name="Upenura Deshande">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Steve Walkland"/>
       <Runs value="30"/>
     </Batsman>
     <Batsman name="Ashish Kapila">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Steve Walkland"/>
       <Runs value="52"/>
     </Batsman>
