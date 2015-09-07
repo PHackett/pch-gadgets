@@ -25,7 +25,7 @@
       <Runs value="18"/>
     </Batsman>
     <Batsman name="Will Wortham">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Rob Barrett"/>
       <Runs value="9"/>
     </Batsman>
@@ -40,7 +40,7 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Shaun Phall">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Stuart Barrable"/>
       <Runs value="1"/>
     </Batsman>
