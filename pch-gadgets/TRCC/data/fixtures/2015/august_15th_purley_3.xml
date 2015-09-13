@@ -93,16 +93,21 @@
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="43"/>
     </Batsman>
-    <Batsman name="Mugford">
-      <HowOut how="Not Out"/>
-      <Runs value="84"/>
+    <Batsman name="A Mugford">
+      <HowOut how="Caught Mark Teal"/>
+      <Bowler name="Steve Green"/>
+      <Runs value="13"/>
     </Batsman>
     <Batsman name="Pahi">
       <HowOut how="Caught Keeper"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Poulter">
+    <Batsman name="J Mugford">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+        <Batsman name="Poulter">
       <HowOut how="Bowled"/>
       <Bowler name="Angus Weir"/>
       <Runs value="18"/>

@@ -75,7 +75,7 @@
     <Batsman name="Robertson">
       <HowOut how="Caught Keeper"/>
       <Bowler name="Ken Cochrane"/>
-      <Runs value="1"/>
+      <Runs value="74"/>
     </Batsman>
     <Batsman name="Bendall">
       <HowOut how="Bowled"/>
@@ -91,6 +91,11 @@
       <HowOut how="Bowled"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="25"/>
+    </Batsman>
+    <Batsman name="A Robertson">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="1"/>
     </Batsman>
     <Batsman name="James">
       <HowOut how="Caught Pete Schofield"/>
