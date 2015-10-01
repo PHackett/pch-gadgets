@@ -36,7 +36,7 @@
 	<Batsman name="Raja Singh"> <HowOut how="Not Out"/> <Runs value="23"/> </Batsman> 
 	<Batsman name="Spence Nichols"> <HowOut how="Not Out"/> <Runs value="6"/> </Batsman> 
 	<Batsman name="Fort Chris"> <HowOut how="DNB"/> <Runs value="0"/> </Batsman> 
-	<Batsman name="Simon Farrar" Keeper="1"> <HowOut how="DNB"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Simon Farrar" keeper="1"> <HowOut how="DNB"/> <Runs value="0"/> </Batsman> 
 	<Batsman name="Nic Downes"/> 
 	<Extras value="17"/> 
 	<FallOfWicket batsman="1" score="14"/> 
