@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Oct 01 2015 11:19:41 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2015/september_6th_farley_hill.xml -->
+
+<CricketMatch oppo="Farley Hill" date="Sun Sep 06 2015 00:00:00 GMT+0100 (GMT Daylight Time)"> 
+<MatchReport/>
+<CountsToStats/> 
+<Innings batting="Farley Hill"> 
+	<Batsman name="B Hussain"> <HowOut how="Bowled"/> <Bowler name="Nic Downes"/> <Runs value="44"/> </Batsman> 
+	<Batsman name="A Jalil"> <HowOut how="Caught Mark Teal"/> <Bowler name="Spence Nichols"/> <Runs value="13"/> </Batsman> 
+	<Batsman name="A Khokhar"> <HowOut how="Run Out"/> <Runs value="31"/> </Batsman> 
+	<Batsman name="M Blake"> <HowOut how="Bowled"/> <Bowler name="Spence Nichols"/> <Runs value="1"/> </Batsman> 
+	<Batsman name="S Phaal"> <HowOut how="Caught Tom Fort"/> <Bowler name="Raja Singh"/> <Runs value="21"/> </Batsman> 
+	<Batsman name="T Khan"> <HowOut how="Bowled"/> <Bowler name="Raja Singh"/> <Runs value="35"/> </Batsman> 
+	<Batsman name="D A"> <HowOut how="Bowled "/> <Bowler name="Raja Singh"/> <Runs value="30"/> </Batsman> 
+	<Batsman name="Z Hussain"> <HowOut how="Run Out"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="C Jorey"> <HowOut how="Not Out"/> <Runs value="4"/> </Batsman> 
+	<Batsman name="B Jones"> <HowOut how="Did Not Bat"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="K Thorne"> <HowOut how="Did Not Bat"/> <Runs value="0"/> </Batsman> 
+	<Extras value="13"/> 
+	<BowlerSummary name="Mark Teal" overs="5" maidens="1" runs="8" wickets="0"/> 
+	<BowlerSummary name="Raja Singh" overs="10" maidens="2" runs="37" wickets="3"/> 
+	<BowlerSummary name="Ken Cochrane" overs="6" maidens="1" runs="32" wickets="0"/> 
+	<BowlerSummary name="Spence Nichols" overs="9" maidens="1" runs="49" wickets="2"/> 
+	<BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="31" wickets="1"/> 
+	<BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="25" wickets="0"/> 
+</Innings> 
+<Innings batting="Twyford"> 
+	<Batsman name="Peter Woodman"> <HowOut how="Caught"/> <Bowler name="C Jorey"/> <Runs value="3"/> </Batsman> 
+	<Batsman name="Mark Teal"> <HowOut how="Bowled"/> <Bowler name="K Thorne"/> <Runs value="12"/> </Batsman> 
+	<Batsman name="Manan Narula"> <HowOut how="Bowled"/> <Bowler name="C Jorey"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Ken Cochrane"> <HowOut how="Caught"/> <Bowler name="D A"/> <Runs value="24"/> </Batsman> 
+	<Batsman name="Hugh Fort"> <HowOut how="Bowled"/> <Bowler name="S Phaal"/> <Runs value="36"/> </Batsman> 
+	<Batsman name="Tom Fort"> <HowOut how="Run Out"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Raja Singh"> <HowOut how="Not Out"/> <Runs value="23"/> </Batsman> 
+	<Batsman name="Spence Nichols"> <HowOut how="Not Out"/> <Runs value="6"/> </Batsman> 
+	<Batsman name="Fort Chris"> <HowOut how="DNB"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Simon Farrar" Keeper="1"> <HowOut how="DNB"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Nic Downes"/> 
+	<Extras value="17"/> 
+	<FallOfWicket batsman="1" score="14"/> 
+	<FallOfWicket batsman="3" score="14"/> 
+	<FallOfWicket batsman="2" score="24"/> 
+	<FallOfWicket batsman="4" score="62"/> 
+	<FallOfWicket batsman="6" score="68"/> 
+	<FallOfWicket batsman="5" score="98"/> 
+	<BowlerSummary name="C Jorey" overs="10" maidens="2" runs="15" wickets="2"/> 
+	<BowlerSummary name="K Thorne" overs="7" maidens="1" runs="14" wickets="1"/> 
+	<BowlerSummary name="D A" overs="7" maidens="0" runs="30" wickets="1"/> 
+	<BowlerSummary name="B Jones" overs="5" maidens="0" runs="17" wickets="0"/> 
+	<BowlerSummary name="S Phaal" overs="4" maidens="0" runs="16" wickets="1"/> 
+	<BowlerSummary name="Z Hussain" overs="1" maidens="0" runs="8" wickets="0"/> 
+	<BowlerSummary name="A Jalil" overs="4" maidens="1" runs="15" wickets="0"/> 
+</Innings>
+</CricketMatch> 
