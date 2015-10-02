@@ -229,10 +229,11 @@
 
 <Fixture>
   <Date>Sun, 20 Sep 2015 12:00:00 UTC</Date>
-  <Opposition>Cranbourne</Opposition>
+  <Opposition>Reading Lawyers</Opposition>
   <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
