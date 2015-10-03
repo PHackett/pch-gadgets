@@ -34,7 +34,7 @@
 <Innings batting="Twyford"> 
 	<Batsman name="Shravan Kumar"> <HowOut how="Stumped"/> <Bowler name="N Burrows"/> <Runs value="62"/> </Batsman> 
 	<Batsman name="Raj Madabushi"> <HowOut how="Caught"/> <Bowler name="M Seymour"/> <Runs value="2"/> </Batsman> 
-	<Batsman name="Ken Cochrane"> <HowOut how="Caught"/> <Bowler name="M Burrows"/> <Runs value="55"/> </Batsman> 
+	<Batsman name="Ken Cochrane" keeper="1"> <HowOut how="Caught"/> <Bowler name="M Burrows"/> <Runs value="55"/> </Batsman> 
 	<Batsman name="Shiva Nagam"> <HowOut how="Caught"/> <Bowler name="J Frost"/> <Runs value="2"/> </Batsman> 
 	<Batsman name="Hugh Fort"> <HowOut how="Bowled"/> <Bowler name="J Frost"/> <Runs value="8"/> </Batsman> 
 	<Batsman name="Jonathan Low"> <HowOut how="Caught Keeper"/> <Bowler name="J Frost"/> <Runs value="0"/> </Batsman> 
