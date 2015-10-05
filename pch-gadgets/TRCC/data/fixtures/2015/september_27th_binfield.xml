@@ -7,7 +7,7 @@
 <CountsToStats/> 
 <Innings batting="Binfield"> 
 	<Batsman name="A Higginson"> <HowOut how="LBW"/> <Bowler name="Matt Berry"/> <Runs value="63"/> </Batsman> 
-	<Batsman name="P Higginson"> <HowOut how="Caught Ken (keeper) Cochrane"/> <Bowler name="Raja Singh"/> <Runs value="19"/> </Batsman> 
+	<Batsman name="P Higginson"> <HowOut how="Caught Keeper"/> <Bowler name="Raja Singh"/> <Runs value="19"/> </Batsman> 
 	<Batsman name="A Marshall"> <HowOut how="Bowled"/> <Bowler name="Tom Fort"/> <Runs value="66"/> </Batsman> 
 	<Batsman name="J Browning"> <HowOut how="Bowled"/> <Bowler name="Tom Fort"/> <Runs value="30"/> </Batsman> 
 	<Batsman name="P Edgington"> <HowOut how="Bowled"/> <Bowler name="Tom Fort"/> <Runs value="33"/> </Batsman> 
