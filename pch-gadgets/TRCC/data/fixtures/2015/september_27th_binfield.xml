@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Oct 04 2015 22:35:05 GMT+0100 (GMT Daylight Time) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2015/september_27th_binfield.xml -->
+<CricketMatch oppo="Binfield" date="Sun Sep 27 2015 00:00:00 GMT+0100 (GMT Daylight Time)"> 
+<MatchReport/>
+<CountsToStats/> 
+<Innings batting="Binfield"> 
+	<Batsman name="A Higginson"> <HowOut how="LBW"/> <Bowler name="Matt Berry"/> <Runs value="63"/> </Batsman> 
+	<Batsman name="P Higginson"> <HowOut how="Caught Ken (keeper) Cochrane"/> <Bowler name="Raja Singh"/> <Runs value="19"/> </Batsman> 
+	<Batsman name="A Marshall"> <HowOut how="Bowled"/> <Bowler name="Tom Fort"/> <Runs value="66"/> </Batsman> 
+	<Batsman name="J Browning"> <HowOut how="Bowled"/> <Bowler name="Tom Fort"/> <Runs value="30"/> </Batsman> 
+	<Batsman name="P Edgington"> <HowOut how="Bowled"/> <Bowler name="Tom Fort"/> <Runs value="33"/> </Batsman> 
+	<Batsman name="M Marshall"> <HowOut how="Stumped"/> <Bowler name="Tom Fort"/> <Runs value="1"/> </Batsman> 
+	<Batsman name="B Sykes"> <HowOut how="Stumped"/> <Bowler name="Tom Fort"/> <Runs value="2"/> </Batsman> 
+	<Batsman name="T Vines"> <HowOut how="Not Out"/> <Runs value="9"/> </Batsman> 
+	<Batsman name="G Smith"> <HowOut how="Stumped"/> <Bowler name="Tom Fort"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="S Butler"> <HowOut how="Not Out"/> <Runs value="1"/> </Batsman> 
+	<Batsman name="I Goddard"> <HowOut how="Did Not Bat"/> <Runs value="0"/> </Batsman> 
+	<Extras value="18"/> 
+	<FallOfWicket batsman="2" score="43"/> 
+	<FallOfWicket batsman="1" score="63"/> 
+	<FallOfWicket batsman="3" score="172"/> 
+	<FallOfWicket batsman="4" score="193"/> 
+	<FallOfWicket batsman="6" score="201"/> 
+	<FallOfWicket batsman="7" score="218"/> 
+	<FallOfWicket batsman="5" score="234"/> 
+	<FallOfWicket batsman="9" score="234"/> 
+	<BowlerSummary name="Raja Singh" overs="9" maidens="2" runs="35" wickets="1"/> 
+	<BowlerSummary name="Pete Schofield" overs="4" maidens="0" runs="28" wickets="0"/> 
+	<BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="35" wickets="0"/> 
+	<BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="36" wickets="0"/> 
+	<BowlerSummary name="Matt Berry" overs="5" maidens="1" runs="34" wickets="1"/> 
+	<BowlerSummary name="Tom Fort" overs="7" maidens="1" runs="17" wickets="6"/> 
+	<BowlerSummary name="Tom Leadbetter" overs="1" maidens="0" runs="15" wickets="0"/> 
+	<BowlerSummary name="Jonathan Low" overs="3" maidens="0" runs="36" wickets="0"/> 
+</Innings> 
+<Innings batting="Twyford"> 
+	<Batsman name="Peter Woodman"> <HowOut how="Bowled"/> <Bowler name="B Sykes"/> <Runs value="33"/> </Batsman> 
+	<Batsman name="Ken Cochrane" keeper="1"> <HowOut how="Bowled"/> <Bowler name="S Butler"/> <Runs value="43"/> </Batsman> 
+	<Batsman name="Chris Fort"> <HowOut how="Caught Keeper"/> <Bowler name="A Marshall"/> <Runs value="4"/> </Batsman> 
+	<Batsman name="Pete Schofield"> <HowOut how="Bowled"/> <Bowler name="B Sykes"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Hugh Fort"> <HowOut how="Caught"/> <Bowler name="T Vines"/> <Runs value="11"/> </Batsman> 
+	<Batsman name="Tom Fort"> <HowOut how="Caught Keeper"/> <Bowler name="G Smith"/> <Runs value="33"/> </Batsman> 
+	<Batsman name="Jonathan Low"> <HowOut how="Bowled"/> <Bowler name="T Vines"/> <Runs value="0"/> </Batsman> 
+	<Batsman name="Raja Singh"> <HowOut how="Caught"/> <Bowler name="G Smith"/> <Runs value="6"/> </Batsman> 
+	<Batsman name="Nic Downes"> <HowOut how="Caught"/> <Bowler name="G Smith"/> <Runs value="11"/> </Batsman> 
+	<Batsman name="Matt Berry"> <HowOut how="Not Out"/> <Runs value="18"/> </Batsman> 
+	<Batsman name="Tom Leadbetter"> <HowOut how="Bowled"/> <Bowler name="B Sykes"/> <Runs value="1"/> </Batsman> 
+	<Extras value="20"/> 
+	<FallOfWicket batsman="2" score="79"/> 
+	<FallOfWicket batsman="1" score="86"/> 
+	<FallOfWicket batsman="4" score="91"/> 
+	<FallOfWicket batsman="3" score="91"/> 
+	<FallOfWicket batsman="6" score="101"/> 
+	<FallOfWicket batsman="5" score="111"/> 
+	<FallOfWicket batsman="8" score="121"/> 
+	<FallOfWicket batsman="9" score="138"/> 
+	<FallOfWicket batsman="7" score="159"/> 
+	<FallOfWicket batsman="11" score="180"/> 
+	<BowlerSummary name="I Goddard" overs="6" maidens="0" runs="31" wickets="0"/> 
+	<BowlerSummary name="S Butler" overs="7" maidens="0" runs="49" wickets="1"/> 
+	<BowlerSummary name="M Marshall" overs="3" maidens="0" runs="8" wickets="0"/> 
+	<BowlerSummary name="B Sykes" overs="3.4" maidens="2" runs="6" wickets="3"/> 
+	<BowlerSummary name="G Smith" overs="12" maidens="1" runs="53" wickets="3"/> 
+	<BowlerSummary name="T Vines" overs="4" maidens="1" runs="3" wickets="2"/> 
+	<BowlerSummary name="P Edgington" overs="5" maidens="2" runs="11" wickets="0"/> 
+	<BowlerSummary name="A Marshall" overs="2" maidens="1" runs="7" wickets="0"/> 
+</Innings>
+</CricketMatch> 
