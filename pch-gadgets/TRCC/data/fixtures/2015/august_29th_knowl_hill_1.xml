@@ -31,12 +31,12 @@
     </Batsman>
     <Batsman name="Alex Plank">
       <HowOut how="Caught Pete Schofield"/>
-      <Bowler name="Shiva Nagram"/>
+      <Bowler name="Shiva Nagam"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Adam Brookman">
       <HowOut how="Bowled"/>
-      <Bowler name="Shiva Nagram"/>
+      <Bowler name="Shiva Nagam"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Danny Brookman">
@@ -46,7 +46,7 @@
     </Batsman>
     <Batsman name="Lee Thompson">
       <HowOut how="Caught Mark Teal"/>
-      <Bowler name="Shiva Nagram"/>
+      <Bowler name="Shiva Nagam"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="John Randall">
@@ -60,7 +60,7 @@
     <Extras value="25"/>
     <BowlerSummary name="Steve Beamish" overs="6" maidens="1" runs="13" wickets="0"/>
     <BowlerSummary name="Akshay Apte" overs="9" maidens="1" runs="46" wickets="0"/>
-    <BowlerSummary name="Shiva Nagram" overs="10" maidens="3" runs="16" wickets="3"/>
+    <BowlerSummary name="Shiva Nagam" overs="10" maidens="3" runs="16" wickets="3"/>
     <BowlerSummary name="Ken Cochrane" overs="10" maidens="2" runs="32" wickets="2"/>
     <BowlerSummary name="Steve Walkland" overs="10" maidens="1" runs="22" wickets="3"/>
   </Innings>
@@ -75,7 +75,7 @@
       <Bowler name="James Stoker"/>
       <Runs value="24"/>
     </Batsman>
-    <Batsman name="Shiva Nagram">
+    <Batsman name="Shiva Nagam">
       <HowOut how="Caught"/>
       <Bowler name="James Stoker"/>
       <Runs value="41"/>
