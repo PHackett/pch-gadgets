@@ -6,10 +6,10 @@
 <MatchReport/>
 <CountsToStats/> 
 <Innings batting="Reading Lawyers"> 
-	<Batsman name="M Burrows"> <HowOut how="Caught keeper"/> <Bowler name="Shravan Kumar"/> <Runs value="53"/> </Batsman> 
+	<Batsman name="M Burrows"> <HowOut how="Caught Keeper"/> <Bowler name="Shravan Kumar"/> <Runs value="53"/> </Batsman> 
 	<Batsman name="G Baker"> <HowOut how="Bowled"/> <Bowler name="Shiva Nagam"/> <Runs value="0"/> </Batsman> 
 	<Batsman name="M Cripps"> <HowOut how="Caught "/> <Bowler name="Nic Downes"/> <Runs value="42"/> </Batsman> 
-	<Batsman name="C Meredith"> <HowOut how="Caught keeper"/> <Bowler name="Shravan Kumar"/> <Runs value="4"/> </Batsman> 
+	<Batsman name="C Meredith"> <HowOut how="Caught Keeper"/> <Bowler name="Shravan Kumar"/> <Runs value="4"/> </Batsman> 
 	<Batsman name="N Burrows"> <HowOut how="Bowled"/> <Bowler name="Shravan Kumar"/> <Runs value="15"/> </Batsman> 
 	<Batsman name="N Nassau-Lake"> <HowOut how="Bowled"/> <Bowler name="Shiva Nagam"/> <Runs value="16"/> </Batsman> 
 	<Batsman name="J Frost"> <HowOut how="Not Out"/> <Runs value="22"/> </Batsman> 
