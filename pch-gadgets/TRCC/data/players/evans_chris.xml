@@ -1,7 +1,16 @@
-<PlayerStats name="Chris Evans" generated="Thu, 10 Feb 2011 20:35:11 UTC">
+<PlayerStats name="Chris Evans" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 7 00:00:00 UTC+0100 2000" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Sep 20 00:00:00 UTC+0100 2015" oppo="Reading Lawyers"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2008">
         <Batting innings="1" runs="9" notouts="0" hundreds="0" fifties="0" ducks="0">
@@ -20,7 +29,7 @@
                 <BowlingData overs="7.0" maidens="0" runs="64" wickets="1"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="3" runs="6" notouts="0" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Aug 28 00:00:00 UTC+0100 2005" oppo="Brockhampton"/>
@@ -31,13 +40,13 @@
 
     <YearData year="2004">
         <Bowling games="17" fiveplus="0">
-            <BowlingData overs="95" maidens="2" runs="603" wickets="25"/>
+            <BowlingData overs="95.0" maidens="2" runs="603" wickets="25"/>
             <BowlingBest>
                 <MatchId date="Sat May 15 00:00:00 UTC+0100 2004" oppo="BCS"/>
                 <BowlingData overs="10.0" maidens="0" runs="55" wickets="4"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="20" runs="150" notouts="1" hundreds="0" fifties="0" ducks="5">
             <BattingBest>
                 <MatchId date="Sun Jun 6 00:00:00 UTC+0100 2004" oppo="Greys Green"/>
@@ -54,7 +63,7 @@
                 <BowlingData overs="3.4" maidens="0" runs="19" wickets="3"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="14" runs="91" notouts="1" hundreds="0" fifties="0" ducks="4">
             <BattingBest>
                 <MatchId date="Sun Sep 14 00:00:00 UTC+0100 2003" oppo="Amersham Hill"/>
@@ -65,13 +74,13 @@
 
     <YearData year="2002">
         <Bowling games="10" fiveplus="0">
-            <BowlingData overs="35" maidens="1" runs="215" wickets="10"/>
+            <BowlingData overs="35.0" maidens="1" runs="215" wickets="10"/>
             <BowlingBest>
                 <MatchId date="Sun Jul 14 00:00:00 UTC+0100 2002" oppo="Harpsden"/>
                 <BowlingData overs="6.5" maidens="0" runs="23" wickets="4"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="16" runs="97" notouts="2" hundreds="0" fifties="0" ducks="5">
             <BattingBest>
                 <MatchId date="Sun Sep 29 00:00:00 UTC+0100 2002" oppo="Amersham Hill"/>
@@ -82,13 +91,13 @@
 
     <YearData year="2001">
         <Bowling games="1" fiveplus="0">
-            <BowlingData overs="3" maidens="0" runs="27" wickets="0"/>
+            <BowlingData overs="3.0" maidens="0" runs="27" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sun Sep 2 00:00:00 UTC+0100 2001" oppo="Sonning"/>
                 <BowlingData overs="3.0" maidens="0" runs="27" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="12" runs="114" notouts="0" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Jul 1 00:00:00 UTC+0100 2001" oppo="Knowl Hill"/>
@@ -99,13 +108,13 @@
 
     <YearData year="2000">
         <Bowling games="1" fiveplus="0">
-            <BowlingData overs="1" maidens="0" runs="25" wickets="0"/>
+            <BowlingData overs="1.0" maidens="0" runs="25" wickets="0"/>
             <BowlingBest>
                 <MatchId date="Sun Jul 16 00:00:00 UTC+0100 2000" oppo="Sonning"/>
                 <BowlingData overs="1.0" maidens="0" runs="25" wickets="0"/>
             </BowlingBest>
         </Bowling>
-
+    
         <Batting innings="12" runs="100" notouts="2" hundreds="0" fifties="0" ducks="3">
             <BattingBest>
                 <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2000" oppo="Ifield"/>
@@ -113,6 +122,4 @@
             </BattingBest>
         </Batting>
     </YearData>
-
 </PlayerStats>
-

@@ -1,7 +1,28 @@
-<PlayerStats name="Spence Nichols" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+<PlayerStats name="Spence Nichols" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 29 00:00:00 UTC+0100 2007" oppo="Welford Park"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="15" fiveplus="1">
+            <BowlingData overs="99.4" maidens="6" runs="514" wickets="17"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 8 00:00:00 UTC+0100 2015" oppo="Falkland"/>
+                <BowlingData overs="9.0" maidens="0" runs="26" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Aug 8 00:00:00 UTC+0100 2015" oppo="Falkland"/>
+                <BowlingData overs="9.0" maidens="0" runs="26" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="13" runs="158" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Jul 11 00:00:00 UTC+0100 2015" oppo="Emmbrook"/>
+                <BattingData runs="40" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Bowling games="9" fiveplus="0">

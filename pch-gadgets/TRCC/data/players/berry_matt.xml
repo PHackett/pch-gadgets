@@ -1,0 +1,22 @@
+<PlayerStats name="Matt Berry" generated="Sat, 17 Oct 2015 14:46:27 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun May 24 00:00:00 UTC+0100 2015" oppo="Frieth"/>
+    </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="63.4" maidens="4" runs="415" wickets="10"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 2015" oppo="Taplow"/>
+                <BowlingData overs="6.0" maidens="0" runs="35" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="58" notouts="5" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 27 00:00:00 UTC+0100 2015" oppo="Binfield"/>
+                <BattingData runs="18" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

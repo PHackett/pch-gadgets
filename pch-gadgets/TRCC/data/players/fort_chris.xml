@@ -1,7 +1,24 @@
-<PlayerStats name="Chris Fort" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+<PlayerStats name="Chris Fort" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="15" fiveplus="0">
+            <BowlingData overs="91.1" maidens="5" runs="506" wickets="12"/>
+            <BowlingBest>
+                <MatchId date="Sun Apr 26 00:00:00 UTC+0100 2015" oppo="Stonor"/>
+                <BowlingData overs="8.1" maidens="2" runs="26" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="16" runs="105" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun May 31 00:00:00 UTC+0100 2015" oppo="Theale and Tilehurst"/>
+                <BattingData runs="26" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Bowling games="8" fiveplus="0">

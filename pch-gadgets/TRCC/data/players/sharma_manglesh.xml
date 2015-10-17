@@ -1,0 +1,22 @@
+<PlayerStats name="Manglesh Sharma" generated="Sat, 17 Oct 2015 14:46:27 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 26 00:00:00 UTC+0100 2015" oppo="Stonor"/>
+    </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2.0" maidens="0" runs="20" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun May 17 00:00:00 UTC+0100 2015" oppo="Swyncombe"/>
+                <BowlingData overs="2.0" maidens="0" runs="20" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="3" runs="7" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2015" oppo="Wargrave"/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

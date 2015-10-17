@@ -1,7 +1,28 @@
-<PlayerStats name="Stuart Barrable" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+<PlayerStats name="Stuart Barrable" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="36.0" maidens="4" runs="130" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 27 00:00:00 UTC+0100 2015" oppo="Knowl Hill"/>
+                <BowlingData overs="10.0" maidens="0" runs="38" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="13" runs="356" notouts="2" hundreds="0" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat May 2 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BattingData runs="93" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 2 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BattingData runs="93" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Bowling games="6" fiveplus="0">

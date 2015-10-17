@@ -1,0 +1,14 @@
+<PlayerStats name="Carl Whittaker" generated="Sat, 17 Oct 2015 14:46:27 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 4 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 4 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

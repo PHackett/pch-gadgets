@@ -1,7 +1,24 @@
-<PlayerStats name="Simon Burr" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+<PlayerStats name="Simon Burr" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 3 00:00:00 UTC+0100 2014" oppo="Woodley 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="5.0" maidens="0" runs="34" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Tue Sep 1 00:00:00 UTC+0100 2015" oppo="Harptree"/>
+                <BowlingData overs="4.0" maidens="0" runs="29" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="10" runs="151" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 27 00:00:00 UTC+0100 2015" oppo="Knowl Hill"/>
+                <BattingData runs="40" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Bowling games="2" fiveplus="0">

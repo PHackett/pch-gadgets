@@ -1,7 +1,24 @@
-<PlayerStats name="Tom Leadbetter" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+<PlayerStats name="Tom Leadbetter" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 19 00:00:00 UTC+0100 2006" oppo="Sonning 3rds"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="6.1" maidens="0" runs="46" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 2015" oppo="Taplow"/>
+                <BowlingData overs="0.1" maidens="0" runs="4" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="6" runs="15" notouts="4" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 5 00:00:00 UTC+0100 2015" oppo="Hurst"/>
+                <BattingData runs="11" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Batting innings="4" runs="1" notouts="1" hundreds="0" fifties="0" ducks="3">

@@ -1,7 +1,24 @@
-<PlayerStats name="Yasar Khan" generated="Fri, 21 Nov 2014 19:55:44 GMT">
+<PlayerStats name="Yasar Khan" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 18 00:00:00 UTC+0100 2014" oppo="Swyncombe"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="32.0" maidens="1" runs="198" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Wed Aug 19 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BowlingData overs="8.0" maidens="0" runs="49" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="38" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 7 00:00:00 UTC+0100 2015" oppo="Greys Greeen"/>
+                <BattingData runs="24" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Bowling games="6" fiveplus="0">

@@ -1,7 +1,24 @@
-<PlayerStats name="Jonathan Low" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+<PlayerStats name="Jonathan Low" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2013" oppo="Greys Green"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="10.0" maidens="0" runs="92" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 2015" oppo="Sulhampstead"/>
+                <BowlingData overs="3.0" maidens="0" runs="18" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="10" runs="118" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Wed Aug 19 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BattingData runs="46" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Batting innings="6" runs="42" notouts="1" hundreds="0" fifties="0" ducks="0">

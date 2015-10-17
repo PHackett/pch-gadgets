@@ -1,7 +1,36 @@
-<PlayerStats name="Peter Woodman" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+<PlayerStats name="Peter Woodman" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Batting innings="19" runs="590" notouts="0" hundreds="0" fifties="5" ducks="0">
+            <BattingBest>
+                <MatchId date="Wed Aug 19 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 24 00:00:00 UTC+0100 2015" oppo="Frieth"/>
+                <BattingData runs="59" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2015" oppo="Wargrave"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 12 00:00:00 UTC+0100 2015" oppo="Woodcote"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Wed Aug 19 00:00:00 UTC+0100 2015" oppo="Woodley"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 2015" oppo="Taplow"/>
+                <BattingData runs="65" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Batting innings="17" runs="267" notouts="2" hundreds="0" fifties="2" ducks="3">

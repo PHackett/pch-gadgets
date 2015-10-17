@@ -1,7 +1,24 @@
-<PlayerStats name="Hugh Fort" generated="Fri, 21 Nov 2014 19:55:43 GMT">
+<PlayerStats name="Hugh Fort" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Batting innings="21" runs="339" notouts="4" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 10 00:00:00 UTC+0100 2015" oppo="Sonning"/>
+                <BattingData runs="59" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 3 00:00:00 UTC+0100 2015" oppo="Bracknell"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 10 00:00:00 UTC+0100 2015" oppo="Sonning"/>
+                <BattingData runs="59" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2014">
         <Batting innings="17" runs="159" notouts="0" hundreds="0" fifties="0" ducks="1">

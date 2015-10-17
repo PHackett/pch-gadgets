@@ -1,0 +1,14 @@
+<PlayerStats name="Raj Madabushi" generated="Sat, 17 Oct 2015 14:46:27 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 20 00:00:00 UTC+0100 2015" oppo="Reading Lawyers"/>
+    </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Batting innings="1" runs="2" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 20 00:00:00 UTC+0100 2015" oppo="Reading Lawyers"/>
+                <BattingData runs="2" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

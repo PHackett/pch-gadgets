@@ -1,7 +1,16 @@
-<PlayerStats name="James Fort" generated="Sat, 19 Oct 2013 15:11:01 BST">
+<PlayerStats name="James Fort" generated="Sat, 17 Oct 2015 14:46:27 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 1 00:00:00 UTC+0100 1975" oppo="Bracknell 3rds"/>
     </FirstRecordedGame>
+
+    <YearData year="2015">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 2015" oppo="Warfield"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2013">
         <Batting innings="3" runs="9" notouts="1" hundreds="0" fifties="0" ducks="1">
