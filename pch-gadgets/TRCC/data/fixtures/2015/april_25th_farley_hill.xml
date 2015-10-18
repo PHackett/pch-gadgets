@@ -21,7 +21,7 @@
     </Batsman>
     <Batsman name="Simon Longfield">
       <HowOut how="Bowled"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="18"/>
     </Batsman>
     <Batsman name="Will Wortham">
@@ -60,7 +60,7 @@
     <Extras value="13"/>
     <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="18" wickets="1"/>
     <BowlerSummary name="Akshay Apte" overs="5" maidens="1" runs="7" wickets="1"/>
-    <BowlerSummary name="Mark Teal" overs="5" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="27" wickets="1"/>
     <BowlerSummary name="Steve Walkland" overs="5" maidens="1" runs="16" wickets="0"/>
     <BowlerSummary name="Rob Barrett" overs="3" maidens="1" runs="4" wickets="1"/>
     <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="25" wickets="2"/>
@@ -98,7 +98,7 @@
       <HowOut how="Not Out"/>
       <Runs value="18"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="21"/>
     </Batsman>

@@ -96,7 +96,7 @@
       <HowOut how="Not Out"/>
       <Runs value="93"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="Ashish Kapila"/>
       <Runs value="4"/>

@@ -19,7 +19,7 @@
       <Bowler name="Junees"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="LBW"/>
       <Bowler name="Wood"/>
       <Runs value="11"/>
@@ -94,7 +94,7 @@
       <Runs value="43"/>
     </Batsman>
     <Batsman name="A Mugford">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Steve Green"/>
       <Runs value="13"/>
     </Batsman>

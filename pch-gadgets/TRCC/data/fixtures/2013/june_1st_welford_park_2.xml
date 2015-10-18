@@ -5,7 +5,7 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="Welford Park">
     <Batsman name="Upendra Deshpande">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Peter Dean"/>
       <Runs value="35"/>
     </Batsman>
@@ -97,7 +97,7 @@
       <Bowler name="Tom Tempest"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Karthick Mani"/>
       <Runs value="19"/>

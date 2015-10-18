@@ -52,7 +52,7 @@
       <Bowler name="J Pienar"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="O Dodd"/>
       <Runs value="9"/>
@@ -115,7 +115,7 @@
     </Batsman>
     <Batsman name="L Gariver">
       <HowOut how="Caught Sam Young"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="34"/>
     </Batsman>
     <Batsman name="B Tucker">
@@ -150,7 +150,7 @@
     <FallOfWicket batsman="3" score="105"/>
     <BowlerSummary name="Paul Hackett" overs="12" maidens="1" runs="40" wickets="3"/>
     <BowlerSummary name="Nic Downes" overs="15" maidens="0" runs="62" wickets="2"/>
-    <BowlerSummary name="Mark Teal" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="7" wickets="1"/>
   </Innings>
 </CricketMatch>
 

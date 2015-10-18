@@ -64,7 +64,7 @@
     </Batsman>
     <Batsman name="S James">
       <HowOut how="Bowled"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="21"/>
     </Batsman>
     <Batsman name="D Tramir">
@@ -99,7 +99,7 @@
     <BowlerSummary name="Tom Fort" overs="12" maidens="2" runs="31" wickets="2"/>
     <BowlerSummary name="Chris Apps" overs="4" maidens="0" runs="17" wickets="0"/>
     <BowlerSummary name="Edward Farrar" overs="3" maidens="0" runs="13" wickets="0"/>
-    <BowlerSummary name="Mark Teal" overs="6" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="31" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
@@ -112,7 +112,7 @@
       <Bowler name="A Farooq"/>
       <Runs value="7"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Caught"/>
       <Bowler name="M Seymour"/>
       <Runs value="2"/>

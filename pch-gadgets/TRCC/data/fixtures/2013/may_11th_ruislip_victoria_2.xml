@@ -86,7 +86,7 @@
       <HowOut how="Not Out"/>
       <Runs value="17"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1"/>
+    <Batsman name="Marc Teal" keeper="1"/>
     <Extras value="17"/>
     <FallOfWicket batsman="2" score="58"/>
     <FallOfWicket batsman="1" score="134"/>

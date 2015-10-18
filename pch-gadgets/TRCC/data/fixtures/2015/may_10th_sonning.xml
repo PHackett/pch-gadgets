@@ -10,7 +10,7 @@
       <Runs value="34"/>
     </Batsman>
     <Batsman name="J Ahmed">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Chris Fort"/>
       <Runs value="63"/>
     </Batsman>
@@ -36,7 +36,7 @@
     <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="20" wickets="0"/>
     <BowlerSummary name="Yasar Khan" overs="5" maidens="0" runs="41" wickets="0"/>
     <BowlerSummary name="Chris Fort" overs="13" maidens="0" runs="56" wickets="3"/>
-    <BowlerSummary name="Mark Teal" overs="9" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="9" maidens="0" runs="47" wickets="0"/>
     <BowlerSummary name="Ian Evans" overs="4" maidens="0" runs="28" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
@@ -45,7 +45,7 @@
       <Bowler name="Jamil"/>
       <Runs value="17"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Caught"/>
       <Bowler name="Batista"/>
       <Runs value="10"/>

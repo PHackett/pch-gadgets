@@ -123,7 +123,7 @@
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Anup"/>
       <Runs value="0"/>

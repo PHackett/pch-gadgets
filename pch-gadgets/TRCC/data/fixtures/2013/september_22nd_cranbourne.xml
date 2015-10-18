@@ -82,7 +82,7 @@
       <Bowler name="Abdula"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Abdula"/>
       <Runs value="0"/>

@@ -328,7 +328,7 @@ new TRCCPlayer ("Mike(Jnr) Taylor",	1994,	1997,	10,	5);
 new TRCCPlayer ("Mike(Snr) Taylor",	1983,	1988,	19,	7);
 new TRCCPlayer ("Steve Taylor",		1979,	1979,	0,	0);
 new TRCCPlayer ("T Taylor");
-new TRCCPlayer ("Mark Teal");
+new TRCCPlayer ("Marc Teal");
 new TRCCPlayer ("Chris Telfer",		1975,	1979,	0,	0);
 new TRCCPlayer ("J Telfer",			1979,	1983,	58,	12);
 new TRCCPlayer ("M Telfer");

@@ -34,7 +34,7 @@
       <Bowler name="Vaughn"/>
       <Runs value="20"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="33"/>
     </Batsman>

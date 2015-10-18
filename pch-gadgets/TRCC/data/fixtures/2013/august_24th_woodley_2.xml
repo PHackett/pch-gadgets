@@ -10,7 +10,7 @@
       <Runs value="37"/>
     </Batsman>
     <Batsman name="R Mubashar">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Chris Fort"/>
       <Runs value="66"/>
     </Batsman>
@@ -79,7 +79,7 @@
       <Bowler name="Y Khan"/>
       <Runs value="28"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Y Khan"/>
       <Runs value="0"/>

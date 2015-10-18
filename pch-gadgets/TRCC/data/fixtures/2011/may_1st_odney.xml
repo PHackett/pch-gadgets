@@ -8,7 +8,7 @@
       <Bowler name="Phelps"/>
       <Runs value="19"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Finlay"/>
       <Runs value="17"/>
@@ -96,7 +96,7 @@
     <FallOfWicket batsman="2" score="45"/>
     <FallOfWicket batsman="3" score="92"/>
     <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="21" wickets="1"/>
-    <BowlerSummary name="Mark Teal" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="20" wickets="0"/>
     <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="22" wickets="0"/>
     <BowlerSummary name="Adam Smith" overs="2" maidens="0" runs="9" wickets="0"/>
     <BowlerSummary name="Asitha Nanayakkard" overs="2" maidens="0" runs="15" wickets="0"/>

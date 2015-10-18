@@ -71,7 +71,7 @@
     <BowlerSummary name="Josh Baker" overs="3" maidens="0" runs="12" wickets="2"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="9"/>
     </Batsman>

@@ -6,7 +6,7 @@
   <Innings batting="Hurst">
     <Batsman name="R Head">
       <HowOut how="Caught Tom Leadbetter"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="K Bradley">
@@ -33,7 +33,7 @@
     <Batsman name="L Redman"/>
     <Batsman name="G Smith"/>
     <Extras value="23"/>
-    <BowlerSummary name="Mark Teal" overs="10" maidens="1" runs="55" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="10" maidens="1" runs="55" wickets="1"/>
     <BowlerSummary name="Joe Downes" overs="10" maidens="2" runs="29" wickets="0"/>
     <BowlerSummary name="Matt Berry" overs="3" maidens="0" runs="25" wickets="0"/>
     <BowlerSummary name="Richard Manthorpe" overs="5" maidens="0" runs="27" wickets="0"/>
@@ -46,7 +46,7 @@
       <Bowler name="N Reynalds"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Caught Keeper"/>
       <Bowler name="W Bateman"/>
       <Runs value="4"/>

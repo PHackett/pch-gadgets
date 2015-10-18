@@ -81,7 +81,7 @@
       <Bowler name="Gary Shacklady"/>
       <Runs value="9"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Ralph Hyde"/>
       <Runs value="8"/>

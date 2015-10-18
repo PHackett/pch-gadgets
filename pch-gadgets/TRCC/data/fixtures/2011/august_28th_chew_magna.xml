@@ -19,7 +19,7 @@
       <Bowler name="Tanner"/>
       <Runs value="31"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="I Locke"/>
       <Runs value="8"/>

@@ -43,7 +43,7 @@
       <HowOut how="Not Out"/>
       <Runs value="7"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Tom Leadbetter"/>
       <Runs value="5"/>

@@ -76,7 +76,7 @@
     <BowlerSummary name="Pete Schofield" overs="3" maidens="1" runs="8" wickets="2"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="M Miller"/>
       <Runs value="2"/>

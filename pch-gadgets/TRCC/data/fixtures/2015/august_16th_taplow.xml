@@ -10,7 +10,7 @@
       <Bowler name="T Milling"/>
       <Runs value="65"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Lahim"/>
       <Runs value="22"/>
@@ -94,7 +94,7 @@
     <FallOfWicket batsman="3" score="105"/>
     <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="16" wickets="0"/>
     <BowlerSummary name="Yasar Khan" overs="5" maidens="0" runs="36" wickets="0"/>
-    <BowlerSummary name="Mark Teal" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="36" wickets="0"/>
     <BowlerSummary name="Matt Berry" overs="6" maidens="0" runs="35" wickets="2"/>
     <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="32" wickets="0"/>
     <BowlerSummary name="Manan Narula" overs="2" maidens="0" runs="31" wickets="0"/>

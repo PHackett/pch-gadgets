@@ -23,7 +23,7 @@
       <Bowler name="G Bradshaw"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="B Denton"/>
       <Runs value="23"/>
@@ -114,7 +114,7 @@
     <BowlerSummary name="Steve Beamish" overs="9" maidens="2" runs="33" wickets="1"/>
     <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="14" wickets="1"/>
     <BowlerSummary name="Raja Singh" overs="3" maidens="0" runs="23" wickets="0"/>
-    <BowlerSummary name="Mark Teal" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="2" maidens="0" runs="11" wickets="0"/>
     <BowlerSummary name="Tom Downes" overs="2" maidens="0" runs="10" wickets="0"/>
     <BowlerSummary name="Nic Downes" overs="1.3" maidens="0" runs="22" wickets="1"/>
   </Innings>

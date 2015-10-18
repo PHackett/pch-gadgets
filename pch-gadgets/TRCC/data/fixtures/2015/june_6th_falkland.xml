@@ -94,7 +94,7 @@
       <HowOut how="Not Out"/>
       <Runs value="29"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1"/>
+    <Batsman name="Marc Teal" keeper="1"/>
     <Extras value="11"/>
     <BowlerSummary name="Stephenson" overs="6" maidens="2" runs="11" wickets="2"/>
     <BowlerSummary name="Hawkins" overs="3" maidens="0" runs="17" wickets="0"/>

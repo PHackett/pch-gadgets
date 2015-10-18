@@ -30,7 +30,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Lennie Simpson">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="0"/>
     </Batsman>
@@ -45,7 +45,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Callum Alston">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Shiva Nagam"/>
       <Runs value="6"/>
     </Batsman>
@@ -84,7 +84,7 @@
       <Bowler name="Chris Apps"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="36"/>
     </Batsman>

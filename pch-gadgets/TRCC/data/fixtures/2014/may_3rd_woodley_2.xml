@@ -5,7 +5,7 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="Woodley 2">
     <Batsman name="S Brar">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Pete Schofield"/>
       <Runs value="15"/>
     </Batsman>
@@ -101,7 +101,7 @@
       <HowOut how="Not Out"/>
       <Runs value="36"/>
     </Batsman>
-    <Batsman name="Mark Teal"/>
+    <Batsman name="Marc Teal"/>
     <Batsman name="Steve Beamish"/>
     <Batsman name="Chris Fort"/>
     <Batsman name="Spence Nichols"/>

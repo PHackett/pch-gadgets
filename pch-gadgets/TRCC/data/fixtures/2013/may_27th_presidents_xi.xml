@@ -4,7 +4,7 @@
 <CricketMatch oppo="Presidents XI" date="Mon May 27 2013 00:00:00 GMT+0100 (BST)" notforstats="true">
   <MatchReport/><CountsToStats/>
   <Innings batting="Presidents XI">
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="0"/>
@@ -63,7 +63,7 @@
   <Innings batting="Twyford">
     <Batsman name="Ken Cochrane">
       <HowOut how="Caught"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="34"/>
     </Batsman>
     <Batsman name="Hugh Fort">
@@ -117,7 +117,7 @@
     <BowlerSummary name="David Downes" overs="2" maidens="0" runs="12" wickets="1"/>
     <BowlerSummary name="Dave Taylor" overs="4" maidens="0" runs="31" wickets="0"/>
     <BowlerSummary name="Mark Farrington" overs="2" maidens="0" runs="6" wickets="0"/>
-    <BowlerSummary name="Mark Teal" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="15" wickets="1"/>
     <BowlerSummary name="Noel Downes" overs="6" maidens="1" runs="22" wickets="1"/>
     <BowlerSummary name="Luke Fuller" overs="2" maidens="0" runs="3" wickets="0"/>
     <BowlerSummary name="Nathan Eddy" overs="2" maidens="0" runs="8" wickets="0"/>

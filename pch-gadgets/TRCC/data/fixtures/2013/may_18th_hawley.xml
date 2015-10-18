@@ -38,7 +38,7 @@
       <HowOut how="Run Out"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="8"/>
     </Batsman>
@@ -107,7 +107,7 @@
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Andy Wilkinson">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Ian Evans"/>
       <Runs value="2"/>
     </Batsman>

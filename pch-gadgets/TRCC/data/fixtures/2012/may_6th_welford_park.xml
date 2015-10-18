@@ -11,7 +11,7 @@
     </Batsman>
     <Batsman name="Chatterjabe">
       <HowOut how="LBW"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="62"/>
     </Batsman>
     <Batsman name="W Herrington">
@@ -42,7 +42,7 @@
     <BowlerSummary name="Adam Smith" overs="8" maidens="0" runs="51" wickets="0"/>
     <BowlerSummary name="Mustafa Zahid" overs="8" maidens="0" runs="37" wickets="0"/>
     <BowlerSummary name="Edward Farrar" overs="5" maidens="0" runs="38" wickets="1"/>
-    <BowlerSummary name="Mark Teal" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="32" wickets="1"/>
     <BowlerSummary name="Waheed Zahid" overs="0" maidens="0" runs="0" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
@@ -71,7 +71,7 @@
       <Bowler name="Hutchinson"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Hutchinson"/>
       <Runs value="1"/>

@@ -4,7 +4,7 @@
 <CricketMatch oppo="Stonor" date="Sun Apr 26 2015 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Powell"/>
       <Runs value="49"/>

@@ -9,7 +9,7 @@
       <Bowler name="Avery"/>
       <Runs value="59"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Botha"/>
       <Runs value="6"/>
@@ -79,7 +79,7 @@
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Cbatsman">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Edward Farrar"/>
       <Runs value="96"/>
     </Batsman>
@@ -99,7 +99,7 @@
     <Extras value="44"/>
     <BowlerSummary name="Oscar Woodbridge" overs="13" maidens="0" runs="68" wickets="3"/>
     <BowlerSummary name="Matt Berry" overs="4" maidens="0" runs="29" wickets="0"/>
-    <BowlerSummary name="Mark Teal" overs="6" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="45" wickets="0"/>
     <BowlerSummary name="Edward Farrar" overs="5.4" maidens="0" runs="31" wickets="1"/>
   </Innings>
 </CricketMatch>

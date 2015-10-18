@@ -94,7 +94,7 @@
       <HowOut how="Run Out"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="D Litwin"/>
       <Runs value="12"/>

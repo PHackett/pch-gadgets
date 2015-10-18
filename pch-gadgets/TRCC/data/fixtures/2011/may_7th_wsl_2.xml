@@ -8,7 +8,7 @@
       <Bowler name="Matt Nebbett"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Sam Andrews"/>
       <Runs value="6"/>
@@ -121,7 +121,7 @@
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Andrew Hartland">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Steve Green"/>
       <Runs value="20"/>
     </Batsman>

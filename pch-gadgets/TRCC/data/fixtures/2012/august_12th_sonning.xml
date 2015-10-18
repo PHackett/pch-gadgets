@@ -24,7 +24,7 @@
       <Bowler name="Omar"/>
       <Runs value="14"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Omar"/>
       <Runs value="2"/>
@@ -80,7 +80,7 @@
       <Runs value="22"/>
     </Batsman>
     <Batsman name="C">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="9"/>
     </Batsman>
@@ -110,12 +110,12 @@
     </Batsman>
     <Batsman name="I">
       <HowOut how="LBW"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="J">
       <HowOut how="Bowled"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="0"/>
     </Batsman>
     <Extras value="8"/>
@@ -123,6 +123,6 @@
     <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="5" runs="14" wickets="1"/>
     <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="29" wickets="2"/>
     <BowlerSummary name="Nic Downes" overs="7" maidens="3" runs="7" wickets="2"/>
-    <BowlerSummary name="Mark Teal" overs="2" maidens="1" runs="1" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="2" maidens="1" runs="1" wickets="2"/>
   </Innings>
 </CricketMatch>

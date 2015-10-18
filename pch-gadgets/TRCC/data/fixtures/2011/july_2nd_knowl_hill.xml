@@ -39,7 +39,7 @@
       <Bowler name="H Harrison"/>
       <Runs value="10"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Run Out"/>
       <Runs value="4"/>
     </Batsman>
@@ -82,7 +82,7 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="T Darvell">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Graham Burgess"/>
       <Runs value="1"/>
     </Batsman>

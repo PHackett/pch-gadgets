@@ -25,7 +25,7 @@
       <Runs value="23"/>
     </Batsman>
     <Batsman name="Amar Aziz">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Ken Cochrane"/>
       <Runs value="18"/>
     </Batsman>
@@ -81,7 +81,7 @@
       <HowOut how="Not Out"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Mark Teal" keeper="1"/>
+    <Batsman name="Marc Teal" keeper="1"/>
     <Extras value="4"/>
     <BowlerSummary name="Basit Ali" overs="11" maidens="1" runs="32" wickets="1"/>
     <BowlerSummary name="Amar Aziz" overs="9" maidens="1" runs="58" wickets="1"/>

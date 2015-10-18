@@ -25,12 +25,12 @@
     </Batsman>
     <Batsman name="A Why">
       <HowOut how="Bowled"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="D Robertson">
       <HowOut how="Caught Hugh Fort"/>
-      <Bowler name="Mark Teal"/>
+      <Bowler name="Marc Teal"/>
       <Runs value="11"/>
     </Batsman>
     <Batsman name="H Ahmen">
@@ -39,7 +39,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="R Dimmack">
-      <HowOut how="Caught Mark Teal"/>
+      <HowOut how="Caught Marc Teal"/>
       <Bowler name="Yasar Khan"/>
       <Runs value="48"/>
     </Batsman>
@@ -57,7 +57,7 @@
     <BowlerSummary name="Paul Hackett" overs="11" maidens="1" runs="36" wickets="1"/>
     <BowlerSummary name="Matt Berry" overs="5" maidens="1" runs="23" wickets="1"/>
     <BowlerSummary name="Yasar Khan" overs="10" maidens="0" runs="58" wickets="3"/>
-    <BowlerSummary name="Mark Teal" overs="8" maidens="1" runs="43" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="1" runs="43" wickets="2"/>
     <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="41" wickets="1"/>
     <BowlerSummary name="Edward Farrar" overs="2" maidens="0" runs="23" wickets="0"/>
   </Innings>
@@ -67,7 +67,7 @@
       <Bowler name="J Bozarth"/>
       <Runs value="20"/>
     </Batsman>
-    <Batsman name="Mark Teal">
+    <Batsman name="Marc Teal">
       <HowOut how="Caught"/>
       <Bowler name="B Cooper"/>
       <Runs value="33"/>
