@@ -33,12 +33,12 @@
       <Runs value="41"/>
     </Batsman>
     <Batsman name="Butt">
-      <HowOut how="Caught Teal Keeper"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Nawaz">
-      <HowOut how="Caught Teal Keeper"/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="2"/>
     </Batsman>
@@ -76,7 +76,7 @@
       <Bowler name="T Nawaz"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="Marc Teal">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="B Ali"/>
       <Runs value="1"/>
