@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+ 	"Win" / "Won"
+ 	"Lose" / "Lost"
+ 	"Draw"
+ 	""Tie"
+ 	"Rain"
+ 	"Abandonned"
+ 	"NP"
+	"NotYetPlayed"
+ 	"Cancelled"
+-->
+
+<YearsFixtures>
+
+  <Fixture>
+    <Date>Wed, 18 May 2016 12:00:00 UTC</Date>
+    <Opposition>TBA</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 15 June 2016 12:00:00 UTC</Date>
+    <Opposition>TBA</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Fri, 24 June 2016 12:00:00 UTC</Date>
+    <Opposition>Football Club</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+    <Fixture>
+    <Date>Wed, 13 Jul 2016 12:00:00 UTC</Date>
+    <Opposition>TBA</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Wed, 17 Aug 2016 12:00:00 UTC</Date>
+    <Opposition>TBA</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  </YearsFixtures>
+
