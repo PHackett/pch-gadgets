@@ -33,6 +33,150 @@
 </Fixture>
 
 <Fixture>
+  <Date>Sat, 07 May 2016 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill 1</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 14 May 2016 12:00:00 UTC</Date>
+  <Opposition>West Reading 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 21 May 2016 12:00:00 UTC</Date>
+  <Opposition>Mortimer West End 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 28 May 2016 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 04 Jun 2016 12:00:00 UTC</Date>
+  <Opposition>Ruislip Victoria 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 11 Jun 2016 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 18 Jun 2016 12:00:00 UTC</Date>
+  <Opposition>Sulhampstead and Ufton</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 25 Jun 2016 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 02 Jul 2016 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 09 Jul 2016 12:00:00 UTC</Date>
+  <Opposition>Knowl Hill 1</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 16 Jul 2016 12:00:00 UTC</Date>
+  <Opposition>West Reading 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 23 Jul 2016 12:00:00 UTC</Date>
+  <Opposition>Mortimer West End 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 30 Jul 2016 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 06 Aug 2016 12:00:00 UTC</Date>
+  <Opposition>Ruislip Victoria 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 13 Aug 2016 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 20 Aug 2016 12:00:00 UTC</Date>
+  <Opposition>Sulhampstead and Ufton 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 27 Aug 2016 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 03 Sep 2016 12:00:00 UTC</Date>
+  <Opposition>Welford Park 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
   <Date>Sat, 10 Sep 2016 12:00:00 UTC</Date>
   <Opposition>Presidents Game</Opposition>
   <Time>13:00</Time>
