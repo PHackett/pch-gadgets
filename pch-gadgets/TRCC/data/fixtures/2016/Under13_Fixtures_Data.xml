@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+ 	"Win" / "Won"
+ 	"Lose" / "Lost"
+ 	"Draw"
+ 	""Tie"
+ 	"Rain"
+ 	"Abandonned"
+ 	"NP"
+	"NotYetPlayed"
+ 	"Cancelled"
+-->
+
+<YearsFixtures>
+
+  <Fixture>
+    <Date>Thu, 26 May 2016 12:00:00 UTC</Date>
+    <Opposition>Wargrave</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+          
+  <Fixture>
+    <Date>Sun, 5 Jun 2016 12:00:00 UTC</Date>
+    <Opposition>Sonning and Charvil</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+          
+  <Fixture>
+    <Date>Sun, 12 Jun 2016 12:00:00 UTC</Date>
+    <Opposition>Littlewick Green</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+          
+  <Fixture>
+    <Date>Fri, 24 Jun 2016 12:00:00 UTC</Date>
+    <Opposition>Hurst</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
+  <Fixture>
+    <Date>Sun, 26 Jun 2016 12:00:00 UTC</Date>
+    <Opposition>Kidmore End</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sun, 10 Jul 2016 12:00:00 UTC</Date>
+    <Opposition>Wokingham Red Oaks</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+              
+</YearsFixtures>
+
