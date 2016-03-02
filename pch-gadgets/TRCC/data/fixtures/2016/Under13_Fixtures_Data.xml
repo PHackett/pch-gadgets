@@ -17,6 +17,14 @@
 <YearsFixtures>
 
   <Fixture>
+    <Date>Sun, 24 Apr 2016 12:00:00 UTC</Date>
+    <Opposition>Boyne Hill</Opposition>
+    <Time>10:00</Time>
+    <Venue>home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+          
+  <Fixture>
     <Date>Thu, 26 May 2016 12:00:00 UTC</Date>
     <Opposition>Wargrave</Opposition>
     <Time>18:00</Time>
