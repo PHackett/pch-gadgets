@@ -25,14 +25,6 @@
   </Fixture>
           
   <Fixture>
-    <Date>Thu, 26 May 2016 12:00:00 UTC</Date>
-    <Opposition>Wargrave</Opposition>
-    <Time>18:00</Time>
-    <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
-  </Fixture>
-          
-  <Fixture>
     <Date>Sun, 5 Jun 2016 12:00:00 UTC</Date>
     <Opposition>Sonning and Charvil</Opposition>
     <Time>10:00</Time>
@@ -64,6 +56,14 @@
     <Result>NotYetPlayed</Result>
   </Fixture>
 
+  <Fixture>
+    <Date>Sun, 3 Jul 2016 12:00:00 UTC</Date>
+    <Opposition>Wargrave</Opposition>
+    <Time>18:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+          
   <Fixture>
     <Date>Sun, 10 Jul 2016 12:00:00 UTC</Date>
     <Opposition>Wokingham Red Oaks</Opposition>
