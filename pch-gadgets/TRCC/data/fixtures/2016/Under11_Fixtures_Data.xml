@@ -41,6 +41,14 @@
   </Fixture>
 
   <Fixture>
+    <Date>Sat, 28 May 2016 12:00:00 UTC</Date>
+    <Opposition>Hurley</Opposition>
+    <Time>10:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
     <Date>Sun, 12 Jun 2016 12:00:00 UTC</Date>
     <Opposition>Wokingham</Opposition>
     <Time>10:00</Time>
