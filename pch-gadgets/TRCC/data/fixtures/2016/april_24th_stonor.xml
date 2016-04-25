@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Apr 25 2016 19:16:48 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2016/april_24th_stonor.xml -->
+<CricketMatch oppo="Stonor" date="Sun Apr 24 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Stonor">
+    <Batsman name="Mayo">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Williams">
+      <HowOut how="LBW"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Maidlow">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Lovatt">
+      <HowOut how="Not Out"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="O Cavanagh"/>
+    <Batsman name="Bradshaw"/>
+    <Batsman name="Cripps"/>
+    <Batsman name="Alden-com"/>
+    <Batsman name="Hunt"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="13" maidens="3" runs="45" wickets="2"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="1" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="O Cavanagh"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Cripps"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cripps"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Powell"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sam Williams">
+      <HowOut how="Caught"/>
+      <Bowler name="Powell"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="Powell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="Cripps"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="28"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="2" score="69"/>
+    <FallOfWicket batsman="3" score="81"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="101"/>
+    <FallOfWicket batsman="8" score="101"/>
+    <FallOfWicket batsman="9" score="103"/>
+    <BowlerSummary name="O Cavanagh" overs="9" maidens="2" runs="21" wickets="1"/>
+    <BowlerSummary name="Bradshaw" overs="8" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Powell" overs="8" maidens="1" runs="31" wickets="3"/>
+    <BowlerSummary name="Cripps" overs="8" maidens="2" runs="21" wickets="3"/>
+    <BowlerSummary name="Maidlow" overs="3" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Mayo" overs="2" maidens="1" runs="2" wickets="0"/>
+    <BowlerSummary name="Alden-com" overs="1" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Hunt" overs="2" maidens="1" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>

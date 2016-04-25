@@ -425,6 +425,7 @@
     <Player surname="Wilkins" firstname="C" firstseason="1983" lastseason="1983"/>
     <Player surname="Wilkinson" firstname="Andy" firstseason="1987" lastseason="1997" catches="63" mostcatchesseason="11"/>
     <Player surname="Williams" firstname="Dave" firstseason="1980" lastseason="1984" catches="6" mostcatchesseason="3"/>
+    <Player surname="Williams" firstname="Sam"/>
     <Player surname="Willis" firstname="S"/>
     <Player surname="Willoughby" firstname="Roger" firstseason="1969" lastseason="1982" catches="37" mostcatchesseason="7"/>
     <Player surname="Wood" firstname="P" firstseason="1976" lastseason="1980"/>
