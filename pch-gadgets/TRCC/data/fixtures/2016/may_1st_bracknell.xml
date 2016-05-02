@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 02 2016 17:39:50 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2016/may_1st_bracknell.xml -->
+<CricketMatch oppo="Bracknell" date="Sun May 01 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bracknell">
+    <Batsman name="Nippin">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mo">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Ty">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Jatindre">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Shat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gaz">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Phil">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Brett">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nalman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Nutees">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="6" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="7" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="35" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="2" runs="32" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="1" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Robin Thompson">
+      <HowOut how="Caught"/>
+      <Bowler name="Nalman"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mo"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mo"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mo"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nalman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simon Farrar"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="87"/>
+    <FallOfWicket batsman="4" score="115"/>
+    <FallOfWicket batsman="5" score="150"/>
+    <FallOfWicket batsman="6" score="151"/>
+    <FallOfWicket batsman="2" score="162"/>
+    <FallOfWicket batsman="7" score="162"/>
+    <BowlerSummary name="Phil" overs="8" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Mo" overs="10" maidens="2" runs="33" wickets="3"/>
+    <BowlerSummary name="Nutees" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Jatindre" overs="3" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Shat" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Ty" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Nalman" overs="3" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Chris" overs="1" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
