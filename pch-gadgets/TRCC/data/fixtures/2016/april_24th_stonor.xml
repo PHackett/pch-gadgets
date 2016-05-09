@@ -42,7 +42,7 @@
     <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Marc Teal">
+    <Batsman name="Marc Teal" keeper="1"/>
       <HowOut how="Bowled"/>
       <Bowler name="O Cavanagh"/>
       <Runs value="15"/>
