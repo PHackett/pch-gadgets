@@ -30,7 +30,7 @@
       <Bowler name="James Stocker"/>
       <Runs value="18"/>
     </Batsman>
-    <Batsman name="Marc Teal" keeper="1"/>
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="Anthony Scott"/>
       <Runs value="0"/>
