@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 16 2016 11:14:17 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/may_14th_west_reading.xml -->
+<CricketMatch oppo="West Reading" date="Sat May 14 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="West Reading">
+    <Batsman name="Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Khan">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Azeem">
+      <HowOut how="Caught Hamish Pringle"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Mahmood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Waseem">
+      <HowOut how="LBW"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Razaq">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rafique">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Choudry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Agarwall">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ghoddusi">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="32"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="10" maidens="0" runs="57" wickets="2"/>
+    <BowlerSummary name="Steve Walkland" overs="10" maidens="4" runs="52" wickets="3"/>
+    <BowlerSummary name="Ken Cochrane" overs="9" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="6" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Simon Burr" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="35" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Caught"/>
+      <Bowler name="Choudry"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Choudry"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Choudry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Not Out"/>
+      <Runs value="128"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Ghoddusi"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Choudry"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khan"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Khan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Choudry" overs="10" maidens="1" runs="37" wickets="4"/>
+    <BowlerSummary name="Rafique" overs="10" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Mahmood" overs="10" maidens="0" runs="72" wickets="0"/>
+    <BowlerSummary name="Ghoddusi" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Khan" overs="4" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Ali" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Waseem" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Razaq" overs="2.3" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
