@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 17 2016 18:37:40 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2016/may_15th_swyncombe.xml -->
+<CricketMatch oppo="Swyncombe" date="Sun May 15 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Swyncombe">
+    <Batsman name="C Domnick">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="C Goodall">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="A Keeble">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="I Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="S Hope">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="N Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Baley">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lewis">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Day"/>
+    <Batsman name="A Finch"/>
+    <Batsman name="P Collins"/>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="10" maidens="2" runs="49" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="11" maidens="1" runs="61" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Jim Quartermain" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Simon Burr" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="A Keeble"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="P Collins"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Jim Quartermain">
+      <HowOut how="LBW"/>
+      <Bowler name="A Keeble"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Collins"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="T Baley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="T Baley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Baley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="58"/>
+    <FallOfWicket batsman="3" score="73"/>
+    <FallOfWicket batsman="1" score="97"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="6" score="120"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <FallOfWicket batsman="4" score="171"/>
+    <BowlerSummary name="P Collins" overs="10" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="A Finch" overs="5" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="S Hope" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="A Keeble" overs="5" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="T Baley" overs="7" maidens="0" runs="40" wickets="3"/>
+    <BowlerSummary name="P Day" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="C Goodall" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>
