@@ -89,7 +89,7 @@
 				//--------------------------------------------------------------------
 				function MatchDataCB (aMatchDataArray)
 				{
-					var lPSC = new GGTRCC_PlayerStatsCollectionO;
+					var lPSC = new GGTRCC_PlayerStatsCollectionO(gYear);
 					var lH="";
 					var lFailed="";
 					var lFailedCount=0;

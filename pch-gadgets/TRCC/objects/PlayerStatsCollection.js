@@ -1,9 +1,12 @@
 //------------------------------------------------------------
 // Object to hold a collection of GGTRCC_PlayerStatsO objects
 //
+// @param	aYear	IN	THe year we are dealing with
+//
 //------------------------------------------------------------
-function GGTRCC_PlayerStatsCollectionO ()
+function GGTRCC_PlayerStatsCollectionO (aYear)
 {
+	this.mYear = aYear;
 	this.mCollection = new Array;
 	
 	//
@@ -12,6 +15,15 @@ function GGTRCC_PlayerStatsCollectionO ()
 	//
 	this.mBowlngOversCutoff	= 20.0;
 	this.mBattingOutsCutoff	= 7;
+	
+	if (2105 < this.mYear)
+	{
+		//
+		// For 2016 & beyond, the rules for when you get to be in 
+		// bowling averages chaged to 35 overs
+		//
+		this.mBowlngOversCutoff	= 35.0;
+	}
 	
 	//
 	// Methods
@@ -282,6 +294,11 @@ function GGTRCC_PlayerStatsCollectionO___bowlerHTML (aGetAlsoBowled)
 	// Sort the play stats for by bowling prowess
 	//
 	var lBowlSum=this.getOrderedBowlingStats(aGetAlsoBowled);
+	
+	if (!aGetAlsoBowled)
+	{
+		lHTML += "<p>Please note: " + this.mBowlngOversCutoff + " overs are required to be in the bowling averages</p>";
+	} 
 	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
 	lHTML += "	<thead>";
