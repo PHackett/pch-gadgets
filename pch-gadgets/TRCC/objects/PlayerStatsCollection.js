@@ -297,7 +297,7 @@ function GGTRCC_PlayerStatsCollectionO___bowlerHTML (aGetAlsoBowled)
 	
 	if (!aGetAlsoBowled)
 	{
-		lHTML += "<p>Please note: " + this.mBowlingOversCutoff + " overs are required to be in the bowling averages (year=" + this.mYear + ")</p>";
+		lHTML += "<p>Please note: " + this.mBowlingOversCutoff + " overs are required to be in the bowling averages</p>";
 	} 
 	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
