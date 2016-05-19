@@ -16,7 +16,7 @@ function GGTRCC_PlayerStatsCollectionO (aYear)
 	this.mBowlingOversCutoff	= 20.0;
 	this.mBattingOutsCutoff		= 7;
 	
-	if (2105 < parseInt(this.mYear))
+	if (2015 < parseInt(this.mYear))
 	{
 		//
 		// For 2016 & beyond, the rules for when you get to be in 
