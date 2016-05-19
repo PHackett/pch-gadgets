@@ -13,8 +13,8 @@ function GGTRCC_PlayerStatsCollectionO (aYear)
 	// Cutoffs - How many innings/overs do you have to have 
 	// before you count for the official "stats"
 	//
-	this.mBowlngOversCutoff	= 20.0;
-	this.mBattingOutsCutoff	= 7;
+	this.mBowlingOversCutoff	= 20.0;
+	this.mBattingOutsCutoff		= 7;
 	
 	if (2105 < this.mYear)
 	{
@@ -22,7 +22,7 @@ function GGTRCC_PlayerStatsCollectionO (aYear)
 		// For 2016 & beyond, the rules for when you get to be in 
 		// bowling averages chaged to 35 overs
 		//
-		this.mBowlngOversCutoff	= 35.0;
+		this.mBowlingOversCutoff	= 35.0;
 	}
 	
 	//
@@ -297,7 +297,7 @@ function GGTRCC_PlayerStatsCollectionO___bowlerHTML (aGetAlsoBowled)
 	
 	if (!aGetAlsoBowled)
 	{
-		lHTML += "<p>Please note: " + this.mBowlngOversCutoff + " overs are required to be in the bowling averages</p>";
+		lHTML += "<p>Please note: " + this.mBowlingOversCutoff + " overs are required to be in the bowling averages (year=" + this.mYear + "</p>";
 	} 
 	
 	lHTML += "<table width='100%' cellSpacing='0' cellPadding='0' border='0'>";
@@ -356,8 +356,8 @@ function GGTRCC_PlayerStatsCollectionO___getOrderedBowlingStats(aGetAlsoBowled)
 	{
 		if (this.mCollection[i].mBowlerStats.mGames > 0)
 		{
-			if (((this.mCollection[i].mBowlerStats.mOvers <  this.mBowlngOversCutoff) && aGetAlsoBowled)	||
-				((this.mCollection[i].mBowlerStats.mOvers >= this.mBowlngOversCutoff) && !aGetAlsoBowled))
+			if (((this.mCollection[i].mBowlerStats.mOvers <  this.mBowlingOversCutoff) && aGetAlsoBowled)	||
+				((this.mCollection[i].mBowlerStats.mOvers >= this.mBowlingOversCutoff) && !aGetAlsoBowled))
 			{
 				lBS[lBS.length] = this.mCollection[i];
 			}
