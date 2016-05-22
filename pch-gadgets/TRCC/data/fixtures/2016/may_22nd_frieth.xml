@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun May 22 2016 20:14:21 GMT+0100 (BST) -->
+<!-- Result = cancelled -->
+<!-- XMLFilename = 2016/may_22nd_frieth.xml -->
+<CricketMatch oppo="Frieth" date="Sun May 22 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Frieth">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
