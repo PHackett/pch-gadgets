@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Jun 02 2016 09:50:26 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2016/may_28th_purley_3.xml -->
+<CricketMatch oppo="Purley 3" date="Sat May 28 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Caught"/>
+      <Bowler name="Hizam Juness"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Hamish Pringlele">
+      <HowOut how="Caught"/>
+      <Bowler name="Sam Woodhouse"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Angus Weird">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hizam Juness"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Fasul Nufail"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Woodhouse"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Woodhouse"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="LBW"/>
+      <Bowler name="Sam Woodhouse"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Rodgers" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Sam Woodhouse"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Bell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Khan" overs="7" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Harry Bell" overs="8" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Hizam Juness" overs="10" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Fasul Nufail" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Sam Woodhouse" overs="10" maidens="2" runs="32" wickets="5"/>
+    <BowlerSummary name="Rizemy" overs="4" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Purley 3's">
+    <Batsman name="Barrett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Fasul Nufail">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Selveratnam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Rizemy">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mugford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Sam Woodhouse">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hizam Juness">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Robin Thompson" overs="10" maidens="1" runs="35" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="10" maidens="1" runs="35" wickets="3"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="4" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Kiran Musudi" overs="2" maidens="0" runs="6" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="1.3" maidens="1" runs="0" wickets="2"/>
+  </Innings>
+</CricketMatch>
