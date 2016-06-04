@@ -10,12 +10,12 @@
       <Bowler name="Hizam Juness"/>
       <Runs value="17"/>
     </Batsman>
-    <Batsman name="Hamish Pringlele">
+    <Batsman name="Hamish Pringle">
       <HowOut how="Caught"/>
       <Bowler name="Sam Woodhouse"/>
       <Runs value="34"/>
     </Batsman>
-    <Batsman name="Angus Weird">
+    <Batsman name="Angus Weir">
       <HowOut how="Bowled"/>
       <Bowler name="Hizam Juness"/>
       <Runs value="2"/>
