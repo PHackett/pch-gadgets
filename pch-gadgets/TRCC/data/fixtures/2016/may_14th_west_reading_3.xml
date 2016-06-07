@@ -5,51 +5,56 @@
 <CricketMatch oppo="West Reading" date="Sat May 14 2016 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="West Reading">
-    <Batsman name="Ali">
-      <HowOut how="Bowled"/>
-      <Bowler name="Stuart Barrable"/>
-      <Runs value="32"/>
+    <Batsman name="Hammad Ali">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="5"/>
     </Batsman>
-    <Batsman name="Khan">
+    <Batsman name="Saadat Khan">
       <HowOut how="Caught Stuart Barrable"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="Azeem">
+    <Batsman name="Zaki Azeem">
       <HowOut how="Caught Hamish Pringle"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="36"/>
     </Batsman>
-    <Batsman name="Mahmood">
+    <Batsman name="Osman Mahmood">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Walkland"/>
       <Runs value="82"/>
     </Batsman>
-    <Batsman name="Waseem">
+    <Batsman name="Kaseem Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Muhammad Waseem">
       <HowOut how="LBW"/>
       <Bowler name="Ken Cochrane"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="Razaq">
+    <Batsman name="Imran Razaq">
       <HowOut how="Caught Oscar Woodbridge"/>
       <Bowler name="Angus Weir"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Rafique">
+    <Batsman name="Adeel Rafique">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Walkland"/>
       <Runs value="59"/>
     </Batsman>
-    <Batsman name="Choudry">
+    <Batsman name="Waleed Choudary">
       <HowOut how="Bowled"/>
       <Bowler name="Oscar Woodbridge"/>
       <Runs value="13"/>
     </Batsman>
-    <Batsman name="Agarwall">
+    <Batsman name="Amit Agalwal">
       <HowOut how="Not Out"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Ghoddusi">
+    <Batsman name="Ghaffar Ghoddusi">
       <HowOut how="Not Out"/>
       <Runs value="9"/>
     </Batsman>
