@@ -1,13 +1,133 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Fri Jun 03 2016 12:50:13 GMT+0100 (BST) -->
+<!-- Generated on Sat Jun 04 2016 21:42:16 GMT+0100 (GMT Daylight Time) -->
 <!-- Result = Draw -->
 <!-- XMLFilename = 2016/may_29th_theale_and_tilehurst.xml -->
-<CricketMatch oppo="Theale and Tilehurst" date="Sun May 29 2016 00:00:00 GMT+0100 (BST)">
+<CricketMatch oppo="Theale and Tilehurst" date="Sun May 29 2016 00:00:00 GMT+0100 (GMT Daylight Time)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Theale and Tilehurst">
-    <Extras value="0"/>
+    <Batsman name="A Ahmed">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="M Dixon">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Kasozimusoke">
+      <HowOut how="Stumped"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="R Why">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="B Stroud">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="J Shields">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T White">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Coker">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Peaman">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Cooper">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="11" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="15" maidens="0" runs="45" wickets="4"/>
+    <BowlerSummary name="Jonathan Low" overs="5" maidens="0" runs="38" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Peter Woodmann">
+      <HowOut how="LBW"/>
+      <Bowler name="J Coker"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Sam Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Coker"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Shields"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="J Shields"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Coker"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="1" score="24"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="8" score="126"/>
+    <BowlerSummary name="J Coker" overs="11" maidens="0" runs="41" wickets="3"/>
+    <BowlerSummary name="T White" overs="9" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="J Shields" overs="8" maidens="2" runs="22" wickets="2"/>
+    <BowlerSummary name="B Cooper" overs="7" maidens="2" runs="18" wickets="3"/>
+    <BowlerSummary name="B Stroud" overs="2" maidens="0" runs="13" wickets="0"/>
   </Innings>
 </CricketMatch>
