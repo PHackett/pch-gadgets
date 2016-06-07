@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jun 07 2016 19:29:20 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2016/june_5th_greys_green.xml -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 05 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singhg"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="M Shafqat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="A Lubbock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Skilliter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="T Rooke">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="T Cusden"/>
+    <Batsman name="T Cross"/>
+    <Batsman name="P Dawkins"/>
+    <Batsman name="P Haggart"/>
+    <Batsman name="M Chesterton"/>
+    <Batsman name="G Jackson"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="11" maidens="5" runs="22" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="11" maidens="2" runs="45" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="1" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Shafqat"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="M Shafqat"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cusden"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Sam Williams">
+      <HowOut how="LBW"/>
+      <Bowler name="M Skilliter"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Shafqat"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="2" score="69"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <FallOfWicket batsman="3" score="117"/>
+    <BowlerSummary name="T Rooke" overs="9" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="T Cross" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="A Lubbock" overs="8" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="M Shafqat" overs="9" maidens="2" runs="30" wickets="3"/>
+    <BowlerSummary name="M Skilliter" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="T Cusden" overs="3" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
