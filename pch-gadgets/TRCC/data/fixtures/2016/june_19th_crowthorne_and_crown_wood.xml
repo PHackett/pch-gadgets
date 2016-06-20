@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 20 2016 18:55:58 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/june_19th_crowthorne_and_crown_wood.xml -->
+<CricketMatch oppo="Crowthorne and Crown Wood" date="Sun Jun 19 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blondish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Field">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cartledge"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blondish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manning"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Blondish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="Clarke"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Caught"/>
+      <Bowler name="Clarke"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Run Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Macdowell"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="54"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="1" score="40"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="6" score="52"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="7" score="70"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <FallOfWicket batsman="10" score="145"/>
+    <FallOfWicket batsman="9" score="172"/>
+    <BowlerSummary name="Blondish" overs="6" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="Cartledge" overs="5" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Clarke" overs="4" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Manning" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Wilson" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Taylor" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Coles" overs="4" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Macdowell" overs="4" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Mackenzie" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+  <Innings batting="Crowthorne and Crown Wood">
+    <Batsman name="Manning">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Brundish">
+      <HowOut how="Caught Dan Field"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Baines">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Cartledge">
+      <HowOut how="Not Out"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="8.1" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="3" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Dan Foield" overs="3" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+</CricketMatch>
