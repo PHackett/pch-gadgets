@@ -120,6 +120,7 @@
     <Player surname="Farrar" firstname="Simon"/>
     <Player surname="Farrington" firstname="Mark" firstseason="1997" lastseason="1997" catches="3" mostcatchesseason="3"/>
     <Player surname="Featherstone" firstname="Dan"/>
+    <Player surname="Field" firstname="Dan"/>
     <Player surname="Fort" firstname="Chris" firstseason="1997" lastseason="2001"/>
     <Player surname="Fort" firstname="Edward"/>
     <Player surname="Fort" firstname="Hugh" firstseason="1995" catches="10" mostcatchesseason="5"/>
@@ -342,6 +343,7 @@
     <Player surname="Ridgley" firstname="Alistair"/>
     <Player surname="Ripley" firstname="H"/>
     <Player surname="Roberts" firstname="Mark"/>
+    <Player surname="Rogers" firstname="Ian"/>
     <Player surname="Romel" firstname="Ibrahim"/>
     <Player surname="Rudd" firstname="Lewis"/>
     <Player surname="Russell" firstname="David"/>
