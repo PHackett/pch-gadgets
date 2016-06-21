@@ -41,14 +41,6 @@
   </Fixture>
           
   <Fixture>
-    <Date>Fri, 24 Jun 2016 12:00:00 UTC</Date>
-    <Opposition>Hurst</Opposition>
-    <Time>18:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
-  </Fixture>
-  
-  <Fixture>
     <Date>Sun, 26 Jun 2016 12:00:00 UTC</Date>
     <Opposition>Kidmore End</Opposition>
     <Time>10:00</Time>
@@ -56,6 +48,14 @@
     <Result>NotYetPlayed</Result>
   </Fixture>
 
+  <Fixture>
+    <Date>Fri, 1 Jul 2016 12:00:00 UTC</Date>
+    <Opposition>Hurst</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+  
   <Fixture>
     <Date>Sun, 3 Jul 2016 12:00:00 UTC</Date>
     <Opposition>Wargrave</Opposition>
