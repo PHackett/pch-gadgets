@@ -63,7 +63,7 @@
     <BowlerSummary name="Jonathan Low" overs="5" maidens="0" runs="38" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
-    <Batsman name="Peter Woodmann">
+    <Batsman name="Peter Woodman">
       <HowOut how="LBW"/>
       <Bowler name="J Coker"/>
       <Runs value="10"/>
