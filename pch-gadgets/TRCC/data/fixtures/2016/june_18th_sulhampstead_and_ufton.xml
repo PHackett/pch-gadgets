@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Mon Jul 04 2016 12:32:57 GMT+0100 (BST) -->
 <!-- Result = Win -->
-<!-- XMLFilename = 2016/june_18th_sulhampstead_&_ufton.xml -->
-<CricketMatch oppo="Sulhampstead & Ufton" date="Sat Jun 18 2016 00:00:00 GMT+0100 (BST)">
+<!-- XMLFilename = 2016/june_18th_sulhampstead_and_ufton.xml -->
+<CricketMatch oppo="Sulhampstead and Ufton" date="Sat Jun 18 2016 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Marc Teal" keeper="1">
@@ -71,7 +71,7 @@
     <BowlerSummary name="Norris" overs="5" maidens="0" runs="37" wickets="3"/>
     <BowlerSummary name="Loganathan" overs="4" maidens="0" runs="39" wickets="0"/>
   </Innings>
-  <Innings batting="Sulhampstead & Ufton">
+  <Innings batting="Sulhampstead and Ufton">
     <Batsman name="Norris">
       <HowOut how="Caught Teal Marc"/>
       <Bowler name="Steve Beamish"/>
