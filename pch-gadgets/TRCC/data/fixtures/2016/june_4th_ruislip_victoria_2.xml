@@ -1,13 +1,130 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Tue Jun 07 2016 19:08:26 GMT+0100 (BST) -->
+<!-- Generated on Tue Jul 05 2016 12:57:16 GMT+0100 (BST) -->
 <!-- Result = Win -->
 <!-- XMLFilename = 2016/june_4th_ruislip_victoria_2.xml -->
 <CricketMatch oppo="Ruislip Victoria 2" date="Sat Jun 04 2016 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Twyford">
-    <Extras value="0"/>
-  </Innings>
   <Innings batting="Ruislip Victoria 2">
-    <Extras value="0"/>
+    <Batsman name="Walker">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Virk">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Balley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Freeland">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Harris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mulaparthi">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ansari">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Patel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mushtaq">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Bridger">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Booth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="10" maidens="0" runs="47" wickets="4"/>
+    <BowlerSummary name="Steve Walkland" overs="6" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Kiran Musudi" overs="6.2" maidens="1" runs="20" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Mulaparthi"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mushtaq"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Mulaparthi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mushtaq"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="2" score="101"/>
+    <FallOfWicket batsman="4" score="145"/>
+    <BowlerSummary name="Booth" overs="10" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Ansari" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Mulaparthi" overs="8" maidens="2" runs="34" wickets="2"/>
+    <BowlerSummary name="Mushtaq" overs="7.4" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Patel" overs="3" maidens="0" runs="21" wickets="0"/>
   </Innings>
 </CricketMatch>
