@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 05 2016 13:53:28 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2016/june_11th_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sat Jun 11 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="Torry">
+      <HowOut how="Caught Karl Cochrane"/>
+      <Bowler name="Ashish Darekar"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Gander">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Ashish Darekar"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Wilson">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Ashish Darekar"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jaybalan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ganesh">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Ashish Darekar"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Steve Beamish" overs="2" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="10" maidens="4" runs="31" wickets="1"/>
+    <BowlerSummary name="Kiran Musudi" overs="10" maidens="1" runs="58" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="2" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Ashish Darekar" overs="5" maidens="1" runs="25" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Pswarayi"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Ganesh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="Pswarayi"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Pswarayi" overs="7" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Ganesh" overs="7" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Gander" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Ruddle" overs="9" maidens="3" runs="27" wickets="4"/>
+    <BowlerSummary name="Wilson" overs="2" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
