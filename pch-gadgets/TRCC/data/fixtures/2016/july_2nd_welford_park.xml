@@ -20,7 +20,7 @@
       <Bowler name="Hill"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Ian Rodgers" keeper="1">
+    <Batsman name="Ian Rogers" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Hill"/>
       <Runs value="1"/>

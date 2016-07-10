@@ -40,7 +40,7 @@
       <Bowler name="Sam Woodhouse"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Ian Rodgers" keeper="1">
+    <Batsman name="Ian Rogers" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="Sam Woodhouse"/>
       <Runs value="3"/>
