@@ -83,7 +83,7 @@
       <Bowler name="Mo"/>
       <Runs value="49"/>
     </Batsman>
-    <Batsman name="Marc Teal" keeper="1">
+    <Batsman name="Marc Teal">
       <HowOut how="Bowled"/>
       <Bowler name="Mo"/>
       <Runs value="15"/>
@@ -110,7 +110,7 @@
       <HowOut how="Not Out"/>
       <Runs value="5"/>
     </Batsman>
-    <Batsman name="Simon Farrar"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Paul Hackett"/>
     <Extras value="20"/>
     <FallOfWicket batsman="1" score="7"/>
