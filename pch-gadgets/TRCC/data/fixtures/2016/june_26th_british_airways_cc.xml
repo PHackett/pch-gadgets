@@ -60,7 +60,7 @@
       <Bowler name="Soresh"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Ian Rogers" keeper="1">
+    <Batsman name="Ian Rogers">
       <HowOut how="Caught"/>
       <Bowler name="Rahim"/>
       <Runs value="0"/>
@@ -100,7 +100,7 @@
       <Bowler name="Rahim"/>
       <Runs value="8"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="Aman"/>
       <Runs value="0"/>
