@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 26 2016 18:48:36 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/july_24th_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sun Jul 24 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="I Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="O Stanford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Laign">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="A Jayalaban">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="L Dollard">
+      <HowOut how="LBW"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Davies">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Douglas">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Price">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="G Morris">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Bolam">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Martin"/>
+    <Extras value="41"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="5" maidens="0" runs="14" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Stumped"/>
+      <Bowler name="G Davies"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="G Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="G Morris"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="C Martin"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Martin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Price"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Douglas"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Price"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Douglas"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Adam Smith" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Douglas"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="4" score="71"/>
+    <FallOfWicket batsman="1" score="80"/>
+    <FallOfWicket batsman="5" score="84"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="8" score="123"/>
+    <FallOfWicket batsman="9" score="163"/>
+    <FallOfWicket batsman="10" score="165"/>
+    <BowlerSummary name="G Morris" overs="8" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="C Bolam" overs="7" maidens="3" runs="21" wickets="0"/>
+    <BowlerSummary name="C Martin" overs="7" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="G Laign" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="G Davies" overs="2" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="M Price" overs="7" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="A Douglas" overs="5.4" maidens="0" runs="18" wickets="3"/>
+  </Innings>
+</CricketMatch>
