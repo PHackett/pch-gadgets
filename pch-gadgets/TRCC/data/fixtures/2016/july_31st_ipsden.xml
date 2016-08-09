@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 09 2016 19:06:23 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2016/july_31st_ipsden.xml -->
+<CricketMatch oppo="Ipsden" date="Sun Jul 31 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ipsden">
+    <Batsman name="D Wood">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="A Veitch">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="C Cox">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="K Jordan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="D Houseman">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="J Cuffe">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Simmons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="S Bennett">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="W Sampson">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Ploszynski">
+      <HowOut how="LBW"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Hughesdon">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Raja Singh" overs="7.1" maidens="2" runs="25" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="13" maidens="2" runs="43" wickets="7"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="45" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="M Hughesdon"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Caught"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Hughesdon"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Matt Berry"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Nic Downes"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="1" score="55"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="5" score="133"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <FallOfWicket batsman="7" score="166"/>
+    <BowlerSummary name="M Hughesdon" overs="9" maidens="2" runs="22" wickets="2"/>
+    <BowlerSummary name="S Simmons" overs="5.5" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="D Houseman" overs="12" maidens="0" runs="48" wickets="4"/>
+    <BowlerSummary name="J Cuffe" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="K Jordan" overs="4" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
