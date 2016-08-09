@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 09 2016 19:16:50 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2016/august_7th_pinkneys_green.xml -->
+<CricketMatch oppo="Pinkneys Green" date="Sun Aug 07 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Pinkneys Green">
+    <Batsman name="B Purchase">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="T Snapes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="W Hayes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="A Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Cowley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Feasey">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="L Singh">
+      <HowOut how="Caught Rupesh Ahluwalia"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Smith">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="C Harden">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Austin"/>
+    <Extras value="26"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="7" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Phil Congden" overs="2" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="LBW"/>
+      <Bowler name="Austin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="R Feasey"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Smith"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Phil Congden"/>
+    <Batsman name="Adam Smith"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="3" score="133"/>
+    <FallOfWicket batsman="4" score="155"/>
+    <BowlerSummary name="L Singh" overs="6.3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Austin" overs="2" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="D Smith" overs="6" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="A Fuller" overs="6" maidens="0" runs="50" wickets="0"/>
+    <BowlerSummary name="M Cowley" overs="7" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="R Feasey" overs="7" maidens="0" runs="40" wickets="1"/>
+  </Innings>
+</CricketMatch>
