@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Aug 14 2016 19:49:10 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/august_13th_wafield.xml -->
+<CricketMatch oppo="Wafield" date="Sat Aug 13 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wafield">
+    <Batsman name="Tory">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Gander">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Wilson">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Greeff">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ferreira">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Maujoon">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Sutcliffe">
+      <HowOut how="Caught Shiva Nagam"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Ganesh">
+      <HowOut how="Run Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Rajab">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Pswarayi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ruddle">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="55"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="Shiva Nagam" overs="10" maidens="2" runs="38" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="2" runs="47" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Kiran Musudi" overs="6" maidens="1" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Pswarayi"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Gander"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Caught"/>
+      <Bowler name="Pswarayi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Wilson"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ganesh"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wilson"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Stumped"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Gander"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Gander" overs="8.4" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Pswarayi" overs="10" maidens="3" runs="39" wickets="2"/>
+    <BowlerSummary name="Ruddle" overs="7" maidens="0" runs="39" wickets="3"/>
+    <BowlerSummary name="Ganesh" overs="8" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Rajab" overs="7" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Wilson" overs="3" maidens="1" runs="11" wickets="2"/>
+  </Innings>
+</CricketMatch>
