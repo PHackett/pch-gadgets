@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 07 2016 19:23:42 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/august_14th_checkendon.xml -->
+<CricketMatch oppo="Checkendon" date="Sun Aug 14 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Checkendon">
+    <Batsman name="M Heslop">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="V Chib">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Sathia">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="J Warren">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="J Gray">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Charan">
+      <HowOut how="Run Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="M Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="H Wickens">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="R Williams"/>
+    <Batsman name="M Wickens"/>
+    <Extras value="10"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="60" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="6" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="42" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Charan"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="J Gray"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charan"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Wickens"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Charan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Singh"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Heslop"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ian Rogers">
+      <HowOut how="LBW"/>
+      <Bowler name="J Warren"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <FallOfWicket batsman="3" score="83"/>
+    <FallOfWicket batsman="5" score="83"/>
+    <FallOfWicket batsman="4" score="130"/>
+    <FallOfWicket batsman="6" score="138"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="9" score="171"/>
+    <BowlerSummary name="J Gray" overs="6" maidens="1" runs="33" wickets="1"/>
+    <BowlerSummary name="R Williams" overs="6" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="M Wickens" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Charan" overs="7" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="M Singh" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="H Wickens" overs="3" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="M Heslop" overs="3" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="J Warren" overs="3" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Sathia" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
