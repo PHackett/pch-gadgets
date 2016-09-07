@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 07 2016 19:35:01 GMT+0100 (BST) -->
+<!-- Result = Rain -->
+<!-- XMLFilename = 2016/august_21st_joe_downes_xi.xml -->
+<CricketMatch oppo="Joe Downes XI" date="Sun Aug 21 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="P Schofield"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Schofield"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Matt Berry"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="C Churukuri"/>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="91"/>
+    <FallOfWicket batsman="3" score="102"/>
+    <FallOfWicket batsman="1" score="144"/>
+    <FallOfWicket batsman="4" score="150"/>
+    <FallOfWicket batsman="5" score="150"/>
+    <BowlerSummary name="Kelkain" overs="7" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="B Jones" overs="7" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="M Narula" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="P Schofield" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Tailor" overs="2" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="0" runs="28" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Joe Downes XI">
+    <Batsman name="M Narula">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Hester">
+      <HowOut how="Bowled"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Raja Singh" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="3" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+</CricketMatch>
