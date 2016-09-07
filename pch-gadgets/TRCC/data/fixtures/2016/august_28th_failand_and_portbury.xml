@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 07 2016 19:46:29 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/august_28th_failand_and_portbury.xml -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Aug 28 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="J Marsden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="P Bachelor">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sam G">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Billing">
+      <HowOut how="Caught Adam Smith"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="B Shephard">
+      <HowOut how="Caught "/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="B Ryan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="L Howell">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="P Dungey"/>
+    <Batsman name="S Pippin"/>
+    <Batsman name="B Raines"/>
+    <Extras value="22"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="L Howell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="L Howell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Howell"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Pippin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Sam G"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Marsden"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Pippin"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam G"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Sam G"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="L Howell" overs="7" maidens="0" runs="15" wickets="3"/>
+    <BowlerSummary name="P Dungey" overs="5" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="S Pippin" overs="7" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="B Raines" overs="1" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="J Marsden" overs="4" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Sam G" overs="3" maidens="2" runs="13" wickets="3"/>
+    <BowlerSummary name="S Barrable" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
