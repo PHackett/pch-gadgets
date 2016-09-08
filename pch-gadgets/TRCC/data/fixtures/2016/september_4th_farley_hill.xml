@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Sep 08 2016 19:35:55 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/september_4th_farley_hill.xml -->
+<CricketMatch oppo="Farley Hill" date="Sun Sep 04 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="J Howard">
+      <HowOut how="Not Out"/>
+      <Runs value="109"/>
+    </Batsman>
+    <Batsman name="T DeMeyer">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Saul">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Hussein">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="K Brown">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="S Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Blake">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Khan">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Phaal">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Z Hussain"/>
+    <Batsman name="Ad Ali"/>
+    <Extras value="26"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="3" runs="8" wickets="1"/>
+    <BowlerSummary name="Raja Singh" overs="6" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="10" maidens="0" runs="68" wickets="2"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="T Khan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="Ad Ali"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Khan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Hussein"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Z Hussein"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Phaal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="S Phaal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="LBW"/>
+      <Bowler name="Z Hussein"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Phaal"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Saul"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="5" score="91"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="8" score="93"/>
+    <FallOfWicket batsman="9" score="111"/>
+    <FallOfWicket batsman="11" score="111"/>
+    <BowlerSummary name="T Khan" overs="7" maidens="3" runs="14" wickets="2"/>
+    <BowlerSummary name="Ad Ali" overs="7" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Z Hussein" overs="6" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="S Phaal" overs="7" maidens="1" runs="17" wickets="3"/>
+    <BowlerSummary name="A Saul" overs="1.4" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
