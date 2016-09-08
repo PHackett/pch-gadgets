@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Sep 08 2016 19:22:27 GMT+0100 (BST) -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2016/august_30th_harptree.xml -->
+<CricketMatch oppo="Harptree" date="Tue Aug 30 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="T Hester"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Ward"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Hill"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Hogarth"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hill"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hester"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hill"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Joe Downes"/>
+    <Batsman name="Matt Berry"/>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="2" score="66"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="3" score="125"/>
+    <FallOfWicket batsman="5" score="157"/>
+    <FallOfWicket batsman="6" score="180"/>
+    <FallOfWicket batsman="8" score="187"/>
+    <BowlerSummary name="T Hester" overs="6" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="S Cook" overs="8" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="M Ward" overs="8" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="P Hogarth" overs="8" maidens="1" runs="56" wickets="1"/>
+    <BowlerSummary name="S Hill" overs="6" maidens="0" runs="36" wickets="3"/>
+    <BowlerSummary name="R Hester" overs="4" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+  <Innings batting="Harptree">
+    <Batsman name="Marsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="A Cook">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Pat Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Hill">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Hester">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Haigh">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="R Currell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="S Cook">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Ward">
+      <HowOut how="LBW"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Hester">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="2" score="32"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="4" score="61"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="6" score="69"/>
+    <FallOfWicket batsman="1" score="142"/>
+    <FallOfWicket batsman="7" score="148"/>
+    <FallOfWicket batsman="9" score="172"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="5.4" maidens="1" runs="17" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="1" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+</CricketMatch>
