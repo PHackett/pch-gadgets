@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Sep 08 2016 19:09:25 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/august_29th_cleeve.xml -->
+<CricketMatch oppo="Cleeve" date="Mon Aug 29 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cleeve">
+    <Batsman name="C Hunt">
+      <HowOut how="Caught Jonathan Low"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="K Crew">
+      <HowOut how="Run Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Tom Carpenter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="James Cole">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="G Lewin">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="A Barnsley">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="S Williams">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Ferris">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="C Brooke">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Ferris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Edward Farrar" overs="0.2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="8.4" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="7" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Pete Schofield" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Smith"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Smith"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="C Brooke"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Williams"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Tom Carpenter"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="S Williams"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="51"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="6" score="161"/>
+    <FallOfWicket batsman="5" score="191"/>
+    <BowlerSummary name="M Smith" overs="8" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="L Ferris" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="C Brooke" overs="3" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="S Williams" overs="6" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="A Barnsley" overs="2" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="James Cole" overs="5" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="G Lewin" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Tom Carpenter" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="A Ferris" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="C Hunt" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
