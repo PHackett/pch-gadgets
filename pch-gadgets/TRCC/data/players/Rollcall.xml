@@ -4,6 +4,7 @@
     <Player surname="Abraham" firstname="Steve" firstseason="1983" catches="35" mostcatchesseason="5"/>
     <Player surname="Abrahams" firstname="Andy" firstseason="1983" lastseason="1991" catches="7" mostcatchesseason="4"/>
     <Player surname="Adams" firstname="Brian" firstseason="1979" lastseason="1984" catches="69" mostcatchesseason="11"/>
+    <Player surname="Adams" firstname="Nico"/>
     <Player surname="Adamson" firstname="Philip"/>
     <Player surname="Ahluwalia" firstname="Rupesh"/>
     <Player surname="Apte" firstname="Akshay"/>
