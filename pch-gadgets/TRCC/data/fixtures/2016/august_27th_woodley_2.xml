@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 14 2016 08:56:17 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/august_27th_woodley.xml -->
+<CricketMatch oppo="Woodley" date="Sat Aug 27 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Woodley">
+    <Batsman name="Dashpande">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Kulkari">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kadloor">
+      <HowOut how="Caught Ken Cochrane"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Pandey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jawaid">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Lotke">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Afzal">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Naeem">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Shastry">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Payavala">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Dilip">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <BowlerSummary name="Steve Beamish" overs="10" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Shiva Nagam" overs="10" maidens="5" runs="15" wickets="3"/>
+    <BowlerSummary name="Seve Green" overs="4" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="5" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="7" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Kiran Musudi" overs="9" maidens="0" runs="41" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Payavala"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hamish Pringle">
+      <HowOut how="Caught"/>
+      <Bowler name="Naeem"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Phil Congden">
+      <HowOut how="LBW"/>
+      <Bowler name="Payavala"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Naeem"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught"/>
+      <Bowler name="Naeem"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Caught"/>
+      <Bowler name="Jawaid"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Afzal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kadlor"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dilip"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Naeem"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Dashpande" overs="7" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Payavala" overs="9" maidens="2" runs="26" wickets="2"/>
+    <BowlerSummary name="Pandey" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Naeem" overs="9" maidens="1" runs="25" wickets="4"/>
+    <BowlerSummary name="Afzal" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Shastry" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Jawaid" overs="3" maidens="5" runs="0" wickets="1"/>
+    <BowlerSummary name="Dilip" overs="2" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Kadloor" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>
