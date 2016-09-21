@@ -188,7 +188,8 @@
   <Opposition>Welford Park 2</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Abandonned</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
