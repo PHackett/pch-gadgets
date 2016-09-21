@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Generated on Wed Sep 21 2016 12:54:09 GMT+0100 (BST) -->
 <!-- Result = Win -->
-<!-- XMLFilename = 2016/august_20th_sulhampstead_&_ufton.xml -->
-<CricketMatch oppo="Sulhampstead & Ufton" date="Sat Aug 20 2016 00:00:00 GMT+0100 (BST)">
+<!-- XMLFilename = 2016/august_20th_sulhampstead_and_ufton_3.xml -->
+<CricketMatch oppo="Sulhampstead and Ufton" date="Sat Aug 20 2016 00:00:00 GMT+0100 (BST)">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Extras value="0"/>
   </Innings>
-  <Innings batting="Sulhampstead & Ufton">
+  <Innings batting="Sulhampstead and Ufton">
     <Extras value="0"/>
   </Innings>
 </CricketMatch>
