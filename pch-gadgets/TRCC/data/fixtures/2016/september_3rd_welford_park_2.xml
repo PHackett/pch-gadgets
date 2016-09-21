@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 21 2016 12:52:24 GMT+0100 (BST) -->
+<!-- Result = Abandonned -->
+<!-- XMLFilename = 2016/september_3rd_welford_park.xml -->
+<CricketMatch oppo="Welford Park" date="Sat Sep 03 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Welford Park">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
