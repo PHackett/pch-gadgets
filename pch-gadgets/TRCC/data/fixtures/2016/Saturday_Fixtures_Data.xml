@@ -29,7 +29,7 @@
   <Opposition>Farley Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 
 <Fixture>
@@ -196,7 +196,7 @@
   <Opposition>Presidents Game</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Cancelled</Result>
 </Fixture>
 
 </YearsFixtures>
