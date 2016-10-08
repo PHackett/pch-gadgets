@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Oct 08 2016 17:43:43 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2016/september_25th_peppard_and_stoke_row.xml -->
+<CricketMatch oppo="Peppard and Stoke Row" date="Sun Sep 25 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Peppard and Stoke Row">
+    <Batsman name="C Laing">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Laing">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="D Townson">
+      <HowOut how="LBW"/>
+      <Bowler name="Nico Adams"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="M Lambert">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="R Ashton">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Kimber">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Legg">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="O Nicholson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="N Sharma">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Scott">
+      <HowOut how="Stumped"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Dyer">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Raja Singh" overs="12" maidens="2" runs="36" wickets="3"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="13" maidens="1" runs="34" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Nico Adams" overs="3" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2.1" maidens="1" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Sharma"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Sharma"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ashton"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Adam Smith" keeper="1">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="R Parrett">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Ashton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nico Adams">
+      <HowOut how="Caught"/>
+      <Bowler name="R Ashton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="R Ashton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="N Sharma"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="3" score="53"/>
+    <FallOfWicket batsman="4" score="122"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="1" score="125"/>
+    <FallOfWicket batsman="7" score="125"/>
+    <FallOfWicket batsman="8" score="125"/>
+    <BowlerSummary name="G Legg" overs="2" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="O Nicholson" overs="8" maidens="2" runs="12" wickets="0"/>
+    <BowlerSummary name="R Dyer" overs="7" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="R Scott" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="N Sharma" overs="7.3" maidens="2" runs="34" wickets="3"/>
+    <BowlerSummary name="R Ashton" overs="6" maidens="2" runs="8" wickets="4"/>
+  </Innings>
+</CricketMatch>
