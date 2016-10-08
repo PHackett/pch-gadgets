@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Oct 08 2016 17:27:53 GMT+0100 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2016/september_18th_binfield.xml -->
+<CricketMatch oppo="Binfield" date="Sun Sep 18 2016 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="M Hayman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="95"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="K Gupia">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="V Choumal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Sculley">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="N Jones">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Vines">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="H Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Collett">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Hesketh">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Collett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="8" maidens="0" runs="48" wickets="3"/>
+    <BowlerSummary name="Tom Fort" overs="8" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="37" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Vines"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Vines"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="J Collett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Hesketh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="N Jones"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Adam Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="J Collett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Collett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Collett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="3" score="86"/>
+    <FallOfWicket batsman="5" score="119"/>
+    <FallOfWicket batsman="7" score="167"/>
+    <FallOfWicket batsman="8" score="176"/>
+    <FallOfWicket batsman="9" score="178"/>
+    <FallOfWicket batsman="10" score="188"/>
+    <BowlerSummary name="T Vines" overs="7" maidens="0" runs="38" wickets="2"/>
+    <BowlerSummary name="N Jones" overs="7" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="J Collett" overs="9" maidens="2" runs="32" wickets="4"/>
+    <BowlerSummary name="T Hesketh" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="H Jones" overs="7" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="S Collett" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="K Gupia" overs="5" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
