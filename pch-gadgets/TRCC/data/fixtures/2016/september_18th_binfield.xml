@@ -110,7 +110,7 @@
       <Bowler name="J Collett"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="J Collett"/>
       <Runs value="0"/>
