@@ -1,0 +1,14 @@
+<PlayerStats name="Dan Field" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 19 00:00:00 UTC+0100 2016" oppo="Crowthorne and Crown Wood"/>
+    </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Batting innings="1" runs="14" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jun 19 00:00:00 UTC+0100 2016" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="14" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

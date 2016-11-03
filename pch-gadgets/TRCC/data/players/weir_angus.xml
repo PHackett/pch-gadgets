@@ -1,7 +1,28 @@
-<PlayerStats name="Angus Weir" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Angus Weir" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 26 00:00:00 UTC+0100 2009" oppo="Wargrave"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="7.0" maidens="0" runs="61" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
+                <BowlingData overs="4.0" maidens="0" runs="26" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="194" notouts="1" hundreds="1" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 14 00:00:00 UTC+0100 2016" oppo="West Reading"/>
+                <BattingData runs="128" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 14 00:00:00 UTC+0100 2016" oppo="West Reading"/>
+                <BattingData runs="128" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="7" fiveplus="0">

@@ -1,7 +1,24 @@
-<PlayerStats name="Steve Beamish" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Steve Beamish" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 6 00:00:00 UTC+0100 2001" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="14" fiveplus="0">
+            <BowlingData overs="97.0" maidens="13" runs="434" wickets="13"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 27 00:00:00 UTC+0100 2016" oppo="Woodley"/>
+                <BowlingData overs="10.0" maidens="0" runs="47" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="11" runs="17" notouts="4" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sun Aug 28 00:00:00 UTC+0100 2016" oppo="Failand and Portbury"/>
+                <BattingData runs="11" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="15" fiveplus="1">

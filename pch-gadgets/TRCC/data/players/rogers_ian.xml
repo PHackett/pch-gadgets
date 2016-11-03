@@ -1,0 +1,14 @@
+<PlayerStats name="Ian Rogers" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
+    </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Batting innings="10" runs="56" notouts="1" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sun Jun 19 00:00:00 UTC+0100 2016" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="39" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

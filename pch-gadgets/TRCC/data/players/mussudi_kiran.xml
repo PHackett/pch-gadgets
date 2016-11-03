@@ -1,0 +1,14 @@
+<PlayerStats name="Kiran Mussudi" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 18 00:00:00 UTC+0100 2016" oppo="Sulhampstead and Ufton"/>
+    </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 18 00:00:00 UTC+0100 2016" oppo="Sulhampstead and Ufton"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

@@ -1,7 +1,20 @@
-<PlayerStats name="Adam Smith" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Adam Smith" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat May 7 00:00:00 UTC+0100 2005" oppo="West Reading"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Batting innings="8" runs="154" notouts="4" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 18 00:00:00 UTC+0100 2016" oppo="Binfield"/>
+                <BattingData runs="65" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 18 00:00:00 UTC+0100 2016" oppo="Binfield"/>
+                <BattingData runs="65" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="5" fiveplus="0">

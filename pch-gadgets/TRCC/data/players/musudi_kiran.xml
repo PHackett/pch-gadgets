@@ -1,0 +1,22 @@
+<PlayerStats name="Kiran Musudi" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
+    </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="11" fiveplus="0">
+            <BowlingData overs="73.2" maidens="11" runs="266" wickets="19"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 4 00:00:00 UTC+0100 2016" oppo="Ruislip Victoria 2"/>
+                <BowlingData overs="6.2" maidens="1" runs="20" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="16" notouts="1" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sat Jun 11 00:00:00 UTC+0100 2016" oppo="Warfield"/>
+                <BattingData runs="8" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

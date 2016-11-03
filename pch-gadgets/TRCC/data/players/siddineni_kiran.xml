@@ -1,7 +1,24 @@
-<PlayerStats name="Kiran Siddineni" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Kiran Siddineni" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 22 00:00:00 UTC+0100 2015" oppo="Warfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="3.0" maidens="0" runs="12" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun May 8 00:00:00 UTC+0100 2016" oppo="Sonning"/>
+                <BowlingData overs="1.0" maidens="0" runs="5" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="10" runs="96" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 14 00:00:00 UTC+0100 2016" oppo="Checkendon"/>
+                <BattingData runs="27" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">

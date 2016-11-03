@@ -1,7 +1,28 @@
-<PlayerStats name="Paul Hackett" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Paul Hackett" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 23 00:00:00 UTC+0100 1989" oppo="Twyford Saturday"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="14" fiveplus="1">
+            <BowlingData overs="104.1" maidens="18" runs="395" wickets="19"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 10 00:00:00 UTC+0100 2016" oppo="Woodcote"/>
+                <BowlingData overs="7.0" maidens="2" runs="15" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jul 10 00:00:00 UTC+0100 2016" oppo="Woodcote"/>
+                <BowlingData overs="7.0" maidens="2" runs="15" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="6" runs="12" notouts="4" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 26 00:00:00 UTC+0100 2016" oppo="British Airways CC"/>
+                <BattingData runs="8" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="12" fiveplus="0">

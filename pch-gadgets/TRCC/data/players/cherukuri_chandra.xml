@@ -1,0 +1,22 @@
+<PlayerStats name="Chandra Cherukuri" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
+    </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="13" fiveplus="0">
+            <BowlingData overs="80.0" maidens="9" runs="338" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 9 00:00:00 UTC+0100 2016" oppo="Knowl Hill"/>
+                <BowlingData overs="8.0" maidens="1" runs="23" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="11" runs="73" notouts="2" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sat Aug 27 00:00:00 UTC+0100 2016" oppo="Woodley"/>
+                <BattingData runs="31" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

@@ -1,7 +1,48 @@
-<PlayerStats name="Stuart Barrable" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Stuart Barrable" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="22.2" maidens="3" runs="133" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Tue Aug 30 00:00:00 UTC+0100 2016" oppo="Harptree"/>
+                <BowlingData overs="5.4" maidens="1" runs="17" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="14" runs="724" notouts="3" hundreds="1" fifties="5" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 2016" oppo="Purley"/>
+                <BattingData runs="114" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 14 00:00:00 UTC+0100 2016" oppo="West Reading"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 2 00:00:00 UTC+0100 2016" oppo="Welford Park"/>
+                <BattingData runs="85" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 9 00:00:00 UTC+0100 2016" oppo="Knowl Hill"/>
+                <BattingData runs="66" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 30 00:00:00 UTC+0100 2016" oppo="Purley"/>
+                <BattingData runs="114" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 13 00:00:00 UTC+0100 2016" oppo="Warfield"/>
+                <BattingData runs="70" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 7 00:00:00 UTC+0100 2016" oppo="Pinkneys Green"/>
+                <BattingData runs="87" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="7" fiveplus="0">

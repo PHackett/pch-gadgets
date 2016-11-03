@@ -1,7 +1,36 @@
-<PlayerStats name="Oscar Woodbridge" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Oscar Woodbridge" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="54.0" maidens="9" runs="247" wickets="9"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 18 00:00:00 UTC+0100 2016" oppo="Sulhampstead and Ufton"/>
+                <BowlingData overs="6.0" maidens="2" runs="13" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="10" runs="314" notouts="0" hundreds="0" fifties="3" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 18 00:00:00 UTC+0100 2016" oppo="Sulhampstead and Ufton"/>
+                <BattingData runs="78" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 4 00:00:00 UTC+0100 2016" oppo="Ruislip Victoria 2"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 18 00:00:00 UTC+0100 2016" oppo="Sulhampstead and Ufton"/>
+                <BattingData runs="78" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 6 00:00:00 UTC+0100 2016" oppo="Ruislip Victoria"/>
+                <BattingData runs="53" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="17" fiveplus="0">

@@ -1,7 +1,16 @@
-<PlayerStats name="Manan Narula" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Manan Narula" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 29 00:00:00 UTC+0100 2011" oppo="Crowthorne"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Batting innings="2" runs="23" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Jul 31 00:00:00 UTC+0100 2016" oppo="Ipsden"/>
+                <BattingData runs="22" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="3" fiveplus="0">

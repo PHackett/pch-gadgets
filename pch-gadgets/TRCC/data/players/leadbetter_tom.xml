@@ -1,7 +1,16 @@
-<PlayerStats name="Tom Leadbetter" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Tom Leadbetter" generated="Wed, 02 Nov 2016 19:46:18 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 19 00:00:00 UTC+0100 2006" oppo="Sonning 3rds"/>
     </FirstRecordedGame>
+
+    <YearData year="2016">
+        <Batting innings="2" runs="2" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="4" fiveplus="0">
