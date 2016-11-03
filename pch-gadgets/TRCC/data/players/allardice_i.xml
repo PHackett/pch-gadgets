@@ -1,3 +1,14 @@
-<PlayerStats name="I Allardyce" generated="Thu, 10 Feb 2011 20:35:06 UTC">
-</PlayerStats>
+<PlayerStats name="I Allardice" generated="Thu, 03 Nov 2016 20:13:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 31 00:00:00 UTC+0100 1997" oppo="Berkshire County Sports"/>
+    </FirstRecordedGame>
 
+    <YearData year="1997">
+        <Batting innings="1" runs="2" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 31 00:00:00 UTC+0100 1997" oppo="Berkshire County Sports"/>
+                <BattingData runs="2" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>
