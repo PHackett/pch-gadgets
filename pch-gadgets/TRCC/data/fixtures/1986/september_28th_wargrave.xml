@@ -3,7 +3,7 @@
 <CricketMatch oppo="Wargrave" date="Sun Sep 28 00:00:00 UTC+0100 1986">
   <MatchReport/><CountsToStats/>
   <Innings batting="Wargrave">
-    <Batsman name="R Anderson">
+    <Batsman name="Richard Anderson">
       <HowOut how="Caught Nic Downes"/>
       <Bowler name="David Downes"/>
       <Runs value="14"/>
@@ -81,7 +81,7 @@
     </Batsman>
     <Batsman name="Paul Howells">
       <HowOut how="Stumped"/>
-      <Bowler name="R Anderson"/>
+      <Bowler name="Richard Anderson"/>
       <Runs value="24"/>
     </Batsman>
     <Batsman name="Tom Fort">
@@ -119,7 +119,7 @@
     <BowlerSummary name="M Woods" overs="7" maidens="0" runs="20" wickets="1"/>
     <BowlerSummary name="Alston" overs="8" maidens="2" runs="22" wickets="0"/>
     <BowlerSummary name="Norris" overs="12" maidens="0" runs="45" wickets="2"/>
-    <BowlerSummary name="R Anderson" overs="11" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Richard Anderson" overs="11" maidens="1" runs="36" wickets="1"/>
     <BowlerSummary name="Moore" overs="1" maidens="0" runs="3" wickets="0"/>
   </Innings>
 </CricketMatch>
