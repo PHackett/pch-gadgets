@@ -81,7 +81,7 @@
     </Batsman>
     <Batsman name="Jennings">
       <HowOut how="Bowled"/>
-      <Bowler name="Rupesh Ahlumalia"/>
+      <Bowler name="Rupesh Ahluwalia"/>
       <Runs value="27"/>
     </Batsman>
     <Batsman name="Leefe">
@@ -105,7 +105,7 @@
     <Extras value="30"/>
     <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="28" wickets="2"/>
     <BowlerSummary name="Raja Singh" overs="6" maidens="0" runs="20" wickets="3"/>
-    <BowlerSummary name="Rupesh Ahlumalia" overs="6" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="6" maidens="0" runs="17" wickets="1"/>
     <BowlerSummary name="Matt Berry" overs="6" maidens="0" runs="21" wickets="1"/>
     <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="32" wickets="0"/>
     <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="18" wickets="0"/>
