@@ -68,7 +68,7 @@
     </Batsman>
     <Batsman name="Pete Schofield">
       <HowOut how="Bowled"/>
-      <Bowler name="Heyes"/>
+      <Bowler name="Playford"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Hugh Fort">
@@ -80,6 +80,11 @@
       <HowOut how="Bowled"/>
       <Bowler name="Fuller"/>
       <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Heyes"/>
+      <Runs value="22"/>
     </Batsman>
     <Batsman name="Chris Fort">
       <HowOut how="Bowled"/>
@@ -102,7 +107,7 @@
     </Batsman>
     <Extras value="41"/>
     <BowlerSummary name="Heyes" overs="7" maidens="3" runs="9" wickets="4"/>
-    <BowlerSummary name="Playford" overs="8" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Playford" overs="8" maidens="1" runs="23" wickets="1"/>
     <BowlerSummary name="D Smith" overs="4" maidens="1" runs="10" wickets="0"/>
     <BowlerSummary name="Fuller" overs="8" maidens="1" runs="45" wickets="2"/>
     <BowlerSummary name="Harden" overs="3" maidens="0" runs="19" wickets="0"/>
