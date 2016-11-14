@@ -1,4 +1,4 @@
-<PlayerStats name="Tom Downes" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Tom Downes" generated="Mon, 14 Nov 2016 18:53:14 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 9 00:00:00 UTC+0100 2006" oppo="Cookham Dean"/>
     </FirstRecordedGame>
@@ -33,7 +33,7 @@
             </BowlingBest>
         </Bowling>
     
-        <Batting innings="3" runs="60" notouts="1" hundreds="0" fifties="0" ducks="0">
+        <Batting innings="4" runs="82" notouts="1" hundreds="0" fifties="0" ducks="0">
             <BattingBest>
                 <MatchId date="Sun Jun 21 00:00:00 UTC+0100 2015" oppo="Crowthorne"/>
                 <BattingData runs="36" notouts="0"/>
