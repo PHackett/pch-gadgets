@@ -17,7 +17,7 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Sun, 24 Apr 2017 12:00:00 UTC</Date>
+  <Date>Sun, 30 Apr 2017 12:00:00 UTC</Date>
   <Opposition>Stonor</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
@@ -26,37 +26,37 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 1 May 2017 12:00:00 UTC</Date>
+  <Date>Sun, 7 May 2017 12:00:00 UTC</Date>
   <Opposition>Bracknell</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 8 May 2017 12:00:00 UTC</Date>
+  <Date>Sun, 14 May 2017 12:00:00 UTC</Date>
   <Opposition>Sonning</Opposition>
   <Time>14:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 15 May 2017 12:00:00 UTC</Date>
-  <Opposition>Swyncombe</Opposition>
-  <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 22 May 2017 12:00:00 UTC</Date>
-  <Opposition>Frieth</Opposition>
+  <Date>Sun, 21 May 2017 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 28 May 2017 12:00:00 UTC</Date>
+  <Opposition>Frieth</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
