@@ -179,15 +179,6 @@
 <Fixture>
   <Date>Sun, 27 Aug 2017 12:00:00 UTC</Date>
   <Opposition>Failand and Portbury</Opposition>
-  <Time>14:00</Time>
-  <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 28 Aug 2017 12:00:00 UTC</Date>
-  <Opposition>Failand and Portbury</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
@@ -195,25 +186,25 @@
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 29 Aug 2017 12:00:00 UTC</Date>
+  <Date>Mon, 28 Aug 2017 12:00:00 UTC</Date>
   <Opposition>Cleeve</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Tue, 30 Aug 2017 12:00:00 UTC</Date>
+  <Date>Tue, 29 Aug 2017 12:00:00 UTC</Date>
   <Opposition>Harptree</Opposition>
-  <Time>14:00</Time>
+  <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 4 Sep 2017 12:00:00 UTC</Date>
+  <Date>Sun, 3 Sep 2017 12:00:00 UTC</Date>
   <Opposition>Farley Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
@@ -222,7 +213,7 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 11 Sep 2017 12:00:00 UTC</Date>
+  <Date>Sun, 10 Sep 2017 12:00:00 UTC</Date>
   <Opposition>Reading Lawyers</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
@@ -230,7 +221,7 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 18 Sep 2017 12:00:00 UTC</Date>
+  <Date>Sun, 17 Sep 2017 12:00:00 UTC</Date>
   <Opposition>Binfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
@@ -239,10 +230,10 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 25 Sep 2017 12:00:00 UTC</Date>
+  <Date>Sun, 24 Sep 2017 12:00:00 UTC</Date>
   <Opposition>Peppard and Stoke Row</Opposition>
   <Time>13:00</Time>
-  <Venue>Away</Venue>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
