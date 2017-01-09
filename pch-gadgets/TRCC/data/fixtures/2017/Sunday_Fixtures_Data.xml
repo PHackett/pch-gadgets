@@ -123,26 +123,26 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 10 Jul 2017 12:00:00 UTC</Date>
+  <Date>Sun, 16 Jul 2017 12:00:00 UTC</Date>
   <Opposition>Woodcote</Opposition>
   <Time>14:00</Time>
-  <Venue>Away</Venue>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 17 Jul 2017 12:00:00 UTC</Date>
-  <Opposition>Fawley</Opposition>
-  <Time>14:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 24 Jul 2017 12:00:00 UTC</Date>
+  <Date>Sun, 23 Jul 2017 12:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 30 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
@@ -150,28 +150,28 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 31 Jul 2017 12:00:00 UTC</Date>
-  <Opposition>Ipsden</Opposition>
-  <Time>14:00</Time>
+  <Date>Sun, 6 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Stewart Wren XI</Opposition>
+  <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 7 Aug 2017 12:00:00 UTC</Date>
-  <Opposition>Pinkneys Green</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 14 Aug 2017 12:00:00 UTC</Date>
-  <Opposition>Checkendon</Opposition>
+  <Date>Sun, 13 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Bibury</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 20 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
