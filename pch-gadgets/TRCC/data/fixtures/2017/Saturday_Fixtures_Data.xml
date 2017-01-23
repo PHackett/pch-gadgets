@@ -32,5 +32,93 @@
   <Result>NotYetPlayed</Result>
 </Fixture>
 
+<Fixture>
+  <Date>Sat, 6 May 2017 12:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 13 May 2017 12:00:00 UTC</Date>
+  <Opposition>Shinfield 1</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 20 May 2017 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence 1</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 27 May 2017 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 3 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Earley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 10 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 17 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 24 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Emmbrook and Bearwood 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 1 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 8 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 15 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Shinfield 1</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
 </YearsFixtures>
 
