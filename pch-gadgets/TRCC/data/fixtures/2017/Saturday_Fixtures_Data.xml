@@ -120,5 +120,61 @@
   <Result>NotYetPlayed</Result>
 </Fixture>
 
+<Fixture>
+  <Date>Sat, 22 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence 1</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 29 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 5 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Earley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 12 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 19 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 26 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Emmbrook and Bearwood 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 2 Sep 2017 12:00:00 UTC</Date>
+  <Opposition>Woodley 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
 </YearsFixtures>
 
