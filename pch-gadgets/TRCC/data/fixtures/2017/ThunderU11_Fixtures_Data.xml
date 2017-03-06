@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Fri, 5 May 2017 12:00:00 UTC</Date>
+  <Opposition>Wokingham Red Oaks</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 7 May 2017 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 14 May 2017 12:00:00 UTC</Date>
+  <Opposition>Twyford Lightning</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 20 May 2017 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crownwood</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 4 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 11 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Henley Lynx</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 18 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Finchampstead Eagles</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 25 Jun 2017 12:00:00 UTC</Date>
+  <Opposition>Peppard and Stoke Row Maharajas</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 2 Jul 2017 12:00:00 UTC</Date>
+  <Opposition>Kidmore End</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+</YearsFixtures>
+
