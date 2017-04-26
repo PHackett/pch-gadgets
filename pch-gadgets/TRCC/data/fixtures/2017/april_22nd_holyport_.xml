@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Apr 26 2017 13:30:22 GMT+0100 (BST) -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/april_22nd_holyport_.xml -->
+<CricketMatch oppo="Holyport " date="Sat Apr 22 2017 00:00:00 GMT+0100 (BST)">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Holyport ">
+    <Batsman name="A Riley">
+      <HowOut how="Retired"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="V Jeyachdran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="W Sennett">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="M Grayson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="A Land">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="F Hussain">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="H Sulaman">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Ingham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="T Head">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="L Critcher">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="Kiran Musudi" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Robin Thompson" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="0" runs="59" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="35" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Caught"/>
+      <Bowler name="3"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="3"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="3"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="2" score="81"/>
+    <FallOfWicket batsman="3" score="104"/>
+    <FallOfWicket batsman="1" score="119"/>
+    <BowlerSummary name="1" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="2" overs="7" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="3" overs="8" maidens="0" runs="41" wickets="3"/>
+    <BowlerSummary name="4" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="5" overs="4" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="6" overs="4" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+</CricketMatch>
