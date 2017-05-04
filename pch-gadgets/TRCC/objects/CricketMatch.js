@@ -187,26 +187,35 @@ function GGTRCC_CricketMatchO___matchHTML()
 
 	//
 	// "Specials", for the new stuff requested by Spence to help with the Play-Cricket stuff
+	// This is here temporarily until we decide how to render the values for real
 	//
+	var lPlayCricketData = "";
+	
+	lPlayCricketData += "<p><span class='Scorecard'>";
+	
 	if ((null != this.mMatchType) && ("" !== this.mMatchType))
 	{
-		lRet += "<p><span class='Scorecard'>Match Type = " + this.mMatchType + "</span><p>";
+		lRet += "Match Type = '" + this.mMatchType + "'";
 	}
 	
 	if ((null != this.mTeam) && ("" !== this.mTeam))
 	{
-		lRet += "<p><span class='Scorecard'>Team = " + this.mTeam + "</span><p>";
+		lRet += " Team = '" + this.mTeam + "'";
 	}
 
 	if ((null != this.mPlayCricketId) && ("" !== this.mPlayCricketId))
 	{
-		lRet += "<p><span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId + "</span><p>";
+		lRet += " Play-Cricket ID = '" + this.mPlayCricketId + "'";
 	}
+	
+	lPlayCricketData += "</span><p>";
 
-	lRet += "<p><span class='Scorecard'>Match Type = " 		+ this.mMatchType 		+ "</span><p>";
-	lRet += "<p><span class='Scorecard'>Team = " 			+ this.mTeam 			+ "</span><p>";
-	lRet += "<p><span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId 	+ "</span><p>";
-	lRet += "<p><span class='Scorecard'>*</span><p>";	///REMOVE ME
+	////////////////////////////////////////// REMOVE ME ///////////////////////////////////////////////
+	// lRet += "<p><span class='Scorecard'>Match Type = '" 			+ this.mMatchType 		+ "'</span><p>";
+	// lRet += "<p><span class='Scorecard'>Team = '" 				+ this.mTeam 			+ "'</span><p>";
+	// lRet += "<p><span class='Scorecard'>Play-Cricket ID = '" 	+ this.mPlayCricketId 	+ "'</span><p>";
+	// lRet += "<p><span class='Scorecard'>*</span><p>";
+	////////////////////////////////////////// REMOVE ME ///////////////////////////////////////////////
 	
 	return (lRet);
 }
