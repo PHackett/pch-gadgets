@@ -202,6 +202,8 @@ function GGTRCC_CricketMatchO___matchHTML()
 	{
 		lRet += "<span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId + "</span><p>";
 	}
+
+	lRet += "<span class='Scorecard'>*</span><p>";	///REMOVE ME
 	
 	return (lRet);
 }
