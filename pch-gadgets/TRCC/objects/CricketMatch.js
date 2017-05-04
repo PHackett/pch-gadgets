@@ -14,6 +14,9 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	this.mOppo 					= null;
 	this.mDate					= null;
+	this.mMatchType				= null;
+	this.mTeam					= null;
+	this.mPlayCricketId			= null;
 	this.mMatchReport			= null;
 	this.mInnings				= new Array;
 	this.mInnings[0]			= null;
@@ -25,8 +28,11 @@ function GGTRCC_CricketMatchO (aCricketMatchXML)
 	//
 	// Extract the data from the attributes
 	//
-	this.mOppo	= lCM.getAttribute ("oppo");
-	this.mDate	= new Date (lCM.getAttribute ("date"));
+	this.mOppo			= lCM.getAttribute ("oppo");
+	this.mDate			= new Date (lCM.getAttribute ("date"));
+	this.mMatchType		= lCM.getAttribute ("matchType");
+	this.mTeam			= lCM.getAttribute ("team");
+	this.mPlayCricketId	= lCM.getAttribute ("playCricketId");
 	
 	if (lCM.getAttribute ("notforstats"))
 	{
@@ -177,6 +183,24 @@ function GGTRCC_CricketMatchO___matchHTML()
 	{
 		lRet += "<hr>";
 		lRet += "<em><sup>&#8224;</sup> Indicates keeper</em>";		
+	}
+
+	//
+	// "Specials", for the new stuff requested by Spence to help with the Play-Cricket stuff
+	//
+	if ((null != this.mMatchType) && ("" !== this.mMatchType))
+	{
+		lRet += "<span class='Scorecard'>Match Type = " + this.mMatchType + "</span><p>";
+	}
+	
+	if ((null != this.mTeam) && ("" !== this.mTeam))
+	{
+		lRet += "<span class='Scorecard'>Team = " + this.mTeam + "</span><p>";
+	}
+
+	if ((null != this.mPlayCricketId) && ("" !== this.mPlayCricketId))
+	{
+		lRet += "<span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId + "</span><p>";
 	}
 	
 	return (lRet);

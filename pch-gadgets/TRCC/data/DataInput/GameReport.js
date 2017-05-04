@@ -109,7 +109,7 @@ function Game___toXML ()
 			" date=\"" 			+ this.mDate.toString() 	+ "\"" +
 			" matchType=\""									+ "\"" +
 			" team=\""										+ "\"" +
-			" playCriketId=\""								+ "\"" +
+			" playCricketId=\""								+ "\"" +
 			">\n";
 	
 	//
