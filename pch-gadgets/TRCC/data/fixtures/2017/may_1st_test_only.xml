@@ -4,7 +4,7 @@
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Win -->
 <!-- XMLFilename = 2017/may_1st_test_only.xml -->
-<CricketMatch oppo="test only" date="Mon May 01 2017 00:00:00 GMT+0100 (BST)" matchType="League" team="First" playCriketId="12345">
+<CricketMatch oppo="test only" date="Mon May 01 2017 00:00:00 GMT+0100 (BST)" matchType="League" team="First" playCricketId="12345">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
