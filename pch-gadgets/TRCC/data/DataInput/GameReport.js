@@ -104,9 +104,12 @@ function Game___toXML ()
 	//
 	// Header
 	//
-	lRet += "<CricketMatch" + 
-			" oppo=\"" + this.GetOppo().mName + "\"" + 
-			" date=\"" + this.mDate.toString() +  "\"" + 
+	lRet += "<CricketMatch" 	+ 
+			" oppo=\"" 			+ this.GetOppo().mName		+ "\"" + 
+			" date=\"" 			+ this.mDate.toString() 	+ "\"" +
+			" matchType=\""									+ "\"" +
+			" team=\""										+ "\"" +
+			" playCriketId=\""								+ "\"" +
 			">\n";
 	
 	//

@@ -288,9 +288,11 @@
 			//
 			var lXML = "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n";
 		
-			lXML +="<!-- Generated on " + new Date()							+ " -->\n";
-			lXML +="<!-- Result = " + lMatchResult.GetValue()					+ " -->\n";
-			lXML +="<!-- XMLFilename = " + GetGameArray()[0].getXMLFilename()	+ " -->\n";
+			lXML +="<!-- Generated on " + new Date()																				+ " -->\n";
+			lXML +="<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter"										+ " -->\n";
+			lXML +="<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt;"	+ " -->\n";
+			lXML +="<!-- Result = " + lMatchResult.GetValue()																		+ " -->\n";
+			lXML +="<!-- XMLFilename = " + GetGameArray()[0].getXMLFilename()														+ " -->\n";
 	
 			lXML += GetGameArray()[0].toXML();
 		
