@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu May 04 2017 16:26:50 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2017/may_1st_test_only.xml -->
+<CricketMatch oppo="test only" date="Mon May 01 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCriketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="99"/>
+    </Batsman>
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="test only">
+    <Batsman name="B A">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="1" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
