@@ -190,20 +190,23 @@ function GGTRCC_CricketMatchO___matchHTML()
 	//
 	if ((null != this.mMatchType) && ("" !== this.mMatchType))
 	{
-		lRet += "<span class='Scorecard'>Match Type = " + this.mMatchType + "</span><p>";
+		lRet += "<p><span class='Scorecard'>Match Type = " + this.mMatchType + "</span><p>";
 	}
 	
 	if ((null != this.mTeam) && ("" !== this.mTeam))
 	{
-		lRet += "<span class='Scorecard'>Team = " + this.mTeam + "</span><p>";
+		lRet += "<p><span class='Scorecard'>Team = " + this.mTeam + "</span><p>";
 	}
 
 	if ((null != this.mPlayCricketId) && ("" !== this.mPlayCricketId))
 	{
-		lRet += "<span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId + "</span><p>";
+		lRet += "<p><span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId + "</span><p>";
 	}
 
-	lRet += "<span class='Scorecard'>*</span><p>";	///REMOVE ME
+	lRet += "<p><span class='Scorecard'>Match Type = " 		+ this.mMatchType 		+ "</span><p>";
+	lRet += "<p><span class='Scorecard'>Team = " 			+ this.mTeam 			+ "</span><p>";
+	lRet += "<p><span class='Scorecard'>Play-Cricket ID = " + this.mPlayCricketId 	+ "</span><p>";
+	lRet += "<p><span class='Scorecard'>*</span><p>";	///REMOVE ME
 	
 	return (lRet);
 }
