@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun May 07 2017 10:04:36 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2017/may_6th_stratfield_turgis/hartley.xml -->
+<CricketMatch oppo="Stratfield Turgis/Hartley" date="Sat May 06 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Clarke"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught"/>
+      <Bowler name="Clarke"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Clarke"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Clarke"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Strudley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Bowled"/>
+      <Bowler name="Strudley"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="Strudley"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="142"/>
+    <FallOfWicket batsman="2" score="181"/>
+    <FallOfWicket batsman="3" score="190"/>
+    <FallOfWicket batsman="4" score="223"/>
+    <FallOfWicket batsman="6" score="230"/>
+    <FallOfWicket batsman="7" score="250"/>
+    <FallOfWicket batsman="8" score="290"/>
+    <BowlerSummary name="Strudley" overs="9" maidens="1" runs="68" wickets="3"/>
+    <BowlerSummary name="Spence" overs="6" maidens="0" runs="52" wickets="0"/>
+    <BowlerSummary name="Clay" overs="12" maidens="0" runs="57" wickets="0"/>
+    <BowlerSummary name="Elias" overs="5" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Clarke" overs="11" maidens="1" runs="61" wickets="4"/>
+    <BowlerSummary name="Pavithran" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Stratfield Turgis/Hartley">
+    <Batsman name="Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandland">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Pavithran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Clay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Elias">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nickless">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Girle">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Strudley">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Steve Beamish" overs="11.5" maidens="4" runs="36" wickets="7"/>
+    <BowlerSummary name="Shiva Nagam" overs="8" maidens="4" runs="19" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="1" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
