@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 15 2017 19:37:40 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/may_14th_sonning.xml -->
+<CricketMatch oppo="Sonning" date="Sun May 14 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="J Ahmed">
+      <HowOut how="Retired"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="A Fitton">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D Anderson">
+      <HowOut how="Not Out"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="J Fitton">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Lacey"/>
+    <Batsman name="Blakey"/>
+    <Batsman name="Naqi"/>
+    <Batsman name="Shami"/>
+    <Batsman name="Atukorala"/>
+    <Batsman name="Simmons"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="8" maidens="1" runs="57" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Lacey"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shami"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught"/>
+      <Bowler name="D Anderson"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="J Fitton"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="J Fitton"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Ahmed"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Simmons"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Simmons"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="4" score="131"/>
+    <FallOfWicket batsman="5" score="132"/>
+    <FallOfWicket batsman="6" score="134"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <FallOfWicket batsman="3" score="151"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <BowlerSummary name="Lacey" overs="8" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Blakey" overs="5" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Naqi" overs="8" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Shami" overs="6" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Atukorala" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="J Fitton" overs="3" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="J Ahmed" overs="2" maidens="1" runs="1" wickets="1"/>
+    <BowlerSummary name="Simmons" overs="3" maidens="1" runs="6" wickets="2"/>
+    <BowlerSummary name="D Anderson" overs="2" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+</CricketMatch>
