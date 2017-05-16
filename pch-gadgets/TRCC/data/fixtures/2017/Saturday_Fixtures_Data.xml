@@ -44,10 +44,11 @@
 
 <Fixture>
   <Date>Sat, 13 May 2017 12:00:00 UTC</Date>
-  <Opposition>Shinfield 1</Opposition>
+  <Opposition>Shinfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
