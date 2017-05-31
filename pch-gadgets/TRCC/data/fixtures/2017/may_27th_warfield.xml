@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed May 31 2017 10:59:00 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/may_27th_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sat May 27 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught"/>
+      <Bowler name="Gander"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tak"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Gander"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Gander"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gopi Perumal">
+      <HowOut how="Caught"/>
+      <Bowler name="Giri"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Caught"/>
+      <Bowler name="Riyas"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="Bowled"/>
+      <Bowler name="Giri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught"/>
+      <Bowler name="Riyas"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Riyas"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Ruddle"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Gander" overs="11" maidens="2" runs="24" wickets="3"/>
+    <BowlerSummary name="Tak" overs="12" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Giri" overs="6" maidens="2" runs="12" wickets="2"/>
+    <BowlerSummary name="Riyas" overs="10" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="Ruddle" overs="5" maidens="1" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="Torry">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Birchall">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Wilson">
+      <HowOut how="Caught Gopi Perumal"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Fuller">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Donald">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Gander">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ferreira">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Giri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Riyas">
+      <HowOut how="Caught Gopi Perumal"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tak">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ruddle">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Akshay Apte" overs="12" maidens="3" runs="27" wickets="1"/>
+    <BowlerSummary name="Shiva Nagam" overs="12" maidens="5" runs="14" wickets="4"/>
+    <BowlerSummary name="Kiran Musudi" overs="8" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4.2" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Gopi Perumal" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
