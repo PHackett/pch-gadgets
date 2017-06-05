@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 05 2017 19:37:54 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/june_4th_theale_and_tilehurst.xml -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun Jun 04 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="M Molder">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="A Brows">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="R Why">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="A Why">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J McCallough">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="H Ali">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="S Abery">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J George">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="T Kasozimwoke"/>
+    <Batsman name="M Cook"/>
+    <Batsman name="S Brown"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Paul Hackett" overs="12" maidens="0" runs="45" wickets="3"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="1" runs="7" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="6" maidens="0" runs="52" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="50" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Brows"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Run Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Kasozimwoke"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Brows"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="T Kasozimwoke"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Cook"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Abery"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="M Cook"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="S Abery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Ali"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <FallOfWicket batsman="7" score="76"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="9" score="78"/>
+    <FallOfWicket batsman="10" score="91"/>
+    <FallOfWicket batsman="11" score="117"/>
+    <BowlerSummary name="J George" overs="6" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="S Brows" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="T Kasozimwoke" overs="6" maidens="2" runs="9" wickets="2"/>
+    <BowlerSummary name="A Brows" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="M Cook" overs="4" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="S Abery" overs="4" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="H Ali" overs="1.5" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>
