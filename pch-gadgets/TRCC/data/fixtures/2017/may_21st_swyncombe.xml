@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 05 2017 19:13:34 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/may_21st_swyncombe.xml -->
+<CricketMatch oppo="Swyncombe" date="Sun May 21 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="P Collins"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Josh"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Josh"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="LBW"/>
+      <Bowler name="J Stevens"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Collins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Collins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="35"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="3" score="83"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="2" score="119"/>
+    <FallOfWicket batsman="5" score="122"/>
+    <FallOfWicket batsman="6" score="127"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <BowlerSummary name="J Crocket" overs="7" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="P Collins" overs="7" maidens="0" runs="13" wickets="3"/>
+    <BowlerSummary name="S Hope" overs="7" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="M Lewis" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Josh" overs="3" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="P Day" overs="3" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="J Stevens" overs="4" maidens="1" runs="11" wickets="3"/>
+  </Innings>
+  <Innings batting="Swyncombe">
+    <Batsman name="P Domnick">
+      <HowOut how="Run Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="S Hope">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="D Crocket">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Bailey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="I Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Day">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="P Collins">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Lewis">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="7" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="4" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Kiran Siddineni" overs="6" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="5.1" maidens="1" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
