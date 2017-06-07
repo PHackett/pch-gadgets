@@ -1,140 +1,139 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Tue Jun 06 2017 13:03:02 +01:00 (BST)-->
-<!--Result = Draw-->
-<!--XMLFilename = 2017/jun_3rd_earley.xml-->
+<!-- Generated on Tue Jun 06 2017 21:19:00 +01:00 (BST) -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2017/jun_3rd_earley.xml -->
 <CricketMatch oppo="Earley" date="Sat Jun 03 2017 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="2949279">
-  <MatchReport/>
-  <CountsToStats/>
-  <Innings batting="Earley">
-    <Batsman name="Owen Bye">
-      <HowOut how="LBW"/>
-      <Bowler name="Chandra Cherukuri"/>
-      <Runs value="23"/>
-    </Batsman>
-    <Batsman name="Gary Shacklady" captain="1">
-      <HowOut how="Caught Marc Teal"/>
-      <Bowler name="Shiva Nagam"/>
-      <Runs value="5"/>
-    </Batsman>
-    <Batsman name="Ollie Johnson" keeper="1">
-      <HowOut how="Not Out"/>
-      <Runs value="118"/>
-    </Batsman>
-    <Batsman name="Vinod Aduri">
-      <HowOut how="LBW"/>
-      <Bowler name="Chandra Cherukuri"/>
-      <Runs value="12"/>
-    </Batsman>
-    <Batsman name="Curt Watts">
-      <HowOut how="Bowled"/>
-      <Bowler name="Shiva Nagam"/>
-      <Runs value="48"/>
-    </Batsman>
-    <Batsman name="Sanjay Gurung">
-      <HowOut how="Bowled"/>
-      <Bowler name="Shiva Nagam"/>
-      <Runs value="3"/>
-    </Batsman>
-    <Batsman name="Robert Lean">
-      <HowOut how="Bowled"/>
-      <Bowler name="Kiran Musudi"/>
-      <Runs value="1"/>
-    </Batsman>
-    <Batsman name="Freya Johnson">
-      <HowOut how="Bowled"/>
-      <Bowler name="Shiva Nagam"/>
-      <Runs value="9"/>
-    </Batsman>
-    <Batsman name="Dave Mapes">
-      <HowOut how="Not Out"/>
-      <Runs value="0"/>
-    </Batsman>
-    <Batsman name="Steven Mapes">
-      <HowOut how="Did Not Bat"/>
-      <Runs value="0"/>
-    </Batsman>
-    <Extras value="11"/>
-    <FallOfWicket batsman="2" score="18"/>
-    <FallOfWicket batsman="1" score="66"/>
-    <FallOfWicket batsman="4" score="84"/>
-    <FallOfWicket batsman="5" score="182"/>
-    <FallOfWicket batsman="6" score="186"/>
-    <FallOfWicket batsman="7" score="195"/>
-    <FallOfWicket batsman="8" score="236"/>
-    <BowlerSummary name="Shiva Nagam" overs="12.0" maidens="4" runs="48" wickets="4"/>
-    <BowlerSummary name="Kiran Musudi" overs="11.0" maidens="1" runs="36" wickets="1"/>
-    <BowlerSummary name="Stephen Walkland" overs="5.0" maidens="0" runs="35" wickets="0"/>
-    <BowlerSummary name="Chandra Cherukuri" overs="11.0" maidens="0" runs="52" wickets="2"/>
-    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="45" wickets="0"/>
-    <BowlerSummary name="Robin Thompson" overs="1.0" maidens="0" runs="9" wickets="0"/>
-  </Innings>
-  <Innings batting="Twyford">
-    <Batsman name="Marc Teal" keeper="1">
-      <HowOut how="Caught Robert Lean"/>
-      <Bowler name="Steven Mapes"/>
-      <Runs value="21"/>
-    </Batsman>
-    <Batsman name="Adam Henley">
-      <HowOut how="Run Out Sanjay Gurung"/>
-      <Runs value="14"/>
-    </Batsman>
-    <Batsman name="Robin Thompson">
-      <HowOut how="Not Out"/>
-      <Runs value="65"/>
-    </Batsman>
-    <Batsman name="Shiva Nagam">
-      <HowOut how="LBW"/>
-      <Bowler name="Gary Shacklady"/>
-      <Runs value="82"/>
-    </Batsman>
-    <Batsman name="Pete Schofield">
-      <HowOut how="Bowled"/>
-      <Bowler name="Gary Shacklady"/>
-      <Runs value="0"/>
-    </Batsman>
-    <Batsman name="Simon Burr" captain="1">
-      <HowOut how="Caught Ollie Johnson"/>
-      <Bowler name="Robert Lean"/>
-      <Runs value="27"/>
-    </Batsman>
-    <Batsman name="Raja Singh">
-      <HowOut how="Bowled"/>
-      <Bowler name="Verity Johnson"/>
-      <Runs value="4"/>
-    </Batsman>
-    <Batsman name="Stephen Walkland">
-      <HowOut how="Caught Robert Lean"/>
-      <Bowler name="Robert Lean"/>
-      <Runs value="1"/>
-    </Batsman>
-    <Batsman name="Spence Nichols">
-      <HowOut how="Bowled"/>
-      <Bowler name="Robert Lean"/>
-      <Runs value="0"/>
-    </Batsman>
-    <Batsman name="Chandra Cherukuri">
-      <HowOut how="Not Out"/>
-      <Runs value="5"/>
-    </Batsman>
-    <Batsman name="Kiran Musudi">
-      <HowOut how="Did Not Bat"/>
-      <Runs value="0"/>
-    </Batsman>
-    <Extras value="9"/>
-    <FallOfWicket batsman="2" score="21"/>
-    <FallOfWicket batsman="1" score="36"/>
-    <FallOfWicket batsman="4" score="181"/>
-    <FallOfWicket batsman="5" score="181"/>
-    <FallOfWicket batsman="6" score="221"/>
-    <FallOfWicket batsman="7" score="226"/>
-    <FallOfWicket batsman="8" score="227"/>
-    <FallOfWicket batsman="9" score="227"/>
-    <BowlerSummary name="Gary Shacklady" overs="12.0" maidens="1" runs="68" wickets="2"/>
-    <BowlerSummary name="Robert Lean" overs="7.0" maidens="1" runs="42" wickets="3"/>
-    <BowlerSummary name="Steven Mapes" overs="11.0" maidens="1" runs="31" wickets="1"/>
-    <BowlerSummary name="Freya Johnson" overs="3.0" maidens="0" runs="20" wickets="0"/>
-    <BowlerSummary name="Verity Johnson" overs="5.0" maidens="0" runs="19" wickets="1"/>
-    <BowlerSummary name="Sanjay Gurung" overs="2.0" maidens="0" runs="10" wickets="0"/>
-    <BowlerSummary name="Dave Mapes" overs="5.0" maidens="0" runs="34" wickets="0"/>
-  </Innings>
+<MatchReport/>
+<CountsToStats/>
+<Innings batting="Earley">
+<Batsman name="Owen Bye">
+<HowOut how="LBW"/>
+<Bowler name="Chandra Cherukuri"/>
+<Runs value="23"/>
+</Batsman>
+<Batsman name="Gary Shacklady" captain="1">
+<HowOut how="Caught Marc Teal"/>
+<Bowler name="Shiva Nagam"/>
+<Runs value="5"/>
+</Batsman>
+<Batsman name="Ollie Johnson" keeper="1">
+<HowOut how="Not Out"/>
+<Runs value="118"/>
+</Batsman>
+<Batsman name="Vinod Aduri">
+<HowOut how="LBW"/>
+<Bowler name="Chandra Cherukuri"/>
+<Runs value="12"/>
+</Batsman>
+<Batsman name="Curt Watts">
+<HowOut how="Bowled"/>
+<Bowler name="Shiva Nagam"/>
+<Runs value="48"/>
+</Batsman>
+<Batsman name="Sanjay Gurung">
+<HowOut how="Bowled"/>
+<Bowler name="Shiva Nagam"/>
+<Runs value="3"/>
+</Batsman>
+<Batsman name="Robert Lean">
+<HowOut how="Bowled"/>
+<Bowler name="Kiran Musudi"/>
+<Runs value="1"/>
+</Batsman>
+<Batsman name="Freya Johnson">
+<HowOut how="Bowled"/>
+<Bowler name="Shiva Nagam"/>
+<Runs value="9"/>
+</Batsman>
+<Batsman name="Dave Mapes">
+<HowOut how="Not Out"/>
+<Runs value="0"/>
+</Batsman>
+<Batsman name="Steven Mapes">
+<HowOut how="Did Not Bat"/>
+<Runs value="0"/>
+</Batsman>
+<Extras value="17"/>
+<FallOfWicket batsman="2" score="18"/>
+<FallOfWicket batsman="1" score="66"/>
+<FallOfWicket batsman="4" score="84"/>
+<FallOfWicket batsman="5" score="182"/>
+<FallOfWicket batsman="6" score="186"/>
+<FallOfWicket batsman="7" score="195"/>
+<FallOfWicket batsman="8" score="236"/>
+<BowlerSummary name="Shiva Nagam" overs="12.0" maidens="4" runs="48" wickets="4"/>
+<BowlerSummary name="Kiran Musudi" overs="11.0" maidens="1" runs="36" wickets="1"/>
+<BowlerSummary name="Stephen Walkland" overs="5.0" maidens="0" runs="35" wickets="0"/>
+<BowlerSummary name="Chandra Cherukuri" overs="11.0" maidens="0" runs="52" wickets="2"/>
+<BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="45" wickets="0"/>
+<BowlerSummary name="Robin Thompson" overs="1.0" maidens="0" runs="9" wickets="0"/>
+</Innings>
+<Innings batting="Twyford">
+<Batsman name="Marc Teal" keeper="1">
+<HowOut how="Caught Robert Lean"/>
+<Bowler name="Steven Mapes"/>
+<Runs value="21"/>
+</Batsman>
+<Batsman name="Adam Henley">
+<HowOut how="Run Out Sanjay Gurung"/>
+<Runs value="14"/>
+</Batsman>
+<Batsman name="Robin Thompson">
+<HowOut how="Not Out"/>
+<Runs value="65"/>
+</Batsman>
+<Batsman name="Shiva Nagam">
+<HowOut how="LBW"/>
+<Bowler name="Gary Shacklady"/>
+<Runs value="82"/>
+</Batsman>
+<Batsman name="Pete Schofield">
+<HowOut how="Bowled"/>
+<Bowler name="Gary Shacklady"/>
+<Runs value="0"/>
+</Batsman>
+<Batsman name="Simon Burr" captain="1">
+<HowOut how="Caught Ollie Johnson"/>
+<Bowler name="Robert Lean"/>
+<Runs value="27"/>
+</Batsman>
+<Batsman name="Raja Singh">
+<HowOut how="Bowled"/>
+<Bowler name="Verity Johnson"/>
+<Runs value="4"/>
+</Batsman>
+<Batsman name="Stephen Walkland">
+<HowOut how="Caught Robert Lean"/>
+<Bowler name="Robert Lean"/>
+<Runs value="1"/>
+</Batsman>
+<Batsman name="Spence Nichols">
+<HowOut how="Bowled"/>
+<Bowler name="Robert Lean"/>
+<Runs value="0"/>
+</Batsman>
+<Batsman name="Chandra Cherukuri">
+<HowOut how="Not Out"/>
+<Runs value="5"/>
+</Batsman>
+<Batsman name="Kiran Musudi">
+<HowOut how="Did Not Bat"/>
+<Runs value="0"/>
+</Batsman>
+<Extras value="14"/>
+<FallOfWicket batsman="2" score="21"/>
+<FallOfWicket batsman="1" score="36"/>
+<FallOfWicket batsman="4" score="181"/>
+<FallOfWicket batsman="5" score="181"/>
+<FallOfWicket batsman="6" score="221"/>
+<FallOfWicket batsman="7" score="226"/>
+<FallOfWicket batsman="8" score="227"/>
+<FallOfWicket batsman="9" score="227"/>
+<BowlerSummary name="Gary Shacklady" overs="12.0" maidens="1" runs="68" wickets="2"/>
+<BowlerSummary name="Robert Lean" overs="7.0" maidens="1" runs="42" wickets="3"/>
+<BowlerSummary name="Steven Mapes" overs="11.0" maidens="1" runs="31" wickets="1"/>
+<BowlerSummary name="Freya Johnson" overs="3.0" maidens="0" runs="20" wickets="0"/>
+<BowlerSummary name="Verity Johnson" overs="5.0" maidens="0" runs="19" wickets="1"/>
+<BowlerSummary name="Sanjay Gurung" overs="2.0" maidens="0" runs="10" wickets="0"/>
+<BowlerSummary name="Dave Mapes" overs="5.0" maidens="0" runs="34" wickets="0"/>
+</Innings>
 </CricketMatch>
