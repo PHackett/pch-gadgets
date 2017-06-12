@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 12 2017 19:10:42 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/june_11th_greys_green.xml -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 11 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Achmed"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Achmed"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Achmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mo"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mo"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Lubbock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="Becket"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lubbock"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lubbock"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Emma Henley">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lubbock"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="25"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="35"/>
+    <FallOfWicket batsman="1" score="45"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="8" score="46"/>
+    <FallOfWicket batsman="9" score="105"/>
+    <FallOfWicket batsman="7" score="108"/>
+    <FallOfWicket batsman="11" score="110"/>
+    <BowlerSummary name="Becket" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Hadfield" overs="6" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Mo" overs="9" maidens="4" runs="14" wickets="2"/>
+    <BowlerSummary name="Achmed" overs="9" maidens="5" runs="12" wickets="3"/>
+    <BowlerSummary name="Lubbock" overs="8" maidens="1" runs="25" wickets="4"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="N Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Cusden">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="T Manzoor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Perry">
+      <HowOut how="Not Out"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="4" runs="5" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="1" runs="20" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="6" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Raja Singh" overs="7.5" maidens="1" runs="52" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
