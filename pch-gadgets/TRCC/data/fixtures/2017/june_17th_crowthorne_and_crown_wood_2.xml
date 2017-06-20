@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Jun 20 2017 12:08:32 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2017/jun_17th_crowthorne & crown wood.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood" date="Sat Jun 17 2017 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="2949278">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood">
+    <Batsman name="Tom Nash">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Steven Beamish"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simon Sheppard" keeper="1">
+      <HowOut how="Caught Ian Rogers"/>
+      <Bowler name="Steven Beamish"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nagaraja Bommanapalli">
+      <HowOut how="Caught Kiran Musudi"/>
+      <Bowler name="Steven Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nikunj Mehta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steven Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nikhil Pande">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Lakshmi Krishna Kishore Addada">
+      <HowOut how="Run Out Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Doug Charman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dan Finucane" captain="1">
+      <HowOut how="Caught Kiran Musudi"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Baines">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Dan Crinnion">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Nirav Upadhyay">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steven Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="6" score="38"/>
+    <FallOfWicket batsman="7" score="48"/>
+    <FallOfWicket batsman="8" score="54"/>
+    <FallOfWicket batsman="5" score="67"/>
+    <FallOfWicket batsman="9" score="112"/>
+    <FallOfWicket batsman="11" score="139"/>
+    <BowlerSummary name="Steven Beamish" overs="9.4" maidens="2" runs="35" wickets="5"/>
+    <BowlerSummary name="Shiva Nagam" overs="10.0" maidens="2" runs="25" wickets="0"/>
+    <BowlerSummary name="Akshay Apte" overs="5.0" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="Kiran Musudi" overs="5.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4.0" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Dan Finucane"/>
+      <Bowler name="Dan Finucane"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Baines"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steven Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="64"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <BowlerSummary name="Dan Crinnion" overs="6.0" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Dan Finucane" overs="8.0" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="Doug Charman" overs="6.0" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Andrew Baines" overs="6.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Nirav Upadhyay" overs="2.2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
