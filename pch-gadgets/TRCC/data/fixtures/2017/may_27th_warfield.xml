@@ -1,60 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Wed May 31 2017 10:59:00 GMT+0100 (BST) -->
-<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
-<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
-<!-- Result = Lose -->
-<!-- XMLFilename = 2017/may_27th_warfield.xml -->
-<CricketMatch oppo="Warfield" date="Sat May 27 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
-  <MatchReport/><CountsToStats/>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Jun 20 2017 12:03:10 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2017/may_27th_warfield.xml-->
+<CricketMatch oppo="Warfield" date="Sat May 27 2017 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="2949302">
+  <MatchReport/>
+  <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Adam Henley">
-      <HowOut how="Caught"/>
-      <Bowler name="Gander"/>
+      <HowOut how="Caught Jamie Birchall"/>
+      <Bowler name="Ashley Gander"/>
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Kiran Siddineni">
       <HowOut how="Bowled"/>
-      <Bowler name="Tak"/>
+      <Bowler name="Takunda Pswarayi"/>
       <Runs value="8"/>
     </Batsman>
-    <Batsman name="Stuart Barrable">
-      <HowOut how="Caught"/>
-      <Bowler name="Gander"/>
+    <Batsman name="Stuart Barrable" captain="1">
+      <HowOut how="Caught Steve Ruddle"/>
+      <Bowler name="Ashley Gander"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Hugh Fort">
-      <HowOut how="Caught"/>
-      <Bowler name="Gander"/>
+      <HowOut how="Caught Dan Torry"/>
+      <Bowler name="Ashley Gander"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Gopi Perumal">
-      <HowOut how="Caught"/>
-      <Bowler name="Giri"/>
+      <HowOut how="Caught Harvey Fuller"/>
+      <Bowler name="Giri Ganesh"/>
       <Runs value="12"/>
     </Batsman>
     <Batsman name="Shiva Nagam">
-      <HowOut how="Caught"/>
-      <Bowler name="Riyas"/>
+      <HowOut how="Caught Luke Dollard"/>
+      <Bowler name="Riyas Rajab"/>
       <Runs value="61"/>
     </Batsman>
     <Batsman name="Akshay Apte">
       <HowOut how="Bowled"/>
-      <Bowler name="Giri"/>
-      <Runs value="5"/>
-    </Batsman>
-    <Batsman name="Spence Nichols">
-      <HowOut how="Caught"/>
-      <Bowler name="Riyas"/>
+      <Bowler name="Giri Ganesh"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
       <HowOut how="LBW"/>
-      <Bowler name="Riyas"/>
+      <Bowler name="Riyas Rajab"/>
       <Runs value="3"/>
     </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Harvey Fuller"/>
+      <Bowler name="Riyas Rajab"/>
+      <Runs value="5"/>
+    </Batsman>
     <Batsman name="Ian Rogers" keeper="1">
-      <HowOut how="Caught"/>
-      <Bowler name="Ruddle"/>
+      <HowOut how="Caught Harvey Fuller"/>
+      <Bowler name="Steve Ruddle"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Kiran Musudi">
@@ -62,66 +61,84 @@
       <Runs value="1"/>
     </Batsman>
     <Extras value="12"/>
-    <BowlerSummary name="Gander" overs="11" maidens="2" runs="24" wickets="3"/>
-    <BowlerSummary name="Tak" overs="12" maidens="1" runs="41" wickets="1"/>
-    <BowlerSummary name="Giri" overs="6" maidens="2" runs="12" wickets="2"/>
-    <BowlerSummary name="Riyas" overs="10" maidens="2" runs="32" wickets="3"/>
-    <BowlerSummary name="Ruddle" overs="5" maidens="1" runs="16" wickets="1"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="38"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="7" score="87"/>
+    <FallOfWicket batsman="8" score="96"/>
+    <FallOfWicket batsman="9" score="114"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <FallOfWicket batsman="10" score="131"/>
+    <BowlerSummary name="Takunda Pswarayi" overs="12.0" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Ashley Gander" overs="11.0" maidens="2" runs="24" wickets="3"/>
+    <BowlerSummary name="Giri Ganesh" overs="6.0" maidens="2" runs="12" wickets="2"/>
+    <BowlerSummary name="Riyas Rajab" overs="10.0" maidens="2" runs="32" wickets="3"/>
+    <BowlerSummary name="Steve Ruddle" overs="5.0" maidens="1" runs="16" wickets="1"/>
   </Innings>
   <Innings batting="Warfield">
-    <Batsman name="Torry">
+    <Batsman name="Dan Torry" captain="1">
       <HowOut how="Caught Stuart Barrable"/>
       <Bowler name="Chandra Cherukuri"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="Birchall">
+    <Batsman name="Jamie Birchall">
       <HowOut how="Caught Chandra Cherukuri"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="36"/>
     </Batsman>
-    <Batsman name="Wilson">
+    <Batsman name="David Wilson">
       <HowOut how="Caught Gopi Perumal"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="26"/>
     </Batsman>
-    <Batsman name="Fuller">
+    <Batsman name="Harvey Fuller">
       <HowOut how="Caught Kiran Siddineni"/>
       <Bowler name="Shiva Nagam"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="Donald">
+    <Batsman name="Luke Dollard">
       <HowOut how="Bowled"/>
       <Bowler name="Shiva Nagam"/>
       <Runs value="8"/>
     </Batsman>
-    <Batsman name="Gander">
+    <Batsman name="Ashley Gander">
       <HowOut how="Bowled"/>
       <Bowler name="Akshay Apte"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Ferreira">
+    <Batsman name="Tyrone Ferreira" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="Giri">
+    <Batsman name="Giri Ganesh">
       <HowOut how="Bowled"/>
       <Bowler name="Shiva Nagam"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Riyas">
+    <Batsman name="Riyas Rajab">
       <HowOut how="Caught Gopi Perumal"/>
       <Bowler name="Shiva Nagam"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="Tak">
+    <Batsman name="Takunda Pswarayi">
       <HowOut how="Not Out"/>
       <Runs value="7"/>
     </Batsman>
-    <Batsman name="Ruddle">
+    <Batsman name="Steve Ruddle">
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
     <Extras value="14"/>
+    <FallOfWicket batsman="1" score="43"/>
+    <FallOfWicket batsman="2" score="63"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="6" score="100"/>
+    <FallOfWicket batsman="4" score="102"/>
+    <FallOfWicket batsman="8" score="110"/>
+    <FallOfWicket batsman="9" score="120"/>
     <BowlerSummary name="Akshay Apte" overs="12" maidens="3" runs="27" wickets="1"/>
     <BowlerSummary name="Shiva Nagam" overs="12" maidens="5" runs="14" wickets="4"/>
     <BowlerSummary name="Kiran Musudi" overs="8" maidens="2" runs="27" wickets="0"/>
