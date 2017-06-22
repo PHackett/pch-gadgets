@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Thu Jun 22 2017 19:20:59 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/june_18th_wargrave.xml -->
+<CricketMatch oppo="Wargrave" date="Sun Jun 18 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Wargrave">
+    <Batsman name="A Hattey">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="C Moss">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Cowder">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="M Firth">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="95"/>
+    </Batsman>
+    <Batsman name="C Hattey">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="T Walker">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Bowers">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="S Peppal">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mole">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="34" wickets="2"/>
+    <BowlerSummary name="Raja Singh" overs="3" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Jonathan Low" overs="6" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="1" runs="5" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="J Smith"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="S Peppal"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="S Peppal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mole"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Mole"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="T Walker"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Walker"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Smith"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Walker"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Moss"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="52"/>
+    <FallOfWicket batsman="1" score="55"/>
+    <FallOfWicket batsman="6" score="79"/>
+    <FallOfWicket batsman="7" score="81"/>
+    <BowlerSummary name="L Bowers" overs="4" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="S Peppal" overs="4" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Mole" overs="5" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="C Anderson" overs="5" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="J Smith" overs="4" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="T Walker" overs="3.4" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="C Moss" overs="0.4" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
