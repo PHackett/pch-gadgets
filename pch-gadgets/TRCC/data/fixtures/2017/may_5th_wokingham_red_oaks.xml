@@ -4,7 +4,7 @@
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Lose -->
 <!-- XMLFilename = 2017/may_5th_wokingham_red_oaks.xml -->
-<CricketMatch oppo="Wokingham Red Oaks" date="Fri May 05 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+<CricketMatch oppo="Wokingham Red Oaks" date="Fri May 05 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="" notforstats="true">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Extras value="0"/>
