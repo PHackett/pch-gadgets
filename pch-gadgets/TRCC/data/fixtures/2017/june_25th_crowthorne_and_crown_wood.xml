@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jun 27 2017 18:28:51 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/june_25th_crowthorne_and_crown_wood.xml -->
+<CricketMatch oppo="Crowthorne and Crown Wood" date="Sun Jun 25 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood">
+    <Batsman name="C Allright">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Baines">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="D Cartledge">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="S Clarke">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Raja Singh"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="D Shaw">
+      <HowOut how="Caught Raja Singh"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Emes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Crinnon">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Brundish"/>
+    <Batsman name="M Storey"/>
+    <Batsman name="D Emes"/>
+    <Batsman name="L Taylor"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="23" wickets="2"/>
+    <BowlerSummary name="Raja Singh" overs="8" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="57" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Tom Leadbetter" overs="4" maidens="0" runs="34" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="D Crinnon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="D Crinnon"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Raja Singh">
+      <HowOut how="Caught"/>
+      <Bowler name="E Emes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Crinnon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="E Emes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="D Emes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Storey"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="E Emes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="5" score="28"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <BowlerSummary name="D Crinnon" overs="5" maidens="1" runs="15" wickets="3"/>
+    <BowlerSummary name="E Emes" overs="8" maidens="4" runs="13" wickets="3"/>
+    <BowlerSummary name="L Taylor" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="D Emes" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="M Brundish" overs="8" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="M Storey" overs="8" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="D Shaw" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
