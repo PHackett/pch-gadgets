@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Tue Jun 20 2017 12:08:32 +01:00 (BST)-->
+<!--Generated on Tue Jun 20 2017 14:03:45 +01:00 (BST)-->
 <!--Result = Win-->
-<!--XMLFilename = 2017/jun_17th_crowthorne & crown wood.xml-->
+<!--XMLFilename = 2017/june_17th_crowthorne_and_crown_wood.xml-->
 <CricketMatch oppo="Crowthorne and Crown Wood" date="Sat Jun 17 2017 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="2949278">
   <MatchReport/>
   <CountsToStats/>
   <Innings batting="Crowthorne and Crown Wood">
     <Batsman name="Tom Nash">
       <HowOut how="Caught Marc Teal"/>
-      <Bowler name="Steven Beamish"/>
+      <Bowler name="Steve Beamish"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Simon Sheppard" keeper="1">
       <HowOut how="Caught Ian Rogers"/>
-      <Bowler name="Steven Beamish"/>
+      <Bowler name="Steve Beamish"/>
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Nagaraja Bommanapalli">
       <HowOut how="Caught Kiran Musudi"/>
-      <Bowler name="Steven Beamish"/>
+      <Bowler name="Steve Beamish"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Nikunj Mehta">
       <HowOut how="Bowled"/>
-      <Bowler name="Steven Beamish"/>
+      <Bowler name="Steve Beamish"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Nikhil Pande">
@@ -56,7 +56,7 @@
     </Batsman>
     <Batsman name="Nirav Upadhyay">
       <HowOut how="Caught Stuart Barrable"/>
-      <Bowler name="Steven Beamish"/>
+      <Bowler name="Steve Beamish"/>
       <Runs value="12"/>
     </Batsman>
     <Extras value="13"/>
@@ -70,7 +70,7 @@
     <FallOfWicket batsman="5" score="67"/>
     <FallOfWicket batsman="9" score="112"/>
     <FallOfWicket batsman="11" score="139"/>
-    <BowlerSummary name="Steven Beamish" overs="9.4" maidens="2" runs="35" wickets="5"/>
+    <BowlerSummary name="Steve Beamish" overs="9.4" maidens="2" runs="35" wickets="5"/>
     <BowlerSummary name="Shiva Nagam" overs="10.0" maidens="2" runs="25" wickets="0"/>
     <BowlerSummary name="Akshay Apte" overs="5.0" maidens="0" runs="25" wickets="3"/>
     <BowlerSummary name="Kiran Musudi" overs="5.0" maidens="0" runs="22" wickets="0"/>
@@ -115,7 +115,7 @@
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Steven Beamish">
+    <Batsman name="Steve Beamish">
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
