@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 03 2017 20:09:55 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/july_2nd_ibstone.xml -->
+<CricketMatch oppo="Ibstone" date="Sun Jul 02 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="A North"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Lambourne"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Paskins"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Run Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bapsil"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Stumped"/>
+      <Bowler name="N Driver"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Bapsil"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="D Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Driver"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Green">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="37"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="5" score="111"/>
+    <FallOfWicket batsman="4" score="111"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <BowlerSummary name="A North" overs="9" maidens="2" runs="33" wickets="1"/>
+    <BowlerSummary name="Lambourne" overs="7" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Paskins" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="N Driver" overs="7" maidens="3" runs="6" wickets="2"/>
+    <BowlerSummary name="Jackson" overs="7" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Hunt" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Bapsil" overs="3" maidens="1" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Ibstone">
+    <Batsman name="N Hester">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="A North">
+      <HowOut how="Not Out"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Bapsil">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="D Burr" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Pete Schofieldh" overs="3" maidens="0" runs="34" wickets="0"/>
+  </Innings>
+</CricketMatch>
