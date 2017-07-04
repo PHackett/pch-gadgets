@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Jul 04 2017 20:04:30 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2017/july_1st_woodley_2.xml-->
+<CricketMatch oppo="Woodley 2" date="Sat Jul 01 2017 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="2949286">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodley 2">
+    <Batsman name="Upendra Deshpande" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Harshavardhana Shastry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Pavan Naragund">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ali Naeem">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pradeep Kadloor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Manoj George">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Tajdar Jawaid">
+      <HowOut how="Run Out Simon Burr"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adrees Afzal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pradeep Ravindranath" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Hariprasad Srinivasan">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Gowtham Payavula">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="29"/>
+    <BowlerSummary name="Steve Beamish" overs="4.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Shiva Nagam" overs="12.0" maidens="0" runs="70" wickets="2"/>
+    <BowlerSummary name="Robin Thompson" overs="10.0" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Kiran Musudi" overs="10.0" maidens="1" runs="47" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="9.0" maidens="2" runs="37" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pradeep Kadloor"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali Naeem"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Pradeep Ravindranath"/>
+      <Bowler name="Ali Naeem"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali Naeem"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Simon Burr" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gowtham Payavula"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Run Out Pradeep Ravindranath"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tajdar Jawaid"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Caught Ali Naeem"/>
+      <Bowler name="Harshavardhana Shastry"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Ali Naeem"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harshavardhana Shastry"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Ali Naeem" overs="10.1" maidens="2" runs="56" wickets="4"/>
+    <BowlerSummary name="Gowtham Payavula" overs="10" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Upendra Deshpande" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Adrees Afzal" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Tajdar Jawaid" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Pradeep Kadloor" overs="4" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Harshavardhana Shastry" overs="6" maidens="0" runs="15" wickets="2"/>
+  </Innings>
+</CricketMatch>
