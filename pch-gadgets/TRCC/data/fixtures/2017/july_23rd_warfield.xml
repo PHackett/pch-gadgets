@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 31 2017 13:17:08 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/july_23rd_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sun Jul 23 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Price"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Morris"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="Marlin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Rogers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Price"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Price"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="Sutcliffe"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Emma Henley">
+      <HowOut how="Caught"/>
+      <Bowler name="Price"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sutcliffe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Douglas"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="7" score="51"/>
+    <FallOfWicket batsman="6" score="64"/>
+    <FallOfWicket batsman="8" score="65"/>
+    <FallOfWicket batsman="9" score="77"/>
+    <FallOfWicket batsman="10" score="88"/>
+    <BowlerSummary name="Morris" overs="6" maidens="3" runs="16" wickets="1"/>
+    <BowlerSummary name="Douglas" overs="6" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Price" overs="10" maidens="3" runs="19" wickets="4"/>
+    <BowlerSummary name="Curran" overs="5" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Sutcliffe" overs="4" maidens="0" runs="19" wickets="2"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="G Laing">
+      <HowOut how="Caught Peter Woodman"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="S Laing">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="O Stanford">
+      <HowOut how="Caught Ian Rogers"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Curran">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Tom Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="J Davies">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="L Johnson">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="A Douglas">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="2"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="5.3" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="4" maidens="0" runs="27" wickets="2"/>
+  </Innings>
+</CricketMatch>
