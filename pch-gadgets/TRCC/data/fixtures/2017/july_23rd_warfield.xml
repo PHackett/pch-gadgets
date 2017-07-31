@@ -44,6 +44,7 @@
     </Batsman>
     <Batsman name="Edward Farrar">
       <HowOut how="Caught"/>
+      <Bowler name="Curran"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Chris Fort">
