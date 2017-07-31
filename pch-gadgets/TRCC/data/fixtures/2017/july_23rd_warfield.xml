@@ -43,8 +43,8 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Edward Farrar">
-      <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <HowOut how="Caught"/>
+      <Runs value="3"/>
     </Batsman>
     <Batsman name="Chris Fort">
       <HowOut how="Bowled"/>
@@ -55,6 +55,10 @@
       <HowOut how="Caught"/>
       <Bowler name="Douglas"/>
       <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Extras value="15"/>
     <FallOfWicket batsman="2" score="22"/>
