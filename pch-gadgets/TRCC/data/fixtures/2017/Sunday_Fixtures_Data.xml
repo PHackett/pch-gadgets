@@ -150,10 +150,20 @@
 
 <Fixture>
   <Date>Sun, 6 Aug 2017 12:00:00 UTC</Date>
-  <Opposition>Stewart Wren XI</Opposition>
+  <Opposition>Stewart Wren XI AM</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 6 Aug 2017 12:00:00 UTC</Date>
+  <Opposition>Stewart Wren XI PM</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
