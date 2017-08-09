@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Aug 09 2017 19:19:24 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2017/august_6th_stewart_wren_xi_am.xml -->
+<CricketMatch oppo="Stewart Wren XI AM" date="Sun Aug 06 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="" notforstats="true">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rich Lawrance"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Run Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Joe Downes"/>
+    <Batsman name="Dan Avello"/>
+    <Batsman name="Steve Green"/>
+    <Batsman name="Raja Singh"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="58"/>
+    <FallOfWicket batsman="2" score="118"/>
+    <FallOfWicket batsman="3" score="125"/>
+    <BowlerSummary name="Tom Fort" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Matt Morris" overs="4" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Rich Lawrance" overs="4" maidens="1" runs="8" wickets="1"/>
+    <BowlerSummary name="Stewart Wren" overs="3" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Ian Thompson" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="2" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Stewart Wren XI AM">
+    <Batsman name="David Downes">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Rich Lawrance">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Steve Green"/>
+      <Bowler name="Dan Avello"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught Ian Taylor"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Stewart Wren">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kim Knight">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ian Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Noel Downes"/>
+    <Batsman name="Matt Morris"/>
+    <Batsman name="Richard Knight" keeper="1"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="6" score="undefined"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Dan Avello" overs="2" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Steve Green" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
