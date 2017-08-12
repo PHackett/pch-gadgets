@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Thu Aug 10 2017 20:08:27 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2017/..\output\july_15th_shinfield.xml-->
+<CricketMatch oppo="Shinfield" date="Sat Jul 15 2017 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="2949282">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Shinfield">
+    <Batsman name="Shashank Garg" captain="1">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Jay Deshmukh">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Fakhir Ali">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Muhammad Hafeez">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Kiran Musudi"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Noel Joseph">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="N Naseer">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Kiran Alluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sudhir Nair">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hassan Safdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Arun Kumar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="97"/>
+    <FallOfWicket batsman="2" score="180"/>
+    <FallOfWicket batsman="4" score="247"/>
+    <FallOfWicket batsman="3" score="252"/>
+    <FallOfWicket batsman="3" score="252"/>
+    <BowlerSummary name="Steve Beamish" overs="11.0" maidens="0" runs="75" wickets="1"/>
+    <BowlerSummary name="Kiran Musudi" overs="12.0" maidens="1" runs="71" wickets="2"/>
+    <BowlerSummary name="Simon Burr" overs="2.0" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="5.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="5.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Ken Cochrane" overs="4.0" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="3.0" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Arun Kumar"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="LBW"/>
+      <Bowler name="Arun Kumar"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Caught N Naseer"/>
+      <Bowler name="Arun Kumar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Caught Sudhir Nair"/>
+      <Bowler name="Arun Kumar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hassan Safdar"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Noel Joseph"/>
+      <Bowler name="Sudhir Nair"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sudhir Nair"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <FallOfWicket batsman="4" score="50"/>
+    <FallOfWicket batsman="5" score="54"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="6" score="62"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <FallOfWicket batsman="9" score="92"/>
+    <FallOfWicket batsman="10" score="92"/>
+    <FallOfWicket batsman="7" score="102"/>
+    <BowlerSummary name="Arun Kumar" overs="11.0" maidens="2" runs="30" wickets="4"/>
+    <BowlerSummary name="Kiran Alluri" overs="10.0" maidens="2" runs="36" wickets="2"/>
+    <BowlerSummary name="Hassan Safdar" overs="5.1" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Sudhir Nair" overs="5.0" maidens="1" runs="12" wickets="2"/>
+  </Innings>
+</CricketMatch>
