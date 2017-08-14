@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 14 2017 20:13:01 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2017/august_13th_bibury.xml -->
+<CricketMatch oppo="Bibury" date="Sun Aug 13 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Easterwood"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Cowell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="G Beal"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="McDermott"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Armstrong"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="1" score="110"/>
+    <FallOfWicket batsman="4" score="161"/>
+    <FallOfWicket batsman="6" score="192"/>
+    <BowlerSummary name="Cowell" overs="6" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="P Beal" overs="6" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="T Howe" overs="5" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="G Beal" overs="5" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="B Easterwood" overs="2" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="McDermott" overs="3" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="A Armstrong" overs="2" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="R Canestra" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Bibury">
+    <Batsman name="M Armstrong">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="P Beal">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="B Easterwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="R Canestra">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="J Cowell">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="M Russel">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="50" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="42" wickets="1"/>
+  </Innings>
+</CricketMatch>
