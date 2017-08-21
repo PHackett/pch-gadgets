@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 21 2017 16:41:17 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Rain -->
+<!-- XMLFilename = 2017/august_20th_checkendon.xml -->
+<CricketMatch oppo="Checkendon" date="Sun Aug 20 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Checkendon">
+    <Batsman name="Ash">
+      <HowOut how="Run Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Heslop">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Dan Avello"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="M Singh">
+      <HowOut how="Retired"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Adi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Avello"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Gray">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Dil">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Shree">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Steve">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rhys">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Poldolski">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="TB">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="5.2" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="7" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Dan Avello" overs="3" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Dylan Burr" overs="5" maidens="0" runs="16" wickets="3"/>
+    <BowlerSummary name="Hugh Fort" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Adi"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="Brakespear"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Poldolski"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dandin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Dandin"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Caught"/>
+      <Bowler name="Stevenson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dylan Burr"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="4" score="40"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="5" score="43"/>
+    <FallOfWicket batsman="6" score="63"/>
+    <FallOfWicket batsman="7" score="66"/>
+    <BowlerSummary name="Poldolski" overs="6" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Adi" overs="5" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="Dandin" overs="4" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="Brakespear" overs="1" maidens="0" runs="1" wickets="1"/>
+    <BowlerSummary name="Stevenson" overs="3" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>
