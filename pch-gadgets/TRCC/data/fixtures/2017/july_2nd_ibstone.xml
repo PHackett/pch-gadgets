@@ -41,7 +41,7 @@
       <Bowler name="Bapsil"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="D Burr">
+    <Batsman name="Dylan Burr">
       <HowOut how="Bowled"/>
       <Bowler name="N Driver"/>
       <Runs value="1"/>
@@ -84,7 +84,7 @@
     <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="8" wickets="0"/>
     <BowlerSummary name="Marc Teal" overs="7" maidens="0" runs="42" wickets="0"/>
     <BowlerSummary name="Steve Green" overs="4" maidens="0" runs="13" wickets="0"/>
-    <BowlerSummary name="D Burr" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="2" maidens="0" runs="17" wickets="0"/>
     <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="1"/>
     <BowlerSummary name="Pete Schofieldh" overs="3" maidens="0" runs="34" wickets="0"/>
   </Innings>
