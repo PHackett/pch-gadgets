@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Sep 01 2017 17:06:48 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/august_27th_failand_and_portbury.xml -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Aug 27 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="S Bachelor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Muddutt">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Gamistre">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="T Billey">
+      <HowOut how="Caught Tom Fort"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="J Bachelor">
+      <HowOut how="Retired"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Damchapler">
+      <HowOut how="Retired"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="A Yaqoob">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Skinner">
+      <HowOut how="Caught Edward Farrar"/>
+      <Bowler name="Hugh Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Phippin">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="P Dungey">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="41"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="1" runs="37" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="5" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Simon Burr" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="2" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Phippin"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Phippin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="P Dungey"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Run Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="J Muddutt"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Bachelor"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chapman"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Chapman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="44"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="6" score="173"/>
+    <FallOfWicket batsman="7" score="185"/>
+    <FallOfWicket batsman="8" score="211"/>
+    <FallOfWicket batsman="10" score="211"/>
+    <BowlerSummary name="S Phippin" overs="6" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="P Dungey" overs="8" maidens="5" runs="16" wickets="2"/>
+    <BowlerSummary name="J Bachelor" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="A Yaqoob" overs="6" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="T Billey" overs="4" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="S Bachelor" overs="3" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="J Muddutt" overs="3" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Chapman" overs="3" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="S Gamistre" overs="2" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>
