@@ -67,6 +67,7 @@
     <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="27" wickets="0"/>
     <BowlerSummary name="Simon Burr" overs="2" maidens="0" runs="11" wickets="1"/>
     <BowlerSummary name="Edward Farrar" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Peter Woodman" overs="1" maidens="0" runs="10" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Peter Woodman">
