@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Sep 05 2017 16:37:36 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/august_28th_cleeve.xml -->
+<CricketMatch oppo="Cleeve" date="Mon Aug 28 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Cleeve">
+    <Batsman name="C Hance">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="N Bhajipali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Luker">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Hance">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Simon Burr"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="T Carps">
+      <HowOut how="Retired"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="M Want">
+      <HowOut how="Retired"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="J Cole">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="G Lewin">
+      <HowOut how="Stumped"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="S Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="E Parson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="L Ferris">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="65" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="0" runs="54" wickets="3"/>
+    <BowlerSummary name="Tom Downes" overs="2" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Simon Burr" overs="2" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Edward Farrar" overs="2" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="N Bhajipali"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="T Carps"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="L Ferris"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="N Bhajipali"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Cole"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Lewin"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="G Lewin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Edward Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Simon Burr"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="24"/>
+    <BowlerSummary name="J Hance" overs="4" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="T Carps" overs="4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="E Parson" overs="5" maidens="2" runs="15" wickets="0"/>
+    <BowlerSummary name="L Ferris" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="M Luker" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="N Bhajipali" overs="4" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="G Lewin" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="J Cole" overs="4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="M Want" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="S Williams" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="C Hance" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>
