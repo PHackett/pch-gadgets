@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Sep 12 2017 19:12:31 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/august_10th_reading_lawyers.xml -->
+<CricketMatch oppo="Reading Lawyers" date="Thu Aug 10 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lawyers">
+    <Batsman name="M Burrows">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Leach">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Harsha">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="C Meredith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Bantham">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Frost">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="W Lake">
+      <HowOut how="Caught M Henry"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Sriram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="A Davies">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Barker">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Seymour"/>
+    <Extras value="20"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="0" runs="43" wickets="2"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="M Henry" overs="5" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="2" runs="15" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="1" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="J Barker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="J Barker"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Barker"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Seymour"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Barker"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Rogers">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Henry">
+      <HowOut how="LBW"/>
+      <Bowler name="J Barker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Lake"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="M Seymour" overs="8" maidens="3" runs="13" wickets="4"/>
+    <BowlerSummary name="J Barker" overs="7" maidens="2" runs="16" wickets="5"/>
+    <BowlerSummary name="A Davies" overs="5" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="W Lake" overs="4.1" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>
