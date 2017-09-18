@@ -38,7 +38,7 @@
       <Runs value="39"/>
     </Batsman>
     <Batsman name="W Lake">
-      <HowOut how="Caught M Henry"/>
+      <HowOut how="Caught Mike Henry"/>
       <Bowler name="Chris Fort"/>
       <Runs value="9"/>
     </Batsman>
@@ -59,7 +59,7 @@
     <Extras value="20"/>
     <BowlerSummary name="Joe Downes" overs="8" maidens="0" runs="43" wickets="2"/>
     <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="26" wickets="2"/>
-    <BowlerSummary name="M Henry" overs="5" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Mike Henry" overs="5" maidens="1" runs="29" wickets="0"/>
     <BowlerSummary name="Marc Teal" overs="6" maidens="2" runs="15" wickets="3"/>
     <BowlerSummary name="Chris Fort" overs="5" maidens="1" runs="21" wickets="1"/>
     <BowlerSummary name="Nic Downes" overs="4" maidens="1" runs="15" wickets="0"/>
@@ -109,7 +109,7 @@
       <HowOut how="Not Out"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="M Henry">
+    <Batsman name="Mike Henry">
       <HowOut how="LBW"/>
       <Bowler name="J Barker"/>
       <Runs value="0"/>
