@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 20 2017 20:05:11 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/august_17th_binfield.xml -->
+<CricketMatch oppo="Binfield" date="Thu Aug 17 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="C Jones">
+      <HowOut how="Caught Mike Henry"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Humphries">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Avello"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="T Vines">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Avello"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Harris">
+      <HowOut how="LBW"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Morgan">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="P Eddington">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="M Hayman">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="A Bhandari">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="I Goddard">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="J Bennett">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="A Humphrey"/>
+    <Extras value="29"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Dan Avello" overs="4" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Mike Henry" overs="8" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="0" runs="41" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hayman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="A Humphries"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hayman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Bennett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Bennett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="J Bennett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="A Humphries"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Caught"/>
+      <Bowler name="A Humphries"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="D Humphries"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="4" score="29"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="39"/>
+    <FallOfWicket batsman="7" score="40"/>
+    <FallOfWicket batsman="8" score="75"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <FallOfWicket batsman="10" score="129"/>
+    <FallOfWicket batsman="11" score="131"/>
+    <BowlerSummary name="M Hayman" overs="5" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="A Humphries" overs="8" maidens="0" runs="26" wickets="3"/>
+    <BowlerSummary name="I Goddard" overs="7" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="J Bennett" overs="7" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="A Bhandari" overs="4" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="D Humphries" overs="0.4" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
