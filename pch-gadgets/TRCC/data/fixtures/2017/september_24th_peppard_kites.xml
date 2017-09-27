@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Sep 27 2017 14:49:09 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2017/september_24th_peppard_kites.xml -->
+<CricketMatch oppo="Peppard Kites" date="Sun Sep 24 2017 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="O Simmons"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Harris"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nilabh">
+      <HowOut how="Caught"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Massoudi">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dyer"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="J Perkins"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="S Elangathan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mike Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="H Asquith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="J Perkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Mann">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="4"/>
+    <FallOfWicket batsman="5" score="11"/>
+    <FallOfWicket batsman="6" score="27"/>
+    <FallOfWicket batsman="7" score="38"/>
+    <FallOfWicket batsman="8" score="48"/>
+    <FallOfWicket batsman="9" score="80"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="10" score="81"/>
+    <BowlerSummary name="O Simmons" overs="5" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="R Dyer" overs="10" maidens="4" runs="15" wickets="4"/>
+    <BowlerSummary name="J Perkins" overs="5.1" maidens="2" runs="6" wickets="2"/>
+    <BowlerSummary name="S Elangathan" overs="5" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="B Nicholson" overs="5" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="J Harris" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="H Asquith" overs="2" maidens="1" runs="4" wickets="1"/>
+  </Innings>
+  <Innings batting="Peppard Kites">
+    <Batsman name="R Simmons">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="S Harris">
+      <HowOut how="Not Out"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="K Massoudi" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Nilabh" overs="1" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="0.5" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>
