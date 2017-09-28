@@ -17,7 +17,7 @@
       <Bowler name="R Dyer"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Simon Burr">
+    <Batsman name="Simon Burr" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="R Dyer"/>
       <Runs value="4"/>
@@ -32,7 +32,7 @@
       <Bowler name="R Dyer"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Massoudi">
+    <Batsman name="Kiran Musudi">
       <HowOut how="Bowled"/>
       <Bowler name="R Dyer"/>
       <Runs value="9"/>
