@@ -27,7 +27,7 @@
       <Bowler name="J Harris"/>
       <Runs value="27"/>
     </Batsman>
-    <Batsman name="Nilabh">
+    <Batsman name="Nilabh Upodhyaya">
       <HowOut how="Caught"/>
       <Bowler name="R Dyer"/>
       <Runs value="6"/>
@@ -93,7 +93,7 @@
     <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="1" runs="12" wickets="0"/>
     <BowlerSummary name="Kiran Musudi" overs="5" maidens="0" runs="23" wickets="0"/>
     <BowlerSummary name="Matt Berry" overs="1" maidens="0" runs="9" wickets="0"/>
-    <BowlerSummary name="Nilabh" overs="1" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nilabh Upodhyaya" overs="1" maidens="0" runs="26" wickets="0"/>
     <BowlerSummary name="Dylan Burr" overs="0.5" maidens="0" runs="9" wickets="0"/>
   </Innings>
 </CricketMatch>
