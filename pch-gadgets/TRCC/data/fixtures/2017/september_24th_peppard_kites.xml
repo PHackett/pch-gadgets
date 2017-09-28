@@ -57,7 +57,7 @@
       <Bowler name="J Perkins"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="T Mann">
+    <Batsman name="Thomas Mann">
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
@@ -91,7 +91,7 @@
     </Batsman>
     <Extras value="4"/>
     <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="1" runs="12" wickets="0"/>
-    <BowlerSummary name="K Massoudi" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Kiran Musudi" overs="5" maidens="0" runs="23" wickets="0"/>
     <BowlerSummary name="Matt Berry" overs="1" maidens="0" runs="9" wickets="0"/>
     <BowlerSummary name="Nilabh" overs="1" maidens="0" runs="26" wickets="0"/>
     <BowlerSummary name="Dylan Burr" overs="0.5" maidens="0" runs="9" wickets="0"/>
