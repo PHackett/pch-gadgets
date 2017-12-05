@@ -58,8 +58,8 @@
       <Runs value="0"/>
     </Batsman>
     <Extras value="11"/>
-    <BowlerSummary name="Steve Beamish" overs="5" maidens="2" runs="16" wickets="1"/>
     <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="2" runs="16" wickets="1"/>
     <BowlerSummary name="Graham Burgess" overs="4" maidens="0" runs="5" wickets="3"/>
     <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="38" wickets="4"/>
     <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="9" wickets="1"/>
