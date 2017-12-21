@@ -62,7 +62,7 @@
 <FallOfWicket batsman="8" score="236"/>
 <BowlerSummary name="Shiva Nagam" overs="12.0" maidens="4" runs="48" wickets="4"/>
 <BowlerSummary name="Kiran Musudi" overs="11.0" maidens="1" runs="36" wickets="1"/>
-<BowlerSummary name="Stephen Walkland" overs="5.0" maidens="0" runs="35" wickets="0"/>
+<BowlerSummary name="Steve Walkland" overs="5.0" maidens="0" runs="35" wickets="0"/>
 <BowlerSummary name="Chandra Cherukuri" overs="11.0" maidens="0" runs="52" wickets="2"/>
 <BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="45" wickets="0"/>
 <BowlerSummary name="Robin Thompson" overs="1.0" maidens="0" runs="9" wickets="0"/>
@@ -101,7 +101,7 @@
 <Bowler name="Verity Johnson"/>
 <Runs value="4"/>
 </Batsman>
-<Batsman name="Stephen Walkland">
+<Batsman name="Steve Walkland">
 <HowOut how="Caught Robert Lean"/>
 <Bowler name="Robert Lean"/>
 <Runs value="1"/>
