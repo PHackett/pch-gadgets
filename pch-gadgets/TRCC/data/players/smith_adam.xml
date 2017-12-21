@@ -1,7 +1,16 @@
-<PlayerStats name="Adam Smith" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Adam Smith" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat May 7 00:00:00 UTC+0100 2005" oppo="West Reading"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="1" runs="1" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Apr 30 00:00:00 UTC+0100 2017" oppo="Stonor"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Batting innings="8" runs="154" notouts="4" hundreds="0" fifties="1" ducks="0">

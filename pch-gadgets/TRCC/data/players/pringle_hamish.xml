@@ -1,7 +1,16 @@
-<PlayerStats name="Hamish Pringle" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Hamish Pringle" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Jul 20 00:00:00 UTC+0100 2013" oppo="Hawley"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="2" runs="24" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="24" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Batting innings="5" runs="90" notouts="0" hundreds="0" fifties="0" ducks="0">

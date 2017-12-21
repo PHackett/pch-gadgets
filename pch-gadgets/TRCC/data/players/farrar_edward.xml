@@ -1,7 +1,24 @@
-<PlayerStats name="Edward Farrar" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Edward Farrar" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 4 00:00:00 UTC+0100 2010" oppo="Harpsden"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2.0" maidens="0" runs="21" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Mon Aug 28 00:00:00 UTC+0100 2017" oppo="Cleeve"/>
+                <BowlingData overs="2.0" maidens="0" runs="21" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="53" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Mon Aug 28 00:00:00 UTC+0100 2017" oppo="Cleeve"/>
+                <BattingData runs="38" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="1" fiveplus="0">

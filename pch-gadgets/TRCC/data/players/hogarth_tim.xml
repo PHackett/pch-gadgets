@@ -1,7 +1,24 @@
-<PlayerStats name="Tim Hogarth" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Tim Hogarth" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1999" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="9.1" maidens="0" runs="65" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Tue Aug 29 00:00:00 UTC+0100 2017" oppo="Harptree"/>
+                <BowlingData overs="6.1" maidens="0" runs="38" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="2" runs="12" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Mon Aug 28 00:00:00 UTC+0100 2017" oppo="Cleeve"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="1" fiveplus="0">

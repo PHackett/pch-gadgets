@@ -1,7 +1,17 @@
-<PlayerStats name="Noel Downes" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Noel Downes" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Apr 27 00:00:00 UTC+0100 1985" oppo="Purley"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="5.0" maidens="0" runs="35" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat Apr 22 00:00:00 UTC+0100 2017" oppo="Holyport "/>
+                <BowlingData overs="5.0" maidens="0" runs="35" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    </YearData>
 
     <YearData year="2015">
         <Batting innings="2" runs="5" notouts="0" hundreds="0" fifties="0" ducks="0">

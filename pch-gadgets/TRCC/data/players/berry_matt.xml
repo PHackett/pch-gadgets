@@ -1,7 +1,24 @@
-<PlayerStats name="Matt Berry" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Matt Berry" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 24 00:00:00 UTC+0100 2015" oppo="Frieth"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="14" fiveplus="0">
+            <BowlingData overs="84.1" maidens="8" runs="376" wickets="14"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 9 00:00:00 UTC+0100 2017" oppo="Woodley"/>
+                <BowlingData overs="8.0" maidens="0" runs="59" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="14" runs="166" notouts="2" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 11 00:00:00 UTC+0100 2017" oppo="Greys Green"/>
+                <BattingData runs="32" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="17" fiveplus="0">

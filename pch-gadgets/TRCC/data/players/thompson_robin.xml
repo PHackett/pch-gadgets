@@ -1,7 +1,44 @@
-<PlayerStats name="Robin Thompson" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Robin Thompson" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 1 00:00:00 UTC+0100 2016" oppo="Bracknell"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="9" fiveplus="1">
+            <BowlingData overs="57.3" maidens="6" runs="224" wickets="17"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 10 00:00:00 UTC+0100 2017" oppo="Hawley"/>
+                <BowlingData overs="9.0" maidens="3" runs="19" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Jun 10 00:00:00 UTC+0100 2017" oppo="Hawley"/>
+                <BowlingData overs="9.0" maidens="3" runs="19" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="11" runs="554" notouts="5" hundreds="1" fifties="3" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="102" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 3 00:00:00 UTC+0100 2017" oppo="Earley"/>
+                <BattingData runs="65" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 17 00:00:00 UTC+0100 2017" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="64" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="102" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 1 00:00:00 UTC+0100 2017" oppo="Woodley 2"/>
+                <BattingData runs="85" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="7" fiveplus="0">

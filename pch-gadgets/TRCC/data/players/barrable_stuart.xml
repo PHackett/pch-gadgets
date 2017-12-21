@@ -1,7 +1,48 @@
-<PlayerStats name="Stuart Barrable" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Stuart Barrable" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="33.2" maidens="2" runs="157" wickets="7"/>
+            <BowlingBest>
+                <MatchId date="Sun May 28 00:00:00 UTC+0100 2017" oppo="Frieth"/>
+                <BowlingData overs="11.0" maidens="0" runs="50" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="18" runs="648" notouts="3" hundreds="1" fifties="5" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="160" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 10 00:00:00 UTC+0100 2017" oppo="Hawley"/>
+                <BattingData runs="65" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 24 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="160" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 19 00:00:00 UTC+0100 2017" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Sep 2 00:00:00 UTC+0100 2017" oppo="Woodley 2"/>
+                <BattingData runs="58" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 28 00:00:00 UTC+0100 2017" oppo="Frieth"/>
+                <BattingData runs="91" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 13 00:00:00 UTC+0100 2017" oppo="Bibury"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="6" fiveplus="0">

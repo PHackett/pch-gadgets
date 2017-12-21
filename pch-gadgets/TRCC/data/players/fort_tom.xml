@@ -1,7 +1,24 @@
-<PlayerStats name="Tom Fort" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Tom Fort" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 27 00:00:00 UTC+0100 1975" oppo="Ibis"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="10" fiveplus="0">
+            <BowlingData overs="50.3" maidens="1" runs="302" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 23 00:00:00 UTC+0100 2017" oppo="Warfield"/>
+                <BowlingData overs="5.3" maidens="0" runs="22" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="10" runs="76" notouts="2" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Apr 30 00:00:00 UTC+0100 2017" oppo="Stonor"/>
+                <BattingData runs="23" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="10" fiveplus="0">

@@ -1,7 +1,36 @@
-<PlayerStats name="Shiva Nagam" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Shiva Nagam" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 16 00:00:00 UTC+0100 2014" oppo="BCS Grosvenor"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="14" fiveplus="0">
+            <BowlingData overs="127.1" maidens="37" runs="388" wickets="30"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 12 00:00:00 UTC+0100 2017" oppo="Hawley"/>
+                <BowlingData overs="7.0" maidens="4" runs="6" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="14" runs="370" notouts="2" hundreds="0" fifties="3" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 3 00:00:00 UTC+0100 2017" oppo="Earley"/>
+                <BattingData runs="82" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2017" oppo="Stratfield Turgis/Hartley"/>
+                <BattingData runs="72" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat May 27 00:00:00 UTC+0100 2017" oppo="Warfield"/>
+                <BattingData runs="61" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 3 00:00:00 UTC+0100 2017" oppo="Earley"/>
+                <BattingData runs="82" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="4" fiveplus="0">

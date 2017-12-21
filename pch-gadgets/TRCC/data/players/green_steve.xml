@@ -1,7 +1,24 @@
-<PlayerStats name="Steve Green" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Steve Green" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 1 00:00:00 UTC+0100 2003" oppo="Harpsden"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="12.0" maidens="0" runs="40" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BowlingData overs="8.0" maidens="0" runs="27" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="3" runs="1" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2017" oppo="Ibstone"/>
+                <BattingData runs="1" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="2" fiveplus="0">

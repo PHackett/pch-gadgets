@@ -1,7 +1,16 @@
-<PlayerStats name="Oscar Woodbridge" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Oscar Woodbridge" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 1 00:00:00 UTC+0100 2011" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="1" runs="18" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 13 00:00:00 UTC+0100 2017" oppo="Shinfield"/>
+                <BattingData runs="18" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="8" fiveplus="0">

@@ -1,7 +1,16 @@
-<PlayerStats name="Ashish Darekar" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Ashish Darekar" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat Jun 11 00:00:00 UTC+0100 2016" oppo="Warfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="3" runs="33" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Aug 19 00:00:00 UTC+0100 2017" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="33" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="1" fiveplus="0">

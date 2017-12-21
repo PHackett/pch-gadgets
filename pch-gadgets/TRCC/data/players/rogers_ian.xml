@@ -1,7 +1,16 @@
-<PlayerStats name="Ian Rogers" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Ian Rogers" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="18" runs="81" notouts="5" hundreds="0" fifties="0" ducks="5">
+            <BattingBest>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2017" oppo="Ibstone"/>
+                <BattingData runs="20" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Batting innings="10" runs="56" notouts="1" hundreds="0" fifties="0" ducks="5">

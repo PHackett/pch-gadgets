@@ -1,7 +1,24 @@
-<PlayerStats name="Spence Nichols" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Spence Nichols" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 29 00:00:00 UTC+0100 2007" oppo="Welford Park"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="28.0" maidens="1" runs="225" wickets="6"/>
+            <BowlingBest>
+                <MatchId date="Sat May 13 00:00:00 UTC+0100 2017" oppo="Shinfield"/>
+                <BowlingData overs="1.0" maidens="0" runs="9" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="34" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2017" oppo="Stratfield Turgis/Hartley"/>
+                <BattingData runs="15" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="12" fiveplus="0">

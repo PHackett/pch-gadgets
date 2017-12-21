@@ -1,7 +1,32 @@
-<PlayerStats name="Steve Beamish" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Steve Beamish" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun May 6 00:00:00 UTC+0100 2001" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="13" fiveplus="2">
+            <BowlingData overs="103.3" maidens="15" runs="458" wickets="25"/>
+            <BowlingBest>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2017" oppo="Stratfield Turgis/Hartley"/>
+                <BowlingData overs="11.5" maidens="4" runs="36" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2017" oppo="Stratfield Turgis/Hartley"/>
+                <BowlingData overs="11.5" maidens="4" runs="36" wickets="7"/>
+            </BowlingHighlight>
+            <BowlingHighlight>
+                <MatchId date="Sat Jun 17 00:00:00 UTC+0100 2017" oppo="Crowthorne and Crown Wood"/>
+                <BowlingData overs="9.4" maidens="2" runs="35" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="11" runs="14" notouts="3" hundreds="0" fifties="0" ducks="7">
+            <BattingBest>
+                <MatchId date="Sat May 6 00:00:00 UTC+0100 2017" oppo="Stratfield Turgis/Hartley"/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="14" fiveplus="0">

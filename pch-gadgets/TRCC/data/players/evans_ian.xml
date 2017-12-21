@@ -1,7 +1,16 @@
-<PlayerStats name="Ian Evans" generated="Sat, 17 Oct 2015 14:46:27 BST">
+<PlayerStats name="Ian Evans" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sat May 11 00:00:00 UTC+0100 2013" oppo="Ruislip Victoria"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="1" runs="2" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Aug 20 00:00:00 UTC+0100 2017" oppo="Checkendon"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2015">
         <Bowling games="8" fiveplus="0">

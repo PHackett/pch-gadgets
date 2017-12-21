@@ -1,7 +1,24 @@
-<PlayerStats name="Hugh Fort" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Hugh Fort" generated="Thu, 21 Dec 2017 18:36:39 GMT">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="4.0" maidens="0" runs="38" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 27 00:00:00 UTC+0100 2017" oppo="Failand and Portbury"/>
+                <BowlingData overs="2.0" maidens="0" runs="20" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="17" runs="154" notouts="2" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Tue Aug 29 00:00:00 UTC+0100 2017" oppo="Harptree"/>
+                <BattingData runs="27" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Batting innings="20" runs="217" notouts="2" hundreds="0" fifties="0" ducks="4">
