@@ -1,0 +1,14 @@
+<PlayerStats name="Curtis Mitchell" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 12 00:00:00 UTC+0100 2017" oppo="Hawley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 12 00:00:00 UTC+0100 2017" oppo="Hawley"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

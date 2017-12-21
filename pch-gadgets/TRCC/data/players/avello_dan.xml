@@ -1,0 +1,22 @@
+<PlayerStats name="Dan Avello" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 6 00:00:00 UTC+0100 2017" oppo="Stratfield Turgis/Hartley"/>
+    </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="7.0" maidens="0" runs="49" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Thu Aug 17 00:00:00 UTC+0100 2017" oppo="Binfield"/>
+                <BowlingData overs="4.0" maidens="0" runs="20" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="9" runs="46" notouts="0" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2017" oppo="Ibstone"/>
+                <BattingData runs="26" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

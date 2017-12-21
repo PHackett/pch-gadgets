@@ -1,0 +1,22 @@
+<PlayerStats name="Dylan Burr" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2017" oppo="Ibstone"/>
+    </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="7.5" maidens="0" runs="42" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 20 00:00:00 UTC+0100 2017" oppo="Checkendon"/>
+                <BowlingData overs="5.0" maidens="0" runs="16" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="2" runs="1" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2017" oppo="Ibstone"/>
+                <BattingData runs="1" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

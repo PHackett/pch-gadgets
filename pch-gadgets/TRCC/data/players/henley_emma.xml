@@ -1,0 +1,14 @@
+<PlayerStats name="Emma Henley" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sun Jun 11 00:00:00 UTC+0100 2017" oppo="Greys Green"/>
+    </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="2" runs="2" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 11 00:00:00 UTC+0100 2017" oppo="Greys Green"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

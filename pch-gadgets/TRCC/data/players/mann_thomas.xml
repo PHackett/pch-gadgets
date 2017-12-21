@@ -1,0 +1,14 @@
+<PlayerStats name="Thomas Mann" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 24 00:00:00 UTC+0100 2017" oppo="Peppard Kites"/>
+    </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="1" runs="0" notouts="1" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 24 00:00:00 UTC+0100 2017" oppo="Peppard Kites"/>
+                <BattingData runs="0" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

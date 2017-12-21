@@ -1,0 +1,18 @@
+<PlayerStats name="Adam Henley" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 13 00:00:00 UTC+0100 2017" oppo="Shinfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="2017">
+        <Batting innings="7" runs="152" notouts="2" hundreds="0" fifties="1" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="86" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 26 00:00:00 UTC+0100 2017" oppo="Emmbrook and Bearwood"/>
+                <BattingData runs="86" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>
