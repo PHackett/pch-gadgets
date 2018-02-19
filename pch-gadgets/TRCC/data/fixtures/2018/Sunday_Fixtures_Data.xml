@@ -22,7 +22,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -31,7 +30,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -40,7 +38,6 @@
   <Time>13:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -49,7 +46,6 @@
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -58,7 +54,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -75,7 +70,6 @@
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -84,7 +78,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -93,7 +86,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -102,7 +94,6 @@
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -111,7 +102,6 @@
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -120,7 +110,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -137,7 +126,6 @@
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -154,7 +142,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -163,7 +150,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -172,7 +158,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -181,7 +166,6 @@
   <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>Failanf and Portbury</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -190,7 +174,6 @@
   <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -199,7 +182,6 @@
   <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -216,7 +198,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -225,7 +206,6 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -234,7 +214,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -243,7 +222,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 </YearsFixtures>
