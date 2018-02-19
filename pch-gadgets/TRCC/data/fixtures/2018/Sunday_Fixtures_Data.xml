@@ -63,112 +63,94 @@
 
 <Fixture>
   <Date>Mon, 28 May 2018 12:00:00 UTC</Date>
-  <Opposition>Twyford Village Select</Opposition>
+  <Opposition>TRCC Club Day</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 4 Jun 2018 12:00:00 UTC</Date>
+  <Date>Mon, 3 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Theale and Tilehurst</Opposition>
   <Time>14:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 11 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Greys Green</Opposition>
-  <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 18 Jun 2018 12:00:00 UTC</Date>
+  <Date>Sun, 10 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 17 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Wargrave</Opposition>
   <Time>14:00</Time>
-  <Venue>Home</Venue>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 25 Jun 2018 12:00:00 UTC</Date>
+  <Date>Sun, 24 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>14:00</Time>
-  <Venue>Away</Venue>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 2 Jul 2018 12:00:00 UTC</Date>
+  <Date>Sun, 1 Jul 2018 12:00:00 UTC</Date>
   <Opposition>Ibstone</Opposition>
   <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 8 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>Hurley</Opposition>
+  <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 9 Jul 2018 12:00:00 UTC</Date>
-  <Opposition>Woodley</Opposition>
-  <Time>13:30</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 16 Jul 2018 12:00:00 UTC</Date>
-  <Opposition>Woodcote</Opposition>
+  <Date>Sun, 15 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 23 Jul 2018 12:00:00 UTC</Date>
+  <Date>Sun, 22 Jul 2018 12:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 30 Jul 2018 12:00:00 UTC</Date>
+  <Date>Sun, 29 Jul 2018 12:00:00 UTC</Date>
   <Opposition>Ipsden</Opposition>
-  <Time>13:30</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 6 Aug 2018 12:00:00 UTC</Date>
-  <Opposition>Stewart Wren XI AM</Opposition>
-  <Time>13:30</Time>
+  <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 6 Aug 2018 12:00:00 UTC</Date>
-  <Opposition>Stewart Wren XI PM</Opposition>
-  <Time>13:30</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 13 Aug 2018 12:00:00 UTC</Date>
-  <Opposition>Bibury</Opposition>
+  <Date>Sun, 5 Aug 2018 12:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
@@ -176,26 +158,35 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 20 Aug 2018 12:00:00 UTC</Date>
+  <Date>Sun, 12 Aug 2018 12:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 19 Aug 2018 12:00:00 UTC</Date>
   <Opposition>Checkendon</Opposition>
   <Time>14:00</Time>
-  <Venue>Home</Venue>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 27 Aug 2018 12:00:00 UTC</Date>
+  <Date>Sun, 26 Aug 2018 12:00:00 UTC</Date>
   <Opposition>Failand and Portbury</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Failanf and Portbury</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 28 Aug 2018 12:00:00 UTC</Date>
-  <Opposition>Cleeve</Opposition>
+  <Date>Mon, 27 Aug 2018 12:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
@@ -203,7 +194,7 @@
 </Fixture>
 
 <Fixture>
-  <Date>Tue, 29 Aug 2018 12:00:00 UTC</Date>
+  <Date>Tue, 28 Aug 2018 12:00:00 UTC</Date>
   <Opposition>Harptree</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
@@ -212,15 +203,15 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 3 Sep 2018 12:00:00 UTC</Date>
-  <Opposition>Farley Hill</Opposition>
+  <Date>Sun, 2 Sep 2018 12:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 10 Sep 2018 12:00:00 UTC</Date>
+  <Date>Sun, 9 Sep 2018 12:00:00 UTC</Date>
   <Opposition>Reading Lawyers</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
@@ -229,7 +220,7 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 17 Sep 2018 12:00:00 UTC</Date>
+  <Date>Sun, 16 Sep 2018 12:00:00 UTC</Date>
   <Opposition>Binfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
@@ -238,8 +229,17 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 24 Sep 2018 12:00:00 UTC</Date>
-  <Opposition>Peppard Kites</Opposition>
+  <Date>Sun, 23 Sep 2018 12:00:00 UTC</Date>
+  <Opposition>Peppard and Stoke Row</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 30 Sep 2018 12:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
