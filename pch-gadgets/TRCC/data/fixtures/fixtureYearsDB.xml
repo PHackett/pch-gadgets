@@ -6,6 +6,8 @@
 
 <YearsDB>
 
+	<TeamsInYear year="2017"><Team>Sunday</Team></TeamsInYear>
+	
 	<TeamsInYear year="2017"><Team>Saturday</Team><Team>Sunday</Team><Team>StormU9</Team><Team>ThunderU11</Team><Team>LightningU11</Team></TeamsInYear>
 	
 	<TeamsInYear year="2016"><Team>Saturday</Team><Team>Sunday</Team><Team>20-20</Team><Team>Under9</Team><Team>Under11</Team><Team>Under13</Team></TeamsInYear>
