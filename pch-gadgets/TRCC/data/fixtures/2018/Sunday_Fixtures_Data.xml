@@ -19,24 +19,6 @@
 <Fixture>
   <Date>Sun, 29 Apr 2018 12:00:00 UTC</Date>
   <Opposition>Stonor</Opposition>
-  <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 7 May 2018 12:00:00 UTC</Date>
-  <Opposition>Bracknell</Opposition>
-  <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 14 May 2018 12:00:00 UTC</Date>
-  <Opposition>Sonning</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
@@ -44,17 +26,26 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 21 May 2018 12:00:00 UTC</Date>
-  <Opposition>Swyncombe</Opposition>
-  <Time>14:00</Time>
-  <Venue>Away</Venue>
+  <Date>Sun, 6 May 2018 12:00:00 UTC</Date>
+  <Opposition>Bracknell</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 28 May 2018 12:00:00 UTC</Date>
-  <Opposition>Frieth</Opposition>
+  <Date>Sun, 13 May 2018 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 20 May 2018 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
@@ -62,7 +53,16 @@
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 29 May 2018 12:00:00 UTC</Date>
+  <Date>Sun, 27 May 2018 12:00:00 UTC</Date>
+  <Opposition>Frieth</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 28 May 2018 12:00:00 UTC</Date>
   <Opposition>Twyford Village Select</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
