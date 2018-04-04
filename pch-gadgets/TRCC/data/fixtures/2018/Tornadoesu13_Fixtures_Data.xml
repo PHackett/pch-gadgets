@@ -17,47 +17,47 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Tue, 2 May 2018 12:00:00 UTC</Date>
-  <Opposition>Wargrave</Opposition>
-  <Time>18:00</Time>
+  <Date>Sun, 22 Apr 2018 12:00:00 UTC</Date>
+  <Opposition>Falkland</Opposition>
+  <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 12 May 2018 12:00:00 UTC</Date>
-  <Opposition>Henley Lynx</Opposition>
+  <Date>Fri, 18 May 2018 12:00:00 UTC</Date>
+  <Opposition>Hurst</Opposition>
   <Time>18:00</Time>
-  <Venue>Home</Venue>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sat, 20 May 2018 12:00:00 UTC</Date>
-  <Opposition>Crowthorne and Crownwood</Opposition>
+  <Date>Sun, 20 May 2018 12:00:00 UTC</Date>
+  <Opposition>Finchhampstead Kestrels</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 9 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Peppard and Stoke Row Maharajas</Opposition>
+  <Date>Sun, 10 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Littlewick Green B</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 17 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Reading</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 16 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Wokingham Red Oaks</Opposition>
-  <Time>18:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Fri, 23 Jun 2018 12:00:00 UTC</Date>
+  <Date>Sun, 24 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Sonning</Opposition>
   <Time>10:00</Time>
   <Venue>Home</Venue>
@@ -65,26 +65,18 @@
 </Fixture>
 
 <Fixture>
-  <Date>Thu, 29 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Finchampstead Eagles</Opposition>
-  <Time>18:00</Time>
-  <Venue>Away</Venue>
+  <Date>Sun, 1 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>Henley Pumas</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 9 Jul 2018 12:00:00 UTC</Date>
+  <Date>Sun, 8 Jul 2018 12:00:00 UTC</Date>
   <Opposition>Kidmore End</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>TBA</Date>
-  <Opposition>Twyford Thunder</Opposition>
-  <Time>10:00</Time>
-  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
