@@ -17,25 +17,23 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Tue, 2 May 2017 12:00:00 UTC</Date>
+  <Date>Tue, 2 May 2018 12:00:00 UTC</Date>
   <Opposition>Wargrave</Opposition>
   <Time>18:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 12 May 2017 12:00:00 UTC</Date>
+  <Date>Fri, 12 May 2018 12:00:00 UTC</Date>
   <Opposition>Henley Lynx</Opposition>
   <Time>18:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sat, 20 May 2017 12:00:00 UTC</Date>
+  <Date>Sat, 20 May 2018 12:00:00 UTC</Date>
   <Opposition>Crowthorne and Crownwood</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
@@ -43,34 +41,31 @@
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 9 Jun 2017 12:00:00 UTC</Date>
+  <Date>Fri, 9 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Peppard and Stoke Row Maharajas</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 16 Jun 2017 12:00:00 UTC</Date>
+  <Date>Fri, 16 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Wokingham Red Oaks</Opposition>
   <Time>18:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 23 Jun 2017 12:00:00 UTC</Date>
+  <Date>Fri, 23 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Sonning</Opposition>
   <Time>10:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Thu, 29 Jun 2017 12:00:00 UTC</Date>
+  <Date>Thu, 29 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Finchampstead Eagles</Opposition>
   <Time>18:00</Time>
   <Venue>Away</Venue>
@@ -78,7 +73,7 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 9 Jul 2017 12:00:00 UTC</Date>
+  <Date>Sun, 9 Jul 2018 12:00:00 UTC</Date>
   <Opposition>Kidmore End</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
