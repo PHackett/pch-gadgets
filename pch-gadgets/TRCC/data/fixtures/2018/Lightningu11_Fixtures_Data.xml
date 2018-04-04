@@ -17,73 +17,65 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Tue, 2 May 2018 12:00:00 UTC</Date>
-  <Opposition>Wargrave</Opposition>
+  <Date>Sat, 12 May 2018 12:00:00 UTC</Date>
+  <Opposition>Henley Wildcats</Opposition>
+  <Time>09:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 25 May 2018 12:00:00 UTC</Date>
+  <Opposition>Twyford and Ruscombe Thunder</Opposition>
+  <Time>18:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Thu, 31 May 2018 12:00:00 UTC</Date>
+  <Opposition>Kidmore End</Opposition>
+  <Time>17:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 8 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
   <Time>18:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 12 May 2018 12:00:00 UTC</Date>
+  <Date>Sun, 24 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Peppard Stoke Row Kites</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 6 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>Finchampstead Kestrels</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 15 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 20 Jul 2018 12:00:00 UTC</Date>
   <Opposition>Henley Lynx</Opposition>
   <Time>18:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sat, 20 May 2018 12:00:00 UTC</Date>
-  <Opposition>Crowthorne and Crownwood</Opposition>
-  <Time>10:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Fri, 9 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Peppard and Stoke Row Maharajas</Opposition>
-  <Time>10:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Fri, 16 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Wokingham Red Oaks</Opposition>
-  <Time>18:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Fri, 23 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Sonning</Opposition>
-  <Time>10:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Thu, 29 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Finchampstead Eagles</Opposition>
-  <Time>18:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 9 Jul 2018 12:00:00 UTC</Date>
-  <Opposition>Kidmore End</Opposition>
-  <Time>10:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>TBA</Date>
-  <Opposition>Twyford Thunder</Opposition>
-  <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
