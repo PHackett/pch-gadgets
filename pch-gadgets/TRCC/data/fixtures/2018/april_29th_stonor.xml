@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri May 04 2018 16:23:40 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2018/april_29th_stonor.xml -->
+<CricketMatch oppo="Stonor" date="Sun Apr 29 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Stonor">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
