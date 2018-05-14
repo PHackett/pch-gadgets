@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 14 2018 16:22:25 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2018/may_13th_sonning.xml -->
+<CricketMatch oppo="Sonning" date="Sun May 13 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Sonning">
+    <Batsman name="J Ahmed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="M Calhoun">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="D Anderson">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="B Travers">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="B Gurnei">
+      <HowOut how="Caught Tom Leadbetter"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Vicky">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="M Lilley">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Flemming">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Syed">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Wilding">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="36"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="35" wickets="3"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5.4" maidens="0" runs="29" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Vicky"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Wilding"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="N Syed"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="J Ahmed"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vicky"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="B Gurnei"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="J Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vicky"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Vicky"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="4" score="128"/>
+    <FallOfWicket batsman="6" score="131"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <FallOfWicket batsman="8" score="132"/>
+    <FallOfWicket batsman="9" score="146"/>
+    <FallOfWicket batsman="10" score="146"/>
+    <FallOfWicket batsman="5" score="179"/>
+    <BowlerSummary name="Vicky" overs="6.5" maidens="1" runs="29" wickets="4"/>
+    <BowlerSummary name="D Anderson" overs="1" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="P Wilding" overs="7" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="N Syed" overs="6" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="B Gurnei" overs="7" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="J Ahmed" overs="6" maidens="0" runs="33" wickets="2"/>
+  </Innings>
+</CricketMatch>
