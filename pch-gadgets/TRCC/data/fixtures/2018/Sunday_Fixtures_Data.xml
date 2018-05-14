@@ -21,7 +21,8 @@
   <Opposition>Stonor</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -29,7 +30,8 @@
   <Opposition>Bracknell</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -37,7 +39,8 @@
   <Opposition>Sonning</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
