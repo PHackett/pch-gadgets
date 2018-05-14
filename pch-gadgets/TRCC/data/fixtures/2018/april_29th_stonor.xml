@@ -72,7 +72,7 @@
   </Innings>
   <Innings batting="Stonor">
     <Batsman name="B Cavenagh">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Matt Berry"/>
       <Bowler name="Nic Downes"/>
       <Runs value="4"/>
     </Batsman>
