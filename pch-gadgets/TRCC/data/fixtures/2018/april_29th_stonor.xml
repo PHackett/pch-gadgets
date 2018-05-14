@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Fri May 04 2018 16:23:40 GMT+0100 (BST) -->
+<!-- Generated on Mon May 14 2018 15:59:10 GMT+0100 (BST) -->
 <!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Lose -->
@@ -7,9 +7,97 @@
 <CricketMatch oppo="Stonor" date="Sun Apr 29 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Extras value="0"/>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Howell"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Cavenagh"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Austin"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Cavenagh"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Austin"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Austin"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cavenagh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="7" score="86"/>
+    <FallOfWicket batsman="9" score="101"/>
+    <BowlerSummary name="C Howell" overs="7" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Cavenagh" overs="10" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Austin" overs="11" maidens="1" runs="30" wickets="3"/>
+    <BowlerSummary name="Lambart" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="B Cavenagh" overs="3" maidens="0" runs="5" wickets="1"/>
   </Innings>
   <Innings batting="Stonor">
-    <Extras value="0"/>
+    <Batsman name="B Cavenagh">
+      <HowOut how="Caught "/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Farr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="N Williamr">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="M Lovatt">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="100"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="2" runs="2" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="5.1" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="4" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Dan Avello" overs="2" maidens="1" runs="3" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="8" wickets="0"/>
   </Innings>
 </CricketMatch>
