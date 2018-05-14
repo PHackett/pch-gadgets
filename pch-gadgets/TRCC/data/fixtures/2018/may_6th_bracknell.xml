@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 14 2018 16:10:48 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2018/may_6th_bracknell.xml -->
+<CricketMatch oppo="Bracknell" date="Sun May 06 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bracknell">
+    <Batsman name="R Cooper">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="P Henley">
+      <HowOut how="Caught Dylan Burr"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Mahee">
+      <HowOut how="Caught Ian Rogers"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="I Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hugh Fort"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="G White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hugh Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="C White">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="D Murrison">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="I Singh"/>
+    <Batsman name="M Ahmed"/>
+    <Batsman name="Faheem"/>
+    <Extras value="26"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Dylan Burr" overs="7" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Neville Munns" overs="7" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Hugh Fort" overs="5" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Pete Schofield" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Simon Burr" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="M Ahmed"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="M Ahmed"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Run Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Murrison"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mahee"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mahee"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="D Murrison"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Neville Munns">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="P Henley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Rogers">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="5" score="45"/>
+    <FallOfWicket batsman="6" score="45"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="7" score="90"/>
+    <FallOfWicket batsman="8" score="91"/>
+    <BowlerSummary name="I Shaw" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="M Ahmed" overs="5" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="Mahee" overs="4" maidens="2" runs="7" wickets="2"/>
+    <BowlerSummary name="P Henley" overs="5" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Faheem" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="C White" overs="4" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="D Murrison" overs="5" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="R Cooper" overs="3" maidens="2" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>
