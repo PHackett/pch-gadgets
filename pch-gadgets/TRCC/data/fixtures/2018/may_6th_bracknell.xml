@@ -47,7 +47,7 @@
     <BowlerSummary name="Marc Teal" overs="8" maidens="1" runs="27" wickets="1"/>
     <BowlerSummary name="Dylan Burr" overs="7" maidens="0" runs="22" wickets="1"/>
     <BowlerSummary name="Tom Fort" overs="5" maidens="0" runs="27" wickets="0"/>
-    <BowlerSummary name="Neville Munns" overs="7" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Nathan Munns" overs="7" maidens="0" runs="46" wickets="0"/>
     <BowlerSummary name="Hugh Fort" overs="5" maidens="0" runs="27" wickets="2"/>
     <BowlerSummary name="Pete Schofield" overs="3" maidens="0" runs="17" wickets="1"/>
     <BowlerSummary name="Simon Burr" overs="1" maidens="0" runs="8" wickets="0"/>
@@ -87,7 +87,7 @@
       <Bowler name="D Murrison"/>
       <Runs value="20"/>
     </Batsman>
-    <Batsman name="Neville Munns">
+    <Batsman name="Nathan Munns">
       <HowOut how="Run Out"/>
       <Runs value="4"/>
     </Batsman>
