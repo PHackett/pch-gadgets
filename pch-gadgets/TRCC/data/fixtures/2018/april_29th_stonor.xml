@@ -7,7 +7,7 @@
 <CricketMatch oppo="Stonor" date="Sun Apr 29 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Marc Teal">
+    <Batsman name="Marc Teal" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="C Howell"/>
       <Runs value="15"/>
