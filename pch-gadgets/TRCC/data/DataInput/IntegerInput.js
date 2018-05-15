@@ -60,7 +60,8 @@ function IntegerInput___BlurCB()
 
 	if ((lValueLen > 0) && !IsInteger (lValue))
 	{
-		alert ("Please enter an integer");
+		alert ("Please enter an integer **");
+		this.SetValue ("0");
 		this.TakeFocus();
 	}
 	else if ((lValueLen > 0) && (parseInt (lValue) < this.mMin))
