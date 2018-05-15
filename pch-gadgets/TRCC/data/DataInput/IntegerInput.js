@@ -67,11 +67,13 @@ function IntegerInput___BlurCB()
 	else if ((lValueLen > 0) && (parseInt (lValue) < this.mMin))
 	{
 		this.TakeFocus();
-		alert ("Value entered (" + lValue + ") is less than the minimum (" + this.mMin + ")");
+		alert ("Value entered (" + lValue + ") is less than the minimum (" + this.mMin + ") **");
+		this.SetValue (this.mMin);
 	}
 	else if ((lValueLen > 0) && (parseInt (lValue) > this.mMax))
 	{
-		alert ("Value entered (" + lValue + ") is greater than the maximum (" + this.mMax + ")");
+		alert ("Value entered (" + lValue + ") is greater than the maximum (" + this.mMax + ") **");
+		this.SetValue (this.mMax);
 		this.TakeFocus();
 	}
 	else if (this.mBlurCallback != null)
