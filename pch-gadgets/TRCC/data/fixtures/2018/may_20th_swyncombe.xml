@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 22 2018 17:20:51 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2018/may_20th_swyncombe.xml -->
+<CricketMatch oppo="Swyncombe" date="Sun May 20 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Swyncombe">
+    <Batsman name="C Domnick">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="C Goodall">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Crockett">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Hunt">
+      <HowOut how="Run Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="J Crockett">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="M Lewis">
+      <HowOut how="Run Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="3" runs="8" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Jonathan Low" overs="5" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Dan Avello" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="2" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Crockett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Crockett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="I Hunt"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Crockett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Lewis"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Hunt"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Hunt"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dan Avello">
+      <HowOut how="LBW"/>
+      <Bowler name="I Hunt"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="5" score="18"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="6" score="39"/>
+    <FallOfWicket batsman="8" score="39"/>
+    <FallOfWicket batsman="7" score="57"/>
+    <FallOfWicket batsman="10" score="60"/>
+    <FallOfWicket batsman="9" score="73"/>
+    <BowlerSummary name="J Crockett" overs="7" maidens="4" runs="4" wickets="1"/>
+    <BowlerSummary name="T Crockett" overs="5" maidens="3" runs="7" wickets="2"/>
+    <BowlerSummary name="M Lewis" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="I Hunt" overs="7" maidens="2" runs="17" wickets="5"/>
+    <BowlerSummary name="Ben" overs="3.2" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="C Day" overs="0.4" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>
