@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jun 12 2018 19:10:45 GMT+0100 (BST) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2018/june_10th_greys_green.xml -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 10 2018 00:00:00 GMT+0100 (BST)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="Hensom"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shafqat"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hensom"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Char"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Stumped"/>
+      <Bowler name="Shafqat"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Dylan Burr"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="3" score="65"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <FallOfWicket batsman="5" score="92"/>
+    <FallOfWicket batsman="4" score="158"/>
+    <FallOfWicket batsman="7" score="158"/>
+    <BowlerSummary name="Brooke" overs="12" maidens="2" runs="49" wickets="0"/>
+    <BowlerSummary name="Shafqat" overs="14" maidens="4" runs="39" wickets="2"/>
+    <BowlerSummary name="Hensom" overs="7" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Char" overs="5" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="Greys Green">
+    <Batsman name="Shafqat">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="N Dennis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Cusden">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="P Hoggart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="M Lambert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="N Holroyd">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="T Rooke">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="5" score="115"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="13" maidens="4" runs="27" wickets="3"/>
+    <BowlerSummary name="Dylan Burr" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="7" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="2" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
