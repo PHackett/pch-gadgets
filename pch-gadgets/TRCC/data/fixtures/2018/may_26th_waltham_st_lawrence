@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Jun 16 2018 23:04:22 +01:00 (BST)-->
+<!--Result = Draw-->
+<!--XMLFilename = 2018/may_26th_waltham_st_lawrence.xml-->
+<CricketMatch oppo="Waltham St Lawrence" date="Sat May 26 2018 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3286108">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris England"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Naresh Konduru">
+      <HowOut how="Caught Andy Malliff"/>
+      <Bowler name="Chris England"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michaela Evans">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Waghorn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Chris Waghorn"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="Not Out"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Dylan B">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gopi Perumal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bharani Billapati">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sachin Raina">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="4" score="105"/>
+    <FallOfWicket batsman="5" score="115"/>
+    <BowlerSummary name="Andy Malliff" overs="9.0" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="George Zadrozny" overs="7.0" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Sree Venkata" overs="6.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Chris England" overs="10.1" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Chris Waghorn" overs="7.0" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Ravi Sainani" overs="3.5" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Tom Eaton" overs="2.0" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Waltham St Lawrence">
+    <Batsman name="Nick Philp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bharani Billapati"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sree Venkata">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Naresh Konduru"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Krishna Mathur">
+      <HowOut how="Caught Shiva Nagam"/>
+      <Bowler name="Sachin Raina"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Waghorn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Andy Malliff" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kenneth Simpson">
+      <HowOut how="LBW"/>
+      <Bowler name="Sachin Raina"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ravi Sainani">
+      <HowOut how="Caught Dylan B"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Pramod Chandane">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chris England">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="George Zadrozny">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Eaton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="66"/>
+    <FallOfWicket batsman="5" score="75"/>
+    <FallOfWicket batsman="6" score="76"/>
+    <FallOfWicket batsman="4" score="187"/>
+    <FallOfWicket batsman="7" score="194"/>
+    <FallOfWicket batsman="8" score="202"/>
+    <BowlerSummary name="Shiva Nagam" overs="12" maidens="2" runs="49" wickets="2"/>
+    <BowlerSummary name="Bharani Billapati" overs="7" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Naresh Konduru" overs="5.0" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4.0" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Sachin Raina" overs="5.0" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Robin Thompson" overs="9" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Dylan B" overs="3" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
