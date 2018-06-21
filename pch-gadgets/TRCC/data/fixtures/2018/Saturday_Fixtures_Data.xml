@@ -38,6 +38,7 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -45,7 +46,8 @@
   <Opposition>Woodley</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Abandonned</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -53,7 +55,8 @@
   <Opposition>Peppard Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -61,7 +64,8 @@
   <Opposition>Waltham St Lawrence</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -69,7 +73,8 @@
   <Opposition>Earley</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
