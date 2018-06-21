@@ -63,10 +63,11 @@
 
 <Fixture>
   <Date>Mon, 28 May 2018 12:00:00 UTC</Date>
-  <Opposition>TRCC Club Day</Opposition>
+  <Opposition>Presidents Game</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Draw</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
