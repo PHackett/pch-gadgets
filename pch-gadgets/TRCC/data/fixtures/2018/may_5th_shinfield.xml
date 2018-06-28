@@ -11,7 +11,7 @@
       <Bowler name="Andrew Prowse"/>
       <Runs value="50"/>
     </Batsman>
-    <Batsman name="Ian Rogers">
+    <Batsman name="Ian Rogers" keeper="1">
       <HowOut how="LBW"/>
       <Bowler name="Anuraag Shukla"/>
       <Runs value="1"/>
