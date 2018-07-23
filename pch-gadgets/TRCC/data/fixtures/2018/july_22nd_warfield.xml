@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 23 2018 15:56:55 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2018/july_22nd_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sun Jul 22 2018 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="N Janes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="J Adkins"/>
+      <Runs value="106"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="S Adkins"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Adkins"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="J Adkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth"/>
+    <Batsman name="Matt Berry"/>
+    <Batsman name="Dan Avello"/>
+    <Batsman name="Chris Fort"/>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="155"/>
+    <FallOfWicket batsman="1" score="172"/>
+    <FallOfWicket batsman="4" score="193"/>
+    <FallOfWicket batsman="5" score="193"/>
+    <FallOfWicket batsman="3" score="222"/>
+    <BowlerSummary name="G Morris" overs="6" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="C Bolan" overs="5" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="M Kalli" overs="6" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="M Price" overs="4" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="J Adkins" overs="5" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="N Janes" overs="4" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="J Janes" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="S Adkins" overs="3" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="I Taylor">
+      <HowOut how="LBW"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Adkins">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Janes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="O Stenford">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="L Johnson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Adkins">
+      <HowOut how="Run Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Madlaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Price">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="N Janes">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="C Bolan">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="G Morris">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="Joe Downes" overs="6" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="Matt Berry" overs="5" maidens="2" runs="4" wickets="2"/>
+    <BowlerSummary name="Dan Avello" overs="3" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="2" runs="7" wickets="1"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="5" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="1" runs="16" wickets="1"/>
+  </Innings>
+</CricketMatch>
