@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 06 2018 17:10:37 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2018/august_5th_harpsden.xml -->
+<CricketMatch oppo="Harpsden" date="Sun Aug 05 2018 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Harpsden">
+    <Batsman name="A Birkett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="R Ashcroft">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="W Stevens">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="P Burtt">
+      <HowOut how="LBW"/>
+      <Bowler name="Ian Evans"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="B Griffith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Stanley">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Stanley"/>
+    <Batsman name="S Gulfraz"/>
+    <Batsman name="J Moore"/>
+    <Batsman name="T Cary"/>
+    <Batsman name="C Burtt"/>
+    <Extras value="4"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="6" maidens="2" runs="23" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="1" runs="43" wickets="1"/>
+    <BowlerSummary name="Jonathan Low" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Ian Evans" overs="1" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Pete Schofield" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cary"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Gulfraz"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raja Singh" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="C Burtt"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="LBW"/>
+      <Bowler name="T Cary"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Cary"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Moore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Stumped"/>
+      <Bowler name="C Burtt"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="2" score="101"/>
+    <FallOfWicket batsman="3" score="120"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="6" score="127"/>
+    <FallOfWicket batsman="7" score="142"/>
+    <FallOfWicket batsman="8" score="143"/>
+    <FallOfWicket batsman="9" score="159"/>
+    <FallOfWicket batsman="4" score="180"/>
+    <FallOfWicket batsman="10" score="195"/>
+    <BowlerSummary name="J Moore" overs="6" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="T Cary" overs="6" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="S Gulfraz" overs="7" maidens="1" runs="49" wickets="1"/>
+    <BowlerSummary name="A Birkett" overs="4" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="C Burtt" overs="4.2" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="B Griffith" overs="2" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="M Stanley" overs="3" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
