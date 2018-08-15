@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 14 2018 22:34:51 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2018/june_16th_stratfield_turgis_hartley_wespall.xml-->
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall" date="Sat Jun 16 2018 13:04:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3286062">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Stratfield Turgis_Hartley Wespall">
+    <Batsman name="John Synodinos">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Marc Minikin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Luke Anthony">
+      <HowOut how="Caught Ashish Darekar"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Manoj George" captain="1">
+      <HowOut how="Caught Shiva Nagam"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Abhishek Kumar Singh">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Martin Sandland">
+      <HowOut how="Caught Ian Rogers"/>
+      <Bowler name="Bharani Billapati"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkitram Vaidyanathan">
+      <HowOut how="LBW"/>
+      <Bowler name="Bharani Billapati"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Craig Strudley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jitesh Manayil">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Bharani Billapati"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Laurie Figzal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Martin Turvey">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="1" score="68"/>
+    <FallOfWicket batsman="5" score="74"/>
+    <FallOfWicket batsman="6" score="77"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="7" score="82"/>
+    <FallOfWicket batsman="8" score="82"/>
+    <FallOfWicket batsman="10" score="84"/>
+    <FallOfWicket batsman="9" score="107"/>
+    <BowlerSummary name="Shiva Nagam" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Anam Rahim" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Razavullah Shaik" overs="4" maidens="1" runs="13" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="9" maidens="3" runs="16" wickets="6"/>
+    <BowlerSummary name="Bharani Billapati" overs="5.3" maidens="1" runs="12" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="1" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught Marc Minikin"/>
+      <Bowler name="Craig Strudley"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Laurie Figzal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="LBW"/>
+      <Bowler name="Craig Strudley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="Not Out"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Anam Rahim">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Naresh Konduru">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bharani Billapati">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <BowlerSummary name="Laurie Figzal" overs="7" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Craig Strudley" overs="6" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Jitesh Manayil" overs="3.4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Venkitram Vaidyanathan" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Abhishek Kumar Singh" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="John Synodinos" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
