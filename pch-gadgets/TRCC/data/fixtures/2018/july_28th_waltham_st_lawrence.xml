@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 14 2018 22:49:26 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2018/july_28th_waltham_st_lawrence.xml-->
+<CricketMatch oppo="Waltham St Lawrence" date="Sat Jul 28 2018 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3286080">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Waltham St Lawrence">
+    <Batsman name="Ed Davies">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sree Venkata">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Wasim Javed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Ravi Sainani" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Lee Capeling" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Chris Waghorn">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pramod Chandane">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris England">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ziggy Kiani">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George Zadrozny">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Gale">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Shiva Nagam" overs="7" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Razavullah Shaik" overs="4" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="6" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="11" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="Kiran Musudi" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="5" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Musudi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Chris England" overs="11" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="George Zadrozny" overs="8" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="Sree Venkata" overs="5" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Wasim Javed" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Ravi Sainani" overs="2" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Chris Waghorn" overs="2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Ed Davies" overs="5.5" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+</CricketMatch>
