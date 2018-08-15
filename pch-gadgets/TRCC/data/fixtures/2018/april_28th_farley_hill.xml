@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 14 2018 23:02:32 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2018/april_28th_farley_hill.xml-->
+<CricketMatch oppo="Farley Hill" date="Sat Apr 28 2018 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="3663806">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Run Out Johan Vorster"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Marr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="LBW"/>
+      <Bowler name="Thomas Hale"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Marc Teal" captain="1" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Hale"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Stumped Bilal Hussain"/>
+      <Bowler name="Michael Sheridan"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Johan Vorster"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Ad Ali"/>
+      <Bowler name="Johan Vorster"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Gopi Perumal">
+      <HowOut how="LBW"/>
+      <Bowler name="Azam Shafiq"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Hale"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michael Sheridan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Manns">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="4" score="15"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="6" score="42"/>
+    <FallOfWicket batsman="7" score="48"/>
+    <FallOfWicket batsman="8" score="48"/>
+    <FallOfWicket batsman="5" score="66"/>
+    <FallOfWicket batsman="10" score="70"/>
+    <FallOfWicket batsman="9" score="70"/>
+    <BowlerSummary name="Thomas Hale" overs="6.4" maidens="0" runs="12" wickets="3"/>
+    <BowlerSummary name="Andy Marr" overs="6.0" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Jude Gunasekera" overs="6.0" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="Zeeshan Hussain" overs="6.0" maidens="2" runs="7" wickets="0"/>
+    <BowlerSummary name="Azam Shafiq" overs="5.0" maidens="2" runs="8" wickets="1"/>
+    <BowlerSummary name="Johan Vorster" overs="3.0" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Michael Sheridan" overs="2.0" maidens="0" runs="11" wickets="2"/>
+  </Innings>
+  <Innings batting="Farley Hill">
+    <Batsman name="Ad Ali">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="LBW"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Akeesh Khokhar">
+      <HowOut how="LBW"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Azam Shafiq">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Thomas Hale">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michael Sheridan" captain="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Marr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Johan Vorster">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zeeshan Hussain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jude Gunasekera">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="4" score="38"/>
+    <BowlerSummary name="Steve Beamish" overs="5.0" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="5.0" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Robin Thompson" overs="0.3" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>
