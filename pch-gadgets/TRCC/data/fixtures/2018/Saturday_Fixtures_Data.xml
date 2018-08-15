@@ -96,11 +96,12 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 24 Jun 2018 12:00:00 UTC</Date>
+  <Date>Sat, 23 Jun 2018 12:00:00 UTC</Date>
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>15:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
