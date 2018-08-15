@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 14 2018 22:49:57 +01:00 (BST)-->
+<!--Result = Draw-->
+<!--XMLFilename = 2018/august_4th_earley.xml-->
+<CricketMatch oppo="Earley" date="Sat Aug 04 2018 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3286071">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Shahzad Ahmed"/>
+      <Bowler name="Dave Mapes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Shahid Imtiaz"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prasad Gore"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught Shahid Imtiaz"/>
+      <Bowler name="Prasad Gore"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Kunwar Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Shahid Imtiaz"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prasad Gore"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="4" score="65"/>
+    <FallOfWicket batsman="2" score="191"/>
+    <FallOfWicket batsman="6" score="205"/>
+    <FallOfWicket batsman="7" score="290"/>
+    <BowlerSummary name="Prasad Gore" overs="11" maidens="1" runs="60" wickets="3"/>
+    <BowlerSummary name="Dave Mapes" overs="4" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Charlie Johnson" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Shahzad Ahmed" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Gary Shacklady" overs="10" maidens="0" runs="66" wickets="0"/>
+    <BowlerSummary name="Shahid Imtiaz" overs="10" maidens="1" runs="54" wickets="2"/>
+    <BowlerSummary name="Khan Azad" overs="2" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Earley">
+    <Batsman name="Khan Azad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Gary Shacklady" captain="1">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Vinod Aduri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ken Cochrane"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mohamad Zameer">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Owen Bye">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Ollie Johnson" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Charlie Johnson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shahid Imtiaz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Shahzad Ahmed">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Prasad Gore">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Mapes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="45"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="2" score="103"/>
+    <FallOfWicket batsman="5" score="170"/>
+    <FallOfWicket batsman="4" score="185"/>
+    <FallOfWicket batsman="7" score="185"/>
+    <FallOfWicket batsman="8" score="203"/>
+    <BowlerSummary name="Shiva Nagam" overs="12" maidens="2" runs="67" wickets="4"/>
+    <BowlerSummary name="Kiran Juluri" overs="10" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Ken Cochrane" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Kunwar Khan" overs="3" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+</CricketMatch>
