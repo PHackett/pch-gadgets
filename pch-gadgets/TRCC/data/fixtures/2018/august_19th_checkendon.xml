@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Aug 24 2018 15:50:09 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2018/august_19th_checkendon.xml -->
+<CricketMatch oppo="Checkendon" date="Sun Aug 19 2018 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Run Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vikas"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Vikas"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Raja Singh" keeper="1"/>
+    <Batsman name="Jonathan Low"/>
+    <Batsman name="Matt Berry"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="35"/>
+    <FallOfWicket batsman="1" score="208"/>
+    <BowlerSummary name="Vikas" overs="6" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Arun" overs="5" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Manoo" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Satia" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Wickens" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Ujwal" overs="5" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Arrowsmith" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Anuj" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Manpreet" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Checkendon">
+    <Batsman name="M Singh">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Sandiffe">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Wickens">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Arun">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="S Garg">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Sharma">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Aruj">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Arrowsmith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Raru">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="U Kmart">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="1" runs="24" wickets="2"/>
+  </Innings>
+</CricketMatch>
