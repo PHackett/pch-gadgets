@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Sep 02 2018 11:47:18 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2018/august_27th_backwell_flax_and_bourton.xml -->
+<CricketMatch oppo="Backwell Flax and Bourton" date="Mon Aug 27 2018 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Burge"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marston"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Marston"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Maule"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Burge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Run Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="50"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="5" score="107"/>
+    <FallOfWicket batsman="6" score="204"/>
+    <FallOfWicket batsman="4" score="205"/>
+    <BowlerSummary name="Marston" overs="8" maidens="2" runs="24" wickets="2"/>
+    <BowlerSummary name="Maule" overs="8" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Baughan" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Tapfender" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="T Baughan" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Flowers" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Burge" overs="4" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="B Jones" overs="4" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Backwell Flax and Bourton">
+    <Batsman name="Flowers">
+      <HowOut how="Stumped"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Wilmott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="O Baughan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Fitzgibbon">
+      <HowOut how="LBW"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="J Burge">
+      <HowOut how="Not Out"/>
+      <Runs value="84"/>
+    </Batsman>
+    <Batsman name="Tapfender">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="B Jones">
+      <HowOut how="Run Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Baughan">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="1" score="64"/>
+    <FallOfWicket batsman="4" score="100"/>
+    <FallOfWicket batsman="6" score="119"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Matt Berry" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
