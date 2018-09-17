@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sun Sep 16 2018 21:06:35 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2018/august_18th_stratfield_turgis_hartley_wespall.xml-->
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall" date="Sat Aug 18 2018 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3286078">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Stratfield Turgis_Hartley Wespall">
+    <Batsman name="Daniel Spence">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Adam Brown">
+      <HowOut how="Caught Shiva Nagam"/>
+      <Bowler name="Sravan Thatta"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="John Synodinos">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Luke Anthony">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Marc Minikin" captain="1">
+      <HowOut how="Caught Sravan Thatta"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Abhishek Kumar Singh">
+      <HowOut how="Caught Ashish Darekar"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Martin Sandland" keeper="1">
+      <HowOut how="Run Out Sushil Chaudhari"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Anup Kumar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Praveen Sahu">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Venkitram Vaidyanathan">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Laurie Figzal">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="2" score="144"/>
+    <FallOfWicket batsman="7" score="162"/>
+    <FallOfWicket batsman="8" score="182"/>
+    <FallOfWicket batsman="9" score="218"/>
+    <FallOfWicket batsman="6" score="222"/>
+    <BowlerSummary name="Shiva Nagam" overs="12" maidens="2" runs="28" wickets="3"/>
+    <BowlerSummary name="Razavullah Shaik" overs="9" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Sravan Thatta" overs="7" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="9" maidens="2" runs="31" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="2" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Martin Sandland"/>
+      <Bowler name="Laurie Figzal"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Bowled"/>
+      <Bowler name="Laurie Figzal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sravan Thatta">
+      <HowOut how="Run Out Abhishek Kumar Singh"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught Luke Anthony"/>
+      <Bowler name="Venkitram Vaidyanathan"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="LBW"/>
+      <Bowler name="Praveen Sahu"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="Caught Daniel Spence"/>
+      <Bowler name="John Synodinos"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Praveen Sahu"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Laurie Figzal"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Praveen Sahu"/>
+      <Bowler name="Adam Brown"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="4" score="101"/>
+    <FallOfWicket batsman="7" score="102"/>
+    <FallOfWicket batsman="6" score="169"/>
+    <FallOfWicket batsman="8" score="178"/>
+    <FallOfWicket batsman="10" score="216"/>
+    <BowlerSummary name="Laurie Figzal" overs="12" maidens="1" runs="55" wickets="3"/>
+    <BowlerSummary name="Adam Brown" overs="8" maidens="1" runs="42" wickets="1"/>
+    <BowlerSummary name="Venkitram Vaidyanathan" overs="11" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="Praveen Sahu" overs="5" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Luke Anthony" overs="2" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="John Synodinos" overs="4" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+</CricketMatch>
