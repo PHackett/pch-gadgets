@@ -34,7 +34,7 @@
       <HowOut how="Not Out"/>
       <Runs value="73"/>
     </Batsman>
-    <Batsman name="Dylan B">
+    <Batsman name="Dylan Burr">
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
@@ -99,7 +99,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Ravi Sainani">
-      <HowOut how="Caught Dylan B"/>
+      <HowOut how="Caught Dylan Burr"/>
       <Bowler name="Shiva Nagam"/>
       <Runs value="50"/>
     </Batsman>
@@ -135,6 +135,6 @@
     <BowlerSummary name="Chandra Cherukuri" overs="4.0" maidens="1" runs="12" wickets="0"/>
     <BowlerSummary name="Sachin Raina" overs="5.0" maidens="0" runs="12" wickets="2"/>
     <BowlerSummary name="Robin Thompson" overs="9" maidens="0" runs="34" wickets="2"/>
-    <BowlerSummary name="Dylan B" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="3" maidens="0" runs="19" wickets="0"/>
   </Innings>
 </CricketMatch>
