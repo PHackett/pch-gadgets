@@ -4,7 +4,7 @@
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Win -->
 <!-- XMLFilename = 2018/june_20th_the_forresters.xml -->
-<CricketMatch oppo="The Forresters" date="Wed Jun 20 2018 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="" notforstats==true">
+<CricketMatch oppo="The Forresters" date="Wed Jun 20 2018 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="" notforstats="true">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Pete Schofield">
