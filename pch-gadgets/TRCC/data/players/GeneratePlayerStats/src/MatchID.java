@@ -75,31 +75,48 @@ public class MatchID
 		
     	mOppo = aEle.getAttribute("oppo");
     	
-    	String lDateStr = aEle.getAttribute("date");
+    	String 		lXmlDateStr = aEle.getAttribute("date");
     	
     	//
-    	// To parse dates of the form "Sat Apr 30 00:00:00 UTC+0100 2011"
+    	// To parse dates of the form "Sat Apr 30 00:00:00 UTC+0100 2018"
     	//
 		DateFormat			lDF = new SimpleDateFormat ("EEE MMM dd HH:mm:ss 'UTC'z yyyy");
 		try
 		{
-			mDate = (Date)lDF.parse (lDateStr);
+			mDate = (Date)lDF.parse (lXmlDateStr);
 		} 
 		catch (ParseException e)
 		{
 			//
 			// To parse dates of the form Sat Sep 10 2011 00:00:00 GMT+0100 (BST)" 
 			//
-			DateFormat			lDF2 = new SimpleDateFormat ("EEE MMM dd yyyy HH:mm:ss 'GMT'z");
+			DateFormat			lDF2 = new SimpleDateFormat ("EEE MMM dd yyyy HH:mm:ss Z (z)");
 			
 			try
 			{
-				mDate = (Date)lDF2.parse (lDateStr);
+				mDate = (Date)lDF2.parse (lXmlDateStr);
+				
+				System.out.println("INFO: Succesfully parsed date string '" + lXmlDateStr + "'");
 			} 
 			catch (ParseException e1)
 			{
-				e1.printStackTrace();
-	        	lRet = false;
+				//
+				// To parse dates in yet _Another_ format
+				//
+				String[]	lSplit = lXmlDateStr.split(" ");
+		    	String		lDateStr = lSplit[0] + " " + lSplit[1] + " " + lSplit[2] + " " + lSplit[3] + " 12:00:00";
+				DateFormat	lDF3 = new SimpleDateFormat ("EEE MMM dd yyyy HH:mm:ss");
+		    	
+		    	try
+		    	{
+					mDate = (Date)lDF3.parse (lDateStr);		    		
+		    	}
+				catch (ParseException e2)
+		    	{
+					System.out.println("ERROR: Unable to parse date '" + lDateStr + "'");
+					e2.printStackTrace();
+		        	lRet = false;
+		    	}
 			}
 		}
 
