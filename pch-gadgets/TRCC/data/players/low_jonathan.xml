@@ -1,7 +1,24 @@
-<PlayerStats name="Jonathan Low" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Jonathan Low" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2013" oppo="Greys Green"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="25.0" maidens="0" runs="201" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 8 00:00:00 UTC+0100 2018" oppo="Hurley"/>
+                <BowlingData overs="2.0" maidens="0" runs="18" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="11" runs="75" notouts="2" hundreds="0" fifties="0" ducks="4">
+            <BattingBest>
+                <MatchId date="Sun Apr 29 00:00:00 UTC+0100 2018" oppo="Stonor"/>
+                <BattingData runs="19" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="2" fiveplus="0">

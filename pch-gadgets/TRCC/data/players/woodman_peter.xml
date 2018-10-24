@@ -1,7 +1,24 @@
-<PlayerStats name="Peter Woodman" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Peter Woodman" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 2 00:00:00 UTC+0100 1976" oppo="Holyport"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Batting innings="16" runs="344" notouts="1" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 2018" oppo="Reading University Alumni"/>
+                <BattingData runs="67" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 2018" oppo="Reading University Alumni"/>
+                <BattingData runs="67" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 19 00:00:00 UTC+0100 2018" oppo="Checkendon"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="1" fiveplus="0">

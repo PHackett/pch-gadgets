@@ -1,7 +1,32 @@
-<PlayerStats name="Stuart Barrable" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Stuart Barrable" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="7.3" maidens="0" runs="52" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 4 00:00:00 UTC+0100 2018" oppo="Earley"/>
+                <BowlingData overs="3.0" maidens="0" runs="25" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="7" runs="219" notouts="1" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 21 00:00:00 UTC+0100 2018" oppo="Peppard Stoke Row"/>
+                <BattingData runs="63" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 7 00:00:00 UTC+0100 2018" oppo="Shinfield"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 21 00:00:00 UTC+0100 2018" oppo="Peppard Stoke Row"/>
+                <BattingData runs="63" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="5" fiveplus="0">

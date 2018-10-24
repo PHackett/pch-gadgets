@@ -1,7 +1,24 @@
-<PlayerStats name="Steve Beamish" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Steve Beamish" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 6 00:00:00 UTC+0100 2001" oppo="Odney"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="13" fiveplus="0">
+            <BowlingData overs="80.0" maidens="7" runs="403" wickets="7"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 9 00:00:00 UTC+0100 2018" oppo="West Reading"/>
+                <BowlingData overs="8.0" maidens="2" runs="27" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="14" runs="0" notouts="3" hundreds="0" fifties="0" ducks="11">
+            <BattingBest>
+                <MatchId date="Sat Apr 28 00:00:00 UTC+0100 2018" oppo="Farley Hill"/>
+                <BattingData runs="0" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="13" fiveplus="2">

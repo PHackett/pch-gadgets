@@ -1,0 +1,22 @@
+<PlayerStats name="Naresh Konduru" generated="Wed, 24 Oct 2018 18:48:13 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Apr 21 00:00:00 UTC+0100 2018" oppo="Holyport"/>
+    </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="11.5" maidens="0" runs="82" wickets="3"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 7 00:00:00 UTC+0100 2018" oppo="Shinfield"/>
+                <BowlingData overs="3.5" maidens="0" runs="39" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="6" runs="41" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jul 7 00:00:00 UTC+0100 2018" oppo="Shinfield"/>
+                <BattingData runs="21" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

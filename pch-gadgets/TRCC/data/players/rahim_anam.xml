@@ -1,0 +1,22 @@
+<PlayerStats name="Anam Rahim" generated="Wed, 24 Oct 2018 18:48:13 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jun 16 00:00:00 UTC+0100 2018" oppo="Stratfield Turgis_Hartley Wespall"/>
+    </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="5.0" maidens="0" runs="21" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 16 00:00:00 UTC+0100 2018" oppo="Stratfield Turgis_Hartley Wespall"/>
+                <BowlingData overs="5.0" maidens="0" runs="21" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 16 00:00:00 UTC+0100 2018" oppo="Stratfield Turgis_Hartley Wespall"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

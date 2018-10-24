@@ -1,7 +1,16 @@
-<PlayerStats name="Gopi Perumal" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Gopi Perumal" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 27 00:00:00 UTC+0100 2017" oppo="Warfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Batting innings="5" runs="23" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Apr 21 00:00:00 UTC+0100 2018" oppo="Holyport"/>
+                <BattingData runs="18" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="1" fiveplus="0">

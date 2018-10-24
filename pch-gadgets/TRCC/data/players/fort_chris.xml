@@ -1,7 +1,24 @@
-<PlayerStats name="Chris Fort" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Chris Fort" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="29.4" maidens="2" runs="120" wickets="11"/>
+            <BowlingBest>
+                <MatchId date="Sun May 13 00:00:00 UTC+0100 2018" oppo="Sonning"/>
+                <BowlingData overs="5.4" maidens="0" runs="29" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="11" notouts="2" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 13 00:00:00 UTC+0100 2018" oppo="Sonning"/>
+                <BattingData runs="6" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="2" fiveplus="0">

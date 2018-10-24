@@ -1,7 +1,16 @@
-<PlayerStats name="Simon Farrar" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Simon Farrar" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 23 00:00:00 UTC+0100 2010" oppo="Freith"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Batting innings="3" runs="3" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jul 1 00:00:00 UTC+0100 2018" oppo="Friends XI"/>
+                <BattingData runs="2" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Batting innings="8" runs="35" notouts="4" hundreds="0" fifties="0" ducks="3">

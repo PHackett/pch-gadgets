@@ -1,7 +1,36 @@
-<PlayerStats name="Joe Downes" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Joe Downes" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 9 00:00:00 UTC+0100 2006" oppo="Cookham Dean"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="13" fiveplus="0">
+            <BowlingData overs="95.5" maidens="15" runs="318" wickets="20"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 1 00:00:00 UTC+0100 2018" oppo="Friends XI"/>
+                <BowlingData overs="8.0" maidens="1" runs="41" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="13" runs="381" notouts="1" hundreds="1" fifties="2" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Aug 19 00:00:00 UTC+0100 2018" oppo="Checkendon"/>
+                <BattingData runs="103" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun May 13 00:00:00 UTC+0100 2018" oppo="Sonning"/>
+                <BattingData runs="72" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 19 00:00:00 UTC+0100 2018" oppo="Checkendon"/>
+                <BattingData runs="103" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Mon Aug 27 00:00:00 UTC+0100 2018" oppo="Backwell Flax and Bourton"/>
+                <BattingData runs="63" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="9" fiveplus="0">

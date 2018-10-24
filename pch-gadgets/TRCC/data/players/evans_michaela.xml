@@ -1,0 +1,14 @@
+<PlayerStats name="Michaela Evans" generated="Wed, 24 Oct 2018 18:48:13 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 26 00:00:00 UTC+0100 2018" oppo="Waltham St Lawrence"/>
+    </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Batting innings="1" runs="5" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 26 00:00:00 UTC+0100 2018" oppo="Waltham St Lawrence"/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

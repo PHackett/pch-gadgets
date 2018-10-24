@@ -1,7 +1,24 @@
-<PlayerStats name="Raja Singh" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Raja Singh" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 16 00:00:00 UTC+0100 2009" oppo="Sandhurst 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="6" fiveplus="0">
+            <BowlingData overs="21.0" maidens="0" runs="117" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 12 00:00:00 UTC+0100 2018" oppo="Reading University Alumni"/>
+                <BowlingData overs="1.3" maidens="0" runs="9" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="12" runs="236" notouts="5" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 17 00:00:00 UTC+0100 2018" oppo="Wargrave"/>
+                <BattingData runs="48" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="9" fiveplus="0">

@@ -1,7 +1,52 @@
-<PlayerStats name="Shiva Nagam" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Shiva Nagam" generated="Wed, 24 Oct 2018 18:48:13 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 16 00:00:00 UTC+0100 2014" oppo="BCS Grosvenor"/>
     </FirstRecordedGame>
+
+    <YearData year="2018">
+        <Bowling games="16" fiveplus="1">
+            <BowlingData overs="153.1" maidens="26" runs="519" wickets="37"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 14 00:00:00 UTC+0100 2018" oppo="Woodley"/>
+                <BowlingData overs="10.4" maidens="1" runs="39" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Jul 14 00:00:00 UTC+0100 2018" oppo="Woodley"/>
+                <BowlingData overs="10.4" maidens="1" runs="39" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="17" runs="520" notouts="5" hundreds="0" fifties="6" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat May 26 00:00:00 UTC+0100 2018" oppo="Waltham St Lawrence"/>
+                <BattingData runs="73" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 26 00:00:00 UTC+0100 2018" oppo="Waltham St Lawrence"/>
+                <BattingData runs="73" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 2 00:00:00 UTC+0100 2018" oppo="Earley"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 16 00:00:00 UTC+0100 2018" oppo="Stratfield Turgis_Hartley Wespall"/>
+                <BattingData runs="54" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 21 00:00:00 UTC+0100 2018" oppo="Peppard Stoke Row"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 18 00:00:00 UTC+0100 2018" oppo="Stratfield Turgis_Hartley Wespall"/>
+                <BattingData runs="57" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 25 00:00:00 UTC+0100 2018" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="54" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="14" fiveplus="0">
