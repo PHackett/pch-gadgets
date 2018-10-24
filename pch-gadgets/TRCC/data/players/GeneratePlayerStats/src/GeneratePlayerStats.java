@@ -45,14 +45,14 @@ import org.xml.sax.SAXException;
  */
 public class GeneratePlayerStats 
 {
-	public static final String	sRootURL = "http://rawgit.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/data/";
+	public static final String	sRootURL = "https://rawgit.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/data/";
 	
 	/**
 	 * These are the big two - The year for which you want to add the statistics to the 
 	 * player lifetime, and where the output files should be written
 	 */
-	private static int 			sYear    = 2012;
-	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime";
+	private static int 			sYear    = 2018;
+	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime2018";
 	
 	/**
 	 * @param args
@@ -63,9 +63,9 @@ public class GeneratePlayerStats
 		// Comment in which one you want - Plater stats XML or all-time csv
 		//
 		
-		// GenerateIndividualPlayerStats();
+		GenerateIndividualPlayerStats();
 		
-		GeneratePlayerStatsSpreatsheets();
+		// GeneratePlayerStatsSpreatsheets();
 		
 		System.out.println ("INFO: Processing complete");
 	}
@@ -555,6 +555,9 @@ public class GeneratePlayerStats
 		DocumentBuilderFactory	lDocBuilderFactory = DocumentBuilderFactory.newInstance();
 	    DocumentBuilder 		lDocBuilder = lDocBuilderFactory.newDocumentBuilder();
 		URL						lURL = new URL (sRootURL + aUrlFragment);
+		
+		// System.out.println ("DEBUG: Loading data from URL " + lURL);
+
 		InputStream				lStream = lURL.openStream();
 		
 	    Document 				lDoc = lDocBuilder.parse(lStream);
