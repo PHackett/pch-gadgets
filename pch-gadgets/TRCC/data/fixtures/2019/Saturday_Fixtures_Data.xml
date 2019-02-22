@@ -1,1 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sat, 21 Apr 2019 12:00:00 UTC</Date>
+  <Opposition>Holyport</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 28 Apr 2019 12:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 5 May 2019 12:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 12 May 2019 12:00:00 UTC</Date>
+  <Opposition>Woodley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Abandonned</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 19 May 2019 12:00:00 UTC</Date>
+  <Opposition>Peppard Stoke Row</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 26 May 2019 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 2 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Earley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 9 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>West Reading</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 16 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis Hartley Wespall</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 23 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>15:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 30 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 7 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Shinfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 14 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Woodley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 21 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Peppard Stoke Row</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 28 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Waltham St Lawrence</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 4 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Earley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 11 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>West Reading</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 18 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Stratfield Turgis Hartley Wespall</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 25 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 1 Sep 2019 12:00:00 UTC</Date>
+  <Opposition>Hawley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+</YearsFixtures>
