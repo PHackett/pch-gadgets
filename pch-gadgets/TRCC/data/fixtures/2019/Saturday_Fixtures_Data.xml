@@ -21,7 +21,7 @@
   <Opposition>Holyport</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -30,7 +30,7 @@
   <Opposition>Farley Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -39,7 +39,7 @@
   <Opposition>Shinfield</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -48,7 +48,7 @@
   <Opposition>Woodley</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Abandonned</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -57,7 +57,7 @@
   <Opposition>Peppard Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -66,7 +66,7 @@
   <Opposition>Waltham St Lawrence</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Draw</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -75,7 +75,7 @@
   <Opposition>Earley</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Draw</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -84,7 +84,7 @@
   <Opposition>West Reading</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -93,7 +93,7 @@
   <Opposition>Stratfield Turgis Hartley Wespall</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -102,7 +102,7 @@
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>15:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -111,7 +111,7 @@
   <Opposition>Hawley</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -120,7 +120,7 @@
   <Opposition>Shinfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -129,7 +129,7 @@
   <Opposition>Woodley</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -138,7 +138,7 @@
   <Opposition>Peppard Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -147,7 +147,7 @@
   <Opposition>Waltham St Lawrence</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -156,7 +156,7 @@
   <Opposition>Earley</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Draw</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -165,7 +165,7 @@
   <Opposition>West Reading</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Draw</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -174,7 +174,7 @@
   <Opposition>Stratfield Turgis Hartley Wespall</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -183,7 +183,7 @@
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -192,7 +192,7 @@
   <Opposition>Hawley</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
