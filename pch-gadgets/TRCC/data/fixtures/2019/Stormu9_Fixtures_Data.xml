@@ -17,39 +17,55 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Sun, 13 May 2018 12:00:00 UTC</Date>
-  <Opposition>Shinfield</Opposition>
+  <Date>Sun, 28 Apr 2019 12:00:00 UTC</Date>
+  <Opposition>Finch Falcons</Opposition>
   <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 20 May 2018 12:00:00 UTC</Date>
-  <Opposition>Peppard Stoke Row</Opposition>
-  <Time>10:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 3 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Wargrave</Opposition>
+  <Date>Sun, 12 May 2019 12:00:00 UTC</Date>
+  <Opposition>Royal Ascot</Opposition>
   <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 10 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Reading</Opposition>
+  <Date>Sun, 26 May 2019 12:00:00 UTC</Date>
+  <Opposition>Shinfield B</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 16 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Embrook and Bearwood</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 17 Jun 2018 12:00:00 UTC</Date>
+  <Date>Fri, 21 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 7 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Hurst</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 14 Jul 2019 12:00:00 UTC</Date>
   <Opposition>Sonning</Opposition>
   <Time>10:00</Time>
   <Venue>Home</Venue>
@@ -57,24 +73,16 @@
 </Fixture>
 
 <Fixture>
-  <Date>Fri, 29 Jun 2018 12:00:00 UTC</Date>
-  <Opposition>Henley Lions</Opposition>
-  <Time>18:00</Time>
+  <Date>Fri, 26 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 8 Jul 2018 12:00:00 UTC</Date>
-  <Opposition>Kidmore End</Opposition>
-  <Time>10:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 15 Jul 2018 12:00:00 UTC</Date>
-  <Opposition>Sonning B</Opposition>
+  <Date>Sun, 28 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Bracknell</Opposition>
   <Time>10:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
