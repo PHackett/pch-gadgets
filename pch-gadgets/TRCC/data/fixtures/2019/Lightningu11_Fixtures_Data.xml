@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sat, 12 May 2018 12:00:00 UTC</Date>
+  <Opposition>Henley Wildcats</Opposition>
+  <Time>09:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 25 May 2018 12:00:00 UTC</Date>
+  <Opposition>Twyford and Ruscombe Thunder</Opposition>
+  <Time>18:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Thu, 31 May 2018 12:00:00 UTC</Date>
+  <Opposition>Kidmore End</Opposition>
+  <Time>17:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 8 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 24 Jun 2018 12:00:00 UTC</Date>
+  <Opposition>Peppard Stoke Row Kites</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 6 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>Finchampstead Kestrels</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 15 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>Wargrave</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Fri, 20 Jul 2018 12:00:00 UTC</Date>
+  <Opposition>Henley Lynx</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+</YearsFixtures>
+
