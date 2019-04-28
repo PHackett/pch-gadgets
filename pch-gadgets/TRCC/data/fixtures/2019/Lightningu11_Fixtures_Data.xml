@@ -17,6 +17,14 @@
 <YearsFixtures>
 
 <Fixture>
+  <Date>Fri, 10 May 2019 12:00:00 UTC</Date>
+  <Opposition>TRCC Thunder Friendly</Opposition>
+  <Time>18:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
   <Date>Sat, 18 May 2019 12:00:00 UTC</Date>
   <Opposition>Henley Wildcats</Opposition>
   <Time>09:30</Time>
