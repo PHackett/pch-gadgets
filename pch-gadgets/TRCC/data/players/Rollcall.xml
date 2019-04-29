@@ -137,6 +137,7 @@
     <Player surname="Fort" firstname="Richard" firstseason="1996" lastseason="1996"/>
     <Player surname="Fort" firstname="Tom" firstseason="1997" catches="180" mostcatchesseason="13"/>
     <Player surname="Fox" firstname="Paul" firstseason="1995" lastseason="1996" catches="2" mostcatchesseason="2"/>
+    <Player surname="Fritz" firstname="Stan"/>
     <Player surname="Fulcher" firstname="G" firstseason="1979" lastseason="1986" catches="22" mostcatchesseason="5"/>
     <Player surname="Fuller" firstname="Luke"/>
     
@@ -193,6 +194,7 @@
     <Player surname="Henley" firstname="Emma"/>
     <Player surname="Henry" firstname="Jez" firstseason="1994" lastseason="1997" catches="26" mostcatchesseason="12"/>
     <Player surname="Henry" firstname="Mike"/>
+    <Player surname="Henry" firstname="Tom"/>
     <Player surname="Herbert" firstname="Chris"/>
     <Player surname="Hewitson" firstname="Mark"/>
     <Player surname="Hewitson" firstname="Mathew"/>
@@ -336,6 +338,7 @@
     <Player surname="Potier" firstname="Barry" firstseason="1991" lastseason="1997" catches="19" mostcatchesseason="5"/>
     <Player surname="Pottage" firstname="Mike"/>
     <Player surname="Poulter" firstname="A"/>
+    <Player surname="Powell" firstname="Tom"/>
     <Player surname="Power" firstname="D" firstseason="1980" lastseason="1980"/>
     <Player surname="Prasad" firstname="Alok"/>
     <Player surname="Pringle" firstname="Hamish"/>
