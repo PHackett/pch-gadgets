@@ -43,7 +43,7 @@
 <Fixture>
   <Date>Sun, 26 May 2019 12:00:00 UTC</Date>
   <Opposition>Sonning</Opposition>
-  <Time>17:00</Time>
+  <Time>10:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -51,7 +51,7 @@
 <Fixture>
   <Date>Sun, 2 Jun 2019 12:00:00 UTC</Date>
   <Opposition>Kidmore End</Opposition>
-  <Time>18:00</Time>
+  <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -67,7 +67,7 @@
 <Fixture>
   <Date>Sun, 23 Jun 2019 12:00:00 UTC</Date>
   <Opposition>Henley Lynx</Opposition>
-  <Time>18:00</Time>
+  <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -83,7 +83,7 @@
 <Fixture>
   <Date>Sun, 14 Jul 2019 12:00:00 UTC</Date>
   <Opposition>Pangbourne and Whitchurch</Opposition>
-  <Time>18:00</Time>
+  <Time>10:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
@@ -91,7 +91,7 @@
 <Fixture>
   <Date>Sun, 21 Jul 2019 12:00:00 UTC</Date>
   <Opposition>Finch Falcons</Opposition>
-  <Time>18:00</Time>
+  <Time>10:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
