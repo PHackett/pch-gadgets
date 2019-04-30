@@ -57,6 +57,14 @@
 </Fixture>
 
 <Fixture>
+  <Date>Sun, 9 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Pangbourne and Whitchurch</Opposition>
+  <Time>10:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
   <Date>Sun, 16 Jun 2019 12:00:00 UTC</Date>
   <Opposition>Purley</Opposition>
   <Time>10:00</Time>
@@ -77,14 +85,6 @@
   <Opposition>Peppard and Stoke Row Unicorns</Opposition>
   <Time>10:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 14 Jul 2019 12:00:00 UTC</Date>
-  <Opposition>Pangbourne and Whitchurch</Opposition>
-  <Time>10:00</Time>
-  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
