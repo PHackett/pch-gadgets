@@ -12,7 +12,7 @@
             </BowlingBest>
         </Bowling>
     
-        <Batting innings="14" runs="0" notouts="3" hundreds="0" fifties="0" ducks="11">
+        <Batting innings="7" runs="0" notouts="3" hundreds="0" fifties="0" ducks="11">
             <BattingBest>
                 <MatchId date="Sat Apr 28 00:00:00 UTC+0100 2018" oppo="Farley Hill"/>
                 <BattingData runs="0" notouts="1"/>
