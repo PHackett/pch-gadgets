@@ -22,7 +22,7 @@
       <Bowler name="O Kavenaugh"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="Simon Burr">
+    <Batsman name="Simon Burr" keeper="1">
       <HowOut how="Bowled"/>
       <Bowler name="O Kavenaugh"/>
       <Runs value="0"/>
