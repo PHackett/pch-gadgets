@@ -65,6 +65,14 @@
 </Fixture>
 
 <Fixture>
+  <Date>Sat, 15 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Pinkney's Green</Opposition>
+  <Time>09:30</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
   <Date>Sun, 16 Jun 2019 12:00:00 UTC</Date>
   <Opposition>Purley</Opposition>
   <Time>10:00</Time>
