@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 13 2019 16:07:24 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/may_12th_simmons.xml -->
+<CricketMatch oppo="Simmons" date="Sun May 12 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="LBW"/>
+      <Bowler name="Dawes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Turnbull"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Turnbull"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Marc Teal"/>
+    <Batsman name="Tim Hogarth"/>
+    <Batsman name="Jonathan Low"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="36"/>
+    <FallOfWicket batsman="2" score="32"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <BowlerSummary name="Turnbull" overs="6" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Dawes" overs="8" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Newman" overs="8" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="Kallow" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Taylor" overs="5" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Poball" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Inkley" overs="4" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+  <Innings batting="Simmons">
+    <Batsman name="Robinson">
+      <HowOut how="Caught Jonathan Low"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Turnbull">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Sadler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Newman">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Caught Tom Powell"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Iqbal">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dawes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kallow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Forbes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Inkley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="5.2" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="Jonathan Low" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="3" maidens="1" runs="13" wickets="2"/>
+  </Innings>
+</CricketMatch>
