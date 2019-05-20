@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 20 2019 14:52:05 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2019/may_19th_swyncombe.xml -->
+<CricketMatch oppo="Swyncombe" date="Sun May 19 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Swyncombe">
+    <Batsman name="R Wilson">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="C Domnick">
+      <HowOut how="Caught Tom Powell"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="T Crockett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="D Crockett">
+      <HowOut how="Caught Tom Powell"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Hope">
+      <HowOut how="Not Out"/>
+      <Runs value="75"/>
+    </Batsman>
+    <Batsman name="A Keebie">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="M Lewis"/>
+    <Batsman name="T Bayley"/>
+    <Batsman name="E Gray"/>
+    <Batsman name="P Day"/>
+    <Batsman name="P Collins"/>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="1" score="120"/>
+    <FallOfWicket batsman="3" score="136"/>
+    <FallOfWicket batsman="4" score="138"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="6" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="6" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Jonathan Low" overs="3" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Hope"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="P Collins"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="S Hope"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="S Hope"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="P Day"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Lewis"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught"/>
+      <Bowler name="P Day"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught"/>
+      <Bowler name="P Day"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Lewis"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="M Lewis"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="4" score="83"/>
+    <FallOfWicket batsman="1" score="87"/>
+    <FallOfWicket batsman="5" score="125"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <FallOfWicket batsman="7" score="152"/>
+    <FallOfWicket batsman="9" score="152"/>
+    <FallOfWicket batsman="11" score="158"/>
+    <BowlerSummary name="P Collins" overs="6" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="T Bayley" overs="8" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="S Hope" overs="5" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="E Gray" overs="5" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="P Day" overs="8" maidens="2" runs="22" wickets="3"/>
+    <BowlerSummary name="M Lewis" overs="6" maidens="2" runs="13" wickets="3"/>
+  </Innings>
+</CricketMatch>
