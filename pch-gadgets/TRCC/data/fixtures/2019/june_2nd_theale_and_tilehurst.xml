@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Fri Jun 07 2019 14:46:28 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2019/june_2nd_theale_and_tilehurst.xml -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun Jun 02 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="H Ali">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="J White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="S Abem">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="T White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="R Why">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="M Holder">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="A Nadeem">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="T Kasozimoscke">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="L Shepard">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Patel"/>
+    <Batsman name="B Cooper"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="9" maidens="0" runs="61" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="8" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="Mike Henry" overs="4" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Jonathan Low" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="47" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Peter Woodman">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="C Patel"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="A Nadeem"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mike Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Kasozimoscke"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="L Shepard"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Kasozimoscke"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="A Nadeem"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Kasozimoscke"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="21"/>
+    <FallOfWicket batsman="4" score="50"/>
+    <FallOfWicket batsman="5" score="56"/>
+    <FallOfWicket batsman="6" score="58"/>
+    <BowlerSummary name="B Cooper" overs="7" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="C Patel" overs="6" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="A Nadeem" overs="6" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="T Kasozimoscke" overs="6.4" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="L Shepard" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>
