@@ -38,7 +38,8 @@
   <Opposition>Farley Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -46,7 +47,8 @@
   <Opposition>Warfield</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Tie</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -54,7 +56,8 @@
   <Opposition>Sandhurst 1</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
