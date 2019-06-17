@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Jun 17 2019 21:36:22 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2019/june_1st_crowthorne_and_crown_wood.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood" date="Sat Jun 01 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857690">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="Caught Tom Nash"/>
+      <Bowler name="James Sussex"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="David Shaw"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Arif Basha">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Sussex"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught Andrew Baines"/>
+      <Bowler name="David Shaw"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nirav Upadhyay"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Partridge"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught Peter Clarke"/>
+      <Bowler name="Dan Partridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Andrew Baines"/>
+      <Bowler name="Nirav Upadhyay"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="LBW"/>
+      <Bowler name="Dan Finucane"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Sussex"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="" score="17"/>
+    <FallOfWicket batsman="" score="21"/>
+    <FallOfWicket batsman="" score="21"/>
+    <FallOfWicket batsman="" score="32"/>
+    <FallOfWicket batsman="" score="75"/>
+    <FallOfWicket batsman="" score="75"/>
+    <FallOfWicket batsman="" score="77"/>
+    <FallOfWicket batsman="" score="86"/>
+    <FallOfWicket batsman="" score="121"/>
+    <FallOfWicket batsman="" score="146"/>
+    <BowlerSummary name="James Sussex" overs="6.1" maidens="1" runs="21" wickets="3"/>
+    <BowlerSummary name="Dan Finucane" overs="8.0" maidens="2" runs="37" wickets="2"/>
+    <BowlerSummary name="Dan Partridge" overs="8.0" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Nirav Upadhyay" overs="8.0" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Peter Clarke" overs="3.0" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Crowthorne and Crown Wood">
+    <Batsman name="David McQuitty">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Nash">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andrew Baines">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Simon Sheppard">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Fitzroy Morrissey" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="David Shaw">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Peter Clarke">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dan Finucane" captain="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Partridge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nirav Upadhyay">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Sussex">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Shiva Nagam" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Rajendra Babu" overs="7.1" maidens="0" runs="17" wickets="3"/>
+    <BowlerSummary name="Razavullah Shaik" overs="7" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>

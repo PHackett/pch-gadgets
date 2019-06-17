@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Jun 17 2019 21:34:30 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/may_25th_waltham_st_lawrence.xml-->
+<CricketMatch oppo="Waltham St Lawrence" date="Sat May 25 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857736">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Waltham St Lawrence">
+    <Batsman name="David Field">
+      <HowOut how="Run Out Razavullah Shaik"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ejaz Gujjar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Wasim Javed">
+      <HowOut how="Caught Rajendra Babu"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zaheer Gujjar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andy Malliff" keeper="1">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Waghorn" captain="1">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris England">
+      <HowOut how="Stumped Mark Higgins"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chris Apps">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="George Zadrozny">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Gale">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Siva Kumar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Shiva Nagam" overs="4" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Rajendra Babu" overs="8" maidens="0" runs="26" wickets="4"/>
+    <BowlerSummary name="Razavullah Shaik" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Robin Thompson" overs="3" maidens="2" runs="1" wickets="2"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="3" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="2.1" maidens="0" runs="7" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Chris Waghorn"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam" captain="1">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Arif Basha">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Siva Kumar" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Andy Malliff" overs="4" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Wasim Javed" overs="5" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Chris Waghorn" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Zaheer Gujjar" overs="4" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Unsure" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>

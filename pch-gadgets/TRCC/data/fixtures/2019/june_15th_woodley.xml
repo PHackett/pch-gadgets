@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Jun 17 2019 21:41:24 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/june_15th_woodley.xml-->
+<CricketMatch oppo="Woodley" date="Sat Jun 15 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857772">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodley">
+    <Batsman name="Upendra Deshpande" captain="1">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Prasad Kulkarni">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Pavan Nargund" keeper="1">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tajdar Jawaid">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pradeep Kadloor">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Swapnil Bagwe">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Rohit Ranjan">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Amol Lotke">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sushanth Agarwal">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Harshavardhana Shastry">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Sachin Raina">
+      <HowOut how="Caught Arif Basha"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Rajendra Babu" overs="8" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="9" maidens="4" runs="16" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="6" maidens="0" runs="28" wickets="3"/>
+    <BowlerSummary name="Kiran Juluri" overs="7.2" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="7" maidens="1" runs="36" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Swapnil Bagwe"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Pradeep Kadloor"/>
+      <Bowler name="Sushanth Agarwal"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Amol Lotke"/>
+      <Bowler name="Sachin Raina"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Rohit Ranjan"/>
+      <Bowler name="Upendra Deshpande"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Arif Basha">
+      <HowOut how="Run Out Swapnil Bagwe"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Sachin Raina" overs="9" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Sushanth Agarwal" overs="9" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Harshavardhana Shastry" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Amol Lotke" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Upendra Deshpande" overs="6.1" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Swapnil Bagwe" overs="9" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Tajdar Jawaid" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Pradeep Kadloor" overs="1" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
