@@ -66,22 +66,25 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 1 Jun 2019 12:00:00 UTC</Date>
-  <Opposition>Crowthorne and Crown Wood 2</Opposition>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 15 Jun 2019 12:00:00 UTC</Date>
-  <Opposition>Woodley 2</Opposition>
+  <Opposition>Woodley</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
