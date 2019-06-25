@@ -100,7 +100,8 @@
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -121,7 +122,7 @@
 
 <Fixture>
   <Date>Sun, 14 Jul 2019 12:00:00 UTC</Date>
-  <Opposition>TBC</Opposition>
+  <Opposition>Cricket World Cup final - No Game</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
