@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 01 2019 10:18:54 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/june_30th_ibstone.xml -->
+<CricketMatch oppo="Ibstone" date="Sun Jun 30 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ibstone">
+    <Batsman name="M Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="L Hester">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="A Franklin">
+      <HowOut how="Caught Jonathan Low"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Paskin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="O Hearnden">
+      <HowOut how="Caught Tim Hogarth"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="T Hester">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="C Dunbar">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Grace">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="B Ball">
+      <HowOut how="LBW"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="A Saunders">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nickhill">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Razavullah Shaik" overs="7" maidens="2" runs="39" wickets="1"/>
+    <BowlerSummary name="Mike Henry" overs="7" maidens="1" runs="31" wickets="5"/>
+    <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Ashish Darekar" overs="2" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Jonathan Low" overs="2" maidens="1" runs="3" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Grace"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Caught"/>
+      <Bowler name="C Dunbar"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Ball"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Franklin"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="L Hester"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="L Hester"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Mike Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Paskin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Paskin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="33"/>
+    <BowlerSummary name="C Dunbar" overs="7" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="J Grace" overs="4" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="B Ball" overs="3" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="O Hearnden" overs="3" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="A Franklin" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="L Hester" overs="7" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="J Paskin" overs="4" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Nickhill" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>

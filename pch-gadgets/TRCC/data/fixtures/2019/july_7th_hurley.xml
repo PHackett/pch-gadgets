@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 09 2019 15:23:11 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/july_7th_hurley.xml -->
+<CricketMatch oppo="Hurley" date="Sun Jul 07 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Hurley">
+    <Batsman name="G Keyani">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="R Dad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="J Badh">
+      <HowOut how="Caught Jonathan Low"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="M Snead">
+      <HowOut how="LBW"/>
+      <Bowler name="Jonathan Low"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="A Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="A Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Basharat">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="S Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Walton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="5" runs="6" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="6" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="Mike Henry" overs="8" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="59" wickets="2"/>
+    <BowlerSummary name="Jonathan Low" overs="7" maidens="1" runs="30" wickets="3"/>
+    <BowlerSummary name="Max Hitchen" overs="3" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Singh"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dad"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Dad"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Max Hitchen"/>
+    <Batsman name="Jonathan Low"/>
+    <Batsman name="Andrew Miller"/>
+    <Batsman name="Mike Henry"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <FallOfWicket batsman="4" score="92"/>
+    <BowlerSummary name="M Basharat" overs="5" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="J Singh" overs="5" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="D Walton" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="R Dad" overs="7" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="A Ali" overs="6" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="S Khan" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="M Snead" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="M Singh" overs="1.1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>
