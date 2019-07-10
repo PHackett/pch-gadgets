@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Jul 10 2019 23:18:49 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/june_29th_peppard_stoke_row.xml-->
+<CricketMatch oppo="Peppard Stoke Row" date="Sat Jun 29 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857733">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Peppard Stoke Row">
+    <Batsman name="Hugh Asquith">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Josh Perkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Gerry Bacon" keeper="1">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Richard Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Peter Lamsdale">
+      <HowOut how="Run Out Kiran Siddineni"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Matt Vines">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Connor Lamsdale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Christian Williams">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roy Hayden">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rob Dyer" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Razavullah Shaik" overs="6" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="9" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="9" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="1" runs="18" wickets="2"/>
+    <BowlerSummary name="Dylan Burr" overs="2" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" keeper="1">
+      <HowOut how="Caught Roy Hayden"/>
+      <Bowler name="Roy Hayden"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="Ian Jackson"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik" captain="1">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Dave Shaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Josh Perkins"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Stumped Gerry Bacon"/>
+      <Bowler name="Peter Lamsdale"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Stumped Gerry Bacon"/>
+      <Bowler name="Peter Lamsdale"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="Christian Williams" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Rob Dyer" overs="5" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Roy Hayden" overs="9" maidens="2" runs="27" wickets="1"/>
+    <BowlerSummary name="Ian Jackson" overs="5" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Connor Lamsdale" overs="7" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Peter Lamsdale" overs="5" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Josh Perkins" overs="4.2" maidens="0" runs="28" wickets="1"/>
+  </Innings>
+</CricketMatch>

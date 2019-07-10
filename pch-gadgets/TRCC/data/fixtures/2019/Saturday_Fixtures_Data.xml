@@ -92,15 +92,15 @@
   <Opposition>Shinfield 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 29 Jun 2019 12:00:00 UTC</Date>
-  <Opposition>Perrard Stoke Row 2</Opposition>
+  <Opposition>Peppard Stoke Row 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
@@ -108,7 +108,7 @@
   <Opposition>Farley Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
@@ -129,7 +129,7 @@
 
 <Fixture>
   <Date>Sat, 27 Jul 2019 12:00:00 UTC</Date>
-  <Opposition>Waltmam St Lawrence</Opposition>
+  <Opposition>Waltham St Lawrence</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>

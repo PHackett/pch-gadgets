@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Jul 10 2019 23:19:31 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/july_6th_farley_hill.xml-->
+<CricketMatch oppo="Farley Hill" date="Sat Jul 06 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857699">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="Akeesh Khokhar">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Michael Sheridan" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Oli Sankey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Simon Longfield" keeper="1">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Duncan Greeff">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Prakash Krishnamurthy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="William Nash-Wortham">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Craig Jorey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Lawrence Heaton-Wright">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="4" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Razavullah Shaik" overs="9" maidens="1" runs="39" wickets="4"/>
+    <BowlerSummary name="Robin Thompson" overs="9" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="9" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Stan Fritz" overs="5" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="Caught Oli Sankey"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="LBW"/>
+      <Bowler name="Craig Jorey"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Michael Sheridan"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Michael Sheridan"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Caught Bilal Hussain"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prakash Krishnamurthy"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Michael Sheridan"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <BowlerSummary name="Craig Jorey" overs="9" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Duncan Greeff" overs="6.2" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Lawrence Heaton-Wright" overs="9" maidens="0" runs="51" wickets="4"/>
+    <BowlerSummary name="Prakash Krishnamurthy" overs="9" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Michael Sheridan" overs="4" maidens="1" runs="32" wickets="1"/>
+  </Innings>
+</CricketMatch>
