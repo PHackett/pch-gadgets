@@ -89,18 +89,20 @@
 
 <Fixture>
   <Date>Sat, 22 Jun 2019 12:00:00 UTC</Date>
-  <Opposition>Shinfield 2</Opposition>
+  <Opposition>Shinfield</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 29 Jun 2019 12:00:00 UTC</Date>
-  <Opposition>Peppard Stoke Row 2</Opposition>
+  <Opposition>Peppard Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -109,6 +111,7 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
