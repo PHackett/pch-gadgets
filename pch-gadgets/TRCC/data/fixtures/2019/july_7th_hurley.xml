@@ -28,7 +28,7 @@
       <Runs value="58"/>
     </Batsman>
     <Batsman name="M Snead">
-      <HowOut how="LBW"/>
+      <HowOut how="Stumped"/>
       <Bowler name="Jonathan Low"/>
       <Runs value="9"/>
     </Batsman>
