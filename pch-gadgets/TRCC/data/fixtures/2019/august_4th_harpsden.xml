@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 05 2019 09:32:24 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2019/august_4th_harpsden.xml -->
+<CricketMatch oppo="Harpsden" date="Sun Aug 04 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Harpsden">
+    <Batsman name="Burgess">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="G Chand">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Max Hitchings"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="B Hogan-Keogh">
+      <HowOut how="Retired"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="S Franklin">
+      <HowOut how="Caught Tom Powell"/>
+      <Bowler name="Max Hitchings"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="R Ashcroft">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Aston">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="J Stanley">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Odell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="M Stanley">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Morgan">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Gulfraz"/>
+    <Extras value="25"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="7" maidens="0" runs="62" wickets="1"/>
+    <BowlerSummary name="Jonathan Low" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Razavullah Shaik" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Max Hitchings" overs="5" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="35" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="S Gulfraz"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Caught"/>
+      <Bowler name="M Stanley"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Stanley"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Franklin"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Burgess"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Burgess"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught"/>
+      <Bowler name="S Gulfraz"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Gulfraz"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Burgess"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Gulfraz"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="48"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <FallOfWicket batsman="6" score="65"/>
+    <FallOfWicket batsman="5" score="74"/>
+    <FallOfWicket batsman="8" score="114"/>
+    <FallOfWicket batsman="1" score="132"/>
+    <FallOfWicket batsman="7" score="132"/>
+    <FallOfWicket batsman="10" score="136"/>
+    <BowlerSummary name="A Morgan" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="M Stanley" overs="7" maidens="1" runs="45" wickets="2"/>
+    <BowlerSummary name="S Franklin" overs="3" maidens="2" runs="1" wickets="1"/>
+    <BowlerSummary name="Burgess" overs="6.4" maidens="2" runs="24" wickets="3"/>
+    <BowlerSummary name="S Gulfraz" overs="7" maidens="0" runs="48" wickets="4"/>
+  </Innings>
+</CricketMatch>
