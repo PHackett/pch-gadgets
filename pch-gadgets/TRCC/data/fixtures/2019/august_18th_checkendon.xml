@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 19 2019 09:53:23 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/august_18th_checkendon.xml -->
+<CricketMatch oppo="Checkendon" date="Sun Aug 18 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="Caught"/>
+      <Bowler name="Venkat"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wickens"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Podalski"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Stumped"/>
+      <Bowler name="Wickens"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Wickens"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="Venkat"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Henry">
+      <HowOut how="Caught"/>
+      <Bowler name="Wickens"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Henry"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="77"/>
+    <FallOfWicket batsman="3" score="84"/>
+    <FallOfWicket batsman="4" score="148"/>
+    <FallOfWicket batsman="1" score="183"/>
+    <FallOfWicket batsman="5" score="185"/>
+    <FallOfWicket batsman="6" score="186"/>
+    <FallOfWicket batsman="8" score="193"/>
+    <BowlerSummary name="J Warren" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Arrowsmith" overs="6" maidens="0" runs="41" wickets="0"/>
+    <BowlerSummary name="Podalski" overs="7" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Wickens" overs="10" maidens="0" runs="43" wickets="4"/>
+    <BowlerSummary name="Sudhir" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Venkat" overs="3" maidens="1" runs="6" wickets="2"/>
+  </Innings>
+  <Innings batting="Checkendon">
+    <Batsman name="J Warren">
+      <HowOut how="LBW"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Podalski">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Weslop">
+      <HowOut how="Caught Mike Henry"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Kashety">
+      <HowOut how="Caught Mike Henry"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Papmanran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Arrowsmith">
+      <HowOut how="Run Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Reddy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Wickens">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Wickens">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Stan Fritz" overs="10" maidens="1" runs="49" wickets="2"/>
+    <BowlerSummary name="Mike Henry" overs="10" maidens="1" runs="36" wickets="2"/>
+    <BowlerSummary name="Razavullah Shaik" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="2" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="3" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Tom Henry" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>
