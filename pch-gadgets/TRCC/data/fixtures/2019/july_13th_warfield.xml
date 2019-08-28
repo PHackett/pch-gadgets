@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Aug 28 2019 21:47:14 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/july_13th_warfield.xml-->
+<CricketMatch oppo="Warfield" date="Sat Jul 13 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857754">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield">
+    <Batsman name="Dan Torry" keeper="1">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Graham Morris">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="George Laing">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Sham Gulam">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Riyas Pathani">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Takunda Pswarayi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jake Perkins">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Owen Stanford">
+      <HowOut how="LBW"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andy Douglas" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Mark Tisshaw">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Steve Ruddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="6" score="61"/>
+    <FallOfWicket batsman="7" score="63"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="9" score="97"/>
+    <FallOfWicket batsman="10" score="117"/>
+    <FallOfWicket batsman="11" score="117"/>
+    <BowlerSummary name="Razavullah Shaik" overs="3" maidens="2" runs="5" wickets="0"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="5" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="9" maidens="4" runs="17" wickets="7"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Stan Fritz" overs="1.4" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Fritz">
+      <HowOut how="LBW"/>
+      <Bowler name="Takunda Pswarayi"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Patrick Stewart">
+      <HowOut how="Caught Graham Morris"/>
+      <Bowler name="Mark Tisshaw"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robin Thompson">
+      <HowOut how="Caught Dan Torry"/>
+      <Bowler name="Jake Perkins"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Tisshaw"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik" captain="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="4" score="41"/>
+    <FallOfWicket batsman="3" score="114"/>
+    <BowlerSummary name="Takunda Pswarayi" overs="8" maidens="2" runs="31" wickets="1"/>
+    <BowlerSummary name="Mark Tisshaw" overs="7" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Steve Ruddle" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Andy Douglas" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Jake Perkins" overs="2" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="Riyas Pathani" overs="1.1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>

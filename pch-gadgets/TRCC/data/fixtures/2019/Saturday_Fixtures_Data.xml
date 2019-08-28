@@ -6,11 +6,11 @@
         "Win" / "Won"
         "Lose" / "Lost"
         "Draw"
-        ""Tie"
+        "Tie"
         "Rain"
         "Abandonned"
         "NP"
-		"NotYetPlayed"
+		    "NotYetPlayed"
         "Cancelled"
 -->
 
@@ -119,7 +119,7 @@
   <Opposition>Warfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
@@ -127,7 +127,7 @@
   <Opposition>Sandhurst 1</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Rain</Result>
 </Fixture>
 
 <Fixture>
@@ -135,7 +135,7 @@
   <Opposition>Waltham St Lawrence</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>
@@ -143,7 +143,7 @@
   <Opposition>Crowthorne and Crown Wood 2</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
@@ -151,7 +151,7 @@
   <Opposition>West Reading 2</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Win</Result>
 </Fixture>
 
 <Fixture>
@@ -159,7 +159,7 @@
   <Opposition>Shinfield 2</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Result>Lose</Result>
 </Fixture>
 
 <Fixture>

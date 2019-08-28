@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Aug 28 2019 22:03:03 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2019/august_24th_shinfield.xml-->
+<CricketMatch oppo="Shinfield" date="Sat Aug 24 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857726">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Shinfield">
+    <Batsman name="Bhuwan Satway">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Alluri" captain="1">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ramki Kurapati">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Anil Rebello">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Runs value="119"/>
+    </Batsman>
+    <Batsman name="Milind Pathak">
+      <HowOut how="LBW"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Santosh Kundar">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sameer N" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Om Prakash">
+      <HowOut how="Bowled"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Shashi Reddy">
+      <HowOut how="Bowled"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Saket Koti">
+      <HowOut how="Bowled"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Vivek Bommidi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="3" score="4"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="5" score="39"/>
+    <FallOfWicket batsman="6" score="46"/>
+    <FallOfWicket batsman="7" score="71"/>
+    <FallOfWicket batsman="4" score="187"/>
+    <FallOfWicket batsman="9" score="204"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="1" runs="32" wickets="3"/>
+    <BowlerSummary name="Razavullah Shaik" overs="6" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="5" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Richard James Powell" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="Caught Bhuwan Satway"/>
+      <Bowler name="Santosh Kundar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Shashi Reddy"/>
+      <Bowler name="Ramki Kurapati"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Caught Sameer N"/>
+      <Bowler name="Ramki Kurapati"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught Saket Koti"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Richard James Powell">
+      <HowOut how="Caught Kiran Alluri"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Alluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1">
+      <HowOut how="Caught Om Prakash"/>
+      <Bowler name="Santosh Kundar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="2" score="85"/>
+    <FallOfWicket batsman="3" score="110"/>
+    <FallOfWicket batsman="4" score="120"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <FallOfWicket batsman="8" score="134"/>
+    <FallOfWicket batsman="7" score="141"/>
+    <FallOfWicket batsman="10" score="141"/>
+    <FallOfWicket batsman="11" score="145"/>
+    <BowlerSummary name="Saket Koti" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Santosh Kundar" overs="4" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Om Prakash" overs="4" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Kiran Alluri" overs="8" maidens="3" runs="20" wickets="6"/>
+    <BowlerSummary name="Vivek Bommidi" overs="8" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Ramki Kurapati" overs="4" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Milind Pathak" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Aug 28 2019 22:02:02 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/august_10th_west_reading.xml-->
+<CricketMatch oppo="West Reading" date="Sat Aug 10 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857763">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="LBW"/>
+      <Bowler name="Mazhar Farooq"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="Haider Zaman"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Waleed Choudhry"/>
+      <Bowler name="Haris Khan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Haider Zaman"/>
+      <Bowler name="Mazhar Farooq"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mazhar Farooq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Mazhar Farooq"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saqib Gulfraz"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Adeel Rafique"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Patrick Stewart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Haider Zaman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Waleed Choudhry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="1" score="75"/>
+    <FallOfWicket batsman="4" score="75"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="7" score="138"/>
+    <FallOfWicket batsman="9" score="153"/>
+    <FallOfWicket batsman="8" score="177"/>
+    <FallOfWicket batsman="11" score="190"/>
+    <BowlerSummary name="Adeel Rafique" overs="8" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Waleed Choudhry" overs="5.3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Saqib Gulfraz" overs="8" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Haider Zaman" overs="8" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Mazhar Farooq" overs="6" maidens="0" runs="31" wickets="4"/>
+    <BowlerSummary name="Haris Khan" overs="4" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="West Reading">
+    <Batsman name="Adnan Raja">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Emad Khan">
+      <HowOut how="Caught Tom Powell"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Muhammad Umar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Haider Zaman">
+      <HowOut how="Caught Patrick Stewart"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Saqib Gulfraz">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Mazhar Farooq">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mehdi Harees" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Imran Razaq" captain="1">
+      <HowOut how="Caught Patrick Stewart"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Adeel Rafique">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Waleed Choudhry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Haris Khan">
+      <HowOut how="Bowled"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="6" score="63"/>
+    <FallOfWicket batsman="7" score="63"/>
+    <FallOfWicket batsman="5" score="116"/>
+    <FallOfWicket batsman="8" score="126"/>
+    <FallOfWicket batsman="9" score="158"/>
+    <FallOfWicket batsman="10" score="169"/>
+    <BowlerSummary name="Rajendra Babu" overs="7" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="Razavullah Shaik" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Robin Thompson" overs="8" maidens="2" runs="40" wickets="3"/>
+    <BowlerSummary name="Andrew Miller" overs="7" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="4.1" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>

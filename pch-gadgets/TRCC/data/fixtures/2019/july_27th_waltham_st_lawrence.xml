@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Aug 28 2019 21:58:46 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2019/july_27th_waltham_st_lawrence.xml-->
+<CricketMatch oppo="Waltham St Lawrence" date="Sat Jul 27 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857745">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Waltham St Lawrence">
+    <Batsman name="Chris Sharpe" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sree Venkata" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vignesh Venkatesh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Harikrishnan Balakrishnan">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Wasim Javed">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Zaheer Gujjar">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Andrew Hartland">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Siva Kumar">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Pramod Chandane">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Razavullah Shaik"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George Zadrozny">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Gale">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="9" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Razavullah Shaik" overs="8" maidens="0" runs="38" wickets="4"/>
+    <BowlerSummary name="Andrew Miller" overs="6" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="9" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Stephen Walkland" overs="7" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="James Lythgoe" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zaheer Gujjar"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Adam Henley" keeper="1">
+      <HowOut how="Caught Chris Sharpe"/>
+      <Bowler name="Harikrishnan Balakrishnan"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Sree Venkata"/>
+      <Bowler name="Harikrishnan Balakrishnan"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught Vignesh Venkatesh"/>
+      <Bowler name="George Zadrozny"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Lythgoe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harikrishnan Balakrishnan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik" captain="1">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zaheer Gujjar"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Wasim Javed"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Siva Kumar"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Gopi Perumal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Siva Kumar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stephen Walkland">
+      <HowOut how="Bowled"/>
+      <Bowler name="Siva Kumar"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Harikrishnan Balakrishnan" overs="9" maidens="0" runs="16" wickets="3"/>
+    <BowlerSummary name="Wasim Javed" overs="8.2" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="George Zadrozny" overs="7" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Zaheer Gujjar" overs="9" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Siva Kumar" overs="7" maidens="0" runs="34" wickets="3"/>
+  </Innings>
+</CricketMatch>
