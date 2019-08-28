@@ -67,7 +67,7 @@
     <BowlerSummary name="Mike Henry" overs="8" maidens="0" runs="47" wickets="1"/>
     <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="59" wickets="2"/>
     <BowlerSummary name="Jonathan Low" overs="7" maidens="1" runs="30" wickets="3"/>
-    <BowlerSummary name="Max Hitchen" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Max Hitchings" overs="3" maidens="0" runs="13" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Pete Schofield">
@@ -94,7 +94,7 @@
       <Runs value="38"/>
     </Batsman>
     <Batsman name="Nic Downes"/>
-    <Batsman name="Max Hitchen"/>
+    <Batsman name="Max Hitchings"/>
     <Batsman name="Jonathan Low"/>
     <Batsman name="Andrew Miller"/>
     <Batsman name="Mike Henry"/>

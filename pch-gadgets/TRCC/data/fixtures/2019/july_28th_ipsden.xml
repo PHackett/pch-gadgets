@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 29 2019 16:47:32 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2019/july_28th_ipsden.xml -->
+<CricketMatch oppo="Ipsden" date="Sun Jul 28 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught"/>
+      <Bowler name="M Hughesden"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Fanstone"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="M Hughesden"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hughesden"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Strange"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Caught"/>
+      <Bowler name="M Houseman"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Strange"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="M Houseman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="5" score="55"/>
+    <FallOfWicket batsman="7" score="97"/>
+    <FallOfWicket batsman="8" score="122"/>
+    <FallOfWicket batsman="6" score="152"/>
+    <FallOfWicket batsman="10" score="162"/>
+    <BowlerSummary name="M Hughesden" overs="7" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="J Fanstone" overs="7" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="C Strange" overs="7" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="J Hunt" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="M Houseman" overs="7" maidens="1" runs="24" wickets="2"/>
+    <BowlerSummary name="Pratik" overs="3" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Ipsden">
+    <Batsman name="C Cox">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="M Andrews">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="T Church">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="C Rudling">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="4" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Razavullah Shaik" overs="3" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Max Hitchings" overs="3" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
