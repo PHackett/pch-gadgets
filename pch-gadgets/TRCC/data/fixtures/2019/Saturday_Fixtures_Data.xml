@@ -151,7 +151,7 @@
 
 <Fixture>
   <Date>Sat, 10 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>West Reading 2</Opposition>
+  <Opposition>West Reading</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Win</Result>
@@ -160,7 +160,7 @@
 
 <Fixture>
   <Date>Sat, 24 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>Shinfield 2</Opposition>
+  <Opposition>Shinfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
