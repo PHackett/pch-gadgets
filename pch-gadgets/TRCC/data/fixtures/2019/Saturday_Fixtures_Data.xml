@@ -120,6 +120,7 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -136,6 +137,7 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -144,6 +146,7 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -152,6 +155,7 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -160,6 +164,7 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
