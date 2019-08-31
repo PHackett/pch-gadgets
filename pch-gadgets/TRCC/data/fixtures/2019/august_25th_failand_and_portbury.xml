@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Aug 31 2019 13:39:08 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/august_25th_failand_and_portbury.xml -->
+<CricketMatch oppo="Failand and Portbury" date="Sun Aug 25 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andrew Miller">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Asquith"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Retired"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="LBW"/>
+      <Bowler name="Phipan"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Billings"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Asquith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Asquith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Billings"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="2" score="73"/>
+    <FallOfWicket batsman="4" score="107"/>
+    <FallOfWicket batsman="6" score="131"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <BowlerSummary name="Bachelor" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Dunghy" overs="7" maidens="1" runs="38" wickets="0"/>
+    <BowlerSummary name="Phipan" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Asquith" overs="7" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="Reisey" overs="3" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Billings" overs="3" maidens="0" runs="5" wickets="2"/>
+  </Innings>
+  <Innings batting="Failand and Portbury">
+    <Batsman name="J Marson">
+      <HowOut how="LBW"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="M Hunt">
+      <HowOut how="Caught "/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="B Sheppard">
+      <HowOut how="LBW"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="T Billings">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="J Skinner">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Pursey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Fprt">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="M Asquith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="S Bachelor">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Phipan">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="4" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Andrew Miller" overs="4" maidens="2" runs="5" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
