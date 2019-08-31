@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Aug 31 2019 13:51:28 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/august_26th_patchway.xml -->
+<CricketMatch oppo="Patchway" date="Mon Aug 26 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Patchway">
+    <Batsman name="A Millburn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="C Cullum">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Joyner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="C Teill">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="A Gibly">
+      <HowOut how="Caught Dylan Burr"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="H Maggs">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="E Maggs">
+      <HowOut how="Caught Dylan Burr"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="S Turner">
+      <HowOut how="Caught Matt Berry"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="M Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="D West">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="I Ahmed"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="2" runs="34" wickets="1"/>
+    <BowlerSummary name="Matt Berry" overs="4" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Dylan Burr" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="Jonathan Low" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="8" maidens="0" runs="25" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andrew Miller">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Maggs"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Gibly"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Gibly"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="D West"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Millburn"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Caught"/>
+      <Bowler name="A Millburn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="5" score="82"/>
+    <FallOfWicket batsman="4" score="84"/>
+    <FallOfWicket batsman="6" score="94"/>
+    <FallOfWicket batsman="8" score="117"/>
+    <BowlerSummary name="E Maggs" overs="8" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="H Maggs" overs="4" maidens="3" runs="6" wickets="1"/>
+    <BowlerSummary name="A Gibly" overs="8" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="D West" overs="6" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="A Millburn" overs="8" maidens="2" runs="38" wickets="2"/>
+    <BowlerSummary name="S Turner" overs="6" maidens="0" runs="34" wickets="0"/>
+  </Innings>
+</CricketMatch>
