@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Sep 01 2019 20:16:15 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2019/september_1st_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sun Sep 01 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rice"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rice"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Bolam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Bolam"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Rice"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Tom Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rice"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Douglas"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Bowled"/>
+      <Bowler name="Douglas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Douglas"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="Madev"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="4"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="4" score="25"/>
+    <FallOfWicket batsman="7" score="34"/>
+    <FallOfWicket batsman="8" score="47"/>
+    <BowlerSummary name="Rice" overs="9" maidens="2" runs="28" wickets="4"/>
+    <BowlerSummary name="Bolam" overs="8" maidens="2" runs="18" wickets="2"/>
+    <BowlerSummary name="Douglas" overs="2" maidens="0" runs="1" wickets="3"/>
+    <BowlerSummary name="Madev" overs="3.3" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Johnson" overs="2" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="Laing">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="O Stanford">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Madev">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Atkins">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Andrew Miller" overs="1" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="6" maidens="3" runs="18" wickets="0"/>
+    <BowlerSummary name="Stan Fritz" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Mike Henry" overs="5" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Tom Henry" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
