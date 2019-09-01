@@ -64,7 +64,7 @@
     <BowlerSummary name="Andrew Miller" overs="6" maidens="0" runs="45" wickets="1"/>
     <BowlerSummary name="Robin Thompson" overs="9" maidens="0" runs="25" wickets="1"/>
     <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="0" runs="25" wickets="0"/>
-    <BowlerSummary name="Stephen Walkland" overs="7" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="0" runs="24" wickets="1"/>
     <BowlerSummary name="James Lythgoe" overs="1" maidens="0" runs="6" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
@@ -113,7 +113,7 @@
       <Bowler name="Siva Kumar"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Stephen Walkland">
+    <Batsman name="Steve Walkland">
       <HowOut how="Bowled"/>
       <Bowler name="Siva Kumar"/>
       <Runs value="11"/>
