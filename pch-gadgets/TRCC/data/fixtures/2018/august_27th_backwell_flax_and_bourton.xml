@@ -66,6 +66,7 @@
   <Innings batting="Backwell Flax and Bourton">
     <Batsman name="Flowers">
       <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
       <Runs value="32"/>
     </Batsman>
     <Batsman name="Wilmott">
