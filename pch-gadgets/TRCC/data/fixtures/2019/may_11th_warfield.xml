@@ -25,7 +25,7 @@
       <Bowler name="Takunda Pswarayi"/>
       <Runs value="27"/>
     </Batsman>
-    <Batsman name="Stephen Walkland">
+    <Batsman name="Steve Walkland">
       <HowOut how="Caught Mark Tisshaw"/>
       <Bowler name="Graham Morris"/>
       <Runs value="0"/>
@@ -67,7 +67,7 @@
   </Innings>
   <Innings batting="Warfield">
     <Batsman name="Sam Laing">
-      <HowOut how="Caught Stephen Walkland"/>
+      <HowOut how="Caught Steve Walkland"/>
       <Bowler name="Chandra Cherukuri"/>
       <Runs value="77"/>
     </Batsman>
@@ -88,7 +88,7 @@
     </Batsman>
     <Batsman name="Vatsa Kalli">
       <HowOut how="Caught Chandra Cherukuri"/>
-      <Bowler name="Stephen Walkland"/>
+      <Bowler name="Steve Walkland"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Tyrone Ferreira">
@@ -125,7 +125,7 @@
     <BowlerSummary name="Robin Thompson" overs="8" maidens="0" runs="19" wickets="1"/>
     <BowlerSummary name="Razavullah Shaik" overs="6" maidens="0" runs="24" wickets="1"/>
     <BowlerSummary name="Andrew Miller" overs="2" maidens="0" runs="13" wickets="0"/>
-    <BowlerSummary name="Stephen Walkland" overs="3" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="3" maidens="0" runs="16" wickets="1"/>
     <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="0" runs="23" wickets="4"/>
   </Innings>
 </CricketMatch>
