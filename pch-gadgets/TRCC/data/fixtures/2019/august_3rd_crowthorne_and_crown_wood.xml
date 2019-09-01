@@ -17,7 +17,7 @@
     </Batsman>
     <Batsman name="Ganes Pun">
       <HowOut how="Bowled"/>
-      <Bowler name="Stephen Walkland"/>
+      <Bowler name="Steve Walkland"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Dan Manning" keeper="1">
@@ -72,7 +72,7 @@
     <FallOfWicket batsman="11" score="114"/>
     <BowlerSummary name="Razavullah Shaik" overs="7" maidens="2" runs="9" wickets="1"/>
     <BowlerSummary name="Rajendra Babu" overs="5.5" maidens="1" runs="9" wickets="2"/>
-    <BowlerSummary name="Stephen Walkland" overs="6" maidens="4" runs="7" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="6" maidens="4" runs="7" wickets="1"/>
     <BowlerSummary name="Stan Fritz" overs="4" maidens="1" runs="20" wickets="0"/>
     <BowlerSummary name="Kiran Juluri" overs="9" maidens="2" runs="32" wickets="3"/>
     <BowlerSummary name="Ashish Darekar" overs="3" maidens="0" runs="17" wickets="0"/>
@@ -101,7 +101,7 @@
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Stephen Walkland">
+    <Batsman name="Steve Walkland">
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
