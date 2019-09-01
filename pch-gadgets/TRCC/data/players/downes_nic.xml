@@ -5,7 +5,7 @@
 
     <YearData year="2018">
         <Bowling games="12" fiveplus="0">
-            <BowlingData overs="57.0" maidens="4" runs="306" wickets="10"/>
+            <BowlingData overs="57.0" maidens="4" runs="306" wickets="11"/>
             <BowlingBest>
                 <MatchId date="Sun Jun 3 00:00:00 UTC+0100 2018" oppo="Theale and Tilehurst"/>
                 <BowlingData overs="5.0" maidens="0" runs="23" wickets="2"/>
