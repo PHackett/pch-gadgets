@@ -41,7 +41,11 @@ function GGTRCC_BatsmanSummaryO___update (aBatsmanInningsO)
 		
 		this.mInnings++;
 		
-		if ((aBatsmanInningsO.mHowOut == "Not Out") ||(aBatsmanInningsO.mHowOut == "Retired Hurt"))
+		if (
+		    (aBatsmanInningsO.mHowOut == "Not Out") ||
+		    (aBatsmanInningsO.mHowOut == "Retired") ||
+		    (aBatsmanInningsO.mHowOut == "Retired Hurt")
+		   )
 		{
 			this.mNotOuts++;
 			lNotOut = true;
