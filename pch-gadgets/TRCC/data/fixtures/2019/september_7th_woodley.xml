@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Wed Sep 25 2019 18:31:13 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2019/september_7th_woodley.xml-->
+<CricketMatch oppo="Woodley" date="Sat Sep 07 2019 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="3857739">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodley">
+    <Batsman name="Upendra Deshpande" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajiv Dhallam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Prasad Kulkarni" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Sumanth Gopal">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Pawan Purswani">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Pradeep Kadloor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sri Harsha">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tajdar Jawaid">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Wasim Jamadar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vinay Acharya">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sachin Raina">
+      <HowOut how="Bowled"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="4" score="10"/>
+    <FallOfWicket batsman="3" score="13"/>
+    <FallOfWicket batsman="5" score="17"/>
+    <FallOfWicket batsman="6" score="17"/>
+    <FallOfWicket batsman="8" score="33"/>
+    <FallOfWicket batsman="9" score="35"/>
+    <FallOfWicket batsman="7" score="36"/>
+    <FallOfWicket batsman="10" score="36"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="7" maidens="3" runs="14" wickets="5"/>
+    <BowlerSummary name="Steve Walkland" overs="5" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="Andrew Miller" overs="1.1" maidens="0" runs="3" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="Bowled"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge" captain="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Henley" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="4"/>
+    <BowlerSummary name="Sachin Raina" overs="2" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Sri Harsha" overs="1.2" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>
