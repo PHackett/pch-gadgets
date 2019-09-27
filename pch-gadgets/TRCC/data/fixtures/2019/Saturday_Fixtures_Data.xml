@@ -169,26 +169,29 @@
 
 <Fixture>
   <Date>Sat, 31 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>Peppard Stoke Row 2</Opposition>
+  <Opposition>Peppard Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 7 Sep 2019 12:00:00 UTC</Date>
-  <Opposition>Woodley 2</Opposition>
+  <Opposition>Woodley</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
   <Date>Sat, 14 Sep 2019 12:00:00 UTC</Date>
-  <Opposition>West Reading 2</Opposition>
+  <Opposition>West Reading</Opposition>
   <Time>12:30</Time>
   <Venue>Home</Venue>
   <Result>Lose</Result>
+  <HasLink/>
 </Fixture>
 
 
