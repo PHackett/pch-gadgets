@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Sep 28 2019 14:18:54 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2019/september_15th_binfield.xml -->
+<CricketMatch oppo="Binfield" date="Sun Sep 15 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="J Browning">
+      <HowOut how="Stumped"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="D Humphrey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Morgan">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="M Fowler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Atkins">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="H Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="S Andrews">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="N Warnick"/>
+    <Batsman name="J Robinson"/>
+    <Batsman name="L Gash"/>
+    <Extras value="22"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="3" runs="13" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="8" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Tim Hogarth" overs="8" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Robinson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Edgington"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="H Jones"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="P Wilson">
+      <HowOut how="Caught"/>
+      <Bowler name="P Edgington"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Robinson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught"/>
+      <Bowler name="H Jones"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="LBW"/>
+      <Bowler name="N Warnick"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Steve Beamish"/>
+    <Batsman name="Chris Fort"/>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="2" score="112"/>
+    <FallOfWicket batsman="4" score="127"/>
+    <FallOfWicket batsman="3" score="131"/>
+    <FallOfWicket batsman="6" score="138"/>
+    <FallOfWicket batsman="7" score="152"/>
+    <FallOfWicket batsman="5" score="166"/>
+    <BowlerSummary name="J Robinson" overs="7" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="L Gash" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="S Andrews" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="N Warnick" overs="7" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="H Jones" overs="8" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="P Edgington" overs="8" maidens="3" runs="17" wickets="2"/>
+  </Innings>
+</CricketMatch>
