@@ -1,7 +1,24 @@
-<PlayerStats name="Spence Nichols" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Spence Nichols" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Apr 29 00:00:00 UTC+0100 2007" oppo="Welford Park"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="12" fiveplus="0">
+            <BowlingData overs="48.1" maidens="2" runs="262" wickets="7"/>
+            <BowlingBest>
+                <MatchId date="Sat May 25 00:00:00 UTC+0100 2019" oppo="Waltham St Lawrence"/>
+                <BowlingData overs="2.1" maidens="0" runs="7" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="13" runs="14" notouts="0" hundreds="0" fifties="0" ducks="11">
+            <BattingBest>
+                <MatchId date="Sat Jun 1 00:00:00 UTC+0100 2019" oppo="Crowthorne and Crown Wood"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="6" fiveplus="0">

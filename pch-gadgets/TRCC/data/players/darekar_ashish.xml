@@ -1,7 +1,24 @@
-<PlayerStats name="Ashish Darekar" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Ashish Darekar" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Jun 11 00:00:00 UTC+0100 2016" oppo="Warfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="6.0" maidens="0" runs="28" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 2019" oppo="Ibstone"/>
+                <BowlingData overs="2.0" maidens="0" runs="2" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="3" runs="6" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 2019" oppo="Ibstone"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="1" fiveplus="0">

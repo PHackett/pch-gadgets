@@ -1,0 +1,14 @@
+<PlayerStats name="Arif Basha" generated="Sun, 29 Sep 2019 12:13:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 25 00:00:00 UTC+0100 2019" oppo="Waltham St Lawrence"/>
+    </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="3" runs="15" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Jun 15 00:00:00 UTC+0100 2019" oppo="Woodley"/>
+                <BattingData runs="11" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

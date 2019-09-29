@@ -1,0 +1,22 @@
+<PlayerStats name="Josh Mills" generated="Sun, 29 Sep 2019 12:13:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2019" oppo="Harptree"/>
+    </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="0.2" maidens="1" runs="0" wickets="1"/>
+            <BowlingBest>
+                <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2019" oppo="Harptree"/>
+                <BowlingData overs="0.2" maidens="1" runs="0" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="1" runs="5" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2019" oppo="Harptree"/>
+                <BattingData runs="5" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

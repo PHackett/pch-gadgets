@@ -1,7 +1,32 @@
-<PlayerStats name="Stuart Barrable" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Stuart Barrable" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="7.0" maidens="0" runs="33" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 3 00:00:00 UTC+0100 2019" oppo="Crowthorne and Crown Wood"/>
+                <BowlingData overs="4.0" maidens="0" runs="17" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="7" runs="208" notouts="1" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Jul 6 00:00:00 UTC+0100 2019" oppo="Farley Hill"/>
+                <BattingData runs="62" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 6 00:00:00 UTC+0100 2019" oppo="Farley Hill"/>
+                <BattingData runs="62" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 15 00:00:00 UTC+0100 2019" oppo="Binfield"/>
+                <BattingData runs="51" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="2" fiveplus="0">

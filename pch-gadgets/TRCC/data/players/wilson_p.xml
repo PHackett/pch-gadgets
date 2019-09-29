@@ -1,0 +1,14 @@
+<PlayerStats name="P Wilson" generated="Sun, 29 Sep 2019 12:13:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Sep 15 00:00:00 UTC+0100 2019" oppo="Binfield"/>
+    </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="1" runs="9" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 15 00:00:00 UTC+0100 2019" oppo="Binfield"/>
+                <BattingData runs="9" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

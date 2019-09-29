@@ -1,7 +1,36 @@
-<PlayerStats name="Robin Thompson" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Robin Thompson" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sun May 1 00:00:00 UTC+0100 2016" oppo="Bracknell"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="11" fiveplus="1">
+            <BowlingData overs="86.0" maidens="13" runs="249" wickets="18"/>
+            <BowlingBest>
+                <MatchId date="Sat Jul 13 00:00:00 UTC+0100 2019" oppo="Warfield"/>
+                <BowlingData overs="9.0" maidens="4" runs="17" wickets="7"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sat Jul 13 00:00:00 UTC+0100 2019" oppo="Warfield"/>
+                <BowlingData overs="9.0" maidens="4" runs="17" wickets="7"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="11" runs="426" notouts="2" hundreds="0" fifties="2" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat May 4 00:00:00 UTC+0100 2019" oppo="Farley Hill"/>
+                <BattingData runs="65" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat May 4 00:00:00 UTC+0100 2019" oppo="Farley Hill"/>
+                <BattingData runs="65" notouts="1"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 15 00:00:00 UTC+0100 2019" oppo="Woodley"/>
+                <BattingData runs="58" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="8" fiveplus="0">

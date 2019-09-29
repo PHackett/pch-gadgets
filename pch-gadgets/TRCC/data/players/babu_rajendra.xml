@@ -1,0 +1,26 @@
+<PlayerStats name="Rajendra Babu" generated="Sun, 29 Sep 2019 12:13:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat May 25 00:00:00 UTC+0100 2019" oppo="Waltham St Lawrence"/>
+    </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="36.0" maidens="3" runs="118" wickets="11"/>
+            <BowlingBest>
+                <MatchId date="Sat May 25 00:00:00 UTC+0100 2019" oppo="Waltham St Lawrence"/>
+                <BowlingData overs="8.0" maidens="0" runs="26" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="145" notouts="1" hundreds="0" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Jun 15 00:00:00 UTC+0100 2019" oppo="Woodley"/>
+                <BattingData runs="70" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 15 00:00:00 UTC+0100 2019" oppo="Woodley"/>
+                <BattingData runs="70" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>

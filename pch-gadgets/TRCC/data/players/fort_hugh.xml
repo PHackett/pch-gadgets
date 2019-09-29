@@ -1,7 +1,16 @@
-<PlayerStats name="Hugh Fort" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Hugh Fort" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="19" runs="255" notouts="2" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 12 00:00:00 UTC+0100 2019" oppo="Simmons"/>
+                <BattingData runs="47" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="2" fiveplus="0">

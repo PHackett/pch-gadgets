@@ -1,7 +1,36 @@
-<PlayerStats name="Pete Schofield" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Pete Schofield" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 25 00:00:00 UTC+0100 2013" oppo="Earley"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="4.4" maidens="0" runs="23" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2019" oppo="Greys Green"/>
+                <BowlingData overs="1.4" maidens="0" runs="8" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="15" runs="343" notouts="0" hundreds="0" fifties="3" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun May 5 00:00:00 UTC+0100 2019" oppo="Bracknell"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Jun 22 00:00:00 UTC+0100 2019" oppo="Shinfield"/>
+                <BattingData runs="52" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sat Jul 13 00:00:00 UTC+0100 2019" oppo="Warfield"/>
+                <BattingData runs="62" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun May 5 00:00:00 UTC+0100 2019" oppo="Bracknell"/>
+                <BattingData runs="68" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="4" fiveplus="0">

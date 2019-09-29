@@ -1,7 +1,24 @@
-<PlayerStats name="Chandra Cherukuri" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Chandra Cherukuri" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 28 00:00:00 UTC+0100 2016" oppo="Purley 3"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="12" fiveplus="0">
+            <BowlingData overs="67.0" maidens="6" runs="295" wickets="15"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 14 00:00:00 UTC+0100 2019" oppo="West Reading"/>
+                <BowlingData overs="8.0" maidens="2" runs="23" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="14" runs="35" notouts="3" hundreds="0" fifties="0" ducks="8">
+            <BattingBest>
+                <MatchId date="Sat May 11 00:00:00 UTC+0100 2019" oppo="Warfield"/>
+                <BattingData runs="14" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="16" fiveplus="0">

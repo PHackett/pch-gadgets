@@ -1,7 +1,16 @@
-<PlayerStats name="Tom Leadbetter" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Tom Leadbetter" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 19 00:00:00 UTC+0100 2006" oppo="Sonning 3rds"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="1" runs="0" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun May 5 00:00:00 UTC+0100 2019" oppo="Bracknell"/>
+                <BattingData runs="0" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Batting innings="3" runs="5" notouts="2" hundreds="0" fifties="0" ducks="0">

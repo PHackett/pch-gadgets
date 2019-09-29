@@ -1,0 +1,14 @@
+<PlayerStats name="Tom Powell" generated="Sun, 29 Sep 2019 12:13:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 28 00:00:00 UTC+0100 2019" oppo="Stonor"/>
+    </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="17" runs="298" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 2019" oppo="Checkendon"/>
+                <BattingData runs="47" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

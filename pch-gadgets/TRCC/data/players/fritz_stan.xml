@@ -1,0 +1,30 @@
+<PlayerStats name="Stan Fritz" generated="Sun, 29 Sep 2019 12:13:19 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Apr 28 00:00:00 UTC+0100 2019" oppo="Stonor"/>
+    </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="20" fiveplus="0">
+            <BowlingData overs="109.3" maidens="6" runs="603" wickets="24"/>
+            <BowlingBest>
+                <MatchId date="Sat Jun 22 00:00:00 UTC+0100 2019" oppo="Shinfield"/>
+                <BowlingData overs="7.4" maidens="1" runs="53" wickets="4"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="24" runs="453" notouts="1" hundreds="0" fifties="2" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2019" oppo="Greys Green"/>
+                <BattingData runs="64" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jun 9 00:00:00 UTC+0100 2019" oppo="Greys Green"/>
+                <BattingData runs="64" notouts="0"/>
+            </BattingHighlight>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 18 00:00:00 UTC+0100 2019" oppo="Checkendon"/>
+                <BattingData runs="55" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>

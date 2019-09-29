@@ -1,7 +1,28 @@
-<PlayerStats name="Marc Teal" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Marc Teal" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Jul 17 00:00:00 UTC+0100 2010" oppo="Catcliffe Way"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="7" fiveplus="0">
+            <BowlingData overs="36.2" maidens="1" runs="176" wickets="5"/>
+            <BowlingBest>
+                <MatchId date="Sun May 12 00:00:00 UTC+0100 2019" oppo="Simmons"/>
+                <BowlingData overs="5.2" maidens="0" runs="16" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="19" runs="367" notouts="0" hundreds="0" fifties="1" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Aug 25 00:00:00 UTC+0100 2019" oppo="Failand and Portbury"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Aug 25 00:00:00 UTC+0100 2019" oppo="Failand and Portbury"/>
+                <BattingData runs="50" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="22" fiveplus="0">

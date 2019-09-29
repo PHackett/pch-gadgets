@@ -1,7 +1,28 @@
-<PlayerStats name="Mike Henry" generated="Thu, 21 Dec 2017 18:36:39 GMT">
+<PlayerStats name="Mike Henry" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Thu Aug 10 00:00:00 UTC+0100 2017" oppo="Reading Lawyers"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="8" fiveplus="1">
+            <BowlingData overs="45.3" maidens="5" runs="233" wickets="13"/>
+            <BowlingBest>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 2019" oppo="Ibstone"/>
+                <BowlingData overs="7.0" maidens="1" runs="31" wickets="5"/>
+            </BowlingBest>
+            <BowlingHighlight>
+                <MatchId date="Sun Jun 30 00:00:00 UTC+0100 2019" oppo="Ibstone"/>
+                <BowlingData overs="7.0" maidens="1" runs="31" wickets="5"/>
+            </BowlingHighlight>
+        </Bowling>
+    
+        <Batting innings="7" runs="34" notouts="2" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Apr 28 00:00:00 UTC+0100 2019" oppo="Stonor"/>
+                <BattingData runs="14" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2017">
         <Bowling games="2" fiveplus="0">

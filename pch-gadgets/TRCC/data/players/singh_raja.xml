@@ -1,7 +1,16 @@
-<PlayerStats name="Raja Singh" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Raja Singh" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 16 00:00:00 UTC+0100 2009" oppo="Sandhurst 2"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="1" runs="38" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun May 5 00:00:00 UTC+0100 2019" oppo="Bracknell"/>
+                <BattingData runs="38" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="6" fiveplus="0">

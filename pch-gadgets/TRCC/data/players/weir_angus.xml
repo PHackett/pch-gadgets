@@ -1,7 +1,24 @@
-<PlayerStats name="Angus Weir" generated="Wed, 02 Nov 2016 19:46:18 GMT">
+<PlayerStats name="Angus Weir" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 26 00:00:00 UTC+0100 2009" oppo="Wargrave"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="9.0" maidens="0" runs="27" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2019" oppo="Harptree"/>
+                <BowlingData overs="6.0" maidens="0" runs="12" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="2" runs="49" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Tue Aug 27 00:00:00 UTC+0100 2019" oppo="Harptree"/>
+                <BattingData runs="38" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2016">
         <Bowling games="2" fiveplus="0">

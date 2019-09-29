@@ -1,7 +1,20 @@
-<PlayerStats name="Adam Henley" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Adam Henley" generated="Sun, 29 Sep 2019 12:13:19 BST">
     <FirstRecordedGame>
         <MatchId date="Sat May 13 00:00:00 UTC+0100 2017" oppo="Shinfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2019">
+        <Batting innings="6" runs="93" notouts="1" hundreds="0" fifties="1" ducks="3">
+            <BattingBest>
+                <MatchId date="Sun Jul 7 00:00:00 UTC+0100 2019" oppo="Hurley"/>
+                <BattingData runs="59" notouts="1"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Jul 7 00:00:00 UTC+0100 2019" oppo="Hurley"/>
+                <BattingData runs="59" notouts="1"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Batting innings="11" runs="189" notouts="0" hundreds="0" fifties="1" ducks="5">
