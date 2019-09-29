@@ -51,8 +51,8 @@ public class GeneratePlayerStats
 	 * These are the big two - The year for which you want to add the statistics to the 
 	 * player lifetime, and where the output files should be written
 	 */
-	private static int 			sYear    = 2018;
-	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime2018";
+	private static int 			sYear    = 2019;
+	public static final String	sOutDir  = "Desktop/GeneratedPlayerLifetime" + Integer.toString(sYear);
 	
 	/**
 	 * @param args
