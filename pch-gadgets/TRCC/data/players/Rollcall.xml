@@ -361,6 +361,7 @@
     <!-- R -->
     <Player surname="Raghupathi" firstname="K"/>
     <Player surname="Rahman" firstname="Alfie" firstseason="1991" lastseason="1991"/>
+    <Player surname="Raj" firstname="Munia"/>
     <Player surname="Reaves" firstname="V" firstseason="1985" lastseason="1986"/>
     <Player surname="Reed" firstname="P" firstseason="1980" lastseason="1980"/>
     <Player surname="Rees" firstname="S" firstseason="1988" lastseason="1988" catches="1" mostcatchesseason="1"/>
