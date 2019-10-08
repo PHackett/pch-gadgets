@@ -12,7 +12,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Tom Nash" captain="1">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="48"/>
     </Batsman>
     <Batsman name="Ganes Pun">
@@ -85,7 +85,7 @@
       <Runs value="41"/>
     </Batsman>
     <Batsman name="Tom Powell">
-      <HowOut how="LBW"/>
+      <HowOut how="Not Out"/>
       <Runs value="27"/>
     </Batsman>
     <Batsman name="Marc Teal" keeper="1">
@@ -94,7 +94,7 @@
       <Runs value="14"/>
     </Batsman>
     <Batsman name="Stuart Barrable">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="23"/>
     </Batsman>
     <Batsman name="Razavullah Shaik" captain="1">
