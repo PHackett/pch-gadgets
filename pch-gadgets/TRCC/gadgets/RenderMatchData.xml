@@ -8,7 +8,7 @@
 		description="For the rendering of a single TRCC match result."
 		thumbnail="http://rawgit.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/images/TRCC-Shield.png"
 		width="700"
-		height="500"
+		height="1500"
 		scrolling="true">
 	</ModulePrefs>
 
