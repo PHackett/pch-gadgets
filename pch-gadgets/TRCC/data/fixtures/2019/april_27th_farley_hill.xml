@@ -1,15 +1,131 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Fri May 10 2019 10:04:08 GMT+0100 (British Summer Time) -->
+<!-- Generated on Wed Jan 08 2020 15:01:30 GMT+0000 (Greenwich Mean Time) -->
 <!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Win -->
 <!-- XMLFilename = 2019/april_27th_farley_hill.xml -->
-<CricketMatch oppo="Farley Hill" date="Sat Apr 27 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+<CricketMatch oppo="Farley Hill" date="Sat Apr 27 2019 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="" notforstats=="true">
   <MatchReport/><CountsToStats/>
-  <Innings batting="Twyford">
-    <Extras value="0"/>
-  </Innings>
   <Innings batting="Farley Hill">
-    <Extras value="0"/>
+    <Batsman name="R Ditchburn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="W Wortham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="B Hussain">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Ashish Darekar"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="A Jalil">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="K Brown">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="A Khokhar">
+      <HowOut how="Caught Ashish Darekar"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Greene">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Babu">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Johan">
+      <HowOut how="LBW"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dave">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Nagam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Craig">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="35"/>
+    <BowlerSummary name="Shiva Nagam" overs="6" maidens="2" runs="7" wickets="4"/>
+    <BowlerSummary name="Razavullah Shaik" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Robin Thompson" overs="8" maidens="2" runs="21" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Ashish Darekar" overs="3" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Rilu" overs="3" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="27" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="LBW"/>
+      <Bowler name="Johan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Johan"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="LBW"/>
+      <Bowler name="D Greene"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Arif">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Greene"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Greene"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dave"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Shiva Nagam">
+      <HowOut how="Stumped"/>
+      <Bowler name="Ali"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Rilu">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="5" score="29"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="6" score="89"/>
+    <FallOfWicket batsman="7" score="167"/>
+    <BowlerSummary name="Johan" overs="5" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="D Greene" overs="8" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Babu" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Dave" overs="5" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Ali" overs="2" maidens="0" runs="18" wickets="1"/>
   </Innings>
 </CricketMatch>
