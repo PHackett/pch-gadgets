@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+        "NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sun, 28 Apr 2019 12:00:00 UTC</Date>
+  <Opposition>Stonor</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 5 May 2019 12:00:00 UTC</Date>
+  <Opposition>Bracknell</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 12 May 2019 12:00:00 UTC</Date>
+  <Opposition>Simmons</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 19 May 2019 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 26 May 2019 12:00:00 UTC</Date>
+  <Opposition>Frieth</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 27 May 2019 12:00:00 UTC</Date>
+  <Opposition>TRCC Club Day</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 2 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Theale and Tilehurst</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 9 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 16 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Sonning</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 23 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 30 Jun 2019 12:00:00 UTC</Date>
+  <Opposition>Ibstone</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 7 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Hurley</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 14 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Cricket World Cup final - No Game</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 21 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 28 Jul 2019 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 4 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
+  <Time>14:00</Time>
+  <Venue>Homw</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 11 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Oxford University Club</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 18 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 25 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Failand and Portbury</Opposition>
+  <Time>13:30</Time>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 26 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Patchway</Opposition>
+  <Time>13:30</Time>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Tue, 27 Aug 2019 12:00:00 UTC</Date>
+  <Opposition>Harptree</Opposition>
+  <Time>13:30</Time>
+  <Venue>Tour</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 1 Sep 2019 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 8 Sep 2019 12:00:00 UTC</Date>
+  <Opposition>Reading Lawyers</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Cancelled</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 15 Sep 2019 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 22 Sep 2019 12:00:00 UTC</Date>
+  <Opposition>Peppard and Stoke Row</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Rain</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 29 Sep 2019 12:00:00 UTC</Date>
+  <Opposition>Reading University Alumni and Staff CC</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Rain</Result>
+</Fixture>
+
+</YearsFixtures>
