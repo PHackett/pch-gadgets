@@ -137,7 +137,7 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 2 Aug 2019 12:00:00 UTC</Date>
+  <Date>Sun, 2 Aug 2020 12:00:00 UTC</Date>
   <Opposition>Mystery Surprise CC</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
@@ -145,39 +145,39 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 11 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>Oxford University Club</Opposition>
+  <Date>Sun, 9 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Harpsden</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 16 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 18 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>Checkendon</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
+  <Date>Sun, 23 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>TBA</Opposition>
+  <Time>13:00</Time>
+  <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 25 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>Failand and Portbury</Opposition>
+  <Date>Mon, 24 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>TBA</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 26 Aug 2019 12:00:00 UTC</Date>
-  <Opposition>Patchway</Opposition>
-  <Time>13:30</Time>
-  <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Tue, 27 Aug 2019 12:00:00 UTC</Date>
+  <Date>Tue, 25 Aug 2020 12:00:00 UTC</Date>
   <Opposition>Harptree</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
