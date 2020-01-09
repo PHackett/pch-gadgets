@@ -6,6 +6,8 @@
 
 <YearsDB>
 
+	<TeamsInYear year="2020"><Team>Saturday</Team><Team>Sunday</Team></TeamsInYear>
+	
 	<TeamsInYear year="2019"><Team>Saturday</Team><Team>Sunday</Team><Team>StormU9</Team><Team>ThunderU11</Team><Team>LightningU11</Team><Team>TornadoesU13</Team><Team>OpenAgeAndGirls</Team></TeamsInYear>
 	
 	<TeamsInYear year="2018"><Team>Saturday</Team><Team>Sunday</Team><Team>20-20</Team></TeamsInYear>
