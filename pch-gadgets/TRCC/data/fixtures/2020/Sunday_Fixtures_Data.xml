@@ -185,39 +185,39 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 1 Sep 2019 12:00:00 UTC</Date>
+  <Date>Sun, 30 Aug 2020 12:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
   <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 8 Sep 2019 12:00:00 UTC</Date>
-  <Opposition>Reading Lawyers</Opposition>
-  <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 15 Sep 2019 12:00:00 UTC</Date>
-  <Opposition>Binfield</Opposition>
-  <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 22 Sep 2019 12:00:00 UTC</Date>
+  <Date>Sun, 6 Sep 2020 12:00:00 UTC</Date>
   <Opposition>Peppard and Stoke Row</Opposition>
   <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 13 Sep 2020 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 29 Sep 2019 12:00:00 UTC</Date>
+  <Date>Sun, 20 Sep 2020 12:00:00 UTC</Date>
+  <Opposition>West Reading</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 27 Sep 2020 12:00:00 UTC</Date>
   <Opposition>Reading University Alumni and Staff CC</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
