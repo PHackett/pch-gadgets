@@ -25,39 +25,39 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 5 May 2019 12:00:00 UTC</Date>
+  <Date>Sun, 3 May 2020 12:00:00 UTC</Date>
   <Opposition>Bracknell</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 10 May 2020 12:00:00 UTC</Date>
+  <Opposition>Reading University Alumni and Staff</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 17 May 2020 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 24 May 2020 12:00:00 UTC</Date>
+  <Opposition>Ashford Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 12 May 2019 12:00:00 UTC</Date>
-  <Opposition>Simmons</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 19 May 2019 12:00:00 UTC</Date>
-  <Opposition>Swyncombe</Opposition>
-  <Time>14:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 26 May 2019 12:00:00 UTC</Date>
-  <Opposition>Frieth</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Mon, 27 May 2019 12:00:00 UTC</Date>
+  <Date>Mon, 25 May 2020 12:00:00 UTC</Date>
   <Opposition>TRCC Club Day</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
