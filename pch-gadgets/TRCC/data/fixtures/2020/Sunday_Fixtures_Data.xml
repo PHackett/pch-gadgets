@@ -17,12 +17,11 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Sun, 28 Apr 2019 12:00:00 UTC</Date>
+  <Date>Sun, 26 Apr 2020 12:00:00 UTC</Date>
   <Opposition>Stonor</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -30,8 +29,7 @@
   <Opposition>Bracknell</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -39,8 +37,7 @@
   <Opposition>Simmons</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -48,8 +45,7 @@
   <Opposition>Swyncombe</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -57,7 +53,7 @@
   <Opposition>Frieth</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Cancelled</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -73,8 +69,7 @@
   <Opposition>Theale and Tilehurst</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -82,8 +77,7 @@
   <Opposition>Greys Green</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -91,8 +85,7 @@
   <Opposition>Sonning</Opposition>
   <Time>13:30</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -100,8 +93,7 @@
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -109,8 +101,7 @@
   <Opposition>Ibstone</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -118,8 +109,7 @@
   <Opposition>Hurley</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -135,7 +125,7 @@
   <Opposition>Warfield</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Cancelled</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -143,8 +133,7 @@
   <Opposition>Ipsden</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -152,8 +141,7 @@
   <Opposition>Harpsden</Opposition>
   <Time>14:00</Time>
   <Venue>Homw</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -161,7 +149,7 @@
   <Opposition>Oxford University Club</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Cancelled</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -169,8 +157,7 @@
   <Opposition>Checkendon</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -178,8 +165,7 @@
   <Opposition>Failand and Portbury</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -187,8 +173,7 @@
   <Opposition>Patchway</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -196,8 +181,7 @@
   <Opposition>Harptree</Opposition>
   <Time>13:30</Time>
   <Venue>Tour</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -205,8 +189,7 @@
   <Opposition>Warfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -214,7 +197,7 @@
   <Opposition>Reading Lawyers</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Cancelled</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -222,8 +205,7 @@
   <Opposition>Binfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Win</Result>
-  <HasLink/>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -231,7 +213,7 @@
   <Opposition>Peppard and Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Rain</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -239,7 +221,7 @@
   <Opposition>Reading University Alumni and Staff CC</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Rain</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 </YearsFixtures>
