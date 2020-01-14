@@ -164,23 +164,7 @@
   <Date>Sun, 23 Aug 2020 12:00:00 UTC</Date>
   <Opposition>TBA</Opposition>
   <Time>13:00</Time>
-  <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Mon, 24 Aug 2020 12:00:00 UTC</Date>
-  <Opposition>TBA</Opposition>
-  <Time>13:30</Time>
-  <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Tue, 25 Aug 2020 12:00:00 UTC</Date>
-  <Opposition>Harptree</Opposition>
-  <Time>13:30</Time>
-  <Venue>Tour</Venue>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
