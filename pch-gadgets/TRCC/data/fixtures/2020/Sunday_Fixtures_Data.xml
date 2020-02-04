@@ -170,9 +170,17 @@
 
 <Fixture>
   <Date>Sun, 30 Aug 2020 12:00:00 UTC</Date>
-  <Opposition>Warfield</Opposition>
+  <Opposition>Pucklechurch</Opposition>
   <Time>13:00</Time>
-  <Venue>Home</Venue>
+  <Venue>Tour</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Mon, 31 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Patchway</Opposition>
+  <Time>13:00</Time>
+  <Venue>Tour</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
