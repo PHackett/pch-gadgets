@@ -22,6 +22,7 @@ var gFixtureDrawImg      = gFixtureInageRoot + "equals.png";
 var gFixtureCancelledImg = gFixtureInageRoot + "greycross.gif";
 var gFixtureAbandonedImg = gFixtureInageRoot + "abandon-cross.png";
 var gFixtureTieImg       = gFixtureInageRoot + "tie.gif";
+var gFixtureVirusImg     = gFixtureInageRoot + "BioHazard.gif";
 
 //
 // For the loading of multiple sets of fixture dats
