@@ -142,14 +142,15 @@ function GGTRCC_FixtureO (aFixtureXML)
 	{
 		var lRes=lXMLElement[0].firstChild.nodeValue;
 		
-		if 		(("Win" == lRes) || ("Won" == lRes)) 	{ this.mResult = gFixtureResWin; 			}
-		else if (("Lose" == lRes) || ("Lost" == lRes)) 	{ this.mResult = gFixtureResLose; 			}
-		else if ("Draw" == lRes) 						{ this.mResult = gFixtureResDraw; 			}
-		else if ("Tie" == lRes) 						{ this.mResult = gFixtureResTie; 			}
-		else if ("Rain" == lRes) 						{ this.mResult = gFixtureResRain; 			}
-		else if ("Abandonned" == lRes) 					{ this.mResult = gFixtureResAba; 			}
+		if (("Win" == lRes) || ("Won" == lRes)) 	                        { this.mResult = gFixtureResWin; 		}
+		else if (("Lose" == lRes) || ("Lost" == lRes)) 	                        { this.mResult = gFixtureResLose; 		}
+		else if ("Draw" == lRes) 						{ this.mResult = gFixtureResDraw; 		}
+		else if ("Tie" == lRes) 						{ this.mResult = gFixtureResTie; 		}
+		else if ("Rain" == lRes) 						{ this.mResult = gFixtureResRain; 		}
+		else if ("Abandonned" == lRes) 					        { this.mResult = gFixtureResAba; 		}
 		else if ("NP" == lRes) 							{ this.mResult = gFixtureResWasNotPlayed; 	}
-		else if ("Cancelled" == lRes) 					{ this.mResult = gFixtureResCancelled; 		}
+		else if ("Cancelled" == lRes) 					        { this.mResult = gFixtureResCancelled; 		}
+		else if ("Virus" == lRes)                                               { this.mResult = gFixtureResVirus;      	}
 	}
 	
 	if (1 == (lXMLElement = aFixtureXML.getElementsByTagName ("HasLink")).length)
