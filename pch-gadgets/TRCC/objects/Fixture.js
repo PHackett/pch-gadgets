@@ -10,6 +10,7 @@ var gFixtureResAba = "A";
 var gFixtureResNP = "N";
 var gFixtureResWasNotPlayed = "U";
 var gFixtureResCancelled = "C";
+var gFixtureResVirus = "V";
 
 var gFixtureInageRoot    ="http://rawgit.com/PHackett/pch-gadgets/master/pch-gadgets/TRCC/images/";
 var gFixtureVenueAwayImg = gFixtureInageRoot + "VenueAway.gif";
@@ -346,6 +347,10 @@ function GGTRCC_FixtureO___ResultHTML()
 	else if (gFixtureResCancelled == this.mResult)
 	{
 		lRet = "<img src='" + gFixtureCancelledImg + "' alt='Cancelled'>";
+	}
+	else if (gFixtureResVirus == this.mResult)
+	{
+		lRet = "<img src='" + gFixtureVirusImg + "' alt='Cancelled'>";
 	}
 	
 	return (lRet);
