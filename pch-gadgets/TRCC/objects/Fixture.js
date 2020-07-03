@@ -351,7 +351,7 @@ function GGTRCC_FixtureO___ResultHTML()
 	}
 	else if (gFixtureResVirus == this.mResult)
 	{
-		lRet = "<img src='" + gFixtureVirusImg + "' alt='Cancelled'>";
+		lRet = "<img src='" + gFixtureVirusImg + "' alt='Covid-19'>";
 	}
 	
 	return (lRet);
