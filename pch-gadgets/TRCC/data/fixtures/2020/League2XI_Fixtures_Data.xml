@@ -10,26 +10,18 @@
         "Rain"
         "Abandonned"
         "NP"
-		    "NotYetPlayed"
+	"NotYetPlayed"
         "Cancelled"
 -->
 
 <YearsFixtures>
 
 <Fixture>
-  <Date>Sat, 18 Apr 2020 12:00:00 UTC</Date>
-  <Opposition>Warfield</Opposition>
+  <Date>Sat, 18 Jul 2020 12:00:00 UTC</Date>
+  <Opposition>TBD</Opposition>
   <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>Virus</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sat, 25 Apr 2020 12:00:00 UTC</Date>
-  <Opposition>Farley Hill</Opposition>
-  <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 </YearsFixtures>
