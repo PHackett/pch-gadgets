@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+		"NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sun, 28 Apr 2020 12:00:00 UTC</Date>
+  <Opposition>TBD Stormu9</Opposition>
+  <Time>10:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+</YearsFixtures>
+
