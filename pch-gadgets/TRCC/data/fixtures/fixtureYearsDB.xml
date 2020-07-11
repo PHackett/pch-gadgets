@@ -6,7 +6,11 @@
 
 <YearsDB>
 
-	<TeamsInYear year="2020"><Team>League1XI</Team><Team>Sunday</Team></TeamsInYear>
+	<TeamsInYear year="2020">
+		<Team>League1XI</Team>
+		<Team>League2XI</Team>
+		<Team>Sunday</Team>
+	</TeamsInYear>
 	
 	<TeamsInYear year="2019"><Team>Saturday</Team><Team>Sunday</Team><Team>StormU9</Team><Team>ThunderU11</Team><Team>LightningU11</Team><Team>TornadoesU13</Team><Team>OpenAgeAndGirls</Team></TeamsInYear>
 	
