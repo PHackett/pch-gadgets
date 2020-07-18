@@ -18,7 +18,63 @@
 
 <Fixture>
   <Date>Sat, 18 Jul 2020 12:00:00 UTC</Date>
-  <Opposition>TBD</Opposition>
+  <Opposition>Shinfield 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 25 Jul 2020 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 1 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Falkland</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 8 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Purley 3</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 15 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Binfield 4</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 22 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>Stratfield 2</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 29 Aug 2020 12:00:00 UTC</Date>
+  <Opposition>West Reading 4</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sat, 5 Sep 2020 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
