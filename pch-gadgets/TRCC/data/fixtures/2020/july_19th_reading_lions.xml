@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 20 2020 09:50:01 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2020/july_19th_reading_lions.xml -->
+<CricketMatch oppo="Reading Lions" date="Sun Jul 19 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lions">
+    <Batsman name="A Jayabalan">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="R Pal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="B Loganathan">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="R Ramasamy">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="R Madampath">
+      <HowOut how="LBW"/>
+      <Bowler name="Prasant Chintamanem"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="K Prakash">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="R Chansouriya">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="S Sanjay">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="N Boopathy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="P S">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Andrew Miller" overs="6" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Robin Thompson" overs="3" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Prasant Chintamanem" overs="5" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught"/>
+      <Bowler name="Niru"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="R Raki"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Run Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Robin Thompson">
+      <HowOut how="LBW"/>
+      <Bowler name="R Ramesh"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught"/>
+      <Bowler name="K Prabhu"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Niru"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Prasant Chintamanem">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="40"/>
+    <FallOfWicket batsman="1" score="87"/>
+    <FallOfWicket batsman="2" score="112"/>
+    <FallOfWicket batsman="3" score="141"/>
+    <FallOfWicket batsman="4" score="167"/>
+    <FallOfWicket batsman="6" score="188"/>
+    <FallOfWicket batsman="5" score="190"/>
+    <FallOfWicket batsman="7" score="199"/>
+    <BowlerSummary name="S Sanjay" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="N Babu" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Niru" overs="7.2" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="R Ramesh" overs="8" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="R Raki" overs="7" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="K Prabhu" overs="8" maidens="2" runs="26" wickets="1"/>
+  </Innings>
+</CricketMatch>
