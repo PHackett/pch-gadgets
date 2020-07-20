@@ -104,7 +104,7 @@
       <HowOut how="Not Out"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Simon Farrar">
+    <Batsman name="Simon Farrar" keeper="1">
       <HowOut how="Not Out"/>
       <Runs value="3"/>
     </Batsman>
