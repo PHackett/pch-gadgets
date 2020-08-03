@@ -109,7 +109,7 @@
     <FallOfWicket batsman="6" score="119"/>
     <FallOfWicket batsman="7" score="164"/>
     <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="29" wickets="1"/>
-    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="33" wickets="1"/>
     <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="23" wickets="2"/>
     <BowlerSummary name="Matt Berry" overs="6" maidens="0" runs="27" wickets="0"/>
     <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="31" wickets="0"/>
