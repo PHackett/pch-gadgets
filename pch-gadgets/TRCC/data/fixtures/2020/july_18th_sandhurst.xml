@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Aug 03 2020 21:59:41 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/july_18th_sandhurst_cc__berks.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks" date="Sat Jul 18 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4466289">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="Caught Daniel Bird"/>
+      <Bowler name="Aron Shallom"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Narendra Gogna"/>
+      <Bowler name="Conor Pharo"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="LBW"/>
+      <Bowler name="Aron Shallom"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Stumped Adam Birch"/>
+      <Bowler name="Narendra Gogna"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Conor Pharo"/>
+      <Bowler name="Narendra Gogna"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ashan Dildar">
+      <HowOut how="Caught Nahian Chowdhury"/>
+      <Bowler name="Narendra Gogna"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Aron Shallom"/>
+      <Bowler name="Conor Pharo"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sri Tummalapenta">
+      <HowOut how="Caught Andrew Tutty"/>
+      <Bowler name="Narendra Gogna"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Andrew Tutty"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Caught Andrew Tutty"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="1" score="69"/>
+    <FallOfWicket batsman="3" score="74"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="6" score="101"/>
+    <FallOfWicket batsman="5" score="108"/>
+    <FallOfWicket batsman="8" score="111"/>
+    <FallOfWicket batsman="7" score="134"/>
+    <BowlerSummary name="Conor Pharo" overs="8" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="Calvin Hall" overs="7" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Daniel Bird" overs="7" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Aron Shallom" overs="5" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Simon Hards" overs="7" maidens="2" runs="18" wickets="0"/>
+    <BowlerSummary name="Narendra Gogna" overs="6" maidens="1" runs="21" wickets="4"/>
+  </Innings>
+  <Innings batting="Sandhurst CC_ Berks">
+    <Batsman name="Adam Birch" captain="1" keeper="1">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Daniel Bird">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Narendra Gogna">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Tutty">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Kevin Speakman">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simon Hards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nahian Chowdhury">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Andrew Birch">
+      <HowOut how="LBW"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Aron Shallom">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Conor Pharo">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Calvin Hall">
+      <HowOut how="LBW"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="38"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="4" score="48"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="5" score="55"/>
+    <FallOfWicket batsman="6" score="55"/>
+    <FallOfWicket batsman="7" score="98"/>
+    <FallOfWicket batsman="9" score="122"/>
+    <FallOfWicket batsman="10" score="122"/>
+    <FallOfWicket batsman="11" score="128"/>
+    <BowlerSummary name="Shaqil Arshad" overs="6.2" maidens="2" runs="15" wickets="3"/>
+    <BowlerSummary name="Andrew Miller" overs="4" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="Ashan Dildar" overs="4" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Robin Thompson" overs="6" maidens="1" runs="17" wickets="5"/>
+    <BowlerSummary name="Kiran Juluri" overs="5" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="4" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Stan Fritz" overs="4" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -37,7 +37,7 @@
     <Opposition>Sandhurst Select</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Win</Result>
   </Fixture>
 
   <Fixture>
@@ -45,7 +45,7 @@
     <Opposition>Mortimer West End</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Abandonned</Result>
   </Fixture>
 
   <Fixture>
