@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 03 2020 12:41:03 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2020/august_2nd_wargrave.xml -->
+<CricketMatch oppo="Wargrave" date="Sun Aug 02 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="Stumped"/>
+      <Bowler name="Bell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bennet"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught"/>
+      <Bowler name="Bennet"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Pritham"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Payne"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Payne"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught"/>
+      <Bowler name="Bell"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Payne"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="32"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="99"/>
+    <FallOfWicket batsman="2" score="108"/>
+    <FallOfWicket batsman="4" score="171"/>
+    <FallOfWicket batsman="5" score="200"/>
+    <FallOfWicket batsman="7" score="207"/>
+    <FallOfWicket batsman="6" score="225"/>
+    <FallOfWicket batsman="9" score="236"/>
+    <BowlerSummary name="Bell" overs="8" maidens="0" runs="56" wickets="2"/>
+    <BowlerSummary name="Pritham" overs="8" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Achint" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Bennet" overs="6" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Lall" overs="3" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="Payne" overs="8" maidens="0" runs="50" wickets="3"/>
+  </Innings>
+  <Innings batting="">
+    <Batsman name="K Lall">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Hansra">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="D Payne">
+      <HowOut how="Caught "/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="J Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="A Lall">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="S Bowers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="R Payne">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Bennet">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="P Dara">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Hugh Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="A Raseev">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Hugh Fort"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="K Bell">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="4" maidens="2" runs="4" wickets="1"/>
+    <BowlerSummary name="Chris Priddle" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="40" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="6" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="Hugh Fort" overs="2.2" maidens="1" runs="5" wickets="2"/>
+  </Innings>
+</CricketMatch>
