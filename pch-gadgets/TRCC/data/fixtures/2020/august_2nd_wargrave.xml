@@ -84,7 +84,7 @@
       <Runs value="10"/>
     </Batsman>
     <Batsman name="D Payne">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Chris Priddle"/>
       <Bowler name="Stan Fritz"/>
       <Runs value="9"/>
     </Batsman>
