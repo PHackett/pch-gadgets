@@ -16,12 +16,12 @@
 
 <YearsFixtures>
 
-<Fixture>
-  <Date>Fri, 3 May 2020 12:00:00 UTC</Date>
-  <Opposition>TBD Tornadoesu13</Opposition>
-  <Time>18:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
+  <Fixture>
+    <Date>Fri, 9 Aug 2020 12:00:00 UTC</Date>
+    <Opposition>Wargrave</Opposition>
+    <Time>18:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
 
 </YearsFixtures>
