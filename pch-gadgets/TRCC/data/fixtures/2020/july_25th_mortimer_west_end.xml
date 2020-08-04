@@ -27,7 +27,7 @@
       <Runs value="18"/>
     </Batsman>
     <Batsman name="Ben Cape">
-      <HowOut how="Caught Mike Longson"/>
+      <HowOut how="Not Out"/>
       <Runs value="15"/>
     </Batsman>
     <Batsman name="Gavin Stamp">
@@ -36,7 +36,7 @@
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Nick Kingston" captain="1">
-      <HowOut how="LBW"/>
+      <HowOut how="Not Out"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Josh Beale" keeper="1">
