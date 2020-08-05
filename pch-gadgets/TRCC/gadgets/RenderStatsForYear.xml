@@ -327,7 +327,19 @@
 								var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "Saturday");
 								lFixA.push (lF);
 							}
-				
+
+    							if (lTeamYears[i].haveLeague1XI())
+							{
+								var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "League1XI");
+								lFixA.push (lF);
+							}
+
+    							if (lTeamYears[i].haveLeague2XI())
+							{
+								var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "League2XI");
+								lFixA.push (lF);
+							}
+
 							if (lTeamYears[i].haveSunday())
 							{
 								var lF=new GGTRCC_FixtureTagO (lTeamYears[i].year(), "Sunday");
