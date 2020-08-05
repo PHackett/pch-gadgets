@@ -92,8 +92,8 @@ function GGTRCC_TeamYearO___haveSaturday()	{ return (this.mSaturday);	}
 function GGTRCC_TeamYearO___haveSunday()	{ return (this.mSunday);	}
 function GGTRCC_TeamYearO___haveYouth()		{ return (this.mYouth);		}
 function GGTRCC_TeamYearO___have2020()		{ return (this.m2020);		}
-Function GGTRCC_TeamYearO___haveLeague1XI()	{ return (this.mLeague1XI);	}
-Function GGTRCC_TeamYearO___haveLeague2XI()	{ return (this.mLeague2XI);	}
+function GGTRCC_TeamYearO___haveLeague1XI()	{ return (this.mLeague1XI);	}
+function GGTRCC_TeamYearO___haveLeague2XI()	{ return (this.mLeague2XI);	}
 
 //------------------------------------------[GGTRCC_teamHTML]-
 // Return the HTML & link for this team
