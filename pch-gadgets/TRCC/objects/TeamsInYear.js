@@ -4,7 +4,7 @@
 // given year
 //
 // @param aYearXML 		IN 	The XML describing the teams that 
-// 							 played in a single yeat
+// 					 played in a single year
 //
 //------------------------------------------------------------
 function GGTRCC_TeamYearO (aYearXML)
@@ -17,22 +17,32 @@ function GGTRCC_TeamYearO (aYearXML)
 	this.mSunday   = false;
 	this.mYouth    = false;
 	this.m2020     = false;
+	
+	//
+	// Yes - There has to be a better way of doing this!
+	//
+	this.mLeague1XI = false;
+	this.mLeague2XI = false;
 
 	//
 	// Methods
 	//
-	this.year 			= GGTRCC_TeamYearO___year;
+	this.year 		= GGTRCC_TeamYearO___year;
 	this.statsLink		= GGTRCC_TeamYearO___statsLink;
 	
 	this.haveSaturday 	= GGTRCC_TeamYearO___haveSaturday;
 	this.haveSunday 	= GGTRCC_TeamYearO___haveSunday;
 	this.haveYouth	 	= GGTRCC_TeamYearO___haveYouth;
 	this.have2020	 	= GGTRCC_TeamYearO___have2020;
+	this.haveLeague1XI 	= GGTRCC_TeamYearO___haveLeague1XI;
+	this.haveLeague2XI 	= GGTRCC_TeamYearO___haveLeague2XI;
 	
 	this.saturdayHTML 	= GGTRCC_TeamYearO___saturdayHTML;
 	this.sundayHTML 	= GGTRCC_TeamYearO___sundayHTML;
 	this.youthHTML 		= GGTRCC_TeamYearO___youthHTML;
 	this.x2020HTML 		= GGTRCC_TeamYearO___2020HTML;
+	this.league1XIHTML	= GGTRCC_TeamYearO___league1XIHTML;
+	this.league2XIHTML	= GGTRCC_TeamYearO___league2XIHTML;
 	
 	this.teamHTML 		= GGTRCC_TeamYearO___teamHTML;
 	
@@ -65,16 +75,25 @@ function GGTRCC_TeamYearO (aYearXML)
 			{
 				this.m2020 = true;
 			}
+			else if (lTeams.item(j).firstChild.nodeValue == "League1XI")
+			{
+				this.mLeague1XI = true;
+			}
+			else if (lTeams.item(j).firstChild.nodeValue == "League2XI")
+			{
+				this.mLeague2XI = true;
+			}
 		}
 	}
 }
 
-function GGTRCC_TeamYearO___year ()			{ return (this.mYear);		}
+function GGTRCC_TeamYearO___year ()		{ return (this.mYear);		}
 function GGTRCC_TeamYearO___haveSaturday()	{ return (this.mSaturday);	}
 function GGTRCC_TeamYearO___haveSunday()	{ return (this.mSunday);	}
 function GGTRCC_TeamYearO___haveYouth()		{ return (this.mYouth);		}
 function GGTRCC_TeamYearO___have2020()		{ return (this.m2020);		}
-
+Function GGTRCC_TeamYearO___haveLeague1XI()	{ return (this.mLeague1XI);	}
+Function GGTRCC_TeamYearO___haveLeague2XI()	{ return (this.mLeague2XI);	}
 
 //------------------------------------------[GGTRCC_teamHTML]-
 // Return the HTML & link for this team
@@ -115,6 +134,8 @@ function GGTRCC_TeamYearO___saturdayHTML()	{ return (this.teamHTML (this.haveSat
 function GGTRCC_TeamYearO___sundayHTML()	{ return (this.teamHTML (this.haveSunday(), "Sunday"));		}
 function GGTRCC_TeamYearO___youthHTML()		{ return (this.teamHTML (this.haveYouth(), "Youth"));		}
 function GGTRCC_TeamYearO___2020HTML()		{ return (this.teamHTML (this.have2020(), "20-20"));		}
+function GGTRCC_TeamYearO___league1XIHTML()	{ return (this.teamHTML (this.haveLeague1XI(), "League1XI"));	}
+function GGTRCC_TeamYearO___league2XIHTML()	{ return (this.teamHTML (this.haveLeague2XI(), "League2XI"));	}
 
 
 //------------------------------------------------------------
@@ -167,6 +188,16 @@ function GGTRCC_TeamYearO___getTeams()
 		lTeams.push("20-20");
 	}
 	
+	if (this.haveLeague1XI())
+	{
+		lTeams.push("League1XI");
+	}
+
+	if (this.haveLeague2XI())
+	{
+		lTeams.push("League2XI");
+	}
+
 	return (lTeams);
 }
 
@@ -268,10 +299,12 @@ function GGTRCC_TeamYearsToHTML (aTeamTearsA)
 
 		lHTML += ">" + aTeamTearsA[i].year() + "</td>";
 		
-		lHTML += "<td>" + aTeamTearsA[i].saturdayHTML() + "<td>"; 
-		lHTML += "<td>" + aTeamTearsA[i].sundayHTML()   + "<td>"; 
-		lHTML += "<td>" + aTeamTearsA[i].youthHTML()    + "<td>"; 
-		lHTML += "<td>" + aTeamTearsA[i].x2020HTML()    + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].saturdayHTML()  + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].league1XIHTML() + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].league2XIHTML() + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].sundayHTML()    + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].youthHTML()     + "<td>"; 
+		lHTML += "<td>" + aTeamTearsA[i].x2020HTML()     + "<td>"; 
 
 		lHTML += "</tr>";
 	}
