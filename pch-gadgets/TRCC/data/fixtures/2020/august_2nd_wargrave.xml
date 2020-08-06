@@ -72,7 +72,7 @@
     <BowlerSummary name="Lall" overs="3" maidens="1" runs="21" wickets="0"/>
     <BowlerSummary name="Payne" overs="8" maidens="0" runs="50" wickets="3"/>
   </Innings>
-  <Innings batting="">
+  <Innings batting="Wargrave">
     <Batsman name="K Lall">
       <HowOut how="LBW"/>
       <Bowler name="Andrew Miller"/>
