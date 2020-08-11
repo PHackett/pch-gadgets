@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 11 2020 23:30:49 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2020/august_1st_falkland.xml-->
+<CricketMatch oppo="Falkland" date="Sat Aug 01 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494387">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Falkland">
+    <Batsman name="Tristan Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Bobby Brown Jnr">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Charlie Mabbatt">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Kishore"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Bowled"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure" captain="1" keeper="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="53"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="7" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="3" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Chandra Kishore" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Max Hitchings" overs="3" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="5" maidens="2" runs="11" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Nagarju Garipelli" overs="4" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Unsure"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chandra Kishore">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="LBW"/>
+      <Bowler name="Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="LBW"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="23"/>
+  </Innings>
+</CricketMatch>

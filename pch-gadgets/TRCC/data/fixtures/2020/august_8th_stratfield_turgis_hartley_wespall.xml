@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 11 2020 22:51:36 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2020/august_8th_stratfield_turgis_hartley_wespall.xml-->
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall" date="Sat Aug 08 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494813">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Stratfield Turgis_Hartley Wespall">
+    <Batsman name="Mark Walton">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Richard Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Dan Weller-Evans">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Chandra Kishore"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Marc Minikin">
+      <HowOut how="Caught Chris Priddle"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="William Toosey">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Joshua Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Kishore"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Neil Girle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Laurie Figzal">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Craig Strudley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ben Weller Evans" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="Chris Priddle" overs="7" maidens="0" runs="40" wickets="4"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="5" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="Chandra Kishore" overs="8" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Prasanth Chintamaneni" overs="2" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="William Toosey"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Craig Strudley"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="William Toosey"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Prasanth Chintamaneni">
+      <HowOut how="Caught Ian Rogers"/>
+      <Bowler name="William Toosey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Laurie Figzal"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru" keeper="1">
+      <HowOut how="Caught Ben Weller Evans"/>
+      <Bowler name="Ben Weller Evans"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chandra Kishore">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="William Toosey"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Dan Weller-Evans"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="William Toosey"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spence Nichols" captain="1">
+      <HowOut how="Caught Ian Rogers"/>
+      <Bowler name="Joshua Carter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="Laurie Figzal" overs="8" maidens="3" runs="20" wickets="1"/>
+    <BowlerSummary name="Ben Weller Evans" overs="5" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Craig Strudley" overs="8" maidens="2" runs="27" wickets="1"/>
+    <BowlerSummary name="Joshua Carter" overs="5.3" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="William Toosey" overs="5" maidens="0" runs="18" wickets="5"/>
+    <BowlerSummary name="Dan Weller-Evans" overs="2" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+</CricketMatch>

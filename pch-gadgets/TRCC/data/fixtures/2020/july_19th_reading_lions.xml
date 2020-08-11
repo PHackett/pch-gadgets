@@ -5,7 +5,8 @@
 <!-- Result = Lose -->
 <!-- XMLFilename = 2020/july_19th_reading_lions.xml -->
 <CricketMatch oppo="Reading Lions" date="Sun Jul 19 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
-  <MatchReport/><CountsToStats/>
+  <MatchReport/>
+  <CountsToStats/>
   <Innings batting="Reading Lions">
     <Batsman name="A Jayabalan">
       <HowOut how="Caught Stan Fritz"/>
@@ -29,7 +30,7 @@
     </Batsman>
     <Batsman name="R Madampath">
       <HowOut how="LBW"/>
-      <Bowler name="Prasant Chintamanem"/>
+      <Bowler name="Prasanth Chintamanemi"/>
       <Runs value="11"/>
     </Batsman>
     <Batsman name="K Prakash">
@@ -62,7 +63,7 @@
     <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="50" wickets="2"/>
     <BowlerSummary name="Tom Downes" overs="4" maidens="0" runs="42" wickets="0"/>
     <BowlerSummary name="Robin Thompson" overs="3" maidens="0" runs="5" wickets="1"/>
-    <BowlerSummary name="Prasant Chintamanem" overs="5" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Prasanth Chintamanemi" overs="5" maidens="0" runs="37" wickets="1"/>
     <BowlerSummary name="Stan Fritz" overs="3" maidens="0" runs="17" wickets="1"/>
     <BowlerSummary name="Manan Narula" overs="1" maidens="0" runs="9" wickets="0"/>
   </Innings>
@@ -100,7 +101,7 @@
       <Bowler name="Niru"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Prasant Chintamanem">
+    <Batsman name="Prasanth Chintamanemi">
       <HowOut how="Not Out"/>
       <Runs value="4"/>
     </Batsman>

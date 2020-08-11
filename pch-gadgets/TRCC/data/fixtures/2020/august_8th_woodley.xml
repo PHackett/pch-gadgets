@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Tue Aug 11 2020 22:53:01 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/august_8th_woodley.xml-->
+<CricketMatch oppo="Woodley" date="Sat Aug 08 2020 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4487963">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodley">
+    <Batsman name="Rizmy Nilamdeen">
+      <HowOut how="Caught Rupesh Ahluwalia"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Mohamed Rimzan">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Ashan Dildar"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Shukry Mohamad" keeper="1">
+      <HowOut how="Caught Rupesh Ahluwalia"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Shamil Nilamdeen">
+      <HowOut how="Caught Rupesh Ahluwalia"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Arshad Mohamed">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="106"/>
+    </Batsman>
+    <Batsman name="Fasul Nufail" captain="1">
+      <HowOut how="Caught Robin Thompson"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rifan Mohamad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Naveed Raja">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mohamed Azmath">
+      <HowOut how="LBW"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Miraque Badurdeen">
+      <HowOut how="LBW"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mohamed Shafraz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Shaqil Arshad" overs="7" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Ashan Dildar" overs="6" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="8" maidens="0" runs="14" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="7" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="5" maidens="0" runs="59" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="Caught Naveed Raja"/>
+      <Bowler name="Arshad Mohamed"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stan Fritz" keeper="1">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Naveed Raja"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Naveed Raja"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rizmy Nilamdeen"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ashan Dildar">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Miraque Badurdeen"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Bowled"/>
+      <Bowler name="Miraque Badurdeen"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mohamed Rimzan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Arshad Mohamed"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Fasul Nufail"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Arshad Mohamed" overs="8" maidens="1" runs="53" wickets="2"/>
+    <BowlerSummary name="Mohamed Azmath" overs="1" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Fasul Nufail" overs="4.3" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Naveed Raja" overs="8" maidens="1" runs="48" wickets="2"/>
+    <BowlerSummary name="Rizmy Nilamdeen" overs="7" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Miraque Badurdeen" overs="5" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Mohamed Rimzan" overs="5" maidens="0" runs="36" wickets="1"/>
+  </Innings>
+</CricketMatch>

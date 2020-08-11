@@ -5,7 +5,8 @@
 <!-- Result = Lose -->
 <!-- XMLFilename = 2020/july_26th_ipsden.xml -->
 <CricketMatch oppo="Ipsden" date="Sun Jul 26 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
-  <MatchReport/><CountsToStats/>
+  <MatchReport/>
+  <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Tom Powell">
       <HowOut how="Run Out"/>
@@ -41,7 +42,7 @@
       <Bowler name="D Houseman"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Prasant Chintamanem">
+    <Batsman name="Prasanth Chintamanemi">
       <HowOut how="Not Out"/>
       <Runs value="16"/>
     </Batsman>
@@ -101,7 +102,7 @@
     <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="16" wickets="1"/>
     <BowlerSummary name="Stan Fritz" overs="4" maidens="0" runs="31" wickets="0"/>
     <BowlerSummary name="Stuart Barrable" overs="7" maidens="0" runs="24" wickets="2"/>
-    <BowlerSummary name="Prasant Chintamanem" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Prasanth Chintamanemi" overs="5" maidens="1" runs="18" wickets="0"/>
     <BowlerSummary name="Simon Burr" overs="1.1" maidens="0" runs="13" wickets="0"/>
   </Innings>
 </CricketMatch>
