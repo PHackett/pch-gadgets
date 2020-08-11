@@ -68,7 +68,7 @@
   </Innings>
   <Innings batting="Ipsden">
     <Batsman name="D Wood">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught WhoThis Ipsden"/>
       <Bowler name="Dylan Burr"/>
       <Runs value="25"/>
     </Batsman>
