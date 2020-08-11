@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Aug 11 2020 11:16:19 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2020/august_9th_harpsden.xml -->
+<CricketMatch oppo="Harpsden" date="Sun Aug 09 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Harpsden">
+    <Batsman name="Usman Isad">
+      <HowOut how="Retired "/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Matt Stanley">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Jack Renders">
+      <HowOut how="Caught Ahsan Tildr"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Richard Hawkins">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nick Harrison">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="C Whittaker">
+      <HowOut how="Retired"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Alex Morgan">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Ahsan Tildr"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Stenhope">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="A Birkett">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Joe Cooper">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Biggin"/>
+    <Extras value="23"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Ahsan Tildr" overs="8" maidens="1" runs="54" wickets="1"/>
+    <BowlerSummary name="Max Hitchings" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="4" maidens="0" runs="17" wickets="3"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="3" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="3" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ahsan Tildr">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="Richard Hawkins"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Caught"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="J Stenhope"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Stenhope"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Jack Renders"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Stumped"/>
+      <Bowler name="A Birkett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Beamish">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="J Stenhope"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Renders"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="2" score="86"/>
+    <FallOfWicket batsman="6" score="94"/>
+    <FallOfWicket batsman="5" score="107"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <FallOfWicket batsman="8" score="107"/>
+    <FallOfWicket batsman="10" score="110"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <BowlerSummary name="A Birkett" overs="8" maidens="1" runs="29" wickets="4"/>
+    <BowlerSummary name="Joe Cooper" overs="8" maidens="3" runs="38" wickets="0"/>
+    <BowlerSummary name="R Birkett" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="J Stenhope" overs="4" maidens="0" runs="16" wickets="3"/>
+    <BowlerSummary name="J Higgins" overs="4" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Jack Renders" overs="4" maidens="1" runs="4" wickets="2"/>
+    <BowlerSummary name="Matt Stanley" overs="0.4" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>
