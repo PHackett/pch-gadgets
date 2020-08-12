@@ -61,10 +61,11 @@
 
   <Fixture>
     <Date>Sat, 8 Aug 2020 12:00:00 UTC</Date>
-    <Opposition>Woodley 1</Opposition>
+    <Opposition>Woodley</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>Win</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
