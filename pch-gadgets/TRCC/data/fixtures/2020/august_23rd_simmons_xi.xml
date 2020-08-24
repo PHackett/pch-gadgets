@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 24 2020 09:22:12 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2020/august_23rd_simmons_xi.xml -->
+<CricketMatch oppo="Simmons XI" date="Sun Aug 23 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Newman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="Robinson"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught"/>
+      <Bowler name="Newman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robinson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Waugh"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught"/>
+      <Bowler name="Robinson"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Waugh"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ikmal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ikmal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="20"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="4" score="25"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <FallOfWicket batsman="5" score="119"/>
+    <FallOfWicket batsman="8" score="137"/>
+    <FallOfWicket batsman="9" score="162"/>
+    <FallOfWicket batsman="10" score="166"/>
+    <BowlerSummary name="Waugh" overs="8" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Newman" overs="8" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Robinson" overs="6" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Davies" overs="4" maidens="28" runs="0" wickets="0"/>
+    <BowlerSummary name="Ikmal" overs="8" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Taylor" overs="6" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+  <Innings batting="Simmons XI">
+    <Batsman name="Newman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Inkley">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manter">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sadler">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Waugh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Label">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hough">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Davies">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stan Fritz"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Robinson">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Pete Schofield"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Richard">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="23" wickets="3"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="Stan Fritz" overs="5" maidens="1" runs="19" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="1.1" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+</CricketMatch>
