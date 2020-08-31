@@ -72,51 +72,51 @@
   <Innings batting="Presidents XI">
     <Batsman name="Tom Hutchins">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="4"/>
     </Batsman>
     <Batsman name="Paul Hackett">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="12"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="26"/>
     </Batsman>
     <Batsman name="Marc Teal">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="26"/>
     </Batsman>
     <Batsman name="Ken Cochrane">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="7"/>
     </Batsman>
     <Batsman name="Stuart Barrable">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="46"/>
     </Batsman>
     <Batsman name="Mike Henry">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="16"/>
     </Batsman>
     <Batsman name="Tom Henry">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="19"/>
     </Batsman>
     <Batsman name="Manan Narula">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="23"/>
     </Batsman>
     <Batsman name="Hugh Fort">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="13"/>
     </Batsman>
     <Batsman name="Spence Nichols">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="6"/>
     </Batsman>
     <Batsman name="Simon Burr">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="11"/>
     </Batsman>
     <Extras value="0"/>
     <BowlerSummary name="James Fort" overs="3" maidens="0" runs="20" wickets="5"/>
@@ -129,6 +129,6 @@
     <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="33" wickets="2"/>
     <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="24" wickets="1"/>
     <BowlerSummary name="Mike Henry" overs="3" maidens="0" runs="16" wickets="0"/>
-    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Richard Knight" overs="1" maidens="0" runs="3" wickets="2"/>
   </Innings>
 </CricketMatch>
