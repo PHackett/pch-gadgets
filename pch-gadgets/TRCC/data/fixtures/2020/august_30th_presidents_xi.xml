@@ -66,6 +66,7 @@
     <BowlerSummary name="Stuart Barrable" overs="3" maidens="0" runs="26" wickets="2"/>
     <BowlerSummary name="Mike Henry" overs="3" maidens="0" runs="10" wickets="1"/>
     <BowlerSummary name="Tom Henry" overs="3" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Richard Knight" overs="3" maidens="0" runs="16" wickets="0"/>
   </Innings>
   <Innings batting="Presidents XI">
     <Batsman name="Tom Hutchins">
@@ -127,5 +128,6 @@
     <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="33" wickets="2"/>
     <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="24" wickets="1"/>
     <BowlerSummary name="Mike Henry" overs="3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="16" wickets="0"/>
   </Innings>
 </CricketMatch>
