@@ -9,51 +9,51 @@
   <Innings batting="Twyford">
     <Batsman name="James Fort">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="14"/>
     </Batsman>
     <Batsman name="Peter Woodman">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="24"/>
     </Batsman>
     <Batsman name="Joe Downes">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="24"/>
     </Batsman>
     <Batsman name="Tom Downes">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="23"/>
     </Batsman>
     <Batsman name="David Downes">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="34"/>
     </Batsman>
     <Batsman name="Noel Downes">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="13"/>
     </Batsman>
     <Batsman name="Jez Henry">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="32"/>
     </Batsman>
-    <Batsman name="Mark Lawrence">
+    <Batsman name="Richard Lawrence">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="20"/>
     </Batsman>
     <Batsman name="Tom Fort">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="3"/>
     </Batsman>
     <Batsman name="Richard Knight">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="4"/>
     </Batsman>
     <Batsman name="Richard Longmuir">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="55"/>
     </Batsman>
     <Batsman name="Nic Downes">
       <HowOut how="Not Out"/>
-      <Runs value="5"/>
+      <Runs value="9"/>
     </Batsman>
     <Extras value="0"/>
     <BowlerSummary name="Hugh Fort" overs="3" maidens="0" runs="26" wickets="2"/>
