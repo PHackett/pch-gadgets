@@ -8,28 +8,52 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="James Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Peter Woodman">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Tom Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="David Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Jez Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Mark Lawrence">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Tom Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Richard Knight">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Richard Longmuir">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Extras value="0"/>
     <BowlerSummary name="Hugh Fort" overs="3" maidens="0" runs="26" wickets="2"/>
@@ -45,28 +69,52 @@
   </Innings>
   <Innings batting="Presidents XI">
     <Batsman name="Tom Hutchins">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Marc Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Ken Cochrane">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Mike Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Tom Henry">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Manan Narula">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Batsman name="Simon Burr">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
     </Batsman>
     <Extras value="0"/>
     <BowlerSummary name="James Fort" overs="3" maidens="0" runs="20" wickets="5"/>
