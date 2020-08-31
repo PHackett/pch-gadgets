@@ -4,7 +4,7 @@
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Lose -->
 <!-- XMLFilename = 2020/august_30th_presidents_xi.xml -->
-<CricketMatch oppo="Presidents XI" date="Sun Aug 30 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+<CricketMatch oppo="Presidents XI" date="Sun Aug 30 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="" notforstats="true">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="James Fort">
