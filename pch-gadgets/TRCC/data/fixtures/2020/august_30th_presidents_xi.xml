@@ -7,17 +7,30 @@
 <CricketMatch oppo="Presidents XI" date="Sun Aug 30 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="James Fort"/>
-    <Batsman name="Peter Woodman"/>
-    <Batsman name="Joe Downes"/>
-    <Batsman name="Tom Downes"/>
-    <Batsman name="David Downes"/>
-    <Batsman name="Noel Downes"/>
-    <Batsman name="Jez Henry"/>
-    <Batsman name="Mark Lawrence"/>
-    <Batsman name="Tom Fort"/>
-    <Batsman name="Richard Knight"/>
-    <Batsman name="Richard Longmuir"/>
+    <Batsman name="James Fort">
+    </Batsman>
+    <Batsman name="Peter Woodman">
+    </Batsman>
+    <Batsman name="Joe Downes">
+    </Batsman>
+    <Batsman name="Tom Downes">
+    </Batsman>
+    <Batsman name="David Downes">
+    </Batsman>
+    <Batsman name="Noel Downes">
+    </Batsman>
+    <Batsman name="Jez Henry">
+    </Batsman>
+    <Batsman name="Mark Lawrence">
+    </Batsman>
+    <Batsman name="Tom Fort">
+    </Batsman>
+    <Batsman name="Richard Knight">
+    </Batsman>
+    <Batsman name="Richard Longmuir">
+    </Batsman>
+    <Batsman name="Nic Downes">
+    </Batsman>
     <Extras value="0"/>
     <BowlerSummary name="Hugh Fort" overs="3" maidens="0" runs="26" wickets="2"/>
     <BowlerSummary name="Tom Hutchins" overs="3" maidens="0" runs="24" wickets="1"/>
@@ -31,17 +44,30 @@
     <BowlerSummary name="Tom Henry" overs="3" maidens="1" runs="18" wickets="0"/>
   </Innings>
   <Innings batting="Presidents XI">
-    <Batsman name="Tom Hutchins"/>
-    <Batsman name="Paul Hackett"/>
-    <Batsman name="Chandra Cherukuri"/>
-    <Batsman name="Marc Teal"/>
-    <Batsman name="Ken Cochrane"/>
-    <Batsman name="Stuart Barrable"/>
-    <Batsman name="Mike Henry"/>
-    <Batsman name="Tom Henry"/>
-    <Batsman name="Manan Narula"/>
-    <Batsman name="Hugh Fort"/>
-    <Batsman name="Spence Nichols"/>
+    <Batsman name="Tom Hutchins">
+    </Batsman>
+    <Batsman name="Paul Hackett">
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+    </Batsman>
+    <Batsman name="Marc Teal">
+    </Batsman>
+    <Batsman name="Ken Cochrane">
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+    </Batsman>
+    <Batsman name="Mike Henry">
+    </Batsman>
+    <Batsman name="Tom Henry">
+    </Batsman>
+    <Batsman name="Manan Narula">
+    </Batsman>
+    <Batsman name="Hugh Fort">
+    </Batsman>
+    <Batsman name="Spence Nichols">
+    </Batsman>
+    <Batsman name="Simon Burr">
+    </Batsman>
     <Extras value="0"/>
     <BowlerSummary name="James Fort" overs="3" maidens="0" runs="20" wickets="5"/>
     <BowlerSummary name="Tom Fort" overs="3" maidens="0" runs="7" wickets="1"/>
