@@ -211,8 +211,9 @@
   <Date>Sun, 6 Sep 2020 12:00:00 UTC</Date>
   <Opposition>Peppard and Stoke Row</Opposition>
   <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
+  <Venue>home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
