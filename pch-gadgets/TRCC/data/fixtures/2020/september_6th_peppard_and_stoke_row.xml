@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 07 2020 10:27:32 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2020/september_6th_peppard_and_stoke_row.xml -->
+<CricketMatch oppo="Peppard and Stoke Row" date="Sun Sep 06 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Proudfoot"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Evans"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught"/>
+      <Bowler name="Rumble"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught"/>
+      <Bowler name="Proudfoot"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Wakelam"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Evans"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Rumble"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Caught"/>
+      <Bowler name="T Latery"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Caught"/>
+      <Bowler name="Rumble"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="59"/>
+    <FallOfWicket batsman="4" score="105"/>
+    <FallOfWicket batsman="5" score="118"/>
+    <FallOfWicket batsman="3" score="176"/>
+    <FallOfWicket batsman="7" score="178"/>
+    <FallOfWicket batsman="8" score="185"/>
+    <FallOfWicket batsman="10" score="191"/>
+    <FallOfWicket batsman="9" score="191"/>
+    <FallOfWicket batsman="6" score="191"/>
+    <BowlerSummary name="Rumble" overs="8" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Evans" overs="7.2" maidens="1" runs="49" wickets="2"/>
+    <BowlerSummary name="Proudfoot" overs="8" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="J Wakelam" overs="8" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="W Wakelam" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="T Latery" overs="4" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+  <Innings batting="Peppard and Stoke Row">
+    <Batsman name="M Laing">
+      <HowOut how="Caught Max Hitchings"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="C Laing">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="S Rumble">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="S Wilkinson">
+      <HowOut how="Caught Max Hitchings"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Lotery">
+      <HowOut how="LBW"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="W Wakelam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="C Proudfoot">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="D Evans">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Stuart Barrable"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="B Rumble">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Tom Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Wakelam">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="T Latery">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Will Etheridge" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="6" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Tom Hutchins" overs="5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Stuart Barrable" overs="7" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Tom Downes" overs="5" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+</CricketMatch>
