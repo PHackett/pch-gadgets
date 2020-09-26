@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sat Sep 26 2020 09:41:31 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2020/september_20th_west_reading.xml -->
+<CricketMatch oppo="West Reading" date="Sun Sep 20 2020 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Stumped"/>
+      <Bowler name="Abdul Khaliq"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sultan Khan"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Babar Ali"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Babar Ali"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sultan Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sultan Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught"/>
+      <Bowler name="Hazma Ahmed"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Hazma Ahmed"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Run Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="Hazma Ahmed"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="2" score="71"/>
+    <FallOfWicket batsman="1" score="80"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="3" score="115"/>
+    <FallOfWicket batsman="8" score="136"/>
+    <BowlerSummary name="Abdul Khaliq" overs="6" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Lesa Saddiq" overs="5" maidens="0" runs="65" wickets="0"/>
+    <BowlerSummary name="Abdur Raheem" overs="4" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Babar Ali" overs="6" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Sultan Khan" overs="6" maidens="0" runs="15" wickets="3"/>
+    <BowlerSummary name="Hazma Ahmed" overs="4.2" maidens="2" runs="17" wickets="3"/>
+  </Innings>
+  <Innings batting="West Reading">
+    <Batsman name="Wasim Akram">
+      <HowOut how="Caught Neil Lancum"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Hessam Raja">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Amaar Raja">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Fahad Raja">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="4" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Chris Priddle" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Sam Staples" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Stuart Barrable" overs="4" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+</CricketMatch>
