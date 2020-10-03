@@ -1,4 +1,26 @@
 //-----------------------------[TRCCUtils_ProcessPreferences]-
+// Extract an item from the "parent" page URL, based upon the 
+// delimiter "/"
+//
+//	@param	aIndex	IN	Index to extract.
+//				0 is the item before the first '/'
+//				1 is the item between the first 
+//				  & second '/'
+//				n ... etc.
+//				-1 is whatever comes after the 
+//				  last '/'
+//				-2 ... is the one before that
+//				-n ... etc.
+//------------------------------------------------------------
+function TRCCUtils_ExtractFromParentBuIndex (aIndex)
+{
+	var lRet="";
+	
+	
+	return (lRet);
+}
+
+//-----------------------------[TRCCUtils_ProcessPreferences]-
 // Process the user preferences for this page
 //
 // 	@param 	aPrefName		IN 	"Preference" name. The name 
