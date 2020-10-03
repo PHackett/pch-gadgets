@@ -130,6 +130,7 @@
 					//
 					var lHTML = "";
 					
+     					lHTML += "<b>TEST</b><br/>";
 					
 					lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					
