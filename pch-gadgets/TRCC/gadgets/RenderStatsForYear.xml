@@ -199,7 +199,7 @@
 					//
 					if (0 == aMatchDataArray.length)
 					{
-						lH += "There are no results for the year " + gYear;
+						lH += "There are no results for the year '" + gYear + "'";
 					}
 					else
 					{

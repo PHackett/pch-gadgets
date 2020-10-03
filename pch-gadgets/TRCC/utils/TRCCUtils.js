@@ -1,4 +1,65 @@
 //-----------------------------[TRCCUtils_ProcessPreferences]-
+// Extract an item from the "parent" page URL, based upon the 
+// delimiter "/"
+//
+//	@param	aIndex	IN	Index to extract.
+//				0 is the item before the first '/'
+//				1 is the item between the first 
+//				  & second '/'
+//				n ... etc.
+//				-1 is whatever comes after the 
+//				  last '/'
+//				-2 ... is the one before that
+//				-n ... etc.
+//
+//	@return The string at the requested index, or an error 
+//		 messages if there is a problem.
+//------------------------------------------------------------
+function TRCCUtils_ExtractFromParentByIndex (aIndex)
+{
+	var lRet="";
+	
+	//
+	// Get the parent
+	//
+	var lParent=new String (_args()["parent"]);
+	
+	//
+	// Split the parent
+	//
+	var lItems=lParent.split("/");
+	var lNumIndexes=lItems.length;		// How many items do we have?
+	
+	//
+	// Calculate the index we want
+	//
+	var lIndex=aIndex;
+	
+	if (lIndex < 0)
+	{
+		lIndex = lNumIndexes + lIndex;
+	}
+	
+	//
+	// Index OK?
+	//
+	if (lIndex < 0)
+	{
+		lRet = "Index " + aIndex + " is before beginning of parent URL '" + lParent + "'";
+	}
+	else if (lIndex >= lNumIndexes)
+	{
+		lRet = "Index " + aIndex + " is after end of parent URL '" + lParent + "'";
+	}
+	else
+	{
+		lRet = lItems[lIndex];
+	}
+	
+	return (lRet);
+}
+
+//-----------------------------[TRCCUtils_ProcessPreferences]-
 // Process the user preferences for this page
 //
 // 	@param 	aPrefName		IN 	"Preference" name. The name 

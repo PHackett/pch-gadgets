@@ -96,6 +96,11 @@
 					// Lets see the referer too
 					//
 					lHTML += "<br>document.referrer = '" + document.referrer + "'<br>";
+
+					//
+					// And the "parent"
+					//
+					lHTML += "<br>_args()[\"parent\"] = '" + _args()["parent"] + "'<br>";
 					
 					//
 					// Display HTML string in <div>
