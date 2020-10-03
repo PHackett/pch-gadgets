@@ -150,12 +150,16 @@
 					//
 					// First the first name - Any userPrefs?
 					//
-					gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
+					// *** THIS STOPPED WORKING in October 2020 ***
+					// gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
+					gFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split("_")[1];
 					
 					//
 					// Now the surname ...
 					//
-					gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
+					// *** THIS STOPPED WORKING in October 2020 ***
+					// gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
+					gSurname = TRCCUtils_ExtractFromParentByIndex(-1).split("_")[0];
 					
 					//
 					// Lastly - Save away the "link target"
