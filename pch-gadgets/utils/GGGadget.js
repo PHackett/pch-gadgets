@@ -72,7 +72,7 @@ function GGGadget_getHostURL (aIncludeQuery)
 	{
 		lRet = "";
 	}
-	else if (aIncludeQuery)
+	else if (lIncludeQuery)
 	{
 		// We are done
 	}
