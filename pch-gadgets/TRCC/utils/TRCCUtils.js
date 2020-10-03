@@ -45,7 +45,11 @@ function TRCCUtils_ExtractFromParentByIndex (aIndex)
 	//
 	if (lIndex < 0)
 	{
-		lRet = "Index " + aIndex + " not available in parent URL '" + lParent + "'";
+		lRet = "Index " + aIndex + " is before beginning of parent URL '" + lParent + "'";
+	}
+	else if (lIndex >= lNumIndexes)
+	{
+		lRet = "Index " + aIndex + " is after end of parent URL '" + lParent + "'";
 	}
 	else
 	{
