@@ -23,7 +23,7 @@
     </Batsman>
     <Batsman name="Dan Weller-Evans">
       <HowOut how="Caught Chris Priddle"/>
-      <Bowler name="Chandra Kishore"/>
+      <Bowler name="Kishore Nallapaneni"/>
       <Runs value="25"/>
     </Batsman>
     <Batsman name="Marc Minikin">
@@ -37,7 +37,7 @@
     </Batsman>
     <Batsman name="Joshua Carter">
       <HowOut how="Bowled"/>
-      <Bowler name="Chandra Kishore"/>
+      <Bowler name="Kishore Nallapaneni"/>
       <Runs value="13"/>
     </Batsman>
     <Batsman name="Neil Girle">
@@ -66,7 +66,7 @@
     <BowlerSummary name="Sathesh Polepaka" overs="5" maidens="2" runs="13" wickets="0"/>
     <BowlerSummary name="Dylan Burr" overs="4" maidens="0" runs="21" wickets="1"/>
     <BowlerSummary name="Spence Nichols" overs="8" maidens="1" runs="23" wickets="2"/>
-    <BowlerSummary name="Chandra Kishore" overs="8" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="8" maidens="0" runs="22" wickets="2"/>
     <BowlerSummary name="Prasanth Chintamaneni" overs="2" maidens="0" runs="16" wickets="0"/>
   </Innings>
   <Innings batting="Twyford">
@@ -100,7 +100,7 @@
       <Bowler name="Ben Weller Evans"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Chandra Kishore">
+    <Batsman name="Kishore Nallapaneni">
       <HowOut how="Caught Unsure"/>
       <Bowler name="William Toosey"/>
       <Runs value="16"/>

@@ -22,7 +22,7 @@
     </Batsman>
     <Batsman name="Unsure" captain="1" keeper="1">
       <HowOut how="Bowled"/>
-      <Bowler name="Chandra Kishore"/>
+      <Bowler name="Kishore Nallapaneni"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Unsure" captain="1" keeper="1">
@@ -57,7 +57,7 @@
     <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="0" runs="42" wickets="1"/>
     <BowlerSummary name="Sam Staples" overs="7" maidens="0" runs="40" wickets="0"/>
     <BowlerSummary name="Dylan Burr" overs="3" maidens="1" runs="17" wickets="1"/>
-    <BowlerSummary name="Chandra Kishore" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="6" maidens="0" runs="22" wickets="1"/>
     <BowlerSummary name="Max Hitchings" overs="3" maidens="0" runs="31" wickets="0"/>
     <BowlerSummary name="Will Etheridge" overs="5" maidens="2" runs="11" wickets="0"/>
     <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="18" wickets="0"/>
@@ -84,7 +84,7 @@
       <Bowler name="Unsure"/>
       <Runs value="11"/>
     </Batsman>
-    <Batsman name="Chandra Kishore">
+    <Batsman name="Kishore Nallapaneni">
       <HowOut how="Caught Unsure"/>
       <Bowler name="Unsure"/>
       <Runs value="0"/>
