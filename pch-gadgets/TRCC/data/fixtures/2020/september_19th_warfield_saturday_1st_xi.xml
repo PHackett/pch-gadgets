@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 13:30:09 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2020/september_19th_warfield_saturday_1st_xi.xml-->
+<CricketMatch oppo="Warfield Saturday 1st XI" date="Sat Sep 19 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4471211">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield Saturday 1st XI">
+    <Batsman name="Sam Laing">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Vatsa Kalli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Torry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Sivendran Sivapalan">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Firas Rajabdeen" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sadhil Badurdeen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sham Gulam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Andy Douglas" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Tisshaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Riyas Rajab">
+      <HowOut how="Bowled"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Madheev Kalli">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="113"/>
+    <FallOfWicket batsman="4" score="118"/>
+    <FallOfWicket batsman="5" score="150"/>
+    <FallOfWicket batsman="6" score="157"/>
+    <FallOfWicket batsman="7" score="195"/>
+    <FallOfWicket batsman="8" score="196"/>
+    <FallOfWicket batsman="1" score="198"/>
+    <FallOfWicket batsman="9" score="217"/>
+    <BowlerSummary name="Venkat Dandamudi" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="1" runs="37" wickets="2"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="8" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="6" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="0" runs="38" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="34" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Andy Douglas"/>
+      <Bowler name="Sham Gulam"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru" keeper="1">
+      <HowOut how="Caught Andy Douglas"/>
+      <Bowler name="Sham Gulam"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Caught Vatsa Kalli"/>
+      <Bowler name="Dan Torry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Douglas"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Sivendran Sivapalan"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Venkat Dandamudi">
+      <HowOut how="Caught Madheev Kalli"/>
+      <Bowler name="Sivendran Sivapalan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sivendran Sivapalan"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kishore Nallapaneni">
+      <HowOut how="Caught Mark Tisshaw"/>
+      <Bowler name="Mark Tisshaw"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Caught Mark Tisshaw"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Spence Nichols" captain="1">
+      <HowOut how="Caught Firas Rajabdeen"/>
+      <Bowler name="Andy Douglas"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught Firas Rajabdeen"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="47"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="2" score="35"/>
+    <FallOfWicket batsman="5" score="58"/>
+    <FallOfWicket batsman="6" score="58"/>
+    <FallOfWicket batsman="7" score="68"/>
+    <FallOfWicket batsman="8" score="116"/>
+    <FallOfWicket batsman="4" score="137"/>
+    <FallOfWicket batsman="10" score="143"/>
+    <BowlerSummary name="Dan Torry" overs="6" maidens="3" runs="19" wickets="1"/>
+    <BowlerSummary name="Sham Gulam" overs="5" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Sivendran Sivapalan" overs="7" maidens="3" runs="21" wickets="3"/>
+    <BowlerSummary name="Madheev Kalli" overs="4" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Riyas Rajab" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Mark Tisshaw" overs="7" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Andy Douglas" overs="6" maidens="1" runs="19" wickets="2"/>
+  </Innings>
+</CricketMatch>

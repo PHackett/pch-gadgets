@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 16:30:29 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2020/august_29th_goring_on_thames_1st_xi.xml-->
+<CricketMatch oppo="Goring on Thames 1st XI" date="Sat Aug 29 2020 13:00:00 +01:00 (BST)" matchType="Cup" team="1st XI" playCricketId="4507375">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Goring on Thames 1st XI">
+    <Batsman name="Max McGee">
+      <HowOut how="Caught Ashan Dildar"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Walsh">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Ollie Carrier" captain="1">
+      <HowOut how="Stumped Mark Higgins"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Johann Toerien">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Lewis" keeper="1">
+      <HowOut how="Caught Stan Fritz"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Ollie Winterbottom">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alex Crawford">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Peter Slade">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jamie Vickery">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ali Baxter">
+      <HowOut how="Caught Stan Fritz"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James Major">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="3" score="92"/>
+    <FallOfWicket batsman="4" score="107"/>
+    <FallOfWicket batsman="2" score="108"/>
+    <FallOfWicket batsman="6" score="120"/>
+    <FallOfWicket batsman="7" score="132"/>
+    <FallOfWicket batsman="8" score="134"/>
+    <FallOfWicket batsman="9" score="136"/>
+    <BowlerSummary name="Shaqil Arshad" overs="8.0" maidens="3" runs="12" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="7.0" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Rajendra Babu" overs="3.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="6.0" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Robin Thompson" overs="8.0" maidens="0" runs="40" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught Chris Lewis"/>
+      <Bowler name="Ollie Winterbottom"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="Caught Max McGee"/>
+      <Bowler name="James Major"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="Run Out Ollie Winterbottom"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Ashan Dildar">
+      <HowOut how="Caught Ollie Winterbottom"/>
+      <Bowler name="James Major"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Run Out Ollie Winterbottom"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Caught Ollie Carrier"/>
+      <Bowler name="Jamie Vickery"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Crawford"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught Chris Walsh"/>
+      <Bowler name="Alex Crawford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="Caught Chris Walsh"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Run Out Max McGee"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="6" score="69"/>
+    <FallOfWicket batsman="7" score="103"/>
+    <FallOfWicket batsman="8" score="103"/>
+    <FallOfWicket batsman="3" score="141"/>
+    <FallOfWicket batsman="10" score="142"/>
+    <BowlerSummary name="Peter Slade" overs="8.0" maidens="2" runs="33" wickets="0"/>
+    <BowlerSummary name="James Major" overs="8.0" maidens="2" runs="21" wickets="2"/>
+    <BowlerSummary name="Ollie Winterbottom" overs="8.0" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Jamie Vickery" overs="8.0" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Alex Crawford" overs="8.0" maidens="2" runs="16" wickets="2"/>
+  </Innings>
+</CricketMatch>

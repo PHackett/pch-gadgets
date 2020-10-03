@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 16:29:00 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/august_22nd_mortimer_west_end_1st_xi.xml-->
+<CricketMatch oppo="Mortimer West End 1st XI" date="Sat Aug 22 2020 13:00:00 +01:00 (BST)" matchType="Cup" team="1st XI" playCricketId="4503967">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Mortimer West End 1st XI">
+    <Batsman name="George Williams">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="William Bray">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Adam Telford">
+      <HowOut how="Caught Ashan Dildar"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Jack Gilbey">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ben Cape">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nick Kingston" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Josh Beale" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Johnson">
+      <HowOut how="Bowled"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Toby Gilbey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andy Trott">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Morris">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="4" score="66"/>
+    <FallOfWicket batsman="6" score="75"/>
+    <FallOfWicket batsman="7" score="75"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="9" score="78"/>
+    <FallOfWicket batsman="10" score="84"/>
+    <FallOfWicket batsman="11" score="88"/>
+    <BowlerSummary name="Shaqil Arshad" overs="6" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Rajendra Babu" overs="4" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="7" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="6" maidens="2" runs="5" wickets="6"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Johnson"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Kingston"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="Caught Andy Johnson"/>
+      <Bowler name="Nick Kingston"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Telford"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ashan Dildar">
+      <HowOut how="Bowled"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mark Higgins" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Kingston"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nick Kingston"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Bowled"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="1" score="57"/>
+    <FallOfWicket batsman="6" score="74"/>
+    <FallOfWicket batsman="7" score="84"/>
+    <BowlerSummary name="Matthew Morris" overs="5" maidens="2" runs="12" wickets="0"/>
+    <BowlerSummary name="Toby Gilbey" overs="3.3" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Nick Kingston" overs="7" maidens="2" runs="22" wickets="4"/>
+    <BowlerSummary name="Andy Trott" overs="3" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Andy Johnson" overs="6" maidens="3" runs="15" wickets="1"/>
+    <BowlerSummary name="Adam Telford" overs="3" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>

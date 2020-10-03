@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 13:38:10 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/august_22nd_stratfield_turgis_hartley_wespall_2nd_xi.xml-->
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall 2nd XI" date="Sat Aug 22 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494816">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sridhar Sekaran"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Sridhar Sekaran"/>
+      <Bowler name="Martin Sandland"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught Dan Weller-Evans"/>
+      <Bowler name="Unsure"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom Henry">
+      <HowOut how="Stumped Ian Rogers"/>
+      <Bowler name="Dan Weller-Evans"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sridhar Sekaran"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kishore Nallapaneni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Mike Henry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru" keeper="1">
+      <HowOut how="Bowled"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Carter"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Dan Weller-Evans"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Spence Nichols" captain="1">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="3" score="75"/>
+    <FallOfWicket batsman="4" score="109"/>
+    <FallOfWicket batsman="5" score="112"/>
+    <FallOfWicket batsman="2" score="128"/>
+    <FallOfWicket batsman="7" score="165"/>
+    <FallOfWicket batsman="6" score="190"/>
+    <FallOfWicket batsman="9" score="211"/>
+    <FallOfWicket batsman="10" score="220"/>
+    <BowlerSummary name="Richard Carter" overs="8" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Sridhar Sekaran" overs="8" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Unsure" overs="8" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Stephen Swankie" overs="8" maidens="0" runs="64" wickets="0"/>
+    <BowlerSummary name="Dan Weller-Evans" overs="4" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Martin Sandland" overs="4" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Stratfield Turgis_Hartley Wespall 2nd XI">
+    <Batsman name="Martin Sandland">
+      <HowOut how="Caught Kishore Nallapaneni"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Richard Carter">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Sridhar Sekaran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Neil Girle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Henry"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dan Weller-Evans" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ian Rogers" keeper="1">
+      <HowOut how="Caught Mike Henry"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kishore Nallapaneni"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Joshua Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stephen Swankie">
+      <HowOut how="Bowled"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Martin Turvey">
+      <HowOut how="Bowled"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="7" score="32"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <FallOfWicket batsman="7" score="111"/>
+    <FallOfWicket batsman="7" score="113"/>
+    <FallOfWicket batsman="7" score="154"/>
+    <FallOfWicket batsman="7" score="171"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <FallOfWicket batsman="7" score="176"/>
+    <FallOfWicket batsman="7" score="180"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Tom Henry" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="5" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Mike Henry" overs="5" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Neil Lancum" overs="5" maidens="0" runs="21" wickets="4"/>
+  </Innings>
+</CricketMatch>

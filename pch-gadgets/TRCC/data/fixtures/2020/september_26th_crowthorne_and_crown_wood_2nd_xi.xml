@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 13:24:03 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/september_26th_crowthorne_and_crown_wood_2nd_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood 2nd XI" date="Sat Sep 26 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4510938">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="LBW"/>
+      <Bowler name="Peter Emes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Baines"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Avinash Singh"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Baines"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Finucane"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Kishore Nallapaneni">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="John Cartledge"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Spence Nichols" captain="1">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="4" score="43"/>
+    <FallOfWicket batsman="5" score="66"/>
+    <FallOfWicket batsman="6" score="80"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="8" score="179"/>
+    <FallOfWicket batsman="7" score="181"/>
+    <BowlerSummary name="Peter Emes" overs="6.0" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Avinash Singh" overs="6" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Jack Smith" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Matthew Kelly" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Andrew Baines" overs="6" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Dan Finucane" overs="6" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="John Cartledge" overs="2" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Crowthorne and Crown Wood 2nd XI">
+    <Batsman name="David McQuitty">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Nash">
+      <HowOut how="Caught Nagarju Garipelli"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andrew Baines">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Kishore Nallapaneni"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Winch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="John Cartledge">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Jordan Cartledge" keeper="1">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Dan Finucane" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Peter Emes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Powell"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Jack Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Powell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Kelly">
+      <HowOut how="Bowled"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Avinash Singh">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="2" score="40"/>
+    <FallOfWicket batsman="6" score="58"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="8" score="101"/>
+    <FallOfWicket batsman="9" score="105"/>
+    <FallOfWicket batsman="7" score="121"/>
+    <FallOfWicket batsman="11" score="127"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="4.0" maidens="0" runs="15" wickets="3"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="6.0" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="4.0" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Pete Schofield" overs="2.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Tom Powell" overs="1.0" maidens="0" runs="13" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="2.0" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Kiran Siddineni" overs="1.4" maidens="0" runs="3" wickets="2"/>
+  </Innings>
+</CricketMatch>

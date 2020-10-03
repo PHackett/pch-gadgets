@@ -21,7 +21,7 @@
     <Opposition>Shinfield 3rd XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Won</Result>
   </Fixture>
 
   <Fixture>
@@ -56,7 +56,8 @@
     <Opposition>Shinfield 3rd XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -64,7 +65,8 @@
     <Opposition>Stratfield 2nd XI</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Won</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -80,7 +82,8 @@
     <Opposition>Binfield 4th XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -88,7 +91,7 @@
     <Opposition>Falkland Development XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Lose</Result>
     <HasLink/>
   </Fixture>
 
@@ -97,7 +100,7 @@
     <Opposition>Warfield 1st XI</Opposition>
     <Time>12:30</Time>
     <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Lose</Result>
     <HasLink/>
   </Fixture>
 
@@ -106,7 +109,7 @@
     <Opposition>Crowthorne and Crown Wood 2nd XI</Opposition>
     <Time>12:30</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Win</Result>
     <HasLink/>
   </Fixture>
 

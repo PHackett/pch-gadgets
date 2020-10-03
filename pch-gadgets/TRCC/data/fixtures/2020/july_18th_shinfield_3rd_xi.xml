@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 13:41:12 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/july_18th_shinfield_3rd_xi.xml-->
+<CricketMatch oppo="Shinfield 3rd XI" date="Sat Jul 18 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4474140">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Angus Tiffin"/>
+      <Bowler name="Vivek Sharma"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Dan Hare"/>
+      <Bowler name="Ellen Tiffin"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught Dan Hare"/>
+      <Bowler name="Sidharth Shetty"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sidharth Shetty"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Hamish Pringle">
+      <HowOut how="LBW"/>
+      <Bowler name="Sidharth Shetty"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Viraj Nerkar"/>
+      <Bowler name="Dan Hare"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Tiffin"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Adam Postlethwaite"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Adam Postlethwaite"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Dan Hare"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Simon Burr" captain="1" keeper="1">
+      <HowOut how="Caught Unsure"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Adam Postlethwaite" overs="6" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Sidharth Shetty" overs="7" maidens="2" runs="20" wickets="3"/>
+    <BowlerSummary name="Ellen Tiffin" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Vivek Sharma" overs="8" maidens="2" runs="37" wickets="1"/>
+    <BowlerSummary name="Dan Hare" overs="4" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Hemant Mathur" overs="4" maidens="1" runs="36" wickets="0"/>
+    <BowlerSummary name="Samarth Shah" overs="2" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Angus Tiffin" overs="3" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Shinfield 3rd XI">
+    <Batsman name="Emil Reisser-Weston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rushil Raval">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Viraj Nerkar" keeper="1">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Vivek Sharma">
+      <HowOut how="Caught Tom Downes"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Samarth Shah">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Angus Tiffin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Hemant Mathur" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Sidharth Shetty">
+      <HowOut how="Bowled"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Dan Hare">
+      <HowOut how="Caught Nagarju Garipelli"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ellen Tiffin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Postlethwaite">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Tom Downes" overs="4" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="6" maidens="1" runs="22" wickets="3"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="4" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Chris Priddle" overs="8" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="2" runs="23" wickets="4"/>
+    <BowlerSummary name="Mike Longson" overs="2" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>

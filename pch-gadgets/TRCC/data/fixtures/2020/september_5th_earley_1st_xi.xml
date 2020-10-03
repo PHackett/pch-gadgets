@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Sat Oct 03 2020 16:33:01 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2020/september_5th_earley_1st_xi.xml-->
+<CricketMatch oppo="Earley 1st XI" date="Sat Sep 05 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4494805">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson" captain="1">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Tom Thompson"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Deep Singh"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Tom Thompson"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Rajendra Babu">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Shashank Goyal"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Shashank Goyal"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kishore Nallapaneni">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Stumped Unsure"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Vish Shende"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Deep Singh" overs="6" maidens="0" runs="16" wickets="4"/>
+    <BowlerSummary name="Vish Shende" overs="6.3" maidens="2" runs="10" wickets="1"/>
+    <BowlerSummary name="Binny Zutshi" overs="5" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Mudit Wadhwa" overs="4" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Tom Thompson" overs="8" maidens="0" runs="52" wickets="2"/>
+    <BowlerSummary name="Vernon Butcher" overs="5" maidens="0" runs="56" wickets="0"/>
+    <BowlerSummary name="Omi Shukla" overs="1" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Shashank Goyal" overs="3" maidens="0" runs="16" wickets="2"/>
+  </Innings>
+  <Innings batting="Earley 1st XI">
+    <Batsman name="Vinod Aduri">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rahul Sood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rajendra Babu"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sanjay Gurung">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Omi Shukla">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Shashank Goyal" captain="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kishore Nallapaneni"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Binny Zutshi">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mudit Wadhwa">
+      <HowOut how="Run Out Manan Narula"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Vish Shende">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Deep Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Thompson">
+      <HowOut how="Run Out Mike Longson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vernon Butcher">
+      <HowOut how="Run Out Mike Longson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Rajendra Babu" overs="6" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="7" maidens="1" runs="16" wickets="2"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Chris Priddle" overs="1.3" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Robin Thompson" overs="1" maidens="1" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>

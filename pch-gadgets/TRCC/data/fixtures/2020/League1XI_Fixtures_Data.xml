@@ -73,7 +73,8 @@
     <Opposition>Goring on Thames 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -81,7 +82,8 @@
     <Opposition>Mortimer West End 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Win</Resunlt>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -89,7 +91,8 @@
     <Opposition>Goring on Thames 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Lose</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -97,7 +100,8 @@
     <Opposition>Earley 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Win</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -105,7 +109,8 @@
     <Opposition>Reading Lions 1st XI</Opposition>
     <Time>12:30</Time>
     <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Tie</Result>
+    <HasLink/>
   </Fixture>
 
   <Fixture>
@@ -113,7 +118,8 @@
     <Opposition>Crowthorne and Crown Wood 1st XI</Opposition>
     <Time>12:30</Time>
     <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
+    <Result>Win</Result>
+    <HasLink/>
   </Fixture>
 
 </YearsFixtures>
