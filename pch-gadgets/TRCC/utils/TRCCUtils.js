@@ -12,10 +12,18 @@
 //				-2 ... is the one before that
 //				-n ... etc.
 //------------------------------------------------------------
-function TRCCUtils_ExtractFromParentBuIndex (aIndex)
+function TRCCUtils_ExtractFromParentByIndex (aIndex)
 {
 	var lRet="";
 	
+	//
+	// Get the parent
+	//
+	var lParent=new String (_args()["parent"]);
+	//
+	// Split the parent
+	//
+	var lItems = lParent.split("/");
 	
 	return (lRet);
 }
