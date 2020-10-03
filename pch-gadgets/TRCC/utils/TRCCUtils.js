@@ -11,6 +11,9 @@
 //				  last '/'
 //				-2 ... is the one before that
 //				-n ... etc.
+//
+//	@return The string at the requested index, or an error 
+//		 messages if there is a problem.
 //------------------------------------------------------------
 function TRCCUtils_ExtractFromParentByIndex (aIndex)
 {
@@ -20,10 +23,34 @@ function TRCCUtils_ExtractFromParentByIndex (aIndex)
 	// Get the parent
 	//
 	var lParent=new String (_args()["parent"]);
+	
 	//
 	// Split the parent
 	//
-	var lItems = lParent.split("/");
+	var lItems=lParent.split("/");
+	var lNumIndexes=lItems.length;		// How many items do we have?
+	
+	//
+	// Calculate the index we want
+	//
+	var lIndex=aIndex;
+	
+	if (lIndex < 0)
+	{
+		lIndex = lNumIndexes + lIndex;
+	}
+	
+	//
+	// Index OK?
+	//
+	if (lIndex < 0)
+	{
+		lRet = "Index " + aIndex + " not available in parent URL '" + lParent + "'";
+	}
+	else
+	{
+		lRet = lItems[lIndex];
+	}
 	
 	return (lRet);
 }
