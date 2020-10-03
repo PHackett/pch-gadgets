@@ -34,7 +34,7 @@
 
   <Fixture>
     <Date>Sat, 18 Jul 2020 12:00:00 UTC</Date>
-    <Opposition>Sandhurst</Opposition>
+    <Opposition>Sandhurst Friendly XI</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>Win</Result>
@@ -43,7 +43,7 @@
 
   <Fixture>
     <Date>Sat, 25 Jul 2020 12:00:00 UTC</Date>
-    <Opposition>Mortimer West End</Opposition>
+    <Opposition>Mortimer West End 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>Abandonned</Result>
@@ -52,7 +52,7 @@
 
   <Fixture>
     <Date>Sat, 1 Aug 2020 12:00:00 UTC</Date>
-    <Opposition>Woodcote</Opposition>
+    <Opposition>Woodcote 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>Win</Result>
@@ -61,7 +61,7 @@
 
   <Fixture>
     <Date>Sat, 8 Aug 2020 12:00:00 UTC</Date>
-    <Opposition>Woodley</Opposition>
+    <Opposition>Woodley 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>Win</Result>
@@ -70,7 +70,7 @@
 
   <Fixture>
     <Date>Sat, 15 Aug 2020 12:00:00 UTC</Date>
-    <Opposition>Stratfield 1</Opposition>
+    <Opposition>Goring on Thames 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -78,7 +78,7 @@
 
   <Fixture>
     <Date>Sat, 22 Aug 2020 12:00:00 UTC</Date>
-    <Opposition>Crowthorne and Crown Wood</Opposition>
+    <Opposition>Mortimer West End 1st XI</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -86,8 +86,32 @@
 
   <Fixture>
     <Date>Sat, 29 Aug 2020 12:00:00 UTC</Date>
-    <Opposition>Goring on Thames</Opposition>
+    <Opposition>Goring on Thames 1st XI</Opposition>
     <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 05 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Earley 1st XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 12 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Reading Lions 1st XI</Opposition>
+    <Time>12:30</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 19 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Crowthorne and Crown Wood 1st XI</Opposition>
+    <Time>12:30</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
