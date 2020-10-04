@@ -131,8 +131,9 @@
 					var lHTML = "";
 					
      					lHTML += "<b>TEST</b><br/>";
+					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'";
 					
-					lHTML += GGTRCC_RenderPlayerStats (lPLS);
+					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					
 					//
 					// Display HTML string in <div>
@@ -151,14 +152,14 @@
 					//
 					// First the first name - Any userPrefs?
 					//
-					// *** THIS STOPPED WORKING in October 2020 ***
+					// *** THIS STOPPED WORKING in Chrome browser in October 2020 ***
 					// gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
 					gFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split("_")[1];
 					
 					//
 					// Now the surname ...
 					//
-					// *** THIS STOPPED WORKING in October 2020 ***
+					// *** THIS STOPPED WORKING in Chrome browser in October 2020 ***
 					// gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
 					gSurname = TRCCUtils_ExtractFromParentByIndex(-1).split("_")[0];
 					
