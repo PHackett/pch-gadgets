@@ -140,11 +140,11 @@
 
 					lHTML += "lNumIndexes = " + lNumIndexes  + "'<br/>";
 
-					// lHTML += "Items[0]='" + Items[0] + "'<br/>";
-					// lHTML += "Items[1]='" + Items[1] + "'<br/>";
-					// lHTML += "Items[2]='" + Items[2] + "'<br/>";
-					// lHTML += "Items[3]='" + Items[3] + "'<br/>";
-					// lHTML += "Items[4]='" + Items[4] + "'<br/>";
+					lHTML += "lItems[0]='" + lItems[0] + "'<br/>";
+					lHTML += "lItems[1]='" + lItems[1] + "'<br/>";
+					lHTML += "lItems[2]='" + lItems[2] + "'<br/>";
+					lHTML += "lItems[3]='" + lItems[3] + "'<br/>";
+					lHTML += "lItems[4]='" + lItems[4] + "'<br/>";
 					
 					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					// ****************************************************************************
