@@ -131,7 +131,7 @@
 					var lHTML = "";
 					
 					// ****************************************************************************
-     					lHTML += "<b>TEST 3</b><br/>";
+     					lHTML += "<b>TEST 4</b><br/>";
 					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
 					var lParent=new String (_args()["parent"]);
 					lHTML += "lParent='" + lParent + "'<br/>";
@@ -152,7 +152,11 @@
 					var lX = TRCCUtils_ExtractFromParentByIndex(-1).split('_');
 					lHTML += "lX.length = " + lX.length + "<br/>";
 					lHTML += "lX[0] = '" + lX[0] + "'<br/>";
-					
+					lHTML += "lX[1] = '" + lX[1] + "'<br/>";
+     
+					lFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[1];
+					lHTML += "lFirstName = '" + lFirstName + "'<br/>";
+
 					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					// ****************************************************************************
 					
