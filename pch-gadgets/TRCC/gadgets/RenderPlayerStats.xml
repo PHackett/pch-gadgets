@@ -135,8 +135,8 @@
 					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
 					var lParent=new String (_args()["parent"]);
 					lHTML += "lParent='" + lParent + "'<br/>";
-					// var lItems=lParent.split("/");
-					// var lNumIndexes=lItems.length;
+					var lItems=lParent.split("/");
+					var lNumIndexes=lItems.length;
 
 					// lHTML += "Items[0]='" + Items[0] + "'<br/>";
 					// lHTML += "Items[1]='" + Items[1] + "'<br/>";
