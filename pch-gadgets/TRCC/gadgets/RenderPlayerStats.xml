@@ -113,68 +113,24 @@
 				//--------------------------------------------------------------------
 				function renderData (response)
 				{
-					// ****************************************************************************
-					// if (response == null || typeof(response) != "object" || response.firstChild == null)
-					// {
-					// 	_gel("content_div").innerHTML = "<i>Invalid data from " + gXMLSrc + "</i>";
-					//	
-					// 	return;
-					// }
+					if (response == null || typeof(response) != "object" || response.firstChild == null)
+					{
+						_gel("content_div").innerHTML = "<i>Invalid data from " + gXMLSrc + "</i>";
+						
+						return;
+					}
 				
 					//
 					// Parse the data
 					//
-					// var lPLS = new GGTRCC_PlayerLifetimeO (response);
-					// ****************************************************************************
+					var lPLS = new GGTRCC_PlayerLifetimeO (response);
 					
 					//
 					// Make the HTML
 					//
 					var lHTML = "";
 					
-					// ****************************************************************************
-     					lHTML += "<b>TEST 6</b><br/>";
-					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
-					var lParent=new String (_args()["parent"]);
-					lHTML += "lParent='" + lParent + "'<br/>";
-					var lItems=lParent.split('/');
-					var lNumIndexes=lItems.length;
-
-					lHTML += "lNumIndexes = " + lNumIndexes  + "'<br/>";
-
-					lHTML += "lItems[0]='" + lItems[0] + "'<br/>";
-					lHTML += "lItems[1]='" + lItems[1] + "'<br/>";
-					lHTML += "lItems[2]='" + lItems[2] + "'<br/>";
-					lHTML += "lItems[3]='" + lItems[3] + "'<br/>";
-					lHTML += "lItems[4]='" + lItems[4] + "'<br/>";
-
-					lName = TRCCUtils_ExtractFromParentByIndex(-1);
-					lHTML += "lName = '" + lName + "'<br/>";
-
-					var lX = TRCCUtils_ExtractFromParentByIndex(-1).split('_');
-					lHTML += "lX.length = " + lX.length + "<br/>";
-					lHTML += "lX[0] = '" + lX[0] + "'<br/>";
-					lHTML += "lX[1] = '" + lX[1] + "'<br/>";
-     
-					lFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[1];
-					lHTML += "lFirstName = '" + lFirstName + "'<br/>";
-
-					var lXMLURL=gGGGadget_Root + "TRCC/data/players/";
-					var lPath=GGGadget_getUrlMinusRoot ();
-
-					lHTML += "lXMLURL = '" + lXMLURL + "'<br/>";
-					lHTML += "lPath = '" + lPath + "'<br/>";
-
-					lHTML += "GGGadget_getHostURL()='" + GGGadget_getHostURL() +  "'<br/>";				// GGGadget.js
-					lHTML += "GGGadget_GetSitesRootNoScheme()='" + GGGadget_GetSitesRootNoScheme() + "'<br/>";	// GGGadget.js
-
-					//
-					// This no longer works on chrome for some reason
-					//
-     					lHTML += "<b>document.referrer = '" + document.referrer +  "'<br/></b>";			// GGGadget.js
-
-					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
-					// ****************************************************************************
+					lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					
 					//
 					// Display HTML string in <div>
@@ -193,16 +149,12 @@
 					//
 					// First the first name - Any userPrefs?
 					//
-					// *** THIS STOPPED WORKING in Chrome browser in October 2020 ***
-					// gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
-					gFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[1];
+					gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
 					
 					//
 					// Now the surname ...
 					//
-					// *** THIS STOPPED WORKING in Chrome browser in October 2020 ***
-					// gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
-					gSurname = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[0];
+					gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
 					
 					//
 					// Lastly - Save away the "link target"
