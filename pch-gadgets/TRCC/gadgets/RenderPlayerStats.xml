@@ -131,7 +131,7 @@
 					var lHTML = "";
 					
 					// ****************************************************************************
-     					lHTML += "<b>TEST 4</b><br/>";
+     					lHTML += "<b>TEST 5</b><br/>";
 					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
 					var lParent=new String (_args()["parent"]);
 					lHTML += "lParent='" + lParent + "'<br/>";
@@ -156,6 +156,12 @@
      
 					lFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[1];
 					lHTML += "lFirstName = '" + lFirstName + "'<br/>";
+
+					var lXMLURL=gGGGadget_Root + "TRCC/data/players/";
+					var lPath=GGGadget_getUrlMinusRoot ();
+
+					lHTML += "lXMLURL = '" + lXMLURL + "'<br/>";
+					lHTML += "lPath = '" + lPath + "'<br/>";
 
 					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					// ****************************************************************************
