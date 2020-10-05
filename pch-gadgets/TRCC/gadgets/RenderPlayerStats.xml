@@ -130,10 +130,22 @@
 					//
 					var lHTML = "";
 					
+					// ****************************************************************************
      					lHTML += "<b>TEST</b><br/>";
-					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'";
+					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
+					var lParent=new String (_args()["parent"]);
+					lHTML += "lParent='" + lParent + "'<br/>";
+					var lItems=lParent.split("/");
+					var lNumIndexes=lItems.length;
+
+					lHTML += "Items[0]='" + Items[0] + "'<br/>";
+					lHTML += "Items[1]='" + Items[1] + "'<br/>";
+					lHTML += "Items[2]='" + Items[2] + "'<br/>";
+					lHTML += "Items[3]='" + Items[3] + "'<br/>";
+					lHTML += "Items[4]='" + Items[4] + "'<br/>";
 					
 					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
+					// ****************************************************************************
 					
 					//
 					// Display HTML string in <div>
