@@ -168,14 +168,14 @@
 					//
 					// *** THIS STOPPED WORKING in Chrome browser in October 2020 ***
 					// gFirstName = TRCCUtils_ProcessPreferences ("firstname", lPrefs, "David");
-					gFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split("_")[1];
+					gFirstName = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[1];
 					
 					//
 					// Now the surname ...
 					//
 					// *** THIS STOPPED WORKING in Chrome browser in October 2020 ***
 					// gSurname = TRCCUtils_ProcessPreferences ("surname", lPrefs, "Downes");
-					gSurname = TRCCUtils_ExtractFromParentByIndex(-1).split("_")[0];
+					gSurname = TRCCUtils_ExtractFromParentByIndex(-1).split('_')[0];
 					
 					//
 					// Lastly - Save away the "link target"
