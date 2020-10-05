@@ -133,7 +133,7 @@
 					var lHTML = "";
 					
 					// ****************************************************************************
-     					lHTML += "<b>TEST 5</b><br/>";
+     					lHTML += "<b>TEST 6</b><br/>";
 					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
 					var lParent=new String (_args()["parent"]);
 					lHTML += "lParent='" + lParent + "'<br/>";
@@ -168,7 +168,10 @@
 					lHTML += "GGGadget_getHostURL()='" + GGGadget_getHostURL() +  "'<br/>";				// GGGadget.js
 					lHTML += "GGGadget_GetSitesRootNoScheme()='" + GGGadget_GetSitesRootNoScheme() + "'<br/>";	// GGGadget.js
 
-					lHTML += "document.referrer = '" + document.referrer +  "'<br/>";				// GGGadget.js
+					//
+					// This no longer works on chrome for some reason
+					//
+     					lHTML += "<b>document.referrer = '" + document.referrer +  "'<br/></b>";			// GGGadget.js
 
 					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					// ****************************************************************************
