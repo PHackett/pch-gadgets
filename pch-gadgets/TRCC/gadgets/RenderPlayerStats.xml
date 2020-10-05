@@ -168,6 +168,8 @@
 					lHTML += "GGGadget_getHostURL()='" + GGGadget_getHostURL() +  "'<br/>";				// GGGadget.js
 					lHTML += "GGGadget_GetSitesRootNoScheme()='" + GGGadget_GetSitesRootNoScheme() + "'<br/>";	// GGGadget.js
 
+					lHTML += "document.referrer = '" + document.referrer +  "'<br/>";				// GGGadget.js
+
 					// lHTML += GGTRCC_RenderPlayerStats (lPLS);
 					// ****************************************************************************
 					
