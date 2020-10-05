@@ -27,7 +27,7 @@ function TRCCUtils_ExtractFromParentByIndex (aIndex)
 	//
 	// Split the parent
 	//
-	var lItems=lParent.split("/");
+	var lItems=lParent.split('/');
 	var lNumIndexes=lItems.length;		// How many items do we have?
 	
 	//
