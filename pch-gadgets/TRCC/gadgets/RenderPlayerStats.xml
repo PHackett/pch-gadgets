@@ -131,7 +131,7 @@
 					var lHTML = "";
 					
 					// ****************************************************************************
-     					lHTML += "<b>TEST</b><br/>";
+     					lHTML += "<b>TEST 2</b><br/>";
 					lHTML += "Surname='" + gSurname + "', Name='" + gFirstName + "'<br/>";
 					var lParent=new String (_args()["parent"]);
 					lHTML += "lParent='" + lParent + "'<br/>";
