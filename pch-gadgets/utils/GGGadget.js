@@ -66,7 +66,15 @@ function GGGadget_getHostURL (aIncludeQuery)
 	// technique works.
 	//
 	// var lRet=_args()["source"];
-	var lRet=document.referrer;
+	// var lRet=document.referrer;
+	
+	//
+	// And "document.referrer" stopped working for us in October 20202 on 
+	// the Chrome browser (Still OK in Firefox).
+	//
+	// So we shall another way ...
+	//
+	var lRet=_args()["parent"]
 	
 	if (null == lRet)
 	{
