@@ -74,6 +74,7 @@
     <!-- C -->
     <Player surname="Canning" firstname="Steve" firstseason="1987" lastseason="1987" catches="2" mostcatchesseason="2"/>
     <Player surname="Capel" firstname="George" firstseason="1989" lastseason="1992" catches="3" mostcatchesseason="1"/>
+    <Player surname="Chaitanya" firstname="Krishna"/>
     <Player surname="Chambers" firstname="Paul"/>
     <Player surname="Chapman" firstname="James"/>
     <Player surname="Cherukuri" firstname="Chandra"/>
@@ -99,6 +100,7 @@
     <Player surname="Cruceon" firstname="M"/>
 
     <!-- D -->
+    <Player surname="Dandamudi" firstname="Venkat"/>
     <Player surname="Dammer" firstname="Unknown"/>
     <Player surname="Darekar" firstname="Ashish"/>
     <Player surname="Darroch" firstname="Duncan" firstseason="1988" lastseason="1988" catches="1" mostcatchesseason="1"/>
@@ -108,6 +110,7 @@
     <Player surname="Davis" firstname="F"/>
     <Player surname="Dean" firstname="Peter"/>
     <Player surname="Dawson" firstname="Peter" firstseason="1994" lastseason="1997" catches="8" mostcatchesseason="4"/>
+    <Player surname="Dildar" firstname="Ashan"/>
     <Player surname="Downes" firstname="David" firstseason="1983" catches="162" mostcatchesseason="20"/>
     <Player surname="Downes" firstname="Joe"/>
     <Player surname="Downes" firstname="Nic" firstseason="1979" catches="131" mostcatchesseason="17"/>
@@ -149,6 +152,7 @@
 
     <!-- G -->
     <Player surname="Garfoot" firstname="D"/>
+    <Player surname="Garipelli" firstname="Nagarju"/>
     <Player surname="Gibbons" firstname="A"/>
     <Player surname="Glover" firstname="Tim" firstseason="1979" lastseason="1986" catches="9" mostcatchesseason="2"/>
     <Player surname="Goswell" firstname="Keith" firstseason="1975" lastseason="1975"/>
@@ -318,6 +322,7 @@
 
     <!-- N -->
     <Player surname="Nagam" firstname="Shiva"/>
+    <Player surname="Nallapaneni" firstname="Kishore"/>
     <Player surname="Narula" firstname="Manan"/>
     <Player surname="Narula" firstname="Rajeeve"/>
     <Player surname="Nanayakkard" firstname="Asitha"/>
