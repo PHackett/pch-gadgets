@@ -1,7 +1,16 @@
-<PlayerStats name="Sushil Chaudhari" generated="Wed, 24 Oct 2018 18:48:13 BST">
+<PlayerStats name="Sushil Chaudhari" generated="Thu, 08 Oct 2020 14:41:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Apr 21 00:00:00 UTC+0100 2018" oppo="Holyport"/>
     </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Batting innings="2" runs="25" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 8 00:00:00 UTC+0100 2020" oppo="Woodley"/>
+                <BattingData runs="25" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2018">
         <Bowling games="9" fiveplus="0">

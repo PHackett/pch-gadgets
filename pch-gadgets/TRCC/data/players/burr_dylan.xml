@@ -1,7 +1,24 @@
-<PlayerStats name="Dylan Burr" generated="Sun, 29 Sep 2019 12:13:19 BST">
+<PlayerStats name="Dylan Burr" generated="Thu, 08 Oct 2020 14:41:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 2 00:00:00 UTC+0100 2017" oppo="Ibstone"/>
     </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Bowling games="4" fiveplus="0">
+            <BowlingData overs="16.0" maidens="1" runs="86" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 2020" oppo="Falkland"/>
+                <BowlingData overs="3.0" maidens="1" runs="17" wickets="1"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="4" runs="12" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 1 00:00:00 UTC+0100 2020" oppo="Falkland"/>
+                <BattingData runs="10" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2019">
         <Bowling games="8" fiveplus="0">

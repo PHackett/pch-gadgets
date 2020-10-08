@@ -1,0 +1,22 @@
+<PlayerStats name="Tom Hutchins" generated="Thu, 08 Oct 2020 14:41:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sun Aug 9 00:00:00 UTC+0100 2020" oppo="Harpsden"/>
+    </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Bowling games="2" fiveplus="0">
+            <BowlingData overs="10.0" maidens="1" runs="50" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 12 00:00:00 UTC+0100 2020" oppo="Falkland CC_ Berks Development XI"/>
+                <BowlingData overs="5.0" maidens="1" runs="14" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="5" runs="8" notouts="0" hundreds="0" fifties="0" ducks="3">
+            <BattingBest>
+                <MatchId date="Sat Sep 19 00:00:00 UTC+0100 2020" oppo="Warfield Saturday 1st XI"/>
+                <BattingData runs="6" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

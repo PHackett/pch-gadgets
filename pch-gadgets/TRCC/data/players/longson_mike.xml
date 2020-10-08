@@ -1,0 +1,18 @@
+<PlayerStats name="Mike Longson" generated="Thu, 08 Oct 2020 14:41:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Jul 25 00:00:00 UTC+0100 2020" oppo="Mortimer West End"/>
+    </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Batting innings="5" runs="96" notouts="0" hundreds="0" fifties="1" ducks="2">
+            <BattingBest>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 2020" oppo="Stratfield Turgis_Hartley Wespall 2nd XI"/>
+                <BattingData runs="91" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 2020" oppo="Stratfield Turgis_Hartley Wespall 2nd XI"/>
+                <BattingData runs="91" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
+</PlayerStats>

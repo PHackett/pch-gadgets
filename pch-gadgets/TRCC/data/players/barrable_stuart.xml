@@ -1,7 +1,28 @@
-<PlayerStats name="Stuart Barrable" generated="Sun, 29 Sep 2019 12:13:19 BST">
+<PlayerStats name="Stuart Barrable" generated="Thu, 08 Oct 2020 14:41:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jun 14 00:00:00 UTC+0100 2009" oppo="Wokingham"/>
     </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Bowling games="3" fiveplus="0">
+            <BowlingData overs="18.0" maidens="0" runs="82" wickets="4"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul 26 00:00:00 UTC+0100 2020" oppo="Ipsden"/>
+                <BowlingData overs="7.0" maidens="0" runs="24" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="6" runs="188" notouts="0" hundreds="1" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sun Sep 6 00:00:00 UTC+0100 2020" oppo="Peppard and Stoke Row"/>
+                <BattingData runs="104" notouts="0"/>
+            </BattingBest>
+            <BattingHighlight>
+                <MatchId date="Sun Sep 6 00:00:00 UTC+0100 2020" oppo="Peppard and Stoke Row"/>
+                <BattingData runs="104" notouts="0"/>
+            </BattingHighlight>
+        </Batting>
+    </YearData>
 
     <YearData year="2019">
         <Bowling games="2" fiveplus="0">

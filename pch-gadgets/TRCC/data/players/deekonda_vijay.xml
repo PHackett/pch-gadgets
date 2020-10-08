@@ -1,0 +1,14 @@
+<PlayerStats name="Vijay Deekonda" generated="Thu, 08 Oct 2020 14:41:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Sep 5 00:00:00 UTC+0100 2020" oppo="Binfield 4th XI"/>
+    </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Batting innings="1" runs="2" notouts="0" hundreds="0" fifties="0" ducks="0">
+            <BattingBest>
+                <MatchId date="Sat Sep 5 00:00:00 UTC+0100 2020" oppo="Binfield 4th XI"/>
+                <BattingData runs="2" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

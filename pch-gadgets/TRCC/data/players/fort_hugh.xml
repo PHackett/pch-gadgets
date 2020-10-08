@@ -1,7 +1,24 @@
-<PlayerStats name="Hugh Fort" generated="Sun, 29 Sep 2019 12:13:19 BST">
+<PlayerStats name="Hugh Fort" generated="Thu, 08 Oct 2020 14:41:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Sep 3 00:00:00 UTC+0100 1995" oppo="Old Paludians"/>
     </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Bowling games="1" fiveplus="0">
+            <BowlingData overs="2.2" maidens="1" runs="5" wickets="2"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 2 00:00:00 UTC+0100 2020" oppo="Wargrave"/>
+                <BowlingData overs="2.2" maidens="1" runs="5" wickets="2"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="92" notouts="0" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 2 00:00:00 UTC+0100 2020" oppo="Wargrave"/>
+                <BattingData runs="31" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2019">
         <Batting innings="19" runs="255" notouts="2" hundreds="0" fifties="0" ducks="1">

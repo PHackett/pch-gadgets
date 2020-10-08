@@ -1,7 +1,16 @@
-<PlayerStats name="Gopi Kolluru" generated="Sun, 29 Sep 2019 12:13:19 BST">
+<PlayerStats name="Gopi Kolluru" generated="Thu, 08 Oct 2020 14:41:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sat Aug 24 00:00:00 UTC+0100 2019" oppo="Shinfield"/>
     </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Batting innings="9" runs="142" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Aug 22 00:00:00 UTC+0100 2020" oppo="Stratfield Turgis_Hartley Wespall 2nd XI"/>
+                <BattingData runs="41" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2019">
         <Batting innings="4" runs="86" notouts="0" hundreds="0" fifties="0" ducks="1">

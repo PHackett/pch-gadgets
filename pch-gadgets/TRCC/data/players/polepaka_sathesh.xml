@@ -1,0 +1,22 @@
+<PlayerStats name="Sathesh Polepaka" generated="Thu, 08 Oct 2020 14:41:57 BST">
+    <FirstRecordedGame>
+        <MatchId date="Sat Aug 1 00:00:00 UTC+0100 2020" oppo="Falkland"/>
+    </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Bowling games="8" fiveplus="0">
+            <BowlingData overs="46.0" maidens="5" runs="202" wickets="12"/>
+            <BowlingBest>
+                <MatchId date="Sat Sep 26 00:00:00 UTC+0100 2020" oppo="Crowthorne and Crown Wood 2nd XI"/>
+                <BowlingData overs="4.0" maidens="0" runs="15" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="37" notouts="0" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sat Sep 12 00:00:00 UTC+0100 2020" oppo="Reading Lions 1st XI"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+</PlayerStats>

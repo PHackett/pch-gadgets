@@ -1,7 +1,24 @@
-<PlayerStats name="Max Hitchings" generated="Sun, 29 Sep 2019 12:13:19 BST">
+<PlayerStats name="Max Hitchings" generated="Thu, 08 Oct 2020 14:41:57 BST">
     <FirstRecordedGame>
         <MatchId date="Sun Jul 7 00:00:00 UTC+0100 2019" oppo="Hurley"/>
     </FirstRecordedGame>
+
+    <YearData year="2020">
+        <Bowling games="5" fiveplus="0">
+            <BowlingData overs="16.0" maidens="0" runs="115" wickets="0"/>
+            <BowlingBest>
+                <MatchId date="Sun Aug 9 00:00:00 UTC+0100 2020" oppo="Harpsden"/>
+                <BowlingData overs="3.0" maidens="0" runs="15" wickets="0"/>
+            </BowlingBest>
+        </Bowling>
+    
+        <Batting innings="8" runs="38" notouts="1" hundreds="0" fifties="0" ducks="2">
+            <BattingBest>
+                <MatchId date="Sun Aug 16 00:00:00 UTC+0100 2020" oppo="Checkendon"/>
+                <BattingData runs="11" notouts="1"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
 
     <YearData year="2019">
         <Bowling games="3" fiveplus="0">
