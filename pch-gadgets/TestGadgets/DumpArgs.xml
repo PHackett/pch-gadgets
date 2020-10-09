@@ -87,11 +87,13 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
+					var lHTML;
+
 					//
 					// Dump out the _args() collection
 					//
-     					var lHTML = dumpCollection (_args(), "_args()");
-					var lHTML = dumpCollection (document, "document");
+     					lHTML += dumpCollection (_args(), "_args()");
+					lHTML += dumpCollection (document, "document");
 					
 					//
 					// Lets see the referer too
