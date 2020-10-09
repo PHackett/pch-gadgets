@@ -87,7 +87,7 @@
 				//--------------------------------------------------------------------
 				function display()
 				{
-					var lHTML;
+					var lHTML="";
 
      					lHTML += dumpCollection (_args(), "_args()");		// Format out the _args() collection
 					lHTML += dumpCollection (document, "document");		// Format out the document collection
