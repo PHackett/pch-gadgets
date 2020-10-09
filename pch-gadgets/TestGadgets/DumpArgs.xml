@@ -105,8 +105,8 @@
 					//
 					// Other bits that might prove useful
 					//
-					lHTML += "<br>window.location = '" + window.location + "'<br>";
-					lHTML += "<br>window.parent.location = '" + window.parent.location + "'<br>";
+					// lHTML += "<br>window.location = '" + window.location + "'<br>";
+					// lHTML += "<br>window.parent.location = '" + window.parent.location + "'<br>";
 					lHTML += "<br>document.location.href = '" + document.location.href + "'<br>";
 
 					//
