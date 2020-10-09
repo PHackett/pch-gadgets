@@ -72,7 +72,13 @@ function GGGadget_getHostURL (aIncludeQuery)
 	// And "document.referrer" stopped working for us in October 20202 on 
 	// the Chrome browser (Still OK in Firefox).
 	//
-	// So we shall another way ...
+	// So we shall another way with "_args()["parent"]"
+	//
+	// However, there are still issues here.
+	// We get the URL, but _NOT_ (in all circumstances) any URL parameters, 
+	// e.g. not "...&render=batting". I have no idea why.
+	// Now, "document.referrer" on Firefox does have the parameters, and 
+	// _sometimes_ I also see it in Chrome. WTF?
 	//
 	var lRet=_args()["parent"]
 	
