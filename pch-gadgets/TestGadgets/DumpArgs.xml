@@ -90,7 +90,8 @@
 					//
 					// Dump out the _args() collection
 					//
-					var lHTML = dumpCollection (_args(), "_args()");
+     					var lHTML = dumpCollection (_args(), "_args()");
+					var lHTML = dumpCollection (document, "document");
 					
 					//
 					// Lets see the referer too
