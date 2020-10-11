@@ -544,6 +544,32 @@ function GGTRCC_RenderBattingBestByYear (aPLSO)
 }
 
 
+//------------------------------[GGTRCC_RenderBoelingDetails]-
+// Render details of the bowling for the player
+//
+// @param aPSO			IN 	The GGTRCC_PlayerLifetimeO object
+// @param aBowlingGraphInfo	IN	
+//
+//------------------------------------------------------------
+function GGTRCC_RenderBowlingDetails (aPLSO, aBowlingGraphInfo)
+{
+	var lRet="";
+
+	if (0 == aBowlingGraphInfo.length)
+	{
+		lRet += "<br>There is no Bowling record for this player<br><br>";
+	}
+	else
+	{
+		lRet += GGTRCC_RenderBowlingByYear(aPLSO);
+		lRet += GGTRCC_RenderBowlingBestByYear(aPLSO);
+		lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
+	}
+	
+	return (lRet);
+}
+
+
 //---------------------------------[GGTRCC_RenderPlayerStats]-
 // For the rendering of player stats 
 //
@@ -614,7 +640,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	lRet +=   "</ul>";
 	*/
-	lRet += "</div>";
+	lRet += "1</div>";
 
 	//
 	// Batting & Bowling arrays
@@ -627,16 +653,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	// if (lRenderBowling == lRenderItem)		// OCT20
 	{
-		if (0 == lBoarr.length)
-		{
-			lRet += "<br>There is no Bowling record for this player<br><br>";
-		}
-		else
-		{
-			lRet += GGTRCC_RenderBowlingByYear(aPLSO);
-			lRet += GGTRCC_RenderBowlingBestByYear(aPLSO);
-			lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
-		}
+		lRet += GGTRCC_RenderBowlingDetails (aPLSO, lBoarr);
 	}
 	
 	// else if (lRenderBatting == lRenderItem)	// OCT 20
