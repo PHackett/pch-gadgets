@@ -682,8 +682,6 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	// tabs (which used "&render=batting" etc.) would not render as expected.
 	//
 	
-	lRet += "<div id='centeredmenu'>5</div>";	// Divider
-
 	//
 	// Batting & Bowling arrays
 	//
@@ -708,12 +706,14 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	lRet += GGTRCC_RenderBowlingSummary (aPLSO, lBoarr);
 
-	lRet += "<div id='centeredmenu'>5</div>";	// Divider
+	lRet += "<div id='centeredmenu'></div>";	// Divider
 
 	//
 	// Batting details
 	//
 	lRet += GGTRCC_RenderBowlingDetails (aPLSO, lBoarr);
+
+	lRet += "<div id='centeredmenu'></div>";	// Divider
 
 	//
 	// Bowling details
