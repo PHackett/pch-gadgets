@@ -630,6 +630,40 @@ function GGTRCC_RenderBowlingSummary (aPLSO, aBowlingGraphInfo)
 }
 
 
+//------------------------------[GGTRCC_RenderBattingSummary]-
+// Render summay of the batting for the player
+//
+// @param aPSO			IN 	The GGTRCC_PlayerLifetimeO object
+// @param aBattingGraphInfo	IN	
+//
+//------------------------------------------------------------
+function GGTRCC_RenderBattingSummary (aPLSO, aBattingGraphInfo)
+{
+	var lRet="";
+	
+	lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
+		
+	if (0 == aBattingGraphInfo.length)
+	{
+		lRet += "<br>There is no Batting record for this player<br><br>";
+	}
+	else
+	{
+		//
+		// Do we have enough entries to warrent a graph?
+		//
+		if (1 < aBattingGraphInfo.length)
+		{
+			lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (aBattingGraphInfo) + "<br><br>";
+		}
+			
+		lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals) + "<br><br><br>";
+	}
+
+	return (lRet);
+}
+
+
 //---------------------------------[GGTRCC_RenderPlayerStats]-
 // For the rendering of player stats 
 //
@@ -700,7 +734,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	lRet +=   "</ul>";
 	*/
-	lRet += "4</div>";
+	lRet += "5</div>";
 
 	//
 	// Batting & Bowling arrays
@@ -730,24 +764,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		//
 		// Batting summaries
 		//
-		lRet += "<span class='GadgetStatsHeading'>Career Batting Summary</span>";
-		
-		if (0 == lXarr.length)
-		{
-			lRet += "<br>There is no Batting record for this player<br><br>";
-		}
-		else
-		{
-			//
-			// Do we have enough entries to warrent a graph?
-			//
-			if (1 < lXarr.length)
-			{
-				lRet += GGTRCC_PlayerLTGraph_MakeBattingGraphHTML (lXarr) + "<br><br>";
-			}
-			
-			lRet += GGTRCC_RenderBattingTotals (aPLSO.mLifetimeBattingTotals) + "<br><br><br>";
-		}
+		lRet += GGTRCC_RenderBattingSummary (aPLSO, lXarr);
 	
 		//
 		// Bowling summaries
