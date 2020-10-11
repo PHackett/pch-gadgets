@@ -626,7 +626,7 @@ function GGTRCC_RenderBowlingSummary (aPLSO, aBowlingGraphInfo)
 		lRet += GGTRCC_RenderBowlingTotals (aPLSO.mLifetimeBowlingTotals) + "<br>";
 	}
 
-	reurn (lRet);
+	return (lRet);
 }
 
 
@@ -700,7 +700,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	lRet +=   "</ul>";
 	*/
-	lRet += "3</div>";
+	lRet += "4</div>";
 
 	//
 	// Batting & Bowling arrays
