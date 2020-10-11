@@ -681,36 +681,6 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	// page would not work as expected as the "Sumamry", "Batting" & "Bowling"
 	// tabs (which used "&render=batting" etc.) would not render as expected.
 	//
-	// The only thing I can think to do is to draw everything.
-	//
-	// I will comment changes with OCT20
-	//
-	var lRenderSummary=1;
-	var lRenderBatting=2;
-	var lRenderBowling=3;
-	var lRenderItem=lRenderSummary;
-	
-	//
-	// Determine what we are rendering - Summary, Batting or bowling
-	//
-	var lQueryA=GGGadget_parseHostQuery ("&");
-	
-	if (null == lQueryA["render"])
-	{
-		// Stick with rendering the summary
-	}
-	else if ("batting" == lQueryA["render"])
-	{
-		lRenderItem = lRenderBatting;
-	}
-	else if ("bowling" == lQueryA["render"])
-	{
-		lRenderItem = lRenderBowling;
-	}
-	else
-	{
-		// Unrecognised - Stick with rendering the summary
-	}
 	
 	lRet += "<div id='centeredmenu'>5</div>";	// Divider
 
