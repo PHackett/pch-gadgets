@@ -712,29 +712,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 		// Unrecognised - Stick with rendering the summary
 	}
 	
-	//
-	// Create the heading links to the 3 different options
-	//
-	lRet += "<div id='centeredmenu'>";
-	
-	/* 						// OCT20
-	lRet +=   "<ul>";
-	
-	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) +                "' ' target='_parent'";
-	if (lRenderSummary == lRenderItem) lRet += " class='active'";
-	lRet += ">Summary</a></li>";
-
-	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) + "?render=batting' ' target='_parent'";
-	if (lRenderBatting == lRenderItem) lRet += " class='active'";
-	lRet += ">Batting</a></li>";
-
-	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) + "?render=bowling' ' target='_parent'";
-	if (lRenderBowling == lRenderItem) lRet += " class='active'";
-	lRet += ">Bowling</a></li>";
-	
-	lRet +=   "</ul>";
-	*/
-	lRet += "5</div>";
+	lRet += "<div id='centeredmenu'>5</div>";	// Divider
 
 	//
 	// Batting & Bowling arrays
@@ -743,34 +721,34 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	var lBoarr = GGTRCC_PlayerLTGraph_MakeBowlingArray (aPLSO);
 	
 	//
-	// Render the specific option
+	// When did the person play first?
+	// 
+	if (null != aPLSO.mFRG)
+	{
+		lRet += "First recorded game for this player was on " + aPLSO.mFRG.FullDate() + " at " + aPLSO.mFRG.LinkHTML() + "<br><br>";
+	}
+	
 	//
-	// if (lRenderBowling == lRenderItem)		// OCT20
-	{
-		lRet += GGTRCC_RenderBowlingDetails (aPLSO, lBoarr);
-	}
-	
-	// else if (lRenderBatting == lRenderItem)	// OCT 20
-	{
-		lRet += GGTRCC_RenderBattingDetails (aPLSO, lXarr);
-	}
-	// else						// OCT20
-	{
-		if (null != aPLSO.mFRG)
-		{
-			lRet += "First recorded game for this player was on " + aPLSO.mFRG.FullDate() + " at " + aPLSO.mFRG.LinkHTML() + "<br><br>";
-		}
+	// Batting summaries
+	//
+	lRet += GGTRCC_RenderBattingSummary (aPLSO, lXarr);
+
+	//
+	// Bowling summaries
+	//
+	lRet += GGTRCC_RenderBowlingSummary (aPLSO, lBoarr);
+
+	lRet += "<div id='centeredmenu'>5</div>";	// Divider
+
+	//
+	// Batting details
+	//
+	lRet += GGTRCC_RenderBowlingDetails (aPLSO, lBoarr);
+
+	//
+	// Bowling details
+	//
+	lRet += GGTRCC_RenderBattingDetails (aPLSO, lXarr);
 		
-		//
-		// Batting summaries
-		//
-		lRet += GGTRCC_RenderBattingSummary (aPLSO, lXarr);
-	
-		//
-		// Bowling summaries
-		//
-		lRet += GGTRCC_RenderBowlingSummary (aPLSO, lBoarr);
-	}
-	
 	return (lRet);
 }
