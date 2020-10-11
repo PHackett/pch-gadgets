@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 13:41:12 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:41:54 +01:00 (BST)-->
 <!--Result = Win-->
 <!--XMLFilename = 2020/july_18th_shinfield_3rd_xi.xml-->
 <CricketMatch oppo="Shinfield 3rd XI" date="Sat Jul 18 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4474140">
@@ -57,7 +57,7 @@
       <Runs value="12"/>
     </Batsman>
     <Batsman name="Simon Burr" captain="1" keeper="1">
-      <HowOut how="Caught Unsure"/>
+      <HowOut how="Not Out"/>
       <Runs value="6"/>
     </Batsman>
     <Extras value="24"/>
@@ -107,7 +107,7 @@
       <Runs value="9"/>
     </Batsman>
     <Batsman name="Sidharth Shetty">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Dan Hare">

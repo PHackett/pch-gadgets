@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 14:56:44 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:39:03 +01:00 (BST)-->
 <!--Result = Lose-->
 <!--XMLFilename = 2020/august_16th_shinfield_3rd_xi.xml-->
 <CricketMatch oppo="Shinfield 3rd XI" date="Sun Aug 16 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494814">
@@ -56,7 +56,7 @@
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Tom Hutchins">
-      <HowOut how="LBW"/>
+      <HowOut how="Not Out"/>
       <Runs value="2"/>
     </Batsman>
     <Extras value="23"/>
@@ -87,7 +87,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Adityaraj Saswade">
-      <HowOut how="Caught Will Etheridge"/>
+      <HowOut how="Not Out"/>
       <Runs value="50"/>
     </Batsman>
     <Batsman name="Akshay Balaji">
@@ -101,7 +101,7 @@
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Santosh Kundar">
-      <HowOut how="Caught Spence Nichols"/>
+      <HowOut how="Not Out"/>
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Ellen Tiffin">

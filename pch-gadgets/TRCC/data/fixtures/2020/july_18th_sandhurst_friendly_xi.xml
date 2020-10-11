@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Mon Aug 03 2020 21:59:41 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:40:53 +01:00 (BST)-->
 <!--Result = Win-->
-<!--XMLFilename = 2020/july_18th_sandhurst_cc__berks.xml-->
-<CricketMatch oppo="Sandhurst CC_ Berks" date="Sat Jul 18 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4466289">
+<!--XMLFilename = 2020/july_18th_sandhurst_cc__berks_friendly_xi.xml-->
+<CricketMatch oppo="Sandhurst Friendly XI" date="Sat Jul 18 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4466289">
   <MatchReport/>
   <CountsToStats/>
   <Innings batting="Twyford">
@@ -41,17 +41,17 @@
       <Bowler name="Conor Pharo"/>
       <Runs value="15"/>
     </Batsman>
-    <Batsman name="Sri Tummalapenta">
+    <Batsman name="Srimahesh Tummalapenta">
       <HowOut how="Caught Andrew Tutty"/>
       <Bowler name="Narendra Gogna"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Kiran Juluri">
-      <HowOut how="Caught Andrew Tutty"/>
+      <HowOut how="Not Out"/>
       <Runs value="27"/>
     </Batsman>
     <Batsman name="Gopi Kolluru">
-      <HowOut how="Caught Andrew Tutty"/>
+      <HowOut how="Not Out"/>
       <Runs value="8"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
@@ -74,7 +74,7 @@
     <BowlerSummary name="Simon Hards" overs="7" maidens="2" runs="18" wickets="0"/>
     <BowlerSummary name="Narendra Gogna" overs="6" maidens="1" runs="21" wickets="4"/>
   </Innings>
-  <Innings batting="Sandhurst CC_ Berks">
+  <Innings batting="Sandhurst CC_ Berks Friendly XI">
     <Batsman name="Adam Birch" captain="1" keeper="1">
       <HowOut how="Caught Gopi Kolluru"/>
       <Bowler name="Robin Thompson"/>
@@ -111,7 +111,7 @@
       <Runs value="22"/>
     </Batsman>
     <Batsman name="Andrew Birch">
-      <HowOut how="LBW"/>
+      <HowOut how="Not Out"/>
       <Runs value="23"/>
     </Batsman>
     <Batsman name="Aron Shallom">

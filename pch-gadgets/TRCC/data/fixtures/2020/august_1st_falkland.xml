@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Tue Aug 11 2020 23:30:49 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:34:30 +01:00 (BST)-->
 <!--Result = Lose-->
 <!--XMLFilename = 2020/august_1st_falkland.xml-->
-<CricketMatch oppo="Falkland" date="Sat Aug 01 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494387">
+<CricketMatch oppo="Falkland CC Development XI" date="Sat Aug 01 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494387">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Falkland">
+  <Innings batting="Falkland CC_ Berks Development XI">
     <Batsman name="Tristan Powell">
       <HowOut how="Bowled"/>
       <Bowler name="Dylan Burr"/>
@@ -17,7 +17,7 @@
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Charlie Mabbatt">
-      <HowOut how="Caught Unsure"/>
+      <HowOut how="Not Out"/>
       <Runs value="50"/>
     </Batsman>
     <Batsman name="Unsure" captain="1" keeper="1">
@@ -26,7 +26,7 @@
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Unsure" captain="1" keeper="1">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="66"/>
     </Batsman>
     <Batsman name="Unsure" captain="1" keeper="1">
@@ -105,7 +105,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Dylan Burr">
-      <HowOut how="LBW"/>
+      <HowOut how="Not Out"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Sam Staples">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 16:33:01 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:43:32 +01:00 (BST)-->
 <!--Result = Win-->
 <!--XMLFilename = 2020/september_5th_earley_1st_xi.xml-->
 <CricketMatch oppo="Earley 1st XI" date="Sat Sep 05 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4494805">
@@ -51,7 +51,7 @@
       <Runs value="29"/>
     </Batsman>
     <Batsman name="Sathesh Polepaka">
-      <HowOut how="Stumped Unsure"/>
+      <HowOut how="Not Out"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
@@ -119,7 +119,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Vernon Butcher">
-      <HowOut how="Run Out Mike Longson"/>
+      <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
     <Extras value="12"/>

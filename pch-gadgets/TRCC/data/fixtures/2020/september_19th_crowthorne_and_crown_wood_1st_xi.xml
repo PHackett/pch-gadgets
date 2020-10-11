@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 16:38:49 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:30:53 +01:00 (BST)-->
 <!--Result = Win-->
-<!--XMLFilename = 2020/september_19th_crowthorne_and_crown_wood_1st_xi.xml-->
+<!--XMLFilename = 2020/september_19th_crowthorne_and_crown_wood.xml-->
 <CricketMatch oppo="Crowthorne and Crown Wood 1st XI" date="Sat Sep 19 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4510935">
   <MatchReport/>
   <CountsToStats/>
@@ -22,7 +22,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Kiran Juluri">
-      <HowOut how="Caught Andrew Baines"/>
+      <HowOut how="Not Out"/>
       <Runs value="67"/>
     </Batsman>
     <Batsman name="Stan Fritz">
@@ -50,7 +50,7 @@
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Sathesh Polepaka">
@@ -116,11 +116,11 @@
       <Runs value="47"/>
     </Batsman>
     <Batsman name="Christopher Emes">
-      <HowOut how="Caught Stan Fritz"/>
+      <HowOut how="Not Out"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Peter Emes">
-      <HowOut how="Caught Stan Fritz"/>
+      <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Sinith Chandran">

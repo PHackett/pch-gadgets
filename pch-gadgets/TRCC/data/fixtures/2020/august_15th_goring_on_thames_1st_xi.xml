@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 16:25:55 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:33:39 +01:00 (BST)-->
 <!--Result = Lose-->
-<!--XMLFilename = 2020/august_15th_goring_on_thames_1st_xi.xml-->
+<!--XMLFilename = 2020/august_15th_goring_on_thames.xml-->
 <CricketMatch oppo="Goring on Thames 1st XI" date="Sat Aug 15 2020 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4487962">
   <MatchReport/>
   <CountsToStats/>
@@ -27,7 +27,7 @@
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Johann Toerien">
-      <HowOut how="Stumped Mark Higgins"/>
+      <HowOut how="Not Out"/>
       <Runs value="87"/>
     </Batsman>
     <Batsman name="Alex McGee">
@@ -117,11 +117,11 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Kiran Juluri">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="5"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="1"/>
     </Batsman>
     <Extras value="25"/>

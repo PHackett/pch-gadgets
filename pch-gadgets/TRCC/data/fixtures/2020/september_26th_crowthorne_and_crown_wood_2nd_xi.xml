@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 13:24:03 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:50:09 +01:00 (BST)-->
 <!--Result = Win-->
 <!--XMLFilename = 2020/september_26th_crowthorne_and_crown_wood_2nd_xi.xml-->
 <CricketMatch oppo="Crowthorne and Crown Wood 2nd XI" date="Sat Sep 26 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4510938">
@@ -45,11 +45,11 @@
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Srimahesh Tummalapenta">
-      <HowOut how="Caught Unsure"/>
+      <HowOut how="Not Out"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Sathesh Polepaka">
-      <HowOut how="Caught Unsure"/>
+      <HowOut how="Not Out"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Spence Nichols" captain="1">
@@ -120,7 +120,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Matthew Kelly">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Avinash Singh">

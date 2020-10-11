@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 13:30:09 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:49:43 +01:00 (BST)-->
 <!--Result = Lose-->
 <!--XMLFilename = 2020/september_19th_warfield_1st_xi.xml-->
 <CricketMatch oppo="Warfield Saturday 1st XI" date="Sat Sep 19 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4471211">
@@ -52,7 +52,7 @@
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Riyas Rajab">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Madheev Kalli">
@@ -118,7 +118,7 @@
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Srimahesh Tummalapenta">
-      <HowOut how="Caught Mark Tisshaw"/>
+      <HowOut how="Not Out"/>
       <Runs value="24"/>
     </Batsman>
     <Batsman name="Spence Nichols" captain="1">
@@ -127,7 +127,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Chris Fort">
-      <HowOut how="Caught Firas Rajabdeen"/>
+      <HowOut how="Not Out"/>
       <Runs value="4"/>
     </Batsman>
     <Extras value="47"/>

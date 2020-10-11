@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Tue Aug 11 2020 22:51:36 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:36:00 +01:00 (BST)-->
 <!--Result = Lose-->
 <!--XMLFilename = 2020/august_8th_stratfield_turgis_hartley_wespall.xml-->
-<CricketMatch oppo="Stratfield Turgis_Hartley Wespall" date="Sat Aug 08 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494813">
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall 2nd XI" date="Sat Aug 08 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494813">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Stratfield Turgis_Hartley Wespall">
+  <Innings batting="Stratfield Turgis_Hartley Wespall 2nd XI">
     <Batsman name="Mark Walton">
       <HowOut how="LBW"/>
       <Bowler name="Spence Nichols"/>
@@ -27,7 +27,7 @@
       <Runs value="25"/>
     </Batsman>
     <Batsman name="Marc Minikin">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Not Out"/>
       <Runs value="39"/>
     </Batsman>
     <Batsman name="William Toosey">
@@ -116,7 +116,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Dylan Burr">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Spence Nichols" captain="1">

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Mon Aug 03 2020 22:12:15 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:42:43 +01:00 (BST)-->
 <!--Result = Abandonned-->
 <!--XMLFilename = 2020/july_25th_mortimer_west_end.xml-->
-<CricketMatch oppo="Mortimer West End" date="Sat Jul 25 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4478848">
+<CricketMatch oppo="Mortimer West End 1st XI" date="Sat Jul 25 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4478848">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Mortimer West End">
+  <Innings batting="Mortimer West End 1st XI">
     <Batsman name="Jason Searancke">
       <HowOut how="LBW"/>
       <Bowler name="Ashan Dildar"/>

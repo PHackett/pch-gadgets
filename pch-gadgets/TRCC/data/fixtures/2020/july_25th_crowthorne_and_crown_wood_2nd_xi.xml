@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Mon Aug 03 2020 21:30:59 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:42:08 +01:00 (BST)-->
 <!--Result = Abandonned-->
 <!--XMLFilename = 2020/july_25th_crowthorne_and_crown_wood.xml-->
-<CricketMatch oppo="Crowthorne and Crown Wood" date="Sat Jul 25 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4487411">
+<CricketMatch oppo="Crowthorne and Crown Wood 3rd XI" date="Sat Jul 25 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4487411">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Crowthorne and Crown Wood">
+  <Innings batting="Crowthorne and Crown Wood 3rd XI">
     <Batsman name="David McQuitty" captain="1">
       <HowOut how="Bowled"/>
       <Bowler name="Noel Downes"/>
@@ -37,7 +37,7 @@
       <Runs value="13"/>
     </Batsman>
     <Batsman name="Jordan Cartledge">
-      <HowOut how="Caught Gopi Kolluru"/>
+      <HowOut how="Run Out Gopi Kolluru"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Jonathan Reypert">
@@ -46,11 +46,11 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="John Cartledge">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="8"/>
     </Batsman>
     <Batsman name="Avinash Singh">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Mike Storey">

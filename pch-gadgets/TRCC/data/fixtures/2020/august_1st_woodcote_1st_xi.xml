@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Mon Aug 03 2020 21:40:45 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:35:26 +01:00 (BST)-->
 <!--Result = Win-->
 <!--XMLFilename = 2020/august_1st_woodcote.xml-->
-<CricketMatch oppo="Woodcote" date="Sat Aug 01 2020 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4487964">
+<CricketMatch oppo="Woodcote 1st XI" date="Sat Aug 01 2020 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4487964">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Woodcote">
+  <Innings batting="Woodcote 1st XI">
     <Batsman name="Ryan Lennard" keeper="1">
       <HowOut how="Caught Mark Higgins"/>
       <Bowler name="Andrew Miller"/>
@@ -37,7 +37,7 @@
       <Runs value="11"/>
     </Batsman>
     <Batsman name="Sean Bell">
-      <HowOut how="Caught Rupesh Ahluwalia"/>
+      <HowOut how="Run Out Rupesh Ahluwalia"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Keanu Brouard">
@@ -56,7 +56,7 @@
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Connor Mattimore">
-      <HowOut how="Caught Kiran Juluri"/>
+      <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
     <Extras value="7"/>
@@ -119,11 +119,11 @@
       <Runs value="18"/>
     </Batsman>
     <Batsman name="Mark Higgins" keeper="1">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Kiran Juluri">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Chandra Cherukuri">

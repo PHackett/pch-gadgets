@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Generated on Sat Oct 03 2020 13:35:33 +01:00 (BST)-->
+<!--Generated on Sun Oct 11 2020 11:43:50 +01:00 (BST)-->
 <!--Result = Lose-->
-<!--XMLFilename = 2020/september_12th_falkland_cc__berks_development_xi.xml-->
-<CricketMatch oppo="Falkland CC_ Berks Development XI" date="Sat Sep 12 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4510937">
+<!--XMLFilename = 2020/september_12th_falkland_cc_berks_development_xi.xml-->
+<CricketMatch oppo="Falkland Development XI" date="Sat Sep 12 2020 12:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4510937">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Falkland CC_ Berks Development XI">
+  <Innings batting="Falkland Development XI">
     <Batsman name="Tristan Powell">
       <HowOut how="Caught Nagarju Garipelli"/>
       <Bowler name="Spence Nichols"/>
@@ -27,7 +27,7 @@
       <Runs value="41"/>
     </Batsman>
     <Batsman name="Holly Rider">
-      <HowOut how="LBW"/>
+      <HowOut how="Not Out"/>
       <Runs value="19"/>
     </Batsman>
     <Batsman name="Aiden Kriel">
@@ -36,7 +36,7 @@
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Jan Kriel">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="41"/>
     </Batsman>
     <Batsman name="Alec McCormack">
@@ -112,7 +112,7 @@
       <Runs value="9"/>
     </Batsman>
     <Batsman name="Srimahesh Tummalapenta">
-      <HowOut how="Bowled"/>
+      <HowOut how="Not Out"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Tom Hutchins">
