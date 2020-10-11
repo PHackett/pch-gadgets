@@ -544,7 +544,7 @@ function GGTRCC_RenderBattingBestByYear (aPLSO)
 }
 
 
-//------------------------------[GGTRCC_RenderBoelingDetails]-
+//------------------------------[GGTRCC_RenderBowlingDetails]-
 // Render details of the bowling for the player
 //
 // @param aPSO			IN 	The GGTRCC_PlayerLifetimeO object
@@ -566,6 +566,32 @@ function GGTRCC_RenderBowlingDetails (aPLSO, aBowlingGraphInfo)
 		lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
 	}
 	
+	return (lRet);
+}
+
+
+//------------------------------[GGTRCC_RenderBattingDetails]-
+// Render details of the bating for the player
+//
+// @param aPSO			IN 	The GGTRCC_PlayerLifetimeO object
+// @param aBattingGraphInfo	IN	
+//
+//------------------------------------------------------------
+function GGTRCC_RenderBattingDetails (aPLSO, aBattingGraphInfo)
+{
+	var lRet="";
+
+	if (0 == aBattingGraphInfo.length)
+	{
+		lRet += "<br>There is no Batting record for this player<br><br>";
+	}
+	else
+	{
+		lRet += GGTRCC_RenderBattingByYear (aPLSO);
+		lRet += GGTRCC_RenderBattingHighlightsByYear(aPLSO);
+		lRet += GGTRCC_RenderBattingBestByYear(aPLSO);
+	}
+
 	return (lRet);
 }
 
@@ -640,7 +666,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	lRet +=   "</ul>";
 	*/
-	lRet += "1</div>";
+	lRet += "2</div>";
 
 	//
 	// Batting & Bowling arrays
@@ -658,16 +684,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	
 	// else if (lRenderBatting == lRenderItem)	// OCT 20
 	{
-		if (0 == lXarr.length)
-		{
-			lRet += "<br>There is no Batting record for this player<br><br>";
-		}
-		else
-		{
-			lRet += GGTRCC_RenderBattingByYear (aPLSO);
-			lRet += GGTRCC_RenderBattingHighlightsByYear(aPLSO);
-			lRet += GGTRCC_RenderBattingBestByYear(aPLSO);
-		}
+		lRet += GGTRCC_RenderBattingDetails (aPLSO, lXarr);
 	}
 	// else						// OCT20
 	{
