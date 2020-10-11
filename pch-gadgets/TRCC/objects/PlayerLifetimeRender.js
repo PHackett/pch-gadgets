@@ -553,6 +553,18 @@ function GGTRCC_RenderBattingBestByYear (aPLSO)
 function GGTRCC_RenderPlayerStats (aPLSO)
 {
 	var lRet="";
+	
+	//
+	// A problem started in October 2020, where the URL 'parameters'
+	// (those bits of the URL after the '&') became unavailable to the
+	// _args()["parent"] & document.referer variables. This meant that this 
+	// page would not work as expected as the "Sumamry", "Batting" & "Bowling"
+	// tabs (which used "&render=batting" etc.) would not render as expected.
+	//
+	// The only thing I can think to do is to draw everything.
+	//
+	// I will comment changes with OCT20
+	//
 	var lRenderSummary=1;
 	var lRenderBatting=2;
 	var lRenderBowling=3;
@@ -584,6 +596,8 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	// Create the heading links to the 3 different options
 	//
 	lRet += "<div id='centeredmenu'>";
+	
+	/* 						// OCT20
 	lRet +=   "<ul>";
 	
 	lRet +=     "<li><a href='" + GGGadget_getHostURL (false) +                "' ' target='_parent'";
@@ -599,6 +613,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	lRet += ">Bowling</a></li>";
 	
 	lRet +=   "</ul>";
+	*/
 	lRet += "</div>";
 
 	//
@@ -610,7 +625,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 	//
 	// Render the specific option
 	//
-	if (lRenderBowling == lRenderItem)
+	// if (lRenderBowling == lRenderItem)		// OCT20
 	{
 		if (0 == lBoarr.length)
 		{
@@ -623,7 +638,8 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 			lRet += GGTRCC_RenderBowlingHighlightsByYear(aPLSO);
 		}
 	}
-	else if (lRenderBatting == lRenderItem)
+	
+	// else if (lRenderBatting == lRenderItem)	// OCT 20
 	{
 		if (0 == lXarr.length)
 		{
@@ -636,7 +652,7 @@ function GGTRCC_RenderPlayerStats (aPLSO)
 			lRet += GGTRCC_RenderBattingBestByYear(aPLSO);
 		}
 	}
-	else
+	// else						// OCT20
 	{
 		if (null != aPLSO.mFRG)
 		{
