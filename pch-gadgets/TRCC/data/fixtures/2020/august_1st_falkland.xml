@@ -5,7 +5,7 @@
 <CricketMatch oppo="Falkland CC Development XI" date="Sat Aug 01 2020 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4494387">
   <MatchReport/>
   <CountsToStats/>
-  <Innings batting="Falkland CC_ Berks Development XI">
+  <Innings batting="Falkland CC Development XI">
     <Batsman name="Tristan Powell">
       <HowOut how="Bowled"/>
       <Bowler name="Dylan Burr"/>
