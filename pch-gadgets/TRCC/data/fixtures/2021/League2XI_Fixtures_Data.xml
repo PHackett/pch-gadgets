@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        "Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+	      "NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+  <Fixture>
+    <Date>Sat, 18 Jul 2020 12:00:00 UTC</Date>
+    <Opposition>Shinfield 3rd XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>Won</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 25 Jul 2020 12:00:00 UTC</Date>
+    <Opposition>Crowthorne and Crown Wood 2nd XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>Abandonned</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 1 Aug 2020 12:00:00 UTC</Date>
+    <Opposition>Falkland</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 8 Aug 2020 12:00:00 UTC</Date>
+    <Opposition>Stratfield Turgis</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sun, 16 Aug 2020 12:00:00 UTC</Date>
+    <Opposition>Shinfield 3rd XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 22 Aug 2020 12:00:00 UTC</Date>
+    <Opposition>Stratfield Turgis Hartley Wespall 2nd XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>Won</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 29 Aug 2020 12:00:00 UTC</Date>
+    <Opposition>Mortimer 1st XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>Abandonned</Result>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 5 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Binfield 4th XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 12 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Falkland CC Berks Development XI</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 19 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Warfield 1st XI</Opposition>
+    <Time>12:30</Time>
+    <Venue>Away</Venue>
+    <Result>Lose</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 26 Sep 2020 12:00:00 UTC</Date>
+    <Opposition>Crowthorne and Crown Wood 2nd XI</Opposition>
+    <Time>12:30</Time>
+    <Venue>Home</Venue>
+    <Result>Win</Result>
+    <HasLink/>
+  </Fixture>
+
+</YearsFixtures>
