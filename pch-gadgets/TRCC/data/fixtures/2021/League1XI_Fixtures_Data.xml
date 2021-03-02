@@ -17,15 +17,15 @@
 <YearsFixtures>
 
   <Fixture>
-    <Date>Sat, 18 Apr 2021 12:00:00 UTC</Date>
-    <Opposition>Warfield</Opposition>
+    <Date>Sat, 17 Apr 2021 12:00:00 UTC</Date>
+    <Opposition>Crowthorne 1</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 25 Apr 2021 12:00:00 UTC</Date>
+    <Date>Sat, 24 Apr 2021 12:00:00 UTC</Date>
     <Opposition>Farley Hill</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
@@ -33,8 +33,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 18 Jul 2021 12:00:00 UTC</Date>
-    <Opposition>Sandhurst Friendly XI</Opposition>
+    <Date>Sat, 1 May 2021 12:00:00 UTC</Date>
+    <Opposition>Crowthorne 1</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -42,8 +42,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 25 Jul 2021 12:00:00 UTC</Date>
-    <Opposition>Mortimer West End 1st XI</Opposition>
+    <Date>Sat, 8 May 2021 12:00:00 UTC</Date>
+    <Opposition>Farley Hill 1</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -51,8 +51,17 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 1 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Woodcote 1st XI</Opposition>
+    <Date>Sat, 15 May 2021 12:00:00 UTC</Date>
+    <Opposition>Woodley 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 22 May 2021 12:00:00 UTC</Date>
+    <Opposition>Goring On Thames 1</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -60,8 +69,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 8 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Woodley 1st XI</Opposition>
+    <Date>Sat, 29 May 2021 12:00:00 UTC</Date>
+    <Opposition>Mortimer West End 1</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -69,8 +78,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 15 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Goring on Thames 1st XI</Opposition>
+    <Date>Sat, 5 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Woodcote 1</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -78,8 +87,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 22 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Mortimer West End 1st XI</Opposition>
+    <Date>Sat, 12 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Stratfield Turgis 1</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -87,8 +96,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 29 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Goring on Thames 1st XI</Opposition>
+    <Date>Sat, 19 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Sandhurst 1</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -96,8 +105,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 05 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Earley 1st XI</Opposition>
+    <Date>Sat, 26 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Welford Park 1</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -105,18 +114,117 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 12 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Reading Lions 1st XI</Opposition>
-    <Time>12:30</Time>
+    <Date>Sat, 3 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Crowthorne 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 10 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Farley Hill 1</Opposition>
+    <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
     <HasLink/>
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 19 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Crowthorne and Crown Wood 1st XI</Opposition>
-    <Time>12:30</Time>
+    <Date>Sat, 17 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Woodley 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 24 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Goring On Thames 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 31 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Mortimer West End 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 7 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Woodcote 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 14 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Stratfield Turgis 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 21 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Sandhurst 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 28 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Welford Park 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 04 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>Reserve day</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 11 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>Holyport</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 18 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>Peppard Stoke Row 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 25 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>ReadingLions</Opposition>
+    <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
     <HasLink/>
