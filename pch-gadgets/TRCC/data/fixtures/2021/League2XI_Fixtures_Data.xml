@@ -115,18 +115,9 @@
     <HasLink/>
   </Fixture>
 
-<Fixture>
+  <Fixture>
     <Date>Sat, 3 Jul 2021 12:00:00 UTC</Date>
-    <Opposition>Shinfield 3rd XI</Opposition>
-    <Time>13:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
-    <HasLink/>
-  </Fixture>
-
-  <Fixture>
-    <Date>Sat, 25 Jul 2021 12:00:00 UTC</Date>
-    <Opposition>Crowthorne and Crown Wood 2nd XI</Opposition>
+    <Opposition>Stratfield Turgis 2</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -134,17 +125,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 1 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Falkland</Opposition>
-    <Time>13:00</Time>
-    <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
-    <HasLink/>
-  </Fixture>
-
-  <Fixture>
-    <Date>Sat, 8 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Stratfield Turgis</Opposition>
+    <Date>Sat, 10 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Crowthorne 3</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -152,17 +134,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sun, 16 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Shinfield 3rd XI</Opposition>
-    <Time>13:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
-    <HasLink/>
-  </Fixture>
-
-  <Fixture>
-    <Date>Sat, 22 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Stratfield Turgis Hartley Wespall 2nd XI</Opposition>
+    <Date>Sat, 17 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Reading  United 2</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -170,16 +143,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 29 Aug 2021 12:00:00 UTC</Date>
-    <Opposition>Mortimer 1st XI</Opposition>
-    <Time>13:00</Time>
-    <Venue>Away</Venue>
-    <Result>NotYetPlayed</Result>
-  </Fixture>
-
-  <Fixture>
-    <Date>Sat, 5 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Binfield 4th XI</Opposition>
+    <Date>Sat, 24 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Shinfield 3</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
@@ -187,17 +152,8 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 12 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Falkland CC Berks Development XI</Opposition>
-    <Time>13:00</Time>
-    <Venue>Home</Venue>
-    <Result>NotYetPlayed</Result>
-    <HasLink/>
-  </Fixture>
-
-  <Fixture>
-    <Date>Sat, 19 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Warfield 1st XI</Opposition>
+    <Date>Sat, 31 Jul 2021 12:00:00 UTC</Date>
+    <Opposition>Mortimer 1</Opposition>
     <Time>13:00</Time>
     <Venue>Away</Venue>
     <Result>NotYetPlayed</Result>
@@ -205,8 +161,71 @@
   </Fixture>
 
   <Fixture>
-    <Date>Sat, 26 Sep 2021 12:00:00 UTC</Date>
-    <Opposition>Crowthorne and Crown Wood 2nd XI</Opposition>
+    <Date>Sat, 7 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>West Reading 4</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 14 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Sandhurst 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sun, 21 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Earley 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 28 Aug 2021 12:00:00 UTC</Date>
+    <Opposition>Knowl Hill 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 4 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>TBC</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 11 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>TBC</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 18 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>Peppard Stoke Row</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 25 Sep 2021 12:00:00 UTC</Date>
+    <Opposition>TBC</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
     <Result>NotYetPlayed</Result>
