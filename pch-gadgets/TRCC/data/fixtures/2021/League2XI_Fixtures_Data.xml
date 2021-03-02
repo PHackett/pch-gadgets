@@ -17,7 +17,106 @@
 <YearsFixtures>
 
   <Fixture>
-    <Date>Sat, 18 Jul 2021 12:00:00 UTC</Date>
+    <Date>Sat, 17 Apr 2021 12:00:00 UTC</Date>
+    <Opposition>Warfield</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 24 Apr 2021 12:00:00 UTC</Date>
+    <Opposition>Crowthorne 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 1 May 2021 12:00:00 UTC</Date>
+    <Opposition>Stratfield Turgis 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 8 May 2021 12:00:00 UTC</Date>
+    <Opposition>Crowthorne 3</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 15 May 2021 12:00:00 UTC</Date>
+    <Opposition>Reading United 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 22 May 2021 12:00:00 UTC</Date>
+    <Opposition>Shinfield 3</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 29 May 2021 12:00:00 UTC</Date>
+    <Opposition>Mortimer 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 5 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>West Reading 4</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 12 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Sandhurst 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 19 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Earley 2</Opposition>
+    <Time>13:00</Time>
+    <Venue>Away</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+  <Fixture>
+    <Date>Sat, 26 Jun 2021 12:00:00 UTC</Date>
+    <Opposition>Knowl Hill 1</Opposition>
+    <Time>13:00</Time>
+    <Venue>Home</Venue>
+    <Result>NotYetPlayed</Result>
+    <HasLink/>
+  </Fixture>
+
+<Fixture>
+    <Date>Sat, 3 Jul 2021 12:00:00 UTC</Date>
     <Opposition>Shinfield 3rd XI</Opposition>
     <Time>13:00</Time>
     <Venue>Home</Venue>
