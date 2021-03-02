@@ -25,31 +25,31 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 3 May 2021 12:00:00 UTC</Date>
+  <Date>Sun, 2 May 2021 12:00:00 UTC</Date>
   <Opposition>Bracknell</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 9 May 2021 12:00:00 UTC</Date>
+  <Opposition>Reading University Alumni and Staff</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 10 May 2021 12:00:00 UTC</Date>
-  <Opposition>Reading University Alumni and Staff</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 17 May 2021 12:00:00 UTC</Date>
+  <Date>Sun, 16 May 2021 12:00:00 UTC</Date>
   <Opposition>Swyncombe</Opposition>
   <Time>14:00</Time>
-  <Venue>Home</Venue>
+  <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 24 May 2021 12:00:00 UTC</Date>
+  <Date>Sun, 23 May 2021 12:00:00 UTC</Date>
   <Opposition>Ashford Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
@@ -57,23 +57,15 @@
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 25 May 2021 12:00:00 UTC</Date>
-  <Opposition>TRCC Club Day</Opposition>
+  <Date>Sun, 30 May 2021 12:00:00 UTC</Date>
+  <Opposition>Theale and Tilehurst</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Mon, 31 May 2021 12:00:00 UTC</Date>
-  <Opposition>Theale and Tilehurst</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 7 Jun 2021 12:00:00 UTC</Date>
+  <Date>Sun, 6 Jun 2021 12:00:00 UTC</Date>
   <Opposition>Greys Green</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
@@ -81,31 +73,31 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 14 Jun 2021 12:00:00 UTC</Date>
+  <Date>Sun, 13 Jun 2021 12:00:00 UTC</Date>
   <Opposition>Sonning</Opposition>
-  <Time>13:30</Time>
+  <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 21 Jun 2021 12:00:00 UTC</Date>
-  <Opposition>Crowthorne and Crown Wood</Opposition>
-  <Time>14:00</Time>
-  <Venue>Away</Venue>
+  <Date>Sun, 20 Jun 2021 12:00:00 UTC</Date>
+  <Opposition>Crowthorne</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 28 Jun 2021 12:00:00 UTC</Date>
+  <Date>Sun, 27 Jun 2021 12:00:00 UTC</Date>
   <Opposition>Ibstone</Opposition>
-  <Time>14:00</Time>
+  <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 5 Jul 2021 12:00:00 UTC</Date>
+  <Date>Sun, 4 Jul 2021 12:00:00 UTC</Date>
   <Opposition>Hurley</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
@@ -113,33 +105,33 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 12 Jul 2021 12:00:00 UTC</Date>
-  <Opposition>Freith</Opposition>
+  <Date>Sun, 11 Jul 2021 12:00:00 UTC</Date>
+  <Opposition>Reading Lions</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 18 Jul 2021 12:00:00 UTC</Date>
+  <Opposition>Purley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 25 Jul 2021 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 19 Jul 2021 12:00:00 UTC</Date>
-  <Opposition>Reading Lions</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 26 Jul 2021 12:00:00 UTC</Date>
-  <Opposition>Ipsden</Opposition>
-  <Time>14:00</Time>
-  <Venue>Home</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 2 Aug 2021 12:00:00 UTC</Date>
+  <Date>Sun, 1 Aug 2021 12:00:00 UTC</Date>
   <Opposition>Wargrave</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
@@ -148,77 +140,35 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 9 Aug 2021 12:00:00 UTC</Date>
+  <Date>Sun, 8 Aug 2021 12:00:00 UTC</Date>
   <Opposition>Harpsden</Opposition>
   <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 16 Aug 2021 12:00:00 UTC</Date>
-  <Opposition>Checkendon</Opposition>
-  <Time>13:00</Time>
-  <Venue>Away</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 23 Aug 2021 12:00:00 UTC</Date>
-  <Opposition>Simmons XI</Opposition>
-  <Time>14:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 30 Aug 2021 12:00:00 UTC</Date>
-  <Opposition>TBD</Opposition>
+  <Date>Sun, 15 Aug 2021 12:00:00 UTC</Date>
+  <Opposition>Checkendon</Opposition>
   <Time>13:00</Time>
-  <Venue>Tour</Venue>
+  <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
+  <HasLink/>
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 30 Aug 2021 12:00:00 UTC</Date>
-  <Opposition>Presidents XI</Opposition>
-  <Time>14:00</Time>
+  <Date>Sun, 22 Aug 2021 12:00:00 UTC</Date>
+  <Opposition>Simmons XI</Opposition>
+  <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
  
 <Fixture>
-  <Date>Mon, 31 Aug 2021 12:00:00 UTC</Date>
-  <Opposition>Patchway</Opposition>
-  <Time>13:00</Time>
-  <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Tue, 1 Sep 2021 12:00:00 UTC</Date>
-  <Opposition>Harptree Villages</Opposition>
-  <Time>13:00</Time>
-  <Venue>Tour</Venue>
-  <Result>NotYetPlayed</Result>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 6 Sep 2021 12:00:00 UTC</Date>
+  <Date>Sun, 5 Sep 2021 12:00:00 UTC</Date>
   <Opposition>Peppard and Stoke Row</Opposition>
-  <Time>13:00</Time>
-  <Venue>home</Venue>
-  <Result>NotYetPlayed</Result>
-  <HasLink/>
-</Fixture>
-
-<Fixture>
-  <Date>Sun, 13 Sep 2021 12:00:00 UTC</Date>
-  <Opposition>Binfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
@@ -226,7 +176,16 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 20 Sep 2021 12:00:00 UTC</Date>
+  <Date>Sun, 12 Sep 2021 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>12:30</Time>
+  <Venue>Home</Venue>
+  <Result>NotYetPlayed</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 19 Sep 2021 12:00:00 UTC</Date>
   <Opposition>West Reading</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
@@ -235,9 +194,9 @@
 </Fixture>
 
 <Fixture>
-  <Date>Sun, 27 Sep 2021 12:00:00 UTC</Date>
+  <Date>Sun, 26 Sep 2021 12:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
-  <Time>13:00</Time>
+  <Time>12:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
   <HasLink/>
