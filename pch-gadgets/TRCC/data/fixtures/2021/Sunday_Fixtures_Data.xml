@@ -134,7 +134,6 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -143,7 +142,6 @@
   <Time>14:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -152,7 +150,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -161,7 +158,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -170,7 +166,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -179,7 +174,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
  
 <Fixture>
@@ -188,7 +182,6 @@
   <Time>13:00</Time>
   <Venue>Away</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -197,7 +190,6 @@
   <Time>12:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -206,7 +198,6 @@
   <Time>13:00</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 <Fixture>
@@ -215,7 +206,6 @@
   <Time>12:30</Time>
   <Venue>Home</Venue>
   <Result>NotYetPlayed</Result>
-  <HasLink/>
 </Fixture>
 
 </YearsFixtures>
