@@ -17,11 +17,11 @@
 <YearsFixtures>
 
 <Fixture>
-  <Date>Sun, 26 Apr 2021 12:00:00 UTC</Date>
+  <Date>Sun, 25 Apr 2021 12:00:00 UTC</Date>
   <Opposition>Stonor</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -29,7 +29,7 @@
   <Opposition>Bracknell</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -37,7 +37,7 @@
   <Opposition>Reading University Alumni and Staff</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -45,7 +45,7 @@
   <Opposition>Swyncombe</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -53,7 +53,7 @@
   <Opposition>Ashford Hill</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -61,7 +61,7 @@
   <Opposition>TRCC Club Day</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -69,7 +69,7 @@
   <Opposition>Theale and Tilehurst</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -77,7 +77,7 @@
   <Opposition>Greys Green</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -85,7 +85,7 @@
   <Opposition>Sonning</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -93,7 +93,7 @@
   <Opposition>Crowthorne and Crown Wood</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -101,7 +101,7 @@
   <Opposition>Ibstone</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -109,7 +109,7 @@
   <Opposition>Hurley</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -117,7 +117,7 @@
   <Opposition>Freith</Opposition>
   <Time>14:00</Time>
   <Venue>Away</Venue>
-  <Result>Cancelled</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -125,7 +125,7 @@
   <Opposition>Reading Lions</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -134,7 +134,7 @@
   <Opposition>Ipsden</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -143,7 +143,7 @@
   <Opposition>Wargrave</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -152,7 +152,7 @@
   <Opposition>Harpsden</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -161,7 +161,7 @@
   <Opposition>Checkendon</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -170,7 +170,7 @@
   <Opposition>Simmons XI</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -179,7 +179,7 @@
   <Opposition>TBD</Opposition>
   <Time>13:00</Time>
   <Venue>Tour</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -187,7 +187,7 @@
   <Opposition>Presidents XI</Opposition>
   <Time>14:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
  
@@ -196,7 +196,7 @@
   <Opposition>Patchway</Opposition>
   <Time>13:00</Time>
   <Venue>Tour</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -204,7 +204,7 @@
   <Opposition>Harptree Villages</Opposition>
   <Time>13:00</Time>
   <Venue>Tour</Venue>
-  <Result>Virus</Result>
+  <Result>NotYetPlayed</Result>
 </Fixture>
 
 <Fixture>
@@ -212,7 +212,7 @@
   <Opposition>Peppard and Stoke Row</Opposition>
   <Time>13:00</Time>
   <Venue>home</Venue>
-  <Result>Win</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -221,7 +221,7 @@
   <Opposition>Binfield</Opposition>
   <Time>13:00</Time>
   <Venue>Away</Venue>
-  <Result>Draw</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -230,7 +230,7 @@
   <Opposition>West Reading</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
@@ -239,7 +239,7 @@
   <Opposition>Warfield</Opposition>
   <Time>13:00</Time>
   <Venue>Home</Venue>
-  <Result>Lose</Result>
+  <Result>NotYetPlayed</Result>
   <HasLink/>
 </Fixture>
 
