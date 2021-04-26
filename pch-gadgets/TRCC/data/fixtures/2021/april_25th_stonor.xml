@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Apr 26 2021 09:48:52 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/april_25th_stonor.xml -->
+<CricketMatch oppo="Stonor" date="Sun Apr 25 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="O Cavenaugh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Tinsey"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="O Cavenaugh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Swinburne"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Labert"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Swinburne"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Bowled"/>
+      <Bowler name="Austin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Austin"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Labert"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="David Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Labert"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="4" score="34"/>
+    <FallOfWicket batsman="6" score="48"/>
+    <FallOfWicket batsman="7" score="49"/>
+    <FallOfWicket batsman="8" score="66"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="10" score="85"/>
+    <FallOfWicket batsman="9" score="93"/>
+    <BowlerSummary name="O Cavenaugh" overs="6" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="M Tinsey" overs="8" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="M Swinburne" overs="5" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Austin" overs="8" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Labert" overs="6" maidens="0" runs="41" wickets="3"/>
+  </Innings>
+  <Innings batting="Stonor">
+    <Batsman name="J Mayo">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Farr">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="I Cripps">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="N Horne">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Connolly">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Lovatt">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="O Kavanagh">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Tinsey">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Charlie Scarr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Lambert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charlie Scarr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Austin">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Swinburne"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="4" runs="14" wickets="3"/>
+    <BowlerSummary name="Chris Priddle" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Sam Staples" overs="5" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Charlie Scarr" overs="4.4" maidens="1" runs="17" wickets="2"/>
+  </Innings>
+</CricketMatch>
