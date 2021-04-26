@@ -50,6 +50,7 @@
     <Player surname="Birch" firstname="Wayne" firstseason="1992" lastseason="1992"/>
     <Player surname="Bolton" firstname="M" firstseason="1996" lastseason="1996"/>
     <Player surname="Bose" firstname="Chris" firstseason="1990" lastseason="1990" catches="3" mostcatchesseason="3"/>
+    <Player surname="Bournat" firstname="Alex"/>
     <Player surname="Boyd" firstname="Ian" firstseason="1992" lastseason="1994" catches="1" mostcatchesseason="1"/>
     <Player surname="Boyle" firstname="P" firstseason="1986" lastseason="1986"/>
     <Player surname="Brace" firstname="A"/>
@@ -392,6 +393,7 @@
 
     <!-- S -->
     <Player surname="Sabir" firstname="Aneel"/>
+    <Player surname="Scarr" firstname="Charlie"/>
     <Player surname="Schofield" firstname="Pete"/>
     <Player surname="Scott" firstname="Andy" firstseason="1979" lastseason="1989" catches="50" mostcatchesseason="10"/>
     <Player surname="Scott" firstname="Tony"/>
