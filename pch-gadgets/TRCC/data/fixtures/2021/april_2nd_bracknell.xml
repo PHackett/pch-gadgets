@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 03 2021 09:06:12 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/april_2nd_bracknell.xml -->
+<CricketMatch oppo="Bracknell" date="Fri Apr 02 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Bracknell">
+    <Batsman name="Rick">
+      <HowOut how="Caught Will Etheridge"/>
+      <Bowler name="Charlie Scarr"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="DC">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="D Van">
+      <HowOut how="Caught Will Etheridge"/>
+      <Bowler name="Charlie Scarr"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Shap">
+      <HowOut how="Not Out"/>
+      <Runs value="99"/>
+    </Batsman>
+    <Batsman name="Dharishana">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="I Shar"/>
+    <Extras value="27"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="7" maidens="1" runs="44" wickets="0"/>
+    <BowlerSummary name="Stan Fritz" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Sam Staples" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="6" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Charlie Scarr" overs="8" maidens="1" runs="57" wickets="2"/>
+    <BowlerSummary name="Tom Hutchins" overs="3" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandler"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught"/>
+      <Bowler name="Chandler"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stone"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught"/>
+      <Bowler name="C Khan"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Stumped"/>
+      <Bowler name="Shap"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Shap"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="LBW"/>
+      <Bowler name="D Van"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Bowled"/>
+      <Bowler name="C White"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Shap"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stone"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="2" score="40"/>
+    <FallOfWicket batsman="4" score="58"/>
+    <FallOfWicket batsman="6" score="79"/>
+    <FallOfWicket batsman="7" score="80"/>
+    <FallOfWicket batsman="8" score="88"/>
+    <FallOfWicket batsman="5" score="88"/>
+    <FallOfWicket batsman="9" score="91"/>
+    <FallOfWicket batsman="11" score="112"/>
+    <BowlerSummary name="Stone" overs="6.5" maidens="2" runs="22" wickets="2"/>
+    <BowlerSummary name="Chandler" overs="6" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="D Van" overs="8" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="C Khan" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Shap" overs="8" maidens="2" runs="16" wickets="3"/>
+    <BowlerSummary name="C White" overs="4" maidens="1" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>
