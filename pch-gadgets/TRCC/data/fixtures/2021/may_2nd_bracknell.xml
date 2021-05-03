@@ -4,7 +4,7 @@
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Lose -->
 <!-- XMLFilename = 2021/april_2nd_bracknell.xml -->
-<CricketMatch oppo="Bracknell" date="Fri Apr 02 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+<CricketMatch oppo="Bracknell" date="Sun May 02 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Bracknell">
     <Batsman name="Rick">
