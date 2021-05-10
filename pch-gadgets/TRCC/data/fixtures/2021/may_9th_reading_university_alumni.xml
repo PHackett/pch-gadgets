@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 10 2021 10:32:08 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2021/may_9th_reading_university_alumni.xml -->
+<CricketMatch oppo="Reading University Alumni" date="Sun May 09 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading University Alumni">
+    <Batsman name="Eagle">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Zia">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Shakeel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="D Murphy">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Sami">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Greenhalf">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kumar">
+      <HowOut how="LBW"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Taimur">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Tranter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ashman"/>
+    <Extras value="30"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="6" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Will Etheridge" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Charlie Scarr" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="5" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="Max Hitchings" overs="2" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Chris Priddle" overs="5" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Not Out"/>
+      <Runs value="106"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zia"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Kumar"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Taimur"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Kumar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zia"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Burr" keeper="1"/>
+    <Batsman name="Sam Staples"/>
+    <Batsman name="Charlie Scarr"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="61"/>
+    <FallOfWicket batsman="4" score="62"/>
+    <FallOfWicket batsman="5" score="71"/>
+    <FallOfWicket batsman="6" score="197"/>
+    <BowlerSummary name="Sami" overs="8" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Taimur" overs="8" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Zia" overs="7" maidens="1" runs="41" wickets="2"/>
+    <BowlerSummary name="Ashman" overs="1" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Kumar" overs="8" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="Singh" overs="3" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>
