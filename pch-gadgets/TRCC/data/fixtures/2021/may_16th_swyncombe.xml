@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun May 16 2021 15:20:36 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Rain -->
+<!-- XMLFilename = 2021/may_16th_swyncombe.xml -->
+<CricketMatch oppo="Swyncombe" date="Sun May 16 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Swyncombe">
+    <Batsman name="Roger Ty">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Mark">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="2.5" maidens="1" runs="9" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal"/>
+    <Batsman name="Simon Burr"/>
+    <Batsman name="Will Etheridge"/>
+    <Batsman name="Hugh Fort"/>
+    <Batsman name="Simon Farrar" keep="1"/>
+    <Batsman name="Ben Gilbert"/>
+    <Batsman name="Paul Hackett"/>
+    <Batsman name="Max Hitchings"/>
+    <Batsman name="Neil Lancum"/>
+    <Batsman name="Steve Beamish"/>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
