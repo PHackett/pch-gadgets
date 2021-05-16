@@ -30,7 +30,7 @@
     <Batsman name="Simon Burr"/>
     <Batsman name="Will Etheridge"/>
     <Batsman name="Hugh Fort"/>
-    <Batsman name="Simon Farrar" keep="1"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
     <Batsman name="Ben Gilbert"/>
     <Batsman name="Paul Hackett"/>
     <Batsman name="Max Hitchings"/>
