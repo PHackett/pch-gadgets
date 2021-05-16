@@ -21,7 +21,7 @@
       <Runs value="0"/>
     </Batsman>
     <Extras value="2"/>
-    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="2" score="30"/>
     <BowlerSummary name="Paul Hackett" overs="3" maidens="1" runs="21" wickets="1"/>
     <BowlerSummary name="Steve Beamish" overs="2.5" maidens="1" runs="9" wickets="0"/>
   </Innings>
