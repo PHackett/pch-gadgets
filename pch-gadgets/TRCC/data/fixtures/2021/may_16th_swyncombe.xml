@@ -7,7 +7,7 @@
 <CricketMatch oppo="Swyncombe" date="Sun May 16 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Swyncombe">
-    <Batsman name="Roger Ty">
+    <Batsman name="Ty">
       <HowOut how="Not Out"/>
       <Runs value="28"/>
     </Batsman>
