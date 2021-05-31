@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 31 2021 09:28:46 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2021/may_30th_theale_and_tilehurst.xml -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun May 30 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Batsman name="J White">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="T White">
+      <HowOut how="LBW"/>
+      <Bowler name="Robin Thompson"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="M Hearn-Phillips">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="B Stroud">
+      <HowOut how="Caught Will Etheridge"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Why">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="L Shepherd">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="M Jackman">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="B Cooper"/>
+    <Batsman name="M Gray"/>
+    <Batsman name="S Stroud"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="8" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="7" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Robin Thompson" overs="5" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Tom Hutchins" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Chris Priddle" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="38" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Robin Thompson">
+      <HowOut how="Not Out"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Caught"/>
+      <Bowler name="B Cooper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Gray"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Hearn-Phillips"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Edward Farrar"/>
+    <Batsman name="Tom Hutchins"/>
+    <Batsman name="Chandra Cherukuri"/>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="1"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="5" score="119"/>
+    <BowlerSummary name="B Stroud" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="L Shepherd" overs="7" maidens="3" runs="27" wickets="0"/>
+    <BowlerSummary name="B Cooper" overs="8" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="M Gray" overs="8" maidens="0" runs="50" wickets="1"/>
+    <BowlerSummary name="M Hearn-Phillips" overs="5.5" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="A Why" overs="3" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>
