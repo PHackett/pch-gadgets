@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jun 08 2021 08:59:31 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2021/june_6th_greys_green.xml -->
+<CricketMatch oppo="Greys Green" date="Sun Jun 06 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Greys Green">
+    <Batsman name="M Shafqat">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="B Ahmed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="N Holroyd">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="J Knight">
+      <HowOut how="Bowled"/>
+      <Bowler name="Reuben Elliot"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="J Holroyd">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Reuben Elliot"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Davies">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Reuben Elliot"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="D Raschen">
+      <HowOut how="Caught Neil Lancum"/>
+      <Bowler name="Simon Burr"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="M Darby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Cross">
+      <HowOut how="Bowled"/>
+      <Bowler name="Simon Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="P Shah">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Rugg"/>
+    <Extras value="37"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="4" runs="6" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="10" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Neil Lancum" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="7" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="Reuben Elliot" overs="6" maidens="1" runs="15" wickets="3"/>
+    <BowlerSummary name="Simon Burr" overs="7" maidens="0" runs="39" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Reuben Elliot">
+      <HowOut how="Caught"/>
+      <Bowler name="M Shafqat"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Rugg"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="M Shafqat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="M Shafqat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="P Shah"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Caught"/>
+      <Bowler name="A Rugg"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught"/>
+      <Bowler name="T Cross"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="6"/>
+    <FallOfWicket batsman="4" score="10"/>
+    <FallOfWicket batsman="5" score="11"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="6" score="31"/>
+    <FallOfWicket batsman="7" score="31"/>
+    <BowlerSummary name="M Shafqat" overs="9" maidens="5" runs="23" wickets="3"/>
+    <BowlerSummary name="P Shah" overs="9" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="A Rugg" overs="10" maidens="3" runs="21" wickets="2"/>
+    <BowlerSummary name="T Cross" overs="6" maidens="1" runs="7" wickets="1"/>
+    <BowlerSummary name="A Davies" overs="4" maidens="3" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>
