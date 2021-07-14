@@ -245,6 +245,7 @@
     <Player surname="James" firstname="Garth"/>
     <Player surname="James" firstname="Rob"/>
     <Player surname="Jeffries" firstname="Andrew"/>
+    <Player surname="Joby" firstname="Will"/>
     <Player surname="Johnson" firstname="Tom"/>
     <Player surname="Johnston" firstname="Ian" firstseason="1988" lastseason="1988"/>
     <Player surname="Jones" firstname="I" firstseason="1975" lastseason="1975"/>
@@ -270,7 +271,6 @@
 
     <!-- L -->
     <Player surname="Lancum" firstname="Neil"/>
-    <Player surname="Laggett" firstname="T"/>
     <Player surname="Lake" firstname="Peter" firstseason="1979" lastseason="1988" catches="54" mostcatchesseason="6"/>
     <Player surname="Lally" firstname="Jas"/>
     <Player surname="Lambden" firstname="Rob" firstseason="1992" lastseason="1992"/>
@@ -282,6 +282,7 @@
     <Player surname="Leadbetter" firstname="Joe"/>
     <Player surname="Leadbetter" firstname="Tom"/>
     <Player surname="Lee" firstname="Simon"/>
+    <Player surname="Leggett" firstname="Thomas"/>
     <Player surname="Leicester" firstname="Kieran"/>
     <Player surname="Leigh" firstname="Gerwyn"/>
     <Player surname="Leigh" firstname="Mike"/>
