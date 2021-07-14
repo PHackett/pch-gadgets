@@ -13,13 +13,13 @@
       <Runs value="21"/>
     </Batsman>
     <Batsman name="Laksh">
-      <HowOut how="Caught T Laggett"/>
+      <HowOut how="Caught Thomas Leggett"/>
       <Bowler name="Will Etheridge"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="Aroun">
       <HowOut how="Caught Max Hitchings"/>
-      <Bowler name="T Laggett"/>
+      <Bowler name="Thomas Leggett"/>
       <Runs value="26"/>
     </Batsman>
     <Batsman name="Shiva">
@@ -44,7 +44,7 @@
     <BowlerSummary name="Will Etheridge" overs="4" maidens="0" runs="18" wickets="1"/>
     <BowlerSummary name="Neil Lancum" overs="3" maidens="1" runs="20" wickets="0"/>
     <BowlerSummary name="Tom Hutchins" overs="7" maidens="0" runs="46" wickets="0"/>
-    <BowlerSummary name="T Laggett" overs="5" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Thomas Leggett" overs="5" maidens="0" runs="36" wickets="1"/>
     <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="45" wickets="0"/>
     <BowlerSummary name="Ben Gilbert" overs="3" maidens="0" runs="32" wickets="0"/>
   </Innings>
@@ -64,7 +64,7 @@
       <Bowler name="Ashok"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="T Laggett">
+    <Batsman name="Thomas Leggett">
       <HowOut how="Bowled"/>
       <Bowler name="Ram"/>
       <Runs value="11"/>
