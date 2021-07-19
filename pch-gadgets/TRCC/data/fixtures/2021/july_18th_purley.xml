@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 19 2021 09:28:05 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2021/july_18th_purley.xml -->
+<CricketMatch oppo="Purley" date="Sun Jul 18 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike Longson">
+      <HowOut how="Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsh"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught"/>
+      <Bowler name="Harsh"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Hearn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Cavi">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="LBW"/>
+      <Bowler name="M Hearn"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="3" score="100"/>
+    <FallOfWicket batsman="2" score="132"/>
+    <FallOfWicket batsman="4" score="144"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="7" score="192"/>
+    <BowlerSummary name="J Hearn" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="C Guy" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="J Hinds" overs="8" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Harsh" overs="8" maidens="2" runs="29" wickets="3"/>
+    <BowlerSummary name="Dan Arey" overs="4" maidens="0" runs="69" wickets="0"/>
+    <BowlerSummary name="M Hearn" overs="4.2" maidens="0" runs="7" wickets="2"/>
+  </Innings>
+  <Innings batting="Purley">
+    <Batsman name="Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="T Koki">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="S Banda">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="S Harlowe">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Cavi"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="D Clarke">
+      <HowOut how="Run Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="J Hearn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="J Hinds">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="C Guy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Arey">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="H Kadia">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Harsh"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Cavi" overs="8" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="7" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Tom Hutchins" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Thomas Leggett" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Chris Priddle" overs="3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
