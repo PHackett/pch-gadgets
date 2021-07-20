@@ -49,7 +49,7 @@
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Cavi">
+    <Batsman name="Kabillesh Thanikasalam">
       <HowOut how="Run Out"/>
       <Runs value="0"/>
     </Batsman>
@@ -88,7 +88,7 @@
       <Runs value="30"/>
     </Batsman>
     <Batsman name="S Harlowe">
-      <HowOut how="Caught Keeper"/>
+      <HowOut how="Caught Alex Bournat"/>
       <Bowler name="Cavi"/>
       <Runs value="45"/>
     </Batsman>
@@ -121,7 +121,7 @@
     <Batsman name="Harsh"/>
     <Extras value="18"/>
     <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="26" wickets="0"/>
-    <BowlerSummary name="Cavi" overs="8" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="8" maidens="2" runs="30" wickets="1"/>
     <BowlerSummary name="Andrew Miller" overs="7" maidens="0" runs="29" wickets="2"/>
     <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="21" wickets="2"/>
     <BowlerSummary name="Tom Hutchins" overs="6" maidens="0" runs="33" wickets="0"/>
