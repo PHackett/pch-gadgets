@@ -64,7 +64,7 @@
   </Innings>
   <Innings batting="Wargrave">
     <Batsman name="N Bayley">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Keeper"/>
       <Bowler name="Tom Hutchins"/>
       <Runs value="14"/>
     </Batsman>
@@ -84,7 +84,7 @@
       <Runs value="44"/>
     </Batsman>
     <Batsman name="Jones">
-      <HowOut how="Caught "/>
+      <HowOut how="Caught Chris Priddle"/>
       <Bowler name="Will Etheridge"/>
       <Runs value="13"/>
     </Batsman>
