@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 16 2021 10:04:07 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/august_15th_checkendon.xml -->
+<CricketMatch oppo="Checkendon" date="Sun Aug 15 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught"/>
+      <Bowler name="Sunil"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sunil"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Priddle" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Khamar"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="LBW"/>
+      <Bowler name="J Jackson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Jackson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Warren"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Warren"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="LBW"/>
+      <Bowler name="Warren"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chitta"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Caught"/>
+      <Bowler name="Chitta"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="5" score="38"/>
+    <FallOfWicket batsman="7" score="99"/>
+    <FallOfWicket batsman="8" score="113"/>
+    <FallOfWicket batsman="9" score="124"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <FallOfWicket batsman="10" score="132"/>
+    <BowlerSummary name="D Pazir" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Sunil" overs="5" maidens="4" runs="1" wickets="2"/>
+    <BowlerSummary name="J Jackson" overs="4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Khamar" overs="6" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="E Jain" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Kolmar" overs="5" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Warren" overs="5" maidens="1" runs="6" wickets="3"/>
+    <BowlerSummary name="Chitta" overs="3" maidens="1" runs="16" wickets="2"/>
+  </Innings>
+  <Innings batting="Checkendon">
+    <Batsman name="J Ellis">
+      <HowOut how="Retired"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="J Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Heslop">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="3.3" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Tom Hutchins" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Will Joby" overs="4" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
