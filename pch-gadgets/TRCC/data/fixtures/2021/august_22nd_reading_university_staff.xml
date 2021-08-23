@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Aug 23 2021 13:10:51 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/august_22nd_reading_university_staff.xml -->
+<CricketMatch oppo="Reading University Staff" date="Sun Aug 22 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading University Staff">
+    <Batsman name="Eagle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Umer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="K Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Shakeel">
+      <HowOut how="Caught Alex Bournat"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Loader">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Samdan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="S Awan">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Zia">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Taimur"/>
+    <Batsman name="Tranter"/>
+    <Extras value="12"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="54" wickets="2"/>
+    <BowlerSummary name="Charlie Scarr" overs="3" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Chris Priddle" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Thomas Leggett" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught"/>
+      <Bowler name="Samdan"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="S Awan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Stumped"/>
+      <Bowler name="Samdan"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Umer"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Umer"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="LBW"/>
+      <Bowler name="Umer"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zia"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Kieran Downes" keeper="1">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="S Singh"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="Caught"/>
+      <Bowler name="S Singh"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Singh"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="1" score="50"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="3" score="61"/>
+    <FallOfWicket batsman="5" score="73"/>
+    <FallOfWicket batsman="6" score="88"/>
+    <BowlerSummary name="Taimur" overs="8" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="S Awan" overs="7" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Samdan" overs="8" maidens="4" runs="16" wickets="2"/>
+    <BowlerSummary name="Umer" overs="7" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="Zia" overs="2" maidens="1" runs="4" wickets="1"/>
+    <BowlerSummary name="S Singh" overs="6.4" maidens="0" runs="29" wickets="3"/>
+  </Innings>
+</CricketMatch>
