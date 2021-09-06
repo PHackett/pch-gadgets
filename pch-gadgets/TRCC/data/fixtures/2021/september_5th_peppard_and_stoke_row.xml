@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 06 2021 09:45:36 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2021/september_5th_peppard_and_stoke_row.xml -->
+<CricketMatch oppo="Peppard and Stoke Row" date="Sun Sep 05 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Roberts"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Retired"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Prayrit Ahluwalia">
+      <HowOut how="Caught"/>
+      <Bowler name="Lotery"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Retired"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Dylan Burr" keeper="1">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett"/>
+    <Batsman name="Charlie Scarr"/>
+    <Batsman name="Ben Ackerman"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <BowlerSummary name="M Harper" overs="8" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="M Roberts" overs="7" maidens="3" runs="18" wickets="1"/>
+    <BowlerSummary name="A Roberts" overs="7" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Wilkinson" overs="5" maidens="3" runs="5" wickets="0"/>
+    <BowlerSummary name="Lotery" overs="4" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="A Harper" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="R Lambert" overs="1" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Peppard and Stoke Row">
+    <Batsman name="M Harper">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="H Roberts">
+      <HowOut how="Caught "/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="S Wilkinson">
+      <HowOut how="Caught "/>
+      <Bowler name="Prayrit Ahluwalia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Lotery">
+      <HowOut how="Caught "/>
+      <Bowler name="Charlie Scarr"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="T Lotery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="R Lambert">
+      <HowOut how="Caught "/>
+      <Bowler name="Charlie Scarr"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Lambert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="M Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Max Hitchings"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Roberts">
+      <HowOut how="Caught "/>
+      <Bowler name="Max Hitchings"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Thomas Leggett" overs="5" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="Will Etheridge" overs="5" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Charlie Scarr" overs="2" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="Max Hitchings" overs="3.2" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="1" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="Prayrit Ahluwalia" overs="1" maidens="0" runs="8" wickets="1"/>
+  </Innings>
+</CricketMatch>
