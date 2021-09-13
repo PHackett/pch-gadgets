@@ -1,1 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 13 2021 17:01:32 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/september_12th_binfield.xml -->
+<CricketMatch oppo="Binfield" date="Sun Sep 12 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="T Nower">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Chris Priddle"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="D Slaughter">
+      <HowOut how="Retired Hurt"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="P Edgington">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="C Morgan">
+      <HowOut how="Caught Sam Staples"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="M Staves">
+      <HowOut how="Stumped"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="T Williams">
+      <HowOut how="Caught Chris Priddle"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="R Gupta">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="M Wade">
+      <HowOut how="Run Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="M Acharya">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Goddard"/>
+    <Batsman name="M Potter"/>
+    <Extras value="18"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="8" maidens="2" runs="38" wickets="1"/>
+    <BowlerSummary name="Will Etheridge" overs="5" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Chris Priddle" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="6" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="N So" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Charlie Scarr" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Wade"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Potter"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="M Wade"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chris Priddle">
+      <HowOut how="Stumped"/>
+      <Bowler name="M Potter"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="M Potter"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="LBW"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Will Etheridge" keeper="1">
+      <HowOut how="Stumped"/>
+      <Bowler name="I Goddard"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Wade"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Wade"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="5" score="98"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <FallOfWicket batsman="6" score="133"/>
+    <BowlerSummary name="C Mahesh" overs="8" maidens="1" runs="47" wickets="0"/>
+    <BowlerSummary name="M Wade" overs="6.3" maidens="2" runs="18" wickets="4"/>
+    <BowlerSummary name="M Potter" overs="5" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="R Gupta" overs="7" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="I Goddard" overs="7" maidens="0" runs="27" wickets="3"/>
+    <BowlerSummary name="T Williams" overs="3" maidens="1" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
 
