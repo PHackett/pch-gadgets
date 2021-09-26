@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Sep 26 2021 20:38:15 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/september_26th_warfield.xml -->
+<CricketMatch oppo="Warfield" date="Sun Sep 26 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Price"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught"/>
+      <Bowler name="Price"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="LBW"/>
+      <Bowler name="Douglas"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Douglas"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jones"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Price"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Ethan"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1"/>
+    <Batsman name="Charlie Scarr"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="5" score="58"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <BowlerSummary name="Price" overs="7" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="Bowlem" overs="5" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Douglas" overs="7" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Siv" overs="5" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Kasun" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Jones" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Ethan" overs="2" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+  <Innings batting="Warfield">
+    <Batsman name="Siv">
+      <HowOut how="LBW"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Kasun">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ron">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dun">
+      <HowOut how="Caught "/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="D Andy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Aadhil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Neil">
+      <HowOut how="Caught "/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Morgan">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Ethan">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chrid B"/>
+    <Extras value="31"/>
+    <BowlerSummary name="Andrew Miller" overs="7" maidens="2" runs="10" wickets="2"/>
+    <BowlerSummary name="Will Etheridge" overs="7" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Joe Downes" overs="7" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="7" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Neil Lancum" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Charlie Scarr" overs="2" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="1" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+</CricketMatch>
