@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Sun Sep 26 2021 14:45:06 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2021/september_19th_west_reading.xml -->
+<CricketMatch oppo="West Reading" date="Sun Sep 19 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="West Reading">
+    <Batsman name="F Raja">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="I Zaman">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="F Sarwar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="H Jamil">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="H Mushtaq">
+      <HowOut how="Caught Stan Fritz"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="A Hayat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="S Ahmed">
+      <HowOut how="Not Out"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="S Sadiq"/>
+    <Batsman name="U Mahmood"/>
+    <Batsman name="W Akram"/>
+    <Batsman name="S Khan"/>
+    <Extras value="16"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Stan Fritz" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="7" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="Will Joby" overs="1" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Dylan Burr" overs="2" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Thomas Leggett" overs="2" maidens="0" runs="45" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stan Fritz">
+      <HowOut how="Caught"/>
+      <Bowler name="U Mahmood"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Stumped"/>
+      <Bowler name="S Ahmed"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Ahmed"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Ahmed"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dylan Burr" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Akram"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="W Akram"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Sadiq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Caught"/>
+      <Bowler name="S Sadiq"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught"/>
+      <Bowler name="I Zaman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="I Zaman"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="48"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="1" score="74"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="6" score="120"/>
+    <FallOfWicket batsman="8" score="121"/>
+    <FallOfWicket batsman="9" score="126"/>
+    <FallOfWicket batsman="10" score="126"/>
+    <FallOfWicket batsman="11" score="154"/>
+    <BowlerSummary name="U Mahmood" overs="7" maidens="1" runs="56" wickets="1"/>
+    <BowlerSummary name="S Ahmed" overs="7" maidens="1" runs="24" wickets="3"/>
+    <BowlerSummary name="S Khan" overs="5" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="W Akram" overs="7" maidens="4" runs="10" wickets="2"/>
+    <BowlerSummary name="S Sadiq" overs="2" maidens="0" runs="5" wickets="2"/>
+    <BowlerSummary name="I Zaman" overs="2.2" maidens="0" runs="13" wickets="2"/>
+    <BowlerSummary name="F Sarwar" overs="2" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>
