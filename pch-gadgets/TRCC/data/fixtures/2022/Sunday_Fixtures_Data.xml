@@ -25,5 +25,14 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 1 May 2022 12:00:00 UTC</Date>
+  <Opposition>Eversley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
 
 </YearsFixtures>
