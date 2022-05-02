@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 02 2022 19:21:46 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2022/may_1st_eversley.xml -->
+<CricketMatch oppo="Eversley" date="Sun May 01 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex L"/>
+      <Runs value="99"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught"/>
+      <Bowler name="G Bryson"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="G Bryson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Alex D"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Cummings"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="Alex L"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Simon Farrar" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex L"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex L"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="3" score="64"/>
+    <FallOfWicket batsman="4" score="92"/>
+    <FallOfWicket batsman="1" score="164"/>
+    <FallOfWicket batsman="5" score="180"/>
+    <FallOfWicket batsman="6" score="183"/>
+    <FallOfWicket batsman="8" score="188"/>
+    <FallOfWicket batsman="9" score="188"/>
+    <BowlerSummary name="Alex L" overs="8" maidens="1" runs="53" wickets="4"/>
+    <BowlerSummary name="T Cummings" overs="7" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="G Bryson" overs="5" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Danny" overs="3" maidens="1" runs="12" wickets="0"/>
+    <BowlerSummary name="Alex D" overs="7" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="J Heywood" overs="7" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Yates" overs="3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Eversley">
+    <Batsman name="J Last">
+      <HowOut how="Caught Ben Gilbert"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="W Tucker">
+      <HowOut how="LBW"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="A Mali">
+      <HowOut how="Caught Steve Beamish"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Heywood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="G Bryson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Yates">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="A Robbins">
+      <HowOut how="LBW"/>
+      <Bowler name="Mark Higgins"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="T Cummings">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Yates">
+      <HowOut how="Stumped"/>
+      <Bowler name="Mark Higgins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="4" runs="21" wickets="1"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="8" maidens="0" runs="43" wickets="4"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Mark Higgins" overs="5" maidens="0" runs="27" wickets="2"/>
+  </Innings>
+</CricketMatch>
