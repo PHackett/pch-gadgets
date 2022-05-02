@@ -74,6 +74,8 @@
       <HowOut how="Not Out"/>
       <Runs value="5"/>
     </Batsman>
+    <Batsman name="Simon Burr" keeper="1"/>
+    <Batsman name="Paul Hackett"/>
     <Extras value="35"/>
     <FallOfWicket batsman="2" score="11"/>
     <FallOfWicket batsman="1" score="11"/>
