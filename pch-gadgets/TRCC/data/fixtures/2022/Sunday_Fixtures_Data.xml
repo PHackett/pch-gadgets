@@ -34,5 +34,13 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 8 May 2022 12:00:00 UTC</Date>
+  <Opposition>Reading University Staff</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
 
 </YearsFixtures>
