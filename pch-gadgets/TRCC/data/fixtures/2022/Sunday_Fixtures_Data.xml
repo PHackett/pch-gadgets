@@ -43,4 +43,12 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 15 May 2022 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Rain</Result>
+</Fixture>
+
 </YearsFixtures>
