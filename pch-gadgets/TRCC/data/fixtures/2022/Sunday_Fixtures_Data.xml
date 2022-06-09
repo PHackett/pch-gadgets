@@ -59,4 +59,12 @@
   <Result>Cancelled</Result>
 </Fixture>
 
+<Fixture>
+  <Date>Sun, 5 Jun 2022 12:00:00 UTC</Date>
+  <Opposition>Warfield</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+</Fixture>
+
 </YearsFixtures>
