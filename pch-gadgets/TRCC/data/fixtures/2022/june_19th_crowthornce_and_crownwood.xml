@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 20 2022 09:21:17 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2022/june_19th_crowthornce_and_crownwood.xml -->
+<CricketMatch oppo="Crowthornce and Crownwood" date="Sun Jun 19 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crowthornce and Crownwood">
+    <Batsman name="OLoughlin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Shaw">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Smith">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Brundish">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Amur">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Parsons">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Scott">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Soundar">
+      <HowOut how="Caught Tom Beielich"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Applin">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="7" maidens="1" runs="51" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="4" maidens="0" runs="12" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Soundar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="96"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Amur"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="OLoughlin"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped"/>
+      <Bowler name="OLoughlin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Caught"/>
+      <Bowler name="Applin"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Soundar"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Fort"/>
+    <Batsman name="Nic Downes"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="97"/>
+    <FallOfWicket batsman="4" score="139"/>
+    <FallOfWicket batsman="5" score="141"/>
+    <FallOfWicket batsman="6" score="170"/>
+    <BowlerSummary name="Soundar" overs="8" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Applin" overs="6" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Amur" overs="6" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Parsons" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="OLoughlin" overs="8" maidens="0" runs="40" wickets="2"/>
+    <BowlerSummary name="Taylor" overs="8" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Scott" overs="2" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+</CricketMatch>
