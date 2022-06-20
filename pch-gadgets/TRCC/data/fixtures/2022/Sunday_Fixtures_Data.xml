@@ -68,4 +68,13 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 19 Jun 2022 12:00:00 UTC</Date>
+  <Opposition>Crowthornce and Crownwood</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
 </YearsFixtures>
