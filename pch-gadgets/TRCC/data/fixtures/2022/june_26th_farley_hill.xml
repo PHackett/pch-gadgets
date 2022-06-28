@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jun 28 2022 14:26:18 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2022/june_26th_farley_hill.xml -->
+<CricketMatch oppo="Farley Hill" date="Sun Jun 26 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Farley Hill">
+    <Batsman name="B Hussain">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="A Jalil">
+      <HowOut how="Caught Tom Burrows"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="A Khokhar">
+      <HowOut how="Run Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="C Garrod">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Steve Beamish"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Sheridan">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Z Hussain">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="N Khan">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sanke"/>
+    <Batsman name="Barris"/>
+    <Batsman name="Ajmal"/>
+    <Batsman name="A Salil"/>
+    <Extras value="26"/>
+    <BowlerSummary name="Paul Hackett" overs="8" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Tom Burrows" overs="5" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Neil Lancum" overs="8" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="65" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Khan"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Khan"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Sheridan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Jalil"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Khan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Hussain"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Tom Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Jalil"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="Sanke"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Caught"/>
+      <Bowler name="Z Hussain"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Alex Bournat"/>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="2" score="52"/>
+    <FallOfWicket batsman="1" score="67"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="6" score="122"/>
+    <BowlerSummary name="Sanke" overs="5" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Barris" overs="4.1" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="M Khan" overs="8" maidens="0" runs="39" wickets="3"/>
+    <BowlerSummary name="M Sheridan" overs="5" maidens="2" runs="8" wickets="1"/>
+    <BowlerSummary name="Ajmal" overs="7" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Z Hussain" overs="2" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="A Jalil" overs="2" maidens="0" runs="4" wickets="2"/>
+  </Innings>
+</CricketMatch>
