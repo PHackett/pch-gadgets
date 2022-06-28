@@ -77,4 +77,13 @@
   <HasLink/>
 </Fixture>
 
+  <Fixture>
+  <Date>Sun, 26 Jun 2022 12:00:00 UTC</Date>
+  <Opposition>Farley Hill</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
 </YearsFixtures>
