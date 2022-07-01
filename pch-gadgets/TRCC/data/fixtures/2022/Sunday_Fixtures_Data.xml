@@ -77,13 +77,21 @@
   <HasLink/>
 </Fixture>
 
-  <Fixture>
+<Fixture>
   <Date>Sun, 26 Jun 2022 12:00:00 UTC</Date>
   <Opposition>Farley Hill</Opposition>
   <Time>13:30</Time>
   <Venue>Away</Venue>
   <Result>Lose</Result>
   <HasLink/>
+</Fixture>
+
+ <Fixture>
+  <Date>Sun, 3 Jul 2022 12:00:00 UTC</Date>
+  <Opposition>Hurley</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Cancelled</Result>
 </Fixture>
 
 </YearsFixtures>
