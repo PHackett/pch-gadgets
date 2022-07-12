@@ -94,4 +94,12 @@
   <Result>Cancelled</Result>
 </Fixture>
 
+  <Fixture>
+  <Date>Sun, 10 Jul 2022 12:00:00 UTC</Date>
+  <Opposition>Reading Lions</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+</Fixture>
+
 </YearsFixtures>
