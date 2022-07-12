@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue Jul 12 2022 10:34:01 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2022/july_10th_reading_lions.xml -->
+<CricketMatch oppo="Reading Lions" date="Sun Jul 10 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Reading Lions">
+    <Batsman name="Babu Loganathan">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Burrows"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="R Rohit">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="R Rajendar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Shiva Aruna">
+      <HowOut how="Retired"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Keerthi Ramegowda">
+      <HowOut how="Retired"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="A Aman">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Nirupan Boopathy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Rahul Chansouriya">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="A Lalwani"/>
+    <Batsman name="P Chavan"/>
+    <Batsman name="Sanjay Telreja"/>
+    <Extras value="33"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="60" wickets="0"/>
+    <BowlerSummary name="Tom Burrows" overs="6" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="0" runs="68" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="5" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="53" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Tom Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Lalwani"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Caught"/>
+      <Bowler name="Rahul Chansouriya"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nirupan Boopathy"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught"/>
+      <Bowler name="Sanjay Telreja"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Rohit"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Marc Teal" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Lalwani"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught"/>
+      <Bowler name="A Aman"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Tom Burrows"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="17"/>
+    <BowlerSummary name="Babu Loganathan" overs="6" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Rahul Chansouriya" overs="7" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="A Lalwani" overs="6" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Sanjay Telreja" overs="4" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Nirupan Boopathy" overs="6" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="R Rohit" overs="4" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="P Chavan" overs="5" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="A Aman" overs="2" maidens="1" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>
