@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 25 2022 10:54:29 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2022/june_24th_ipsden.xml -->
+<CricketMatch oppo="Ipsden" date="Fri Jun 24 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ipsden">
+    <Batsman name="C Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Andrews">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="J Church">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="S Bennet">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="D Houseman">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Syed">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Withers">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="W Simpson">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="J Fanstone"/>
+    <Batsman name="I Fanstone"/>
+    <Batsman name="M Hughesden"/>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="2" runs="30" wickets="4"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="1" runs="35" wickets="2"/>
+    <BowlerSummary name="Neil Lancum" overs="8" maidens="0" runs="47" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="M Hughesden"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Withers"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Withers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Keeper"/>
+      <Bowler name="J Withers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught"/>
+      <Bowler name="I Syed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught"/>
+      <Bowler name="J Fanstone"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Jonathan Low">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Fanstone"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="1" score="110"/>
+    <FallOfWicket batsman="4" score="115"/>
+    <FallOfWicket batsman="5" score="149"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="3" score="157"/>
+    <FallOfWicket batsman="7" score="217"/>
+    <FallOfWicket batsman="9" score="220"/>
+    <BowlerSummary name="J Fanstone" overs="8" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="M Hughesden" overs="7.3" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="D Houseman" overs="4" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="J Withers" overs="8" maidens="2" runs="23" wickets="3"/>
+    <BowlerSummary name="I Syed" overs="8" maidens="1" runs="43" wickets="1"/>
+    <BowlerSummary name="W Simpson" overs="4" maidens="1" runs="28" wickets="0"/>
+  </Innings>
+</CricketMatch>
