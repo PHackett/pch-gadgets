@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 25 2022 10:40:33 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2022/july_17th_purley_on_thames.xml -->
+<CricketMatch oppo="Purley on Thames" date="Sun Jul 17 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Purley on Thames">
+    <Batsman name="Sam Harlowe">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Tom Burrows"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="J Hearn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="S Banda">
+      <HowOut how="Stumped"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="T Chowdary">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="T Senniappan">
+      <HowOut how="Caught "/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="R Leach">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="J Hinds">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="H Kadia">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="O Raw">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="M Hearn"/>
+    <Extras value="35"/>
+    <BowlerSummary name="Andrew Miller" overs="7" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Tom Burrows" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="4" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="6" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="6" maidens="0" runs="29" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="H Kadia"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Run Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="H Kadia"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Caught"/>
+      <Bowler name="R Leach"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught"/>
+      <Bowler name="J Hinds"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Burrows"/>
+    <Batsman name="Chris Fort"/>
+    <Extras value="9"/>
+    <BowlerSummary name="O Raw" overs="7" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="J Hearn" overs="7" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="H Kadia" overs="5" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="T Senniappan" overs="5" maidens="2" runs="12" wickets="0"/>
+    <BowlerSummary name="J Hinds" overs="6" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="R Leach" overs="4" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="M Hearn" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>
