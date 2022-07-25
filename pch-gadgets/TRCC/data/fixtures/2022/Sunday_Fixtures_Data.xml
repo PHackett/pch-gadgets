@@ -112,4 +112,13 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 24 Jul 2022 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
 </YearsFixtures>
