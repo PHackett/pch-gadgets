@@ -3,7 +3,7 @@
 <!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Lose -->
-<!-- XMLFilename = 2022/july_1st_farley_hill.xml -->
+<!-- XMLFilename = 2022/july_31st_farley_hill.xml -->
 <CricketMatch oppo="Farley Hill" date="Fri Jul 01 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Farley Hill">
