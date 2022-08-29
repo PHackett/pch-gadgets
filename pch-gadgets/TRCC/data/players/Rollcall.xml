@@ -374,6 +374,7 @@
     <Player surname="Pottage" firstname="Mike"/>
     <Player surname="Poulter" firstname="A"/>
     <Player surname="Powell" firstname="Tom"/>
+    <Player surname="Powell" firstname="Richard"/>
     <Player surname="Power" firstname="D" firstseason="1980" lastseason="1980"/>
     <Player surname="Prasad" firstname="Alok"/>
     <Player surname="Priddle" firstname="Chris"/>
@@ -406,6 +407,7 @@
 
     <!-- S -->
     <Player surname="Sabir" firstname="Aneel"/>
+    <Player surname="Salman" firstname="Mars"/>
     <Player surname="Scarr" firstname="Charlie"/>
     <Player surname="Schofield" firstname="Pete"/>
     <Player surname="Scott" firstname="Andy" firstseason="1979" lastseason="1989" catches="50" mostcatchesseason="10"/>
