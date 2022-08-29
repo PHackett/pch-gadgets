@@ -17,7 +17,7 @@
       <Bowler name="Roxborough"/>
       <Runs value="71"/>
     </Batsman>
-    <Batsman name="Mars Salman">
+    <Batsman name="Maaz Salman">
       <HowOut how="LBW"/>
       <Bowler name="Morris"/>
       <Runs value="46"/>
@@ -70,13 +70,13 @@
       <Runs value="3"/>
     </Batsman>
     <Batsman name="S Morris">
-      <HowOut how="Caught Mars Salman"/>
+      <HowOut how="Caught Maaz Salman"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="7"/>
     </Batsman>
     <Batsman name="Roxborough">
       <HowOut how="Bowled"/>
-      <Bowler name="Mars Salman"/>
+      <Bowler name="Maaz Salman"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Jack Odey">
@@ -121,7 +121,7 @@
     <Extras value="31"/>
     <BowlerSummary name="Paul Hackett" overs="5.4" maidens="1" runs="10" wickets="2"/>
     <BowlerSummary name="Ben Ackerman" overs="8" maidens="1" runs="28" wickets="3"/>
-    <BowlerSummary name="Mars Salman" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Mazz Salman" overs="5" maidens="0" runs="30" wickets="1"/>
     <BowlerSummary name="Zac Burr" overs="8" maidens="0" runs="28" wickets="4"/>
     <BowlerSummary name="Dylan Burr" overs="5" maidens="0" runs="20" wickets="0"/>
     <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="18" wickets="0"/>
