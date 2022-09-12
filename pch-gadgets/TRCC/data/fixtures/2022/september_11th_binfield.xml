@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Sep 12 2022 08:52:14 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2022/september_11th_binfield.xml -->
+<CricketMatch oppo="Binfield" date="Sun Sep 11 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Binfield">
+    <Batsman name="L Hall">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Negus">
+      <HowOut how="Retired"/>
+      <Runs value="138"/>
+    </Batsman>
+    <Batsman name="P Collins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Wade">
+      <HowOut how="Run Out"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="D Humphrey">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="K Gupta">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="E Fowell">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="S Prakesh">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Thomas"/>
+    <Batsman name="Potter"/>
+    <Batsman name="C Jones"/>
+    <Extras value="13"/>
+    <BowlerSummary name="Ben Ackerman" overs="4" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Ben Nichols" overs="6" maidens="0" runs="65" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="0" runs="75" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="5" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught"/>
+      <Bowler name="C Jones"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught"/>
+      <Bowler name="E Fowell"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught"/>
+      <Bowler name="Thomas"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Jones"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught &amp; Bowled"/>
+      <Bowler name="Potter"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert" keeper="1">
+      <HowOut how="Bowled"/>
+      <Bowler name="Potter"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Spence Nichols"/>
+    <Batsman name="Paul Hackett"/>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="84"/>
+    <FallOfWicket batsman="1" score="167"/>
+    <FallOfWicket batsman="4" score="171"/>
+    <FallOfWicket batsman="3" score="198"/>
+    <FallOfWicket batsman="6" score="198"/>
+    <FallOfWicket batsman="5" score="205"/>
+    <FallOfWicket batsman="8" score="211"/>
+    <BowlerSummary name="Thomas" overs="7" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Potter" overs="7" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="E Fowell" overs="7" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="S Prakesh" overs="5" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="L Hall" overs="5" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="C Jones" overs="5" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="K Gupta" overs="4" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>
