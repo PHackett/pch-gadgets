@@ -148,7 +148,7 @@
   <HasLink/>
 </Fixture>
 
-  <Fixture>
+<Fixture>
   <Date>Sun, 4 Sep 2022 12:00:00 UTC</Date>
   <Opposition>Warfield</Opposition>
   <Time>13:30</Time>
@@ -157,4 +157,13 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 11 Sep 2022 12:00:00 UTC</Date>
+  <Opposition>Binfield</Opposition>
+  <Time>12:30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+ 
 </YearsFixtures>
