@@ -7,15 +7,15 @@
         <Bowling games="11" fiveplus="0">
             <BowlingData overs="53.4" maidens="8" runs="250" wickets="6"/>
             <BowlingBest>
-                <MatchId date="Sun Aug 28 00:00:00 UTC+0100 2021" oppo="Hurst"/>
+                <MatchId date="Sun Aug 28 00:00:00 UTC+0100 2022" oppo="Hurst"/>
                 <BowlingData overs="5.4" maidens="1" runs="10" wickets="2"/>
             </BowlingBest>
         </Bowling>
 
         <Batting innings="3" runs="3" notouts="2" hundreds="0" fifties="0" ducks="1">
             <BattingBest>
-                <MatchId date="Sun May 8 00:00:00 UTC+0100 2021" oppo="Reading University Staff
-                <BattingData runs="3 notouts="1/>
+                <MatchId date="Sun May 8 00:00:00 UTC+0100 2022" oppo="Reading University Staff"/>
+                <BattingData runs="3" notouts="1"/>
             </BattingBest>
         </Batting>
     </YearData>
