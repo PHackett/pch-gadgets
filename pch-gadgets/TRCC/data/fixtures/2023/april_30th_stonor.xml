@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 01 2023 09:03:31 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Draw -->
+<!-- XMLFilename = 2023/april_30th_stonor.xml -->
+<CricketMatch oppo="Stonor" date="Sun Apr 30 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Stonor">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="1" runs="9" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
