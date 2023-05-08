@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon May 08 2023 08:05:02 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2023/may_7th_reading_university_staff.xml -->
+<CricketMatch oppo="Reading University Staff" date="Sun May 07 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Reading University Staff">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="3" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>
