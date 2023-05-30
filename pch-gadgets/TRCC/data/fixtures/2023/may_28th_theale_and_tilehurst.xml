@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Tue May 30 2023 10:07:00 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2023/may_28th_theale_and_tilehurst.xml -->
+<CricketMatch oppo="Theale and Tilehurst" date="Sun May 28 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Theale and Tilehurst">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="2" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
