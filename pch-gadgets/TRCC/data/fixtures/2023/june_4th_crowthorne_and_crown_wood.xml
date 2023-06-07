@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Wed Jun 07 2023 17:23:21 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2023/june_4th_crowthorne_and_crown_wood.xml -->
+<CricketMatch oppo="Crowthorne and Crown Wood" date="Sun Jun 04 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood">
+    <Extras value="0"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="42" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
