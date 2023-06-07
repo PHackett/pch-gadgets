@@ -61,4 +61,13 @@
   <HasLink/>
 </Fixture>
 
+<Fixture>
+  <Date>Sun, 04 Jun 2023 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
 </YearsFixtures>
