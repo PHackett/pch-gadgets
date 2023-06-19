@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 19 2023 08:46:51 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2023/june_18th_cypos.xml -->
+<CricketMatch oppo="Cypos" date="Sun Jun 18 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="R Celestinpillai"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught"/>
+      <Bowler name="R Celestinpillai"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Cypos">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>
