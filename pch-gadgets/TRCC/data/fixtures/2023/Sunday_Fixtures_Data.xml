@@ -88,4 +88,13 @@
   <HasLink/>
 </Fixture>
 
+ <Fixture>
+  <Date>Sun, 25 Jun 2023 12:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
 </YearsFixtures>
