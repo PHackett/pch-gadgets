@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 03 2023 08:35:35 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Win -->
+<!-- XMLFilename = 2023/june_2nd_crowthorne_and_crown_wood.xml -->
+<CricketMatch oppo="Crowthorne and Crown Wood" date="Fri Jun 02 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="3" runs="5" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
