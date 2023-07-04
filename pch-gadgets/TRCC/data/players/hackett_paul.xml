@@ -535,7 +535,7 @@
 
     <YearData year="1991">
         <Bowling games="14" fiveplus="0">
-            <BowlingData overs="96.0" maidens="19" runs="316" wickets="20"/>
+            <BowlingData overs="96.0" maidens="19" runs="316" wickets="16"/>
             <BowlingBest>
                 <MatchId date="Sun Jun 9 00:00:00 UTC+0100 1991" oppo="Theale"/>
                 <BowlingData overs="12.0" maidens="6" runs="33" wickets="4"/>
@@ -588,6 +588,7 @@
         </Batting>
     </YearData>
 
+    <!-- I dont think the following is relevant to me
     <BattingStats1969to1997>
         <Batting innings="20" runs="29" notouts="11" hundreds="0" fifties="0" ducks="0"/>
     </BattingStats1969to1997>
@@ -597,4 +598,6 @@
             <BowlingData overs="411.0" maidens="103" runs="1184" wickets="72"/>
         </Bowling>
     </BowlingStats1969to1997>
+    -->
+    
 </PlayerStats>
