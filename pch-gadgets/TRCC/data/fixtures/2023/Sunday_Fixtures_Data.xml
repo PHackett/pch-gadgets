@@ -106,4 +106,13 @@
   <HasLink/>
 </Fixture>
 
+  <Fixture>
+  <Date>Sun, 9 Jul 2023 12:00:00 UTC</Date>
+  <Opposition>Hurley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
 </YearsFixtures>
