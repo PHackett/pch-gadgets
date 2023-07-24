@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jul 24 2023 09:48:25 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2023/july_23rd_ipsden.xml -->
+<CricketMatch oppo="Ipsden" date="Sun Jul 23 2023 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Ipsden">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="33" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tustian"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>
