@@ -3,6 +3,23 @@
         <MatchId date="Sun Jul 23 00:00:00 UTC+0100 1989" oppo="Twyford Saturday"/>
     </FirstRecordedGame>
 
+    <YearData year="2023">
+        <Bowling games="9" fiveplus="0">
+            <BowlingData overs="41.0" maidens="10" runs="143" wickets="9"/>
+            <BowlingBest>
+                <MatchId date="Sun Jul  2 00:00:00 UTC+0100 2022" oppo="Crowthorne and Crown Wood"/>
+                <BowlingData overs="5.0" maidens="5" runs="5" wickets="3"/>
+            </BowlingBest>
+        </Bowling>
+
+        <Batting innings="3" runs="18" notouts="1" hundreds="0" fifties="0" ducks="1">
+            <BattingBest>
+                <MatchId date="Sun Jun 18 00:00:00 UTC+0100 2022" oppo="Cypos CC"/>
+                <BattingData runs="8" notouts="0"/>
+            </BattingBest>
+        </Batting>
+    </YearData>
+
     <YearData year="2022">
         <Bowling games="11" fiveplus="0">
             <BowlingData overs="53.4" maidens="8" runs="250" wickets="6"/>
