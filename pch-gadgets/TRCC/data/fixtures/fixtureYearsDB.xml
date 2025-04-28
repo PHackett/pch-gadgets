@@ -6,6 +6,8 @@
 
 <YearsDB>
 
+	<TeamsInYear year="2025"><Team>Sunday</Team></TeamsInYear>
+	
 	<TeamsInYear year="2023"><Team>Sunday</Team></TeamsInYear>
 	
 	<TeamsInYear year="2022"><Team>Sunday</Team></TeamsInYear>
