@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+ Permitted values for <Result> are - 
+ 
+        "Win" / "Won"
+        "Lose" / "Lost"
+        "Draw"
+        ""Tie"
+        "Rain"
+        "Abandonned"
+        "NP"
+        "NotYetPlayed"
+        "Cancelled"
+-->
+
+<YearsFixtures>
+
+<Fixture>
+  <Date>Sun, 30 Apr 2023 12:00:00 UTC</Date>
+  <Opposition>Stonor</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Draw</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 07 May 2023 12:00:00 UTC</Date>
+  <Opposition>Reading University Staff</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 14 May 2023 12:00:00 UTC</Date>
+  <Opposition>Swyncombe</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 21 May 2023 12:00:00 UTC</Date>
+  <Opposition>Pystock</Opposition>
+  <Time>13:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 28 May 2023 12:00:00 UTC</Date>
+  <Opposition>Theale and Tilehurst</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 04 Jun 2023 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>13:30</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 11 Jun 2023 12:00:00 UTC</Date>
+  <Opposition>Greys Green</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+ <Fixture>
+  <Date>Sun, 18 Jun 2023 12:00:00 UTC</Date>
+  <Opposition>Cypos</Opposition>
+  <Time>14:00</Time>
+  <Venue>Home</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+ <Fixture>
+  <Date>Sun, 25 Jun 2023 12:00:00 UTC</Date>
+  <Opposition>Welford Park</Opposition>
+  <Time>13:30</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+ <Fixture>
+  <Date>Sun, 2 Jul 2023 12:00:00 UTC</Date>
+  <Opposition>Crowthorne and Crown Wood</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+  <Fixture>
+  <Date>Sun, 9 Jul 2023 12:00:00 UTC</Date>
+  <Opposition>Hurley</Opposition>
+  <Time>13:00</Time>
+  <Venue>Away</Venue>
+  <Result>Win</Result>
+  <HasLink/>
+</Fixture>
+
+<Fixture>
+  <Date>Sun, 23 Jul 2023 12:00:00 UTC</Date>
+  <Opposition>Ipsden</Opposition>
+  <Time>14:00</Time>
+  <Venue>Away</Venue>
+  <Result>Lose</Result>
+  <HasLink/>
+</Fixture>
+
+</YearsFixtures>
