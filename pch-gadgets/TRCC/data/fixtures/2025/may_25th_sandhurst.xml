@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 09 2025 14:46:19 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2025/may_25th_sandhurst.xml -->
+<CricketMatch oppo="Sandhurst" date="Sun May 25 2025 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Sandhurst">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
