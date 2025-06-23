@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Generated on Mon Jun 23 2025 09:49:43 GMT+0100 (British Summer Time) -->
+<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
+<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
+<!-- Result = Lose -->
+<!-- XMLFilename = 2025/june_22nd_ibstone.xml -->
+<CricketMatch oppo="Ibstone" date="Sun Jun 22 2025 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+  <MatchReport/><CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught Keeper"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="0"/>
+  </Innings>
+  <Innings batting="Ibstone">
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="29" wickets="1"/>
+  </Innings>
+</CricketMatch>
