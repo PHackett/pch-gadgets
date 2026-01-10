@@ -58,12 +58,12 @@
   </Innings>
   <Innings batting="Woodcote">
     <Batsman name="C Andecon">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Matt Morris"/>
       <Runs value="29"/>
     </Batsman>
     <Batsman name="P Roberts">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="27"/>
     </Batsman>
@@ -73,7 +73,7 @@
       <Runs value="12"/>
     </Batsman>
     <Batsman name="R Baldwin">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Matt Morris"/>
       <Runs value="12"/>
     </Batsman>
@@ -97,4 +97,5 @@
     <BowlerSummary name="Tom Fort" overs="9" maidens="0" runs="37" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
