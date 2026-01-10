@@ -94,7 +94,7 @@
       <Runs value="3"/>
     </Batsman>
     <Batsman name="C Heath">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Alex Neall"/>
       <Runs value="1"/>
     </Batsman>
@@ -122,4 +122,5 @@
     <BowlerSummary name="Tom Fort" overs="2.5" maidens="1" runs="8" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
