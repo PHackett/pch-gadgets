@@ -31,7 +31,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Thanji">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Tim Hogarth"/>
       <Runs value="8"/>
     </Batsman>
@@ -94,4 +94,5 @@
     <BowlerSummary name="S Myan" overs="1.1" maidens="0" runs="5" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
