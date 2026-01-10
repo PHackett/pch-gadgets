@@ -4,7 +4,7 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="BAC">
     <Batsman name="J Percy">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Robin Reynolds"/>
       <Runs value="4"/>
     </Batsman>
@@ -128,4 +128,5 @@
     <BowlerSummary name="G Georgiou" overs="5.2" maidens="0" runs="23" wickets="3"/>
   </Innings>
 </CricketMatch>
+
 
