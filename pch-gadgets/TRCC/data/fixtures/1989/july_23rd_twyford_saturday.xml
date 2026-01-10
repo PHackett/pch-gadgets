@@ -92,7 +92,7 @@
       <Runs value="8"/>
     </Batsman>
     <Batsman name="Simon Kelly">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Noel Downes"/>
       <Runs value="0"/>
     </Batsman>
@@ -117,4 +117,5 @@
     <BowlerSummary name="Steve Tripp" overs="4" maidens="2" runs="11" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
