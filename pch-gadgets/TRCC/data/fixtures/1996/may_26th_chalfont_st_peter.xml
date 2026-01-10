@@ -14,7 +14,7 @@
       <Runs value="38"/>
     </Batsman>
     <Batsman name="Everett">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Peter Dawson"/>
       <Runs value="15"/>
     </Batsman>
@@ -92,4 +92,5 @@
     <BowlerSummary name="Cooper" overs="9" maidens="0" runs="38" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
