@@ -19,7 +19,7 @@
       <Runs value="7"/>
     </Batsman>
     <Batsman name="A Pearce">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="David Downes"/>
       <Runs value="95"/>
     </Batsman>
@@ -29,7 +29,7 @@
       <Runs value="26"/>
     </Batsman>
     <Batsman name="D Parker">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Nic Downes"/>
       <Runs value="21"/>
     </Batsman>
@@ -108,4 +108,5 @@
     <BowlerSummary name="A Pearce" overs="5" maidens="0" runs="17" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
