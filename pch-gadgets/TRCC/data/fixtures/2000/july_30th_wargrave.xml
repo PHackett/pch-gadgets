@@ -88,7 +88,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="T Walker">
-      <HowOut how="Caught &amp; H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="David Downes"/>
       <Runs value="13"/>
     </Batsman>
@@ -109,4 +109,5 @@
     <BowlerSummary name="Tom Fort" overs="7.2" maidens="0" runs="32" wickets="2"/>
   </Innings>
 </CricketMatch>
+
 
