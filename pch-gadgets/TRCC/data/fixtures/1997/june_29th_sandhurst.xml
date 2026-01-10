@@ -19,7 +19,7 @@
       <Runs value="19"/>
     </Batsman>
     <Batsman name="D Bridges">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="David Downes"/>
       <Runs value="7"/>
     </Batsman>
@@ -111,4 +111,5 @@
     <BowlerSummary name="M Pharo" overs="2" maidens="0" runs="10" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
