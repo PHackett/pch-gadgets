@@ -14,7 +14,7 @@
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Messenger">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Robin Reynolds"/>
       <Runs value="3"/>
     </Batsman>
@@ -127,4 +127,5 @@
     <BowlerSummary name="James" overs="4" maidens="0" runs="16" wickets="2"/>
   </Innings>
 </CricketMatch>
+
 
