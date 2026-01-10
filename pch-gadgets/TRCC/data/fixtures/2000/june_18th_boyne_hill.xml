@@ -59,7 +59,7 @@
   </Innings>
   <Innings batting="Boyne Hill">
     <Batsman name="Osborne">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="John Moore"/>
       <Runs value="19"/>
     </Batsman>
@@ -120,4 +120,5 @@
     <BowlerSummary name="Tim Hogarth" overs="3" maidens="0" runs="14" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
