@@ -64,7 +64,7 @@
   </Innings>
   <Innings batting="Aldershot 2nds">
     <Batsman name="D Bazen">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="39"/>
     </Batsman>
@@ -115,4 +115,5 @@
     <BowlerSummary name="Rod Edney" overs="2" maidens="0" runs="20" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
