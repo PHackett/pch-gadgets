@@ -14,7 +14,7 @@
       <Runs value="8"/>
     </Batsman>
     <Batsman name="Cuft">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="18"/>
     </Batsman>
@@ -118,4 +118,5 @@
     <BowlerSummary name="Clements" overs="2" maidens="0" runs="10" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
