@@ -4,7 +4,7 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="Chairmans Eleven">
     <Batsman name="David Taylor">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Rod Edney"/>
       <Runs value="8"/>
     </Batsman>
@@ -101,4 +101,5 @@
     <BowlerSummary name="Steve Clark" overs="2.3" maidens="0" runs="14" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
