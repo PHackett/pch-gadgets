@@ -64,7 +64,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="H Walker">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Tim Hogarth"/>
       <Runs value="18"/>
     </Batsman>
@@ -121,4 +121,5 @@
     <BowlerSummary name="David Taylor" overs="2.2" maidens="0" runs="4" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
