@@ -103,7 +103,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="O Reshets">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Matt Morris"/>
       <Runs value="0"/>
     </Batsman>
@@ -125,4 +125,5 @@
     <BowlerSummary name="Matt Morris" overs="7" maidens="1" runs="19" wickets="7"/>
   </Innings>
 </CricketMatch>
+
 
