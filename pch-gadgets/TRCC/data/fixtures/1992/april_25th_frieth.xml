@@ -64,7 +64,7 @@
   </Innings>
   <Innings batting="Frieth">
     <Batsman name="Findlay">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Barry Potier"/>
       <Runs value="41"/>
     </Batsman>
@@ -99,4 +99,5 @@
     <BowlerSummary name="Nic Downes" overs="4.4" maidens="0" runs="24" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
