@@ -100,7 +100,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="P Blinkowe">
-      <HowOut how="Caught H Fort"/>
+      <HowOut how="Caught Hugh Fort"/>
       <Bowler name="Nic Downes"/>
       <Runs value="11"/>
     </Batsman>
@@ -120,4 +120,5 @@
     <BowlerSummary name="Nic Downes" overs="5" maidens="2" runs="12" wickets="2"/>
   </Innings>
 </CricketMatch>
+
 
