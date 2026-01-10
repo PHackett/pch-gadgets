@@ -34,7 +34,7 @@
       <Runs value="9"/>
     </Batsman>
     <Batsman name="A McArthur">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Tom Fort"/>
       <Runs value="1"/>
     </Batsman>
@@ -106,4 +106,5 @@
     <BowlerSummary name="M Richards" overs="3" maidens="0" runs="8" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
