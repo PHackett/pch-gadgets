@@ -28,7 +28,7 @@
       <Runs value="55"/>
     </Batsman>
     <Batsman name="Ronchetti">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="20"/>
     </Batsman>
@@ -110,5 +110,6 @@
     <BowlerSummary name="Bharma" overs="2" maidens="0" runs="6" wickets="2"/>
   </Innings>
 </CricketMatch>
+
 
 
