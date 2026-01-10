@@ -64,7 +64,7 @@
   </Innings>
   <Innings batting="Pyestock">
     <Batsman name="P Heath">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Alex Neall"/>
       <Runs value="1"/>
     </Batsman>
@@ -122,5 +122,6 @@
     <BowlerSummary name="Tom Fort" overs="2.5" maidens="1" runs="8" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
 
