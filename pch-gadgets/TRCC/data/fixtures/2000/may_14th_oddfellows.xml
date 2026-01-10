@@ -55,7 +55,7 @@
       <Runs value="13"/>
     </Batsman>
     <Batsman name="S Burbridge">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Tim Hogarth"/>
       <Runs value="11"/>
     </Batsman>
@@ -110,5 +110,6 @@
     <BowlerSummary name="Tom Fort" overs="5" maidens="1" runs="33" wickets="2"/>
   </Innings>
 </CricketMatch>
+
 
 
