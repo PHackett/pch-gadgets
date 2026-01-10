@@ -18,7 +18,7 @@
       <Bowler name="Stewart Wren"/>
       <Runs value="5"/>
     </Batsman>
-    <Batsman name="N Downes">
+    <Batsman name="Not Downes">
       <HowOut how="Bowled"/>
       <Bowler name="Steve Beamish"/>
       <Runs value="32"/>
@@ -141,4 +141,5 @@
     <BowlerSummary name="T Harrison" overs="1" maidens="0" runs="2" wickets="1"/>
   </Innings>
 </CricketMatch>
+
 
