@@ -20,7 +20,7 @@
     </Batsman>
     <Batsman name="Steve Abraham">
       <HowOut how="Caught"/>
-      <Bowler name="N Downes"/>
+      <Bowler name="Nic Downes"/>
       <Runs value="40"/>
     </Batsman>
     <Batsman name="Bill Hatch">
@@ -64,7 +64,7 @@
     <BowlerSummary name="P Peet" overs="12" maidens="1" runs="45" wickets="2"/>
     <BowlerSummary name="Hunt" overs="11" maidens="1" runs="33" wickets="0"/>
     <BowlerSummary name="Macdermott" overs="7" maidens="1" runs="16" wickets="1"/>
-    <BowlerSummary name="N Downes" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="30" wickets="1"/>
   </Innings>
   <Innings batting="Warren Row">
     <Batsman name="R Gwilliam">
@@ -92,7 +92,7 @@
       <Bowler name="Chris Sellers"/>
       <Runs value="14"/>
     </Batsman>
-    <Batsman name="D Downes">
+    <Batsman name="David Downes">
       <HowOut how="LBW"/>
       <Bowler name="Peter Kelly"/>
       <Runs value="17"/>
@@ -102,7 +102,7 @@
       <Bowler name="Peter Kelly"/>
       <Runs value="11"/>
     </Batsman>
-    <Batsman name="N Downes">
+    <Batsman name="Nic Downes">
       <HowOut how="Not Out"/>
       <Runs value="3"/>
     </Batsman>
@@ -127,4 +127,5 @@
     <BowlerSummary name="John Grinter" overs="2" maidens="0" runs="4" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
