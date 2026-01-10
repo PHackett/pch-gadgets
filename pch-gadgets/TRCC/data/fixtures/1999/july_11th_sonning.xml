@@ -65,7 +65,7 @@
   </Innings>
   <Innings batting="Sonning">
     <Batsman name="P Phillips">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="6"/>
     </Batsman>
@@ -106,4 +106,5 @@
     <BowlerSummary name="Graham Woodhouse" overs="4" maidens="0" runs="14" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
