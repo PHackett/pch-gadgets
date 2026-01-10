@@ -103,7 +103,7 @@
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Aldridge">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="0"/>
     </Batsman>
@@ -118,4 +118,5 @@
     <BowlerSummary name="Nic Downes" overs="7.5" maidens="3" runs="27" wickets="4"/>
   </Innings>
 </CricketMatch>
+
 
