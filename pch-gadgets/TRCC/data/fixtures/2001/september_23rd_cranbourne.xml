@@ -65,7 +65,7 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="R Jones">
-      <HowOut how="Caught N Downes"/>
+      <HowOut how="Caught Nic Downes"/>
       <Bowler name="Stewart Wren"/>
       <Runs value="0"/>
     </Batsman>
@@ -99,4 +99,5 @@
     <BowlerSummary name="Steve Beamish" overs="3" maidens="0" runs="21" wickets="0"/>
   </Innings>
 </CricketMatch>
+
 
