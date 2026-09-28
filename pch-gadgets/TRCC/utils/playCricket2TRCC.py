@@ -22,7 +22,7 @@ PLAY_CRICKET_RESULT_URL = (
 MATCHES_URL = 'https://www.play-cricket.com/api/v2/matches.json'
 TRCC_PC_NAME = 'Twyford and Ruscombe CC'
 TRCC_NAME = 'Twyford'
-DEFAULT_TEAM_NAMES = ['1st XI', '2nd XI', 'Friendly XI']
+DEFAULT_TEAM_NAMES = ['1st XI', '2nd XI', 'Friendly XI', 'Development XI']
 IN_PROGRESS_RESULT = 'M'
 
 COLOUR_YELLOW = '\033[93m'
@@ -39,7 +39,7 @@ HOW_OUT_MAP = {
     'ct': 'Caught',
     'no': 'Not Out',
     'not out': 'Not Out',
-    'retired not out': 'Not Not Out',
+    'retired not out': 'Retired Not Out',
     'retired out': 'Retired Out',
     'b': 'Bowled',
     'did not bat': 'Did Not Bat',

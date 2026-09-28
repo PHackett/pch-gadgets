@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:56 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/august_21st_sandhurst_cc__berks_1st_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks 1st XI" date="Sat Aug 21 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663254">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Atif Qadar"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Ben Davison"/>
+      <Bowler name="Savir Sharma"/>
+      <Runs value="79"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Adam Birch"/>
+      <Bowler name="Shreyas Pasarkar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Caught Atif Qadar"/>
+      <Bowler name="Conor Pharo"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Maxfield"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="Run Out Will Maxfield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Venkat Gali">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Harpreet Singh"/>
+      <Bowler name="Jamie galpin"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Praveen Madikanti">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Abhishek K N">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Jamie galpin" overs="8" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Ben Davison" overs="6" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Conor Pharo" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Shreyas Pasarkar" overs="8" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Savir Sharma" overs="7" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Will Maxfield" overs="4" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Adam Birch" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Sandhurst CC_ Berks 1st XI">
+    <Batsman name="Adam Birch">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nigel Birt">
+      <HowOut how="Caught Kabillesh Thanikasalam"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Savir Sharma">
+      <HowOut how="Caught Akshay Apte"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Harpreet Singh">
+      <HowOut how="Run Out Stanley Fritz"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Shyam Shrestha">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Atif Qadar">
+      <HowOut how="Run Out Akshay Apte"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jamie galpin">
+      <HowOut how="Run Out Venkat Gali"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Conor Pharo">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Will Maxfield">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Gali"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Davison">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shreyas Pasarkar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="8" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Akshay Apte" overs="8" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Venkat Gali" overs="8" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+</CricketMatch>

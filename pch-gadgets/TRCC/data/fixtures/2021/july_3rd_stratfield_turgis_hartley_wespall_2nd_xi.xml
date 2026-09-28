@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:46 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/july_3rd_stratfield_turgis_hartley_wespall_2nd_xi.xml-->
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall 2nd XI" date="Sat Jul 03 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663514">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Stratfield Turgis_Hartley Wespall 2nd XI">
+    <Batsman name="Richard Carter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Daniel Spence">
+      <HowOut how="Run Out Samyajit Talukdar"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Yakeshwaran Sekar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dan Weller-Evans">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Martin Sandland">
+      <HowOut how="LBW"/>
+      <Bowler name="Venkat Dandamudi"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Ravi Chakrapani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Dandamudi"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Ben Weller-Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Joshua Carter">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Craig Strudley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Clay">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Martin Turvey">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="4" score="99"/>
+    <FallOfWicket batsman="5" score="157"/>
+    <FallOfWicket batsman="2" score="181"/>
+    <FallOfWicket batsman="6" score="200"/>
+    <FallOfWicket batsman="7" score="236"/>
+    <FallOfWicket batsman="9" score="236"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="8" maidens="1" runs="39" wickets="1"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Venkat Dandamudi" overs="8" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Tom Hutchins" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Kiran Siddineni" overs="3" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Vijay Deekonda" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Craig Strudley"/>
+      <Bowler name="Tom Clay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Clay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Caught Ravi Chakrapani"/>
+      <Bowler name="Joshua Carter"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Venkat Dandamudi">
+      <HowOut how="Caught Daniel Spence"/>
+      <Bowler name="Joshua Carter"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out Joshua Carter"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Clay"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Tom Clay"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Chakrapani"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Chakrapani"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Chakrapani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="2"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="0"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="5" score="10"/>
+    <FallOfWicket batsman="4" score="10"/>
+    <FallOfWicket batsman="7" score="11"/>
+    <FallOfWicket batsman="6" score="20"/>
+    <FallOfWicket batsman="10" score="20"/>
+    <FallOfWicket batsman="9" score="21"/>
+    <FallOfWicket batsman="8" score="25"/>
+    <BowlerSummary name="Tom Clay" overs="7" maidens="2" runs="12" wickets="4"/>
+    <BowlerSummary name="Joshua Carter" overs="5" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Ravi Chakrapani" overs="1.5" maidens="0" runs="1" wickets="3"/>
+  </Innings>
+</CricketMatch>

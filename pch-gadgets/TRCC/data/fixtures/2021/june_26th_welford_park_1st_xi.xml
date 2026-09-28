@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:44 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/june_26th_welford_park_1st_xi.xml-->
+<CricketMatch oppo="Welford Park 1st XI" date="Sat Jun 26 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663282">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Welford Park 1st XI">
+    <Batsman name="Ben Myers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Olly Sopp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ed Grantham"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Jacob McManus">
+      <HowOut how="Not Out"/>
+      <Runs value="106"/>
+    </Batsman>
+    <Batsman name="Alex Hutchinson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Michael Goldsworthy">
+      <HowOut how="Run Out Abhishek K N"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jp Van Der Walt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Janaka Abeysinghe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Uday Paturi">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Nick Ashton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bhargav Sutapalli">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Barrett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="58"/>
+    <FallOfWicket batsman="4" score="182"/>
+    <FallOfWicket batsman="5" score="197"/>
+    <FallOfWicket batsman="6" score="203"/>
+    <FallOfWicket batsman="7" score="226"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8.0" maidens="2" runs="41" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="5.0" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6.0" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Ed Grantham" overs="8.0" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Abhishek K N" overs="2.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Kiran Siddineni" overs="2.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Adnan Syed" overs="1.0" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Janaka Abeysinghe"/>
+      <Bowler name="James Barrett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bhargav Sutapalli"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Olly Sopp"/>
+      <Bowler name="Bhargav Sutapalli"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Uday Paturi"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ed Grantham">
+      <HowOut how="Caught Nick Ashton"/>
+      <Bowler name="James Barrett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught Ben Myers"/>
+      <Bowler name="Alex Hutchinson"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Jacob McManus"/>
+      <Bowler name="Uday Paturi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Janaka Abeysinghe"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Janaka Abeysinghe"/>
+      <Bowler name="Janaka Abeysinghe"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Abhishek K N">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adnan Syed">
+      <HowOut how="Absent"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="4" score="11"/>
+    <FallOfWicket batsman="5" score="15"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="7" score="65"/>
+    <FallOfWicket batsman="6" score="95"/>
+    <FallOfWicket batsman="8" score="147"/>
+    <FallOfWicket batsman="9" score="152"/>
+    <BowlerSummary name="James Barrett" overs="8.0" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Bhargav Sutapalli" overs="8.0" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Uday Paturi" overs="7.0" maidens="2" runs="16" wickets="2"/>
+    <BowlerSummary name="Nick Ashton" overs="5.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Alex Hutchinson" overs="6.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Janaka Abeysinghe" overs="3.2" maidens="0" runs="13" wickets="2"/>
+  </Innings>
+</CricketMatch>

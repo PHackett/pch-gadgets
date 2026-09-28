@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:44 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2021/june_20th_warfield_sunday_xi_-_development_side.xml-->
+<CricketMatch oppo="Warfield Sunday XI - Development Side" date="Sun Jun 20 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="Development XI" playCricketId="4821311">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield Sunday XI - Development Side">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

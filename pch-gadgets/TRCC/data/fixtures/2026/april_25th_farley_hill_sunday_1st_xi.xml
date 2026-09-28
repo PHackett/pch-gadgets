@@ -17,7 +17,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Sreejith Kenchath">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="100"/>
     </Batsman>
     <Batsman name="Ali Jalil">
@@ -31,7 +31,7 @@
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Dijin Dineshn">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="45"/>
     </Batsman>
     <Batsman name="Lewis Hart">

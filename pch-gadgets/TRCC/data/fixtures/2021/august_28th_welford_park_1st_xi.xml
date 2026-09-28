@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:57 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/august_28th_welford_park_1st_xi.xml-->
+<CricketMatch oppo="Welford Park 1st XI" date="Sat Aug 28 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663273">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Cale"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Cale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught Jacob McManus"/>
+      <Bowler name="Alex Hutchinson"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Cale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Praveen Madikanti">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yasir Bandey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="Stumped Jp Van Der Walt"/>
+      <Bowler name="Alex Hutchinson"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Venkat Gali">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="4" score="19"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="3" score="126"/>
+    <FallOfWicket batsman="6" score="148"/>
+    <BowlerSummary name="Jagadish Yella" overs="7.0" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Andy Cale" overs="8.0" maidens="2" runs="42" wickets="3"/>
+    <BowlerSummary name="Yasir Bandey" overs="4.0" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Andrew Barr" overs="7.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Alex Hutchinson" overs="8.0" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Janaka Abeysinghe" overs="6.0" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+  <Innings batting="Welford Park 1st XI">
+    <Batsman name="Ben Myers">
+      <HowOut how="Run Out Christopher Priddle"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Jacob McManus">
+      <HowOut how="LBW"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Olly Sopp">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michael Goldsworthy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Hutchinson">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Jp Van Der Walt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Janaka Abeysinghe">
+      <HowOut how="LBW"/>
+      <Bowler name="Venkat Gali"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Jagadish Yella">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Barr">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy Cale">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Yasir Bandey">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="44"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="4" score="50"/>
+    <FallOfWicket batsman="1" score="114"/>
+    <FallOfWicket batsman="6" score="148"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <FallOfWicket batsman="8" score="180"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="6.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Akshay Apte" overs="8.0" maidens="1" runs="41" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="3" runs="33" wickets="3"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="6.0" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="6.5" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="1.0" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Venkat Gali" overs="4.0" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>

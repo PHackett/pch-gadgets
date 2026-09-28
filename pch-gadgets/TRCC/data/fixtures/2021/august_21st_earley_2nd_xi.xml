@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:57 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/august_21st_earley_2nd_xi.xml-->
+<CricketMatch oppo="Earley 2nd XI" date="Sat Aug 21 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663517">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Earley 2nd XI">
+    <Batsman name="Sanjay Gurung">
+      <HowOut how="Not Out"/>
+      <Runs value="114"/>
+    </Batsman>
+    <Batsman name="Ranvir Rana">
+      <HowOut how="Run Out Max Hitchings"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="Livingston Sengolraj">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rahul Sood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Binny Zutshi">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Keshav Bansal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steven Mapes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sairam Bhamidipati">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vernon Butcher">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sampath Bhamidipati">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rohan Chikkam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Sam Staples" overs="4" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Hutchins" overs="7" maidens="0" runs="60" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="6" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Max Hitchings" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Thomas Leggett" overs="6" maidens="0" runs="43" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Rahul Sood"/>
+      <Bowler name="Steven Mapes"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vernon Butcher"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Caught Keshav Bansal"/>
+      <Bowler name="Rohan Chikkam"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steven Mapes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Rohan Chikkam"/>
+      <Bowler name="Sampath Bhamidipati"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rahul Sood"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught Sanjay Gurung"/>
+      <Bowler name="Vernon Butcher"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Bowled"/>
+      <Bowler name="Binny Zutshi"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Run Out Sampath Bhamidipati"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="Steven Mapes" overs="8" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Rohan Chikkam" overs="8" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="Sampath Bhamidipati" overs="6" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Vernon Butcher" overs="6" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Livingston Sengolraj" overs="3" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Binny Zutshi" overs="6" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="Ranvir Rana" overs="2" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Rahul Sood" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+</CricketMatch>

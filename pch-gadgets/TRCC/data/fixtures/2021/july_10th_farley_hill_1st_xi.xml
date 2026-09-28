@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:47 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/july_10th_farley_hill_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill 1st XI" date="Sat Jul 10 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663227">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="LBW"/>
+      <Bowler name="Lewis Hart"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Run Out Lawrence Heaton-Wright"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Amit Puri">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Smart"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Reuben Elliot">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adeel Razaq"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught Matt Jones"/>
+      <Bowler name="Richard Pilkington"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Pilkington"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ranganath Deshpande">
+      <HowOut how="Caught Michael Sheridan"/>
+      <Bowler name="Richard Pilkington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Matt Jones"/>
+      <Bowler name="Richard Pilkington"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Pilkington"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Smart"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Lewis Hart" overs="6" maidens="3" runs="7" wickets="1"/>
+    <BowlerSummary name="James Smart" overs="7.3" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Adeel Razaq" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Richard Pilkington" overs="8" maidens="2" runs="15" wickets="5"/>
+    <BowlerSummary name="Lawrence Heaton-Wright" overs="3" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Farley Hill 1st XI">
+    <Batsman name="Akeesh Khokhar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="LBW"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="David Drury">
+      <HowOut how="LBW"/>
+      <Bowler name="Reuben Elliot"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Gregory Coney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Matt Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Will Joby"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Michael Sheridan">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Adeel Razaq">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard Pilkington">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lewis Hart">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Smart">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lawrence Heaton-Wright">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="5.4" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="4" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Ranganath Deshpande" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Reuben Elliot" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="2" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Will Joby" overs="1" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+</CricketMatch>

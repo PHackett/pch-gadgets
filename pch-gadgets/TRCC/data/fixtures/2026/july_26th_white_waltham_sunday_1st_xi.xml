@@ -7,7 +7,7 @@
   <CountsToStats/>
   <Innings batting="White Waltham Sunday 1st XI">
     <Batsman name="Nikhil Jathavedan">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="100"/>
     </Batsman>
     <Batsman name="Ali Subhan">
@@ -16,7 +16,7 @@
       <Runs value="71"/>
     </Batsman>
     <Batsman name="Akeel Mir">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="22"/>
     </Batsman>
     <Batsman name="Adil Pervaiz">

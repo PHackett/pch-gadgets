@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:24:01 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/september_25th_reading_lions_1st_xi.xml-->
+<CricketMatch oppo="Reading Lions 1st XI" date="Sat Sep 25 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4606242">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Stumped Rajendar R"/>
+      <Bowler name="Keerthi Ramegowda"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aditya Jain"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Muniaraj Govindan">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ashok Lalwani"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Amit Puri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aditya Jain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aditya Jain"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aditya Jain"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Sanjay Telreja" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Manju Raki" overs="6" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="3" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Satish Kothapalli" overs="4" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Keerthi Ramegowda" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Rahul Chandran" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Aditya Jain" overs="5" maidens="0" runs="25" wickets="4"/>
+    <BowlerSummary name="Ankush Jain" overs="3" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Ashok Lalwani" overs="4" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+  <Innings batting="Reading Lions 1st XI">
+    <Batsman name="Satish Kothapalli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ramkrishna Pal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Keerthi Ramegowda">
+      <HowOut how="Caught Samyajit Talukdar"/>
+      <Bowler name="Stanley Fritz"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Rahul Chandran">
+      <HowOut how="Run Out Stanley Fritz"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Manju Raki">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ankush Jain">
+      <HowOut how="LBW"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sanjay Telreja">
+      <HowOut how="Run Out Will Joby"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Aditya Jain">
+      <HowOut how="Run Out Muniaraj Govindan"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rajendar R">
+      <HowOut how="Bowled"/>
+      <Bowler name="Amit Puri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ashok Lalwani">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="29"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="7" maidens="0" runs="27" wickets="3"/>
+    <BowlerSummary name="Amit Puri" overs="7" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Will Joby" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Stanley Fritz" overs="2" maidens="0" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>

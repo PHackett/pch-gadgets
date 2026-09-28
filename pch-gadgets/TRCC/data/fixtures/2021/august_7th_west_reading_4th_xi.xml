@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:53 +01:00 (BST)-->
+<!--Result = West Reading 4th XI Conceded-->
+<!--XMLFilename = 2021/august_7th_west_reading_4th_xi.xml-->
+<CricketMatch oppo="West Reading 4th XI" date="Sat Aug 07 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663524">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="West Reading 4th XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

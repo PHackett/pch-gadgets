@@ -17,7 +17,7 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Sana Khan">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="101"/>
     </Batsman>
     <Batsman name="Faraz Ahmed">
@@ -26,7 +26,7 @@
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Nawed Shahin">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="100"/>
     </Batsman>
     <Batsman name="Ishtiaq Ullah">

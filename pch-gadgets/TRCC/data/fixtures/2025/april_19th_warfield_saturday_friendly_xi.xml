@@ -7,7 +7,7 @@
   <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Angus Weir">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="50"/>
     </Batsman>
     <Batsman name="Sathesh Polepaka">

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:59 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2021/september_5th_rangers_friendly_xi.xml-->
+<CricketMatch oppo="Rangers Friendly XI" date="Sun Sep 05 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="4926485">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Rangers Friendly XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

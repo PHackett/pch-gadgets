@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:34 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/may_9th_reading_university_alumni_and_staff_friendly_xi.xml-->
+<CricketMatch oppo="Reading University Alumni and Staff Friendly XI" date="Sun May 09 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="4821253">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Not Out"/>
+      <Runs value="106"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zia X"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Ja Murphy"/>
+      <Bowler name="R Kurar"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Taiuur"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught A Greenhalt"/>
+      <Bowler name="R Kurar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zia X"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="61"/>
+    <FallOfWicket batsman="4" score="62"/>
+    <FallOfWicket batsman="5" score="71"/>
+    <FallOfWicket batsman="6" score="197"/>
+    <BowlerSummary name="Sami Awan" overs="8" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="A Taiuur" overs="8" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Zia X" overs="7" maidens="1" runs="41" wickets="2"/>
+    <BowlerSummary name="- Ashman" overs="1" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="R Kurar" overs="8" maidens="0" runs="51" wickets="2"/>
+    <BowlerSummary name="Shakeel A" overs="3" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading University Alumni and Staff Friendly XI">
+    <Batsman name="Andrew Eagle">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Zia X">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Shakeel A">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Suchcaan A">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Ja Murphy">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Sami Awan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="A Greenhalt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="R Kurar">
+      <HowOut how="LBW"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Taiuur">
+      <HowOut how="Bowled"/>
+      <Bowler name="Christopher Priddle"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="E Trawter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="- Ashman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Sam Staples" overs="6" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Will Etheridge" overs="6" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Charlie Scarr" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="5" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="Max Hitchings" overs="2" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="5" maidens="0" runs="22" wickets="1"/>
+  </Innings>
+</CricketMatch>

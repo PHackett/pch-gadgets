@@ -7,7 +7,7 @@
   <CountsToStats/>
   <Innings batting="Maidenhead Royals 2nd XI">
     <Batsman name="Irfan Syed">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="29"/>
     </Batsman>
     <Batsman name="Nasir Mohammad Abdul">

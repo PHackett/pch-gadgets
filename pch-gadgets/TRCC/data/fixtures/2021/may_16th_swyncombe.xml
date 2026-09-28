@@ -4,7 +4,7 @@
 <!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
 <!-- Result = Rain -->
 <!-- XMLFilename = 2021/may_16th_swyncombe.xml -->
-<CricketMatch oppo="Swyncombe" date="Sun May 16 2021 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
+<CricketMatch oppo="Swyncombe Sunday 1st XI" date="Sun May 16 2021 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="4821254">
   <MatchReport/><CountsToStats/>
   <Innings batting="Swyncombe">
     <Batsman name="Ty">

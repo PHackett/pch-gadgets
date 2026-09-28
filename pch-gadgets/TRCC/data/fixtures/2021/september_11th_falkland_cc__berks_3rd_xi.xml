@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:24:00 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2021/september_11th_falkland_cc__berks_3rd_xi.xml-->
+<CricketMatch oppo="Falkland CC_ Berks 3rd XI" date="Sat Sep 11 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4944119">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Falkland CC_ Berks 3rd XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:43 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/june_19th_earley_2nd_xi.xml-->
+<CricketMatch oppo="Earley 2nd XI" date="Sat Jun 19 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663460">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Earley 2nd XI">
+    <Batsman name="Sanjay Gurung">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Deep Singh">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Kishore Nallapaneni"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rahul Bharti">
+      <HowOut how="Caught Venkat Dandamudi"/>
+      <Bowler name="Venkat Dandamudi"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Aryan Sethi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Binny Zutshi">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Rahul Sood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Anil Mungol">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sairam Bhamidipati">
+      <HowOut how="Run Out Sathesh Polepaka"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Steve Oxtoby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Dandamudi"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Sampath Bhamidipati">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vernon Butcher">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="" score="33"/>
+    <FallOfWicket batsman="" score="40"/>
+    <FallOfWicket batsman="" score="109"/>
+    <FallOfWicket batsman="" score="146"/>
+    <FallOfWicket batsman="" score="182"/>
+    <FallOfWicket batsman="" score="182"/>
+    <FallOfWicket batsman="" score="231"/>
+    <FallOfWicket batsman="5" score=""/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="7" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="0" runs="38" wickets="2"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="6" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Ram Sayana" overs="1" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="8" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Venkat Dandamudi" overs="7" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="Abhishek K N" overs="2" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Praveen Madikanti" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Run Out Sampath Bhamidipati"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Rahul Bharti"/>
+      <Bowler name="Sampath Bhamidipati"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Venkat Dandamudi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Praveen Madikanti">
+      <HowOut how="Caught Rahul Sood"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aryan Sethi"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Kishore Nallapaneni">
+      <HowOut how="Caught Steve Oxtoby"/>
+      <Bowler name="Vernon Butcher"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ram Sayana">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aryan Sethi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aryan Sethi"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Abhishek K N">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Deep Singh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="" score="20"/>
+    <FallOfWicket batsman="" score="30"/>
+    <FallOfWicket batsman="" score="44"/>
+    <FallOfWicket batsman="" score="57"/>
+    <FallOfWicket batsman="" score="63"/>
+    <FallOfWicket batsman="" score="63"/>
+    <BowlerSummary name="Steve Oxtoby" overs="5" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Sampath Bhamidipati" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Deep Singh" overs="5.4" maidens="0" runs="14" wickets="4"/>
+    <BowlerSummary name="Aryan Sethi" overs="7" maidens="1" runs="13" wickets="3"/>
+    <BowlerSummary name="Vernon Butcher" overs="3" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>

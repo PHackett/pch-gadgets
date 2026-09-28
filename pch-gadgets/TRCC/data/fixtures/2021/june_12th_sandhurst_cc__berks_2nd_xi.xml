@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:42 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/june_12th_sandhurst_cc__berks_2nd_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks 2nd XI" date="Sat Jun 12 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663521">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Shyam Shrestha"/>
+      <Bowler name="Adam Layton"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Dobson"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jason Wiseman"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Jason Wiseman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ejaz Rafique"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Amit Puri">
+      <HowOut how="Caught Adam Layton"/>
+      <Bowler name="Jason Wiseman"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Surya Reddy">
+      <HowOut how="Caught Jason Wiseman"/>
+      <Bowler name="Dan Chesterman"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Akshay Apte">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Chesterman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="" score="28"/>
+    <FallOfWicket batsman="" score="74"/>
+    <FallOfWicket batsman="" score="93"/>
+    <FallOfWicket batsman="" score="93"/>
+    <FallOfWicket batsman="" score="103"/>
+    <FallOfWicket batsman="" score="107"/>
+    <FallOfWicket batsman="" score="165"/>
+    <FallOfWicket batsman="" score="195"/>
+    <BowlerSummary name="Zach Hodges" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Adam Layton" overs="6" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Aron Shallom" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Ejaz Rafique" overs="8" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Jason Wiseman" overs="8" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Richard Dobson" overs="2" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Dan Chesterman" overs="4" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Shyam Shrestha" overs="3" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+  <Innings batting="Sandhurst CC_ Berks 2nd XI">
+    <Batsman name="Andrew Tutty">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="82"/>
+    </Batsman>
+    <Batsman name="Aron Shallom">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Akshay Apte"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gags Toor">
+      <HowOut how="Caught Kabillesh Thanikasalam"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Dan Chesterman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Drew Birch">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Zach Hodges">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Shyam Shrestha">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Richard Dobson">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Layton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ejaz Rafique">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jason Wiseman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="4" score="108"/>
+    <FallOfWicket batsman="5" score="128"/>
+    <FallOfWicket batsman="1" score="154"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="8" maidens="2" runs="25" wickets="2"/>
+    <BowlerSummary name="Akshay Apte" overs="8" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="8" maidens="1" runs="54" wickets="1"/>
+    <BowlerSummary name="Amit Puri" overs="8" maidens="0" runs="35" wickets="0"/>
+  </Innings>
+</CricketMatch>

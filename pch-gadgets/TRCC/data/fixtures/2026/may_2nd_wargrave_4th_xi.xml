@@ -12,11 +12,11 @@
       <Runs value="32"/>
     </Batsman>
     <Batsman name="Marc Teal">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="50"/>
     </Batsman>
     <Batsman name="Kieran Downes">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="50"/>
     </Batsman>
     <Batsman name="Christopher Priddle">
@@ -66,7 +66,7 @@
   </Innings>
   <Innings batting="Wargrave 4th XI">
     <Batsman name="Kyle Bradley">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="50"/>
     </Batsman>
     <Batsman name="Jasmer Gill">

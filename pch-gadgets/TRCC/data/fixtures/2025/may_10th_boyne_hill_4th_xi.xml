@@ -72,7 +72,7 @@
   </Innings>
   <Innings batting="Boyne Hill 4th XI">
     <Batsman name="Raghu Ramanujam">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="101"/>
     </Batsman>
     <Batsman name="Martin Preston">

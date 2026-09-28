@@ -27,7 +27,7 @@
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Robbie Wilsher">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="53"/>
     </Batsman>
     <Batsman name="Joshua Geal">
@@ -36,7 +36,7 @@
       <Runs value="27"/>
     </Batsman>
     <Batsman name="Tom Carpenter">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="52"/>
     </Batsman>
     <Batsman name="James cole">
@@ -88,7 +88,7 @@
       <Runs value="20"/>
     </Batsman>
     <Batsman name="Christopher Priddle">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="53"/>
     </Batsman>
     <Batsman name="Alex Lett">

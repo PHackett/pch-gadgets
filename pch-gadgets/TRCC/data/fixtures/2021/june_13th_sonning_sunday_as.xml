@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:42 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/june_13th_sonning_sunday_as.xml-->
+<CricketMatch oppo="Sonning Sunday As" date="Sun Jun 13 2021 13:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="4821292">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Sonning Sunday As">
+    <Batsman name="David Coutts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Will Etheridge"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Connor Wardlaw">
+      <HowOut how="Not Out"/>
+      <Runs value="104"/>
+    </Batsman>
+    <Batsman name="Tim Atkins">
+      <HowOut how="Caught Max Hitchings"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Fred Travers">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="William Travers">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Josh Honey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="James Travers">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Syed Naqi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prakash Dsouza">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="0" runs="65" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="4" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Will Etheridge" overs="8" maidens="0" runs="67" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="7" maidens="0" runs="54" wickets="0"/>
+    <BowlerSummary name="Sam Staples" overs="8" maidens="1" runs="46" wickets="1"/>
+    <BowlerSummary name="Charlie Scarr" overs="3" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Syed Naqi"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Syed Naqi"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Tim Atkins"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Josh Honey"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Syed Naqi"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Syed Naqi"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Will Etheridge">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="William Travers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Bowled"/>
+      <Bowler name="William Travers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Travers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Prakash Dsouza"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Syed Naqi" overs="4" maidens="0" runs="12" wickets="4"/>
+    <BowlerSummary name="Tim Atkins" overs="2" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="William Travers" overs="3" maidens="0" runs="15" wickets="2"/>
+    <BowlerSummary name="Josh Honey" overs="3" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="James Travers" overs="2" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Fred Travers" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Unsure" overs="1" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="Prakash Dsouza" overs="1" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+</CricketMatch>

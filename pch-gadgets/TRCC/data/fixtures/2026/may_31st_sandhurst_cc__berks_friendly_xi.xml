@@ -78,7 +78,7 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Adam Henley">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="102"/>
     </Batsman>
     <Batsman name="Will Graver">

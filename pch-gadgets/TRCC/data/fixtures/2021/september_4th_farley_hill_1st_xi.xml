@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:58 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/september_4th_farley_hill_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill 1st XI" date="Sat Sep 04 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663268">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Farley Hill 1st XI">
+    <Batsman name="Thomas Hale">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Sam Staples"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Michael Sheridan">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Akeesh Khokhar">
+      <HowOut how="Caught Ben Gilbert"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Matt Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Kevin Brown">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Richard Pilkington">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Errol Masters">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Duncan Greeff">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prakash Krishnamurthy">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Smart">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="1" score="126"/>
+    <FallOfWicket batsman="2" score="151"/>
+    <FallOfWicket batsman="4" score="172"/>
+    <FallOfWicket batsman="3" score="216"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="8.0" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="7.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="6.0" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Will Joby" overs="4.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="3.0" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Sam Staples" overs="5.0" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="6.0" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Thomas Leggett" overs="1.0" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Thomas Hale"/>
+      <Bowler name="Duncan Greeff"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard Pilkington"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Thomas Hale"/>
+      <Bowler name="Duncan Greeff"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Matt Jones"/>
+      <Bowler name="Duncan Greeff"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Matt Jones"/>
+      <Bowler name="Duncan Greeff"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Caught Matt Jones"/>
+      <Bowler name="Duncan Greeff"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="88"/>
+    <FallOfWicket batsman="3" score="109"/>
+    <FallOfWicket batsman="4" score="111"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="7" score="152"/>
+    <BowlerSummary name="James Smart" overs="7.0" maidens="3" runs="16" wickets="0"/>
+    <BowlerSummary name="Richard Pilkington" overs="8.0" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Prakash Krishnamurthy" overs="8.0" maidens="2" runs="29" wickets="0"/>
+    <BowlerSummary name="Errol Masters" overs="8.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Duncan Greeff" overs="8.0" maidens="0" runs="38" wickets="5"/>
+    <BowlerSummary name="Ali Jalil" overs="1.0" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:31 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/april_24th_crowthorne_and_crown_wood_1st_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood 1st XI" date="Sat Apr 24 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="4821322">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sinith Chandran"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marvin Vogel"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught George Tims"/>
+      <Bowler name="Dan Crinnion"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="LBW"/>
+      <Bowler name="Dan Crinnion"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aran Long"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught George Tims"/>
+      <Bowler name="Aran Long"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aran Long"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Run Out Will Avrili"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Run Out Will Avrili"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="4" score="28"/>
+    <FallOfWicket batsman="5" score="59"/>
+    <FallOfWicket batsman="2" score="64"/>
+    <FallOfWicket batsman="7" score="77"/>
+    <FallOfWicket batsman="8" score="93"/>
+    <FallOfWicket batsman="9" score="121"/>
+    <BowlerSummary name="Sinith Chandran" overs="6" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="James Sussex" overs="7" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Dan Crinnion" overs="8" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Gerhard Krüger" overs="4" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Marvin Vogel" overs="8" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Aran Long" overs="7" maidens="3" runs="7" wickets="3"/>
+  </Innings>
+  <Innings batting="Crowthorne and Crown Wood 1st XI">
+    <Batsman name="James Whitehurst">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Simon Sheppard">
+      <HowOut how="Run Out Adam Henley"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Nikunj Mehta">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Mike Longson"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Will Avrili">
+      <HowOut how="Not Out"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Gerhard Krüger">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sinith Chandran">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marvin Vogel">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aran Long">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Sussex">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George Tims">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Crinnion">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="3" score="110"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="4" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="1" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Mike Longson" overs="2.4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Tom Hutchins" overs="2" maidens="0" runs="14" wickets="0"/>
+  </Innings>
+</CricketMatch>

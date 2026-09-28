@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:52 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/july_31st_mortimer_1st_xi.xml-->
+<CricketMatch oppo="Mortimer 1st XI" date="Sat Jul 31 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663478">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Saikrishna Nimmagadda">
+      <HowOut how="LBW"/>
+      <Bowler name="Craig North"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Craig North"/>
+      <Bowler name="Dan Litwin"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Craig North"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Max Hitchings">
+      <HowOut how="Bowled"/>
+      <Bowler name="Craig North"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali Mortiboys"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali Mortiboys"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mike Tiley"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sam Staples">
+      <HowOut how="Caught Dan Litwin"/>
+      <Bowler name="Ali Mortiboys"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Run Out Dan Litwin"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Dan Litwin"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="2" score="68"/>
+    <FallOfWicket batsman="5" score="83"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="7" score="91"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <FallOfWicket batsman="10" score="129"/>
+    <FallOfWicket batsman="9" score="137"/>
+    <BowlerSummary name="Craig North" overs="8.0" maidens="4" runs="13" wickets="3"/>
+    <BowlerSummary name="Jimmy George" overs="8.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Dan Litwin" overs="8.0" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="Mike Tiley" overs="8.0" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Ali Mortiboys" overs="6.0" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="Jonathan Mare" overs="2.0" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Mortimer 1st XI">
+    <Batsman name="Jonathan Mare">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saikrishna Nimmagadda"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike Tiley">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Ryan May">
+      <HowOut how="Caught Saikrishna Nimmagadda"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Craig North">
+      <HowOut how="Caught Max Hitchings"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ali Mortiboys">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Daniel Grant">
+      <HowOut how="Caught Max Hitchings"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jimmy George">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Dan Litwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saikrishna Nimmagadda"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Anirban Das">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shakil Chowdhury">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Anthony Alder">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saikrishna Nimmagadda"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="55"/>
+    <FallOfWicket batsman="3" score="59"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="7" score="89"/>
+    <FallOfWicket batsman="6" score="97"/>
+    <FallOfWicket batsman="9" score="99"/>
+    <FallOfWicket batsman="8" score="119"/>
+    <FallOfWicket batsman="11" score="119"/>
+    <BowlerSummary name="Saikrishna Nimmagadda" overs="7.2" maidens="1" runs="20" wickets="3"/>
+    <BowlerSummary name="Sam Staples" overs="4" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="1" runs="27" wickets="4"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>

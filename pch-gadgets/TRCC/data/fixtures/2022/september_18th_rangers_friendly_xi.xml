@@ -7,7 +7,7 @@
   <CountsToStats/>
   <Innings batting="Twyford">
     <Batsman name="Matt Ackerman">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="47"/>
     </Batsman>
     <Batsman name="Thomas Powell">

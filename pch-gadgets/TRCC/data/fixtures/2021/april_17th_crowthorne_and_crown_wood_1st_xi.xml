@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:30 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/april_17th_crowthorne_and_crown_wood_1st_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood 1st XI" date="Sat Apr 17 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="1st XI" playCricketId="4821320">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood 1st XI">
+    <Batsman name="James Whitehurst">
+      <HowOut how="Caught Mike Longson"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nikunj Mehta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="George Tims">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Will Avrili">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Gerhard Krüger">
+      <HowOut how="Run Out Mike Longson"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Ant Avrili">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shaqil Arshad"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Marvin Vogel">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Daniel Cartledge">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Christopher Emes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sinith Chandran">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="mo rizwan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="3" score="55"/>
+    <FallOfWicket batsman="2" score="74"/>
+    <FallOfWicket batsman="5" score="183"/>
+    <FallOfWicket batsman="6" score="209"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Razavullah Shaik" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="4" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="8" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Ashan Dildar" overs="6" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Shaqil Arshad" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Stanley Fritz" overs="3" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="2" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="mo rizwan"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Marvin Vogel"/>
+      <Bowler name="Gerhard Krüger"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="mo rizwan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="Caught George Tims"/>
+      <Bowler name="Gerhard Krüger"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Will Avrili"/>
+      <Bowler name="Gerhard Krüger"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ashan Dildar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerhard Krüger"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Gerhard Krüger"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Run Out Gerhard Krüger"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Run Out Will Avrili"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="56"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="1" score="89"/>
+    <FallOfWicket batsman="5" score="89"/>
+    <FallOfWicket batsman="4" score="116"/>
+    <FallOfWicket batsman="6" score="117"/>
+    <FallOfWicket batsman="7" score="182"/>
+    <FallOfWicket batsman="9" score="218"/>
+    <FallOfWicket batsman="8" score="238"/>
+    <BowlerSummary name="Sinith Chandran" overs="8" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Christopher Emes" overs="7.1" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Daniel Cartledge" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="mo rizwan" overs="2" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Gerhard Krüger" overs="7" maidens="0" runs="31" wickets="5"/>
+    <BowlerSummary name="Marvin Vogel" overs="6" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Ant Avrili" overs="3" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:39 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/june_5th_woodcote_1st_xi.xml-->
+<CricketMatch oppo="Woodcote 1st XI" date="Sat Jun 05 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663274">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodcote 1st XI">
+    <Batsman name="Ryan Lennard">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Steve Henderson">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Reuben Elliot"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Ryan Van Heerden">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Olly Nicholson">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonny Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stefan Gordon">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Pearson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rakesh Patel">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Worsfold">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Archie Clark">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Connor Mattimore">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="3" score="72"/>
+    <FallOfWicket batsman="4" score="80"/>
+    <FallOfWicket batsman="5" score="102"/>
+    <FallOfWicket batsman="1" score="104"/>
+    <FallOfWicket batsman="6" score="104"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="10" score="109"/>
+    <FallOfWicket batsman="9" score="110"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="6.4" maidens="2" runs="22" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="3" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Reuben Elliot" overs="6" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="0" runs="35" wickets="4"/>
+    <BowlerSummary name="Kiran Juluri" overs="5" maidens="1" runs="8" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="LBW"/>
+      <Bowler name="Ryan Van Heerden"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="LBW"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Archie Clark"/>
+      <Bowler name="Ryan Van Heerden"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ryan Van Heerden"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Olly Nicholson"/>
+      <Bowler name="Ryan Van Heerden"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught James Worsfold"/>
+      <Bowler name="Mark Pearson"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Run Out Ryan Lennard"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Reuben Elliot">
+      <HowOut how="Caught Steve Henderson"/>
+      <Bowler name="Mark Pearson"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Henderson"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="3" score="44"/>
+    <FallOfWicket batsman="7" score="44"/>
+    <FallOfWicket batsman="8" score="70"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <FallOfWicket batsman="9" score="86"/>
+    <FallOfWicket batsman="10" score="87"/>
+    <BowlerSummary name="Ryan Van Heerden" overs="8" maidens="1" runs="32" wickets="4"/>
+    <BowlerSummary name="Rakesh Patel" overs="8" maidens="4" runs="13" wickets="2"/>
+    <BowlerSummary name="Mark Pearson" overs="8" maidens="2" runs="12" wickets="2"/>
+    <BowlerSummary name="James Worsfold" overs="5" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Steve Henderson" overs="3.1" maidens="2" runs="2" wickets="1"/>
+    <BowlerSummary name="Olly Nicholson" overs="1" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:54 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/august_14th_sandhurst_cc__berks_2nd_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks 2nd XI" date="Sat Aug 14 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663496">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Sandhurst CC_ Berks 2nd XI">
+    <Batsman name="Kevin Speakman">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Venkat Gali"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Luke O'Neil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Krishna Chaitanya"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Shyam Shrestha">
+      <HowOut how="Caught Prasanth Chintamaneni"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sachin Malhi">
+      <HowOut how="LBW"/>
+      <Bowler name="Krishna Chaitanya"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Aron Shallom">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Venkat Gali"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="A Heathcote">
+      <HowOut how="Run Out Kieran Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Chesterman">
+      <HowOut how="Caught Rajnish Singh"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Archie Saunders">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamish Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ejaz Rafique">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Richard Dobson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Venkat Gali" overs="6" maidens="3" runs="9" wickets="2"/>
+    <BowlerSummary name="Krishna Chaitanya" overs="6" maidens="3" runs="9" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="3" maidens="1" runs="6" wickets="1"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="3" maidens="0" runs="7" wickets="2"/>
+    <BowlerSummary name="Tom Hutchins" overs="2" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Thomas Leggett" overs="2" maidens="0" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Rajnish Singh">
+      <HowOut how="LBW"/>
+      <Bowler name="Richard Dobson"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sachin Malhi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aron Shallom"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Prasanth Chintamaneni">
+      <HowOut how="Caught Kevin Speakman"/>
+      <Bowler name="Archie Saunders"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Archie Saunders"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gali">
+      <HowOut how="LBW"/>
+      <Bowler name="Aron Shallom"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aron Shallom"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Krishna Chaitanya">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Sachin Malhi" overs="4" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Richard Dobson" overs="4" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Archie Saunders" overs="3" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Aron Shallom" overs="2" maidens="2" runs="0" wickets="3"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:48 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/july_17th_reading_united_2nd_xi.xml-->
+<CricketMatch oppo="Reading United 2nd XI" date="Sat Jul 17 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663487">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Reading United 2nd XI">
+    <Batsman name="Shankar Sundaresh">
+      <HowOut how="LBW"/>
+      <Bowler name="Gopi Nerellakunta"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Vaibhav Tiwari">
+      <HowOut how="LBW"/>
+      <Bowler name="Gopi Nerellakunta"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Saketh Chodimella">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Lewis Goddard">
+      <HowOut how="Caught Gopi Nerellakunta"/>
+      <Bowler name="Muniaraj Govindan"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Anish Pandey">
+      <HowOut how="Caught Gopi Nerellakunta"/>
+      <Bowler name="Venkat Gali"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sushant Jain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ananth Suraj">
+      <HowOut how="Run Out Ashish Darekar"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Pramuldeep Pai">
+      <HowOut how="LBW"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Santosh Shah">
+      <HowOut how="LBW"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Vickil D'Souza">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vernon Butcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ashish Darekar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <BowlerSummary name="Abhishek K N" overs="8" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Gopi Nerellakunta" overs="4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Venkat Gali" overs="6" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Muniaraj Govindan" overs="5" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="8" maidens="1" runs="19" wickets="4"/>
+    <BowlerSummary name="Ashish Darekar" overs="2" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaibhav Tiwari"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="LBW"/>
+      <Bowler name="Vaibhav Tiwari"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pramuldeep Pai"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ashish Darekar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vaibhav Tiwari"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Muniaraj Govindan">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Caught Pramuldeep Pai"/>
+      <Bowler name="Santosh Shah"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Venkat Gali">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Santosh Shah"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gopi Nerellakunta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushant Jain"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="LBW"/>
+      <Bowler name="Sushant Jain"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Abhishek K N">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="Santosh Shah" overs="8" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Vaibhav Tiwari" overs="6" maidens="3" runs="13" wickets="3"/>
+    <BowlerSummary name="Pramuldeep Pai" overs="2.4" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Lewis Goddard" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Anish Pandey" overs="3" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Vickil D'Souza" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Sushant Jain" overs="3" maidens="0" runs="7" wickets="2"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:45 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/june_26th_knowl_hill_1st_xi.xml-->
+<CricketMatch oppo="Knowl Hill 1st XI" date="Sat Jun 26 2021 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="4663518">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Amit Puri">
+      <HowOut how="Caught James Stoker"/>
+      <Bowler name="Anand Subramaniasamy"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="John Randall"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Ranganath Deshpande">
+      <HowOut how="Caught John Randall"/>
+      <Bowler name="Daniel Bavington"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Caught Adam Brookman"/>
+      <Bowler name="Daniel Bavington"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Venkat Dandamudi">
+      <HowOut how="Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Kishore Nallapaneni">
+      <HowOut how="Caught Adam Brookman"/>
+      <Bowler name="Daniel Bavington"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Morgan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Daniel Bavington"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Run Out Danny Brookman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Caught Daniel Bavington"/>
+      <Bowler name="Andrew Morgan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="2" score="57"/>
+    <FallOfWicket batsman="4" score="76"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <FallOfWicket batsman="7" score="134"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <FallOfWicket batsman="9" score="145"/>
+    <FallOfWicket batsman="10" score="146"/>
+    <BowlerSummary name="Andrew Morgan" overs="8.0" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Anand Subramaniasamy" overs="8.0" maidens="2" runs="34" wickets="1"/>
+    <BowlerSummary name="John Randall" overs="4.0" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Danny Brookman" overs="4.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Adam Brookman" overs="8.0" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Daniel Bavington" overs="8.0" maidens="1" runs="45" wickets="4"/>
+  </Innings>
+  <Innings batting="Knowl Hill 1st XI">
+    <Batsman name="Anand Subramaniasamy">
+      <HowOut how="Caught Venkat Dandamudi"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andrew Morgan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ranganath Deshpande"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="James Stoker">
+      <HowOut how="LBW"/>
+      <Bowler name="Ranganath Deshpande"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Alex Bavington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Amit Puri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tony Stott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ranganath Deshpande"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Daniel Bavington">
+      <HowOut how="Caught Samyajit Talukdar"/>
+      <Bowler name="Ranganath Deshpande"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Adam Brookman">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ian Millson">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Alex Plank">
+      <HowOut how="Caught Gopi Kolluru"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Danny Brookman">
+      <HowOut how="Run Out Kishore Nallapaneni"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Randall">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="2" score="83"/>
+    <FallOfWicket batsman="4" score="89"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="7" score="124"/>
+    <FallOfWicket batsman="9" score="126"/>
+    <FallOfWicket batsman="10" score="133"/>
+    <FallOfWicket batsman="11" score="149"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="6.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7.0" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Kishore Nallapaneni" overs="4.0" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Venkat Dandamudi" overs="4.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Ranganath Deshpande" overs="8.0" maidens="2" runs="14" wickets="4"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="1.0" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Amit Puri" overs="5.0" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="4.1" maidens="0" runs="18" wickets="3"/>
+  </Innings>
+</CricketMatch>

@@ -78,7 +78,7 @@
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Kiran Juluri">
-      <HowOut how="Not Not Out"/>
+      <HowOut how="Retired Not Out"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Adam Henley">

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:41 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/june_12th_stratfield_turgis_hartley_wespall_1st_xi.xml-->
+<CricketMatch oppo="Stratfield Turgis_Hartley Wespall 1st XI" date="Sat Jun 12 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663263">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Ravi Chakrapani"/>
+      <Bowler name="Fasul Nufail"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Azmath Atham"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Ravi Chakrapani"/>
+      <Bowler name="Fasul Nufail"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Rajdeep Das"/>
+      <Bowler name="Azmath Atham"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Fasul Nufail"/>
+      <Bowler name="Tom Clay"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Caught Yakeshwaran Sekar"/>
+      <Bowler name="Gary Cockcroft"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Azmath Atham"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <FallOfWicket batsman="4" score="57"/>
+    <FallOfWicket batsman="5" score="61"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="8" score="163"/>
+    <BowlerSummary name="Gary Cockcroft" overs="8" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Azmath Atham" overs="8" maidens="1" runs="22" wickets="3"/>
+    <BowlerSummary name="Fasul Nufail" overs="5" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Ravi Chakrapani" overs="8" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Tom Clay" overs="6" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Abhishek Kumar Singh" overs="5" maidens="0" runs="40" wickets="0"/>
+  </Innings>
+  <Innings batting="Stratfield Turgis_Hartley Wespall 1st XI">
+    <Batsman name="Gary Cockcroft">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Fasul Nufail">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rajdeep Das">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Abhishek Kumar Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Luke Anthony">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Marc Minikin">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Sridhar Sekaran">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Yakeshwaran Sekar">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ravi Chakrapani">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Azmath Atham">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Tom Clay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oscar Woodbridge"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="3" score="11"/>
+    <FallOfWicket batsman="4" score="11"/>
+    <FallOfWicket batsman="6" score="47"/>
+    <FallOfWicket batsman="5" score="115"/>
+    <FallOfWicket batsman="8" score="115"/>
+    <FallOfWicket batsman="9" score="115"/>
+    <FallOfWicket batsman="7" score="115"/>
+    <FallOfWicket batsman="10" score="173"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="3" runs="32" wickets="3"/>
+    <BowlerSummary name="Christopher Priddle" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="8" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>

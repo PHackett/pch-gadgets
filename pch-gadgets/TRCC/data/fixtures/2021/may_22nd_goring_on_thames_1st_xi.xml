@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:36 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/may_22nd_goring_on_thames_1st_xi.xml-->
+<CricketMatch oppo="Goring on Thames 1st XI" date="Sat May 22 2021 14:15:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663269">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Johann Toerien"/>
+      <Bowler name="Peter Slade"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Stuart Baxter"/>
+      <Bowler name="Jamie Handcock"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ashan Dildar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jamie Handcock"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="LBW"/>
+      <Bowler name="Juan Toerien Jr"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Sher Afgan">
+      <HowOut how="Caught Stuart Baxter"/>
+      <Bowler name="Jamie Handcock"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ali Baxter"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Shaqil Arshad">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Razavullah Shaik">
+      <HowOut how="Run Out George Taylor"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Stumped Rhys Tong-Jones"/>
+      <Bowler name="Juan Toerien Jr"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Ali Baxter" overs="6" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Peter Slade" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Jamie Handcock" overs="6" maidens="0" runs="36" wickets="3"/>
+    <BowlerSummary name="Alfie Gammer-Flitcroft" overs="6" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Juan Toerien Jr" overs="6" maidens="0" runs="34" wickets="2"/>
+  </Innings>
+  <Innings batting="Goring on Thames 1st XI">
+    <Batsman name="Luke Gray">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stuart Baxter">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ali Baxter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Johann Toerien">
+      <HowOut how="Caught Razavullah Shaik"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="George Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="Stephen Wincott">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jamie Handcock">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Slade">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rhys Tong-Jones">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alfie Gammer-Flitcroft">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Juan Toerien Jr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="15"/>
+    <FallOfWicket batsman="4" score="85"/>
+    <BowlerSummary name="Andrew Miller" overs="5" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="3" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="6" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Shaqil Arshad" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Razavullah Shaik" overs="1.1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>

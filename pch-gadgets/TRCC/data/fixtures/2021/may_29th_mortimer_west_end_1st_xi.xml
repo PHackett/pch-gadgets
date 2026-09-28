@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:37 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2021/may_29th_mortimer_west_end_1st_xi.xml-->
+<CricketMatch oppo="Mortimer West End 1st XI" date="Sat May 29 2021 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="4663245">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Mortimer West End 1st XI">
+    <Batsman name="Gavin Stamp">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="William Bray">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="66"/>
+    </Batsman>
+    <Batsman name="Jack Gilbey">
+      <HowOut how="Not Out"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Ben Cape">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Josh Beale">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nick Kingston">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Miles">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mattie Morris">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ashok Singh">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Toby Gilbey">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harrison Macdonald">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="79"/>
+    <FallOfWicket batsman="2" score="140"/>
+    <FallOfWicket batsman="4" score="202"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="2" runs="42" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Mike Longson" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="5" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Toby Gilbey"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught Toby Gilbey"/>
+      <Bowler name="Ashok Singh"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Nick Kingston"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Toby Gilbey"/>
+      <Runs value="80"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Harrison Macdonald"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harrison Macdonald"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Toby Gilbey"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harrison Macdonald"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Harrison Macdonald"/>
+      <Bowler name="Nick Kingston"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Run Out Nick Kingston"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="37"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="2" score="80"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="6" score="92"/>
+    <FallOfWicket batsman="7" score="106"/>
+    <FallOfWicket batsman="8" score="128"/>
+    <FallOfWicket batsman="4" score="184"/>
+    <FallOfWicket batsman="9" score="198"/>
+    <FallOfWicket batsman="10" score="198"/>
+    <BowlerSummary name="Mattie Morris" overs="3.3" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Toby Gilbey" overs="8" maidens="2" runs="24" wickets="3"/>
+    <BowlerSummary name="William Bray" overs="0.3" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Thomas Miles" overs="8" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Nick Kingston" overs="8" maidens="0" runs="39" wickets="2"/>
+    <BowlerSummary name="Harrison Macdonald" overs="8" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Ashok Singh" overs="3" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Jack Gilbey" overs="1" maidens="0" runs="1" wickets="0"/>
+  </Innings>
+</CricketMatch>

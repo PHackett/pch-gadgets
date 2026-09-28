@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 15:23:49 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2021/july_18th_purley_on_thames_sunday_xi.xml-->
+<CricketMatch oppo="Purley on Thames Sunday XI" date="Sun Jul 18 2021 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="4821307">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mike Longson">
+      <HowOut how="Retired Not Out"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsh Kadia"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsh Kadia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Satishreddy Banda"/>
+      <Bowler name="Jeff Hinds"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Matt Hearn"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Retired Not Out"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Will Joby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Hearn"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Hearn"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Hutchins">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kabillesh Thanikasalam">
+      <HowOut how="Run Out Harsh Kadia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsh Kadia"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="19"/>
+    <BowlerSummary name="Jacob Hearn" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Charlie Guy" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Jeff Hinds" overs="8" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Harsh Kadia" overs="8" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Daniel Airey" overs="4" maidens="0" runs="69" wickets="0"/>
+    <BowlerSummary name="Matt Hearn" overs="4.2" maidens="0" runs="7" wickets="3"/>
+  </Innings>
+  <Innings batting="Purley on Thames Sunday XI">
+    <Batsman name="Luke Wilkinson">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Thrived Chowdary">
+      <HowOut how="Caught Paul Hackett"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Satishreddy Banda">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Thomas Leggett"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Sam Harlowe">
+      <HowOut how="Caught Alex Bournat"/>
+      <Bowler name="Kabillesh Thanikasalam"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Derek Clarke">
+      <HowOut how="Run Out Christopher Priddle"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jacob Hearn">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Jeff Hinds">
+      <HowOut how="Run Out Christopher Priddle"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Charlie Guy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Daniel Airey">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Harsh Kadia">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Matt Hearn">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Kabillesh Thanikasalam" overs="8" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="7" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Tom Hutchins" overs="6" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Thomas Leggett" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="3" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
