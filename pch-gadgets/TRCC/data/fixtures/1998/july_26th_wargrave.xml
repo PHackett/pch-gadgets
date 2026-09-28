@@ -33,7 +33,7 @@
     </Batsman>
     <Batsman name="P Norris">
       <HowOut how="Caught M Morris"/>
-      <Bowler name="n Downes"/>
+      <Bowler name="Nic Downes"/>
       <Runs value="9"/>
     </Batsman>
     <Batsman name="A Brinders">
@@ -51,7 +51,7 @@
     <Extras value="10"/>
     <BowlerSummary name="Paul Hackett" overs="12" maidens="2" runs="44" wickets="0"/>
     <BowlerSummary name="Stewart Wren" overs="9" maidens="0" runs="29" wickets="1"/>
-    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="61" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="11" maidens="1" runs="61" wickets="5"/>
     <BowlerSummary name="Matt Morris" overs="4" maidens="0" runs="36" wickets="0"/>
     <BowlerSummary name="Richard Young" overs="4" maidens="0" runs="39" wickets="1"/>
   </Innings>
