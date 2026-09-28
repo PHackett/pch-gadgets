@@ -16,7 +16,7 @@
       <Bowler name="Ellen Tiffin"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught Dan Hare"/>
       <Bowler name="Sidharth Shetty"/>
       <Runs value="7"/>
@@ -88,7 +88,7 @@
     </Batsman>
     <Batsman name="Vivek Sharma">
       <HowOut how="Caught Tom Downes"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="9"/>
     </Batsman>
     <Batsman name="Samarth Shah">
@@ -112,7 +112,7 @@
     </Batsman>
     <Batsman name="Dan Hare">
       <HowOut how="Caught Nagarju Garipelli"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Ellen Tiffin">
@@ -129,7 +129,7 @@
     <BowlerSummary name="Tom Downes" overs="4" maidens="1" runs="14" wickets="0"/>
     <BowlerSummary name="Dylan Burr" overs="6" maidens="1" runs="22" wickets="3"/>
     <BowlerSummary name="Sathesh Polepaka" overs="4" maidens="0" runs="15" wickets="1"/>
-    <BowlerSummary name="Chris Priddle" overs="8" maidens="2" runs="20" wickets="2"/>
+    <BowlerSummary name="Christopher Priddle" overs="8" maidens="2" runs="20" wickets="2"/>
     <BowlerSummary name="Spence Nichols" overs="8" maidens="2" runs="23" wickets="4"/>
     <BowlerSummary name="Mike Longson" overs="2" maidens="0" runs="23" wickets="0"/>
   </Innings>

@@ -17,7 +17,7 @@
       <Bowler name="T Vines"/>
       <Runs value="24"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Not Out"/>
       <Runs value="132"/>
     </Batsman>
@@ -98,7 +98,7 @@
     <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="17" wickets="0"/>
     <BowlerSummary name="Will Etheridge" overs="3" maidens="0" runs="20" wickets="1"/>
     <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="21" wickets="0"/>
-    <BowlerSummary name="Chris Priddle" overs="3" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="3" maidens="1" runs="16" wickets="0"/>
     <BowlerSummary name="Neil Lancum" overs="2" maidens="1" runs="6" wickets="1"/>
   </Innings>
 </CricketMatch>

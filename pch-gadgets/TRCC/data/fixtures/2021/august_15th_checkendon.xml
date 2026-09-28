@@ -17,7 +17,7 @@
       <Bowler name="Sunil"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Chris Priddle" keeper="1">
+    <Batsman name="Christopher Priddle" keeper="1">
       <HowOut how="Caught"/>
       <Bowler name="Khamar"/>
       <Runs value="11"/>

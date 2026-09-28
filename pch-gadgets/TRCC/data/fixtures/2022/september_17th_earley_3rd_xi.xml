@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:32 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/september_17th_earley_3rd_xi.xml-->
+<CricketMatch oppo="Earley 3rd XI" date="Sat Sep 17 2022 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5177651">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Earley 3rd XI">
+    <Batsman name="Livingston Sengolraj">
+      <HowOut how="LBW"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nitin Kumar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Sampath Bhamidipati">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hitessh Lingala">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Fazal Farooq">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sairam Bhamidipati">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Kiran Susarla">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ayaz Ahmed">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Deep Singh">
+      <HowOut how="Run Out Ben Nichols"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Girish Nandwani">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mohamed Zayed">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <BowlerSummary name="Ben Ackerman" overs="6" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Ben Nichols" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="5" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="8" maidens="0" runs="30" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="1" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sampath Bhamidipati"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Susarla"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Fazal Farooq"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Girish Nandwani"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Girish Nandwani"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sampath Bhamidipati"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fazal Farooq"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hitessh Lingala"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="LBW"/>
+      <Bowler name="Hitessh Lingala"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Hitessh Lingala"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Sampath Bhamidipati" overs="6" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Mohamed Zayed" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Kiran Susarla" overs="3" maidens="0" runs="2" wickets="1"/>
+    <BowlerSummary name="Deep Singh" overs="3" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Girish Nandwani" overs="5" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Fazal Farooq" overs="4" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Hitessh Lingala" overs="3" maidens="0" runs="9" wickets="3"/>
+    <BowlerSummary name="Ayaz Ahmed" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:29 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/august_28th_hurst_development_(sun)_xi.xml-->
+<CricketMatch oppo="Hurst Development (Sun) XI" date="Sun Aug 28 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5494001">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="James West"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Richard James Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="James Roxburgh-Smith"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="LBW"/>
+      <Bowler name="Steve Morris"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charlotte Clarke"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Lewis Smith"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="James West" overs="5" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Jon Odey" overs="4" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="James Roxburgh-Smith" overs="8" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Mackenzie Keen" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Lewis Smith" overs="8" maidens="0" runs="53" wickets="1"/>
+    <BowlerSummary name="Steve Morris" overs="6" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Jack Odey" overs="3" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Charlotte Clarke" overs="3" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+  <Innings batting="Hurst Development (Sun) XI">
+    <Batsman name="Jon Odey">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Steve Morris">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="James Roxburgh-Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Jack Odey">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Sam Hawkes">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Fynn Ratcliffe">
+      <HowOut how="LBW"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jake Scott">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Mackenzie Keen">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Charlotte Clarke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Lewis Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="6" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="8" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Maaz Salman" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Zack Burr" overs="8" maidens="1" runs="29" wickets="4"/>
+    <BowlerSummary name="Dylan Burr" overs="5" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>

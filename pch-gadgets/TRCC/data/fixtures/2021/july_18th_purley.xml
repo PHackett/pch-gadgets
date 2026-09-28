@@ -31,7 +31,7 @@
       <Bowler name="J Hinds"/>
       <Runs value="6"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Not Out"/>
       <Runs value="70"/>
     </Batsman>
@@ -78,7 +78,7 @@
       <Runs value="22"/>
     </Batsman>
     <Batsman name="T Koki">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Chris Fort"/>
       <Runs value="35"/>
     </Batsman>
@@ -126,6 +126,6 @@
     <BowlerSummary name="Chris Fort" overs="6" maidens="0" runs="21" wickets="2"/>
     <BowlerSummary name="Tom Hutchins" overs="6" maidens="0" runs="33" wickets="0"/>
     <BowlerSummary name="Thomas Leggett" overs="4" maidens="0" runs="24" wickets="1"/>
-    <BowlerSummary name="Chris Priddle" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="3" maidens="0" runs="18" wickets="0"/>
   </Innings>
 </CricketMatch>

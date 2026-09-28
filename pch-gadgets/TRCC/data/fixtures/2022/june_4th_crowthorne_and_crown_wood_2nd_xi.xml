@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:10 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/june_4th_crowthorne_and_crown_wood_2nd_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood 2nd XI" date="Sat Jun 04 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177408">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood 2nd XI">
+    <Batsman name="Dan Finucane">
+      <HowOut how="Caught Samyajit Talukdar"/>
+      <Bowler name="Elliot Jones"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Ant Avrili">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Andrew Baines">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ravi Godbole">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Michael Brundish">
+      <HowOut how="Not Out"/>
+      <Runs value="95"/>
+    </Batsman>
+    <Batsman name="Chris Winch">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zain Abdi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Luke Taylor">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oliver Taylor">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Avinash Singh">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Mansfield">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="106"/>
+    <FallOfWicket batsman="1" score="113"/>
+    <FallOfWicket batsman="3" score="120"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="6" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Ben Nichols" overs="4" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="1.1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6.5" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Elliot Jones" overs="4" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="7" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zain Abdi"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Luke Taylor"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Ant Avrili"/>
+      <Bowler name="Avinash Singh"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Ravi Godbole"/>
+      <Bowler name="Andrew Baines"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Harry Staples">
+      <HowOut how="Run Out Michael Brundish"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Run Out Michael Brundish"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Elliot Jones">
+      <HowOut how="Caught Adam Mansfield"/>
+      <Bowler name="Luke Taylor"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Taylor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Absent"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Absent"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="1" score="94"/>
+    <FallOfWicket batsman="5" score="102"/>
+    <FallOfWicket batsman="4" score="102"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="8" score="114"/>
+    <BowlerSummary name="Oliver Taylor" overs="5" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Avinash Singh" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Adam Mansfield" overs="6" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Zain Abdi" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Luke Taylor" overs="5.2" maidens="2" runs="6" wickets="2"/>
+    <BowlerSummary name="Andrew Baines" overs="3" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+</CricketMatch>

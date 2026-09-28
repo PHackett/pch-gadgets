@@ -63,7 +63,7 @@
     <FallOfWicket batsman="6" score="90"/>
     <BowlerSummary name="Ashan Dildar" overs="4.4" maidens="2" runs="20" wickets="1"/>
     <BowlerSummary name="Akshay Apte" overs="7" maidens="4" runs="20" wickets="3"/>
-    <BowlerSummary name="Chris Priddle" overs="6.2" maidens="1" runs="34" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="6.2" maidens="1" runs="34" wickets="0"/>
     <BowlerSummary name="Rupesh Ahluwalia" overs="5" maidens="1" runs="8" wickets="1"/>
     <BowlerSummary name="Robin Thompson" overs="2" maidens="0" runs="3" wickets="0"/>
   </Innings>
@@ -104,7 +104,7 @@
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Did Not Bat"/>
       <Runs value="0"/>
     </Batsman>

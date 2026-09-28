@@ -57,7 +57,7 @@
     <BowlerSummary name="Oscar Woodbridge" overs="8" maidens="0" runs="54" wickets="2"/>
     <BowlerSummary name="Charlie Scarr" overs="3" maidens="0" runs="23" wickets="0"/>
     <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="29" wickets="1"/>
-    <BowlerSummary name="Chris Priddle" overs="5" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="5" maidens="1" runs="16" wickets="0"/>
     <BowlerSummary name="Thomas Leggett" overs="4" maidens="0" runs="30" wickets="1"/>
     <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="16" wickets="1"/>
   </Innings>
@@ -87,7 +87,7 @@
       <Bowler name="Umer"/>
       <Runs value="9"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="LBW"/>
       <Bowler name="Umer"/>
       <Runs value="16"/>

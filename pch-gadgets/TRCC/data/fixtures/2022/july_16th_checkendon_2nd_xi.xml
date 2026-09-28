@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:19 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/july_16th_checkendon_2nd_xi.xml-->
+<CricketMatch oppo="Checkendon 2nd XI" date="Sat Jul 16 2022 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5177649">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Checkendon 2nd XI">
+    <Batsman name="Kartik Chitta">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Abhinav Kaurav">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nidhin Krishnakumar">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rishabh Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Narayan S J">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Alex Stevenson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Gourav Banerjee">
+      <HowOut how="Run Out Kieran Downes"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Veerendra Kolhar">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rakesh Nair">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Manikandan Rajamani">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vasanth Kumar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="3" score="39"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="1" score="121"/>
+    <FallOfWicket batsman="5" score="130"/>
+    <FallOfWicket batsman="6" score="163"/>
+    <FallOfWicket batsman="7" score="186"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.0" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="5.0" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="4.0" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="6.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="8.0" maidens="0" runs="31" wickets="4"/>
+    <BowlerSummary name="George Brander" overs="4.0" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Run Out Abhinav Kaurav"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Manikandan Rajamani"/>
+      <Bowler name="Rishabh Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Manikandan Rajamani"/>
+      <Bowler name="Rishabh Singh"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="Gourav Banerjee"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Manikandan Rajamani"/>
+      <Bowler name="Vasanth Kumar"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Abhinav Kaurav"/>
+      <Bowler name="Abhinav Kaurav"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Veerendra Kolhar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Veerendra Kolhar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Run Out Nidhin Krishnakumar"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="George Brander">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abhinav Kaurav"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="3" score="25"/>
+    <FallOfWicket batsman="4" score="39"/>
+    <FallOfWicket batsman="5" score="43"/>
+    <FallOfWicket batsman="7" score="53"/>
+    <FallOfWicket batsman="8" score="55"/>
+    <FallOfWicket batsman="9" score="58"/>
+    <FallOfWicket batsman="10" score="70"/>
+    <FallOfWicket batsman="11" score="74"/>
+    <BowlerSummary name="Rishabh Singh" overs="5.0" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Rakesh Nair" overs="4.0" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Gourav Banerjee" overs="5.0" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Vasanth Kumar" overs="5.0" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="Veerendra Kolhar" overs="5.0" maidens="1" runs="11" wickets="2"/>
+    <BowlerSummary name="Abhinav Kaurav" overs="4.5" maidens="1" runs="11" wickets="2"/>
+  </Innings>
+</CricketMatch>

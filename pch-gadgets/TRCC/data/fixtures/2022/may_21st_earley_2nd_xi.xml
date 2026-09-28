@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:07 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/may_21st_earley_2nd_xi.xml-->
+<CricketMatch oppo="Earley 2nd XI" date="Sat May 21 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177417">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ayaz Ahmed"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Livingston Sengolraj"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Run Out Ruchir Bhomia"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Stumped Ranvir Rana"/>
+      <Bowler name="David Mapes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="38"/>
+    <BowlerSummary name="David Mapes" overs="7" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Deep Singh" overs="6" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Binny Zutshi" overs="7" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Ruchir Bhomia" overs="4" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Nitin Kumar" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Ayaz Ahmed" overs="5" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Rahul Sood" overs="3" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Himanshu Tiwari" overs="2" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Earley 2nd XI">
+    <Batsman name="Livingston Sengolraj">
+      <HowOut how="Caught Samyajit Talukdar"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="70"/>
+    </Batsman>
+    <Batsman name="Ranvir Rana">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sandeep Burande">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Ruchir Bhomia">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rahul Sood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Binny Zutshi">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Himanshu Tiwari">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Deep Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nitin Kumar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ayaz Ahmed">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="David Mapes">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="41"/>
+    <BowlerSummary name="Andrew Miller" overs="6" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8" maidens="2" runs="26" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="1" runs="10" wickets="3"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="3" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>

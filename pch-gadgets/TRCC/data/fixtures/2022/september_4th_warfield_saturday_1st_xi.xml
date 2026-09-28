@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:31 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2022/september_4th_warfield_saturday_1st_xi.xml-->
+<CricketMatch oppo="Warfield Saturday 1st XI" date="Sun Sep 04 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177484">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield Saturday 1st XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

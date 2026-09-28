@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:13 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/june_18th_earley_3rd_xi.xml-->
+<CricketMatch oppo="Earley 3rd XI" date="Sat Jun 18 2022 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5177610">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Earley 3rd XI">
+    <Batsman name="Sairam Bhamidipati">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Keshav Bansal">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hitessh Lingala">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sampath Bhamidipati">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Haris Beg">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Nitin Kumar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Praveen Jetti">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Mohamed Zayed">
+      <HowOut how="Run Out Spence Nichols"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Tom Leadbetter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jay Dudakia">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Mapes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Ben Ackerman" overs="6" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="Ben Nichols" overs="8" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Steve Beamish" overs="8" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Hitessh Lingala"/>
+      <Bowler name="Haris Beg"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Staples">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Beamish">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <BowlerSummary name="Praveen Jetti" overs="4" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Haris Beg" overs="5" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Hitessh Lingala" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Sampath Bhamidipati" overs="6" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Nitin Kumar" overs="5.3" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Mohamed Zayed" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>

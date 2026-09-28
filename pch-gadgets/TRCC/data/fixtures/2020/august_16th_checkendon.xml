@@ -19,7 +19,7 @@
     </Batsman>
     <Batsman name="K Chitta">
       <HowOut how="Bowled"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="13"/>
     </Batsman>
     <Batsman name="J Jackson">
@@ -54,7 +54,7 @@
     </Batsman>
     <Batsman name="V Khamer">
       <HowOut how="LBW"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="2"/>
     </Batsman>
     <Batsman name="V Kolhar">
@@ -64,7 +64,7 @@
     <Extras value="4"/>
     <BowlerSummary name="Paul Hackett" overs="4" maidens="2" runs="16" wickets="1"/>
     <BowlerSummary name="Andrew Miller" overs="6" maidens="1" runs="10" wickets="3"/>
-    <BowlerSummary name="Chris Priddle" overs="7" maidens="1" runs="21" wickets="2"/>
+    <BowlerSummary name="Christopher Priddle" overs="7" maidens="1" runs="21" wickets="2"/>
     <BowlerSummary name="Joe Downes" overs="2.1" maidens="0" runs="6" wickets="4"/>
   </Innings>
   <Innings batting="Twyford">
@@ -91,7 +91,7 @@
       <HowOut how="Not Out"/>
       <Runs value="9"/>
     </Batsman>
-    <Batsman name="Chris Priddle"/>
+    <Batsman name="Christopher Priddle"/>
     <Batsman name="Andrew Miller"/>
     <Batsman name="Hugh Fort"/>
     <Batsman name="Joe Downes"/>

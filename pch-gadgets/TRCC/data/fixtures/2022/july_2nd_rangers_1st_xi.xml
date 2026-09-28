@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:17 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/july_2nd_rangers_1st_xi.xml-->
+<CricketMatch oppo="Rangers 1st XI" date="Sat Jul 02 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177479">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Rangers 1st XI">
+    <Batsman name="Rajiv Dhallam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mukesh Adwani">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Atul Rana">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Amit Puri">
+      <HowOut how="LBW"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Farooq Hussain">
+      <HowOut how="LBW"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="Rajnish Singh">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rangnath Deshpande">
+      <HowOut how="Run Out Adam Henley"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Karun Pathak">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Prem Yadav">
+      <HowOut how="LBW"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Harsha Shastry">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Mohan">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="4" score="38"/>
+    <FallOfWicket batsman="3" score="64"/>
+    <FallOfWicket batsman="6" score="109"/>
+    <FallOfWicket batsman="5" score="222"/>
+    <FallOfWicket batsman="8" score="226"/>
+    <FallOfWicket batsman="9" score="238"/>
+    <FallOfWicket batsman="7" score="244"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="8.0" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8.0" maidens="0" runs="55" wickets="4"/>
+    <BowlerSummary name="Andrew Miller" overs="8.0" maidens="1" runs="44" wickets="2"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="4.0" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Prashanth Juluri" overs="1.0" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Kiran Siddineni" overs="3.0" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught Karun Pathak"/>
+      <Bowler name="Rangnath Deshpande"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Karun Pathak"/>
+      <Bowler name="Harsha Shastry"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Rajnish Singh"/>
+      <Bowler name="Amit Puri"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Rangnath Deshpande"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Amit Puri"/>
+      <Bowler name="Rangnath Deshpande"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="LBW"/>
+      <Bowler name="Karun Pathak"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Venkat Mohan"/>
+      <Bowler name="Amit Puri"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="4" score="97"/>
+    <FallOfWicket batsman="1" score="114"/>
+    <FallOfWicket batsman="5" score="118"/>
+    <FallOfWicket batsman="6" score="154"/>
+    <FallOfWicket batsman="7" score="236"/>
+    <BowlerSummary name="Prem Yadav" overs="6.0" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Farooq Hussain" overs="3.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Karun Pathak" overs="8.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Harsha Shastry" overs="8.0" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Amit Puri" overs="5.0" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Rangnath Deshpande" overs="5.0" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Venkat Mohan" overs="5.0" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+</CricketMatch>

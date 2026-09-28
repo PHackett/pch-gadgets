@@ -8,7 +8,7 @@
   <MatchReport/><CountsToStats/>
   <Innings batting="Reading University Alumni">
     <Batsman name="Eagle">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="9"/>
     </Batsman>
@@ -48,7 +48,7 @@
     </Batsman>
     <Batsman name="Taimur">
       <HowOut how="Bowled"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="53"/>
     </Batsman>
     <Batsman name="Tranter">
@@ -64,7 +64,7 @@
     <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="26" wickets="2"/>
     <BowlerSummary name="Manan Narula" overs="5" maidens="1" runs="25" wickets="3"/>
     <BowlerSummary name="Max Hitchings" overs="2" maidens="0" runs="20" wickets="0"/>
-    <BowlerSummary name="Chris Priddle" overs="5" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="5" maidens="0" runs="22" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
     <Batsman name="Manan Narula">
@@ -91,7 +91,7 @@
       <Bowler name="Kumar"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Bowled"/>
       <Bowler name="Zia"/>
       <Runs value="41"/>

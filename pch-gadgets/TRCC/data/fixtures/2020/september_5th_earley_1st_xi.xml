@@ -26,7 +26,7 @@
       <Bowler name="Deep Singh"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught Unsure"/>
       <Bowler name="Tom Thompson"/>
       <Runs value="76"/>
@@ -106,7 +106,7 @@
     </Batsman>
     <Batsman name="Vish Shende">
       <HowOut how="Bowled"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="12"/>
     </Batsman>
     <Batsman name="Deep Singh">
@@ -128,7 +128,7 @@
     <BowlerSummary name="Sathesh Polepaka" overs="6" maidens="0" runs="31" wickets="2"/>
     <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="1" runs="24" wickets="0"/>
     <BowlerSummary name="Kishore Nallapaneni" overs="6" maidens="0" runs="21" wickets="1"/>
-    <BowlerSummary name="Chris Priddle" overs="1.3" maidens="0" runs="5" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="1.3" maidens="0" runs="5" wickets="1"/>
     <BowlerSummary name="Robin Thompson" overs="1" maidens="1" runs="0" wickets="1"/>
   </Innings>
 </CricketMatch>

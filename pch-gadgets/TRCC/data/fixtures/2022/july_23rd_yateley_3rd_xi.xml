@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:21 +01:00 (BST)-->
+<!--Result = Yateley 3rd XI Conceded-->
+<!--XMLFilename = 2022/july_23rd_yateley_3rd_xi.xml-->
+<CricketMatch oppo="Yateley 3rd XI" date="Sat Jul 23 2022 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5177674">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Yateley 3rd XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

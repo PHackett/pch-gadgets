@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:03 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/april_30th_holyport_2nd_xi.xml-->
+<CricketMatch oppo="Holyport 2nd XI" date="Sat Apr 30 2022 13:30:00 +01:00 (BST)" matchType="Friendly" team="2nd XI" playCricketId="5354986">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Tristan Head"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Hashim Sulaman"/>
+      <Bowler name="Kester Banks"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kester Banks"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hashim Sulaman"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Tim Hayes"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="Tim Hayes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Richard Barber"/>
+      <Bowler name="Tim Hayes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Run Out Hashim Sulaman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Ian Caskie"/>
+      <Bowler name="Tristan Head"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tristan Head"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Kester Banks" overs="6" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Ian Caskie" overs="4" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Tristan Head" overs="5.2" maidens="0" runs="13" wickets="3"/>
+    <BowlerSummary name="Hashim Sulaman" overs="4" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Richard Barber" overs="4" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Daniel Head" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Tim Hayes" overs="6" maidens="1" runs="23" wickets="2"/>
+  </Innings>
+  <Innings batting="Holyport 2nd XI">
+    <Batsman name="Chris Smith">
+      <HowOut how="LBW"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Archie Gadeke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Amar Mahmood">
+      <HowOut how="LBW"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Richard Barber">
+      <HowOut how="Caught Srimahesh Tummalapenta"/>
+      <Bowler name="Sandeep Pallithumbil"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kester Banks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tristan Head">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hashim Sulaman">
+      <HowOut how="Caught Nagarju Garipelli"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Tim Hayes">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Srimahesh Tummalapenta"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Daniel Head">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Caskie">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="5" score="14"/>
+    <FallOfWicket batsman="6" score="51"/>
+    <FallOfWicket batsman="7" score="63"/>
+    <FallOfWicket batsman="4" score="99"/>
+    <FallOfWicket batsman="9" score="99"/>
+    <FallOfWicket batsman="8" score="128"/>
+    <FallOfWicket batsman="10" score="128"/>
+    <BowlerSummary name="Andrew Miller" overs="4" maidens="2" runs="5" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="5" maidens="3" runs="3" wickets="3"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="4" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Ben Nichols" overs="5" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="5" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="6" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Kiran Siddineni" overs="2.1" maidens="0" runs="4" wickets="2"/>
+  </Innings>
+</CricketMatch>

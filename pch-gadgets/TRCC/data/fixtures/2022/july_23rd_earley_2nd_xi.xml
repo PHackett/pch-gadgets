@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:20 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/july_23rd_earley_2nd_xi.xml-->
+<CricketMatch oppo="Earley 2nd XI" date="Sat Jul 23 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177477">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rahul Sood"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rahul Sood"/>
+      <Runs value="95"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Ayaz Ahmed"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruchir Bhomia"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruchir Bhomia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ruchir Bhomia"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Syed Zaki"/>
+      <Bowler name="Ayaz Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="145"/>
+    <FallOfWicket batsman="2" score="173"/>
+    <FallOfWicket batsman="4" score="183"/>
+    <FallOfWicket batsman="5" score="183"/>
+    <FallOfWicket batsman="6" score="183"/>
+    <FallOfWicket batsman="7" score="184"/>
+    <FallOfWicket batsman="3" score="224"/>
+    <BowlerSummary name="David Mapes" overs="6.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Steven Mapes" overs="7.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Ayaz Ahmed" overs="8.0" maidens="1" runs="49" wickets="2"/>
+    <BowlerSummary name="Ruchir Bhomia" overs="8.0" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="Rahul Sood" overs="6.0" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Nitin Kumar" overs="4.0" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Waqas Jadoon" overs="1.0" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Earley 2nd XI">
+    <Batsman name="Livingston Sengolraj">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ruchir Bhomia">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Sairam Bhamidipati">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Nitin Kumar">
+      <HowOut how="Run Out Kiran Juluri"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Rahul Sood">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Syed Zaki">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ahtesham Abbasi">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Waqas Jadoon">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ayaz Ahmed">
+      <HowOut how="Stumped Adam Henley"/>
+      <Bowler name="Tom Bielich"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="David Mapes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steven Mapes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="43"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="2" score="78"/>
+    <FallOfWicket batsman="4" score="108"/>
+    <FallOfWicket batsman="5" score="113"/>
+    <FallOfWicket batsman="6" score="123"/>
+    <FallOfWicket batsman="7" score="125"/>
+    <FallOfWicket batsman="8" score="129"/>
+    <FallOfWicket batsman="9" score="174"/>
+    <FallOfWicket batsman="3" score="175"/>
+    <BowlerSummary name="Ben Nichols" overs="7.0" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="4.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="6.0" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.0" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="4.0" maidens="1" runs="14" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="4.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Tom Bielich" overs="2.0" maidens="0" runs="13" wickets="1"/>
+  </Innings>
+</CricketMatch>

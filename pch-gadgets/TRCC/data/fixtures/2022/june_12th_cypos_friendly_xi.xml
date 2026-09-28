@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:12 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/june_12th_cypos_friendly_xi.xml-->
+<CricketMatch oppo="Cypos Friendly XI" date="Sun Jun 12 2022 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5329327">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Abhishek Chatterjee"/>
+      <Bowler name="Fraser Montgomery"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Umesh Solanki"/>
+      <Bowler name="Umesh Solanki"/>
+      <Runs value="58"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Perinpanayagam Thileepan"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Alex Bournat">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fraser Montgomery"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Cyrus Azarmgin"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="LBW"/>
+      <Bowler name="Cyrus Azarmgin"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Umesh Solanki"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Tom Burrows">
+      <HowOut how="Bowled"/>
+      <Bowler name="Munish Sharma"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Caught Cyrus Azarmgin"/>
+      <Bowler name="Munish Sharma"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Kaz Siddiqui"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Fraser Montgomery" overs="8" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Perinpanayagam Thileepan" overs="6" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Rajiv Paul" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Umesh Solanki" overs="6" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Cyrus Azarmgin" overs="2" maidens="0" runs="14" wickets="2"/>
+    <BowlerSummary name="Munish Sharma" overs="4" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Kaz Siddiqui" overs="3" maidens="0" runs="2" wickets="1"/>
+    <BowlerSummary name="Amit Gupta" overs="1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Cypos Friendly XI">
+    <Batsman name="Abhishek Chatterjee">
+      <HowOut how="Caught Tom Burrows"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Charlie Willis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Burrows"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Cyrus Azarmgin">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Kaz Siddiqui">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Amit Gupta">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Vivek Sharma">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajiv Paul">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Umesh Solanki">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Munish Sharma">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fraser Montgomery">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Perinpanayagam Thileepan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Tom Burrows" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Zack Burr" overs="5" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="4" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="3" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>

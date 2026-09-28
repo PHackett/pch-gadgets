@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:33 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/september_24th_goring_on_thames_friendly_xi.xml-->
+<CricketMatch oppo="Goring on Thames Friendly XI" date="Sat Sep 24 2022 12:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5499597">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Myro Nel"/>
+      <Bowler name="Max McGee"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Max McGee"/>
+      <Bowler name="Ben Rumble"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alfie Gammer-Flitcroft"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="Caught Rhys Tong-Jones"/>
+      <Bowler name="Alfie Gammer-Flitcroft"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Max McGee"/>
+      <Bowler name="Alfie Gammer-Flitcroft"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Max McGee"/>
+      <Bowler name="Joe Richards"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Winston Proctor-Sims"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Caught George Taylor"/>
+      <Bowler name="Ben Rumble"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Steve Rumble"/>
+      <Bowler name="Peter Slade"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Ben Rumble" overs="7" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Winston Proctor-Sims" overs="5" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Alfie Gammer-Flitcroft" overs="6" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Peter Slade" overs="6" maidens="0" runs="20" wickets="1"/>
+    <BowlerSummary name="Max McGee" overs="3" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Rhys Tong-Jones" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Joe Richards" overs="3" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="George Taylor" overs="1" maidens="0" runs="1" wickets="0"/>
+    <BowlerSummary name="Myro Nel" overs="1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Goring on Thames Friendly XI">
+    <Batsman name="Myro Nel">
+      <HowOut how="Caught Maaz Salman"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Rhys Tong-Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Winston Proctor-Sims">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="George Taylor">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Max McGee">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Joe Richards">
+      <HowOut how="Run Out Samyajit Talukdar"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="William Slade">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ben Rumble">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Alfie Gammer-Flitcroft">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Rumble">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Peter Slade">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Ben Ackerman" overs="7" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7" maidens="2" runs="17" wickets="3"/>
+    <BowlerSummary name="Andrew Miller" overs="2.1" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Maaz Salman" overs="6" maidens="2" runs="18" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6" maidens="1" runs="47" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6" maidens="2" runs="20" wickets="1"/>
+  </Innings>
+</CricketMatch>

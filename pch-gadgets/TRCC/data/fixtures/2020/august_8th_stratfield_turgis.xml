@@ -17,12 +17,12 @@
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Ian Rogers" keeper="1">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Dylan Burr"/>
       <Runs value="16"/>
     </Batsman>
     <Batsman name="Dan Weller-Evans">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Kishore Nallapaneni"/>
       <Runs value="25"/>
     </Batsman>
@@ -42,26 +42,26 @@
     </Batsman>
     <Batsman name="Neil Girle">
       <HowOut how="Bowled"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="6"/>
     </Batsman>
     <Batsman name="Laurie Figzal">
       <HowOut how="LBW"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="Craig Strudley">
       <HowOut how="Bowled"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="4"/>
     </Batsman>
     <Batsman name="Ben Weller Evans" captain="1">
       <HowOut how="Bowled"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="0"/>
     </Batsman>
     <Extras value="28"/>
-    <BowlerSummary name="Chris Priddle" overs="7" maidens="0" runs="40" wickets="4"/>
+    <BowlerSummary name="Christopher Priddle" overs="7" maidens="0" runs="40" wickets="4"/>
     <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="20" wickets="1"/>
     <BowlerSummary name="Sathesh Polepaka" overs="5" maidens="2" runs="13" wickets="0"/>
     <BowlerSummary name="Dylan Burr" overs="4" maidens="0" runs="21" wickets="1"/>
@@ -90,7 +90,7 @@
       <Bowler name="William Toosey"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught Unsure"/>
       <Bowler name="Laurie Figzal"/>
       <Runs value="36"/>

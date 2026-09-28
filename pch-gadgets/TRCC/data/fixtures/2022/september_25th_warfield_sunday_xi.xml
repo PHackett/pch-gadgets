@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:34 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/september_25th_warfield_sunday_xi.xml-->
+<CricketMatch oppo="Warfield Sunday XI" date="Sun Sep 25 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5290172">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield Sunday XI">
+    <Batsman name="Madhav Kalli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Vatsa Kalli">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Sivendran Sivapalan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Vamshi Lingala">
+      <HowOut how="Caught Ben Gilbert"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Dan Torry">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Ed Peate">
+      <HowOut how="Caught Ben Gilbert"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Graham Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Alex Gulliver">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Edward Gulliver">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Bolam">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Witney">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="72"/>
+    <FallOfWicket batsman="2" score="98"/>
+    <FallOfWicket batsman="4" score="149"/>
+    <FallOfWicket batsman="3" score="162"/>
+    <FallOfWicket batsman="6" score="166"/>
+    <FallOfWicket batsman="" score="217"/>
+    <BowlerSummary name="Ben Nichols" overs="6" maidens="1" runs="38" wickets="0"/>
+    <BowlerSummary name="Kavi Ghai" overs="4" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="7" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="7" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="5" maidens="0" runs="25" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Gulliver"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Bolam"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Sivendran Sivapalan"/>
+      <Bowler name="Edward Gulliver"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Witney"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Sivendran Sivapalan"/>
+      <Bowler name="Graham Morris"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Caught Dan Torry"/>
+      <Bowler name="Graham Morris"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Edward Gulliver"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught Madhav Kalli"/>
+      <Bowler name="Edward Gulliver"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="37"/>
+    <BowlerSummary name="Chris Bolam" overs="7" maidens="3" runs="15" wickets="1"/>
+    <BowlerSummary name="Alex Gulliver" overs="7" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Ed Peate" overs="4" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Madhav Kalli" overs="3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Harry Witney" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Graham Morris" overs="2" maidens="0" runs="11" wickets="2"/>
+    <BowlerSummary name="Edward Gulliver" overs="5" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Dan Torry" overs="1" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Sivendran Sivapalan" overs="1" maidens="0" runs="3" wickets="0"/>
+    <BowlerSummary name="Vatsa Kalli" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>

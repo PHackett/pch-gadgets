@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:33 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/september_18th_rangers_friendly_xi.xml-->
+<CricketMatch oppo="Rangers Friendly XI" date="Sun Sep 18 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5354142">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Not Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Aman Sharma"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Niraj Kumar"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="109"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="35"/>
+    <BowlerSummary name="Sumaan Ansari" overs="5" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Niraj Kumar" overs="6" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Pavan Nargund" overs="7" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Venkat Mohan" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Parvinder Singh" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Harsha Shastry" overs="7" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Aman Sharma" overs="3" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Karun Pathak" overs="3" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Bhaskar Bandaru" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Rangers Friendly XI">
+    <Batsman name="Karun Pathak">
+      <HowOut how="LBW"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Bhaskar Bandaru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Pavan Nargund">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Aman Sharma">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rao Burugula">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Parvinder Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Christopher Priddle"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Niraj Kumar">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sumaan Ansari">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Mohan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harsha Shastry">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Raghuveer X">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="56"/>
+    <BowlerSummary name="Ben Ackerman" overs="5" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Ben Nichols" overs="8" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="Neil Lancum" overs="3" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="8" maidens="1" runs="47" wickets="3"/>
+    <BowlerSummary name="Christopher Priddle" overs="5.5" maidens="1" runs="31" wickets="1"/>
+  </Innings>
+</CricketMatch>

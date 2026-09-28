@@ -47,7 +47,8 @@ HOW_OUT_MAP = {
     'run out': 'Run Out',
     'st': 'Stumped',
     'hit wicket': 'Hit Wicket',
-    'timed out': 'Timed Out'
+    'timed out': 'Timed Out',
+    'absent': 'Absent'
 }
 
 
@@ -67,6 +68,17 @@ def clean_name(name):
     name = name.replace(',', '_')
     name = name.replace('__', '_')
     return name
+
+
+def remove_duplicate_words(name):
+    words = []
+    seen_words = set()
+    for word in name.split():
+        normalized_word = word.casefold()
+        if normalized_word not in seen_words:
+            words.append(word)
+            seen_words.add(normalized_word)
+    return ' '.join(words)
 
 
 def clean_filename_part(text):
@@ -164,6 +176,8 @@ def convert(match_id, api_token, json_source=None, save_json=False):
         oppo = f"{oppo} {match['home_team_name']}"
         trcc_id = match['away_team_id']
         oppo_id = match['home_team_id']
+
+    oppo = remove_duplicate_words(oppo)
 
     # Get match date
     match_time = match['match_time'] or '13:00'

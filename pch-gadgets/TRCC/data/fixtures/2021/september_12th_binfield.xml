@@ -9,7 +9,7 @@
   <Innings batting="Binfield">
     <Batsman name="T Nower">
       <HowOut how="Caught Keeper"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="65"/>
     </Batsman>
     <Batsman name="D Slaughter">
@@ -32,7 +32,7 @@
       <Runs value="27"/>
     </Batsman>
     <Batsman name="T Williams">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Sam Staples"/>
       <Runs value="2"/>
     </Batsman>
@@ -55,7 +55,7 @@
     <BowlerSummary name="Joe Downes" overs="8" maidens="2" runs="38" wickets="1"/>
     <BowlerSummary name="Will Etheridge" overs="5" maidens="0" runs="27" wickets="0"/>
     <BowlerSummary name="Manan Narula" overs="4" maidens="0" runs="27" wickets="0"/>
-    <BowlerSummary name="Chris Priddle" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="4" maidens="0" runs="24" wickets="1"/>
     <BowlerSummary name="Sam Staples" overs="6" maidens="0" runs="28" wickets="2"/>
     <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="36" wickets="1"/>
     <BowlerSummary name="Charlie Scarr" overs="2" maidens="0" runs="14" wickets="0"/>
@@ -76,7 +76,7 @@
       <Bowler name="M Wade"/>
       <Runs value="12"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Stumped"/>
       <Bowler name="M Potter"/>
       <Runs value="34"/>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:22 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/july_30th_woodcote_2nd_xi.xml-->
+<CricketMatch oppo="Woodcote 2nd XI" date="Sat Jul 30 2022 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5177656">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodcote 2nd XI">
+    <Batsman name="Simon Fuller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Crawford Anderson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Martin Paige">
+      <HowOut how="Stumped Marc Teal"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Jez Mayo">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Rakesh Nair">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Stefan Gordon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Rowan Austin">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Billy Bowden">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Neil McDougall">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="William Gordon">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Calum Ahmed">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <BowlerSummary name="Ben Nichols" overs="7" maidens="0" runs="17" wickets="3"/>
+    <BowlerSummary name="Archie Siveter" overs="6" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Maaz Salman" overs="8" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Kavi Ghai" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Abhigyan Sharma" overs="3" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Rakesh Nair"/>
+      <Bowler name="Rowan Austin"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Billy Bowden"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Neil McDougall"/>
+      <Bowler name="Jez Mayo"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Archie Siveter">
+      <HowOut how="Caught Neil McDougall"/>
+      <Bowler name="Jez Mayo"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Harry Staples">
+      <HowOut how="Run Out Simon Fuller"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Neil McDougall"/>
+      <Bowler name="Jez Mayo"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Abhigyan Sharma">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jez Mayo"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Caught Rowan Austin"/>
+      <Bowler name="Rowan Austin"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Billy Bowden"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Run Out Stefan Gordon"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="5" score="63"/>
+    <FallOfWicket batsman="6" score="81"/>
+    <BowlerSummary name="Rowan Austin" overs="8" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Rakesh Nair" overs="8.0" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Billy Bowden" overs="6" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Jez Mayo" overs="8" maidens="0" runs="43" wickets="4"/>
+    <BowlerSummary name="Calum Ahmed" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Stefan Gordon" overs="7.5" maidens="0" runs="50" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:22 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/july_30th_woodley_cc__berks_1st_xi.xml-->
+<CricketMatch oppo="Woodley CC_ Berks 1st XI" date="Sat Jul 30 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177465">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodley CC_ Berks 1st XI">
+    <Batsman name="Amol Lotke">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Yadavendra Natu">
+      <HowOut how="Run Out Kiran Juluri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Asad Imam">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Naveed Asghar">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pradeep Kadloor">
+      <HowOut how="Caught Pete Schofield"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Sagar Tummalapalli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Prasad Kulkarni">
+      <HowOut how="Run Out Andrew Miller"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Vibhu Sinha">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Shankar Khatri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ajay Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Adityan Balaji">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="53"/>
+    <FallOfWicket batsman="2" score="39"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="7.0" maidens="0" runs="46" wickets="2"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="7.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="0" runs="48" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Ajay Singh"/>
+      <Bowler name="Ajay Singh"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Pete Schofield">
+      <HowOut how="Caught Prasad Kulkarni"/>
+      <Bowler name="Ajay Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Naveed Asghar"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Naveed Asghar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sagar Tummalapalli"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ajay Singh"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Run Out Amol Lotke"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Prasad Kulkarni"/>
+      <Bowler name="Ajay Singh"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sagar Tummalapalli"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="Ajay Singh" overs="8" maidens="0" runs="33" wickets="4"/>
+    <BowlerSummary name="Asad Imam" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Pradeep Kadloor" overs="8" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Naveed Asghar" overs="8" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Sagar Tummalapalli" overs="7" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Adityan Balaji" overs="6" maidens="0" runs="38" wickets="0"/>
+  </Innings>
+</CricketMatch>

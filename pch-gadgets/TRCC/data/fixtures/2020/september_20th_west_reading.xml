@@ -37,7 +37,7 @@
       <Bowler name="Sultan Khan"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught"/>
       <Bowler name="Hazma Ahmed"/>
       <Runs value="18"/>
@@ -97,7 +97,7 @@
     <Extras value="26"/>
     <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="13" wickets="0"/>
     <BowlerSummary name="Will Etheridge" overs="4" maidens="0" runs="29" wickets="1"/>
-    <BowlerSummary name="Chris Priddle" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="2" maidens="0" runs="16" wickets="0"/>
     <BowlerSummary name="Sam Staples" overs="3" maidens="0" runs="12" wickets="0"/>
     <BowlerSummary name="Stuart Barrable" overs="4" maidens="0" runs="33" wickets="0"/>
     <BowlerSummary name="Neil Lancum" overs="4" maidens="0" runs="18" wickets="1"/>

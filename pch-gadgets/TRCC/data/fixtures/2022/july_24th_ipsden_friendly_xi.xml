@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:21 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/july_24th_ipsden_friendly_xi.xml-->
+<CricketMatch oppo="Ipsden Friendly XI" date="Sun Jul 24 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5329333">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Pete Schofield">
+      <HowOut how="Bowled"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="M Hughesden"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Withers"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Withers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="J Withers"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="I Syed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="J Fanstone"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Jonathon Low">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Matt Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Fanstone"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="38"/>
+    <FallOfWicket batsman="1" score="110"/>
+    <FallOfWicket batsman="4" score="115"/>
+    <FallOfWicket batsman="5" score="149"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="3" score="157"/>
+    <FallOfWicket batsman="7" score="217"/>
+    <FallOfWicket batsman="9" score="220"/>
+    <BowlerSummary name="J Fanstone" overs="8" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="M Hughesden" overs="8" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="D Houseman" overs="4" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="J Withers" overs="8" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="I Syed" overs="8" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="W Simpson" overs="4" maidens="0" runs="28" wickets="0"/>
+  </Innings>
+  <Innings batting="Ipsden Friendly XI">
+    <Batsman name="Charlie Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="M Andrews">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="97"/>
+    </Batsman>
+    <Batsman name="J Church">
+      <HowOut how="Bowled"/>
+      <Bowler name="Matt Berry"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="D Houseman">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="I Syed">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Withers">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="W Simpson">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="J Fanstone">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="I Fanstone">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Hughesden">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="8" maidens="2" runs="30" wickets="4"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="0" runs="53" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Matt Berry" overs="8" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Neil Lancum" overs="8" maidens="0" runs="47" wickets="0"/>
+  </Innings>
+</CricketMatch>

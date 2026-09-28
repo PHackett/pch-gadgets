@@ -1,50 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!-- Generated on Mon Sep 05 2022 11:41:02 GMT+0100 (British Summer Time) -->
-<!-- To set the keeper add 'keeper=&quot;1&quot;' to the relevant batter -->
-<!-- To mark the game as not counting towards stats add notforstats=&quot;true&quot; to &lt;CricketMatch&gt; -->
-<!-- Result = Win -->
-<!-- XMLFilename = 2022/september_4th_warfield.xml -->
-<CricketMatch oppo="Warfield" date="Sun Sep 04 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
-  <MatchReport/><CountsToStats/>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:30 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/september_4th_warfield_sunday_xi.xml-->
+<CricketMatch oppo="Warfield Sunday XI" date="Sun Sep 04 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5496280">
+  <MatchReport/>
+  <CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="Tom Powell">
+    <Batsman name="Thomas Powell">
       <HowOut how="Bowled"/>
-      <Bowler name="Peate"/>
+      <Bowler name="Ed Peate"/>
       <Runs value="21"/>
     </Batsman>
     <Batsman name="Maaz Salman">
       <HowOut how="Bowled"/>
-      <Bowler name="Bolam"/>
+      <Bowler name="Chris Bolam"/>
       <Runs value="1"/>
     </Batsman>
     <Batsman name="Joe Downes">
       <HowOut how="Bowled"/>
-      <Bowler name="Morris"/>
+      <Bowler name="Graham Morris"/>
       <Runs value="38"/>
     </Batsman>
     <Batsman name="Tom Downes">
-      <HowOut how="Caught Keeper"/>
-      <Bowler name="Peate"/>
+      <HowOut how="Caught Ethan Whitby"/>
+      <Bowler name="Ed Peate"/>
       <Runs value="23"/>
     </Batsman>
     <Batsman name="Ben Nichols">
       <HowOut how="Bowled"/>
-      <Bowler name="Peate"/>
+      <Bowler name="Ed Peate"/>
       <Runs value="3"/>
     </Batsman>
     <Batsman name="Hugh Fort">
       <HowOut how="Bowled"/>
-      <Bowler name="Guliver"/>
+      <Bowler name="Alex Gulliver"/>
       <Runs value="17"/>
     </Batsman>
     <Batsman name="Neil Lancum">
-      <HowOut how="Caught"/>
-      <Bowler name="Morris"/>
+      <HowOut how="Caught Andrew Douglas"/>
+      <Bowler name="Graham Morris"/>
       <Runs value="36"/>
     </Batsman>
-    <Batsman name="Ben Gilbert" keeper="1">
+    <Batsman name="Ben Gilbert">
       <HowOut how="Bowled"/>
-      <Bowler name="Morris"/>
+      <Bowler name="Graham Morris"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="Chris Fort">
@@ -55,7 +54,10 @@
       <HowOut how="Not Out"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Paul Hackett"/>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
     <Extras value="12"/>
     <FallOfWicket batsman="2" score="14"/>
     <FallOfWicket batsman="1" score="63"/>
@@ -65,66 +67,66 @@
     <FallOfWicket batsman="6" score="112"/>
     <FallOfWicket batsman="8" score="154"/>
     <FallOfWicket batsman="7" score="169"/>
-    <BowlerSummary name="Bolam" overs="7" maidens="2" runs="26" wickets="1"/>
-    <BowlerSummary name="N Jones" overs="5" maidens="1" runs="18" wickets="0"/>
-    <BowlerSummary name="Morris" overs="7" maidens="2" runs="24" wickets="3"/>
-    <BowlerSummary name="Peate" overs="7" maidens="1" runs="25" wickets="3"/>
-    <BowlerSummary name="Guliver" overs="5" maidens="0" runs="30" wickets="1"/>
-    <BowlerSummary name="Klesel" overs="1" maidens="0" runs="19" wickets="0"/>
-    <BowlerSummary name="H Whitley" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Chris Bolam" overs="7.0" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Neil Jones" overs="5.0" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Graham Morris" overs="7.0" maidens="2" runs="23" wickets="3"/>
+    <BowlerSummary name="Ed Peate" overs="7.0" maidens="0" runs="25" wickets="3"/>
+    <BowlerSummary name="Alex Gulliver" overs="5.0" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Ed Klesel" overs="2.0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Harry Witney" overs="2.0" maidens="0" runs="24" wickets="0"/>
   </Innings>
-  <Innings batting="Warfield">
-    <Batsman name="Macky">
-      <HowOut how="Caught Keeper"/>
+  <Innings batting="Warfield Sunday XI">
+    <Batsman name="Graham Morris">
+      <HowOut how="Caught Ben Gilbert"/>
       <Bowler name="Paul Hackett"/>
-      <Runs value="2"/>
-    </Batsman>
-    <Batsman name="Morris">
-      <HowOut how="Caught Joe Downes"/>
-      <Bowler name="Ben Nichols"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Douglas">
+    <Batsman name="Mohideen Mubarak">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Douglas">
       <HowOut how="Bowled"/>
       <Bowler name="Ben Nichols"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Sham">
-      <HowOut how="Caught Keeper"/>
+    <Batsman name="Shamail Gulam">
+      <HowOut how="Caught Ben Gilbert"/>
       <Bowler name="Paul Hackett"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Bolam">
+    <Batsman name="Chris Bolam">
       <HowOut how="Bowled"/>
       <Bowler name="Ben Nichols"/>
       <Runs value="1"/>
     </Batsman>
-    <Batsman name="H Whitley">
-      <HowOut how="Caught Tom Powell"/>
+    <Batsman name="Ethan Whitby">
+      <HowOut how="Caught Thomas Powell"/>
       <Bowler name="Ben Nichols"/>
       <Runs value="0"/>
     </Batsman>
-    <Batsman name="Peate">
+    <Batsman name="Ed Peate">
       <HowOut how="Not Out"/>
       <Runs value="16"/>
     </Batsman>
-    <Batsman name="Guliver">
+    <Batsman name="Alex Gulliver">
       <HowOut how="Caught Tom Downes"/>
       <Bowler name="Chris Fort"/>
       <Runs value="2"/>
     </Batsman>
-    <Batsman name="Klesel">
+    <Batsman name="Ed Klesel">
       <HowOut how="Bowled"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="8"/>
     </Batsman>
-    <Batsman name="N Jones">
+    <Batsman name="Neil Jones">
       <HowOut how="Bowled"/>
       <Bowler name="Spence Nichols"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="N Whitley">
-      <HowOut how="Caught &amp; Bowled"/>
+    <Batsman name="Harry Witney">
+      <HowOut how="Caught Tom Downes"/>
       <Bowler name="Tom Downes"/>
       <Runs value="2"/>
     </Batsman>

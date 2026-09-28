@@ -37,7 +37,7 @@
       <Bowler name="Payne"/>
       <Runs value="32"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught"/>
       <Bowler name="Bell"/>
       <Runs value="2"/>
@@ -80,11 +80,11 @@
     </Batsman>
     <Batsman name="P Hansra">
       <HowOut how="LBW"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="10"/>
     </Batsman>
     <Batsman name="D Payne">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Stan Fritz"/>
       <Runs value="9"/>
     </Batsman>
@@ -114,7 +114,7 @@
       <Runs value="1"/>
     </Batsman>
     <Batsman name="P Dara">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Hugh Fort"/>
       <Runs value="5"/>
     </Batsman>
@@ -130,7 +130,7 @@
     <Extras value="35"/>
     <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="12" wickets="0"/>
     <BowlerSummary name="Andrew Miller" overs="4" maidens="2" runs="4" wickets="1"/>
-    <BowlerSummary name="Chris Priddle" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="4" maidens="0" runs="19" wickets="1"/>
     <BowlerSummary name="Stan Fritz" overs="4" maidens="0" runs="15" wickets="1"/>
     <BowlerSummary name="Nic Downes" overs="8" maidens="0" runs="40" wickets="2"/>
     <BowlerSummary name="Marc Teal" overs="4" maidens="0" runs="23" wickets="1"/>

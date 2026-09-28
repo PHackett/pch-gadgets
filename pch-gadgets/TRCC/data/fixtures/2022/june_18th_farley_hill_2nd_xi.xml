@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:13 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/june_18th_farley_hill_2nd_xi.xml-->
+<CricketMatch oppo="Farley Hill 2nd XI" date="Sat Jun 18 2022 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5177478">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Mark Higgins">
+      <HowOut how="Caught Allahditta Ali"/>
+      <Bowler name="Babu Mani"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Atiq Javed"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Lawrence Heaton-Wright"/>
+      <Bowler name="Bala Murugan"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Atiq Javed"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Olly Tett">
+      <HowOut how="Caught Bala Murugan"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Jordan Goddard"/>
+      <Bowler name="Thomas Hale"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="William Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Hale"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Thomas Hale"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Srimahesh Tummalapenta">
+      <HowOut how="Caught Jordan Goddard"/>
+      <Bowler name="Atiq Javed"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="61"/>
+    <BowlerSummary name="Lawrence Heaton-Wright" overs="8" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Jordan Goddard" overs="4" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Thomas Hale" overs="6" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="Atiq Javed" overs="8" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Babu Mani" overs="7" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Bala Murugan" overs="7" maidens="0" runs="40" wickets="1"/>
+  </Innings>
+  <Innings batting="Farley Hill 2nd XI">
+    <Batsman name="Thomas Hale">
+      <HowOut how="Caught Thomas Powell"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Muhammad Aziz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jordan Goddard">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Olly Tett"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Raghu Pali">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Atiq Javed">
+      <HowOut how="LBW"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Allahditta Ali">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="William Nash-Wortham">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Olly Tett"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Babu Mani">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Bala Murugan">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Lawrence Heaton-Wright">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Gregory Coney">
+      <HowOut how="Absent"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="43"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="0" runs="39" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="8" maidens="0" runs="46" wickets="3"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Olly Tett" overs="6" maidens="0" runs="38" wickets="2"/>
+    <BowlerSummary name="Srimahesh Tummalapenta" overs="4" maidens="0" runs="31" wickets="0"/>
+  </Innings>
+</CricketMatch>

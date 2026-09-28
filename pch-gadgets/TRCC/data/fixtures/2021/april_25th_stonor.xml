@@ -12,7 +12,7 @@
       <Bowler name="O Cavenaugh"/>
       <Runs value="4"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Bowled"/>
       <Bowler name="M Tinsey"/>
       <Runs value="5"/>
@@ -96,7 +96,7 @@
     </Batsman>
     <Batsman name="N Horne">
       <HowOut how="Caught Keeper"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="0"/>
     </Batsman>
     <Batsman name="D Connolly">
@@ -106,7 +106,7 @@
     </Batsman>
     <Batsman name="M Lovatt">
       <HowOut how="Caught Keeper"/>
-      <Bowler name="Chris Priddle"/>
+      <Bowler name="Christopher Priddle"/>
       <Runs value="20"/>
     </Batsman>
     <Batsman name="O Kavanagh">
@@ -132,7 +132,7 @@
     <BowlerSummary name="Paul Hackett" overs="5" maidens="1" runs="9" wickets="0"/>
     <BowlerSummary name="Steve Beamish" overs="5" maidens="0" runs="12" wickets="1"/>
     <BowlerSummary name="Andrew Miller" overs="8" maidens="4" runs="14" wickets="3"/>
-    <BowlerSummary name="Chris Priddle" overs="8" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Christopher Priddle" overs="8" maidens="1" runs="27" wickets="2"/>
     <BowlerSummary name="Sam Staples" overs="5" maidens="1" runs="12" wickets="0"/>
     <BowlerSummary name="Charlie Scarr" overs="4.4" maidens="1" runs="17" wickets="2"/>
   </Innings>

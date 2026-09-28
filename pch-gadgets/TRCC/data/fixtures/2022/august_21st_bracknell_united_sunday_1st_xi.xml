@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:27 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2022/august_21st_bracknell_united_sunday_1st_xi.xml-->
+<CricketMatch oppo="Bracknell United Sunday 1st XI" date="Sun Aug 21 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5490785">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Maaz Salman">
+      <HowOut how="Caught Shahid Hussain"/>
+      <Bowler name="Shahid Hussain"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Chirag Modi"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Caught Paresh Chopdekar"/>
+      <Bowler name="Shahid Hussain"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="178"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chirag Modi"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Bellal Aziz"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Caught Chirag Modi"/>
+      <Bowler name="- Chetas"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Run Out Sandip Patil"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="17"/>
+    <FallOfWicket batsman="3" score="23"/>
+    <FallOfWicket batsman="2" score="39"/>
+    <FallOfWicket batsman="5" score="49"/>
+    <FallOfWicket batsman="6" score="120"/>
+    <FallOfWicket batsman="7" score="234"/>
+    <FallOfWicket batsman="8" score="254"/>
+    <FallOfWicket batsman="9" score="269"/>
+    <BowlerSummary name="Hitesh Bhudia" overs="5.0" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Shahid Hussain" overs="7.0" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Sandip Patil" overs="6.0" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Chirag Modi" overs="5.3" maidens="1" runs="51" wickets="2"/>
+    <BowlerSummary name="Zeeshan Iqbal" overs="3.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Yuvraj Singh Rait" overs="3.0" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="Bellal Aziz" overs="8.0" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Ashwin -" overs="1.0" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="- Chetas" overs="1.0" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+  <Innings batting="Bracknell United Sunday 1st XI">
+    <Batsman name="Paresh Chopdekar">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Bellal Aziz">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="- Chetas">
+      <HowOut how="Stumped Simon Farrar"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sandip Patil">
+      <HowOut how="LBW"/>
+      <Bowler name="Dylan Burr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Govind Sharma">
+      <HowOut how="Caught Ben Gilbert"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Chirag Modi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Shahid Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ashwin -">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Yuvraj Singh Rait">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hitesh Bhudia">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zeeshan Iqbal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="33"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="82"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="4" score="87"/>
+    <FallOfWicket batsman="6" score="117"/>
+    <FallOfWicket batsman="5" score="122"/>
+    <FallOfWicket batsman="7" score="139"/>
+    <FallOfWicket batsman="9" score="140"/>
+    <FallOfWicket batsman="10" score="143"/>
+    <FallOfWicket batsman="11" score="160"/>
+    <BowlerSummary name="Maaz Salman" overs="6.0" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.0" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Dylan Burr" overs="6.0" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Zack Burr" overs="5.0" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6.0" maidens="0" runs="27" wickets="2"/>
+    <BowlerSummary name="Chris Fort" overs="5.0" maidens="0" runs="20" wickets="3"/>
+  </Innings>
+</CricketMatch>

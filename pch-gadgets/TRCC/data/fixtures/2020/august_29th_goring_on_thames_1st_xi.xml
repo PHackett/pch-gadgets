@@ -31,7 +31,7 @@
       <Runs value="15"/>
     </Batsman>
     <Batsman name="Ollie Winterbottom">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Robin Thompson"/>
       <Runs value="3"/>
     </Batsman>
@@ -108,7 +108,7 @@
       <Bowler name="Alex Crawford"/>
       <Runs value="21"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught Chris Walsh"/>
       <Bowler name="Alex Crawford"/>
       <Runs value="0"/>

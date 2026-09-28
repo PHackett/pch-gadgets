@@ -7,7 +7,7 @@
 <CricketMatch oppo="Bracknell" date="Sun Aug 21 2022 00:00:00 GMT+0100 (British Summer Time)" matchType="" team="" playCricketId="">
   <MatchReport/><CountsToStats/>
   <Innings batting="Twyford">
-    <Batsman name="M Salman">
+    <Batsman name="Maaz Salman">
       <HowOut how="Caught &amp; Bowled"/>
       <Bowler name="S Hussain"/>
       <Runs value="4"/>
@@ -22,7 +22,7 @@
       <Bowler name="S Hussain"/>
       <Runs value="3"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Not Out"/>
       <Runs value="178"/>
     </Batsman>
@@ -72,7 +72,7 @@
   </Innings>
   <Innings batting="Bracknell">
     <Batsman name="P Chopdekar">
-      <HowOut how="Caught Chris Priddle"/>
+      <HowOut how="Caught Christopher Priddle"/>
       <Bowler name="Z Buchan"/>
       <Runs value="25"/>
     </Batsman>
@@ -125,7 +125,7 @@
       <Runs value="12"/>
     </Batsman>
     <Extras value="33"/>
-    <BowlerSummary name="M Salman" overs="6" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Maaz Salman" overs="6" maidens="0" runs="34" wickets="0"/>
     <BowlerSummary name="Ben Ackerman" overs="5" maidens="1" runs="24" wickets="1"/>
     <BowlerSummary name="Dylan Burr" overs="6" maidens="1" runs="25" wickets="1"/>
     <BowlerSummary name="Zac Burr" overs="5" maidens="0" runs="19" wickets="0"/>

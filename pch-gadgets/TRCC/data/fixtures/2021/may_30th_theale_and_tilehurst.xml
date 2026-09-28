@@ -49,7 +49,7 @@
     <BowlerSummary name="Chandra Cherukuri" overs="7" maidens="3" runs="23" wickets="2"/>
     <BowlerSummary name="Robin Thompson" overs="5" maidens="0" runs="8" wickets="1"/>
     <BowlerSummary name="Tom Hutchins" overs="5" maidens="0" runs="21" wickets="0"/>
-    <BowlerSummary name="Chris Priddle" overs="5" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="5" maidens="0" runs="13" wickets="0"/>
     <BowlerSummary name="Marc Teal" overs="5" maidens="0" runs="38" wickets="1"/>
   </Innings>
   <Innings batting="Twyford">
@@ -72,7 +72,7 @@
       <Bowler name="M Gray"/>
       <Runs value="15"/>
     </Batsman>
-    <Batsman name="Chris Priddle">
+    <Batsman name="Christopher Priddle">
       <HowOut how="Caught Keeper"/>
       <Bowler name="M Hearn-Phillips"/>
       <Runs value="34"/>

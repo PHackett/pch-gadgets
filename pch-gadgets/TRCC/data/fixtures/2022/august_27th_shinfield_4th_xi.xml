@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:28 +01:00 (BST)-->
+<!--Result = Twyford Conceded-->
+<!--XMLFilename = 2022/august_27th_shinfield_4th_xi.xml-->
+<CricketMatch oppo="Shinfield 4th XI" date="Sat Aug 27 2022 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5177646">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Shinfield 4th XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

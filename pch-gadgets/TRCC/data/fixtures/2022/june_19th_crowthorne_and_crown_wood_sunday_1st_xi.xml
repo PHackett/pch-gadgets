@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:58:14 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2022/june_19th_crowthorne_and_crown_wood_sunday_1st_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood Sunday 1st XI" date="Sun Jun 19 2022 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5459098">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood Sunday 1st XI">
+    <Batsman name="Jules O'Loughlin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="David Shaw">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Oliver Taylor">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Graham Smith">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Michael Brundish">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="Hamish Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andrew Amor">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tom Parsons">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Scott">
+      <HowOut how="Bowled"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Anand Soundar">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Dylan Applin">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="0" runs="44" wickets="3"/>
+    <BowlerSummary name="Chris Fort" overs="5" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="7" maidens="1" runs="51" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="3.4" maidens="1" runs="14" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anand Soundar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="96"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught Anand Soundar"/>
+      <Bowler name="Anand Soundar"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jules O'Loughlin"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped Graham Smith"/>
+      <Bowler name="Jules O'Loughlin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Caught Jules O'Loughlin"/>
+      <Bowler name="Dylan Applin"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Scott"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Jonathon Low">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="Anand Soundar" overs="8" maidens="2" runs="29" wickets="2"/>
+    <BowlerSummary name="Dylan Applin" overs="6" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Andrew Amor" overs="6" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Tom Parsons" overs="2" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Jules O'Loughlin" overs="8" maidens="0" runs="40" wickets="2"/>
+    <BowlerSummary name="Oliver Taylor" overs="8" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="James Scott" overs="2" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>
