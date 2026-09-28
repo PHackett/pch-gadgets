@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:57 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/august_9th_reading_lions_1st_xi.xml-->
+<CricketMatch oppo="Reading Lions 1st XI" date="Sat Aug 09 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737067">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Sanju Joseph"/>
+      <Bowler name="Shiva Aruna"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Oscar Woodbridge">
+      <HowOut how="Run Out Don Mani"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Murli Tikyani"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Satish Kothapalli"/>
+      <Bowler name="Shiva Aruna"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Don Mani"/>
+      <Bowler name="VasanthaKumar T"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shiva Aruna"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="VasanthaKumar T"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out Murli Tikyani"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Sachin Mohan"/>
+      <Bowler name="Satish Kothapalli"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Run Out Aroun Jayabalan"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="1" score="81"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="5" score="122"/>
+    <FallOfWicket batsman="7" score="128"/>
+    <FallOfWicket batsman="6" score="135"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <FallOfWicket batsman="9" score="171"/>
+    <FallOfWicket batsman="10" score="181"/>
+    <BowlerSummary name="Murli Tikyani" overs="7.0" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Satish Kothapalli" overs="7.0" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Prajeesh Krishna" overs="8.0" maidens="1" runs="30" wickets="0"/>
+    <BowlerSummary name="Babu Loganathan" overs="3.0" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="VasanthaKumar T" overs="6.0" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="Shiva Aruna" overs="8.0" maidens="2" runs="19" wickets="3"/>
+    <BowlerSummary name="Sachin Mohan" overs="1.0" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading Lions 1st XI">
+    <Batsman name="Murli Tikyani">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Sanju Joseph">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Aroun Jayabalan">
+      <HowOut how="LBW"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rajesh ( RAM ) Naidu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Shiva Aruna">
+      <HowOut how="Caught Oscar Woodbridge"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sachin Mohan">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Babu Loganathan">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Don Mani">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Satish Kothapalli">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="VasanthaKumar T">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Prajeesh Krishna">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="35"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="2" score="81"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="4" score="114"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <FallOfWicket batsman="7" score="138"/>
+    <FallOfWicket batsman="8" score="151"/>
+    <FallOfWicket batsman="9" score="179"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="0" runs="38" wickets="4"/>
+    <BowlerSummary name="Kavi Ghai" overs="4.0" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Oscar Woodbridge" overs="4.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4.3" maidens="1" runs="18" wickets="2"/>
+    <BowlerSummary name="Stanley Fritz" overs="1.0" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>

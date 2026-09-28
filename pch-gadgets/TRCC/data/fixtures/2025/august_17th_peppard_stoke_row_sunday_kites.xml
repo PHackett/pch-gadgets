@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:03 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/august_17th_peppard_stoke_row_sunday_kites.xml-->
+<CricketMatch oppo="Peppard Stoke Row Sunday Kites" date="Sun Aug 17 2025 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6838007">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Harper"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Ollie Williams"/>
+      <Bowler name="Harry Harper"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Ollie Williams"/>
+      <Bowler name="Sam Kimber"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ollie Williams"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Nick Murdoch"/>
+      <Bowler name="Sam Kimber"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Sam Kimber"/>
+      <Bowler name="Ariman Balakrishnan"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Ollie Williams"/>
+      <Bowler name="Nick Murdoch"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Yin-Chuan Chang">
+      <HowOut how="Caught Sam Kimber"/>
+      <Bowler name="Nick Murdoch"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ollie Williams"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ollie Williams"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Extras value="41"/>
+    <BowlerSummary name="Harry Harper" overs="7" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Sam Kimber" overs="7" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="N Ahmed" overs="5" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Ariman Balakrishnan" overs="4" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Nick Murdoch" overs="5" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="Ollie Williams" overs="4.5" maidens="0" runs="21" wickets="2"/>
+  </Innings>
+  <Innings batting="Peppard Stoke Row Sunday Kites">
+    <Batsman name="Ariman Balakrishnan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Fergus Nutt">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="James Watts">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Kimber">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Harry Harper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yin-Chuan Chang"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nick Murdoch">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Ollie Williams">
+      <HowOut how="Stumped Andrew Jones"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="N Ahmed">
+      <HowOut how="LBW"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Ashton">
+      <HowOut how="LBW"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Graham Jackson">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <BowlerSummary name="Harry Leggett" overs="7" maidens="0" runs="31" wickets="4"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="3" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Yin-Chuan Chang" overs="3" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="1" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Lee Leggett" overs="3.2" maidens="0" runs="13" wickets="2"/>
+  </Innings>
+</CricketMatch>

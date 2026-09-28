@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:52 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2025/july_19th_checkendon_2nd_xi.xml-->
+<CricketMatch oppo="Checkendon 2nd XI" date="Sat Jul 19 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737052">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Checkendon 2nd XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

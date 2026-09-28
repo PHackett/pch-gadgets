@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:44 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/june_14th_pinkneys_green_2nd_xi.xml-->
+<CricketMatch oppo="Pinkneys Green 2nd XI" date="Sat Jun 14 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737027">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Pinkneys Green 2nd XI">
+    <Batsman name="Karthik Ponnuchamy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Lett"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Anil Mirza">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sridhar Balachandar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Arun Ramachandran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Oli Fennell">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Savidge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Alex Fennell">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Freddie Avery">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Sajjad Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ben Snapes">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Senthil Kumar G M">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="5"/>
+    <FallOfWicket batsman="1" score="31"/>
+    <FallOfWicket batsman="3" score="64"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="6" score="65"/>
+    <FallOfWicket batsman="4" score="69"/>
+    <FallOfWicket batsman="7" score="96"/>
+    <FallOfWicket batsman="8" score="100"/>
+    <FallOfWicket batsman="9" score="116"/>
+    <FallOfWicket batsman="10" score="121"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.0" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Alex Lett" overs="4.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Ben Nichols" overs="6.0" maidens="2" runs="8" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="6.0" maidens="0" runs="18" wickets="3"/>
+    <BowlerSummary name="Srinivas Bekkam" overs="4.2" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="4.0" maidens="1" runs="10" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Stumped Ben Savidge"/>
+      <Bowler name="Alex Fennell"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oli Fennell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oli Fennell"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Karthik Ponnuchamy"/>
+      <Bowler name="Anil Mirza"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Ben Snapes"/>
+      <Bowler name="Alex Fennell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="Alex Fennell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Srinivas Bekkam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Fennell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught Karthik Ponnuchamy"/>
+      <Bowler name="Alex Fennell"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Lett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="1" score="85"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <FallOfWicket batsman="4" score="113"/>
+    <FallOfWicket batsman="8" score="114"/>
+    <BowlerSummary name="Oli Fennell" overs="6.0" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="Anil Mirza" overs="8.0" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Ben Snapes" overs="1.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Alex Fennell" overs="5.0" maidens="2" runs="15" wickets="5"/>
+    <BowlerSummary name="Freddie Avery" overs="3.0" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>

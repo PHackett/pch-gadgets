@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:11 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/august_30th_bracknell_united_5th_xi.xml-->
+<CricketMatch oppo="Bracknell United 5th XI" date="Sat Aug 30 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737080">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Bracknell United 5th XI">
+    <Batsman name="Dinesh Reddy Kodmoor">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Anil Aliveli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Shankar Vattikuti"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Mandy Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Saketh Chodimella">
+      <HowOut how="Caught Ravi Shankar Vattikuti"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Ravi Shankar Vattikuti"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Addy Koli">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Ravi Shankar Vattikuti"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Sri Harsha Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ashish Patidar">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Manish Garg">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Venkata Dandu">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Saj Farooq">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="2" score="117"/>
+    <FallOfWicket batsman="6" score="147"/>
+    <FallOfWicket batsman="7" score="151"/>
+    <FallOfWicket batsman="8" score="196"/>
+    <FallOfWicket batsman="9" score="204"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="7.0" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="5.0" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8.0" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Ravi Shankar Vattikuti" overs="6.0" maidens="0" runs="28" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="1.0" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Sri Harsha Cherukuri"/>
+      <Bowler name="Sri Harsha Cherukuri"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Mandy Singh"/>
+      <Bowler name="Saj Farooq"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saj Farooq"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ravi Shankar Vattikuti">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="1" score="29"/>
+    <FallOfWicket batsman="3" score="33"/>
+    <BowlerSummary name="Sri Harsha Cherukuri" overs="6.0" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Saj Farooq" overs="6.0" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="Addy Koli" overs="6.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Manish Garg" overs="8.0" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Ashish Patidar" overs="3.0" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:42 +01:00 (BST)-->
+<!--Result = Abandonned-->
+<!--XMLFilename = 2025/june_7th_reading_lions_1st_xi.xml-->
+<CricketMatch oppo="Reading Lions 1st XI" date="Sat Jun 07 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737022">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Reading Lions 1st XI">
+    <Batsman name="Don Mani">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Sanju Joseph">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Babu Loganathan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Shiva Aruna">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Rajesh ( RAM ) Naidu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aroun Jayabalan">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sachin Mohan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Satish Kothapalli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ashok Lalwani">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Murli Tikyani">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Prajeesh Krishna">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="5" score="41"/>
+    <FallOfWicket batsman="6" score="43"/>
+    <FallOfWicket batsman="4" score="69"/>
+    <FallOfWicket batsman="7" score="95"/>
+    <FallOfWicket batsman="9" score="102"/>
+    <FallOfWicket batsman="8" score="122"/>
+    <FallOfWicket batsman="11" score="131"/>
+    <BowlerSummary name="Ben Nichols" overs="6.0" maidens="1" runs="16" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="0" runs="28" wickets="4"/>
+    <BowlerSummary name="Spence Nichols" overs="8.0" maidens="0" runs="59" wickets="2"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="4" runs="21" wickets="2"/>
+    <BowlerSummary name="Marc Teal" overs="1.3" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="1"/>
+    <BowlerSummary name="Murli Tikyani" overs="4.0" maidens="1" runs="14" wickets="0"/>
+    <BowlerSummary name="Satish Kothapalli" overs="3.4" maidens="1" runs="9" wickets="0"/>
+  </Innings>
+</CricketMatch>

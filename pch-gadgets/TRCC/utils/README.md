@@ -53,8 +53,9 @@ python3 playCricket2TRCC.py --api-token "$PLAY_CRICKET_API_TOKEN" --season 2020 
 - `--team` restricts the fetch to a single team name. If omitted, matches for
   `1st XI`, `2nd XI`, and `Friendly XI` are all converted. `--team` requires
   `--season`.
-- Matches that fail to convert (e.g. no result entered yet, or an unrecognised
-  dismissal type) are skipped with a message rather than stopping the whole run.
+- Matches with no result or still in progress, and matches that fail to convert
+  (e.g. an unrecognised dismissal type), are skipped with a message rather than
+  stopping the whole run.
 
 ### Save the fetched JSON for offline testing
 
@@ -74,6 +75,7 @@ matching the match's year (not the year the script was run).
 ## Console message colours
 
 - Green: file successfully created.
-- Yellow: match skipped (e.g. no result entered, or another recoverable issue).
-- Red: match skipped due to a `ValueError` (e.g. an unrecognised `how_out` value
-  that needs adding to `HOW_OUT_MAP`).
+- Yellow: match skipped because no result has been entered, it is still in
+  progress, or another recoverable issue occurred.
+- Red: match skipped due to a `ValueError` (e.g. an unrecognised result code or
+  `how_out` value that needs adding to its mapping).

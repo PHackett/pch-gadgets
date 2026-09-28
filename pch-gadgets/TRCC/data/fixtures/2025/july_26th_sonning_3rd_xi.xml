@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:54 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/july_26th_sonning_3rd_xi.xml-->
+<CricketMatch oppo="Sonning 3rd XI" date="Sat Jul 26 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737057">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Sonning 3rd XI">
+    <Batsman name="Harrison Lott">
+      <HowOut how="Caught Mike Longson"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Aseem Shafi">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rahul Sood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Shamitha Widanapathirana">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Arun Kumar Pera">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gaurav Jayan">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugo Popplewell">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Max Murphy">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Daniel Edwards">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sam Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Jack Durrant">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="2" score="35"/>
+    <FallOfWicket batsman="5" score="41"/>
+    <FallOfWicket batsman="6" score="70"/>
+    <FallOfWicket batsman="7" score="76"/>
+    <FallOfWicket batsman="8" score="126"/>
+    <FallOfWicket batsman="4" score="142"/>
+    <FallOfWicket batsman="9" score="157"/>
+    <FallOfWicket batsman="10" score="160"/>
+    <BowlerSummary name="Ben Nichols" overs="7.0" maidens="0" runs="21" wickets="5"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="2" runs="20" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="8.0" maidens="3" runs="26" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="6.0" maidens="0" runs="36" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Run Out Daniel Edwards"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Rahul Sood"/>
+      <Bowler name="Max Murphy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George Mitchell">
+      <HowOut how="Caught Daniel Edwards"/>
+      <Bowler name="Sam Taylor"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Taylor"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Arun Kumar Pera"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Daniel Edwards"/>
+      <Bowler name="Arun Kumar Pera"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Max Murphy"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Max Murphy"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Run Out Daniel Edwards"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="3" score="71"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <FallOfWicket batsman="9" score="155"/>
+    <BowlerSummary name="Max Murphy" overs="8.0" maidens="0" runs="22" wickets="3"/>
+    <BowlerSummary name="Jack Durrant" overs="8.0" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Arun Kumar Pera" overs="8.0" maidens="1" runs="19" wickets="2"/>
+    <BowlerSummary name="Sam Taylor" overs="8.0" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Aseem Shafi" overs="4.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Shamitha Widanapathirana" overs="4.0" maidens="0" runs="34" wickets="0"/>
+  </Innings>
+</CricketMatch>

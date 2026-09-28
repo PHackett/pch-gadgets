@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:05 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/august_24th_cleeve_sunday_xi.xml-->
+<CricketMatch oppo="Cleeve Sunday XI" date="Sun Aug 24 2025 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7173571">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Cleeve Sunday XI">
+    <Batsman name="Alfie Parsons">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="George Parsons">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Glenn Lewin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mitchell Want">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Robbie Wilsher">
+      <HowOut how="Not Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Joshua Geal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Tom Carpenter">
+      <HowOut how="Not Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="James cole">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Ben Morris">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Mike Carpenter">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike Smith">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="1" score="27"/>
+    <FallOfWicket batsman="6" score="76"/>
+    <FallOfWicket batsman="8" score="178"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="3.0" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Nic Downes" overs="6.0" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="5.0" maidens="0" runs="46" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="3.0" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="2.0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Lee Leggett" overs="3.0" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Alex Lett" overs="3.0" maidens="0" runs="32" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught George Parsons"/>
+      <Bowler name="Mitchell Want"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Stumped Mike Carpenter"/>
+      <Bowler name="Mike Smith"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Stumped Mike Carpenter"/>
+      <Bowler name="George Parsons"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Alex Lett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mitchell Want"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Mitchell Want"/>
+      <Bowler name="Robbie Wilsher"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Stumped Mike Carpenter"/>
+      <Bowler name="Mitchell Want"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Run Out Joshua Geal"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="3" score="68"/>
+    <FallOfWicket batsman="5" score="173"/>
+    <FallOfWicket batsman="6" score="189"/>
+    <FallOfWicket batsman="8" score="209"/>
+    <FallOfWicket batsman="7" score="212"/>
+    <BowlerSummary name="Mike Smith" overs="4.0" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Glenn Lewin" overs="2.0" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Tom Carpenter" overs="2.0" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Mitchell Want" overs="6.5" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="George Parsons" overs="3.0" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Robbie Wilsher" overs="3.0" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Ben Morris" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Joshua Geal" overs="2.0" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="James cole" overs="4.0" maidens="0" runs="26" wickets="0"/>
+  </Innings>
+</CricketMatch>

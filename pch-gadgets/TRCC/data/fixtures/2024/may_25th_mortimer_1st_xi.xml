@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:31 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/may_25th_mortimer_1st_xi.xml-->
+<CricketMatch oppo="Mortimer 1st XI" date="Sat May 25 2024 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6322610">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Kiran Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Abhilash Nair"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Stumped Glen Forbes"/>
+      <Bowler name="Lloyd Siebert"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Glen Forbes"/>
+      <Bowler name="Lloyd Siebert"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Jonathan Mare"/>
+      <Bowler name="Lloyd Siebert"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Adams"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Run Out Abhilash Nair"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="LBW"/>
+      <Bowler name="Abhilash Nair"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Eddie Jackson"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Abhilash Nair"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="47"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <FallOfWicket batsman="4" score="45"/>
+    <FallOfWicket batsman="1" score="55"/>
+    <FallOfWicket batsman="5" score="65"/>
+    <FallOfWicket batsman="7" score="74"/>
+    <FallOfWicket batsman="8" score="130"/>
+    <FallOfWicket batsman="9" score="150"/>
+    <FallOfWicket batsman="6" score="201"/>
+    <BowlerSummary name="Anirban Das" overs="8.0" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Lloyd Siebert" overs="8.0" maidens="0" runs="29" wickets="3"/>
+    <BowlerSummary name="Abraham Lincoln" overs="8.0" maidens="1" runs="33" wickets="0"/>
+    <BowlerSummary name="Abhilash Nair" overs="8.0" maidens="0" runs="38" wickets="3"/>
+    <BowlerSummary name="James Adams" overs="3.0" maidens="0" runs="10" wickets="1"/>
+    <BowlerSummary name="Eddie Jackson" overs="1.0" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Mike Tiley" overs="4.0" maidens="1" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Mortimer 1st XI">
+    <Batsman name="Mike Tiley">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jonathan Mare">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Lloyd Siebert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Anirban Das">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Glen Forbes">
+      <HowOut how="Caught Mark Higgins"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Daniel Grant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="James Adams">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Abhilash Nair">
+      <HowOut how="LBW"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Abraham Lincoln">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Eddie Jackson">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Anthony Alder">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="5" score="108"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="7" score="138"/>
+    <FallOfWicket batsman="8" score="138"/>
+    <FallOfWicket batsman="10" score="146"/>
+    <FallOfWicket batsman="9" score="153"/>
+    <BowlerSummary name="Ben Nichols" overs="7.4" maidens="1" runs="19" wickets="4"/>
+    <BowlerSummary name="Kavi Ghai" overs="8.0" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="8.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="2.0" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="2" runs="22" wickets="4"/>
+    <BowlerSummary name="Stanley Fritz" overs="1.0" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:31 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/may_10th_boyne_hill_4th_xi.xml-->
+<CricketMatch oppo="Boyne Hill 4th XI" date="Sat May 10 2025 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6737434">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Arindam Ghosh"/>
+      <Bowler name="Matthew Roberts"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Matt Walker"/>
+      <Bowler name="Matthew Roberts"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Raghu Ramanujam"/>
+      <Bowler name="Matthew Roberts"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Tom Murphy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Caught Steve Abraham"/>
+      <Bowler name="Raghu Ramanujam"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="107"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out McKinley Richards"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dylan Taylor">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="14"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="4" score="57"/>
+    <FallOfWicket batsman="3" score="58"/>
+    <FallOfWicket batsman="5" score="151"/>
+    <FallOfWicket batsman="7" score="151"/>
+    <BowlerSummary name="Matthew Roberts" overs="8.0" maidens="4" runs="14" wickets="3"/>
+    <BowlerSummary name="Matthew Preston" overs="8.0" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Tom Murphy" overs="6.0" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="McKinley Richards" overs="1.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Steve Abraham" overs="8.0" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Matt Walker" overs="3.0" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Raghu Ramanujam" overs="6.0" maidens="0" runs="45" wickets="1"/>
+  </Innings>
+  <Innings batting="Boyne Hill 4th XI">
+    <Batsman name="Raghu Ramanujam">
+      <HowOut how="Not Not Out"/>
+      <Runs value="101"/>
+    </Batsman>
+    <Batsman name="Martin Preston">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Arindam Ghosh">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Owen Roberts">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Tom Murphy">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Abraham">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Yasir Hussain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Walker">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Roberts">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Preston">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="McKinley Richards">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="161"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="6.0" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4.0" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Dylan Taylor" overs="4.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5.0" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="5.0" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Jacob Ingram" overs="4.0" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Kiran Siddineni" overs="1.1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>

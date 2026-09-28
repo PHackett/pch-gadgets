@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:48 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/june_28th_bracknell_united_5th_xi.xml-->
+<CricketMatch oppo="Bracknell United 5th XI" date="Sat Jun 28 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737035">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sri Harsha Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Anil Aliveli"/>
+      <Bowler name="Akshay Ramesh"/>
+      <Runs value="108"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Akshay Ramesh"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="George Mitchell">
+      <HowOut how="LBW"/>
+      <Bowler name="Akshay Ramesh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Anil Aliveli"/>
+      <Bowler name="Yuvraj Pandey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anil Aliveli"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anil Aliveli"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sri Harsha Cherukuri"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akshay Ramesh"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="37"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="4" score="100"/>
+    <FallOfWicket batsman="5" score="123"/>
+    <FallOfWicket batsman="6" score="138"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <FallOfWicket batsman="8" score="183"/>
+    <FallOfWicket batsman="9" score="203"/>
+    <FallOfWicket batsman="2" score="216"/>
+    <BowlerSummary name="Sri Harsha Cherukuri" overs="8.0" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Saj Farooq" overs="6.0" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Venkata Dandu" overs="8.0" maidens="0" runs="52" wickets="0"/>
+    <BowlerSummary name="Akshay Ramesh" overs="8.0" maidens="0" runs="26" wickets="4"/>
+    <BowlerSummary name="Anil Aliveli" overs="8.0" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="David Chandler" overs="1.0" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Yuvraj Pandey" overs="1.0" maidens="0" runs="9" wickets="1"/>
+  </Innings>
+  <Innings batting="Bracknell United 5th XI">
+    <Batsman name="Yuvraj Pandey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Saketh Chodimella">
+      <HowOut how="Caught Samyajit Talukdar"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Anil Aliveli">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Akshay Ramesh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sri Harsha Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Vineet Choumal">
+      <HowOut how="Caught Mike Longson"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="David Chandler">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Mandy Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Shashi Bommidi">
+      <HowOut how="Run Out Kavi Ghai"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Venkata Dandu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Saj Farooq">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="8"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="26"/>
+    <FallOfWicket batsman="5" score="55"/>
+    <FallOfWicket batsman="7" score="70"/>
+    <FallOfWicket batsman="6" score="113"/>
+    <FallOfWicket batsman="8" score="116"/>
+    <FallOfWicket batsman="9" score="147"/>
+    <FallOfWicket batsman="10" score="172"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="2" runs="35" wickets="4"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="6.0" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="7.2" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Kavi Ghai" overs="5.0" maidens="0" runs="31" wickets="1"/>
+  </Innings>
+</CricketMatch>

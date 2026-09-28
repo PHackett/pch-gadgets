@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:36:04 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/august_27th_harptree_villages_friendly_xi.xml-->
+<CricketMatch oppo="Harptree Villages Friendly XI" date="Tue Aug 27 2024 12:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6401679">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil Hogarth"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stephen Cook"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Chris Kay"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Michael Hanson"/>
+      <Bowler name="Phil Hogarth"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Caught Ben Moore"/>
+      <Bowler name="Thomas Arrowsmith"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Ben Moore"/>
+      <Bowler name="Ben Moore"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Chris Kay"/>
+      <Bowler name="Ben Moore"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out Chris Kay"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="80"/>
+    <FallOfWicket batsman="4" score="82"/>
+    <FallOfWicket batsman="1" score="97"/>
+    <FallOfWicket batsman="6" score="131"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <FallOfWicket batsman="5" score="142"/>
+    <FallOfWicket batsman="8" score="166"/>
+    <BowlerSummary name="Thomas Arrowsmith" overs="8" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Stephen Cook" overs="4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Graham Harding" overs="8" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Ben Moore" overs="8" maidens="0" runs="45" wickets="2"/>
+    <BowlerSummary name="Phil Hogarth" overs="8" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Andrew Arrowsmith" overs="4" maidens="0" runs="23" wickets="0"/>
+  </Innings>
+  <Innings batting="Harptree Villages Friendly XI">
+    <Batsman name="Andrew Cook">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michael Hanson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Peter Haigh">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Mike Marsh">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Arrowsmith">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Chris Kay">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Phil Hogarth">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Kieran Downes"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Thomas Arrowsmith">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Graham Harding">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ben Moore">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stephen Cook">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="3" score="29"/>
+    <FallOfWicket batsman="4" score="30"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="2" score="90"/>
+    <FallOfWicket batsman="7" score="123"/>
+    <FallOfWicket batsman="8" score="140"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="2" runs="16" wickets="0"/>
+    <BowlerSummary name="Harry Leggett" overs="8" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Tim Hogarth" overs="5" maidens="0" runs="25" wickets="2"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="4" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="5" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Kieran Downes" overs="6.3" maidens="1" runs="31" wickets="1"/>
+  </Innings>
+</CricketMatch>

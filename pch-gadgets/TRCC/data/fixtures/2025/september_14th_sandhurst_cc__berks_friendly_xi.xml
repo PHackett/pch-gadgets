@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:13 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2025/september_14th_sandhurst_cc__berks_friendly_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks Friendly XI" date="Sun Sep 14 2025 12:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6838035">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Sandhurst CC_ Berks Friendly XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

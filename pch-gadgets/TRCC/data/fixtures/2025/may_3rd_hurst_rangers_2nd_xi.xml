@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:29 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/may_3rd_hurst_rangers_2nd_xi.xml-->
+<CricketMatch oppo="Hurst Rangers 2nd XI" date="Sat May 03 2025 12:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6986207">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Angus Weir">
+      <HowOut how="Not Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Vinesh Vijayakurup"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Guruprasad Nagaraj"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Not Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shashank Parab"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Manas Pathak"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aman Sharma"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Shash Dodle">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="4" score="112"/>
+    <FallOfWicket batsman="3" score="161"/>
+    <FallOfWicket batsman="7" score="193"/>
+    <FallOfWicket batsman="8" score="204"/>
+    <FallOfWicket batsman="6" score="251"/>
+    <BowlerSummary name="Vinesh Vijayakurup" overs="6.0" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Salar Hashmi" overs="6.0" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Guruprasad Nagaraj" overs="5.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Fynn Ratcliffe" overs="3.0" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Anil Kumar" overs="4.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Srinivasan Rajasekaran" overs="4.0" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Aman Sharma" overs="5.0" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Manas Pathak" overs="5.0" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Shashank Parab" overs="2.0" maidens="0" runs="24" wickets="1"/>
+  </Innings>
+  <Innings batting="Hurst Rangers 2nd XI">
+    <Batsman name="Shashank Parab">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rao Burugula">
+      <HowOut how="LBW"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bharath Kumar Banala">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Srinivasan Rajasekaran">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shash Dodle"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Vinesh Vijayakurup">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Aman Sharma">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Salar Hashmi">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Manas Pathak">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Anil Kumar">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Fynn Ratcliffe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Guruprasad Nagaraj">
+      <HowOut how="LBW"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="4"/>
+    <FallOfWicket batsman="3" score="9"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="4" score="49"/>
+    <FallOfWicket batsman="6" score="94"/>
+    <FallOfWicket batsman="5" score="104"/>
+    <FallOfWicket batsman="8" score="109"/>
+    <FallOfWicket batsman="9" score="139"/>
+    <FallOfWicket batsman="10" score="143"/>
+    <FallOfWicket batsman="11" score="155"/>
+    <BowlerSummary name="Ben Nichols" overs="4.0" maidens="2" runs="2" wickets="1"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="5.0" maidens="0" runs="17" wickets="2"/>
+    <BowlerSummary name="Shash Dodle" overs="6.0" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="5.0" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8.0" maidens="1" runs="34" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="2.0" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="1.5" maidens="0" runs="9" wickets="2"/>
+  </Innings>
+</CricketMatch>

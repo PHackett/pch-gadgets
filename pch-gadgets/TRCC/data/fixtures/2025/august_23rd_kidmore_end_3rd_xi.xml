@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:04 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/august_23rd_kidmore_end_3rd_xi.xml-->
+<CricketMatch oppo="Kidmore End 3rd XI" date="Sat Aug 23 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737076">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Kidmore End 3rd XI">
+    <Batsman name="Todd Butler">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Julian Berry">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Sanjeev Sadhwani">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mark Baker">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Roan Coetzee">
+      <HowOut how="Not Out"/>
+      <Runs value="87"/>
+    </Batsman>
+    <Batsman name="Alex Berry">
+      <HowOut how="Caught Sandeep Pallithumbil"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ethan De Savoye">
+      <HowOut how="Not Out"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Hedley Ruegg">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Abhijeet Vardhan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Beddow">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajnish Kumar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="28"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="2" score="82"/>
+    <FallOfWicket batsman="6" score="119"/>
+    <BowlerSummary name="Ben Nichols" overs="6.0" maidens="2" runs="10" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Spence Nichols" overs="8.0" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6.0" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="6.0" maidens="0" runs="40" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Abhijeet Vardhan"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Berry"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Berry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Stumped Julian Berry"/>
+      <Bowler name="Hedley Ruegg"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Charanteja Bommagani Bommagani">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Todd Butler"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="1" score="86"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="6" score="169"/>
+    <BowlerSummary name="Alex Berry" overs="6.0" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Ethan De Savoye" overs="4.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Rajnish Kumar" overs="3.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Hedley Ruegg" overs="8.0" maidens="1" runs="37" wickets="1"/>
+    <BowlerSummary name="Abhijeet Vardhan" overs="7.0" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Todd Butler" overs="4.0" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Mark Beddow" overs="3.4" maidens="0" runs="21" wickets="0"/>
+  </Innings>
+</CricketMatch>

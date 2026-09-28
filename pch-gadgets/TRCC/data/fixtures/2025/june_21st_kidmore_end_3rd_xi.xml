@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:46 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/june_21st_kidmore_end_3rd_xi.xml-->
+<CricketMatch oppo="Kidmore End 3rd XI" date="Sat Jun 21 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737031">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Kidmore End 3rd XI">
+    <Batsman name="Siddharth Pandya">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Paul Lawson">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nathan Ruegg">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hugo Guianvarch">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Aadit Pandey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Freddie Syms">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Roan Coetzee">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Nathan Salisbury">
+      <HowOut how="Caught Spence Nichols"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Salisbury">
+      <HowOut how="Stumped George Mitchell"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Todd Butler">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Beddow">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="3" score="53"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="4" score="55"/>
+    <FallOfWicket batsman="6" score="56"/>
+    <FallOfWicket batsman="8" score="57"/>
+    <FallOfWicket batsman="9" score="62"/>
+    <FallOfWicket batsman="10" score="62"/>
+    <FallOfWicket batsman="11" score="72"/>
+    <BowlerSummary name="Ben Nichols" overs="4" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="6" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8" maidens="5" runs="5" wickets="7"/>
+    <BowlerSummary name="Spence Nichols" overs="3.1" maidens="0" runs="6" wickets="2"/>
+    <BowlerSummary name="Benji Stickley" overs="1" maidens="0" runs="9" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Run Out Freddie Syms"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="George Mitchell">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Nathan Ruegg" overs="3" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Todd Butler" overs="3" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Roan Coetzee" overs="1" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Aadit Pandey" overs="2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Freddie Syms" overs="1" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>

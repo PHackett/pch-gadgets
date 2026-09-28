@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:45 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/june_15th_cypos_friendly_xi.xml-->
+<CricketMatch oppo="Cypos Friendly XI" date="Sun Jun 15 2025 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6801494">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Cypos Friendly XI">
+    <Batsman name="Abhishek Chatterjee">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Charlie Shearsby"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Charlie Willis">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="William Yard">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kaz Siddiqui">
+      <HowOut how="Not Out"/>
+      <Runs value="112"/>
+    </Batsman>
+    <Batsman name="Reggie Allan">
+      <HowOut how="Not Out"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Andy Allan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rajiv Paul">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fraser Montgomery">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ron Hubbard">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamilton Lee">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Anubhav Vadera">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="62"/>
+    <FallOfWicket batsman="1" score="212"/>
+    <BowlerSummary name="Ben Ackerman" overs="7.0" maidens="0" runs="62" wickets="2"/>
+    <BowlerSummary name="Jacob Ingram" overs="4.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Andrew Jones" overs="4.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Hamad Hussain" overs="5.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="8.0" maidens="0" runs="67" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="8.0" maidens="1" runs="38" wickets="0"/>
+    <BowlerSummary name="Charlie Shearsby" overs="4.0" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Andy Allan"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Fraser Montgomery"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Reggie Allan"/>
+      <Bowler name="Hamilton Lee"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Hamilton Lee"/>
+      <Bowler name="Hamilton Lee"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Anubhav Vadera"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Reggie Allan"/>
+      <Bowler name="Hamilton Lee"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anubhav Vadera"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Anubhav Vadera"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Shearsby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Anubhav Vadera"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Allan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="4" score="117"/>
+    <FallOfWicket batsman="3" score="128"/>
+    <FallOfWicket batsman="6" score="156"/>
+    <FallOfWicket batsman="7" score="157"/>
+    <FallOfWicket batsman="8" score="163"/>
+    <FallOfWicket batsman="9" score="163"/>
+    <FallOfWicket batsman="10" score="168"/>
+    <FallOfWicket batsman="5" score="172"/>
+    <BowlerSummary name="Fraser Montgomery" overs="8.0" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Andy Allan" overs="5.0" maidens="2" runs="11" wickets="2"/>
+    <BowlerSummary name="Anubhav Vadera" overs="6.5" maidens="1" runs="20" wickets="4"/>
+    <BowlerSummary name="Reggie Allan" overs="4.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Hamilton Lee" overs="8.0" maidens="0" runs="48" wickets="3"/>
+    <BowlerSummary name="Rajiv Paul" overs="3.0" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>

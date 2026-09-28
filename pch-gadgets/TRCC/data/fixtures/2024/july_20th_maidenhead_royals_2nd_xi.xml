@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:50 +01:00 (BST)-->
+<!--Result = Twyford Conceded-->
+<!--XMLFilename = 2024/july_20th_maidenhead_royals_2nd_xi.xml-->
+<CricketMatch oppo="Maidenhead Royals 2nd XI" date="Sat Jul 20 2024 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6322804">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Maidenhead Royals 2nd XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

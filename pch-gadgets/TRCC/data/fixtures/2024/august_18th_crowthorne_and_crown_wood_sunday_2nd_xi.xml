@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:58 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/august_18th_crowthorne_and_crown_wood_sunday_2nd_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood Sunday 2nd XI" date="Sun Aug 18 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6644363">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Gerhard Krüger"/>
+      <Bowler name="Sam Mansfield"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Bhavik Kalra"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Mansfield"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sam Mansfield"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ant Avrili"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Mansfield"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Mansfield"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="1"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="5" score="51"/>
+    <FallOfWicket batsman="6" score="160"/>
+    <FallOfWicket batsman="7" score="171"/>
+    <FallOfWicket batsman="8" score="171"/>
+    <FallOfWicket batsman="4" score="199"/>
+    <BowlerSummary name="Sam Mansfield" overs="7.0" maidens="1" runs="46" wickets="5"/>
+    <BowlerSummary name="Bhavik Kalra" overs="7.0" maidens="1" runs="30" wickets="1"/>
+    <BowlerSummary name="Alistair Warner-Rowley" overs="5.0" maidens="1" runs="15" wickets="0"/>
+    <BowlerSummary name="Adam Malone" overs="6.0" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Andrew Amor" overs="5.0" maidens="2" runs="4" wickets="0"/>
+    <BowlerSummary name="James Scott" overs="5.0" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Ant Avrili" overs="5.0" maidens="0" runs="30" wickets="1"/>
+  </Innings>
+  <Innings batting="Crowthorne and Crown Wood Sunday 2nd XI">
+    <Batsman name="Bhavik Kalra">
+      <HowOut how="LBW"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="David Krüger">
+      <HowOut how="Not Out"/>
+      <Runs value="116"/>
+    </Batsman>
+    <Batsman name="David Scarr">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Daniel Cartledge">
+      <HowOut how="LBW"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andrew Amor">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Malone">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="James Scott">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Mansfield">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Alistair Warner-Rowley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ant Avrili">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gerhard Krüger">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="107"/>
+    <FallOfWicket batsman="3" score="120"/>
+    <FallOfWicket batsman="4" score="136"/>
+    <FallOfWicket batsman="5" score="137"/>
+    <FallOfWicket batsman="6" score="153"/>
+    <FallOfWicket batsman="7" score="163"/>
+    <BowlerSummary name="Ben Nichols" overs="4.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="7.0" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="8.0" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="8.0" maidens="1" runs="37" wickets="4"/>
+    <BowlerSummary name="Andrew Jones" overs="1.0" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Hamad Hussain" overs="0.2" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>

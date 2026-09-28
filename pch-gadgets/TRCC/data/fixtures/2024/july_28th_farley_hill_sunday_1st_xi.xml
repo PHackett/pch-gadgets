@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:54 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/july_28th_farley_hill_sunday_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill Sunday 1st XI" date="Sun Jul 28 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358798">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Simon Longfield"/>
+      <Bowler name="Babu Mani"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Bilal Hussain"/>
+      <Bowler name="Ali Jalil"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Not Out"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Babu Mani"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Bowker"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ali Jalil"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Chaminda Alocious">
+      <HowOut how="Caught William Nash-Wortham"/>
+      <Bowler name="Sajjad Abbasi"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Caught William Nash-Wortham"/>
+      <Bowler name="Sajjad Abbasi"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="22"/>
+    <FallOfWicket batsman="1" score="53"/>
+    <FallOfWicket batsman="4" score="58"/>
+    <FallOfWicket batsman="5" score="134"/>
+    <FallOfWicket batsman="6" score="164"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <FallOfWicket batsman="8" score="217"/>
+    <BowlerSummary name="Sajjad Abbasi" overs="8.0" maidens="0" runs="49" wickets="2"/>
+    <BowlerSummary name="Ali Jalil" overs="8.0" maidens="2" runs="34" wickets="2"/>
+    <BowlerSummary name="Gwyn Robins" overs="8.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Babu Mani" overs="7.0" maidens="0" runs="38" wickets="2"/>
+    <BowlerSummary name="William Nash-Wortham" overs="5.0" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Chris Bowker" overs="4.0" maidens="0" runs="25" wickets="1"/>
+  </Innings>
+  <Innings batting="Farley Hill Sunday 1st XI">
+    <Batsman name="Zeeshan Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Chris Bowker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kevin Brown">
+      <HowOut how="Not Out"/>
+      <Runs value="93"/>
+    </Batsman>
+    <Batsman name="Simon Longfield">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Hamad Hussain"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Z Mehmood">
+      <HowOut how="Caught Hamad Hussain"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Gwyn Robins">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="William Nash-Wortham">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sajjad Abbasi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Babu Mani">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="2" score="12"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="4" score="66"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="6" score="197"/>
+    <BowlerSummary name="Ben Nichols" overs="7.0" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="4.0" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Hamad Hussain" overs="4.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Tom Bielich" overs="3.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="8.0" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Chaminda Alocious" overs="7.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="5.0" maidens="0" runs="33" wickets="1"/>
+  </Innings>
+</CricketMatch>

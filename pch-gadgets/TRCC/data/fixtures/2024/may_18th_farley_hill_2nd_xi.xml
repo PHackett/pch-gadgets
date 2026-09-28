@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:29 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/may_18th_farley_hill_2nd_xi.xml-->
+<CricketMatch oppo="Farley Hill 2nd XI" date="Sat May 18 2024 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6322606">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Ali Jalil"/>
+      <Bowler name="Ali Jalil"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Kevin Brown"/>
+      <Bowler name="Craig Jorey"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Aqib Malik"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Muhammad Aziz"/>
+      <Bowler name="Ali Jalil"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Shakeel Bashir"/>
+      <Bowler name="Errol Masters"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Saichandra Bejjanki">
+      <HowOut how="Caught Sai Pavan Kumar Ananthapura"/>
+      <Bowler name="Errol Masters"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aqib Malik"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Oli Russell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aqib Malik"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Ali Jalil"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Kavan Nijjer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Craig Jorey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="37"/>
+    <FallOfWicket batsman="1" score="86"/>
+    <FallOfWicket batsman="5" score="86"/>
+    <FallOfWicket batsman="7" score="99"/>
+    <FallOfWicket batsman="8" score="99"/>
+    <FallOfWicket batsman="6" score="130"/>
+    <FallOfWicket batsman="9" score="142"/>
+    <FallOfWicket batsman="10" score="142"/>
+    <BowlerSummary name="Lawrence Heaton-Wright" overs="5.0" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Craig Jorey" overs="6.1" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Ali Jalil" overs="6.0" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="Aqib Malik" overs="8.0" maidens="0" runs="48" wickets="2"/>
+    <BowlerSummary name="Errol Masters" overs="8.0" maidens="2" runs="26" wickets="2"/>
+  </Innings>
+  <Innings batting="Farley Hill 2nd XI">
+    <Batsman name="Zeeshan Hussain">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shakeel Bashir">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Caught Saichandra Bejjanki"/>
+      <Bowler name="Saichandra Bejjanki"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kevin Brown">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saichandra Bejjanki"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Muhammad Aziz">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Sai Pavan Kumar Ananthapura">
+      <HowOut how="LBW"/>
+      <Bowler name="Saichandra Bejjanki"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Aqib Malik">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Craig Jorey">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Lawrence Heaton-Wright">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Errol Masters">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="6" score="99"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="7" score="100"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8.0" maidens="1" runs="21" wickets="5"/>
+    <BowlerSummary name="Saichandra Bejjanki" overs="8.0" maidens="2" runs="44" wickets="3"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="4.0" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="2.0" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4.0" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>

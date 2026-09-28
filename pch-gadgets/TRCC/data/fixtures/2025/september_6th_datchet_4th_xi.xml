@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:12 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/september_6th_datchet_4th_xi.xml-->
+<CricketMatch oppo="Datchet 4th XI" date="Sat Sep 06 2025 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6737519">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Rishi Gupta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rana Ali"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Shrish Gupta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rana Ali"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Caught Ben Petri-Woods"/>
+      <Bowler name="Presley D'Costa"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Yin-Chuan Chang">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ed Masters"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="Rana Ali"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rana Ali"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ed Masters"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charanteja Bommagani Bommagani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ed Masters"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Presley D'Costa"/>
+      <Bowler name="Pete Singh"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Pete Singh"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Ravi Shankar Vattikuti">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="4" score="33"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="5" score="46"/>
+    <FallOfWicket batsman="7" score="49"/>
+    <FallOfWicket batsman="6" score="49"/>
+    <FallOfWicket batsman="8" score="52"/>
+    <FallOfWicket batsman="10" score="110"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <BowlerSummary name="Omar Arif" overs="4.0" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Presley D'Costa" overs="6.0" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Rana Ali" overs="8.0" maidens="4" runs="4" wickets="4"/>
+    <BowlerSummary name="Ed Masters" overs="8.0" maidens="1" runs="37" wickets="3"/>
+    <BowlerSummary name="Kusal Athukorala" overs="5.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Pete Singh" overs="2.5" maidens="0" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Datchet 4th XI">
+    <Batsman name="Nayeemul Islam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Shankar Vattikuti"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ashaab Amin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Shankar Vattikuti"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Shane Athukorala">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Krunal Patel">
+      <HowOut how="LBW"/>
+      <Bowler name="Yin-Chuan Chang"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Pete Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Omar Arif">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rana Ali">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kusal Athukorala">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Presley D'Costa">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Petri-Woods">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ed Masters">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="1" score="28"/>
+    <FallOfWicket batsman="4" score="63"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="5.0" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Ravi Shankar Vattikuti" overs="6.0" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="8.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="James West" overs="1.0" maidens="1" runs="0" wickets="0"/>
+    <BowlerSummary name="Yin-Chuan Chang" overs="5.0" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Vijay Deekonda" overs="2.2" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Charanteja Bommagani Bommagani" overs="1.0" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>

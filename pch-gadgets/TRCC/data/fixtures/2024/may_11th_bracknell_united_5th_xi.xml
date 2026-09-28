@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:27 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/may_11th_bracknell_united_5th_xi.xml-->
+<CricketMatch oppo="Bracknell United 5th XI" date="Sat May 11 2024 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6322602">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Bracknell United 5th XI">
+    <Batsman name="Naqash Tahir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saichandra Bejjanki"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Elender Pittala">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Dilip Hanumolu">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saichandra Bejjanki"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bhushan Vuppula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Prashanth Chintamaneni">
+      <HowOut how="LBW"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Gopi Kolluru">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mohammad Hameed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chaitanya Nadipelli">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Sai Unnava">
+      <HowOut how="Run Out Kiran Siddineni"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Abdul-Haadi Naqash">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sashi Dodle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saichandra Bejjanki"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="2" score="23"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="5" score="34"/>
+    <FallOfWicket batsman="6" score="34"/>
+    <FallOfWicket batsman="7" score="42"/>
+    <FallOfWicket batsman="4" score="53"/>
+    <FallOfWicket batsman="8" score="60"/>
+    <FallOfWicket batsman="9" score="61"/>
+    <FallOfWicket batsman="11" score="61"/>
+    <BowlerSummary name="Ankush Jain" overs="5.0" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Angus Weir" overs="2.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Saichandra Bejjanki" overs="4.4" maidens="0" runs="5" wickets="3"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="6.0" maidens="2" runs="16" wickets="5"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="4.0" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Not Out"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Dilip Hanumolu"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ankush Jain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Saichandra Bejjanki">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <FallOfWicket batsman="2" score="60"/>
+    <BowlerSummary name="Mohammad Hameed" overs="4.0" maidens="2" runs="3" wickets="0"/>
+    <BowlerSummary name="Sashi Dodle" overs="2.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Abdul-Haadi Naqash" overs="2.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Dilip Hanumolu" overs="3.0" maidens="1" runs="6" wickets="1"/>
+    <BowlerSummary name="Prashanth Chintamaneni" overs="2.0" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>

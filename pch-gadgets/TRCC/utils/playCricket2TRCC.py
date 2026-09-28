@@ -23,6 +23,7 @@ MATCHES_URL = 'https://www.play-cricket.com/api/v2/matches.json'
 TRCC_PC_NAME = 'Twyford and Ruscombe CC'
 TRCC_NAME = 'Twyford'
 DEFAULT_TEAM_NAMES = ['1st XI', '2nd XI', 'Friendly XI']
+IN_PROGRESS_RESULT = 'M'
 
 COLOUR_YELLOW = '\033[93m'
 COLOUR_GREEN = '\033[92m'
@@ -170,8 +171,15 @@ def convert(match_id, api_token, json_source=None, save_json=False):
         f"{match['match_date']} {match_time}", '%d/%m/%Y %H:%M'
     ).replace(tzinfo=TZ)
 
-    if not match['result']:
-        print(f"{COLOUR_YELLOW}No result entered for match {match['id']}: "
+    if match['result'] == IN_PROGRESS_RESULT:
+        message = 'Match in progress'
+    elif not match['result']:
+        message = 'No result entered'
+    else:
+        message = None
+
+    if message:
+        print(f"{COLOUR_YELLOW}{message} for match {match['id']}: "
               f"{oppo} on {match_date.strftime('%d/%m/%Y')}{COLOUR_RESET}")
         return
 
@@ -205,6 +213,8 @@ def convert(match_id, api_token, json_source=None, save_json=False):
                 trcc_result = 'Lose'
             elif result == 'CON':
                 trcc_result = f'{oppo} Conceded'
+            else:
+                raise ValueError(f'Unrecognised result code: {result!r}')
         else:
             if result == 'W':
                 trcc_result = 'Lose'
@@ -212,6 +222,8 @@ def convert(match_id, api_token, json_source=None, save_json=False):
                 trcc_result = 'Win'
             elif result == 'CON':
                 trcc_result = 'Twyford Conceded'
+            else:
+                raise ValueError(f'Unrecognised result code: {result!r}')
 
     dom.appendChild(dom.createComment(f'Result = {trcc_result}'))
 

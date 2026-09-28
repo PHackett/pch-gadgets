@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:24 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2024/april_27th_bracknell_united_6th_xi.xml-->
+<CricketMatch oppo="Bracknell United 6th XI" date="Sat Apr 27 2024 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6533947">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Bracknell United 6th XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

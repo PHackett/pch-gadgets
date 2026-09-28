@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:50 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2024/july_21st_ipsden_friendly_xi.xml-->
+<CricketMatch oppo="Ipsden Friendly XI" date="Sun Jul 21 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358797">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Ipsden Friendly XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

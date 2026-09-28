@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:36:05 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/september_1st_chaddleworth_friendly_xi.xml-->
+<CricketMatch oppo="Chaddleworth Friendly XI" date="Sun Sep 01 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358801">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Chaddleworth Friendly XI">
+    <Batsman name="Steven Eniver">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Craig Edwards">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Jack Barrett">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Fairclough">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Hamad Hussain"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Charlie Smith">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andy McKay">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hamad Hussain"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tom Campbell">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Eddie Campbell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kieran -">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Extras value="3"/>
+    <BowlerSummary name="James West" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="6" maidens="0" runs="19" wickets="5"/>
+    <BowlerSummary name="Hamad Hussain" overs="6" maidens="0" runs="12" wickets="2"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="4" maidens="0" runs="26" wickets="4"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="28" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Tom Campbell"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Tom Campbell"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Kieran -"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Tom Campbell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Tom Campbell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Kieran -"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Barrett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Steven Eniver"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <BowlerSummary name="Jack Barrett" overs="8" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Tom Campbell" overs="8" maidens="0" runs="19" wickets="4"/>
+    <BowlerSummary name="Kieran -" overs="8" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Craig Edwards" overs="2" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Steven Eniver" overs="1" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+</CricketMatch>

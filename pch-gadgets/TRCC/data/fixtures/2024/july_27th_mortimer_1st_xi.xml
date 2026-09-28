@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:52 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/july_27th_mortimer_1st_xi.xml-->
+<CricketMatch oppo="Mortimer 1st XI" date="Sat Jul 27 2024 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6322650">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Mortimer 1st XI">
+    <Batsman name="Glen Forbes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Dylan Jowett">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Lloyd Siebert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vishal Gupta"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Kashyap Jagda">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Vishal Gupta"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vimod Viswambharan">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Eddie Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Anirban Das">
+      <HowOut how="Not Out"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Abhilash Nair">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vishal Gupta"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Adnan Awan">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dan Litwin">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jonathan Aldous">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="1" score="32"/>
+    <FallOfWicket batsman="2" score="96"/>
+    <FallOfWicket batsman="4" score="98"/>
+    <FallOfWicket batsman="3" score="123"/>
+    <FallOfWicket batsman="6" score="156"/>
+    <FallOfWicket batsman="5" score="180"/>
+    <FallOfWicket batsman="8" score="249"/>
+    <BowlerSummary name="Ben Nichols" overs="8" maidens="1" runs="53" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="8" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Vishal Gupta" overs="6" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Kavi Ghai" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Stanley Fritz" overs="2" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Abhilash Nair"/>
+      <Runs value="49"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Anirban Das"/>
+      <Bowler name="Dan Litwin"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lloyd Siebert"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Vimod Viswambharan"/>
+      <Bowler name="Lloyd Siebert"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dylan Jowett"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Adnan Awan"/>
+      <Bowler name="Lloyd Siebert"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Caught Vimod Viswambharan"/>
+      <Bowler name="Dylan Jowett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Caught Lloyd Siebert"/>
+      <Bowler name="Dylan Jowett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vishal Gupta">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="28"/>
+    <FallOfWicket batsman="1" score="99"/>
+    <FallOfWicket batsman="4" score="134"/>
+    <FallOfWicket batsman="3" score="143"/>
+    <FallOfWicket batsman="6" score="182"/>
+    <FallOfWicket batsman="5" score="196"/>
+    <FallOfWicket batsman="8" score="196"/>
+    <FallOfWicket batsman="7" score="211"/>
+    <BowlerSummary name="Dan Litwin" overs="6.3" maidens="0" runs="54" wickets="1"/>
+    <BowlerSummary name="Vimod Viswambharan" overs="7.0" maidens="0" runs="58" wickets="0"/>
+    <BowlerSummary name="Lloyd Siebert" overs="8.0" maidens="2" runs="33" wickets="3"/>
+    <BowlerSummary name="Abhilash Nair" overs="5.0" maidens="0" runs="49" wickets="1"/>
+    <BowlerSummary name="Jonathan Aldous" overs="2.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Dylan Jowett" overs="3.0" maidens="0" runs="32" wickets="3"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:47 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2024/july_7th_hurley_sunday_1st_xi.xml-->
+<CricketMatch oppo="Hurley Sunday 1st XI" date="Sun Jul 07 2024 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358788">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Hurley Sunday 1st XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

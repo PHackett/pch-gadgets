@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:56 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/august_2nd_hurst_rangers_3rd_xi.xml-->
+<CricketMatch oppo="Hurst Rangers 3rd XI" date="Sat Aug 02 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737062">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Hurst Rangers 3rd XI">
+    <Batsman name="Bhaskar Bandaru">
+      <HowOut how="Caught Mike Longson"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Yatharth Jain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Josh Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Vinesh Vijayakurup">
+      <HowOut how="Caught Mike Longson"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Aman Sharma">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Arnav Dutta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Rajnish Singh">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Salar Hashmi">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Manimaran Ramalingam">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Abhijit Shinde">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Harsha Shastry">
+      <HowOut how="Run Out Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="3" score="106"/>
+    <FallOfWicket batsman="4" score="119"/>
+    <FallOfWicket batsman="6" score="146"/>
+    <FallOfWicket batsman="7" score="156"/>
+    <FallOfWicket batsman="5" score="165"/>
+    <FallOfWicket batsman="9" score="176"/>
+    <FallOfWicket batsman="10" score="185"/>
+    <FallOfWicket batsman="11" score="203"/>
+    <BowlerSummary name="Ben Nichols" overs="7.0" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.2" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Kavi Ghai" overs="5.0" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="8.0" maidens="1" runs="26" wickets="5"/>
+    <BowlerSummary name="Marc Teal" overs="7.0" maidens="1" runs="25" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Abhijit Shinde"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Rajnish Singh"/>
+      <Bowler name="Abhijit Shinde"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Abhijit Shinde"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Aman Sharma"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsha Shastry"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Aman Sharma"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vinesh Vijayakurup"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harsha Shastry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="4" score="91"/>
+    <FallOfWicket batsman="6" score="93"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="8" score="93"/>
+    <FallOfWicket batsman="7" score="184"/>
+    <BowlerSummary name="Abhijit Shinde" overs="8.0" maidens="0" runs="36" wickets="3"/>
+    <BowlerSummary name="Salar Hashmi" overs="3.0" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Vinesh Vijayakurup" overs="8.0" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Harsha Shastry" overs="8.0" maidens="2" runs="27" wickets="2"/>
+    <BowlerSummary name="Aman Sharma" overs="8.0" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Manimaran Ramalingam" overs="5.0" maidens="0" runs="52" wickets="0"/>
+  </Innings>
+</CricketMatch>

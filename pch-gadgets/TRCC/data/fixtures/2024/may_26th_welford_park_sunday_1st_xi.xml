@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:34 +01:00 (BST)-->
+<!--Result = Abandonned-->
+<!--XMLFilename = 2024/may_26th_welford_park_sunday_1st_xi.xml-->
+<CricketMatch oppo="Welford Park Sunday 1st XI" date="Sun May 26 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6598240">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="James West">
+      <HowOut how="Caught Kevin Tarrier"/>
+      <Bowler name="Nick Ashton"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught John Fletcher"/>
+      <Bowler name="Kevin Tarrier"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Tod Joynson">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Fletcher"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kevin Tarrier"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="Kevin Tarrier"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Mike Harrison"/>
+      <Bowler name="Nick Ashton"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Balbir Sidhu"/>
+      <Bowler name="Sameer Andagi"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Sameer Andagi"/>
+      <Bowler name="Nick Ashton"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Adam Henley">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="9"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="16"/>
+    <FallOfWicket batsman="5" score="16"/>
+    <FallOfWicket batsman="1" score="103"/>
+    <FallOfWicket batsman="6" score="110"/>
+    <FallOfWicket batsman="7" score="122"/>
+    <FallOfWicket batsman="8" score="124"/>
+    <BowlerSummary name="Kevin Tarrier" overs="4.0" maidens="1" runs="9" wickets="3"/>
+    <BowlerSummary name="John Fletcher" overs="4.0" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="Marc Greenslade" overs="5.0" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Zoe Toms" overs="2.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Mike Harrison" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Sameer Andagi" overs="5.0" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Nick Ashton" overs="5.0" maidens="1" runs="8" wickets="3"/>
+  </Innings>
+  <Innings batting="Welford Park Sunday 1st XI">
+    <Batsman name="Sardar sarfraz Abbasi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sameer Andagi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nick Ashton">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="John Fletcher">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Greenslade">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mike Harrison">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Herrington">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Balbir Sidhu">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kevin Tarrier">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zoe Toms">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vipin Tomar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

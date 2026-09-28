@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:39 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/june_16th_cypos_friendly_xi.xml-->
+<CricketMatch oppo="Cypos Friendly XI" date="Sun Jun 16 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6203025">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Cypos Friendly XI">
+    <Batsman name="Rajiv Paul">
+      <HowOut how="Caught Simon Burr"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Charlie Willis">
+      <HowOut how="LBW"/>
+      <Bowler name="James West"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="William Yard">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="James West"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kaz Siddiqui">
+      <HowOut how="Not Out"/>
+      <Runs value="85"/>
+    </Batsman>
+    <Batsman name="Vijey Dushan Celestinpillai">
+      <HowOut how="Caught Dylan Burr"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Chris Staines">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Niall Maloney">
+      <HowOut how="Caught Guy Lilford"/>
+      <Bowler name="James West"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Roshan Celestinpillai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bidyendu Chakraborty">
+      <HowOut how="LBW"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Cumar Chandrasegaran">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Fraser Montgomery">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="78"/>
+    <FallOfWicket batsman="7" score="81"/>
+    <FallOfWicket batsman="8" score="82"/>
+    <FallOfWicket batsman="9" score="91"/>
+    <BowlerSummary name="James West" overs="8.0" maidens="0" runs="23" wickets="4"/>
+    <BowlerSummary name="Harry Leggett" overs="8.0" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Neil Lancum" overs="5.0" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Benji Stickley" overs="8.0" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Guy Lilford" overs="8.0" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Lee Leggett" overs="3.0" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Niall Maloney"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Cumar Chandrasegaran"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="William Yard"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Guy Lilford">
+      <HowOut how="Caught Charlie Willis"/>
+      <Bowler name="Cumar Chandrasegaran"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="29"/>
+    <FallOfWicket batsman="3" score="132"/>
+    <FallOfWicket batsman="4" score="133"/>
+    <FallOfWicket batsman="5" score="144"/>
+    <BowlerSummary name="Niall Maloney" overs="6.0" maidens="1" runs="31" wickets="1"/>
+    <BowlerSummary name="Fraser Montgomery" overs="8.0" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Cumar Chandrasegaran" overs="8.0" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Roshan Celestinpillai" overs="6.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Rajiv Paul" overs="1.0" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="William Yard" overs="6.0" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Bidyendu Chakraborty" overs="1.5" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>

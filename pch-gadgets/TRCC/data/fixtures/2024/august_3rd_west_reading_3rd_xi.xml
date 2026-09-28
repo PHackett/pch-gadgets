@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:55 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/august_3rd_west_reading_3rd_xi.xml-->
+<CricketMatch oppo="West Reading 3rd XI" date="Sat Aug 03 2024 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6322945">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="West Reading 3rd XI">
+    <Batsman name="Aamir Hayat">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mohammad Faheem">
+      <HowOut how="Bowled"/>
+      <Bowler name="Surya Reddy"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="FARHAN AHMAD">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hamza Ahmed">
+      <HowOut how="Caught Surya Reddy"/>
+      <Bowler name="Surya Reddy"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Salman Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Abdul Sammad">
+      <HowOut how="Caught Surya Reddy"/>
+      <Bowler name="Surya Reddy"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Zeerak Khan">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ain Abbas">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="James West"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Waqas Irtaza">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Huzaif Ahmed">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zain Ali">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="33"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="3" score="1"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="4" score="114"/>
+    <FallOfWicket batsman="6" score="133"/>
+    <FallOfWicket batsman="7" score="148"/>
+    <FallOfWicket batsman="8" score="168"/>
+    <FallOfWicket batsman="9" score="203"/>
+    <FallOfWicket batsman="5" score="203"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="7.0" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="8.0" maidens="0" runs="47" wickets="3"/>
+    <BowlerSummary name="James West" overs="8.0" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Surya Reddy" overs="7.0" maidens="1" runs="38" wickets="3"/>
+    <BowlerSummary name="Angus Weir" overs="4.0" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="6.0" maidens="2" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Vishal Gupta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hamza Ahmed"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zain Ali"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zain Ali"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Loukik Burra">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abdul Sammad"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Waqas Irtaza"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Stumped Mohammad Faheem"/>
+      <Bowler name="Hamza Ahmed"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zain Ali"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Surya Reddy">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="2" score="30"/>
+    <FallOfWicket batsman="3" score="52"/>
+    <FallOfWicket batsman="4" score="88"/>
+    <FallOfWicket batsman="1" score="88"/>
+    <FallOfWicket batsman="5" score="102"/>
+    <FallOfWicket batsman="7" score="127"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <BowlerSummary name="Salman Khan" overs="2.0" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Ain Abbas" overs="8.0" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Zain Ali" overs="7.0" maidens="0" runs="37" wickets="3"/>
+    <BowlerSummary name="Hamza Ahmed" overs="8.0" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Abdul Sammad" overs="5.0" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Waqas Irtaza" overs="5.0" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Huzaif Ahmed" overs="3.0" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:48 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/july_14th_purley_on_thames_sunday_xi.xml-->
+<CricketMatch oppo="Purley on Thames Sunday XI" date="Sun Jul 14 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358796">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Thangaraj Senniappan"/>
+      <Bowler name="Dan Fox"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sooraya T"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Sam Seville"/>
+      <Bowler name="Ben Hardy"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sam Seville"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Dan Fox"/>
+      <Bowler name="Sam Seville"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Fox"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Pavan Kumar">
+      <HowOut how="Caught Dan Fox"/>
+      <Bowler name="Steve Musson"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Seville"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Fox"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Seville"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="17"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="1" score="76"/>
+    <FallOfWicket batsman="5" score="83"/>
+    <FallOfWicket batsman="6" score="105"/>
+    <FallOfWicket batsman="4" score="123"/>
+    <FallOfWicket batsman="8" score="133"/>
+    <FallOfWicket batsman="9" score="136"/>
+    <FallOfWicket batsman="10" score="141"/>
+    <FallOfWicket batsman="7" score="141"/>
+    <BowlerSummary name="Sam Hill" overs="3.3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Sooraya T" overs="7.0" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Dan Fox" overs="7.0" maidens="0" runs="30" wickets="3"/>
+    <BowlerSummary name="Ben Hardy" overs="4.3" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Sam Seville" overs="7.0" maidens="2" runs="26" wickets="4"/>
+    <BowlerSummary name="Steve Musson" overs="0.1" maidens="0" runs="0" wickets="1"/>
+  </Innings>
+  <Innings batting="Purley on Thames Sunday XI">
+    <Batsman name="Sam Harlowe">
+      <HowOut how="Not Out"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Dan Fox">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Thrived Chowdary">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Satishreddy Banda">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jeff Hinds">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Thangaraj Senniappan">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ben Hardy">
+      <HowOut how="Not Out"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Sooraya T">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Seville">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Hill">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Musson">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="5"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="3" score="57"/>
+    <FallOfWicket batsman="4" score="72"/>
+    <FallOfWicket batsman="5" score="82"/>
+    <FallOfWicket batsman="6" score="106"/>
+    <BowlerSummary name="Pavan Kumar" overs="5.0" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="7.0" maidens="1" runs="43" wickets="3"/>
+    <BowlerSummary name="Zack Burr" overs="3.0" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Neil Lancum" overs="2.0" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Hamad Hussain" overs="1.4" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>

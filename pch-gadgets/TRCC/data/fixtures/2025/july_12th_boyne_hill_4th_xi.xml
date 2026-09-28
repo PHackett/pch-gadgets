@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:50 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/july_12th_boyne_hill_4th_xi.xml-->
+<CricketMatch oppo="Boyne Hill 4th XI" date="Sat Jul 12 2025 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6737479">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Boyne Hill 4th XI">
+    <Batsman name="Raghu Ramanujam">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ray Borg-Potter">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Arindam Ghosh">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Dev Patel">
+      <HowOut how="Caught Vijay Deekonda"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Yasir Hussain">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Owen Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Danny Sajjad">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Rajesh Singh">
+      <HowOut how="Caught Thomas Powell"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Adam Mellor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Matthew Roberts">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Aadya Bakshi">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="46"/>
+    <FallOfWicket batsman="1" score="18"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <FallOfWicket batsman="5" score="66"/>
+    <FallOfWicket batsman="6" score="96"/>
+    <FallOfWicket batsman="7" score="108"/>
+    <FallOfWicket batsman="8" score="127"/>
+    <FallOfWicket batsman="10" score="202"/>
+    <FallOfWicket batsman="9" score="202"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="7.0" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Srinivas Bekkam" overs="7.1" maidens="2" runs="26" wickets="1"/>
+    <BowlerSummary name="Benji Stickley" overs="6.0" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="2" runs="32" wickets="4"/>
+    <BowlerSummary name="Harry Leggett" overs="5.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Jacob Ingram" overs="3.0" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Nagarju Garipelli" overs="1" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Arindam Ghosh"/>
+      <Bowler name="Aadya Bakshi"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Danny Sajjad"/>
+      <Bowler name="Matthew Roberts"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nagarju Garipelli">
+      <HowOut how="LBW"/>
+      <Bowler name="Matthew Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Arindam Ghosh"/>
+      <Bowler name="Matthew Roberts"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Raghu Ramanujam"/>
+      <Bowler name="Owen Roberts"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="LBW"/>
+      <Bowler name="Owen Roberts"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Caught Arindam Ghosh"/>
+      <Bowler name="Dev Patel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aadya Bakshi"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dev Patel"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Srinivas Bekkam">
+      <HowOut how="Caught Rajesh Singh"/>
+      <Bowler name="Raghu Ramanujam"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Extras value="8"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="4" score="13"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="5" score="78"/>
+    <FallOfWicket batsman="7" score="83"/>
+    <FallOfWicket batsman="6" score="86"/>
+    <FallOfWicket batsman="9" score="101"/>
+    <FallOfWicket batsman="8" score="101"/>
+    <FallOfWicket batsman="11" score="143"/>
+    <BowlerSummary name="Aadya Bakshi" overs="8.0" maidens="1" runs="34" wickets="2"/>
+    <BowlerSummary name="Matthew Roberts" overs="8.0" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Adam Mellor" overs="3.0" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Owen Roberts" overs="4.0" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Dev Patel" overs="5.0" maidens="0" runs="29" wickets="2"/>
+    <BowlerSummary name="Raghu Ramanujam" overs="0.5" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>

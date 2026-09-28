@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:30 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/may_25th_shinfield_4th_xi.xml-->
+<CricketMatch oppo="Shinfield 4th XI" date="Sat May 25 2024 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6322781">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Ben Armstead"/>
+      <Bowler name="Aryan Gandhi"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shreyas Mathur"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Tony Gaylor"/>
+      <Bowler name="Avnish Bharambe"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Stumped Paarth Bhavsar"/>
+      <Bowler name="Aryan Gandhi"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Paarth Bhavsar"/>
+      <Bowler name="Shreyas Mathur"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Caught Paarth Bhavsar"/>
+      <Bowler name="Aryan Gandhi"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Guy Lilford">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="1" score="155"/>
+    <FallOfWicket batsman="4" score="180"/>
+    <FallOfWicket batsman="6" score="180"/>
+    <FallOfWicket batsman="5" score="182"/>
+    <BowlerSummary name="Tony Gaylor" overs="8.0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Ben Armstead" overs="5.0" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Shreyas Mathur" overs="7.0" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Avnish Bharambe" overs="5.0" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Deependra Kumar" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Parag Bharambe" overs="5.0" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Aryan Gandhi" overs="7.0" maidens="0" runs="51" wickets="3"/>
+  </Innings>
+  <Innings batting="Shinfield 4th XI">
+    <Batsman name="William Joby">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rajneesh Raina">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Shiv Bhagat">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paarth Bhavsar">
+      <HowOut how="Run Out Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Avnish Bharambe">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shreyas Mathur">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tony Gaylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Aryan Gandhi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Parag Bharambe">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Deependra Kumar">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ben Armstead">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="20"/>
+    <FallOfWicket batsman="3" score="21"/>
+    <FallOfWicket batsman="4" score="21"/>
+    <FallOfWicket batsman="2" score="21"/>
+    <FallOfWicket batsman="5" score="21"/>
+    <FallOfWicket batsman="6" score="30"/>
+    <FallOfWicket batsman="8" score="42"/>
+    <FallOfWicket batsman="9" score="75"/>
+    <FallOfWicket batsman="10" score="77"/>
+    <FallOfWicket batsman="7" score="105"/>
+    <BowlerSummary name="Noel Downes" overs="6.0" maidens="4" runs="9" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="Simon Burr" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="6.0" maidens="1" runs="32" wickets="2"/>
+    <BowlerSummary name="Guy Lilford" overs="2.5" maidens="0" runs="14" wickets="1"/>
+    <BowlerSummary name="Zack Burr" overs="5" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+</CricketMatch>

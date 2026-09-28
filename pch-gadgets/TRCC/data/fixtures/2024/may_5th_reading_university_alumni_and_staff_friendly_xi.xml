@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:26 +01:00 (BST)-->
+<!--Result = Abandonned-->
+<!--XMLFilename = 2024/may_5th_reading_university_alumni_and_staff_friendly_xi.xml-->
+<CricketMatch oppo="Reading University Alumni and Staff Friendly XI" date="Sun May 05 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358740">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Reading University Alumni and Staff Friendly XI">
+    <Batsman name="Andrew Eagle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Unknown Nirinjan">
+      <HowOut how="Stumped Harry Leggett"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="- Fawaz">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="A Shakeel">
+      <HowOut how="Caught James West"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="S Tamer">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="H Aaron">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="A Taimur">
+      <HowOut how="Run Out Ben Nichols"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="- Awais">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="- Shabbaz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="- Ford">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="H Tranter">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Ben Nichols" overs="7" maidens="0" runs="14" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="7" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="7" maidens="1" runs="24" wickets="2"/>
+    <BowlerSummary name="Zack Burr" overs="7" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="James West" overs="3" maidens="0" runs="16" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James West">
+      <HowOut how="Caught - Fawaz"/>
+      <Bowler name="- Shabbaz"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught - Awais"/>
+      <Bowler name="- Shabbaz"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Taimur"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Taimur"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="A Taimur"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Taimur"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rob Joyston">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="- Shabbaz" overs="7" maidens="0" runs="18" wickets="2"/>
+    <BowlerSummary name="H Aaron" overs="7" maidens="1" runs="16" wickets="0"/>
+    <BowlerSummary name="A Taimur" overs="3" maidens="0" runs="2" wickets="4"/>
+    <BowlerSummary name="- Fawaz" overs="2" maidens="0" runs="3" wickets="0"/>
+  </Innings>
+</CricketMatch>

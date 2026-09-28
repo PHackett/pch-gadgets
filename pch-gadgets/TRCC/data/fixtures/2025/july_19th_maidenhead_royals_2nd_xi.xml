@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:52 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/july_19th_maidenhead_royals_2nd_xi.xml-->
+<CricketMatch oppo="Maidenhead Royals 2nd XI" date="Sat Jul 19 2025 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6737483">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Maidenhead Royals 2nd XI">
+    <Batsman name="Irfan Syed">
+      <HowOut how="Not Not Out"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Nasir Mohammad Abdul">
+      <HowOut how="Bowled"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Abdul Rehman Mohammad">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Lett"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Faraz Ahmed">
+      <HowOut how="Caught Charlie Shearsby"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nawed Shahin">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Syed Ibrahim">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Ishtiaq Ullah">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Aravind Sriram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sana Khan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Abdul Moeed Shaji Mohammed">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Saquib Mohammed">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="26"/>
+    <FallOfWicket batsman="4" score="135"/>
+    <FallOfWicket batsman="5" score="135"/>
+    <FallOfWicket batsman="3" score="138"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Alex Lett" overs="6.0" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Srinivas Bekkam" overs="6.0" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="Ravi Shankar Vattikuti" overs="5.0" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Benji Stickley" overs="3.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Charlie Shearsby" overs="2.0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="1.0" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="1.0" maidens="0" runs="19" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Benji Stickley">
+      <HowOut how="Caught Syed Ibrahim"/>
+      <Bowler name="Faraz Ahmed"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="LBW"/>
+      <Bowler name="Faraz Ahmed"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Hit Wicket"/>
+      <Bowler name="Faraz Ahmed"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nawed Shahin"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aravind Sriram"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Charlie Shearsby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saquib Mohammed"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Srinivas Bekkam">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Saquib Mohammed"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aravind Sriram"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Aravind Sriram"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Alex Lett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aravind Sriram"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ravi Shankar Vattikuti">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="27"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="6" score="44"/>
+    <FallOfWicket batsman="5" score="53"/>
+    <FallOfWicket batsman="8" score="63"/>
+    <FallOfWicket batsman="7" score="68"/>
+    <FallOfWicket batsman="9" score="75"/>
+    <FallOfWicket batsman="10" score="76"/>
+    <BowlerSummary name="Faraz Ahmed" overs="5.0" maidens="0" runs="23" wickets="4"/>
+    <BowlerSummary name="Nawed Shahin" overs="4.0" maidens="1" runs="17" wickets="1"/>
+    <BowlerSummary name="Saquib Mohammed" overs="3.0" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Aravind Sriram" overs="3.0" maidens="0" runs="20" wickets="4"/>
+  </Innings>
+</CricketMatch>

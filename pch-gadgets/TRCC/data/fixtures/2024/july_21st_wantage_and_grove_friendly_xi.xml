@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:52 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/july_21st_wantage_and_grove_friendly_xi.xml-->
+<CricketMatch oppo="Wantage and Grove Friendly XI" date="Sun Jul 21 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6633368">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Oliver Haine"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kirit Morgan"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Venkatesh Sundararaman"/>
+      <Bowler name="Oliver Haine"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Kirit Morgan"/>
+      <Bowler name="Joseph Turnbull"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Stumped Adrian Riley"/>
+      <Bowler name="Kirit Morgan"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <BowlerSummary name="Kirit Morgan" overs="6" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="Jack Seckham" overs="4" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Venkatesh Sundararaman" overs="5" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Andy Buckland" overs="6" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Joseph Turnbull" overs="7" maidens="0" runs="56" wickets="1"/>
+    <BowlerSummary name="Oliver Haine" overs="7" maidens="0" runs="42" wickets="2"/>
+  </Innings>
+  <Innings batting="Wantage and Grove Friendly XI">
+    <Batsman name="Stephen Bramley">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Ross Baker">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Paul Thompson">
+      <HowOut how="Caught Hamad Hussain"/>
+      <Bowler name="Kieran Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adrian Riley">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Elle Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kirit Morgan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkatesh Sundararaman">
+      <HowOut how="Run Out Adam Henley"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Andy Buckland">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jack Seckham">
+      <HowOut how="Run Out Ben Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joseph Turnbull">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Oliver Haine">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="21"/>
+    <BowlerSummary name="James West" overs="7" maidens="2" runs="19" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="5" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="7" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Kieran Downes" overs="7" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Hamad Hussain" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="5" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+</CricketMatch>

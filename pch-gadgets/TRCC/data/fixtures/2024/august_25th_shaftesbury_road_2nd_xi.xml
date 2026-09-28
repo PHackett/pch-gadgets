@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:36:02 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/august_25th_shaftesbury_road_2nd_xi.xml-->
+<CricketMatch oppo="Shaftesbury Road 2nd XI" date="Sun Aug 25 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6633238">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Shaftesbury Road 2nd XI">
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Harry Goodfield">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Daniel Dishkin">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Seb Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="98"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Whitcombe">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="William Thomas">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jonathan Hill">
+      <HowOut how="Caught Chris Fort"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Lewis Oliver">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Premkumar Sivaloganathan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <BowlerSummary name="Harry Leggett" overs="7" maidens="0" runs="36" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="7" maidens="0" runs="52" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="5" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="Angus Weir" overs="4" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="4" maidens="0" runs="24" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="4" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Christopher Priddle" overs="4" maidens="0" runs="47" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Ben Whitcombe"/>
+      <Bowler name="William Thomas"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="89"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Premkumar Sivaloganathan" overs="5" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Unsure" overs="7" maidens="1" runs="54" wickets="1"/>
+    <BowlerSummary name="William Thomas" overs="5" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Lewis Oliver" overs="5" maidens="1" runs="9" wickets="0"/>
+    <BowlerSummary name="Unsure" overs="7" maidens="0" runs="57" wickets="4"/>
+    <BowlerSummary name="Jonathan Hill" overs="3" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Seb Williams" overs="2" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Harry Goodfield" overs="1" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+</CricketMatch>

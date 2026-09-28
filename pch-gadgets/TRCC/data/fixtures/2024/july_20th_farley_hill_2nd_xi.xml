@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:49 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/july_20th_farley_hill_2nd_xi.xml-->
+<CricketMatch oppo="Farley Hill 2nd XI" date="Sat Jul 20 2024 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6322645">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Bilal Hussain"/>
+      <Bowler name="Sreejith Kenchath"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Ali Jalil"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Thomas Hale"/>
+      <Bowler name="Craig Jorey"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Thomas Hale"/>
+      <Bowler name="Andy Marr"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andy Marr"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Bilal Hussain"/>
+      <Bowler name="Sreejith Kenchath"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Errol Masters"/>
+      <Bowler name="Errol Masters"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ankush Jain">
+      <HowOut how="Run Out William Nash-Wortham"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="18"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <FallOfWicket batsman="5" score="87"/>
+    <FallOfWicket batsman="1" score="109"/>
+    <FallOfWicket batsman="6" score="114"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="9" score="151"/>
+    <BowlerSummary name="Craig Jorey" overs="8.0" maidens="2" runs="36" wickets="1"/>
+    <BowlerSummary name="Lawrence Heaton-Wright" overs="6.0" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Sreejith Kenchath" overs="8.0" maidens="1" runs="26" wickets="2"/>
+    <BowlerSummary name="Andy Marr" overs="8.0" maidens="3" runs="23" wickets="2"/>
+    <BowlerSummary name="Errol Masters" overs="8.0" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Ali Jalil" overs="2.0" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Farley Hill 2nd XI">
+    <Batsman name="Thomas Hale">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="William Nash-Wortham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Akeesh Khokhar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Josh Howard">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Craig Jorey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sreejith Kenchath">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Andy Marr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lawrence Heaton-Wright">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Errol Masters">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="24"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="7"/>
+    <FallOfWicket batsman="4" score="44"/>
+    <FallOfWicket batsman="1" score="60"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="7" score="76"/>
+    <BowlerSummary name="Ankush Jain" overs="7.0" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="3" runs="26" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6" maidens="2" runs="32" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="2" runs="33" wickets="3"/>
+    <BowlerSummary name="Neil Lancum" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="3.0" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>

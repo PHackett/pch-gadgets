@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:47 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/june_22nd_ibstone_2nd_xi.xml-->
+<CricketMatch oppo="Ibstone 2nd XI" date="Sun Jun 22 2025 13:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6801497">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Ibstone 2nd XI">
+    <Batsman name="Simon Copeman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="K Eaton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="F Fricker">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="L Hester">
+      <HowOut how="Stumped Adam Henley"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Thorneycroft">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Yin-Chuan Chang"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="C Dunbar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Alfie Copeman">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Shrish Gupta"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="N Adnett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="J Eaton">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Akshay Chawla">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="40"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Jacob Ingram" overs="5" maidens="0" runs="32" wickets="3"/>
+    <BowlerSummary name="Neil Lancum" overs="5.4" maidens="1" runs="27" wickets="1"/>
+    <BowlerSummary name="James West" overs="4" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="6" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="3" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Yin-Chuan Chang" overs="4" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Shrish Gupta" overs="3" maidens="0" runs="33" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="L Hester"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Akshay Chawla"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Akshay Chawla"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught C Dunbar"/>
+      <Bowler name="C Thorneycroft"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="LBW"/>
+      <Bowler name="L Hester"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Shrish Gupta">
+      <HowOut how="Caught K Eaton"/>
+      <Bowler name="K Eaton"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Yin-Chuan Chang">
+      <HowOut how="Bowled"/>
+      <Bowler name="F Fricker"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="F Fricker"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught C Dunbar"/>
+      <Bowler name="F Fricker"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <BowlerSummary name="J Eaton" overs="4" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Akshay Chawla" overs="4" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="L Hester" overs="4" maidens="0" runs="11" wickets="2"/>
+    <BowlerSummary name="C Thorneycroft" overs="4" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="K Eaton" overs="4" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Alfie Copeman" overs="4" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="F Fricker" overs="2" maidens="0" runs="9" wickets="3"/>
+  </Innings>
+</CricketMatch>

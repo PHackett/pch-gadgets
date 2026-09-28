@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:36:07 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/september_15th_sandhurst_cc__berks_friendly_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks Friendly XI" date="Sun Sep 15 2024 12:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358803">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Sandhurst CC_ Berks Friendly XI">
+    <Batsman name="Perry Lewington">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Barrie Dixon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Atif Qadar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Dilupa Chandrasekara">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Luke O'Neil">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Musa Raza">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Jake Grove">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Birch">
+      <HowOut how="Stumped Adam Henley"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="ajay chauhan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Dasun Weerasinghe">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Archie Sanders">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="50"/>
+    <FallOfWicket batsman="2" score="66"/>
+    <FallOfWicket batsman="4" score="112"/>
+    <FallOfWicket batsman="6" score="164"/>
+    <FallOfWicket batsman="7" score="166"/>
+    <FallOfWicket batsman="5" score="169"/>
+    <FallOfWicket batsman="9" score="195"/>
+    <FallOfWicket batsman="8" score="210"/>
+    <FallOfWicket batsman="10" score="210"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="James West" overs="4.2" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Benji Stickley" overs="8.0" maidens="1" runs="29" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="8.0" maidens="1" runs="44" wickets="2"/>
+    <BowlerSummary name="Hamad Hussain" overs="4.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="7.0" maidens="0" runs="55" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="ajay chauhan"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Varun Chekuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Archie Sanders"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Musa Raza"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Atif Qadar"/>
+      <Bowler name="Archie Sanders"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Musa Raza"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dilupa Chandrasekara"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Musa Raza"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Musa Raza"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="LBW"/>
+      <Bowler name="Musa Raza"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dasun Weerasinghe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="19"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="4" score="60"/>
+    <FallOfWicket batsman="5" score="74"/>
+    <FallOfWicket batsman="3" score="91"/>
+    <FallOfWicket batsman="6" score="91"/>
+    <FallOfWicket batsman="7" score="113"/>
+    <FallOfWicket batsman="9" score="113"/>
+    <FallOfWicket batsman="8" score="121"/>
+    <FallOfWicket batsman="10" score="133"/>
+    <BowlerSummary name="Archie Sanders" overs="8.0" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="ajay chauhan" overs="5.0" maidens="2" runs="27" wickets="1"/>
+    <BowlerSummary name="Dilupa Chandrasekara" overs="4.0" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="Musa Raza" overs="8.0" maidens="2" runs="28" wickets="5"/>
+    <BowlerSummary name="Jake Grove" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Dasun Weerasinghe" overs="1.0" maidens="0" runs="10" wickets="1"/>
+  </Innings>
+</CricketMatch>

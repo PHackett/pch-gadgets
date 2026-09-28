@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:48 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/july_13th_sandhurst_cc__berks_2nd_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks 2nd XI" date="Sat Jul 13 2024 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6322802">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Jack O'Neil"/>
+      <Bowler name="Sachin Malhi"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Guy Lilford">
+      <HowOut how="Caught Luke O'Neil"/>
+      <Bowler name="Max Oliver"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Max Oliver"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sean Lilford">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="72"/>
+    <FallOfWicket batsman="3" score="143"/>
+    <FallOfWicket batsman="4" score="161"/>
+    <BowlerSummary name="Russell Stone" overs="8.0" maidens="4" runs="9" wickets="0"/>
+    <BowlerSummary name="ajay chauhan" overs="6.0" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Jack O'Neil" overs="7.0" maidens="2" runs="14" wickets="0"/>
+    <BowlerSummary name="Richard Dobson" overs="8.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Sachin Malhi" overs="4.0" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Max Oliver" overs="7.0" maidens="0" runs="46" wickets="2"/>
+  </Innings>
+  <Innings batting="Sandhurst CC_ Berks 2nd XI">
+    <Batsman name="Perry Lewington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Luke O'Neil">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="David Oliver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Gary Pratt">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Jack O'Neil">
+      <HowOut how="Caught Guy Lilford"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Barrie Dixon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sachin Malhi">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="ajay chauhan">
+      <HowOut how="LBW"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Max Oliver">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Dobson">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Russell Stone">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="1" score="6"/>
+    <FallOfWicket batsman="3" score="31"/>
+    <FallOfWicket batsman="5" score="72"/>
+    <FallOfWicket batsman="6" score="73"/>
+    <FallOfWicket batsman="4" score="85"/>
+    <FallOfWicket batsman="8" score="90"/>
+    <FallOfWicket batsman="9" score="111"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <FallOfWicket batsman="11" score="137"/>
+    <BowlerSummary name="Ben Nichols" overs="6.3" maidens="4" runs="5" wickets="3"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="4.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="8.0" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Kavi Ghai" overs="4.0" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Guy Lilford" overs="8.0" maidens="1" runs="37" wickets="3"/>
+  </Innings>
+</CricketMatch>

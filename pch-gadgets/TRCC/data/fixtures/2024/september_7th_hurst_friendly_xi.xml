@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:36:05 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2024/september_7th_hurst_friendly_xi.xml-->
+<CricketMatch oppo="Hurst Friendly XI" date="Sat Sep 07 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6652070">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Hurst Friendly XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

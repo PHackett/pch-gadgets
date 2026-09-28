@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:32 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/may_11th_swyncombe_sunday_1st_xi.xml-->
+<CricketMatch oppo="Swyncombe Sunday 1st XI" date="Sun May 11 2025 13:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6801201">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Swyncombe Sunday 1st XI">
+    <Batsman name="Rowan Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Lett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Duncan Crockett">
+      <HowOut how="LBW"/>
+      <Bowler name="James West"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Talib A">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="92"/>
+    </Batsman>
+    <Batsman name="Nomeer Qatar">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Sandeep Pallithumbil"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Bailey Le Beige">
+      <HowOut how="Run Out Stanley Fritz"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jaylon Crockett">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Mark Lippet">
+      <HowOut how="Caught Hamad Hussain"/>
+      <Bowler name="James West"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Hopkins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Stanley Fritz"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Alex Brady">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ian Hunt">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Eagle">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="0"/>
+    <BowlerSummary name="Paul Hackett" overs="7.0" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Alex Lett" overs="7.0" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivake" overs="3.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="5.0" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="James West" overs="6.0" maidens="2" runs="15" wickets="3"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Duncan Crockett"/>
+      <Bowler name="Bailey Le Beige"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ian Hunt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Brady"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Duncan Crockett"/>
+      <Bowler name="Bailey Le Beige"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Talib A"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Duncan Crockett"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Talib A"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Talib A"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivake">
+      <HowOut how="Caught Duncan Crockett"/>
+      <Bowler name="Duncan Crockett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Lett">
+      <HowOut how="LBW"/>
+      <Bowler name="Talib A"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="0"/>
+  </Innings>
+</CricketMatch>

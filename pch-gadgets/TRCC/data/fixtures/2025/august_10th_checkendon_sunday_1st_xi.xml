@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:01 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/august_10th_checkendon_sunday_1st_xi.xml-->
+<CricketMatch oppo="Checkendon Sunday 1st XI" date="Sun Aug 10 2025 12:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6838003">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Checkendon Sunday 1st XI">
+    <Batsman name="Vishal Gupta">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Akshay Patil">
+      <HowOut how="LBW"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Sourav Kumar">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Sean Lilford"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Rohan Babuta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Swati Nandan">
+      <HowOut how="Run Out Shrish Gupta"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sudhir Kothem">
+      <HowOut how="Caught Joe Downes"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Abraham Lincoln">
+      <HowOut how="LBW"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Avinash Murthy">
+      <HowOut how="Caught Shrish Gupta"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ravi Srinivas">
+      <HowOut how="LBW"/>
+      <Bowler name="Joe Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashant Singh">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Shreyansh Kothem">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="2" score="48"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="4" score="117"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="6" score="161"/>
+    <FallOfWicket batsman="7" score="161"/>
+    <FallOfWicket batsman="9" score="161"/>
+    <FallOfWicket batsman="10" score="165"/>
+    <FallOfWicket batsman="8" score="177"/>
+    <BowlerSummary name="Shrish Gupta" overs="5.0" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Sean Lilford" overs="5.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="3.0" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="James West" overs="6.0" maidens="2" runs="17" wickets="1"/>
+    <BowlerSummary name="Manan Narula" overs="5.0" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Jacob Ingram" overs="4.1" maidens="1" runs="17" wickets="2"/>
+    <BowlerSummary name="Joe Downes" overs="2.0" maidens="1" runs="2" wickets="2"/>
+    <BowlerSummary name="Ben Nichols" overs="3.0" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Hamad Hussain" overs="1.0" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Abraham Lincoln"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Abraham Lincoln"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ravi Srinivas"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Prashant Singh"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Swati Nandan"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Swati Nandan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Sudhir Kothem"/>
+      <Bowler name="Shreyansh Kothem"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Shrish Gupta">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sean Lilford">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="1" score="30"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="5" score="144"/>
+    <FallOfWicket batsman="3" score="144"/>
+    <FallOfWicket batsman="6" score="151"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <BowlerSummary name="Ravi Srinivas" overs="8.0" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Abraham Lincoln" overs="8.0" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Prashant Singh" overs="7.0" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Vishal Gupta" overs="1.0" maidens="0" runs="5" wickets="0"/>
+    <BowlerSummary name="Avinash Murthy" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Sudhir Kothem" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Swati Nandan" overs="5.0" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Shreyansh Kothem" overs="0.3" maidens="0" runs="3" wickets="1"/>
+  </Innings>
+</CricketMatch>

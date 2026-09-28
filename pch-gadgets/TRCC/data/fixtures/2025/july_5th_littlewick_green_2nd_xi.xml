@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:49 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/july_5th_littlewick_green_2nd_xi.xml-->
+<CricketMatch oppo="Littlewick Green 2nd XI" date="Sat Jul 05 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737041">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Littlewick Green 2nd XI">
+    <Batsman name="Adrian Hurley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="Sam Packham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Chataway">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Rudy Redshaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Woody Redshaw">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Mahesh Nanjundappa">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Musab Ahmad">
+      <HowOut how="Caught Kavi Ghai"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Devansh Mehrotra">
+      <HowOut how="Run Out Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Robert Smith">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Chris Leakey">
+      <HowOut how="LBW"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Brooks">
+      <HowOut how="LBW"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="2" score="10"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="4" score="62"/>
+    <FallOfWicket batsman="5" score="74"/>
+    <FallOfWicket batsman="1" score="102"/>
+    <FallOfWicket batsman="7" score="108"/>
+    <FallOfWicket batsman="8" score="112"/>
+    <FallOfWicket batsman="6" score="117"/>
+    <FallOfWicket batsman="10" score="124"/>
+    <FallOfWicket batsman="11" score="131"/>
+    <BowlerSummary name="Andrew Miller" overs="5.3" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Kavi Ghai" overs="5.0" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="1" runs="18" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="7.0" maidens="1" runs="19" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Robert Smith"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mahesh Nanjundappa"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Robert Smith"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="George Mitchell">
+      <HowOut how="Caught Sam Packham"/>
+      <Bowler name="Rudy Redshaw"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="42"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="2" score="78"/>
+    <BowlerSummary name="Robert Smith" overs="6.0" maidens="0" runs="26" wickets="2"/>
+    <BowlerSummary name="Chris Leakey" overs="6.0" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Rudy Redshaw" overs="6" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Mahesh Nanjundappa" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Adam Chataway" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Dave Brooks" overs="1" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>

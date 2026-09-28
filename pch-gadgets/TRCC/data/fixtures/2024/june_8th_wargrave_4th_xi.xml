@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:37 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/june_8th_wargrave_4th_xi.xml-->
+<CricketMatch oppo="Wargrave 4th XI" date="Sat Jun 08 2024 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6421116">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Wargrave 4th XI">
+    <Batsman name="Tom Tabrah">
+      <HowOut how="Not Out"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Achint Rajeev">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Nandan Sant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Freddie Simmonds">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Scott Morton">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Manish Upadhyay">
+      <HowOut how="Run Out Benji Stickley"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Matt Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Advik Gupta">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jack Whitehead">
+      <HowOut how="Bowled"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kit Jeary">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Benji Stickley"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kabir Khurana">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="16"/>
+    <FallOfWicket batsman="2" score="6"/>
+    <FallOfWicket batsman="3" score="24"/>
+    <FallOfWicket batsman="4" score="25"/>
+    <FallOfWicket batsman="5" score="28"/>
+    <FallOfWicket batsman="6" score="54"/>
+    <FallOfWicket batsman="7" score="61"/>
+    <FallOfWicket batsman="8" score="63"/>
+    <FallOfWicket batsman="9" score="63"/>
+    <FallOfWicket batsman="10" score="69"/>
+    <FallOfWicket batsman="11" score="71"/>
+    <BowlerSummary name="Ben Nichols" overs="6.0" maidens="1" runs="10" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="0" runs="20" wickets="4"/>
+    <BowlerSummary name="Benji Stickley" overs="5.0" maidens="0" runs="28" wickets="4"/>
+    <BowlerSummary name="Spence Nichols" overs="4.0" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Zack Burr" overs="0.5" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Matt Clark"/>
+      <Bowler name="Jack Whitehead"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Advik Gupta"/>
+      <Bowler name="Manish Upadhyay"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="13"/>
+    <FallOfWicket batsman="1" score="5"/>
+    <FallOfWicket batsman="3" score="34"/>
+    <BowlerSummary name="Scott Morton" overs="6.0" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Jack Whitehead" overs="5.0" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Manish Upadhyay" overs="2.0" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="Freddie Simmonds" overs="2.0" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Achint Rajeev" overs="1.0" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Kit Jeary" overs="1.0" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Advik Gupta" overs="0.4" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>

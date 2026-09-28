@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:28 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/may_12th_swyncombe_sunday_1st_xi.xml-->
+<CricketMatch oppo="Swyncombe Sunday 1st XI" date="Sun May 12 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358745">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Ian Hunt"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught D Crockett"/>
+      <Bowler name="Charlie Cramp"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Lippet"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="M Lippet"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Rory Wilson"/>
+      <Bowler name="Charlie Cramp"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Rowan Hunt"/>
+      <Bowler name="R Ellis"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught R Ellis"/>
+      <Bowler name="R Ellis"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught T Crockett"/>
+      <Bowler name="Ian Hunt"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="40"/>
+    <BowlerSummary name="J Crockett" overs="9" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Charlie Cramp" overs="8" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Ian Hunt" overs="8" maidens="0" runs="23" wickets="2"/>
+    <BowlerSummary name="M Lippet" overs="5" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Rowan Hunt" overs="8" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="R Ellis" overs="4" maidens="0" runs="39" wickets="2"/>
+  </Innings>
+  <Innings batting="Swyncombe Sunday 1st XI">
+    <Batsman name="T Crockett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rory Wilson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="J Crockett">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="LBW"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ian Hunt">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="James West"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Rowan Hunt">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Charlie Cramp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ben Lippett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Bielich"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bridget Cooper">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="M Lippet">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="R Ellis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <BowlerSummary name="James West" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Stanley Fritz" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="8" maidens="1" runs="22" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="8" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Angus Weir" overs="3" maidens="0" runs="7" wickets="4"/>
+    <BowlerSummary name="Tom Bielich" overs="1" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>

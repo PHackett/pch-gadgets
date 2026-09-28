@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:54 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2024/august_3rd_phoenix_1st_xi.xml-->
+<CricketMatch oppo="Phoenix 1st XI" date="Sat Aug 03 2024 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="6322821">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught David Stephen"/>
+      <Bowler name="Raj Das"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sriram Krishnamoorthy"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Run Out Bailey Addinell"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sriram Krishnamoorthy"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Caught David Stephen"/>
+      <Bowler name="Sriram Krishnamoorthy"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lee Addinell"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raj Das"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Bowled"/>
+      <Bowler name="Raj Das"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="37"/>
+    <FallOfWicket batsman="3" score="37"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="4" score="172"/>
+    <FallOfWicket batsman="7" score="174"/>
+    <FallOfWicket batsman="9" score="174"/>
+    <BowlerSummary name="Raj Das" overs="8.0" maidens="2" runs="19" wickets="3"/>
+    <BowlerSummary name="Trevor Hilling" overs="8.0" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Kenneth Bath" overs="8.0" maidens="2" runs="23" wickets="0"/>
+    <BowlerSummary name="Sriram Krishnamoorthy" overs="8.0" maidens="1" runs="28" wickets="3"/>
+    <BowlerSummary name="Sunil Kainth" overs="3.0" maidens="1" runs="22" wickets="0"/>
+    <BowlerSummary name="Lee Addinell" overs="2.0" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Gareth Sweet" overs="2.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Tom Middleton" overs="1.0" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+  <Innings batting="Phoenix 1st XI">
+    <Batsman name="Raj Das">
+      <HowOut how="Caught Benji Stickley"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Sunil Kainth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Trevor Hilling">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="David Stephen">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Tom Middleton">
+      <HowOut how="Caught Steve Walkland"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sriram Krishnamoorthy">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kenneth Bath">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Andrew Brench">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Gareth Sweet">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Bailey Addinell">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lee Addinell">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="38"/>
+    <FallOfWicket batsman="1" score="48"/>
+    <FallOfWicket batsman="3" score="111"/>
+    <FallOfWicket batsman="2" score="114"/>
+    <FallOfWicket batsman="5" score="130"/>
+    <FallOfWicket batsman="4" score="140"/>
+    <FallOfWicket batsman="6" score="140"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <FallOfWicket batsman="9" score="172"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Benji Stickley" overs="3.0" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Kavi Ghai" overs="6.5" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="8.0" maidens="1" runs="18" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="5.0" maidens="0" runs="26" wickets="3"/>
+  </Innings>
+</CricketMatch>

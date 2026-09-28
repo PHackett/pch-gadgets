@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:12 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/september_6th_littlewick_green_2nd_xi.xml-->
+<CricketMatch oppo="Littlewick Green 2nd XI" date="Sat Sep 06 2025 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="6737086">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Chris Leakey"/>
+      <Bowler name="Robert Smith"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Max Hanshaw"/>
+      <Bowler name="Colin Russell"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="George Mitchell">
+      <HowOut how="Caught Dave Brooks"/>
+      <Bowler name="Samuel Scozzari"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Sidharth Komathukattil"/>
+      <Bowler name="Jack Hesom"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samuel Scozzari"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Hesom"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Louis Russell"/>
+      <Bowler name="Louis Russell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Caught Max Hanshaw"/>
+      <Bowler name="Max Williams"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Jack Hesom"/>
+      <Bowler name="Chris Leakey"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chris Leakey"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="23"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="3" score="70"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="4" score="84"/>
+    <FallOfWicket batsman="6" score="94"/>
+    <FallOfWicket batsman="7" score="104"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="9" score="124"/>
+    <FallOfWicket batsman="11" score="136"/>
+    <BowlerSummary name="Robert Smith" overs="5.0" maidens="0" runs="27" wickets="1"/>
+    <BowlerSummary name="Colin Russell" overs="8.0" maidens="2" runs="30" wickets="1"/>
+    <BowlerSummary name="Samuel Scozzari" overs="8.0" maidens="2" runs="14" wickets="2"/>
+    <BowlerSummary name="Jack Hesom" overs="4.0" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Max Williams" overs="5.0" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Louis Russell" overs="2.0" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Chris Leakey" overs="2.2" maidens="0" runs="6" wickets="2"/>
+  </Innings>
+  <Innings batting="Littlewick Green 2nd XI">
+    <Batsman name="Max Hanshaw">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Subir Banerji">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Louis Russell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Sidharth Komathukattil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Max Williams">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Robert Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chris Leakey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Samuel Scozzari">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dave Brooks">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jack Hesom">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Colin Russell">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="49"/>
+    <FallOfWicket batsman="3" score="93"/>
+    <FallOfWicket batsman="2" score="93"/>
+    <FallOfWicket batsman="4" score="93"/>
+    <FallOfWicket batsman="5" score="95"/>
+    <FallOfWicket batsman="6" score="99"/>
+    <FallOfWicket batsman="7" score="99"/>
+    <FallOfWicket batsman="8" score="100"/>
+    <FallOfWicket batsman="10" score="100"/>
+    <FallOfWicket batsman="9" score="103"/>
+    <BowlerSummary name="Ben Nichols" overs="4.0" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="5" runs="18" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="4.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8.0" maidens="4" runs="7" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="3.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Spence Nichols" overs="7.0" maidens="1" runs="11" wickets="6"/>
+    <BowlerSummary name="Marc Teal" overs="1.0" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+</CricketMatch>

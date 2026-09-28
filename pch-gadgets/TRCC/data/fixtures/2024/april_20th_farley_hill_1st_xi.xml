@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:23 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2024/april_20th_farley_hill_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill 1st XI" date="Sat Apr 20 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358729">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Farley Hill 1st XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

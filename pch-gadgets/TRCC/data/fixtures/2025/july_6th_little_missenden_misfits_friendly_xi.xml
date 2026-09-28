@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:50 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2025/july_6th_little_missenden_misfits_friendly_xi.xml-->
+<CricketMatch oppo="Little Missenden Misfits Friendly XI" date="Sun Jul 06 2025 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7159100">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Harry Leggett">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sam Stubbs Benbow"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Caught Patrick Walsh"/>
+      <Bowler name="Andrew Connolly"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Stubbs Benbow"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Not Out"/>
+      <Runs value="118"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Naveed Hussain"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Guy Lilford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Stubbs Benbow"/>
+      <Runs value="68"/>
+    </Batsman>
+    <Batsman name="Sean Lilford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Atif Mirza"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="LBW"/>
+      <Bowler name="Atif Mirza"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Srinivas Bekkam">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="3" score="43"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="5" score="79"/>
+    <FallOfWicket batsman="7" score="218"/>
+    <FallOfWicket batsman="8" score="227"/>
+    <FallOfWicket batsman="6" score="280"/>
+    <BowlerSummary name="Jordan Essex" overs="8.0" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Sam Stubbs Benbow" overs="8.0" maidens="2" runs="35" wickets="3"/>
+    <BowlerSummary name="Andrew Connolly" overs="8.0" maidens="2" runs="56" wickets="1"/>
+    <BowlerSummary name="Naveed Hussain" overs="6.0" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Benson D'Costa" overs="3.0" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Atif Mirza" overs="5.0" maidens="0" runs="36" wickets="2"/>
+    <BowlerSummary name="Ash Bishop" overs="2.0" maidens="1" runs="14" wickets="0"/>
+  </Innings>
+  <Innings batting="Little Missenden Misfits Friendly XI">
+    <Batsman name="Ash Bishop">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="David Tossell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Julian Coppock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Benson D'Costa">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Billy Ahmed">
+      <HowOut how="Caught Guy Lilford"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Guy Young">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Sam Stubbs Benbow">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sean Lilford"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Atif Mirza">
+      <HowOut how="LBW"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Connolly">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Srinivas Bekkam"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jordan Essex">
+      <HowOut how="Bowled"/>
+      <Bowler name="Guy Lilford"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Patrick Walsh">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Naveed Hussain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="44"/>
+    <FallOfWicket batsman="1" score="37"/>
+    <FallOfWicket batsman="3" score="60"/>
+    <FallOfWicket batsman="4" score="60"/>
+    <FallOfWicket batsman="2" score="65"/>
+    <FallOfWicket batsman="5" score="85"/>
+    <FallOfWicket batsman="7" score="140"/>
+    <FallOfWicket batsman="8" score="141"/>
+    <FallOfWicket batsman="9" score="147"/>
+    <FallOfWicket batsman="6" score="160"/>
+    <FallOfWicket batsman="10" score="160"/>
+    <BowlerSummary name="Srinivas Bekkam" overs="8.0" maidens="2" runs="13" wickets="2"/>
+    <BowlerSummary name="Jacob Ingram" overs="6.0" maidens="0" runs="48" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="3.0" maidens="0" runs="5" wickets="3"/>
+    <BowlerSummary name="Sean Lilford" overs="4.0" maidens="2" runs="9" wickets="1"/>
+    <BowlerSummary name="Guy Lilford" overs="4.2" maidens="1" runs="23" wickets="2"/>
+    <BowlerSummary name="Hamad Hussain" overs="4.0" maidens="1" runs="17" wickets="0"/>
+    <BowlerSummary name="James West" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Manan Narula" overs="3.0" maidens="1" runs="7" wickets="1"/>
+  </Innings>
+</CricketMatch>

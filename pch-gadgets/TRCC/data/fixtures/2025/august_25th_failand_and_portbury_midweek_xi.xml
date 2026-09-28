@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:32:06 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/august_25th_failand_and_portbury_midweek_xi.xml-->
+<CricketMatch oppo="Failand and Portbury Midweek XI" date="Mon Aug 25 2025 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6838092">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Matthew Langhorne"/>
+      <Bowler name="Hussain K"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Rich Coward"/>
+      <Bowler name="Neil Harrison"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rich Coward"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Matthew Langhorne"/>
+      <Bowler name="Mark Day"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Matthew Langhorne"/>
+      <Bowler name="Mark Day"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught Neil Harrison"/>
+      <Bowler name="Sam Gunaratne T.T.S.L."/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sam Gunaratne T.T.S.L."/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ed Grimston"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ted Billing"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Caught Stephen Edmonds"/>
+      <Bowler name="Ed Grimston"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="1" score="71"/>
+    <FallOfWicket batsman="3" score="78"/>
+    <FallOfWicket batsman="4" score="94"/>
+    <FallOfWicket batsman="5" score="109"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="7" score="114"/>
+    <FallOfWicket batsman="8" score="124"/>
+    <FallOfWicket batsman="9" score="128"/>
+    <FallOfWicket batsman="10" score="137"/>
+    <BowlerSummary name="Thomas Child" overs="5" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Neil Harrison" overs="5" maidens="1" runs="14" wickets="1"/>
+    <BowlerSummary name="Hussain K" overs="6" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Rich Coward" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Mark Day" overs="5" maidens="2" runs="7" wickets="2"/>
+    <BowlerSummary name="Sam Gunaratne T.T.S.L." overs="4" maidens="1" runs="13" wickets="2"/>
+    <BowlerSummary name="Ed Grimston" overs="1.3" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Ted Billing" overs="1" maidens="0" runs="5" wickets="1"/>
+  </Innings>
+  <Innings batting="Failand and Portbury Midweek XI">
+    <Batsman name="Daniel Edson">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Rich Else">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Matthew Langhorne">
+      <HowOut how="Not Out"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Ed Grimston">
+      <HowOut how="LBW"/>
+      <Bowler name="Chris Fort"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Ted Billing">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Stephen Edmonds">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hussain K">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sam Gunaratne T.T.S.L.">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rich Coward">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Day">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Harrison">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Child">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="83"/>
+    <FallOfWicket batsman="1" score="89"/>
+    <FallOfWicket batsman="4" score="116"/>
+    <BowlerSummary name="Ben Ackerman" overs="3" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="3" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Spence Nichols" overs="3" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Chris Fort" overs="2.1" maidens="0" runs="21" wickets="1"/>
+  </Innings>
+</CricketMatch>

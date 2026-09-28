@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:31:55 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2025/july_27th_farley_hill_sunday_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill Sunday 1st XI" date="Sun Jul 27 2025 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6837992">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Farley Hill Sunday 1st XI">
+    <Batsman name="Zeeshan Hussain">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Simon Longfield">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="James West"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hussain Raja">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Craig Jorey">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Sai Pavan Kumar Ananthapura">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Lett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Louis Barwell">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Alex Lett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ajmal Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Lawrence Heaton-Wright">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mo Khan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="36"/>
+    <BowlerSummary name="James West" overs="8.0" maidens="1" runs="38" wickets="3"/>
+    <BowlerSummary name="Alex Lett" overs="6.0" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Lee Leggett" overs="6.0" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Harry Leggett" overs="8.0" maidens="1" runs="29" wickets="3"/>
+    <BowlerSummary name="Hamad Hussain" overs="1.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Yin-Chuan Chang" overs="5.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="1" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Craig Jorey"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Hamad Hussain">
+      <HowOut how="Bowled"/>
+      <Bowler name="Craig Jorey"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Louis Barwell"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Bilal Hussain"/>
+      <Bowler name="Craig Jorey"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Yin-Chuan Chang">
+      <HowOut how="LBW"/>
+      <Bowler name="Mo Khan"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Caught Louis Barwell"/>
+      <Bowler name="Lawrence Heaton-Wright"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mo Khan"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="LBW"/>
+      <Bowler name="Mo Khan"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Lett">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Lawrence Heaton-Wright"/>
+      <Bowler name="Louis Barwell"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="43"/>
+    <BowlerSummary name="Louis Barwell" overs="6" maidens="0" runs="39" wickets="1"/>
+    <BowlerSummary name="Lawrence Heaton-Wright" overs="8" maidens="1" runs="29" wickets="4"/>
+    <BowlerSummary name="Craig Jorey" overs="5" maidens="2" runs="7" wickets="2"/>
+    <BowlerSummary name="Ajmal Khan" overs="8" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Mo Khan" overs="8" maidens="0" runs="38" wickets="3"/>
+  </Innings>
+</CricketMatch>

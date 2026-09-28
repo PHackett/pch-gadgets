@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:35:42 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2024/june_30th_warfield_sunday_xi.xml-->
+<CricketMatch oppo="Warfield Sunday XI" date="Sun Jun 30 2024 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6358787">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Giri Ganesh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Dan Torry"/>
+      <Bowler name="Giri Ganesh"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="LBW"/>
+      <Bowler name="Jack Cantle"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dylan Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Henry Peate"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Edward Gulliver"/>
+      <Bowler name="Jack Cantle"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Edward Gulliver"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Edward Gulliver"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="17"/>
+    <FallOfWicket batsman="5" score="23"/>
+    <FallOfWicket batsman="4" score="74"/>
+    <FallOfWicket batsman="6" score="179"/>
+    <FallOfWicket batsman="7" score="180"/>
+    <FallOfWicket batsman="8" score="225"/>
+    <BowlerSummary name="Giri Ganesh" overs="3.0" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Jack Cantle" overs="5.0" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Henry Peate" overs="8.0" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Steve Ruddle" overs="8.0" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Mohideen Mubarak" overs="5.0" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Shailesh Karkera" overs="3.0" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Edward Gulliver" overs="4.0" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Ant Sharpe" overs="4.0" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+  <Innings batting="Warfield Sunday XI">
+    <Batsman name="Jack Cantle">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Chander Prakash">
+      <HowOut how="Caught Vijay Deekonda"/>
+      <Bowler name="James West"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ameen Fazar">
+      <HowOut how="Caught Neil Lancum"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ant Sharpe">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Dan Torry">
+      <HowOut how="Not Out"/>
+      <Runs value="72"/>
+    </Batsman>
+    <Batsman name="Edward Gulliver">
+      <HowOut how="Caught Venkat Gudivaka"/>
+      <Bowler name="Tom Bielich"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Giri Ganesh">
+      <HowOut how="Not Not Out"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Henry Peate">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Shailesh Karkera">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Ruddle">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mohideen Mubarak">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="13"/>
+    <FallOfWicket batsman="3" score="46"/>
+    <FallOfWicket batsman="4" score="48"/>
+    <FallOfWicket batsman="1" score="67"/>
+    <FallOfWicket batsman="6" score="94"/>
+    <BowlerSummary name="James West" overs="6.0" maidens="1" runs="35" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="5.0" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="5.0" maidens="2" runs="12" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="8.0" maidens="0" runs="26" wickets="3"/>
+    <BowlerSummary name="Dylan Burr" overs="5.0" maidens="0" runs="20" wickets="0"/>
+    <BowlerSummary name="Tom Bielich" overs="5.0" maidens="0" runs="31" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="2.0" maidens="0" runs="9" wickets="0"/>
+    <BowlerSummary name="Maaz Salman" overs="4.0" maidens="0" runs="27" wickets="0"/>
+  </Innings>
+</CricketMatch>
