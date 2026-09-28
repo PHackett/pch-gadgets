@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:28:41 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/may_3rd_binfield_friendly_xi.xml-->
+<CricketMatch oppo="Binfield Friendly XI" date="Sun May 03 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7451136">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Binfield Friendly XI">
+    <Batsman name="Will Kings">
+      <HowOut how="Not Out"/>
+      <Runs value="111"/>
+    </Batsman>
+    <Batsman name="Adrian Millerick">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Mitesh Patel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Bennett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="73"/>
+    </Batsman>
+    <Batsman name="Finn Beckford">
+      <HowOut how="Bowled"/>
+      <Bowler name="Charlie Shearsby"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jaden Slaughter">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ollie Holden">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matthew Potter">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Christopher Emes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Peter Henly">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jon Gould">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="2" score="45"/>
+    <FallOfWicket batsman="3" score="69"/>
+    <FallOfWicket batsman="4" score="211"/>
+    <FallOfWicket batsman="5" score="233"/>
+    <BowlerSummary name="Andrew Miller" overs="8.0" maidens="1" runs="32" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Harry Leggett" overs="5.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Zack Burr" overs="8.0" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Lee Leggett" overs="7.0" maidens="0" runs="60" wickets="1"/>
+    <BowlerSummary name="Charlie Shearsby" overs="4.0" maidens="0" runs="29" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Not Out"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Christopher Emes"/>
+      <Bowler name="Ollie Holden"/>
+      <Runs value="81"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="LBW"/>
+      <Bowler name="Peter Henly"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Peter Henly"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Shearsby">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="2" score="193"/>
+    <FallOfWicket batsman="3" score="194"/>
+    <FallOfWicket batsman="4" score="194"/>
+    <BowlerSummary name="Matthew Potter" overs="5.0" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Ollie Holden" overs="8.0" maidens="0" runs="51" wickets="1"/>
+    <BowlerSummary name="Peter Henly" overs="7.0" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Finn Beckford" overs="8.0" maidens="0" runs="49" wickets="0"/>
+    <BowlerSummary name="Jaden Slaughter" overs="5.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Christopher Emes" overs="6.0" maidens="0" runs="30" wickets="0"/>
+  </Innings>
+</CricketMatch>

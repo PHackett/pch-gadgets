@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:28:58 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2026/june_14th_cypos_friendly_xi.xml-->
+<CricketMatch oppo="Cypos Friendly XI" date="Sun Jun 14 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7374588">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Cypos Friendly XI">
+    <Batsman name="Albert Lockwood">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ian Garrard">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Keeran Sritharan">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="61"/>
+    </Batsman>
+    <Batsman name="William Yard">
+      <HowOut how="Not Out"/>
+      <Runs value="103"/>
+    </Batsman>
+    <Batsman name="Kaz Siddiqui">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sandeep Pallithumbil"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Rajiv Paul">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Cumar Chandrasegaran">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Willis">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sid Sritharan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aryaman Sharma">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mustafa Al-Azzawi">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="2" score="7"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="3" score="182"/>
+    <FallOfWicket batsman="5" score="200"/>
+    <BowlerSummary name="Andrew Miller" overs="6.0" maidens="4" runs="9" wickets="2"/>
+    <BowlerSummary name="Kavi Ghai" overs="8.0" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="6.0" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="6.0" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Chris Fort" overs="6.0" maidens="0" runs="36" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="William Yard"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Aryaman Sharma"/>
+      <Bowler name="Rajiv Paul"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="37"/>
+    <FallOfWicket batsman="1" score="70"/>
+    <FallOfWicket batsman="2" score="175"/>
+    <BowlerSummary name="Mustafa Al-Azzawi" overs="8.0" maidens="1" runs="41" wickets="0"/>
+    <BowlerSummary name="Aryaman Sharma" overs="6.0" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="William Yard" overs="5.0" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Cumar Chandrasegaran" overs="7.0" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Albert Lockwood" overs="4.0" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Keeran Sritharan" overs="2.0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Rajiv Paul" overs="2.4" maidens="0" runs="15" wickets="1"/>
+  </Innings>
+</CricketMatch>

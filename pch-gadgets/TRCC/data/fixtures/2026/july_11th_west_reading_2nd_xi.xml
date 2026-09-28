@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:05 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2026/july_11th_west_reading_2nd_xi.xml-->
+<CricketMatch oppo="West Reading 2nd XI" date="Sat Jul 11 2026 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="7296825">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ahmed Imran"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abdul Hafeez"/>
+      <Runs value="114"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Ahmed Imran"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="LBW"/>
+      <Bowler name="Saadat Khan"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="102"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abdurraheem Hafeez"/>
+      <Runs value="53"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Abdul Hafeez"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="33"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="32"/>
+    <FallOfWicket batsman="4" score="64"/>
+    <FallOfWicket batsman="2" score="206"/>
+    <FallOfWicket batsman="6" score="305"/>
+    <FallOfWicket batsman="7" score="347"/>
+    <BowlerSummary name="Abdurraheem Hafeez" overs="9.0" maidens="1" runs="59" wickets="1"/>
+    <BowlerSummary name="Ahmed Imran" overs="6.0" maidens="0" runs="50" wickets="2"/>
+    <BowlerSummary name="Hafiz Saad Khawar" overs="4.0" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Saadat Khan" overs="7.0" maidens="0" runs="56" wickets="1"/>
+    <BowlerSummary name="FARHAN AHMAD" overs="4.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Abdul Hafeez" overs="8.0" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Hussnain Mahmood" overs="3.0" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Mohammed Shakeel" overs="4.0" maidens="0" runs="29" wickets="0"/>
+  </Innings>
+  <Innings batting="West Reading 2nd XI">
+    <Batsman name="Farhan Afzal">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Aamir Hayat">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hafiz Saad Khawar">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="FARHAN AHMAD">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Saadat Khan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Mohammed Shakeel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Abdurraheem Hafeez">
+      <HowOut how="LBW"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Ahmed Imran">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Abdul Hafeez">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hussnain Mahmood">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="1" score="91"/>
+    <FallOfWicket batsman="4" score="110"/>
+    <FallOfWicket batsman="5" score="120"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <FallOfWicket batsman="6" score="176"/>
+    <FallOfWicket batsman="9" score="191"/>
+    <FallOfWicket batsman="10" score="197"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6.0" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Kiran Juluri" overs="5.0" maidens="0" runs="46" wickets="0"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="9.0" maidens="1" runs="36" wickets="3"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="4.1" maidens="0" runs="13" wickets="4"/>
+    <BowlerSummary name="Harry Leggett" overs="4.0" maidens="1" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>

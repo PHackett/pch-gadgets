@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:21 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/august_22nd_boyne_hill_5th_xi.xml-->
+<CricketMatch oppo="Boyne Hill 5th XI" date="Sat Aug 22 2026 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="7299058">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Adya Bhanot"/>
+      <Bowler name="Ethan Chavan"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankur Nangpal"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Bhanu Prakash">
+      <HowOut how="Stumped Tegh Chahal"/>
+      <Bowler name="Ethan Chavan"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="LBW"/>
+      <Bowler name="Ankur Nangpal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankur Nangpal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vivek Joon">
+      <HowOut how="Caught Ankur Nangpal"/>
+      <Bowler name="Ethan Chavan"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Sean Lilford">
+      <HowOut how="Caught Stephen Haynes"/>
+      <Bowler name="Adya Bhanot"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adya Bhanot"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Caught Tegh Chahal"/>
+      <Bowler name="Ridh Soni"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ridh Soni"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="32"/>
+    <FallOfWicket batsman="1" score=""/>
+    <BowlerSummary name="Rohan Nangpal" overs="5.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Ayushman Saha" overs="5.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Ankur Nangpal" overs="5" maidens="0" runs="24" wickets="3"/>
+    <BowlerSummary name="Ethan Chavan" overs="5.0" maidens="0" runs="20" wickets="3"/>
+    <BowlerSummary name="Adya Bhanot" overs="4" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Rahi Soni" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Ridh Soni" overs="4.1" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="adam jalal" overs="3" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Boyne Hill 5th XI">
+    <Batsman name="Ray Borg-Potter">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ethan Chavan">
+      <HowOut how="Caught Benji Stickley"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Adya Bhanot">
+      <HowOut how="Run Out Benji Stickley"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Ridh Soni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Stephen Haynes">
+      <HowOut how="Caught Benji Stickley"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tegh Chahal">
+      <HowOut how="Caught Vivek Joon"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Rohan Nangpal">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Ankur Nangpal">
+      <HowOut how="Not Out"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Rahi Soni">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="adam jalal">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ayushman Saha">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <BowlerSummary name="Jacob Ingram" overs="8" maidens="0" runs="34" wickets="2"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6" maidens="1" runs="25" wickets="0"/>
+    <BowlerSummary name="Benji Stickley" overs="1" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Lee Leggett" overs="8" maidens="2" runs="33" wickets="2"/>
+    <BowlerSummary name="James Ingram" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Vivek Joon" overs="4.5" maidens="0" runs="25" wickets="0"/>
+  </Innings>
+</CricketMatch>

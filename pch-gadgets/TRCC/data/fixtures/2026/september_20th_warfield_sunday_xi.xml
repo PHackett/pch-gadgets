@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:30 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/september_20th_warfield_sunday_xi.xml-->
+<CricketMatch oppo="Warfield Sunday XI" date="Sun Sep 20 2026 12:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7251793">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield Sunday XI">
+    <Batsman name="Chris Sharpe">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jack Cantle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Roger Goff">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Stuart Walsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Vamshi Lingala">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Dan Torry">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="William Walsh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Tim Worsley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sarah Walsh">
+      <HowOut how="Caught Nic Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Neil Gulliver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Bolam">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="41"/>
+    <FallOfWicket batsman="1" score="3"/>
+    <FallOfWicket batsman="3" score="19"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="2" score="51"/>
+    <FallOfWicket batsman="5" score="156"/>
+    <FallOfWicket batsman="6" score="167"/>
+    <FallOfWicket batsman="8" score="171"/>
+    <FallOfWicket batsman="7" score="181"/>
+    <FallOfWicket batsman="10" score="181"/>
+    <FallOfWicket batsman="9" score="182"/>
+    <BowlerSummary name="Neil Lancum" overs="6.0" maidens="1" runs="19" wickets="3"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="7.0" maidens="2" runs="29" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="7.0" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Lee Leggett" overs="5.0" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="4.1" maidens="1" runs="14" wickets="6"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="William Walsh"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="Dan Torry"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Torry"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Stumped Roger Goff"/>
+      <Bowler name="Vamshi Lingala"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Cantle"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Vamshi Lingala"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught William Walsh"/>
+      <Bowler name="Vamshi Lingala"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vamshi Lingala"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Stumped Roger Goff"/>
+      <Bowler name="Vamshi Lingala"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <FallOfWicket batsman="3" score="41"/>
+    <FallOfWicket batsman="1" score="117"/>
+    <FallOfWicket batsman="4" score="134"/>
+    <FallOfWicket batsman="6" score="142"/>
+    <FallOfWicket batsman="5" score="146"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <FallOfWicket batsman="7" score="164"/>
+    <FallOfWicket batsman="9" score="174"/>
+    <BowlerSummary name="Chris Bolam" overs="7.0" maidens="1" runs="40" wickets="0"/>
+    <BowlerSummary name="Dan Torry" overs="7.0" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="William Walsh" overs="5.0" maidens="1" runs="23" wickets="1"/>
+    <BowlerSummary name="Sarah Walsh" overs="3.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Tim Worsley" overs="4.0" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Vamshi Lingala" overs="6.0" maidens="0" runs="30" wickets="5"/>
+    <BowlerSummary name="Jack Cantle" overs="3.0" maidens="0" runs="14" wickets="1"/>
+  </Innings>
+</CricketMatch>

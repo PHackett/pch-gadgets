@@ -327,7 +327,7 @@ def convert(match_id, api_token, json_source=None, save_json=False):
 
     dom.appendChild(root)
 
-    output_dir = f"../output/{match_date.strftime('%Y')}"
+    output_dir = f"../data/fixtures/{match_date.strftime('%Y')}"
     os.makedirs(output_dir, exist_ok=True)
     output_path = f'{output_dir}/{xml_file_name}'
     with open(output_path, 'w', encoding='utf-8') as f:

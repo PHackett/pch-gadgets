@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:28:56 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/june_7th_greys_green_1st_xi.xml-->
+<CricketMatch oppo="Greys Green 1st XI" date="Sun Jun 07 2026 13:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7380387">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Gurvinder Singh"/>
+      <Bowler name="Barkat Ahmed"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Gurvinder Singh"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Louis Galwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Rugg"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Tarsem Singh"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ujjwal Manda">
+      <HowOut how="Not Out"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Kunal Lala"/>
+      <Bowler name="Alex Martin"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Caught Luke Jenkins"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Adam Rolston"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Caught Gurvinder Singh"/>
+      <Bowler name="Gurvinder Singh"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="18"/>
+    <FallOfWicket batsman="1" score="15"/>
+    <FallOfWicket batsman="3" score="16"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="4" score="59"/>
+    <FallOfWicket batsman="6" score="74"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <FallOfWicket batsman="9" score="90"/>
+    <FallOfWicket batsman="10" score="93"/>
+    <FallOfWicket batsman="11" score="111"/>
+    <BowlerSummary name="Gurvinder Singh" overs="5.2" maidens="0" runs="20" wickets="2"/>
+    <BowlerSummary name="Andrew Rugg" overs="7.0" maidens="4" runs="7" wickets="1"/>
+    <BowlerSummary name="Barkat Ahmed" overs="4.0" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Luke Jenkins" overs="7.0" maidens="2" runs="19" wickets="4"/>
+    <BowlerSummary name="Alex Martin" overs="4.0" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Adam Rolston" overs="2.0" maidens="0" runs="17" wickets="1"/>
+  </Innings>
+  <Innings batting="Greys Green 1st XI">
+    <Batsman name="Mohammed Shafqat">
+      <HowOut how="LBW"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Kunal Lala">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="Ujjwal Manda"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Gurteez Singh">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="Ujjwal Manda"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tarsem Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Barkat Ahmed">
+      <HowOut how="Not Out"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Gurvinder Singh">
+      <HowOut how="LBW"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Matthew Skilleter">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Luke Jenkins">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alex Martin">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Adam Rolston">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Rugg">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="" score=""/>
+    <FallOfWicket batsman="" score=""/>
+    <FallOfWicket batsman="" score=""/>
+    <FallOfWicket batsman="" score=""/>
+    <FallOfWicket batsman="" score=""/>
+    <FallOfWicket batsman="" score=""/>
+    <FallOfWicket batsman="" score=""/>
+    <BowlerSummary name="Sathesh Polepaka" overs="7.0" maidens="4" runs="4" wickets="1"/>
+    <BowlerSummary name="Andrew Jones" overs="5.0" maidens="1" runs="23" wickets="0"/>
+    <BowlerSummary name="Ujjwal Manda" overs="6.0" maidens="2" runs="15" wickets="2"/>
+    <BowlerSummary name="Neil Lancum" overs="2.0" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="1.0" maidens="0" runs="9" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.0" maidens="0" runs="18" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="5.3" maidens="1" runs="26" wickets="2"/>
+  </Innings>
+</CricketMatch>

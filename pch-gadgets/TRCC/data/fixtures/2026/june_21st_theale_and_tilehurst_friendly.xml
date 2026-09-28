@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:00 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2026/june_21st_theale_and_tilehurst_friendly.xml-->
+<CricketMatch oppo="Theale and Tilehurst Friendly" date="Sun Jun 21 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7526308">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Theale and Tilehurst Friendly">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

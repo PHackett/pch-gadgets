@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:16 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/august_8th_aldershot_3rd_xi.xml-->
+<CricketMatch oppo="Aldershot 3rd XI" date="Sat Aug 08 2026 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="7296845">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Jayanta Bhattacharjee"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Ollie Lewis"/>
+      <Bowler name="Owen Wildsmith"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Stumped Ollie Lewis"/>
+      <Bowler name="Jayanta Bhattacharjee"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jayanta Bhattacharjee"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aroulvendhan Pougajendy"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Caught Finley Bearn"/>
+      <Bowler name="Andy Summers"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aroulvendhan Pougajendy"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught Andy Summers"/>
+      <Bowler name="Andy Summers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Bowled"/>
+      <Bowler name="Finley Bearn"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Charanteja Bommagani Bommagani">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aroulvendhan Pougajendy"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="58"/>
+    <FallOfWicket batsman="2" score="77"/>
+    <FallOfWicket batsman="3" score="137"/>
+    <FallOfWicket batsman="4" score="137"/>
+    <FallOfWicket batsman="5" score="150"/>
+    <FallOfWicket batsman="1" score="166"/>
+    <FallOfWicket batsman="6" score="211"/>
+    <FallOfWicket batsman="8" score="211"/>
+    <FallOfWicket batsman="7" score="211"/>
+    <FallOfWicket batsman="10" score="215"/>
+    <FallOfWicket batsman="9" score="220"/>
+    <BowlerSummary name="Duncan Anslow" overs="9.0" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Finley Bearn" overs="6.2" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Owen Wildsmith" overs="6.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Jayanta Bhattacharjee" overs="9.0" maidens="1" runs="44" wickets="3"/>
+    <BowlerSummary name="Aroulvendhan Pougajendy" overs="9.0" maidens="0" runs="34" wickets="3"/>
+    <BowlerSummary name="Andy Summers" overs="4.0" maidens="0" runs="27" wickets="2"/>
+  </Innings>
+  <Innings batting="Aldershot 3rd XI">
+    <Batsman name="Owen Wildsmith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Paul Bright">
+      <HowOut how="Caught Angus Weir"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Jarvey Lowman">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="William Frazao">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Isaac Knox">
+      <HowOut how="Not Out"/>
+      <Runs value="77"/>
+    </Batsman>
+    <Batsman name="Andy Summers">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Ollie Lewis">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Finley Bearn">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aroulvendhan Pougajendy">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jayanta Bhattacharjee">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Duncan Anslow">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <FallOfWicket batsman="1" score="62"/>
+    <FallOfWicket batsman="2" score="65"/>
+    <FallOfWicket batsman="3" score="72"/>
+    <FallOfWicket batsman="4" score="92"/>
+    <BowlerSummary name="Joe Downes" overs="7.0" maidens="0" runs="63" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="6.2" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="6.0" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="3.4" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="Noel Downes" overs="7.0" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="4.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Charanteja Bommagani Bommagani" overs="1.1" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>

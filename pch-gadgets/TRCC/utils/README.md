@@ -8,10 +8,10 @@ Converts Play-Cricket match results into TRCC's XML scorecard format.
 
 ## Usage
 
-Run the script from the `src` directory:
+From the repository root, run the script from its directory:
 
 ```bash
-cd src
+cd pch-gadgets/TRCC/utils
 export PLAY_CRICKET_API_TOKEN='your-api-token'
 python3 playCricket2TRCC.py --api-token "$PLAY_CRICKET_API_TOKEN" json_source
 python3 playCricket2TRCC.py --api-token "$PLAY_CRICKET_API_TOKEN" --match-id MATCH_ID [--save-json]
@@ -68,8 +68,8 @@ passed back in as `json_source` to replay the conversion without hitting the API
 
 ## Output
 
-Generated XML files are written to `output/<year>/<filename>.xml`, matching the
-match's year (not the year the script was run).
+Generated XML files are written to `../data/fixtures/<year>/<filename>.xml`,
+matching the match's year (not the year the script was run).
 
 ## Console message colours
 

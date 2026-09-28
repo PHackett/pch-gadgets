@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:17 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/august_9th_chaddleworth_friendly_xi.xml-->
+<CricketMatch oppo="Chaddleworth Friendly XI" date="Sun Aug 09 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7526405">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Chaddleworth Friendly XI">
+    <Batsman name="Stephen Enever">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Steve Turner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Craig Edwards">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="James Ingram"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Jack Barrett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Barrett">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Eddie Goatley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Eddie Campbell">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Paul Faircloth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fred I'Anson"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Charlie Smith">
+      <HowOut how="Caught Noel Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ted Edwards">
+      <HowOut how="Not Out"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Harry Turner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Fred I'Anson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="7"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="1" score="26"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="1" score="65"/>
+    <FallOfWicket batsman="1" score="142"/>
+    <FallOfWicket batsman="1" score="144"/>
+    <FallOfWicket batsman="1" score="149"/>
+    <FallOfWicket batsman="1" score="184"/>
+    <FallOfWicket batsman="1" score="188"/>
+    <BowlerSummary name="Andrew Miller" overs="5.0" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Jacob Ingram" overs="5.0" maidens="0" runs="31" wickets="3"/>
+    <BowlerSummary name="James Ingram" overs="5.0" maidens="0" runs="35" wickets="1"/>
+    <BowlerSummary name="Fred I'Anson" overs="4.3" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="4.0" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Ben Nichols" overs="4.0" maidens="0" runs="26" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Eddie Campbell"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Jack Barrett"/>
+      <Bowler name="Eddie Campbell"/>
+      <Runs value="29"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Eddie Campbell"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Eddie Campbell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Eddie Campbell"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Daniel I'Anson">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Craig Edwards"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Eddie Campbell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Fred I'Anson">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Craig Edwards"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="Harry Turner"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="62"/>
+    <FallOfWicket batsman="3" score="88"/>
+    <FallOfWicket batsman="1" score="96"/>
+    <FallOfWicket batsman="6" score="97"/>
+    <FallOfWicket batsman="5" score="108"/>
+    <FallOfWicket batsman="8" score="108"/>
+    <FallOfWicket batsman="9" score="138"/>
+    <FallOfWicket batsman="7" score="145"/>
+    <FallOfWicket batsman="11" score="149"/>
+    <BowlerSummary name="Jack Barrett" overs="7.0" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Ben Barrett" overs="7.0" maidens="2" runs="42" wickets="0"/>
+    <BowlerSummary name="Eddie Campbell" overs="7.0" maidens="1" runs="34" wickets="6"/>
+    <BowlerSummary name="Harry Turner" overs="4.5" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Craig Edwards" overs="3.0" maidens="0" runs="7" wickets="2"/>
+  </Innings>
+</CricketMatch>

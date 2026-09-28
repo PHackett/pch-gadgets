@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:19 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/august_15th_emmbrook_and_bearwood_2nd_xi.xml-->
+<CricketMatch oppo="Emmbrook and Bearwood 2nd XI" date="Sat Aug 15 2026 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="7296851">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rahul Soni"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sankalp Avadhanula"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Caught Toby Morgan"/>
+      <Bowler name="Sankalp Avadhanula"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Akshay Ravi"/>
+      <Bowler name="Sankalp Avadhanula"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Balakrishnan"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Balakrishnan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="62"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jake David"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Yin-Chuan Chang">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jake David"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Caught Jake David"/>
+      <Bowler name="Sankalp Avadhanula"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sankalp Avadhanula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="9"/>
+    <FallOfWicket batsman="2" score="42"/>
+    <FallOfWicket batsman="3" score="45"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="6" score="71"/>
+    <FallOfWicket batsman="5" score="127"/>
+    <FallOfWicket batsman="8" score="136"/>
+    <FallOfWicket batsman="9" score="146"/>
+    <FallOfWicket batsman="10" score="179"/>
+    <FallOfWicket batsman="11" score="179"/>
+    <BowlerSummary name="Rahul Soni" overs="6.0" maidens="1" runs="21" wickets="1"/>
+    <BowlerSummary name="Ronan David" overs="9.0" maidens="1" runs="45" wickets="0"/>
+    <BowlerSummary name="Oliver Holmes" overs="2.0" maidens="0" runs="2" wickets="0"/>
+    <BowlerSummary name="Sankalp Avadhanula" overs="5.4" maidens="1" runs="24" wickets="5"/>
+    <BowlerSummary name="Ravi Balakrishnan" overs="9.0" maidens="1" runs="31" wickets="2"/>
+    <BowlerSummary name="Toby Morgan" overs="3.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Jake David" overs="5.0" maidens="0" runs="18" wickets="2"/>
+  </Innings>
+  <Innings batting="Emmbrook and Bearwood 2nd XI">
+    <Batsman name="Akshay Ravi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Saharsh Mane">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Alec Mcnab">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Ronan David">
+      <HowOut how="Bowled"/>
+      <Bowler name="Christopher Priddle"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Jake David">
+      <HowOut how="Bowled"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ravi Balakrishnan">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Purushotham Lingaraju">
+      <HowOut how="Not Out"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Sankalp Avadhanula">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Toby Morgan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rahul Soni">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Oliver Holmes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="8"/>
+    <FallOfWicket batsman="3" score="30"/>
+    <FallOfWicket batsman="5" score="35"/>
+    <FallOfWicket batsman="4" score="78"/>
+    <FallOfWicket batsman="6" score="125"/>
+    <BowlerSummary name="Ben Ackerman" overs="9.0" maidens="1" runs="36" wickets="1"/>
+    <BowlerSummary name="Angus Weir" overs="8.0" maidens="1" runs="44" wickets="3"/>
+    <BowlerSummary name="Christopher Priddle" overs="5.0" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Zack Burr" overs="2.0" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Marc Teal" overs="7.1" maidens="0" runs="26" wickets="1"/>
+    <BowlerSummary name="Yin-Chuan Chang" overs="4.0" maidens="0" runs="24" wickets="0"/>
+  </Innings>
+</CricketMatch>

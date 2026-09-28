@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:04 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2026/july_5th_little_missenden_misfits_friendly_xi.xml-->
+<CricketMatch oppo="Little Missenden Misfits Friendly XI" date="Sun Jul 05 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7526390">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Patrick Walsh"/>
+      <Bowler name="Andrew Connolly"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Not Not Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Lewis Bishop"/>
+      <Bowler name="Archie Norman"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Tom Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jimmy Norman"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Joe Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="63"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="235"/>
+    <FallOfWicket batsman="5" score="278"/>
+    <BowlerSummary name="Andrew Connolly" overs="8" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Jimmy Norman" overs="7" maidens="0" runs="65" wickets="1"/>
+    <BowlerSummary name="Ali Mirza" overs="8" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Ash Bishop" overs="5" maidens="0" runs="44" wickets="0"/>
+    <BowlerSummary name="Mark Polloway" overs="3" maidens="0" runs="28" wickets="0"/>
+    <BowlerSummary name="Lewis Bishop" overs="2" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Julian Coppock" overs="3" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Archie Norman" overs="4" maidens="0" runs="35" wickets="1"/>
+  </Innings>
+  <Innings batting="Little Missenden Misfits Friendly XI">
+    <Batsman name="Lewis Bishop">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="James Ingram"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="David Tossell">
+      <HowOut how="Caught Andrew Jones"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="56"/>
+    </Batsman>
+    <Batsman name="Nick Zala">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Mark Polloway">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Ali Mirza">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Ash Bishop">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Julian Coppock">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Andrew Connolly">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Archie Norman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jimmy Norman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Patrick Walsh">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="81"/>
+    <FallOfWicket batsman="2" score="129"/>
+    <FallOfWicket batsman="3" score="155"/>
+    <FallOfWicket batsman="4" score="161"/>
+    <FallOfWicket batsman="5" score="161"/>
+    <BowlerSummary name="Jacob Ingram" overs="7" maidens="1" runs="50" wickets="0"/>
+    <BowlerSummary name="Joe Downes" overs="5" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8" maidens="0" runs="34" wickets="1"/>
+    <BowlerSummary name="James Ingram" overs="5" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="35" wickets="2"/>
+    <BowlerSummary name="Ben Nichols" overs="3" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Tom Downes" overs="3" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Kieran Downes" overs="2" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>

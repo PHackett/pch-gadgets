@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:10 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2026/july_19th_ipsden_friendly_xi.xml-->
+<CricketMatch oppo="Ipsden Friendly XI" date="Sun Jul 19 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7526400">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="S Smith"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Fry"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="LBW"/>
+      <Bowler name="S Smith"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="A Haycock"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught J Hunt"/>
+      <Bowler name="Unsure"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught J Church"/>
+      <Bowler name="A Haycock"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Unsure"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <BowlerSummary name="T Fry" overs="7" maidens="0" runs="47" wickets="1"/>
+    <BowlerSummary name="J Watts" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="S Smith" overs="7" maidens="0" runs="44" wickets="2"/>
+    <BowlerSummary name="A Haycock" overs="7" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="J Hunt" overs="" maidens="0" runs="0" wickets="0"/>
+    <BowlerSummary name="J Church" overs="2.1" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="J Watts" overs="2" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+  <Innings batting="Ipsden Friendly XI">
+    <Batsman name="J Watts">
+      <HowOut how="LBW"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="T Fry">
+      <HowOut how="Caught Zack Burr"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="J Church">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="N Heaven">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Withers">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="A Haycock">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="S Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Hunt">
+      <HowOut how="LBW"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="A Syed">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="M Hughesden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Extras value="24"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="7" maidens="2" runs="16" wickets="3"/>
+    <BowlerSummary name="Ben Nichols" overs="7" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="3" maidens="1" runs="1" wickets="2"/>
+    <BowlerSummary name="Zack Burr" overs="7" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="5" maidens="1" runs="23" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:13 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/august_1st_bracknell_united_4th_xi.xml-->
+<CricketMatch oppo="Bracknell United 4th XI" date="Sat Aug 01 2026 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="7296837">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Bracknell United 4th XI">
+    <Batsman name="Vel Anantharaman">
+      <HowOut how="Caught Kiran Juluri"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="Satvik Saxena">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nikhil Sarnaik">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Rohit Tomar">
+      <HowOut how="Not Out"/>
+      <Runs value="91"/>
+    </Batsman>
+    <Batsman name="Ahsan Malik">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Karthik Ramanujam">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Himanshu Chandra">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Aarav Iyengar">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Ashok Badana">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Maneesh Kumar">
+      <HowOut how="Caught Benji Stickley"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Abu Baker">
+      <HowOut how="Run Out Benji Stickley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="37"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="3" score="154"/>
+    <FallOfWicket batsman="1" score="166"/>
+    <FallOfWicket batsman="5" score="171"/>
+    <FallOfWicket batsman="6" score="171"/>
+    <FallOfWicket batsman="7" score="224"/>
+    <FallOfWicket batsman="8" score="261"/>
+    <FallOfWicket batsman="9" score="268"/>
+    <FallOfWicket batsman="10" score="273"/>
+    <FallOfWicket batsman="11" score="291"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="4.0" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Kiran Juluri" overs="9.0" maidens="0" runs="58" wickets="1"/>
+    <BowlerSummary name="Benji Stickley" overs="4.0" maidens="0" runs="43" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="9.0" maidens="2" runs="26" wickets="4"/>
+    <BowlerSummary name="Lee Leggett" overs="9.0" maidens="0" runs="79" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="2.4" maidens="0" runs="4" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Marc Teal">
+      <HowOut how="LBW"/>
+      <Bowler name="Rohit Tomar"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Bowled"/>
+      <Bowler name="Himanshu Chandra"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rohit Tomar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Satvik Saxena"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Satvik Saxena"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aarav Iyengar"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Maneesh Kumar"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Aarav Iyengar"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Benji Stickley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Himanshu Chandra"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Vel Anantharaman"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="53"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="3" score="8"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="5" score="37"/>
+    <FallOfWicket batsman="6" score="88"/>
+    <FallOfWicket batsman="7" score="93"/>
+    <FallOfWicket batsman="8" score="118"/>
+    <FallOfWicket batsman="2" score="120"/>
+    <FallOfWicket batsman="10" score="125"/>
+    <FallOfWicket batsman="11" score="148"/>
+    <BowlerSummary name="Rohit Tomar" overs="5.0" maidens="1" runs="9" wickets="2"/>
+    <BowlerSummary name="Abu Baker" overs="5.0" maidens="1" runs="8" wickets="0"/>
+    <BowlerSummary name="Satvik Saxena" overs="5.0" maidens="1" runs="15" wickets="2"/>
+    <BowlerSummary name="Aarav Iyengar" overs="9.0" maidens="0" runs="42" wickets="2"/>
+    <BowlerSummary name="Maneesh Kumar" overs="3.0" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Himanshu Chandra" overs="2.0" maidens="0" runs="7" wickets="2"/>
+    <BowlerSummary name="Nikhil Sarnaik" overs="1.0" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Vel Anantharaman" overs="0.5" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>

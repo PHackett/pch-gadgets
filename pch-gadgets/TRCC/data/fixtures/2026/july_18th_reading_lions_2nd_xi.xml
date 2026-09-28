@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:09 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/july_18th_reading_lions_2nd_xi.xml-->
+<CricketMatch oppo="Reading Lions 2nd XI" date="Sat Jul 18 2026 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="7297635">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Saurav Sivaram"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Shaikh"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Bhanu Prakash">
+      <HowOut how="LBW"/>
+      <Bowler name="Saurav Sivaram"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Laksh Ramachandran"/>
+      <Bowler name="VasanthaKumar T"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="VasanthaKumar T"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Prashanth Pappuri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Shash Dodle">
+      <HowOut how="Caught Hari Korasseril"/>
+      <Bowler name="Prashanth Pappuri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="James Graver">
+      <HowOut how="Bowled"/>
+      <Bowler name="VasanthaKumar T"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vivek Joon">
+      <HowOut how="Caught Vinay Jayaram"/>
+      <Bowler name="Manan Shaikh"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Sean Lilford">
+      <HowOut how="Caught Hari Korasseril"/>
+      <Bowler name="Manan Shaikh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Extras value="14"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="36"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="5" score="68"/>
+    <FallOfWicket batsman="6" score="69"/>
+    <FallOfWicket batsman="7" score="75"/>
+    <FallOfWicket batsman="8" score="80"/>
+    <FallOfWicket batsman="9" score="125"/>
+    <FallOfWicket batsman="10" score="125"/>
+    <FallOfWicket batsman="2" score="130"/>
+    <BowlerSummary name="VasanthaKumar T" overs="8.0" maidens="2" runs="42" wickets="3"/>
+    <BowlerSummary name="Saurav Sivaram" overs="5.0" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Hari Korasseril" overs="3.0" maidens="2" runs="13" wickets="0"/>
+    <BowlerSummary name="Prashanth Pappuri" overs="5.0" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="Aditya Arisetty" overs="1.0" maidens="0" runs="16" wickets="0"/>
+    <BowlerSummary name="Vinay Jayaram" overs="1.0" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Manan Shaikh" overs="2.1" maidens="0" runs="1" wickets="3"/>
+  </Innings>
+  <Innings batting="Reading Lions 2nd XI">
+    <Batsman name="Manan Shaikh">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Graver"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Santhosh Pandian">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Graver"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Aditya Arisetty">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Graver"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Laksh Ramachandran">
+      <HowOut how="Caught Sean Lilford"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hari Korasseril">
+      <HowOut how="Run Out Shash Dodle"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Shivam Kesharwani">
+      <HowOut how="Not Out"/>
+      <Runs value="33"/>
+    </Batsman>
+    <Batsman name="Sunil Kolvekar">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="VasanthaKumar T">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Saurav Sivaram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Pappuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Vinay Jayaram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="33"/>
+    <FallOfWicket batsman="2" score="43"/>
+    <FallOfWicket batsman="3" score="47"/>
+    <FallOfWicket batsman="4" score="52"/>
+    <FallOfWicket batsman="5" score="119"/>
+    <BowlerSummary name="James Graver" overs="7.0" maidens="2" runs="34" wickets="3"/>
+    <BowlerSummary name="Jacob Ingram" overs="6.0" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="Vivek Joon" overs="8.0" maidens="2" runs="30" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="4.0" maidens="1" runs="13" wickets="1"/>
+    <BowlerSummary name="Shash Dodle" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Sean Lilford" overs="2.0" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="James Ingram" overs="1.1" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+</CricketMatch>

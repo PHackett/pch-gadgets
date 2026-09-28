@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:28:57 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2026/june_13th_woodcote_2nd_xi.xml-->
+<CricketMatch oppo="Woodcote 2nd XI" date="Sat Jun 13 2026 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="7297603">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Stanley Clark"/>
+      <Bowler name="James Reith"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Vivek Joon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Archie Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Reith"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="LBW"/>
+      <Bowler name="Stanley Clark"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tom Brownlow"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Reith"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Andrew Jones">
+      <HowOut how="Caught Josh Davis"/>
+      <Bowler name="Josh Davis"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Shash Dodle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Josh Davis"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Ravi Shankar Vattikuti">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="James Graver">
+      <HowOut how="Caught Billy Bowden"/>
+      <Bowler name="Stanley Clark"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Caught William Gordon"/>
+      <Bowler name="James Reith"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="3" score="38"/>
+    <FallOfWicket batsman="1" score="51"/>
+    <FallOfWicket batsman="5" score="52"/>
+    <FallOfWicket batsman="6" score="53"/>
+    <FallOfWicket batsman="7" score="71"/>
+    <FallOfWicket batsman="8" score="119"/>
+    <FallOfWicket batsman="4" score="119"/>
+    <FallOfWicket batsman="10" score="121"/>
+    <FallOfWicket batsman="11" score="138"/>
+    <BowlerSummary name="Archie Clark" overs="6.0" maidens="0" runs="16" wickets="1"/>
+    <BowlerSummary name="Stanley Clark" overs="5.0" maidens="0" runs="16" wickets="2"/>
+    <BowlerSummary name="Tom Brownlow" overs="8.0" maidens="0" runs="18" wickets="1"/>
+    <BowlerSummary name="James Reith" overs="6.3" maidens="1" runs="19" wickets="4"/>
+    <BowlerSummary name="Josh Davis" overs="5.0" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Chris Clark" overs="4.0" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Calum Ahmed" overs="2.0" maidens="0" runs="6" wickets="0"/>
+  </Innings>
+  <Innings batting="Woodcote 2nd XI">
+    <Batsman name="Mark Hooson">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Graver"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Josh Davis">
+      <HowOut how="Bowled"/>
+      <Bowler name="James Graver"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Tom Brownlow">
+      <HowOut how="Caught Shash Dodle"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Archie Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stefan Gordon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="William Gordon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ravi Shankar Vattikuti"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Chris Clark">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Reith">
+      <HowOut how="Caught Manan Narula"/>
+      <Bowler name="James Graver"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Billy Bowden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stanley Clark">
+      <HowOut how="Bowled"/>
+      <Bowler name="Manan Narula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Calum Ahmed">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="35"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="3" score="27"/>
+    <FallOfWicket batsman="4" score="27"/>
+    <FallOfWicket batsman="5" score="27"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="7" score="28"/>
+    <FallOfWicket batsman="6" score="74"/>
+    <FallOfWicket batsman="8" score="119"/>
+    <FallOfWicket batsman="10" score="120"/>
+    <FallOfWicket batsman="9" score="123"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="8.0" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="James Graver" overs="8.0" maidens="1" runs="33" wickets="3"/>
+    <BowlerSummary name="Manan Narula" overs="6.1" maidens="2" runs="6" wickets="6"/>
+    <BowlerSummary name="Jacob Ingram" overs="3.0" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Ravi Shankar Vattikuti" overs="5.0" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="Shash Dodle" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Kiran Siddineni" overs="2.0" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Vivek Joon" overs="2.0" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+</CricketMatch>

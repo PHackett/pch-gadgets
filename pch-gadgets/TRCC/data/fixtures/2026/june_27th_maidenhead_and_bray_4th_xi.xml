@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:01 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/june_27th_maidenhead_and_bray_4th_xi.xml-->
+<CricketMatch oppo="Maidenhead and Bray 4th XI" date="Sat Jun 27 2026 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="7296816">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Maidenhead and Bray 4th XI">
+    <Batsman name="Om Phatak">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Fas Sarwar">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Josh Greenough">
+      <HowOut how="Run Out Andrew Miller"/>
+      <Runs value="95"/>
+    </Batsman>
+    <Batsman name="Chris Morris">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Karan Chandreja">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Jaysal Benawra">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Phil Cowell">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="83"/>
+    </Batsman>
+    <Batsman name="Sam Griffiths">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Garth Hinkel">
+      <HowOut how="Caught Samyajit Talukdar"/>
+      <Bowler name="Angus Weir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ronak Chandreja">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Gagan Virk">
+      <HowOut how="Not Out"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="12"/>
+    <FallOfWicket batsman="2" score="50"/>
+    <FallOfWicket batsman="4" score="150"/>
+    <FallOfWicket batsman="3" score="217"/>
+    <FallOfWicket batsman="5" score="224"/>
+    <FallOfWicket batsman="6" score="228"/>
+    <FallOfWicket batsman="8" score="307"/>
+    <FallOfWicket batsman="9" score="307"/>
+    <FallOfWicket batsman="7" score="336"/>
+    <BowlerSummary name="Ben Ackerman" overs="9.0" maidens="0" runs="51" wickets="0"/>
+    <BowlerSummary name="Andrew Miller" overs="8.4" maidens="0" runs="66" wickets="2"/>
+    <BowlerSummary name="Jacob Ingram" overs="5.0" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="9.0" maidens="1" runs="66" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="5.0" maidens="0" runs="60" wickets="0"/>
+    <BowlerSummary name="Lee Leggett" overs="4.0" maidens="0" runs="40" wickets="0"/>
+    <BowlerSummary name="Angus Weir" overs="4.2" maidens="0" runs="36" wickets="4"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Caught Phil Cowell"/>
+      <Bowler name="Gagan Virk"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Phil Cowell"/>
+      <Bowler name="Gagan Virk"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jaysal Benawra"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Karan Chandreja"/>
+      <Bowler name="Gagan Virk"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Phil Cowell"/>
+      <Bowler name="Jaysal Benawra"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jaysal Benawra"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Caught Gagan Virk"/>
+      <Bowler name="Garth Hinkel"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="19"/>
+    <FallOfWicket batsman="1" score="7"/>
+    <FallOfWicket batsman="2" score="15"/>
+    <FallOfWicket batsman="4" score="36"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="5" score="167"/>
+    <FallOfWicket batsman="7" score="177"/>
+    <FallOfWicket batsman="8" score="193"/>
+    <BowlerSummary name="Gagan Virk" overs="9.0" maidens="1" runs="26" wickets="3"/>
+    <BowlerSummary name="Karan Chandreja" overs="9.0" maidens="2" runs="27" wickets="0"/>
+    <BowlerSummary name="Jaysal Benawra" overs="9.0" maidens="0" runs="33" wickets="3"/>
+    <BowlerSummary name="Ronak Chandreja" overs="0.1" maidens="0" runs="4" wickets="0"/>
+    <BowlerSummary name="Chris Morris" overs="4.5" maidens="0" runs="38" wickets="0"/>
+    <BowlerSummary name="Sam Griffiths" overs="9.0" maidens="1" runs="39" wickets="0"/>
+    <BowlerSummary name="Fas Sarwar" overs="3.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Garth Hinkel" overs="1" maidens="0" runs="6" wickets="1"/>
+  </Innings>
+</CricketMatch>

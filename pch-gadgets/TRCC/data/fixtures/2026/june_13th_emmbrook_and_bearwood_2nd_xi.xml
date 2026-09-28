@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:28:56 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2026/june_13th_emmbrook_and_bearwood_2nd_xi.xml-->
+<CricketMatch oppo="Emmbrook and Bearwood 2nd XI" date="Sat Jun 13 2026 12:30:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="7296806">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Emmbrook and Bearwood 2nd XI">
+    <Batsman name="Akshay Ravi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Purushotham Lingaraju">
+      <HowOut how="Caught Chandra Cherukuri"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Alec Mcnab">
+      <HowOut how="Run Out Marc Teal"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="Jamie Goodwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="40"/>
+    </Batsman>
+    <Batsman name="Simon Humphrey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ravi Balakrishnan">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Dylan Waters">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="David Painter">
+      <HowOut how="Caught Kieran Downes"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Rahul Soni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sankalp Avadhanula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lee Leggett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rohit Ranwadkar">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="22"/>
+    <FallOfWicket batsman="2" score="14"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="3" score="91"/>
+    <FallOfWicket batsman="4" score="94"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="7" score="127"/>
+    <FallOfWicket batsman="8" score="152"/>
+    <FallOfWicket batsman="6" score="153"/>
+    <FallOfWicket batsman="9" score="153"/>
+    <BowlerSummary name="Ben Ackerman" overs="7.0" maidens="1" runs="27" wickets="0"/>
+    <BowlerSummary name="Harry Leggett" overs="7.0" maidens="1" runs="24" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="9.0" maidens="3" runs="44" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="9.0" maidens="0" runs="56" wickets="3"/>
+    <BowlerSummary name="Lee Leggett" overs="3.3" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="3.0" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="LBW"/>
+      <Bowler name="Ravi Balakrishnan"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alec Mcnab"/>
+      <Runs value="34"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught David Painter"/>
+      <Bowler name="Sankalp Avadhanula"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Angus Weir">
+      <HowOut how="Run Out Purushotham Lingaraju"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alec Mcnab"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Simon Humphrey"/>
+      <Bowler name="Alec Mcnab"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Caught David Painter"/>
+      <Bowler name="Alec Mcnab"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Purushotham Lingaraju"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Not Out"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="4" score="96"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="2" score="101"/>
+    <FallOfWicket batsman="6" score="109"/>
+    <FallOfWicket batsman="7" score="122"/>
+    <FallOfWicket batsman="8" score="166"/>
+    <BowlerSummary name="Rahul Soni" overs="9.0" maidens="3" runs="23" wickets="0"/>
+    <BowlerSummary name="Ravi Balakrishnan" overs="9.0" maidens="3" runs="18" wickets="1"/>
+    <BowlerSummary name="Sankalp Avadhanula" overs="9.0" maidens="1" runs="40" wickets="1"/>
+    <BowlerSummary name="Rohit Ranwadkar" overs="4.1" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Alec Mcnab" overs="9.0" maidens="2" runs="25" wickets="4"/>
+    <BowlerSummary name="Purushotham Lingaraju" overs="3.0" maidens="0" runs="19" wickets="1"/>
+  </Innings>
+</CricketMatch>

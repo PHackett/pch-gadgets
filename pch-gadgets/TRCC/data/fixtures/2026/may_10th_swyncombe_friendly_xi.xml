@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:28:48 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/may_10th_swyncombe_friendly_xi.xml-->
+<CricketMatch oppo="Swyncombe Friendly XI" date="Sun May 10 2026 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="7526285">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Aaron Finch"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Will Graver">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Aaron Finch"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="46"/>
+    </Batsman>
+    <Batsman name="Louis Galwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="C Lippett"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Charlie Shearsby">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Alex Bradley"/>
+      <Bowler name="Unsure"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Jacob Ingram">
+      <HowOut how="Caught Ben Hopkins"/>
+      <Bowler name="Unsure"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Caught Alex Bradley"/>
+      <Bowler name="Unsure"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sean Lilford">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Bowled"/>
+      <Bowler name="Unsure"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="52"/>
+    <FallOfWicket batsman="1" score="10"/>
+    <FallOfWicket batsman="2" score="47"/>
+    <FallOfWicket batsman="4" score="92"/>
+    <FallOfWicket batsman="5" score="129"/>
+    <FallOfWicket batsman="3" score="130"/>
+    <FallOfWicket batsman="7" score="131"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <FallOfWicket batsman="6" score="150"/>
+    <FallOfWicket batsman="9" score="155"/>
+    <FallOfWicket batsman="11" score="156"/>
+    <BowlerSummary name="Alex Bradley" overs="7.0" maidens="2" runs="20" wickets="0"/>
+    <BowlerSummary name="Aaron Finch" overs="5.0" maidens="0" runs="31" wickets="2"/>
+    <BowlerSummary name="Ben Hopkins" overs="6.0" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="C Lippett" overs="5.0" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Unknown Player_6" overs="6.0" maidens="1" runs="11" wickets="4"/>
+    <BowlerSummary name="Unknown Player_3" overs="6.0" maidens="0" runs="8" wickets="2"/>
+  </Innings>
+  <Innings batting="Swyncombe Friendly XI">
+    <Batsman name="Unknown Player_5">
+      <HowOut how="Caught Zack Burr"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="M Lippett">
+      <HowOut how="Run Out Jacob Ingram"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="C Lippett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ben Hopkins">
+      <HowOut how="Not Out"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Unknown Player_1">
+      <HowOut how="Caught Will Graver"/>
+      <Bowler name="Jacob Ingram"/>
+      <Runs value="57"/>
+    </Batsman>
+    <Batsman name="Unknown Player_2">
+      <HowOut how="Not Out"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Unknown Player_4">
+      <HowOut how="Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Unknown Player_3">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Unknown Player_6">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Bradley">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Aaron Finch">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <FallOfWicket batsman="1" score="34"/>
+    <FallOfWicket batsman="1" score="87"/>
+    <FallOfWicket batsman="2" score="90"/>
+    <FallOfWicket batsman="1" score="92"/>
+    <FallOfWicket batsman="3" score="106"/>
+    <BowlerSummary name="Ben Nichols" overs="6.5" maidens="2" runs="38" wickets="1"/>
+    <BowlerSummary name="Zack Burr" overs="5.0" maidens="0" runs="57" wickets="0"/>
+    <BowlerSummary name="Sean Lilford" overs="5.1" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Jacob Ingram" overs="5.0" maidens="0" runs="24" wickets="2"/>
+    <BowlerSummary name="Manan Narula" overs="2.0" maidens="0" runs="7" wickets="0"/>
+  </Innings>
+</CricketMatch>

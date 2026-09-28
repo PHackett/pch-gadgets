@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:29:18 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2026/august_15th_woodcote_2nd_xi.xml-->
+<CricketMatch oppo="Woodcote 2nd XI" date="Sat Aug 15 2026 12:30:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="7297650">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rafe Bowers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Louis Gawin">
+      <HowOut how="Caught Stanley Clark"/>
+      <Bowler name="Stanley Clark"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Bhanu Prakash">
+      <HowOut how="LBW"/>
+      <Bowler name="Stanley Clark"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rafe Bowers"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zachary Stancombe"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Naveen Kumar Tirupathi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rafe Bowers"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="LBW"/>
+      <Bowler name="Josh Davis"/>
+      <Runs value="64"/>
+    </Batsman>
+    <Batsman name="Vivek Joon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zachary Stancombe"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="LBW"/>
+      <Bowler name="Seamus Lindsay"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Bal Lath">
+      <HowOut how="Caught Seamus Lindsay"/>
+      <Bowler name="Gary De Pinchart"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Extras value="25"/>
+    <FallOfWicket batsman="1" score="4"/>
+    <FallOfWicket batsman="2" score="16"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="4" score="24"/>
+    <FallOfWicket batsman="6" score="24"/>
+    <FallOfWicket batsman="5" score="64"/>
+    <FallOfWicket batsman="8" score="67"/>
+    <FallOfWicket batsman="9" score="79"/>
+    <FallOfWicket batsman="10" score="80"/>
+    <FallOfWicket batsman="7" score="137"/>
+    <BowlerSummary name="Stanley Clark" overs="5.0" maidens="1" runs="10" wickets="2"/>
+    <BowlerSummary name="Rafe Bowers" overs="5.0" maidens="0" runs="21" wickets="3"/>
+    <BowlerSummary name="Zachary Stancombe" overs="5.0" maidens="0" runs="19" wickets="2"/>
+    <BowlerSummary name="Connor Mattimore" overs="5.0" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Seamus Lindsay" overs="5.0" maidens="0" runs="37" wickets="1"/>
+    <BowlerSummary name="Gary De Pinchart" overs="3.0" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Josh Davis" overs="2.0" maidens="0" runs="11" wickets="1"/>
+  </Innings>
+  <Innings batting="Woodcote 2nd XI">
+    <Batsman name="Josh Davis">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rafe Bowers">
+      <HowOut how="LBW"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Gary De Pinchart">
+      <HowOut how="Not Not Out"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Connor Mattimore">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Zachary Stancombe">
+      <HowOut how="Not Out"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Stanley Clark">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Seamus Lindsay">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil McDougall">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tony Speers">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Clark">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Clark">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="26"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="41"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6.0" maidens="1" runs="29" wickets="2"/>
+    <BowlerSummary name="Vivek Joon" overs="1.5" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="3.0" maidens="1" runs="11" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="4.0" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Bal Lath" overs="4.0" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Kiran Siddineni" overs="2.0" maidens="0" runs="13" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="3.0" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+</CricketMatch>
