@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:51 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/may_27th_earley_2nd_xi.xml-->
+<CricketMatch oppo="Earley 2nd XI" date="Sat May 27 2023 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5611322">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Caught Ayaz Ahmed"/>
+      <Bowler name="Sampath Bhamidipati"/>
+      <Runs value="69"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="105"/>
+    </Batsman>
+    <Batsman name="Keerthi Ramegowda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sanjaya Kumar"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="94"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="LBW"/>
+      <Bowler name="Fazal Farooq"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ankush Jain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Samyajit Talukdar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="34"/>
+    <FallOfWicket batsman="1" score="128"/>
+    <FallOfWicket batsman="3" score="135"/>
+    <FallOfWicket batsman="2" score="267"/>
+    <FallOfWicket batsman="5" score="311"/>
+    <BowlerSummary name="Surya Kiran" overs="4.0" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Ayaz Ahmed" overs="8.0" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Sanjaya Kumar" overs="8.0" maidens="0" runs="56" wickets="1"/>
+    <BowlerSummary name="Pawan Sharma" overs="8.0" maidens="0" runs="47" wickets="0"/>
+    <BowlerSummary name="Sandeep Burande" overs="6.0" maidens="0" runs="55" wickets="0"/>
+    <BowlerSummary name="Sampath Bhamidipati" overs="3.0" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Fazal Farooq" overs="1.0" maidens="0" runs="15" wickets="1"/>
+    <BowlerSummary name="Kaushik Prakash" overs="2.0" maidens="0" runs="18" wickets="0"/>
+  </Innings>
+  <Innings batting="Earley 2nd XI">
+    <Batsman name="Sandeep Burande">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nitin Kumar">
+      <HowOut how="Caught Sathesh Polepaka"/>
+      <Bowler name="Samyajit Talukdar"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kaushik Prakash">
+      <HowOut how="Caught Mike Longson"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Pawan Sharma">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Surya Kiran">
+      <HowOut how="Caught Prashanth Juluri"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Amit Gupta">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Fazal Farooq">
+      <HowOut how="Caught Sushil Chaudhari"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sanjaya Kumar">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Nilanjan Chakraborty">
+      <HowOut how="LBW"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ayaz Ahmed">
+      <HowOut how="Bowled"/>
+      <Bowler name="Chandra Cherukuri"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sampath Bhamidipati">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Extras value="12"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="11"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="5" score="36"/>
+    <FallOfWicket batsman="4" score="56"/>
+    <FallOfWicket batsman="7" score="58"/>
+    <FallOfWicket batsman="6" score="59"/>
+    <FallOfWicket batsman="9" score="61"/>
+    <FallOfWicket batsman="10" score="61"/>
+    <FallOfWicket batsman="8" score="79"/>
+    <BowlerSummary name="Ankush Jain" overs="8.0" maidens="2" runs="19" wickets="2"/>
+    <BowlerSummary name="Samyajit Talukdar" overs="4.0" maidens="2" runs="11" wickets="1"/>
+    <BowlerSummary name="James West" overs="4.0" maidens="0" runs="12" wickets="0"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="6.0" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="7.5" maidens="3" runs="8" wickets="4"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="2.0" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:41 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/april_22nd_farley_hill_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill 1st XI" date="Sat Apr 22 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736937">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Farley Hill 1st XI">
+    <Batsman name="Ankit Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Sanjay Gurung">
+      <HowOut how="LBW"/>
+      <Bowler name="Christopher Priddle"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Matt Jones">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Oli Sankey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gregory Coney">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sreejith Kenchath">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="William Nash-Wortham">
+      <HowOut how="Caught Ankush Jain"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Lewis Hart">
+      <HowOut how="Not Out"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andy Marr">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Hadie Saleem">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Juluri"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Vernon Butcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sathesh Polepaka"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="8"/>
+    <BowlerSummary name="Ankush Jain" overs="7" maidens="2" runs="13" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="5" maidens="2" runs="12" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="3" maidens="1" runs="4" wickets="1"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="5.1" maidens="1" runs="10" wickets="4"/>
+    <BowlerSummary name="Rahul Chansouriya" overs="4" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="Kiran Juluri" overs="8" maidens="2" runs="15" wickets="4"/>
+    <BowlerSummary name="Chandra Cherukuri" overs="5" maidens="1" runs="10" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lewis Hart"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Lewis Hart"/>
+      <Bowler name="Sreejith Kenchath"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Keerthi Ramegowda">
+      <HowOut how="Not Out"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Lewis Hart"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Lewis Hart"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Rahul Chansouriya">
+      <HowOut how="Bowled"/>
+      <Bowler name="Lewis Hart"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kiran Juluri">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chandra Cherukuri">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ankush Jain">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Andy Marr" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Sreejith Kenchath" overs="3" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Lewis Hart" overs="5" maidens="2" runs="7" wickets="4"/>
+    <BowlerSummary name="Hadie Saleem" overs="3" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Vernon Butcher" overs="2" maidens="0" runs="10" wickets="0"/>
+  </Innings>
+</CricketMatch>

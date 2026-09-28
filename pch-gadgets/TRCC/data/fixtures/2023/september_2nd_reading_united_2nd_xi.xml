@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:16 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/september_2nd_reading_united_2nd_xi.xml-->
+<CricketMatch oppo="Reading United 2nd XI" date="Sat Sep 02 2023 13:00:00 +01:00 (BST)" matchType="League" team="1st XI" playCricketId="5611326">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Krishna Thiyagarajan"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Caught Sashi Dodle"/>
+      <Bowler name="Mahesh Manjunatha"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Sushil Chaudhari">
+      <HowOut how="Bowled"/>
+      <Bowler name="Krishna Thiyagarajan"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Caught Ashish Patidar"/>
+      <Bowler name="Sashi Dodle"/>
+      <Runs value="114"/>
+    </Batsman>
+    <Batsman name="Nikhil Pendharkar">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mahesh Manjunatha"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Mark Higgins">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mahesh Manjunatha"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Prashanth Juluri">
+      <HowOut how="Caught Krishna Thiyagarajan"/>
+      <Bowler name="Mahesh Manjunatha"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="Caught Yuvraj Pandey"/>
+      <Bowler name="Yuvraj Pandey"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Sathesh Polepaka">
+      <HowOut how="Run Out Sashi Dodle"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Ankush Jain">
+      <HowOut how="Not Out"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="27"/>
+    <FallOfWicket batsman="1" score="2"/>
+    <FallOfWicket batsman="3" score="10"/>
+    <FallOfWicket batsman="2" score="59"/>
+    <FallOfWicket batsman="5" score="96"/>
+    <FallOfWicket batsman="6" score="111"/>
+    <FallOfWicket batsman="7" score="154"/>
+    <FallOfWicket batsman="8" score="163"/>
+    <FallOfWicket batsman="4" score="220"/>
+    <FallOfWicket batsman="9" score="233"/>
+    <BowlerSummary name="Krishna Thiyagarajan" overs="8.0" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Sashi Dodle" overs="7.0" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="Soumbeet Sarangi" overs="4.0" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Vijay Deekonda" overs="2.0" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Mahesh Manjunatha" overs="8.0" maidens="0" runs="34" wickets="4"/>
+    <BowlerSummary name="Yuvraj Pandey" overs="8.0" maidens="1" runs="55" wickets="1"/>
+    <BowlerSummary name="Dinesh Reddy Kodmoor" overs="3.0" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading United 2nd XI">
+    <Batsman name="Saketh Chodimella">
+      <HowOut how="Caught Nikhil Pendharkar"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Vijay Deekonda">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mahesh Manjunatha">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Soumbeet Sarangi">
+      <HowOut how="Caught Thomas Powell"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Ashish Patidar">
+      <HowOut how="Run Out Christopher Priddle"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Ashish Kapila">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Dinesh Reddy Kodmoor">
+      <HowOut how="LBW"/>
+      <Bowler name="Sushil Chaudhari"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Krishna Thiyagarajan">
+      <HowOut how="Not Out"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Sumanth Hathwar">
+      <HowOut how="LBW"/>
+      <Bowler name="Mark Higgins"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="Sashi Dodle">
+      <HowOut how="Caught Thomas Powell"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Yuvraj Pandey">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ankush Jain"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="2" score="2"/>
+    <FallOfWicket batsman="1" score="16"/>
+    <FallOfWicket batsman="3" score="73"/>
+    <FallOfWicket batsman="4" score="77"/>
+    <FallOfWicket batsman="5" score="100"/>
+    <FallOfWicket batsman="6" score="155"/>
+    <FallOfWicket batsman="7" score="160"/>
+    <FallOfWicket batsman="9" score="193"/>
+    <FallOfWicket batsman="10" score="213"/>
+    <FallOfWicket batsman="11" score="219"/>
+    <BowlerSummary name="Ankush Jain" overs="6.4" maidens="0" runs="33" wickets="5"/>
+    <BowlerSummary name="Sathesh Polepaka" overs="6.0" maidens="0" runs="39" wickets="0"/>
+    <BowlerSummary name="Kavi Ghai" overs="7.0" maidens="0" runs="40" wickets="1"/>
+    <BowlerSummary name="Maaz Salman" overs="6.0" maidens="0" runs="45" wickets="0"/>
+    <BowlerSummary name="Sushil Chaudhari" overs="8.0" maidens="1" runs="35" wickets="2"/>
+    <BowlerSummary name="Mark Higgins" overs="2.0" maidens="0" runs="18" wickets="1"/>
+  </Innings>
+</CricketMatch>

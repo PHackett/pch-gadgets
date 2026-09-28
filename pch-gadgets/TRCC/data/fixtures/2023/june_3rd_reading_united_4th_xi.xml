@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:52 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/june_3rd_reading_united_4th_xi.xml-->
+<CricketMatch oppo="Reading United 4th XI" date="Sat Jun 03 2023 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5611727">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="LBW"/>
+      <Bowler name="Suresh Paluri"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Dhaval Patel"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="Suresh Bhupathiraju"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Suresh Bhupathiraju"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Caught Sai Krishna Nimmagadda"/>
+      <Bowler name="Srinivas Rao"/>
+      <Runs value="55"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="Not Out"/>
+      <Runs value="47"/>
+    </Batsman>
+    <Batsman name="Rahul Chansouriya">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ajay Pentela"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="30"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <FallOfWicket batsman="3" score="60"/>
+    <FallOfWicket batsman="4" score="67"/>
+    <FallOfWicket batsman="2" score="90"/>
+    <FallOfWicket batsman="5" score="149"/>
+    <FallOfWicket batsman="7" score="176"/>
+    <BowlerSummary name="Sai Krishna Nimmagadda" overs="8.0" maidens="0" runs="37" wickets="0"/>
+    <BowlerSummary name="Saurabh Jain" overs="5.0" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Suresh Paluri" overs="8.0" maidens="0" runs="44" wickets="1"/>
+    <BowlerSummary name="Suresh Bhupathiraju" overs="8.0" maidens="1" runs="27" wickets="2"/>
+    <BowlerSummary name="Naresh Jakkula" overs="4.0" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Srinivas Rao" overs="3.0" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Ajay Pentela" overs="3.0" maidens="0" runs="12" wickets="1"/>
+    <BowlerSummary name="Ramu Nadimpali" overs="1.0" maidens="0" runs="13" wickets="0"/>
+  </Innings>
+  <Innings batting="Reading United 4th XI">
+    <Batsman name="Dhaval Patel">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sandeep Varma">
+      <HowOut how="LBW"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Srinivas Rao">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Sai Krishna Nimmagadda">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Suresh Bhupathiraju">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Prasad Vegesna">
+      <HowOut how="LBW"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Ajay Pentela">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rupesh Ahluwalia"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Saurabh Jain">
+      <HowOut how="Not Out"/>
+      <Runs value="39"/>
+    </Batsman>
+    <Batsman name="Naresh Jakkula">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Suresh Paluri">
+      <HowOut how="LBW"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ramu Nadimpali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rahul Chansouriya"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Extras value="25"/>
+    <BowlerSummary name="Ben Ackerman" overs="8" maidens="1" runs="26" wickets="1"/>
+    <BowlerSummary name="Ben Nichols" overs="6" maidens="3" runs="9" wickets="0"/>
+    <BowlerSummary name="Maaz Salman" overs="4" maidens="0" runs="10" wickets="2"/>
+    <BowlerSummary name="Rupesh Ahluwalia" overs="5" maidens="0" runs="19" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="4" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Noel Downes" overs="5" maidens="0" runs="11" wickets="1"/>
+    <BowlerSummary name="Rahul Chansouriya" overs="1" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>

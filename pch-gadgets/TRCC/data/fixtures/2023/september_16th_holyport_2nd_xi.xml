@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:19 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2023/september_16th_holyport_2nd_xi.xml-->
+<CricketMatch oppo="Holyport 2nd XI" date="Sat Sep 16 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6057614">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Holyport 2nd XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

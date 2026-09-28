@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:39 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2023/april_15th_warfield_saturday_friendly_xi.xml-->
+<CricketMatch oppo="Warfield Saturday Friendly XI" date="Sat Apr 15 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736935">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Warfield Saturday Friendly XI">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

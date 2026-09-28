@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:17 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/september_3rd_chaddleworth_friendly_xi.xml-->
+<CricketMatch oppo="Chaddleworth Friendly XI" date="Sun Sep 03 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6041400">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="B Barratt"/>
+      <Runs value="24"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Unknown Fairclough"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="K Clucas"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jack Barratt"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Barratt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Barratt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Barratt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jack Barratt"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jack Barratt"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="LBW"/>
+      <Bowler name="C Smith"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="31"/>
+    <BowlerSummary name="Robin Swan" overs="6" maidens="0" runs="15" wickets="0"/>
+    <BowlerSummary name="B Barratt" overs="8" maidens="0" runs="41" wickets="1"/>
+    <BowlerSummary name="Unknown Fairclough" overs="6" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Jack Barratt" overs="8" maidens="1" runs="16" wickets="6"/>
+    <BowlerSummary name="K Clucas" overs="8" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="C Smith" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+  <Innings batting="Chaddleworth Friendly XI">
+    <Batsman name="Henry Cathcart">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Turner">
+      <HowOut how="Bowled"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="17"/>
+    </Batsman>
+    <Batsman name="Jack Barratt">
+      <HowOut how="Caught Kavi Ghai"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="74"/>
+    </Batsman>
+    <Batsman name="Robin Swan">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="B Barratt">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Unknown Fairclough">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="K Clucas">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="C Smith">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="S Ennever">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <BowlerSummary name="Kavi Ghai" overs="4" maidens="0" runs="22" wickets="2"/>
+    <BowlerSummary name="Ben Ackerman" overs="4" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Tim Hogarth" overs="4" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Zack Burr" overs="4" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="James West" overs="1" maidens="0" runs="4" wickets="0"/>
+  </Innings>
+</CricketMatch>

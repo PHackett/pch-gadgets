@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:06 +01:00 (BST)-->
+<!--Result = Abandonned-->
+<!--XMLFilename = 2023/july_30th_farley_hill_sunday_1st_xi.xml-->
+<CricketMatch oppo="Farley Hill Sunday 1st XI" date="Sun Jul 30 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736966">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Farley Hill Sunday 1st XI">
+    <Batsman name="Zeeshan Hussain">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="James West"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ali Jalil">
+      <HowOut how="Not Out"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Bilal Hussain">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="22"/>
+    </Batsman>
+    <Batsman name="William Nash-Wortham">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Sanjay Gurung">
+      <HowOut how="Not Out"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Mo Khan">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sreejith Kenchath">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Davies">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Babu Mani">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Allahditta Ali">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hadie Saleem">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="18"/>
+    <BowlerSummary name="Maaz Salman" overs="5" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="James West" overs="5" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="Thomas Leggett" overs="7" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="5" maidens="0" runs="30" wickets="1"/>
+    <BowlerSummary name="Steve Walkland" overs="1" maidens="0" runs="2" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Harry Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="George Brander">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James Ingram">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

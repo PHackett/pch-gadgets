@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:53 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/june_4th_crowthorne_and_crown_wood_sunday_2nd_xi.xml-->
+<CricketMatch oppo="Crowthorne and Crown Wood Sunday 2nd XI" date="Sun Jun 04 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736944">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Crowthorne and Crown Wood Sunday 2nd XI">
+    <Batsman name="Jules O'Loughlin">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Nick Outram">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="54"/>
+    </Batsman>
+    <Batsman name="Jack Smith">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Michael Brundish">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="122"/>
+    </Batsman>
+    <Batsman name="Hamish Walker">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Daniel Cartledge">
+      <HowOut how="Caught Lee Leggett"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Adam Malone">
+      <HowOut how="Caught Gagan Rajwadha"/>
+      <Bowler name="Andrew Miller"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="James Scott">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Aran Long">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Deepak Ambotkar">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dylan Applin">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="46"/>
+    <FallOfWicket batsman="1" score="21"/>
+    <FallOfWicket batsman="3" score="26"/>
+    <FallOfWicket batsman="2" score="140"/>
+    <FallOfWicket batsman="5" score="151"/>
+    <FallOfWicket batsman="6" score="188"/>
+    <FallOfWicket batsman="7" score="211"/>
+    <FallOfWicket batsman="4" score="254"/>
+    <BowlerSummary name="Andrew Miller" overs="8" maidens="1" runs="28" wickets="2"/>
+    <BowlerSummary name="Maaz Salman" overs="8" maidens="1" runs="60" wickets="1"/>
+    <BowlerSummary name="Gagan Rajwadha" overs="6" maidens="0" runs="29" wickets="0"/>
+    <BowlerSummary name="Harry Leggett" overs="6" maidens="0" runs="45" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="7" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Kiran Siddineni" overs="5" maidens="1" runs="22" wickets="2"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Maaz Salman">
+      <HowOut how="Caught Jules O'Loughlin"/>
+      <Bowler name="Deepak Ambotkar"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Caught Daniel Cartledge"/>
+      <Bowler name="Deepak Ambotkar"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Malone"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Bowled"/>
+      <Bowler name="Adam Malone"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Michael Brundish"/>
+      <Bowler name="Jack Smith"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jules O'Loughlin"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Gagan Rajwadha">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jules O'Loughlin"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Simon Farrar">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Jules O'Loughlin"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ian Evans">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="1" score="24"/>
+    <FallOfWicket batsman="2" score="34"/>
+    <FallOfWicket batsman="3" score="56"/>
+    <FallOfWicket batsman="4" score="68"/>
+    <FallOfWicket batsman="5" score="93"/>
+    <FallOfWicket batsman="6" score="102"/>
+    <FallOfWicket batsman="8" score="102"/>
+    <FallOfWicket batsman="9" score="114"/>
+    <BowlerSummary name="Dylan Applin" overs="8" maidens="1" runs="29" wickets="0"/>
+    <BowlerSummary name="Deepak Ambotkar" overs="8" maidens="2" runs="17" wickets="2"/>
+    <BowlerSummary name="Adam Malone" overs="5" maidens="0" runs="21" wickets="2"/>
+    <BowlerSummary name="Aran Long" overs="4" maidens="2" runs="2" wickets="0"/>
+    <BowlerSummary name="Jack Smith" overs="3" maidens="0" runs="13" wickets="1"/>
+    <BowlerSummary name="James Scott" overs="4" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Hamish Walker" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Jules O'Loughlin" overs="3" maidens="2" runs="4" wickets="3"/>
+    <BowlerSummary name="Daniel Cartledge" overs="3" maidens="0" runs="5" wickets="0"/>
+  </Innings>
+</CricketMatch>

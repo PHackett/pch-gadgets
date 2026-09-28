@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:01 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/july_9th_hurley_sunday_1st_xi.xml-->
+<CricketMatch oppo="Hurley Sunday 1st XI" date="Sun Jul 09 2023 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736963">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Hurley Sunday 1st XI">
+    <Batsman name="Ajmal Ali">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Akash Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Haider-Ali Baig">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="48"/>
+    </Batsman>
+    <Batsman name="Mubashir Nabi">
+      <HowOut how="Bowled"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Joban Singh">
+      <HowOut how="Caught Stuart Barrable"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hamzah Zaman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Joe Graham">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Maz Nabi">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Liam Cole">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mo Basharat">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Nigel Haines">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="15"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="1" score="39"/>
+    <FallOfWicket batsman="4" score="81"/>
+    <FallOfWicket batsman="5" score="81"/>
+    <FallOfWicket batsman="6" score="144"/>
+    <FallOfWicket batsman="3" score="157"/>
+    <FallOfWicket batsman="7" score="173"/>
+    <FallOfWicket batsman="9" score="174"/>
+    <BowlerSummary name="Ben Nichols" overs="7" maidens="2" runs="12" wickets="1"/>
+    <BowlerSummary name="Ben Ackerman" overs="6" maidens="0" runs="33" wickets="2"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="2" runs="36" wickets="3"/>
+    <BowlerSummary name="Neil Lancum" overs="6" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Kiran Siddineni" overs="3" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="LBW"/>
+      <Bowler name="Joban Singh"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Hamzah Zaman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Not Out"/>
+      <Runs value="100"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Caught Joe Graham"/>
+      <Bowler name="Mo Basharat"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sapinder Singh">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="29"/>
+    <FallOfWicket batsman="1" score="11"/>
+    <FallOfWicket batsman="2" score="24"/>
+    <FallOfWicket batsman="4" score="137"/>
+    <BowlerSummary name="Joban Singh" overs="6" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Maz Nabi" overs="3" maidens="1" runs="6" wickets="0"/>
+    <BowlerSummary name="Hamzah Zaman" overs="3" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Joe Graham" overs="5" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Liam Cole" overs="4" maidens="1" runs="19" wickets="0"/>
+    <BowlerSummary name="Nigel Haines" overs="3" maidens="0" runs="26" wickets="0"/>
+    <BowlerSummary name="Mo Basharat" overs="5.1" maidens="1" runs="25" wickets="1"/>
+    <BowlerSummary name="Haider-Ali Baig" overs="2" maidens="0" runs="17" wickets="0"/>
+  </Innings>
+</CricketMatch>

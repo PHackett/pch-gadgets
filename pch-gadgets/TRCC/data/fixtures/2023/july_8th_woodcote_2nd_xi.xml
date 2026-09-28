@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:00 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/july_8th_woodcote_2nd_xi.xml-->
+<CricketMatch oppo="Woodcote 2nd XI" date="Sat Jul 08 2023 13:20:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5611732">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Woodcote 2nd XI">
+    <Batsman name="Mark Hooson">
+      <HowOut how="LBW"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Martin Paige">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Gary De Pinchart">
+      <HowOut how="Run Out Thomas Leggett"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Jez Mayo">
+      <HowOut how="Not Out"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Jonny Jackson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Rakesh Nair">
+      <HowOut how="Caught Ben Ackerman"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Billy Bowden">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Aeden Griggs">
+      <HowOut how="Bowled"/>
+      <Bowler name="Marc Teal"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Clark">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Rakesh Patel">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Neil McDougall">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="2" score="18"/>
+    <FallOfWicket batsman="1" score="54"/>
+    <FallOfWicket batsman="3" score="54"/>
+    <FallOfWicket batsman="5" score="60"/>
+    <FallOfWicket batsman="6" score="82"/>
+    <FallOfWicket batsman="7" score="126"/>
+    <FallOfWicket batsman="8" score="143"/>
+    <FallOfWicket batsman="9" score=""/>
+    <BowlerSummary name="Ben Ackerman" overs="8.0" maidens="1" runs="39" wickets="2"/>
+    <BowlerSummary name="Ben Nichols" overs="8.0" maidens="1" runs="31" wickets="0"/>
+    <BowlerSummary name="Gagan Rajwadha" overs="7.0" maidens="1" runs="18" wickets="0"/>
+    <BowlerSummary name="Zack Burr" overs="8.0" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="5.0" maidens="1" runs="24" wickets="1"/>
+    <BowlerSummary name="Marc Teal" overs="2.0" maidens="0" runs="7" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="LBW"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="43"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Neil McDougall"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Caught Mark Hooson"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="Billy Bowden"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Rakesh Patel"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rakesh Patel"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Billy Bowden"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Run Out Neil McDougall"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Rakesh Nair"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gagan Rajwadha">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Extras value="21"/>
+    <FallOfWicket batsman="1" score="91"/>
+    <FallOfWicket batsman="2" score="98"/>
+    <FallOfWicket batsman="3" score="103"/>
+    <FallOfWicket batsman="5" score="117"/>
+    <FallOfWicket batsman="6" score="117"/>
+    <FallOfWicket batsman="4" score="117"/>
+    <FallOfWicket batsman="7" score="135"/>
+    <FallOfWicket batsman="9" score="148"/>
+    <FallOfWicket batsman="8" score="148"/>
+    <BowlerSummary name="Rakesh Patel" overs="8.0" maidens="0" runs="33" wickets="5"/>
+    <BowlerSummary name="Rakesh Nair" overs="6.0" maidens="1" runs="20" wickets="1"/>
+    <BowlerSummary name="Aeden Griggs" overs="5.0" maidens="1" runs="26" wickets="0"/>
+    <BowlerSummary name="Jonny Jackson" overs="8.0" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Gary De Pinchart" overs="2.0" maidens="2" runs="9" wickets="0"/>
+    <BowlerSummary name="Billy Bowden" overs="8.0" maidens="1" runs="20" wickets="2"/>
+    <BowlerSummary name="Paul Clark" overs="1.0" maidens="0" runs="8" wickets="0"/>
+  </Innings>
+</CricketMatch>

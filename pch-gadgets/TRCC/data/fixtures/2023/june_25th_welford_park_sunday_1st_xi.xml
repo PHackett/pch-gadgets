@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:57 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/june_25th_welford_park_sunday_1st_xi.xml-->
+<CricketMatch oppo="Welford Park Sunday 1st XI" date="Sun Jun 25 2023 13:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5728111">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Maaz Salman">
+      <HowOut how="LBW"/>
+      <Bowler name="Sameer Andagi"/>
+      <Runs value="11"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Piers Langley"/>
+      <Runs value="20"/>
+    </Batsman>
+    <Batsman name="Nikhil Pendharkar">
+      <HowOut how="LBW"/>
+      <Bowler name="Ian Herrington"/>
+      <Runs value="52"/>
+    </Batsman>
+    <Batsman name="Kiran Siddineni">
+      <HowOut how="Bowled"/>
+      <Bowler name="Piers Langley"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="John Fletcher"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Sapinder Singh">
+      <HowOut how="Bowled"/>
+      <Bowler name="Carly Chisholm"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Caught Sardar sarfraz Abbasi"/>
+      <Bowler name="James Amor"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Paul Farrant"/>
+      <Bowler name="Karthik Siva"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Charlie Scarr">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sameer Andagi"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Caught Paul Farrant"/>
+      <Bowler name="Sameer Andagi"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="35"/>
+    <FallOfWicket batsman="1" score="36"/>
+    <FallOfWicket batsman="2" score="46"/>
+    <FallOfWicket batsman="4" score="46"/>
+    <FallOfWicket batsman="5" score="77"/>
+    <FallOfWicket batsman="6" score="122"/>
+    <FallOfWicket batsman="3" score="134"/>
+    <FallOfWicket batsman="8" score="153"/>
+    <FallOfWicket batsman="9" score="173"/>
+    <FallOfWicket batsman="10" score="195"/>
+    <FallOfWicket batsman="11" score="207"/>
+    <BowlerSummary name="James Amor" overs="6" maidens="0" runs="32" wickets="1"/>
+    <BowlerSummary name="Sameer Andagi" overs="5.2" maidens="1" runs="16" wickets="3"/>
+    <BowlerSummary name="Piers Langley" overs="7" maidens="0" runs="32" wickets="2"/>
+    <BowlerSummary name="John Fletcher" overs="6" maidens="0" runs="29" wickets="1"/>
+    <BowlerSummary name="Ian Herrington" overs="7" maidens="0" runs="38" wickets="1"/>
+    <BowlerSummary name="Carly Chisholm" overs="4" maidens="0" runs="23" wickets="1"/>
+    <BowlerSummary name="Sardar sarfraz Abbasi" overs="2.3" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Karthik Siva" overs="2" maidens="0" runs="12" wickets="1"/>
+  </Innings>
+  <Innings batting="Welford Park Sunday 1st XI">
+    <Batsman name="Balbir Sidhu">
+      <HowOut how="Caught James West"/>
+      <Bowler name="James West"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Paul Farrant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alan Baylis">
+      <HowOut how="LBW"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Piers Langley">
+      <HowOut how="Caught Kiran Siddineni"/>
+      <Bowler name="Kiran Siddineni"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Ian Herrington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nikhil Pendharkar"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Sameer Andagi">
+      <HowOut how="Not Out"/>
+      <Runs value="71"/>
+    </Batsman>
+    <Batsman name="James Amor">
+      <HowOut how="Caught Maaz Salman"/>
+      <Bowler name="Nikhil Pendharkar"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="John Fletcher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nikhil Pendharkar"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Sardar sarfraz Abbasi">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Karthik Siva">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Carly Chisholm">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="2" score="1"/>
+    <FallOfWicket batsman="1" score="56"/>
+    <FallOfWicket batsman="3" score="71"/>
+    <FallOfWicket batsman="4" score="84"/>
+    <FallOfWicket batsman="5" score="145"/>
+    <FallOfWicket batsman="7" score="156"/>
+    <FallOfWicket batsman="8" score="202"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="34" wickets="1"/>
+    <BowlerSummary name="Maaz Salman" overs="8" maidens="2" runs="22" wickets="0"/>
+    <BowlerSummary name="James West" overs="8" maidens="0" runs="43" wickets="1"/>
+    <BowlerSummary name="Kiran Siddineni" overs="7" maidens="0" runs="37" wickets="2"/>
+    <BowlerSummary name="Sapinder Singh" overs="4" maidens="1" runs="28" wickets="0"/>
+    <BowlerSummary name="Tom Bielich" overs="1" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Nikhil Pendharkar" overs="5" maidens="0" runs="21" wickets="3"/>
+  </Innings>
+</CricketMatch>

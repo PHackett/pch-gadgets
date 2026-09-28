@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:12 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/august_13th_checkendon_sunday_1st_xi.xml-->
+<CricketMatch oppo="Checkendon Sunday 1st XI" date="Sun Aug 13 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736969">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Checkendon Sunday 1st XI">
+    <Batsman name="Kunal Mendiratta">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Ben Nichols"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="Alex Podolski">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Saikat Sen">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Gilbert"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="Cameron Bellamy">
+      <HowOut how="Bowled"/>
+      <Bowler name="Sandeep Pallithumbil"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Nathan McGarvey">
+      <HowOut how="LBW"/>
+      <Bowler name="James West"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Shazad Ahmed">
+      <HowOut how="Caught Ben Nichols"/>
+      <Bowler name="James West"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Dil Pazir">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Alex Stevenson">
+      <HowOut how="Run Out Sandeep Pallithumbil"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Sathia Jobe">
+      <HowOut how="Caught Sandeep Pallithumbil"/>
+      <Bowler name="Steve Walkland"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="Gourav Banerjee">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Kartik Chitta">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="1" score="25"/>
+    <FallOfWicket batsman="2" score="27"/>
+    <FallOfWicket batsman="4" score="47"/>
+    <FallOfWicket batsman="3" score="101"/>
+    <FallOfWicket batsman="6" score="107"/>
+    <FallOfWicket batsman="7" score="107"/>
+    <FallOfWicket batsman="5" score="124"/>
+    <FallOfWicket batsman="9" score="186"/>
+    <FallOfWicket batsman="8" score="187"/>
+    <BowlerSummary name="Ben Nichols" overs="7" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="5" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Connor Fleck" overs="4" maidens="0" runs="22" wickets="0"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="7" maidens="1" runs="22" wickets="1"/>
+    <BowlerSummary name="Ben Gilbert" overs="5" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="James West" overs="5" maidens="0" runs="15" wickets="3"/>
+    <BowlerSummary name="Steve Walkland" overs="7" maidens="0" runs="38" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="James West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dil Pazir"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Caught Kartik Chitta"/>
+      <Bowler name="Sathia Jobe"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Podolski"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="LBW"/>
+      <Bowler name="Kunal Mendiratta"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Podolski"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Caught Kartik Chitta"/>
+      <Bowler name="Gourav Banerjee"/>
+      <Runs value="13"/>
+    </Batsman>
+    <Batsman name="Connor Fleck">
+      <HowOut how="Stumped Kartik Chitta"/>
+      <Bowler name="Alex Podolski"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Steve Walkland">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Stevenson"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Alex Stevenson"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Bowled"/>
+      <Bowler name="Shazad Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="9"/>
+    <BowlerSummary name="Dil Pazir" overs="8" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Sathia Jobe" overs="5" maidens="2" runs="3" wickets="1"/>
+    <BowlerSummary name="Kunal Mendiratta" overs="5" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="Alex Podolski" overs="6" maidens="1" runs="13" wickets="3"/>
+    <BowlerSummary name="Gourav Banerjee" overs="5" maidens="1" runs="9" wickets="1"/>
+    <BowlerSummary name="Alex Stevenson" overs="2" maidens="0" runs="9" wickets="2"/>
+    <BowlerSummary name="Shazad Ahmed" overs="1" maidens="0" runs="4" wickets="1"/>
+  </Innings>
+</CricketMatch>

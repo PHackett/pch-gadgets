@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:48 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/may_14th_swyncombe_sunday_1st_xi.xml-->
+<CricketMatch oppo="Swyncombe Sunday 1st XI" date="Sun May 14 2023 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736941">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Swyncombe Sunday 1st XI">
+    <Batsman name="Ian Hunt">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Tom King">
+      <HowOut how="LBW"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Duncan Crockett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="42"/>
+    </Batsman>
+    <Batsman name="Dan Odds">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Gagan Rajwadha"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Rowan Hunt">
+      <HowOut how="Caught Hugh Fort"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Unsure">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Charlie Cramp">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paddy Collins">
+      <HowOut how="Not Out"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Ben Lippett">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Lippett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <BowlerSummary name="Paul Hackett" overs="5" maidens="2" runs="7" wickets="2"/>
+    <BowlerSummary name="Kavi Ghai" overs="5" maidens="0" runs="17" wickets="1"/>
+    <BowlerSummary name="Gagan Rajwadha" overs="7" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="6" maidens="1" runs="10" wickets="3"/>
+    <BowlerSummary name="Neil Lancum" overs="5" maidens="1" runs="13" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paddy Collins"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Manan Narula">
+      <HowOut how="Not Out"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="44"/>
+    </Batsman>
+    <Batsman name="Kartik Padullaparthy">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gagan Rajwadha">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="11"/>
+    <FallOfWicket batsman="1" score="19"/>
+    <BowlerSummary name="Paddy Collins" overs="5" maidens="2" runs="14" wickets="1"/>
+    <BowlerSummary name="Unsure" overs="6" maidens="1" runs="44" wickets="0"/>
+    <BowlerSummary name="M Lippett" overs="3.2" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Ian Hunt" overs="2" maidens="0" runs="16" wickets="0"/>
+  </Innings>
+</CricketMatch>

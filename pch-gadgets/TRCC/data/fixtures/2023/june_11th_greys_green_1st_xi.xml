@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:55 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/june_11th_greys_green_1st_xi.xml-->
+<CricketMatch oppo="Greys Green 1st XI" date="Sun Jun 11 2023 13:30:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5736945">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Harry Leggett">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Yatish Singh"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Gilbert">
+      <HowOut how="Bowled"/>
+      <Bowler name="Barkat Ahmed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stuart Barrable">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Barkat Ahmed"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Simon Burr">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="Yatish Singh"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Tom Bielich">
+      <HowOut how="Bowled"/>
+      <Bowler name="Andrew Rugg"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Caught Matthew Skilleter"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Luke Jenkins"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Yatish Singh" overs="8" maidens="6" runs="5" wickets="2"/>
+    <BowlerSummary name="Barkat Ahmed" overs="6" maidens="4" runs="10" wickets="2"/>
+    <BowlerSummary name="Luke Jenkins" overs="7" maidens="2" runs="17" wickets="5"/>
+    <BowlerSummary name="Andrew Rugg" overs="4" maidens="1" runs="11" wickets="1"/>
+    <BowlerSummary name="Simon Stanger" overs="1" maidens="0" runs="2" wickets="0"/>
+  </Innings>
+  <Innings batting="Greys Green 1st XI">
+    <Batsman name="Nick Holroyd">
+      <HowOut how="LBW"/>
+      <Bowler name="Simon Burr"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Simon Stanger">
+      <HowOut how="Bowled"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Asa Attwell">
+      <HowOut how="Caught Ben Gilbert"/>
+      <Bowler name="Neil Lancum"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Craig Fox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Venkat Gudivaka"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Matthew Skilleter">
+      <HowOut how="Not Out"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Yatish Singh">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mohammed Shafqat">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Barkat Ahmed">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Luke Jenkins">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew Rugg">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="6"/>
+    <BowlerSummary name="Paul Hackett" overs="2" maidens="0" runs="11" wickets="0"/>
+    <BowlerSummary name="Harry Leggett" overs="2" maidens="0" runs="7" wickets="0"/>
+    <BowlerSummary name="Simon Burr" overs="4" maidens="1" runs="15" wickets="1"/>
+    <BowlerSummary name="Neil Lancum" overs="3" maidens="0" runs="8" wickets="2"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="1" maidens="0" runs="1" wickets="1"/>
+  </Innings>
+</CricketMatch>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:14 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/august_26th_sandhurst_cc__berks_2nd_xi.xml-->
+<CricketMatch oppo="Sandhurst CC_ Berks 2nd XI" date="Sat Aug 26 2023 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5611729">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Sandhurst CC_ Berks 2nd XI">
+    <Batsman name="Atif Qadar">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="50"/>
+    </Batsman>
+    <Batsman name="Sean Gale">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="Perry Lewington">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Sachin Malhi">
+      <HowOut how="Caught Harry Leggett"/>
+      <Bowler name="Zack Burr"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Shyam Shrestha">
+      <HowOut how="Run Out Marc Teal"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Nahian Chowdhury">
+      <HowOut how="Bowled"/>
+      <Bowler name="Harry Leggett"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Barrie Dixon">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="David Oliver">
+      <HowOut how="Not Out"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Archie Sanders">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Richard Dobson">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Max Oliver">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="39"/>
+    <FallOfWicket batsman="2" score="36"/>
+    <FallOfWicket batsman="3" score="40"/>
+    <FallOfWicket batsman="1" score="74"/>
+    <FallOfWicket batsman="4" score="79"/>
+    <FallOfWicket batsman="6" score="159"/>
+    <FallOfWicket batsman="5" score="173"/>
+    <FallOfWicket batsman="7" score="175"/>
+    <BowlerSummary name="Ben Nichols" overs="6.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Zack Burr" overs="8.0" maidens="1" runs="33" wickets="2"/>
+    <BowlerSummary name="Gagan Rajwadha" overs="6.0" maidens="1" runs="24" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="6.0" maidens="2" runs="15" wickets="1"/>
+    <BowlerSummary name="Harry Leggett" overs="5.0" maidens="0" runs="27" wickets="1"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nahian Chowdhury"/>
+      <Runs value="21"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Atif Qadar"/>
+      <Runs value="38"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Caught Nahian Chowdhury"/>
+      <Bowler name="Sachin Malhi"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Archie Sanders"/>
+      <Bowler name="Nahian Chowdhury"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Caught Shyam Shrestha"/>
+      <Bowler name="Atif Qadar"/>
+      <Runs value="14"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="28"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Zack Burr">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Gagan Rajwadha">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="71"/>
+    <FallOfWicket batsman="1" score="71"/>
+    <FallOfWicket batsman="4" score="73"/>
+    <FallOfWicket batsman="5" score="99"/>
+    <FallOfWicket batsman="3" score="181"/>
+    <BowlerSummary name="Sachin Malhi" overs="6.0" maidens="0" runs="42" wickets="1"/>
+    <BowlerSummary name="Archie Sanders" overs="5.0" maidens="0" runs="31" wickets="0"/>
+    <BowlerSummary name="Nahian Chowdhury" overs="8.0" maidens="1" runs="25" wickets="2"/>
+    <BowlerSummary name="Atif Qadar" overs="8.0" maidens="1" runs="38" wickets="2"/>
+    <BowlerSummary name="David Oliver" overs="4.0" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Max Oliver" overs="1.3" maidens="0" runs="11" wickets="0"/>
+  </Innings>
+</CricketMatch>

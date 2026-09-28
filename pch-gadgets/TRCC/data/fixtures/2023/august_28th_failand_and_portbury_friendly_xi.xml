@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:15 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/august_28th_failand_and_portbury_friendly_xi.xml-->
+<CricketMatch oppo="Failand and Portbury Friendly XI" date="Mon Aug 28 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6032869">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="Caught Mark Day"/>
+      <Bowler name="Thomas Child"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Child"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Child"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Richard James Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Child"/>
+      <Runs value="67"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Bowled"/>
+      <Bowler name="Mark Day"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Thomas Child"/>
+      <Runs value="60"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Caught Daniel Edson"/>
+      <Bowler name="Daniel Edson"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Caught Andrew John"/>
+      <Bowler name="Daniel Edson"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Caught Alexander Steel"/>
+      <Bowler name="Neil Harrison"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Caught Thomas Child"/>
+      <Bowler name="Neil Harrison"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="10"/>
+    <FallOfWicket batsman="1" score="0"/>
+    <FallOfWicket batsman="2" score="3"/>
+    <FallOfWicket batsman="3" score="14"/>
+    <FallOfWicket batsman="5" score="22"/>
+    <FallOfWicket batsman="4" score="140"/>
+    <FallOfWicket batsman="7" score="143"/>
+    <FallOfWicket batsman="6" score="143"/>
+    <FallOfWicket batsman="8" score="143"/>
+    <FallOfWicket batsman="10" score="174"/>
+    <FallOfWicket batsman="11" score="174"/>
+    <BowlerSummary name="Thomas Child" overs="8" maidens="3" runs="9" wickets="5"/>
+    <BowlerSummary name="Neil Harrison" overs="7.2" maidens="0" runs="41" wickets="2"/>
+    <BowlerSummary name="Joseph Marsden" overs="5" maidens="0" runs="42" wickets="0"/>
+    <BowlerSummary name="Mark Day" overs="8" maidens="1" runs="32" wickets="1"/>
+    <BowlerSummary name="Daniel Edson" overs="6" maidens="1" runs="49" wickets="2"/>
+  </Innings>
+  <Innings batting="Failand and Portbury Friendly XI">
+    <Batsman name="Ivor Wilson">
+      <HowOut how="Not Out"/>
+      <Runs value="63"/>
+    </Batsman>
+    <Batsman name="George Wrigley">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Joseph Marsden">
+      <HowOut how="LBW"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Rich Else">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ted Billing">
+      <HowOut how="Not Out"/>
+      <Runs value="76"/>
+    </Batsman>
+    <Batsman name="Alexander Steel">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Thomas Child">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Daniel Edson">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Andrew John">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Mark Day">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Neil Harrison">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="23"/>
+    <FallOfWicket batsman="" score="11"/>
+    <FallOfWicket batsman="" score="27"/>
+    <FallOfWicket batsman="" score="27"/>
+    <BowlerSummary name="Richard James Powell" overs="6" maidens="0" runs="24" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="5.3" maidens="1" runs="25" wickets="3"/>
+    <BowlerSummary name="Harry Leggett" overs="4" maidens="0" runs="27" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="3" maidens="0" runs="10" wickets="0"/>
+    <BowlerSummary name="Kieran Downes" overs="4" maidens="0" runs="23" wickets="0"/>
+    <BowlerSummary name="Stanley Fritz" overs="3" maidens="0" runs="8" wickets="0"/>
+    <BowlerSummary name="Lee Leggett" overs="3" maidens="0" runs="30" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="3" maidens="0" runs="20" wickets="0"/>
+  </Innings>
+</CricketMatch>

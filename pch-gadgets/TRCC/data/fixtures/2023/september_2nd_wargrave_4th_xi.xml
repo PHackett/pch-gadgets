@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:17 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/september_2nd_wargrave_4th_xi.xml-->
+<CricketMatch oppo="Wargrave 4th XI" date="Sat Sep 02 2023 13:00:00 +01:00 (BST)" matchType="League" team="2nd XI" playCricketId="5611739">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Matt Ackerman">
+      <HowOut how="LBW"/>
+      <Bowler name="Hitessh Lingala"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Stanley Fritz">
+      <HowOut how="Caught Kevin Whiteman"/>
+      <Bowler name="Sam Beale"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="65"/>
+    </Batsman>
+    <Batsman name="Ben Nichols">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Whitehead"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Marc Teal">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Whitehead"/>
+      <Runs value="88"/>
+    </Batsman>
+    <Batsman name="Rupesh Ahluwalia">
+      <HowOut how="Caught Kevin Whiteman"/>
+      <Bowler name="Steve Forster"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="31"/>
+    </Batsman>
+    <Batsman name="Spence Nichols">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Noel Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="28"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="4" score="31"/>
+    <FallOfWicket batsman="5" score="170"/>
+    <FallOfWicket batsman="6" score="174"/>
+    <BowlerSummary name="Hitessh Lingala" overs="8.0" maidens="2" runs="42" wickets="1"/>
+    <BowlerSummary name="Sam Beale" overs="8.0" maidens="2" runs="24" wickets="1"/>
+    <BowlerSummary name="Kevin Whiteman" overs="8.0" maidens="0" runs="34" wickets="0"/>
+    <BowlerSummary name="Jack Whitehead" overs="8.0" maidens="0" runs="47" wickets="2"/>
+    <BowlerSummary name="Kit Jeary" overs="2.0" maidens="0" runs="19" wickets="0"/>
+    <BowlerSummary name="Jonah Holloway" overs="1.0" maidens="0" runs="14" wickets="0"/>
+    <BowlerSummary name="Steve Forster" overs="5.0" maidens="0" runs="46" wickets="1"/>
+  </Innings>
+  <Innings batting="Wargrave 4th XI">
+    <Batsman name="Tom Tabrah">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Sam Beale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="Rajiv Dhallam">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="25"/>
+    </Batsman>
+    <Batsman name="Nandan Sant">
+      <HowOut how="Bowled"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="John Beale">
+      <HowOut how="Bowled"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Hitessh Lingala">
+      <HowOut how="Caught Matt Ackerman"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Kit Jeary">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Noel Downes"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Steve Forster">
+      <HowOut how="Caught Marc Teal"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jonah Holloway">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Jack Whitehead">
+      <HowOut how="Caught Stanley Fritz"/>
+      <Bowler name="Spence Nichols"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Kevin Whiteman">
+      <HowOut how="Not Out"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="17"/>
+    <FallOfWicket batsman="1" score="13"/>
+    <FallOfWicket batsman="2" score="20"/>
+    <FallOfWicket batsman="4" score="32"/>
+    <FallOfWicket batsman="5" score="49"/>
+    <FallOfWicket batsman="6" score="63"/>
+    <FallOfWicket batsman="3" score="67"/>
+    <FallOfWicket batsman="8" score="72"/>
+    <FallOfWicket batsman="10" score="88"/>
+    <BowlerSummary name="Ben Nichols" overs="6.0" maidens="4" runs="10" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="6.0" maidens="1" runs="7" wickets="2"/>
+    <BowlerSummary name="Harry Leggett" overs="4.0" maidens="1" runs="5" wickets="0"/>
+    <BowlerSummary name="Noel Downes" overs="8.0" maidens="0" runs="23" wickets="3"/>
+    <BowlerSummary name="Spence Nichols" overs="5.2" maidens="1" runs="21" wickets="4"/>
+    <BowlerSummary name="Stanley Fritz" overs="1.0" maidens="0" runs="15" wickets="0"/>
+  </Innings>
+</CricketMatch>

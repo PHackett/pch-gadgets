@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:10 +01:00 (BST)-->
+<!--Result = Cancelled-->
+<!--XMLFilename = 2023/august_6th_ashford_hill_sunday_xi.xml-->
+<CricketMatch oppo="Ashford Hill Sunday XI" date="Sun Aug 06 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5625624">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Extras value=""/>
+  </Innings>
+  <Innings batting="Ashford Hill Sunday XI">
+    <Extras value=""/>
+  </Innings>
+</CricketMatch>

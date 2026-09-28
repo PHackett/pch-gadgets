@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:04 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/july_23rd_ipsden_friendly_xi.xml-->
+<CricketMatch oppo="Ipsden Friendly XI" date="Sun Jul 23 2023 14:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6029731">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Ipsden Friendly XI">
+    <Batsman name="C Cox">
+      <HowOut how="Bowled"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="19"/>
+    </Batsman>
+    <Batsman name="J Watts">
+      <HowOut how="Caught Maaz Salman"/>
+      <Bowler name="Abhishek Mohanty"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="J Church">
+      <HowOut how="Caught Thomas Leggett"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="27"/>
+    </Batsman>
+    <Batsman name="C Rudling">
+      <HowOut how="Bowled"/>
+      <Bowler name="Maaz Salman"/>
+      <Runs value="59"/>
+    </Batsman>
+    <Batsman name="S Bennett">
+      <HowOut how="Not Out"/>
+      <Runs value="6"/>
+    </Batsman>
+    <Batsman name="D Houseman">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="J Hyde">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="T Tustian">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="J Withers">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="I Syed">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="M Hughesdon">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="12"/>
+    <BowlerSummary name="Maaz Salman" overs="7" maidens="1" runs="19" wickets="1"/>
+    <BowlerSummary name="Kavi Ghai" overs="6" maidens="1" runs="12" wickets="1"/>
+    <BowlerSummary name="Paul Hackett" overs="4" maidens="0" runs="17" wickets="0"/>
+    <BowlerSummary name="Neil Lancum" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Abhishek Mohanty" overs="7" maidens="1" runs="38" wickets="1"/>
+    <BowlerSummary name="Nic Downes" overs="4" maidens="0" runs="33" wickets="1"/>
+    <BowlerSummary name="George Brander" overs="3" maidens="0" runs="22" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Bowled"/>
+      <Bowler name="J Withers"/>
+      <Runs value="10"/>
+    </Batsman>
+    <Batsman name="Thomas Leggett">
+      <HowOut how="LBW"/>
+      <Bowler name="M Hughesdon"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Maaz Salman">
+      <HowOut how="LBW"/>
+      <Bowler name="M Hughesdon"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Syed"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Tustian"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Abhishek Mohanty">
+      <HowOut how="LBW"/>
+      <Bowler name="D Houseman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Lee Leggett">
+      <HowOut how="Not Out"/>
+      <Runs value="8"/>
+    </Batsman>
+    <Batsman name="Neil Lancum">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Tustian"/>
+      <Runs value="2"/>
+    </Batsman>
+    <Batsman name="George Brander">
+      <HowOut how="Bowled"/>
+      <Bowler name="I Syed"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Bowled"/>
+      <Bowler name="T Tustian"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="7"/>
+    <BowlerSummary name="M Hughesdon" overs="5" maidens="1" runs="14" wickets="2"/>
+    <BowlerSummary name="J Withers" overs="5" maidens="2" runs="6" wickets="1"/>
+    <BowlerSummary name="I Syed" overs="7" maidens="2" runs="7" wickets="2"/>
+    <BowlerSummary name="D Houseman" overs="3" maidens="0" runs="3" wickets="1"/>
+    <BowlerSummary name="T Tustian" overs="3.5" maidens="0" runs="18" wickets="3"/>
+  </Innings>
+</CricketMatch>

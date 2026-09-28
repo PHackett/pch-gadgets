@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:45:15 +01:00 (BST)-->
+<!--Result = Win-->
+<!--XMLFilename = 2023/august_27th_barrow_gurney_friendly_xi.xml-->
+<CricketMatch oppo="Barrow Gurney Friendly XI" date="Sun Aug 27 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="6008797">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Twyford">
+    <Batsman name="Adam Henley">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil Taylor"/>
+      <Runs value="37"/>
+    </Batsman>
+    <Batsman name="Harry Leggett">
+      <HowOut how="Bowled"/>
+      <Bowler name="Phil Taylor"/>
+      <Runs value="15"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Jack McGhee"/>
+      <Bowler name="Jonny Williams"/>
+      <Runs value="86"/>
+    </Batsman>
+    <Batsman name="Kieran Downes">
+      <HowOut how="Not Out"/>
+      <Runs value="51"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Not Out"/>
+      <Runs value="32"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Nic Downes">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Richard James Powell">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Tim Hogarth">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Ben Ackerman">
+      <HowOut how="Did Not Bat"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="20"/>
+    <FallOfWicket batsman="1" score="52"/>
+    <FallOfWicket batsman="2" score="69"/>
+    <FallOfWicket batsman="3" score="188"/>
+    <BowlerSummary name="Robert Moyse" overs="5" maidens="1" runs="21" wickets="0"/>
+    <BowlerSummary name="David Smith" overs="7" maidens="0" runs="36" wickets="0"/>
+    <BowlerSummary name="Phil Taylor" overs="7" maidens="1" runs="46" wickets="2"/>
+    <BowlerSummary name="Paul Gard" overs="7" maidens="0" runs="35" wickets="0"/>
+    <BowlerSummary name="Guy Fisher" overs="5" maidens="0" runs="48" wickets="0"/>
+    <BowlerSummary name="Jonny Williams" overs="4" maidens="0" runs="47" wickets="1"/>
+  </Innings>
+  <Innings batting="Barrow Gurney Friendly XI">
+    <Batsman name="Guy Fisher">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="9"/>
+    </Batsman>
+    <Batsman name="Jack McGhee">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Mark Forge">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Scott Fisher">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Gard">
+      <HowOut how="Caught Richard James Powell"/>
+      <Bowler name="Nic Downes"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Ben Hodges">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard James Powell"/>
+      <Runs value="23"/>
+    </Batsman>
+    <Batsman name="Ellie C Holdaway">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Tim Hogarth"/>
+      <Runs value="35"/>
+    </Batsman>
+    <Batsman name="Robert Moyse">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard James Powell"/>
+      <Runs value="30"/>
+    </Batsman>
+    <Batsman name="David Smith">
+      <HowOut how="Caught Adam Henley"/>
+      <Bowler name="Ben Ackerman"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Jonny Williams">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Phil Taylor">
+      <HowOut how="Bowled"/>
+      <Bowler name="Richard James Powell"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Extras value="36"/>
+    <FallOfWicket batsman="1" score="22"/>
+    <FallOfWicket batsman="3" score="22"/>
+    <FallOfWicket batsman="4" score="22"/>
+    <FallOfWicket batsman="2" score="31"/>
+    <FallOfWicket batsman="6" score="61"/>
+    <FallOfWicket batsman="5" score="76"/>
+    <FallOfWicket batsman="7" score="130"/>
+    <FallOfWicket batsman="9" score="146"/>
+    <FallOfWicket batsman="8" score="165"/>
+    <FallOfWicket batsman="11" score="165"/>
+    <BowlerSummary name="James West" overs="4" maidens="0" runs="25" wickets="0"/>
+    <BowlerSummary name="Ben Ackerman" overs="5" maidens="1" runs="41" wickets="5"/>
+    <BowlerSummary name="Nic Downes" overs="6" maidens="0" runs="22" wickets="1"/>
+    <BowlerSummary name="Richard James Powell" overs="3.4" maidens="1" runs="6" wickets="3"/>
+    <BowlerSummary name="Tim Hogarth" overs="6" maidens="0" runs="28" wickets="1"/>
+    <BowlerSummary name="Hugh Fort" overs="3" maidens="0" runs="39" wickets="0"/>
+  </Innings>
+</CricketMatch>

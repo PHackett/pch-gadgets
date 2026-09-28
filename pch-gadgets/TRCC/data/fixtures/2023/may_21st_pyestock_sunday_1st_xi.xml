@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Generated on Mon Sep 28 2026 14:44:50 +01:00 (BST)-->
+<!--Result = Lose-->
+<!--XMLFilename = 2023/may_21st_pyestock_sunday_1st_xi.xml-->
+<CricketMatch oppo="Pyestock Sunday 1st XI" date="Sun May 21 2023 13:00:00 +01:00 (BST)" matchType="Friendly" team="Friendly XI" playCricketId="5999549">
+  <MatchReport/>
+  <CountsToStats/>
+  <Innings batting="Pyestock Sunday 1st XI">
+    <Batsman name="Glenn Taylor">
+      <HowOut how="Caught Andrew Miller"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Dan Heath">
+      <HowOut how="Bowled"/>
+      <Bowler name="Paul Hackett"/>
+      <Runs value="78"/>
+    </Batsman>
+    <Batsman name="Jake Baldwin">
+      <HowOut how="Bowled"/>
+      <Bowler name="James West"/>
+      <Runs value="18"/>
+    </Batsman>
+    <Batsman name="Ben Bromley">
+      <HowOut how="LBW"/>
+      <Bowler name="Christopher Priddle"/>
+      <Runs value="45"/>
+    </Batsman>
+    <Batsman name="Ben Armes">
+      <HowOut how="Caught Thomas Powell"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="16"/>
+    </Batsman>
+    <Batsman name="Sam Armes">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="26"/>
+    </Batsman>
+    <Batsman name="Jack Bromley">
+      <HowOut how="Caught Christopher Priddle"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Chris Heath">
+      <HowOut how="Bowled"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Jon Ford">
+      <HowOut how="Not Out"/>
+      <Runs value="4"/>
+    </Batsman>
+    <Batsman name="Paul Bright">
+      <HowOut how="LBW"/>
+      <Bowler name="Kavi Ghai"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Daniel Ackehurst">
+      <HowOut how="Not Out"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Extras value="27"/>
+    <BowlerSummary name="Paul Hackett" overs="7" maidens="1" runs="30" wickets="2"/>
+    <BowlerSummary name="Kavi Ghai" overs="7" maidens="0" runs="44" wickets="5"/>
+    <BowlerSummary name="James West" overs="6" maidens="0" runs="25" wickets="1"/>
+    <BowlerSummary name="Andrew Miller" overs="1" maidens="0" runs="6" wickets="0"/>
+    <BowlerSummary name="Sandeep Pallithumbil" overs="3" maidens="0" runs="33" wickets="0"/>
+    <BowlerSummary name="Jonny Kirton" overs="3" maidens="0" runs="21" wickets="0"/>
+    <BowlerSummary name="Christopher Priddle" overs="4" maidens="0" runs="19" wickets="1"/>
+    <BowlerSummary name="Venkat Gudivaka" overs="4" maidens="0" runs="33" wickets="0"/>
+  </Innings>
+  <Innings batting="Twyford">
+    <Batsman name="Thomas Powell">
+      <HowOut how="Run Out Unsure"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Andrew Miller">
+      <HowOut how="Caught Jake Baldwin"/>
+      <Bowler name="Unsure"/>
+      <Runs value="7"/>
+    </Batsman>
+    <Batsman name="Christopher Priddle">
+      <HowOut how="Bowled"/>
+      <Bowler name="Jack Bromley"/>
+      <Runs value="41"/>
+    </Batsman>
+    <Batsman name="Sandeep Pallithumbil">
+      <HowOut how="Stumped Unsure"/>
+      <Bowler name="Jack Bromley"/>
+      <Runs value="3"/>
+    </Batsman>
+    <Batsman name="Hugh Fort">
+      <HowOut how="Caught Unsure"/>
+      <Bowler name="Sam Armes"/>
+      <Runs value="1"/>
+    </Batsman>
+    <Batsman name="Mike Longson">
+      <HowOut how="Bowled"/>
+      <Bowler name="Dan Heath"/>
+      <Runs value="36"/>
+    </Batsman>
+    <Batsman name="James West">
+      <HowOut how="Bowled"/>
+      <Bowler name="Ben Armes"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Batsman name="Jonny Kirton">
+      <HowOut how="Not Out"/>
+      <Runs value="12"/>
+    </Batsman>
+    <Batsman name="Kavi Ghai">
+      <HowOut how="Caught Glenn Taylor"/>
+      <Bowler name="Daniel Ackehurst"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Venkat Gudivaka">
+      <HowOut how="Caught Paul Bright"/>
+      <Bowler name="Paul Bright"/>
+      <Runs value="0"/>
+    </Batsman>
+    <Batsman name="Paul Hackett">
+      <HowOut how="Not Out"/>
+      <Runs value="5"/>
+    </Batsman>
+    <Extras value="16"/>
+    <BowlerSummary name="Chris Heath" overs="5" maidens="0" runs="32" wickets="0"/>
+    <BowlerSummary name="Sam Armes" overs="5" maidens="0" runs="21" wickets="1"/>
+    <BowlerSummary name="Dan Heath" overs="7" maidens="1" runs="28" wickets="1"/>
+    <BowlerSummary name="Jack Bromley" overs="7" maidens="0" runs="28" wickets="2"/>
+    <BowlerSummary name="Ben Armes" overs="4" maidens="0" runs="8" wickets="1"/>
+    <BowlerSummary name="Daniel Ackehurst" overs="3" maidens="0" runs="6" wickets="1"/>
+    <BowlerSummary name="Paul Bright" overs="2" maidens="0" runs="7" wickets="1"/>
+    <BowlerSummary name="Jake Baldwin" overs="2" maidens="0" runs="12" wickets="0"/>
+  </Innings>
+</CricketMatch>
